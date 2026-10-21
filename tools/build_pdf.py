@@ -458,7 +458,7 @@ class Catalogue:
             story.append(tbl(rows, [2.4 * inch, 0.9 * inch, 1.3 * inch, 1.5 * inch, 0.5 * inch, 0.4 * inch]))
             sub = 1
             for f in fams:
-                self.family_sheet(story, f, f"{no}.{sub}", parts_by_mfr[code])
+                self.family_sheet(story, f, f"{no}.{sub}", self.d["parts"])
                 sub += 1
             brk_parts = [p for p in parts_by_mfr[code] if not p["family_ids"] and p["breaker_ids"]]
             if brk_parts:

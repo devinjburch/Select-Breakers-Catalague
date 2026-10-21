@@ -6,4 +6,5 @@ python3 tools/merge.py "$@"
 python3 tools/normalize.py
 python3 tools/validate.py || { echo "Validation errors - fix data/ before publishing"; exit 1; }
 python3 tools/build_db.py
+python3 tools/build_html.py
 python3 tools/build_pdf.py
