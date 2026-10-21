@@ -5045,16 +5045,20 @@
   "name": "QMB Fusible Panelboard / QMB distribution (current design, Series E1)",
   "code": "QMB",
   "aliases": [
+   "Class 4620",
    "QMB fusible",
-   "QMB-QMJ",
-   "Class 4620"
+   "QMB switchboard",
+   "QMB-QMJ"
   ],
   "brand_markings": [
+   "Schneider Electric",
    "Square D"
   ],
   "equipment_type": "panelboard",
   "overview": "Extruded-bus fusible distribution system used both as stand-alone panelboards and as the QMB distribution section of QED-2 / Speed-D switchboards. Branch units have permanently attached mounting brackets and blow-on plug-on jaws onto the QMB bus and mount with a screwdriver; glass-reinforced polyester bus supports. ISCR up to 200 kA at 600 Vac with Class R/J/L/T fuses.",
-  "overview_notes": [],
+  "overview_notes": [
+   "Square D fusible-switch panelboard/switchboard; QMBHW and QMBJW adapter units allow H- and J-frame breakers to plug onto QMB bus (spring nuts in mounting rails, 1/4-20 unit mounting screws at 30 lb-in). Included only for breaker-adapter hardware."
+  ],
   "claims": {
    "standards": [
     {
@@ -5090,6 +5094,13 @@
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "unknown",
+     "conf": "D",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0003-squared-panelboards"
     }
    ],
    "voltage_rating": [
@@ -5131,8 +5142,9 @@
    ]
   },
   "source_ids": [
+   "SRC-00026",
    "SRC-00028",
-   "SRC-00026"
+   "SRC-00233"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
@@ -5142,23 +5154,27 @@
   "name": "I-Line Circuit Breaker Panelboard / I-Line distribution section",
   "code": "I-LINE",
   "aliases": [
-   "I Line",
-   "ILine",
+   "Class 2110",
+   "HCJ",
+   "HCM",
+   "HCN",
    "HCP",
    "HCP-SU",
    "HCR-U",
    "HCW",
-   "HCM",
-   "HCJ",
-   "HCN",
-   "Class 2110"
+   "I Line",
+   "I-Line Combo (CP...)",
+   "ILine"
   ],
   "brand_markings": [
+   "Schneider Electric",
    "Square D"
   ],
   "equipment_type": "panelboard",
   "overview": "Plug-on I-Line bus stack: breaker line-end jaws are integral to the breaker, shrouded in a molded insulator that keys into slots in the bus support base, are factory lubricated/preset and are 'blow-on'. The load end is held by an integral mounting bracket/foot screwed to the interior pan. The same interiors, fillers and extensions are used in QED switchboard I-Line distribution sections.",
-  "overview_notes": [],
+  "overview_notes": [
+   "Square D 600 Vac / 250 Vdc distribution panelboard with plug-on I-Line breakers mounted on a bus-bar stack; breaker held by mounting bracket fingers in pan keyslots and a retaining screw into a 7/32 in. pan hole. Interior types HCJ/HCM (32 in. wide, 250 A max branch), HCP-SU (single row, 26 in.), HCP (42 in.), HCR-U (44 in.). Unused spaces must be closed with blank fillers (HNM1BL/HNM4BL) and blank extensions (HLW/HLN). Solid neutral, sub-feed lug and SE barrier kits are merchandised."
+  ],
   "claims": {
    "qed_compat": [
     {
@@ -5200,7 +5216,8 @@
      "value": "current",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00027",
+      "SRC-00177"
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
@@ -5216,6 +5233,16 @@
      "page": "pp. 2, 8",
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "600 Vac, 250 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "Section 9 TOC",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
     }
    ],
    "branch_breakers": [
@@ -5228,13 +5255,40 @@
      "page": "pp. 8-11",
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "I-Line plug-on: BD/BG/BJ, QB/QD/QG/QJ, HD/HG/HJ/HL/HR, JD/JG/JJ/JL/JR, LA/LH, LG/LJ/LL/LR, MG/MJ, PG/PJ/PL, RG/RJ/RL (by interior type)",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-51",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "400-1200 A (HCJ 400-800 A; HCP/HCR-U to 1200 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00177",
+      "SRC-00180"
+     ],
+     "page": "p. 9-51 to 9-57",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
     }
    ]
   },
   "source_ids": [
    "SRC-00027",
+   "SRC-00029",
    "SRC-00036",
-   "SRC-00029"
+   "SRC-00177",
+   "SRC-00178",
+   "SRC-00180",
+   "SRC-00181"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
@@ -5309,6 +5363,387 @@
    "SRC-00074"
   ],
   "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "FAM-SQD-006",
+  "mfr": "SQD",
+  "name": "NQ panelboard (Class 1640)",
+  "code": "NQ",
+  "aliases": [
+   "NQ lighting panelboard",
+   "NQ RTI",
+   "NQ14 (14-inch-wide)"
+  ],
+  "brand_markings": [
+   "Square D",
+   "Schneider Electric"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Current Square D 240 Vac / 48 Vdc lighting and appliance panelboard, 20 in. wide MH box (14 in. NQ14 variant), merchandised as ready-to-install (RTI) interiors plus field-installable kits (main breaker adapter kits NQMB*, sub-feed/feed-through lug kits, neutral kits, rail/deadfront extensions). Accepts QO plug-on and QOB bolt-on branch breakers; tandem breakers not allowed. Mains 100-600 A main lug or main breaker (QOB/QOB-VH back-fed, PowerPacT Q/H/J vertical, LA/LH, PowerPacT L).",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "2008-present (replaced NQOD in 2008)",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-7 ff.",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "240 Vac, 48 Vdc max",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "100, 225, 400, 600 A merchandised (250 A main breaker interiors factory-assembled only)",
+     "conf": "A",
+     "src": [
+      "SRC-00177",
+      "SRC-00179"
+     ],
+     "page": "p. 9-9/9-10",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "QO plug-on and QOB bolt-on (incl. -VH, -H, AFCI/GFI); 175/200 A QO only in single-phase 400/600 A interiors",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-9 footnotes",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00177",
+   "SRC-00179",
+   "SRC-00236",
+   "SRC-00178",
+   "SRC-00182"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "FAM-SQD-007",
+  "mfr": "SQD",
+  "name": "NQOD panelboard (Class 1630)",
+  "code": "NQOD",
+  "aliases": [
+   "NQOD lighting panelboard"
+  ],
+  "brand_markings": [
+   "Square D",
+   "Schneider Electric"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Predecessor of NQ; accepted QO plug-on and QOB bolt-on breakers. Sold 1987-2008. Schneider states NQ is the replacement but not a direct one: interior, box and trim must be replaced (e.g. NQOD30L400CU -> NQ30L4C plus new box/trim). All NQOD main breaker kits obsolete as of April 2016; branch connector kit SKNQOD225 existed for <=225 A interiors.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "1987-2008",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete",
+     "conf": "A",
+     "src": [
+      "SRC-00236",
+      "SRC-00237"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "successor": [
+    {
+     "value": "NQ (not a direct replacement; replace interior, box and trim)",
+     "conf": "A",
+     "src": [
+      "SRC-00238",
+      "SRC-00237"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "QO / QOB",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00236",
+   "SRC-00237",
+   "SRC-00238",
+   "SRC-00234",
+   "SRC-00184"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "FAM-SQD-008",
+  "mfr": "SQD",
+  "name": "NQO / NQOB panelboard",
+  "code": "NQO",
+  "aliases": [
+   "NQOB"
+  ],
+  "brand_markings": [
+   "Square D",
+   "Schneider Electric"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Early Square D three-phase lighting panelboards using Q1/Q1B plug-on and bolt-on breakers, developed late 1960s and obsoleted 1987 (replaced by NQOD). No kit data found in this batch.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "late 1960s-1987",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "successor": [
+    {
+     "value": "NQOD (1987), then NQ (2008)",
+     "conf": "B",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "inference",
+     "note": "Sequence inferred from FAQ timelines",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "Q1 / Q1B",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00236"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "FAM-SQD-009",
+  "mfr": "SQD",
+  "name": "NF panelboard (Class 1670)",
+  "code": "NF",
+  "aliases": [
+   "NF Series 0",
+   "NF Series E1",
+   "NFOM"
+  ],
+  "brand_markings": [
+   "Square D",
+   "Schneider Electric"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Square D 480Y/277 Vac (600Y/347 Vac max) lighting panelboard using E-frame bolt-on branch breakers (EDB/EGB/EJB, 15-125 A). Series 0 introduced 1995 replacing NEHB; Series E1 from October 2008. Merchandised RTI interiors with field kits: main breaker adapter kits (N150MH, N250MJ, N400M, N600MPPL), sub-feed/feed-through lugs, neutral kits, branch connector kits SKNF250/SKNF600. Maximum branch breaker pair combination 170 A.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "Series 0: 1995-Oct 2008; Series E1: Oct 2008-present",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-29 ff.",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "600Y/347 Vac max (480Y/277 Vac with EDB/EGB/EJB US breakers)",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-31, 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "125, 250, 400, 600 A merchandised; 800 A factory assembled",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-31",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "EDB, EGB, EJB (E-frame bolt-on); EDB/EGB/EJB EPD",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00177",
+   "SRC-00236",
+   "SRC-00198",
+   "SRC-00178"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "FAM-SQD-010",
+  "mfr": "SQD",
+  "name": "NEHB panelboard",
+  "code": "NEHB",
+  "aliases": [
+   "NEHB lighting panelboard"
+  ],
+  "brand_markings": [
+   "Square D",
+   "Schneider Electric"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Square D 480Y/277 V lighting panelboard using EH plug-on / EHB bolt-on breakers, manufactured 1983-1995 and replaced by NF. EH/EHB breakers reported no longer available. No NEHB kit part numbers were found in this batch.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "1983-1995",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete (1995)",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "successor": [
+    {
+     "value": "NF (uses EDB/EGB/EJB)",
+     "conf": "C",
+     "src": [
+      "SRC-00240"
+     ],
+     "basis": "oem_spec",
+     "note": "Seen only as search snippet of OEM FAQ FA166748 (page blocked)",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "EH (plug-on), EHB (bolt-on)",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00236",
+   "SRC-00240"
+  ],
+  "created_batch": "B0003-squared-panelboards"
  },
  {
   "id": "FAM-ZIN-001",

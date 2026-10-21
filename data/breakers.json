@@ -9660,6 +9660,571 @@
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
+  "id": "BRK-SQD-028",
+  "mfr": "SQD",
+  "name": "QO (plug-on)",
+  "aliases": [
+   "QO-VH",
+   "QO-H",
+   "QOH"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "120/240 Vac; 48 Vdc where DC rated",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-029",
+  "mfr": "SQD",
+  "name": "QOB (bolt-on)",
+  "aliases": [
+   "QOB-VH",
+   "QOB-H",
+   "QOB-HID"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on to NQ branch connectors; may also be used back-fed as 100-150 A main",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-030",
+  "mfr": "SQD",
+  "name": "EDB / EGB / EJB (E-frame bolt-on)",
+  "aliases": [
+   "ED",
+   "EG",
+   "EJ",
+   "EDB EPD"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on to NF branch connectors; EDB 3P 125 A can be back-fed as main with NFEDBS",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-31, 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1, 2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-70 A (1P), 15-125 A (2P/3P)",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "480Y/277 Vac (US); 600Y/347 Vac versions via se.com/ca",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "EDB 18 kA, EGB 35 kA, EJB 65 kA @ 480Y/277 V",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-009"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-031",
+  "mfr": "SQD",
+  "name": "EH / EHB",
+  "aliases": [
+   "EH plug-on",
+   "EHB bolt-on"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "EH plug-on; EHB bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00236"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete / no longer available",
+     "conf": "C",
+     "src": [
+      "SRC-00240"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-010"
+  ],
+  "source_ids": [
+   "SRC-00236",
+   "SRC-00240"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-032",
+  "mfr": "SQD",
+  "name": "PowerPacT Q-frame (QB/QD/QG/QJ)",
+  "aliases": [
+   "QBL",
+   "QDL",
+   "QGL",
+   "QJL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "in NQ: vertical main/sub-feed on adapter pan (NQMB2Q/NQSFB2Q) with lug wires; I-Line plug-on in HCJ",
+     "conf": "A",
+     "src": [
+      "SRC-00177",
+      "SRC-00185"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "Q",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-033",
+  "mfr": "SQD",
+  "name": "PowerPacT H-frame (HD/HG/HJ/HL/HR)",
+  "aliases": [
+   "HDL",
+   "HGL",
+   "HJL",
+   "HLL",
+   "HRL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37444 with hard-bus connectors",
+     "conf": "A",
+     "src": [
+      "SRC-00187",
+      "SRC-00211"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "H (150 A max)",
+     "conf": "A",
+     "src": [
+      "SRC-00187"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-034",
+  "mfr": "SQD",
+  "name": "PowerPacT J-frame (JD/JG/JJ/JL/JR)",
+  "aliases": [
+   "JDL",
+   "JGL",
+   "JJL",
+   "JLL",
+   "JRL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37445",
+     "conf": "A",
+     "src": [
+      "SRC-00187",
+      "SRC-00211"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "J (250 A max)",
+     "conf": "A",
+     "src": [
+      "SRC-00187"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-035",
+  "mfr": "SQD",
+  "name": "LA / LH (L-frame, legacy thermal-magnetic)",
+  "aliases": [
+   "LAL",
+   "LHL",
+   "LAL36400MB"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "NQMB4LA / N400M; order short-handle breaker (e.g. LAL36400MB)",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-9 fn",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "LA/LH 125-400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-036",
+  "mfr": "SQD",
+  "name": "PowerPacT L-frame (LG/LJ/LL/LR)",
+  "aliases": [
+   "PPL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "NQMB6PPL / N600MPPL kits; requires 8.75 in. deep D9 boxes; M10x25 connector screws 442 lb-in",
+     "conf": "A",
+     "src": [
+      "SRC-00177",
+      "SRC-00230"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "L 125-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00177"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-037",
+  "mfr": "SQD",
+  "name": "KI / KC frame (legacy)",
+  "aliases": [
+   "KI",
+   "KC",
+   "N250MKC"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "K (225/250 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00188"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "legacy (kits dated 2008-2009)",
+     "conf": "C",
+     "src": [
+      "SRC-00188"
+     ],
+     "basis": "inference",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-007"
+  ],
+  "source_ids": [
+   "SRC-00188",
+   "SRC-00212"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-038",
+  "mfr": "SQD",
+  "name": "FI frame (legacy)",
+  "aliases": [
+   "FI"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "F (100 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00212"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-009"
+  ],
+  "source_ids": [
+   "SRC-00212"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-039",
+  "mfr": "SQD",
+  "name": "PowerPacT M / P / R frame (I-Line)",
+  "aliases": [
+   "MG",
+   "MJ",
+   "PG",
+   "PJ",
+   "PK",
+   "PL",
+   "RG",
+   "RJ",
+   "RK",
+   "RL"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "M 800 A, P up to 1200 A, R 1200 A",
+     "conf": "B",
+     "src": [
+      "SRC-00177"
+     ],
+     "basis": "oem_spec",
+     "note": "Ampacity limits inferred from I-Line sub-feed table",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "source_ids": [
+   "SRC-00177"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
   "id": "BRK-ZIN-001",
   "mfr": "ZIN",
   "name": "Zinsco Q / QC / QB / QFP / QFL / QFB (Magnatrip)",

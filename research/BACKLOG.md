@@ -57,6 +57,13 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0074 — Eaton CH/BR retrofit kits current status** (B0009-legacy-other-manufacturers)  
   Verify whether RACH*/RBCH*/RCCH*/RDCH*/RABR*/RBBR*/RCBR*/RDBR*/REBR*/RAABR* kit numbers are still orderable (Lincoln Flex Center 800-330-6479) and find the original Eaton publication number/date; look for 480Y/277 V retrofit (PRL-based) offerings and Square D/Siemens equivalents.  
   URLs: https://inspectapedia.com/fpe/CHRetrofitGuide.pdf
+* **LEAD-0084 — NQOD / NEHB legacy kit part numbers** (B0003-squared-panelboards)  
+  No OEM table of NQOD main breaker kits (bulletin 80043-699-03 covers a 250 A NQOD main kit but prints no catalog number), NQOD neutral/lug kits or NEHB kits found. Search Supplemental and Obsolescence Digest (Digest Plus 'Supplemental and Obsolescence Digest') and older Digest 170-175 PDFs for NQOD/NEHB accessory tables.  
+  Docs: 80043-699-03, 80043-687-03  
+  URLs: https://productinfo.se.com/nadigest/
+* **LEAD-0085 — SKNQOD225 finger part numbers for reproduction** (B0003-squared-panelboards)  
+  OEM FAQ FA124209 gives component numbers 80110-005-01 (A/C finger), 80110-006-01 (B finger), 80025-068-01 (screw). Obtain drawings/dimensions; check whether a 400 A NQOD connector kit existed.  
+  URLs: https://www.se.com/us/en/faqs/FA124209
 
 ## Priority 2
 
@@ -164,6 +171,15 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0078 — Challenger PM4a/PM4b panelboard documentation** (B0009-legacy-other-manufacturers)  
   Identify Challenger panelboard types (PM4a, PM4b) and the breaker frames for C?D?K kits; check whether Eaton KPRL4C*/KPRL4AC*/KPRL4BC* kits are Eaton OEM conversion kits for Challenger breakers in PRL4. Possibly overlaps Eaton batches (B0001/B0002).  
   URLs: https://www.relectric.com/part-catalog/challenger-circuit-breaker-parts-and-accessories
+* **LEAD-0086 — NQ/NF branch connector part numbers inside SKNQBC/SKNF250/SKNF600** (B0003-squared-panelboards)  
+  Bulletins 80043-735-01 and 80043-767-01 give contents but not component part numbers or dimensions. SKNF250 torque text is internally inconsistent (30-40 lb-in vs 6.74-8.99 N-m).  
+  Docs: 80043-735-01, 80043-767-01
+* **LEAD-0087 — Bulletin number scan gaps** (B0003-squared-panelboards)  
+  download.schneider-electric.com accepts p_Doc_Ref=<doc number> (browser UA); HEAD scan found 80043-6xx..8xx bulletins, but rate-limiting (403) means some numbers were missed. 80043-0xx..5xx was scanned single-pass (only 9 hits) - rescan slowly with suffixes -01..-06. Also scan 48041-xxx and 80030-xxx series.  
+  Docs: 80043-xxx, 48041-xxx, 80030-xxx
+* **LEAD-0088 — Downloaded but not yet mined bulletins** (B0003-squared-panelboards)  
+  80043-616-03 / 80043-449-03 (I-Line 4-piece trim & door kits), 80043-660-04 (HCP trim), 80043-706-02 & 80043-789-01 (I-Line CT neutral bonding), 80043-817/818/820/822/826-01 (fingersafe replacement parts QOFSBF, QOFSLALB, QOFSHALB, NQHJLSC, NQQLSC, NQLALHLSC, NQMLLSC, NQNCC), 80043-844-01 (RPINTBK800HCP, RPINTBK1200HCPC, RPINTBK1200HCR barrier kits), 80043-772-01 (quarter-turn fastener kit, LP9503), 80043-773-01 (endwall/closing plate MHCOEW20A/F), 80043-350-04 (box extension), 80043-455-04 / 80043-771-01 / 80043-850-01 (MH WP enclosures), 80043-252-04 (MH NEMA 4/4X). Only some copied to library; re-download as needed.  
+  Docs: 80043-616-03, 80043-449-03, 80043-660-04, 80043-706-02, 80043-789-01, 80043-817-01, 80043-822-01, 80043-826-01, 80043-844-01, 80043-772-01, 80043-773-01, 80043-350-04
 
 ## Priority 3
 
@@ -253,6 +269,18 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   URLs: https://www.relectric.com/part-catalog/frank-adams-circuit-breaker-parts-and-accessories
 * **LEAD-0083 — FPE catalog number structure** (B0009-legacy-other-manufacturers)  
   Decode FPE breaker catalog numbers (e.g., NEF431100, NJL631175, HEF213020: digit meanings for voltage/poles/IC) from an FPE/American price list.
+* **LEAD-0089 — I-Line SE replacement side covers and combo SE kits** (B0003-squared-panelboards)  
+  IB 80043-839-01 Table 2 (ILBFMHCJHJUL, ILBFMHCPHJUL, ILBFMHCPRLUL, ILBFMHCPMPHCRMUL, ILBFMHCRPRUL) and Table 4 (ILCOMBLUL26W/32W/44W, ILCOMBMPUL26W/32W/44W) and M-frame lug covers ILMLC2W/3W/4W not entered as parts.  
+  Docs: 80043-839-01
+* **LEAD-0090 — MH box family** (B0003-squared-panelboards)  
+  Standard MH boxes MH26..MH92 (20 in. W x 5.75 in. D, height = number, BE suffix = both endwalls blank, WP = Type 3R/5/12) and NC trims NCxx(F/S)(HR) not entered individually; tables on Digest pp. 9-9/9-10, 9-31. MH..D9 entered.  
+  Docs: 0100CT2401-SEC-09
+* **LEAD-0091 — SurgeLoc SPD for NQ** (B0003-squared-panelboards)  
+  Digest p. 9-19 lists SSP01SBA08D..24D (120/240 V), SSP02SBA08D..24D (208Y/120 V), SSP03SBA24D (240/120 high-leg delta) plug-on SPDs; 96-space interiors needed in 84-ckt NQ; ref 998-21173700_GMA-US (downloaded). Not entered as parts.  
+  Docs: 998-21173700_GMA-US
+* **LEAD-0092 — I-Line breaker mounting hardware** (B0003-squared-panelboards)  
+  No separately cataloged I-Line breaker mounting bracket / retaining screw kit found; manual 80043-309-20 describes bracket fingers into pan keyslots, retaining screw in 7/32 in. hole, PJC-7201 joint compound. Look for renewal parts list for HCP/HCR-U bus stacks and Supplemental Digest I-Line legacy (HCN, HCW, HCM) interiors.  
+  Docs: 80043-309-20
 
 ## Priority 4
 
@@ -270,4 +298,10 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   NBK01A-03A (P1), NBK3-8 (P2/P3), LPDC01/02, MCHK, LPJSPDNUT01, LPTS01, LP3RHP01, LPKEY01A/B (key B363A), LPLOCK01A/02A/03A (FAS-Latch, 11-1895-61/62/63), XTP060 touch-up paint - listed on pp.11-20, 11-21, 11-54; not catalogued as parts.
 * **LEAD-0069 — Siemens 3TC1QR250 vs 3TC1QR2520** (B0008-breaker-terminal-kits-ge-siemens)  
   P. 7-40 prints 3TC1QR250 and p. 7-155 prints 3TC1QR2520. Resolve with a distributor listing.
+* **LEAD-0093 — NF L-frame bulletin 80043-766-03 catalog number** (B0003-squared-panelboards)  
+  Bulletin does not print catalog number in text extraction; confirm it is N400M (and older LA/LH kit numbers).  
+  Docs: 80043-766-03
+* **LEAD-0094 — NQ 14 in. neutral bonding screw and NF gutter bonding strap catalog numbers** (B0003-squared-panelboards)  
+  Bulletins 80043-786-01 and 80043-768-01 give contents/torque (10-12 lb-in; 20-25 lb-in) but no catalog numbers; 80043-770-01 (NF column-width connector kit) likewise.  
+  Docs: 80043-786-01, 80043-768-01, 80043-770-01
 

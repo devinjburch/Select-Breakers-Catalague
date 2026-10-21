@@ -157,6 +157,18 @@ BRK-SQD-024,SQD,Square D PowerPact M-Frame (MG/MJ),MG; MJ,,PowerPact M,,up to 80
 BRK-SQD-025,SQD,Square D PowerPact P-Frame (PG/PJ/PL),PG; PJ; PL,,PowerPact P,,up to 1200 A,,,
 BRK-SQD-026,SQD,Square D PowerPact R-Frame (RG/RJ/RL),RG; RJ; RL,,PowerPact R,,up to 3000 A (1200 A tapped lug listed),,,
 BRK-SQD-027,SQD,Square D PowerPact D-Frame (DG/DJ/DL),DG; DJ; DL,,PowerPact D,,150-600 A,,,
+BRK-SQD-028,SQD,QO (plug-on),QO-VH; QO-H; QOH,plug-on,,,,120/240 Vac; 48 Vdc where DC rated,current,NQ; NQOD
+BRK-SQD-029,SQD,QOB (bolt-on),QOB-VH; QOB-H; QOB-HID,bolt-on to NQ branch connectors; may also be used back-fed as 100-150 A main,,,,,current,NQ; NQOD
+BRK-SQD-030,SQD,EDB / EGB / EJB (E-frame bolt-on),ED; EG; EJ; EDB EPD,bolt-on to NF branch connectors; EDB 3P 125 A can be back-fed as main with NFEDBS,,"1, 2, 3","15-70 A (1P), 15-125 A (2P/3P)",480Y/277 Vac (US); 600Y/347 Vac versions via se.com/ca,current,NF
+BRK-SQD-031,SQD,EH / EHB,EH plug-on; EHB bolt-on,EH plug-on; EHB bolt-on,,,,,obsolete / no longer available,NEHB
+BRK-SQD-032,SQD,PowerPacT Q-frame (QB/QD/QG/QJ),QBL; QDL; QGL; QJL,in NQ: vertical main/sub-feed on adapter pan (NQMB2Q/NQSFB2Q) with lug wires; I-Line plug-on in HCJ,Q,,,,,NQ; I-LINE
+BRK-SQD-033,SQD,PowerPacT H-frame (HD/HG/HJ/HL/HR),HDL; HGL; HJL; HLL; HRL,NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37444 with hard-bus connectors,H (150 A max),,,,,NQ; NF; I-LINE
+BRK-SQD-034,SQD,PowerPacT J-frame (JD/JG/JJ/JL/JR),JDL; JGL; JJL; JLL; JRL,NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37445,J (250 A max),,,,,NQ; NF; I-LINE
+BRK-SQD-035,SQD,"LA / LH (L-frame, legacy thermal-magnetic)",LAL; LHL; LAL36400MB,NQMB4LA / N400M; order short-handle breaker (e.g. LAL36400MB),LA/LH 125-400 A,,,,,NQ; NF; I-LINE
+BRK-SQD-036,SQD,PowerPacT L-frame (LG/LJ/LL/LR),PPL,NQMB6PPL / N600MPPL kits; requires 8.75 in. deep D9 boxes; M10x25 connector screws 442 lb-in,L 125-600 A,,,,,NQ; NF; I-LINE
+BRK-SQD-037,SQD,KI / KC frame (legacy),KI; KC; N250MKC,,K (225/250 A),,,,legacy (kits dated 2008-2009),NQ; NF; NQOD
+BRK-SQD-038,SQD,FI frame (legacy),FI,,F (100 A),,,,,NF
+BRK-SQD-039,SQD,PowerPacT M / P / R frame (I-Line),MG; MJ; PG; PJ; PK; PL; RG; RJ; RK; RL,,"M 800 A, P up to 1200 A, R 1200 A",,,,,I-LINE; NF
 BRK-ZIN-001,ZIN,Zinsco Q / QC / QB / QFP / QFL / QFB (Magnatrip),Q; QC; QCN; Q24; QB; QCB; QCAL; QFP; QFL; QFB; QFBL; R38; RC38; Magnatrip; UBIZ (Connecticut Electric replacement),"plug-in (Q/QC/R38, QFP mains) and bolt-on (QB/QCB/QFB) onto on-edge flat bus",,,15-225 A,"120/240 V; 240 V 3-ph (Q24, QFP24, QB243xxx)",Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,ZIN-Q; ZIN-DIST
 BRK-ZIN-002,ZIN,Zinsco / Sylvania QSF fusible panelboard switch,QSF; QSF-T (twin); QSF-xx33 (240 V); QSF-xx53 (600 V),bolt-on panel mounted switch unit,,,30-600 A,240 V / 600 V,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,ZIN-DIST; FA
 BRK-ZIN-003,ZIN,Sylvania S-series bolt-on breakers (SE / SEH / SF / SJD / SJK / SKM),SE; SEH; SF; SJD; SJK; SKM; Challenger SF,bolt-on,,,15-800 A (SEH to 100 A; SF to 175 A; SJK 250-600 A; SKM 800 A),240/480/600 V,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,ZIN-DIST; CHA-PM4
