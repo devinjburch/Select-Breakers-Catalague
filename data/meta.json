@@ -1,10 +1,10 @@
 {
  "counters": {
-  "SRC": 643,
+  "SRC": 647,
   "FAM-EAT": 41,
   "BRK-EAT": 68,
-  "EDH-EAT": 1012,
-  "LEAD": 154,
+  "EDH-EAT": 1335,
+  "LEAD": 161,
   "FAM-SQD": 15,
   "BRK-SQD": 43,
   "EDH-SQD": 969,
@@ -47,7 +47,7 @@
    "merged": "2026-10-21",
    "file": "B0002-eaton-switchboards-legacy.json",
    "stats": {
-    "sources_new": 13,
+    "sources_new": 14,
     "families_new": 10,
     "breakers_new": 32,
     "parts_new": 38,
@@ -58,16 +58,32 @@
    }
   },
   {
+   "batch_id": "B0003-squared-panelboards",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0003-squared-panelboards.json",
+   "stats": {
+    "sources_new": 67,
+    "families_new": 7,
+    "breakers_new": 12,
+    "parts_new": 220,
+    "parts_updated": 0,
+    "leads_new": 11,
+    "docs_filed": 0,
+    "batch": "B0003-squared-panelboards"
+   }
+  },
+  {
    "batch_id": "B0004-squared-switchboards",
    "date": "2026-10-21",
    "merged": "2026-10-21",
    "file": "B0004-squared-switchboards.json",
    "stats": {
     "sources_new": 49,
-    "families_new": 5,
+    "families_new": 3,
     "breakers_new": 13,
-    "parts_new": 176,
-    "parts_updated": 1,
+    "parts_new": 158,
+    "parts_updated": 19,
     "leads_new": 13,
     "docs_filed": 0,
     "batch": "B0004-squared-switchboards"
@@ -114,8 +130,8 @@
     "sources_new": 18,
     "families_new": 0,
     "breakers_new": 26,
-    "parts_new": 381,
-    "parts_updated": 8,
+    "parts_new": 379,
+    "parts_updated": 10,
     "leads_new": 7,
     "docs_filed": 0,
     "batch": "B0007-breaker-terminal-kits-eaton-squared"
@@ -149,56 +165,8 @@
     "parts_new": 152,
     "parts_updated": 1,
     "leads_new": 14,
-    "docs_filed": 1,
-    "batch": "B0009-legacy-other-manufacturers"
-   }
-  },
-  {
-   "batch_id": "B0003-squared-panelboards",
-   "date": "2026-10-21",
-   "merged": "2026-10-21",
-   "file": "B0003-squared-panelboards.json",
-   "stats": {
-    "sources_new": 66,
-    "families_new": 5,
-    "breakers_new": 12,
-    "parts_new": 200,
-    "parts_updated": 20,
-    "leads_new": 11,
-    "docs_filed": 56,
-    "batch": "B0003-squared-panelboards"
-   }
-  },
-  {
-   "batch_id": "B0012-archival-legacy-panelboards",
-   "date": "2026-10-21",
-   "merged": "2026-10-21",
-   "file": "B0012-archival-legacy-panelboards.json",
-   "stats": {
-    "sources_new": 29,
-    "families_new": 18,
-    "breakers_new": 14,
-    "parts_new": 135,
-    "parts_updated": 21,
-    "leads_new": 12,
     "docs_filed": 0,
-    "batch": "B0012-archival-legacy-panelboards"
-   }
-  },
-  {
-   "batch_id": "B0011-docs-ge-squared",
-   "date": "2026-10-21",
-   "merged": "2026-10-21",
-   "file": "B0011-docs-ge-squared.json",
-   "stats": {
-    "sources_new": 38,
-    "families_new": 0,
-    "breakers_new": 0,
-    "parts_new": 179,
-    "parts_updated": 133,
-    "leads_new": 9,
-    "docs_filed": 38,
-    "batch": "B0011-docs-ge-squared"
+    "batch": "B0009-legacy-other-manufacturers"
    }
   },
   {
@@ -213,24 +181,72 @@
     "parts_new": 208,
     "parts_updated": 252,
     "leads_new": 7,
-    "docs_filed": 151,
+    "docs_filed": 0,
     "batch": "B0010-docs-eaton-siemens"
    }
   },
   {
-   "batch_id": "B0016-aftermarket-retrofit",
+   "batch_id": "B0011-docs-ge-squared",
    "date": "2026-10-21",
    "merged": "2026-10-21",
-   "file": "B0016-aftermarket-retrofit.json",
+   "file": "B0011-docs-ge-squared.json",
    "stats": {
-    "sources_new": 23,
-    "families_new": 2,
-    "breakers_new": 4,
-    "parts_new": 172,
-    "parts_updated": 132,
-    "leads_new": 8,
-    "docs_filed": 3,
-    "batch": "B0016-aftermarket-retrofit"
+    "sources_new": 38,
+    "families_new": 0,
+    "breakers_new": 0,
+    "parts_new": 179,
+    "parts_updated": 133,
+    "leads_new": 9,
+    "docs_filed": 0,
+    "batch": "B0011-docs-ge-squared"
+   }
+  },
+  {
+   "batch_id": "B0012-archival-legacy-panelboards",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0012-archival-legacy-panelboards.json",
+   "stats": {
+    "sources_new": 30,
+    "families_new": 18,
+    "breakers_new": 14,
+    "parts_new": 135,
+    "parts_updated": 21,
+    "leads_new": 12,
+    "docs_filed": 0,
+    "batch": "B0012-archival-legacy-panelboards"
+   }
+  },
+  {
+   "batch_id": "B0013-eaton-mirror-deep-dive",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0013-eaton-mirror-deep-dive.json",
+   "stats": {
+    "sources_new": 1,
+    "families_new": 0,
+    "breakers_new": 0,
+    "parts_new": 335,
+    "parts_updated": 225,
+    "leads_new": 7,
+    "docs_filed": 0,
+    "batch": "B0013-eaton-mirror-deep-dive"
+   }
+  },
+  {
+   "batch_id": "B0014-siemens-instruction-sheets",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0014-siemens-instruction-sheets.json",
+   "stats": {
+    "sources_new": 124,
+    "families_new": 1,
+    "breakers_new": 0,
+    "parts_new": 309,
+    "parts_updated": 120,
+    "leads_new": 9,
+    "docs_filed": 0,
+    "batch": "B0014-siemens-instruction-sheets"
    }
   },
   {
@@ -245,24 +261,24 @@
     "parts_new": 340,
     "parts_updated": 8,
     "leads_new": 6,
-    "docs_filed": 18,
+    "docs_filed": 0,
     "batch": "B0015-squared-legacy-and-unmined"
    }
   },
   {
-   "batch_id": "B0014-siemens-instruction-sheets",
+   "batch_id": "B0016-aftermarket-retrofit",
    "date": "2026-10-21",
    "merged": "2026-10-21",
-   "file": "B0014-siemens-instruction-sheets.json",
+   "file": "B0016-aftermarket-retrofit.json",
    "stats": {
-    "sources_new": 124,
-    "families_new": 1,
-    "breakers_new": 0,
-    "parts_new": 306,
-    "parts_updated": 123,
-    "leads_new": 9,
-    "docs_filed": 124,
-    "batch": "B0014-siemens-instruction-sheets"
+    "sources_new": 23,
+    "families_new": 2,
+    "breakers_new": 4,
+    "parts_new": 157,
+    "parts_updated": 147,
+    "leads_new": 8,
+    "docs_filed": 0,
+    "batch": "B0016-aftermarket-retrofit"
    }
   },
   {
@@ -277,7 +293,7 @@
     "parts_new": 291,
     "parts_updated": 32,
     "leads_new": 9,
-    "docs_filed": 6,
+    "docs_filed": 0,
     "batch": "B0018-breaker-installation-accessories"
    }
   }

@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research subagent (aftermarket / retrofit sweep)
 * Scope: OEM retrofit/replacement interiors and conversion kits for obsolete panelboards (Eaton P1R/P2R, CH/BR retrofit stocking kits, Eaton aftermarket retrofit program, Square D NQ/NF retrofit, ABB Spectra Tmax XT retrofit); third-party/aftermarket hardware (Breaker King/PCS kits, Superbreakers equivalents, IEM kits, Connecticut Electric UBI breakers and bus kit, Eaton CL classified breakers); published cross-references.
-* Merge stats: {'sources_new': 23, 'families_new': 2, 'breakers_new': 4, 'parts_new': 172, 'parts_updated': 132, 'leads_new': 8, 'docs_filed': 3, 'batch': 'B0016-aftermarket-retrofit'}
+* Merge stats: {'sources_new': 23, 'families_new': 2, 'breakers_new': 4, 'parts_new': 157, 'parts_updated': 147, 'leads_new': 8, 'docs_filed': 0, 'batch': 'B0016-aftermarket-retrofit'}
 
 ## Narrative
 

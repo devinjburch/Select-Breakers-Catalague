@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research agent (Opus 5.5), session B0015
 * Scope: Square D: (1) mine downloaded-but-unentered documents (fingersafe NQ replacement parts, I-Line RPINTBK barrier kits, ILMLC/ILCOMB lug covers, MH/NC boxes and trims, NQ14 boxes/fronts, I-Line HC boxes/trims/WP/extensions/drip hoods, SurgeLoc SPD, CT neutral bonding kits, quarter-turn fastener and endwall kits); (2) obsolete/legacy NQOD, NEHB, QMB replacement data from the 2009 Digest Section 13 'Obsolescent Panelboards' and se.com FAQs; (3) 1970 Digest 152 NQO/NQOB, I-Line and QMB boxes and fronts.
-* Merge stats: {'sources_new': 25, 'families_new': 0, 'breakers_new': 0, 'parts_new': 340, 'parts_updated': 8, 'leads_new': 6, 'docs_filed': 18, 'batch': 'B0015-squared-legacy-and-unmined'}
+* Merge stats: {'sources_new': 25, 'families_new': 0, 'breakers_new': 0, 'parts_new': 340, 'parts_updated': 8, 'leads_new': 6, 'docs_filed': 0, 'batch': 'B0015-squared-legacy-and-unmined'}
 
 ## Narrative
 

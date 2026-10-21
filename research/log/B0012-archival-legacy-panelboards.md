@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research agent (archival legacy panelboards batch)
 * Scope: Obsolete / poorly documented panelboard and switchboard lines (pre-1994 Cutler-Hammer, Westinghouse NOFUZE-era, GE NLAB/NHB/NAB/CCB/AV-Line, ITE/Gould-ITE CDP/NAB/NHB/FC20/VB, Square D NQO/NQOB/NA1B/ML-1/QMB Saflex) researched through archival trade-journal full text (archive.org), Eaton Volume 12 Tab 4, Eaton help pages and surplus/aftermarket dealer catalogues.
-* Merge stats: {'sources_new': 29, 'families_new': 18, 'breakers_new': 14, 'parts_new': 135, 'parts_updated': 21, 'leads_new': 12, 'docs_filed': 0, 'batch': 'B0012-archival-legacy-panelboards'}
+* Merge stats: {'sources_new': 30, 'families_new': 18, 'breakers_new': 14, 'parts_new': 135, 'parts_updated': 21, 'leads_new': 12, 'docs_filed': 0, 'batch': 'B0012-archival-legacy-panelboards'}
 
 ## Narrative
 

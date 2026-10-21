@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research agent (Opus 5.5), batch B0010 docs depth pass Eaton+Siemens
 * Scope: Depth pass: OEM instruction leaflets/sheets, installation manuals and OEM web specification data for Eaton Pow-R-Line panelboard/switchboard kits and Siemens P1/P2/P3/P4/P5/SB panelboard/switchboard kits already in the catalogue; torque tables, kit contents, hardware, document numbers; plus new kit part numbers found in those documents.
-* Merge stats: {'sources_new': 152, 'families_new': 3, 'breakers_new': 0, 'parts_new': 208, 'parts_updated': 252, 'leads_new': 7, 'docs_filed': 151, 'batch': 'B0010-docs-eaton-siemens'}
+* Merge stats: {'sources_new': 152, 'families_new': 3, 'breakers_new': 0, 'parts_new': 208, 'parts_updated': 252, 'leads_new': 7, 'docs_filed': 0, 'batch': 'B0010-docs-eaton-siemens'}
 
 ## Narrative
 

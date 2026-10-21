@@ -422,9 +422,9 @@
   "aliases": [
    "ED",
    "EDB",
-   "EDS",
+   "EDC",
    "EDH",
-   "EDC"
+   "EDS"
   ],
   "claims": {
    "mounting": [
@@ -3685,7 +3685,7 @@
      "value": "1 in plug-on Type BR loadcenter breakers",
      "conf": "A",
      "src": [
-      "SRC-00020"
+      "SRC-00021"
      ],
      "page": "p. V12-T5-14",
      "basis": "oem_spec",
@@ -3697,7 +3697,7 @@
    "FAM-EAT-026"
   ],
   "source_ids": [
-   "SRC-00020"
+   "SRC-00021"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -3724,7 +3724,7 @@
      "value": "F-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "pp.12-85..12-91",
      "basis": "oem_spec",
@@ -3736,7 +3736,7 @@
      "value": "10-225 A",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "pp.12-85..12-91",
      "basis": "oem_spec",
@@ -3746,7 +3746,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -3767,7 +3767,7 @@
      "value": "J-Frame",
      "conf": "A",
      "src": [
-      "SRC-00117"
+      "SRC-00185"
      ],
      "page": "pp.12-87..12-91",
      "basis": "oem_spec",
@@ -3779,7 +3779,7 @@
      "value": "70-250 A",
      "conf": "A",
      "src": [
-      "SRC-00117"
+      "SRC-00185"
      ],
      "page": "pp.12-87..12-91",
      "basis": "oem_spec",
@@ -3789,7 +3789,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00117"
+   "SRC-00185"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -3811,7 +3811,7 @@
      "value": "K-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-113",
      "basis": "oem_spec",
@@ -3823,7 +3823,7 @@
      "value": "70-400 A",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-113",
      "basis": "oem_spec",
@@ -3833,7 +3833,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -3854,7 +3854,7 @@
      "value": "L-Frame",
      "conf": "A",
      "src": [
-      "SRC-00118"
+      "SRC-00186"
      ],
      "page": "V4-T2-188/190",
      "basis": "oem_spec",
@@ -3866,7 +3866,7 @@
      "value": "300-600 A",
      "conf": "A",
      "src": [
-      "SRC-00118"
+      "SRC-00186"
      ],
      "page": "V4-T2-188/190",
      "basis": "oem_spec",
@@ -3876,7 +3876,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00118"
+   "SRC-00186"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -3896,7 +3896,7 @@
      "value": "M-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-140",
      "basis": "oem_spec",
@@ -3908,7 +3908,7 @@
      "value": "up to 800 A",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-140",
      "basis": "oem_spec",
@@ -3918,7 +3918,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -3939,7 +3939,7 @@
      "value": "N-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-162",
      "basis": "oem_spec",
@@ -3951,7 +3951,7 @@
      "value": "up to 1200 A",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-162",
      "basis": "oem_spec",
@@ -3961,7 +3961,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -3979,7 +3979,7 @@
      "value": "R-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-181",
      "basis": "oem_spec",
@@ -3991,7 +3991,7 @@
      "value": "800-2500 A",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-181",
      "basis": "oem_spec",
@@ -4001,7 +4001,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -4021,7 +4021,7 @@
      "value": "G-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-243..12-248",
      "basis": "oem_spec",
@@ -4033,7 +4033,7 @@
      "value": "15-100 A",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-243..12-248",
      "basis": "oem_spec",
@@ -4043,7 +4043,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -4065,7 +4065,7 @@
      "value": "EG-Frame",
      "conf": "A",
      "src": [
-      "SRC-00119"
+      "SRC-00187"
      ],
      "page": "V4-T2-16..27",
      "basis": "oem_spec",
@@ -4077,7 +4077,7 @@
      "value": "15-125 A (160 A IEC)",
      "conf": "A",
      "src": [
-      "SRC-00119"
+      "SRC-00187"
      ],
      "page": "V4-T2-16..27",
      "basis": "oem_spec",
@@ -4087,7 +4087,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00119"
+   "SRC-00187"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -4108,7 +4108,7 @@
      "value": "JG-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-28",
      "basis": "oem_spec",
@@ -4120,7 +4120,7 @@
      "value": "63-250 A",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-28",
      "basis": "oem_spec",
@@ -4130,7 +4130,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -4151,7 +4151,7 @@
      "value": "LG-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-37",
      "basis": "oem_spec",
@@ -4163,7 +4163,7 @@
      "value": "250-630 A (600 A UL/CSA)",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-37",
      "basis": "oem_spec",
@@ -4173,7 +4173,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -4193,7 +4193,7 @@
      "value": "NG-Frame",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-48",
      "basis": "oem_spec",
@@ -4205,7 +4205,7 @@
      "value": "up to 1250/1600 A",
      "conf": "A",
      "src": [
-      "SRC-00116"
+      "SRC-00184"
      ],
      "page": "p.12-48",
      "basis": "oem_spec",
@@ -4215,7 +4215,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00116"
+   "SRC-00184"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
@@ -4235,8 +4235,8 @@
      "value": "Plug-in (Quicklag in NLAB); QC listed for Westinghouse NLAB, QL for Cutler-Hammer NLAB, QP for NPLAB/NQP",
      "conf": "A",
      "src": [
-      "SRC-00243",
-      "SRC-00013"
+      "SRC-00435",
+      "SRC-00440"
      ],
      "page": "V12-T4-4, V12-T4-7",
      "basis": "oem_spec",
@@ -4248,7 +4248,7 @@
      "value": "Out of production; NLAB connectors not available",
      "conf": "A",
      "src": [
-      "SRC-00013"
+      "SRC-00440"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -4259,8 +4259,8 @@
    "FAM-EAT-024"
   ],
   "source_ids": [
-   "SRC-00243",
-   "SRC-00013"
+   "SRC-00435",
+   "SRC-00440"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -4280,7 +4280,7 @@
      "value": "15-800 A (CDP 1957)",
      "conf": "A",
      "src": [
-      "SRC-00261"
+      "SRC-00454"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -4291,7 +4291,7 @@
      "value": "Up to 600 V AC / 250 V DC",
      "conf": "A",
      "src": [
-      "SRC-00261"
+      "SRC-00454"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -4301,12 +4301,12 @@
   "family_ids": [
    "FAM-EAT-013",
    "FAM-EAT-025",
-   "FAM-EAT-029",
-   "FAM-EAT-037"
+   "FAM-EAT-032",
+   "FAM-EAT-040"
   ],
   "source_ids": [
-   "SRC-00261",
-   "SRC-00013"
+   "SRC-00454",
+   "SRC-00440"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -4324,7 +4324,7 @@
      "value": "CH plug-on, CHB bolt-on",
      "conf": "A",
      "src": [
-      "SRC-00013"
+      "SRC-00440"
      ],
      "page": "V12-T4-4",
      "basis": "oem_spec",
@@ -4336,7 +4336,7 @@
      "value": "Current product (still used in PRL1a / PRL3a)",
      "conf": "A",
      "src": [
-      "SRC-00013"
+      "SRC-00440"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -4344,12 +4344,12 @@
    ]
   },
   "family_ids": [
+   "FAM-EAT-035",
    "FAM-EAT-036",
-   "FAM-EAT-032",
-   "FAM-EAT-033"
+   "FAM-EAT-039"
   ],
   "source_ids": [
-   "SRC-00013"
+   "SRC-00440"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -4368,7 +4368,7 @@
      "value": "CC and CHH still listed as new breakers for PRL3a/PRL4B/PRL5P; CCH has no direct new breaker in the charts",
      "conf": "A",
      "src": [
-      "SRC-00013"
+      "SRC-00440"
      ],
      "page": "V12-T4-4/5/6",
      "basis": "oem_spec",
@@ -4377,14 +4377,14 @@
    ]
   },
   "family_ids": [
-   "FAM-EAT-029",
-   "FAM-EAT-033",
-   "FAM-EAT-034",
-   "FAM-EAT-035",
-   "FAM-EAT-037"
+   "FAM-EAT-032",
+   "FAM-EAT-036",
+   "FAM-EAT-037",
+   "FAM-EAT-038",
+   "FAM-EAT-040"
   ],
   "source_ids": [
-   "SRC-00013"
+   "SRC-00440"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -4405,7 +4405,7 @@
      "value": "Eaton catalog notes (CL245): 'Replacement for Square D Homeline, GE Type THQ, Crouse-Hinds Type MP, Thomas and Betts Type TB, Murray Type MP, ITE/Siemens Type QP. Requires Two 1-inch (25.4 mm) spaces.'",
      "conf": "A",
      "src": [
-      "SRC-00465"
+      "SRC-00618"
      ],
      "page": "p. 1",
      "basis": "oem_spec",
@@ -4418,8 +4418,8 @@
      "value": "UL classified (UL 489 certification on spec sheet); classification is for specific listed load centres named by Eaton - not the same as listing",
      "conf": "C",
      "src": [
-      "SRC-00465",
-      "SRC-00466"
+      "SRC-00618",
+      "SRC-00619"
      ],
      "basis": "distributor",
      "batch": "B0016-aftermarket-retrofit"
@@ -4430,7 +4430,7 @@
      "value": "1 in plug-on classified replacement breaker",
      "conf": "A",
      "src": [
-      "SRC-00465"
+      "SRC-00618"
      ],
      "basis": "oem_spec",
      "batch": "B0016-aftermarket-retrofit"
@@ -4441,7 +4441,7 @@
      "value": "10 kAIC (CL245)",
      "conf": "A",
      "src": [
-      "SRC-00465"
+      "SRC-00618"
      ],
      "basis": "oem_spec",
      "batch": "B0016-aftermarket-retrofit"
@@ -4450,8 +4450,8 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00465",
-   "SRC-00466"
+   "SRC-00618",
+   "SRC-00619"
   ],
   "created_batch": "B0016-aftermarket-retrofit"
  },
@@ -4469,8 +4469,8 @@
      "value": "bolt-on (NBLP panelboards)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00149"
+      "SRC-00209",
+      "SRC-00217"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4481,8 +4481,8 @@
      "value": "15-100 A (e.g., NB100 2P 100 A)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00149"
+      "SRC-00209",
+      "SRC-00217"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4493,8 +4493,8 @@
      "value": "120/240 VAC",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00149"
+      "SRC-00209",
+      "SRC-00217"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4505,8 +4505,8 @@
      "value": "10 kA (listing)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00149"
+      "SRC-00209",
+      "SRC-00217"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4517,8 +4517,8 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00149"
+      "SRC-00209",
+      "SRC-00217"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4529,8 +4529,8 @@
    "FAM-FPE-006"
   ],
   "source_ids": [
-   "SRC-00141",
-   "SRC-00149"
+   "SRC-00209",
+   "SRC-00217"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -4549,8 +4549,8 @@
      "value": "Connecticut Electric UBIF series (e.g., UBIF15N = NA115, UBIF20N = NA120, UBIF0230N = NC230), 10 kAIC ETL",
      "conf": "C",
      "src": [
-      "SRC-00155",
-      "SRC-00141"
+      "SRC-00223",
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4561,8 +4561,8 @@
      "value": "plug-in Stab-Lok",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00155"
+      "SRC-00209",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4573,8 +4573,8 @@
      "value": "15-100 A",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00155"
+      "SRC-00209",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4585,8 +4585,8 @@
      "value": "120/240 VAC",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00155"
+      "SRC-00209",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4597,8 +4597,8 @@
      "value": "10 kA",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00155"
+      "SRC-00209",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4609,8 +4609,8 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00155"
+      "SRC-00209",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4621,8 +4621,8 @@
    "FAM-FPE-005"
   ],
   "source_ids": [
-   "SRC-00141",
-   "SRC-00155"
+   "SRC-00209",
+   "SRC-00223"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -4645,9 +4645,9 @@
      "value": "Twin kits: KCDP1C (CDP), KBDP1C (BDP), NDPNE (NDP), NAIB-NEF / KCDP-1A (NA1B/NH1B)",
      "conf": "C",
      "src": [
-      "SRC-00138",
-      "SRC-00140",
-      "SRC-00142"
+      "SRC-00206",
+      "SRC-00208",
+      "SRC-00210"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4658,9 +4658,9 @@
      "value": "bolt-on; NES variants stab-type",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00160"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00228"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4671,9 +4671,9 @@
      "value": "NE frame (same physical size for NE/NEF per JRL Electric explainer)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00160"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00228"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4684,9 +4684,9 @@
      "value": "15-100 A",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00160"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00228"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4697,9 +4697,9 @@
      "value": "NE: 240 VAC/250 VDC; NEF: 480 VAC (2-3P) / 277 V (1P); HEF/HEG: 600 VAC",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00160"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00228"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4710,9 +4710,9 @@
      "value": "NE 18 kA@240 (listing); NEF 14 kA@480; HEF 25 kA@480; HEF213020 1P 22 kA@277",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00160"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00228"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4723,9 +4723,9 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00160"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00228"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4739,9 +4739,9 @@
    "FAM-FPE-005"
   ],
   "source_ids": [
-   "SRC-00141",
-   "SRC-00138",
-   "SRC-00160"
+   "SRC-00209",
+   "SRC-00206",
+   "SRC-00228"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -4760,9 +4760,9 @@
      "value": "KCDP2C (CDP), KBDP2C (BDP), NDPNEJ (NDP)",
      "conf": "C",
      "src": [
-      "SRC-00138",
-      "SRC-00141",
-      "SRC-00143"
+      "SRC-00206",
+      "SRC-00209",
+      "SRC-00211"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4773,9 +4773,9 @@
      "value": "bolt-on",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00143"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00211"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4786,9 +4786,9 @@
      "value": "to 225 A (NEJ233200, NEJH223225, HEJ222200)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00143"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00211"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4799,9 +4799,9 @@
      "value": "240 V (NEJ) / higher-IC and 600 V variants (H-prefix)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00143"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00211"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4812,9 +4812,9 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138",
-      "SRC-00143"
+      "SRC-00209",
+      "SRC-00206",
+      "SRC-00211"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4827,9 +4827,9 @@
    "FAM-FPE-004"
   ],
   "source_ids": [
-   "SRC-00141",
-   "SRC-00138",
-   "SRC-00143"
+   "SRC-00209",
+   "SRC-00206",
+   "SRC-00211"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -4849,8 +4849,8 @@
      "value": "KCDP3C / NFJ1K (CDP); NFJ3K (BDP-style, OEM equivalent not stated)",
      "conf": "C",
      "src": [
-      "SRC-00138",
-      "SRC-00140"
+      "SRC-00206",
+      "SRC-00208"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4861,8 +4861,8 @@
      "value": "bolt-on; NFS stab-in",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4873,8 +4873,8 @@
      "value": "15-225 A",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4885,8 +4885,8 @@
      "value": "600 VAC",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4897,8 +4897,8 @@
      "value": "NFJ 18 kA@480 (listing)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4909,8 +4909,8 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4921,8 +4921,8 @@
    "FAM-FPE-001"
   ],
   "source_ids": [
-   "SRC-00141",
-   "SRC-00138"
+   "SRC-00209",
+   "SRC-00206"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -4943,8 +4943,8 @@
      "value": "KCDP4C / NJL1K (CDP); KBDP4C / NJL3K (BDP)",
      "conf": "C",
      "src": [
-      "SRC-00138",
-      "SRC-00141"
+      "SRC-00206",
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4955,8 +4955,8 @@
      "value": "bolt-on",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4967,8 +4967,8 @@
      "value": "to 400 A",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4979,8 +4979,8 @@
      "value": "600 VAC",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -4991,8 +4991,8 @@
      "value": "NJ 30 kA@480; HJL 22 kA@600; NJJ 22 kA (listings)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5003,8 +5003,8 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00138"
+      "SRC-00209",
+      "SRC-00206"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5017,8 +5017,8 @@
    "FAM-FPE-007"
   ],
   "source_ids": [
-   "SRC-00141",
-   "SRC-00138"
+   "SRC-00209",
+   "SRC-00206"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -5040,8 +5040,8 @@
      "value": "KCDP5C (CDP, NM/NN) and KBDP5C (BDP, NM/HNM)",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00140"
+      "SRC-00209",
+      "SRC-00208"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5052,7 +5052,7 @@
      "value": "NM34 (1) #1/0-600 kcmil 125-300 A; NM36 (2) 3/0-600 kcmil 350-600 A; NM38 (3) 250-500 kcmil 700-800 A; N32 lug kit for NN",
      "conf": "C",
      "src": [
-      "SRC-00140"
+      "SRC-00208"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5063,8 +5063,8 @@
      "value": "bolt-on",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00140"
+      "SRC-00209",
+      "SRC-00208"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5075,8 +5075,8 @@
      "value": "NM 400-800 A (trip units NM031400-NM031800); NN 1200 A switch; NP to 1600 A",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00140"
+      "SRC-00209",
+      "SRC-00208"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5087,8 +5087,8 @@
      "value": "600 VAC",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00140"
+      "SRC-00209",
+      "SRC-00208"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5099,8 +5099,8 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141",
-      "SRC-00140"
+      "SRC-00209",
+      "SRC-00208"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5113,8 +5113,8 @@
    "FAM-FPE-007"
   ],
   "source_ids": [
-   "SRC-00141",
-   "SRC-00140"
+   "SRC-00209",
+   "SRC-00208"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -5131,7 +5131,7 @@
      "value": "bolt-on fusible switch unit (FDP)",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5142,7 +5142,7 @@
      "value": "30-1200 A",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5153,7 +5153,7 @@
      "value": "240 V (..32..) / 600 V (..36..)",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5164,7 +5164,7 @@
      "value": "200 kA with class R/J/K/L fuses",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5175,7 +5175,7 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5186,7 +5186,7 @@
    "FAM-FPE-003"
   ],
   "source_ids": [
-   "SRC-00141"
+   "SRC-00209"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -5207,7 +5207,7 @@
      "value": "bolt-on",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5218,7 +5218,7 @@
      "value": "to 225 A (XJL225 limiter)",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5229,7 +5229,7 @@
      "value": "600 VAC",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5240,7 +5240,7 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00141"
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -5251,7 +5251,7 @@
    "FAM-FPE-007"
   ],
   "source_ids": [
-   "SRC-00141"
+   "SRC-00209"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -5269,7 +5269,7 @@
      "value": "bolt-on (A-Series AQ; Spectra double-branch)",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5281,7 +5281,7 @@
      "value": "15-100 A, 1-3P",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5295,7 +5295,7 @@
    "FAM-GEA-004"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5312,7 +5312,7 @@
      "value": "plug-in (A-Series AL)",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5324,7 +5324,7 @@
      "value": "15-100 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5336,7 +5336,7 @@
    "FAM-GEA-001"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5354,7 +5354,7 @@
      "value": "bolt-on (AE/AEP; Spectra double-branch; ReliaGear neXT)",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5366,7 +5366,7 @@
      "value": "15-100 A (110/125 A TEYD/H/L in AS)",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5381,7 +5381,7 @@
    "FAM-GEA-008"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5398,7 +5398,7 @@
      "value": "bolt-on via strap kits / branch bases",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5410,7 +5410,7 @@
      "value": "100-225 A, 2-3P",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5425,7 +5425,7 @@
    "FAM-GEA-006"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5443,7 +5443,7 @@
      "value": "bolt-on",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5455,7 +5455,7 @@
      "value": "15-150 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5471,7 +5471,7 @@
    "FAM-GEA-007"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5489,7 +5489,7 @@
      "value": "bolt-on / module",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5501,7 +5501,7 @@
      "value": "up to 150 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5515,7 +5515,7 @@
    "FAM-GEA-004"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5532,7 +5532,7 @@
      "value": "bolt-on / module",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5544,7 +5544,7 @@
      "value": "70-250 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5559,7 +5559,7 @@
    "FAM-GEA-006"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5576,7 +5576,7 @@
      "value": "bolt-on / module",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5588,7 +5588,7 @@
      "value": "125-600 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5603,7 +5603,7 @@
    "FAM-GEA-005"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5621,7 +5621,7 @@
      "value": "single-mounted / center-mounted",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5633,7 +5633,7 @@
      "value": "800-1200 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5648,7 +5648,7 @@
    "FAM-GEA-006"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5665,7 +5665,7 @@
      "value": "bolt-on",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5677,7 +5677,7 @@
      "value": "15-100 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5692,7 +5692,7 @@
    "FAM-GEA-008"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5710,7 +5710,7 @@
      "value": "bolt-on / module",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5722,7 +5722,7 @@
      "value": "up to 100 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5734,7 +5734,7 @@
    "FAM-GEA-004"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5751,7 +5751,7 @@
      "value": "bolt-on / module",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5763,7 +5763,7 @@
      "value": "up to 600 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5775,7 +5775,7 @@
    "FAM-GEA-004"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5793,7 +5793,7 @@
      "value": "bolt-on / module",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5805,7 +5805,7 @@
      "value": "up to 225 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5819,7 +5819,7 @@
    "FAM-GEA-006"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5837,7 +5837,7 @@
      "value": "bolt-on / module",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5849,7 +5849,7 @@
      "value": "250-600 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5864,7 +5864,7 @@
    "FAM-GEA-006"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5882,7 +5882,7 @@
      "value": "single-mounted",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5894,7 +5894,7 @@
      "value": "800-1200 A",
      "conf": "A",
      "src": [
-      "SRC-00075"
+      "SRC-00143"
      ],
      "page": "p.11-4 to 11-7",
      "basis": "oem_spec",
@@ -5907,7 +5907,7 @@
    "FAM-GEA-006"
   ],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00143"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5926,7 +5926,7 @@
      "value": "Q-Line 225 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-102",
      "basis": "oem_spec",
@@ -5936,7 +5936,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -5960,7 +5960,7 @@
      "value": "E150 (150 A)",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-34 and 6-102",
      "basis": "oem_spec",
@@ -5972,7 +5972,7 @@
      "value": "10-150 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-34 and 6-102",
      "basis": "oem_spec",
@@ -5982,7 +5982,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6004,7 +6004,7 @@
      "value": "F225 (225/250 A)",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-101 to 6-102",
      "basis": "oem_spec",
@@ -6014,7 +6014,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6040,7 +6040,7 @@
      "value": "J400 / J600",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-36 to 6-37 and 6-102",
      "basis": "oem_spec",
@@ -6052,7 +6052,7 @@
      "value": "200-600 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-36 to 6-37 and 6-102",
      "basis": "oem_spec",
@@ -6062,7 +6062,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6085,8 +6085,8 @@
      "value": "K1200",
      "conf": "A",
      "src": [
-      "SRC-00130",
-      "SRC-00132"
+      "SRC-00198",
+      "SRC-00200"
      ],
      "page": "p. 6-102",
      "basis": "oem_spec",
@@ -6098,8 +6098,8 @@
      "value": "300-1200 A",
      "conf": "A",
      "src": [
-      "SRC-00130",
-      "SRC-00132"
+      "SRC-00198",
+      "SRC-00200"
      ],
      "page": "p. 6-102",
      "basis": "oem_spec",
@@ -6109,8 +6109,8 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130",
-   "SRC-00132"
+   "SRC-00198",
+   "SRC-00200"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6132,7 +6132,7 @@
      "value": "SE150",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-44, 6-103",
      "basis": "oem_spec",
@@ -6144,7 +6144,7 @@
      "value": "15-150 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-44, 6-103",
      "basis": "oem_spec",
@@ -6154,7 +6154,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6174,7 +6174,7 @@
      "value": "SF250",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-46, 6-103",
      "basis": "oem_spec",
@@ -6186,7 +6186,7 @@
      "value": "70-250 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-46, 6-103",
      "basis": "oem_spec",
@@ -6196,7 +6196,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6218,7 +6218,7 @@
      "value": "SG600 (400/600 A)",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-48, 6-103",
      "basis": "oem_spec",
@@ -6230,7 +6230,7 @@
      "value": "125-600 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-48, 6-103",
      "basis": "oem_spec",
@@ -6240,7 +6240,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6262,7 +6262,7 @@
      "value": "SK1200",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-51, 6-103",
      "basis": "oem_spec",
@@ -6274,7 +6274,7 @@
      "value": "300-1200 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-51, 6-103",
      "basis": "oem_spec",
@@ -6284,7 +6284,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6304,7 +6304,7 @@
      "value": "FB 100",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-68 to 6-73",
      "basis": "oem_spec",
@@ -6316,7 +6316,7 @@
      "value": "15-100 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-68 to 6-73",
      "basis": "oem_spec",
@@ -6326,7 +6326,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6343,7 +6343,7 @@
      "value": "FC 100",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-74 to 6-78",
      "basis": "oem_spec",
@@ -6355,7 +6355,7 @@
      "value": "15-100 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-74 to 6-78",
      "basis": "oem_spec",
@@ -6365,7 +6365,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6382,7 +6382,7 @@
      "value": "FE 250",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-79 to 6-81",
      "basis": "oem_spec",
@@ -6394,7 +6394,7 @@
      "value": "25-250 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-79 to 6-81",
      "basis": "oem_spec",
@@ -6404,7 +6404,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6421,7 +6421,7 @@
      "value": "FG 600",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-83 to 6-88",
      "basis": "oem_spec",
@@ -6433,7 +6433,7 @@
      "value": "100-600 A",
      "conf": "A",
      "src": [
-      "SRC-00130"
+      "SRC-00198"
      ],
      "page": "p. 6-83 to 6-88",
      "basis": "oem_spec",
@@ -6443,7 +6443,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00130"
+   "SRC-00198"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -6464,8 +6464,8 @@
      "value": "TQL: plug-in, quick-make quick-break, thermal-magnetic (first plug-in QMQB breaker per Trumbull 1951-52); TQ in NLAB (formerly NTQ)",
      "conf": "A",
      "src": [
-      "SRC-00259",
-      "SRC-00268"
+      "SRC-00452",
+      "SRC-00461"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -6476,8 +6476,8 @@
      "value": "Standard ratings 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100 A (GEG-13610B); TQL 15-50 A 1-pole and common-trip 2/3-pole (1957)",
      "conf": "A",
      "src": [
-      "SRC-00260",
-      "SRC-00261"
+      "SRC-00453",
+      "SRC-00454"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -6488,10 +6488,10 @@
    "FAM-GEA-011"
   ],
   "source_ids": [
-   "SRC-00259",
-   "SRC-00260",
-   "SRC-00261",
-   "SRC-00268"
+   "SRC-00452",
+   "SRC-00453",
+   "SRC-00454",
+   "SRC-00461"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -6509,7 +6509,7 @@
      "value": "AT 15-50 A branch in NAB/ABH; mains 50 A AT, 100 A ATB, 200 A AT in NLAB",
      "conf": "A",
      "src": [
-      "SRC-00259"
+      "SRC-00452"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -6521,7 +6521,7 @@
    "FAM-GEA-011"
   ],
   "source_ids": [
-   "SRC-00259"
+   "SRC-00452"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -6541,7 +6541,7 @@
      "value": "Bolted with DPK (twin) / SPK (single) strap kits in CCB, QMR and AV1/AV2",
      "conf": "C",
      "src": [
-      "SRC-00251"
+      "SRC-00444"
      ],
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
@@ -6553,7 +6553,7 @@
    "FAM-GEA-009"
   ],
   "source_ids": [
-   "SRC-00251"
+   "SRC-00444"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -6572,8 +6572,8 @@
      "value": "plug-in (assumed)",
      "conf": "C",
      "src": [
-      "SRC-00172",
-      "SRC-00161"
+      "SRC-00240",
+      "SRC-00229"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -6584,8 +6584,8 @@
      "value": "15-90 A",
      "conf": "C",
      "src": [
-      "SRC-00172",
-      "SRC-00161"
+      "SRC-00240",
+      "SRC-00229"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -6596,8 +6596,8 @@
      "value": "120/240 V (3-pole versions exist)",
      "conf": "C",
      "src": [
-      "SRC-00172",
-      "SRC-00161"
+      "SRC-00240",
+      "SRC-00229"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -6608,8 +6608,8 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00172",
-      "SRC-00161"
+      "SRC-00240",
+      "SRC-00229"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -6620,8 +6620,8 @@
    "FAM-OTH-002"
   ],
   "source_ids": [
-   "SRC-00172",
-   "SRC-00161"
+   "SRC-00240",
+   "SRC-00229"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -6640,8 +6640,8 @@
      "value": "Seller states: 'Meet or exceed ANSI/UL 489 Standard'; 'tested and certified in accordance with the National Electric Code and conform to the ANSI/UL Standard 489, 9th Edition'; marked 'Unique Breakers, Inc.' Distributor states 'Classified and approved for use in Federal Pacific load centers. ETL Listed.'",
      "conf": "C",
      "src": [
-      "SRC-00462",
-      "SRC-00463"
+      "SRC-00615",
+      "SRC-00616"
      ],
      "page": "p. 1-2",
      "basis": "distributor",
@@ -6654,7 +6654,7 @@
      "value": "UBIF0xxN = FPE NC one/two-pole thin series; UBIFxxN / UBIF2xxN = FPE NA one/two-pole thick series (table 'Corresponds to')",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6667,9 +6667,9 @@
      "value": "Plug-in for use in Federal Pacific load centers (NA thick, NC thin series); bolt-on NB variants (UBIF...NB) referenced by resellers",
      "conf": "C",
      "src": [
-      "SRC-00462",
-      "SRC-00463",
-      "SRC-00141"
+      "SRC-00615",
+      "SRC-00616",
+      "SRC-00209"
      ],
      "basis": "distributor",
      "batch": "B0016-aftermarket-retrofit"
@@ -6680,7 +6680,7 @@
      "value": "1-pole 15-50 A; 2-pole 15-70 A (per 2005 sheet)",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6692,7 +6692,7 @@
      "value": "120 V (1P), 120/240 V (2P)",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6704,7 +6704,7 @@
      "value": "10,000 A RMS sym max",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6716,7 +6716,7 @@
      "value": "current (aftermarket, newly manufactured)",
      "conf": "C",
      "src": [
-      "SRC-00463"
+      "SRC-00616"
      ],
      "basis": "distributor",
      "batch": "B0016-aftermarket-retrofit"
@@ -6725,9 +6725,9 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00462",
-   "SRC-00463",
-   "SRC-00141"
+   "SRC-00615",
+   "SRC-00616",
+   "SRC-00209"
   ],
   "created_batch": "B0016-aftermarket-retrofit"
  },
@@ -6745,8 +6745,8 @@
      "value": "Distributor: 'Classified for use in Pushmatic and Bulldog load centers. ETL Listed.'; maker sheet: conform to ANSI/UL 489",
      "conf": "C",
      "src": [
-      "SRC-00464",
-      "SRC-00462"
+      "SRC-00617",
+      "SRC-00615"
      ],
      "basis": "distributor",
      "note": "seller claim",
@@ -6758,7 +6758,7 @@
      "value": "Bolt-on for use in Pushmatic and Bulldog load centers",
      "conf": "C",
      "src": [
-      "SRC-00464"
+      "SRC-00617"
      ],
      "basis": "distributor",
      "batch": "B0016-aftermarket-retrofit"
@@ -6769,7 +6769,7 @@
      "value": "1-pole 15-30 A; 2-pole 15-100 A; twin 15/15, 15/20, 20/20",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6781,7 +6781,7 @@
      "value": "10,000 A RMS sym max",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6793,8 +6793,8 @@
    "FAM-SIE-011"
   ],
   "source_ids": [
-   "SRC-00462",
-   "SRC-00464"
+   "SRC-00615",
+   "SRC-00617"
   ],
   "created_batch": "B0016-aftermarket-retrofit"
  },
@@ -6812,7 +6812,7 @@
      "value": "UBIZ15/20/30 = Zinsco Q15/Q20/Q30; UBIZ220-2100 = QC20-QC50, QCAL60-QCAL100; UBIZ2125 = QCAL125; UBIZ1515/1520/2020/3030 = R3815/R381520/R3820/R3830; UBIZ0220-0260 = RC3820-RC3860",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6825,7 +6825,7 @@
      "value": "Plug-in for use in Zinsco load centers",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "basis": "distributor",
      "batch": "B0016-aftermarket-retrofit"
@@ -6836,7 +6836,7 @@
      "value": "Q 1-pole 15-30 A; QC 2-pole 20-125 A; R twin 15/15-30/30; RC 2-pole 20-60 A",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6848,7 +6848,7 @@
      "value": "10,000 A RMS sym max",
      "conf": "C",
      "src": [
-      "SRC-00462"
+      "SRC-00615"
      ],
      "page": "p. 2",
      "basis": "distributor",
@@ -6860,7 +6860,7 @@
    "FAM-ZIN-001"
   ],
   "source_ids": [
-   "SRC-00462"
+   "SRC-00615"
   ],
   "created_batch": "B0016-aftermarket-retrofit"
  },
@@ -6883,7 +6883,7 @@
      "value": "bolt-on",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -6895,7 +6895,7 @@
      "value": "1in per pole bolt-on",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -6907,7 +6907,7 @@
      "value": "15-100A",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -6919,7 +6919,7 @@
      "value": "120/240V",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -6931,7 +6931,7 @@
      "value": "BL 10kA, BLH 22kA, HBL 65kA",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -6950,7 +6950,7 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -6968,7 +6968,7 @@
      "value": "bolt-on, 1in per pole",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -6980,7 +6980,7 @@
      "value": "15-100A",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -6992,7 +6992,7 @@
      "value": "480Y/277V",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -7004,7 +7004,7 @@
      "value": "14kA @480Y/277V, 65kA @240V",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -7022,7 +7022,7 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7046,7 +7046,7 @@
      "value": "15-125A",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -7058,7 +7058,7 @@
      "value": "480Y/277V; 600Y/347V 14kA",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -7070,7 +7070,7 @@
      "value": "NGB 25kA, HGB 35kA, LGB 65kA @480Y/277V; 100kA @240V",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -7086,7 +7086,7 @@
    "FAM-SIE-008"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7103,7 +7103,7 @@
      "value": "1in per pole (1-pole 1in wide; 2P 2in; 3P 3in)",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "pp.11-18, 11-19",
      "basis": "oem_spec",
@@ -7115,7 +7115,7 @@
      "value": "15-125A",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-18",
      "basis": "oem_spec",
@@ -7127,7 +7127,7 @@
      "value": "SEAB/MEAB/HEAB: 25/35/65kA @277V-480Y/277V",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "pp.11-18, 11-19",
      "basis": "oem_spec",
@@ -7144,7 +7144,7 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7172,7 +7172,7 @@
      "value": "15-125A",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-94",
      "basis": "oem_spec",
@@ -7191,8 +7191,8 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00097",
-   "SRC-00099"
+   "SRC-00165",
+   "SRC-00167"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7212,7 +7212,7 @@
      "value": "60-225A",
      "conf": "A",
      "src": [
-      "SRC-00100"
+      "SRC-00168"
      ],
      "page": "p.10-18",
      "basis": "oem_spec",
@@ -7224,7 +7224,7 @@
      "value": "discontinued; replaced by QR (QJ kits not available, use QR)",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-53",
      "basis": "oem_spec",
@@ -7239,9 +7239,9 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00100",
-   "SRC-00097",
-   "SRC-00099"
+   "SRC-00168",
+   "SRC-00165",
+   "SRC-00167"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7262,7 +7262,7 @@
      "value": "100-225A (QR rated 250A frame but limited to 225A in panelboard)",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "pp.11-94, 11-96",
      "basis": "oem_spec",
@@ -7274,7 +7274,7 @@
      "value": "240V max",
      "conf": "A",
      "src": [
-      "SRC-00102"
+      "SRC-00170"
      ],
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
@@ -7291,7 +7291,7 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7314,7 +7314,7 @@
      "value": "70-250A",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-94",
      "basis": "oem_spec",
@@ -7332,7 +7332,7 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7358,7 +7358,7 @@
      "value": "200-400A",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-95",
      "basis": "oem_spec",
@@ -7376,7 +7376,7 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7401,7 +7401,7 @@
      "value": "250-600A",
      "conf": "A",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-95",
      "basis": "oem_spec",
@@ -7416,7 +7416,7 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7448,7 +7448,7 @@
      "value": "MD to 800A, ND to 1200A",
      "conf": "B",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "basis": "inference",
      "note": "Frame ratings from strap kit table max-amp column",
@@ -7462,8 +7462,8 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00097",
-   "SRC-00099"
+   "SRC-00165",
+   "SRC-00167"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7490,8 +7490,8 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00097",
-   "SRC-00098"
+   "SRC-00165",
+   "SRC-00166"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7517,7 +7517,7 @@
    "FAM-SIE-008"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7535,7 +7535,7 @@
      "value": "legacy (replacement parts only)",
      "conf": "B",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "page": "p.11-53",
      "basis": "inference",
@@ -7549,7 +7549,7 @@
    "FAM-SIE-008"
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00165"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7569,7 +7569,7 @@
      "value": "unknown",
      "conf": "D",
      "src": [
-      "SRC-00097"
+      "SRC-00165"
      ],
      "basis": "inference",
      "batch": "B0006-siemens-ite"
@@ -7581,8 +7581,8 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00099",
-   "SRC-00098"
+   "SRC-00167",
+   "SRC-00166"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -7608,7 +7608,7 @@
      "value": "15-125 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-39, 7-153",
      "basis": "oem_spec",
@@ -7618,7 +7618,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7638,7 +7638,7 @@
      "value": "SPEEDFAX p. 7-153 says the lugs are integral (line and load for BQD; line side for CQD/CQD6, load side for both). No separate lug kit is listed.",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-153",
      "basis": "oem_spec",
@@ -7650,7 +7650,7 @@
      "value": "15-100 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-153",
      "basis": "oem_spec",
@@ -7660,7 +7660,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7679,7 +7679,7 @@
      "value": "15-125 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-153",
      "basis": "oem_spec",
@@ -7689,7 +7689,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7710,7 +7710,7 @@
      "value": "100-250 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-40",
      "basis": "oem_spec",
@@ -7722,7 +7722,7 @@
      "value": "240 Vac",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-40",
      "basis": "oem_spec",
@@ -7732,7 +7732,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7752,7 +7752,7 @@
      "value": "60-225 A",
      "conf": "C",
      "src": [
-      "SRC-00137"
+      "SRC-00205"
      ],
      "basis": "distributor",
      "note": "from a superbreakers.com search snippet; not OEM-verified",
@@ -7762,7 +7762,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00137"
+   "SRC-00205"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7785,7 +7785,7 @@
      "value": "15-125 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "ED pages; p. 7-154",
      "basis": "oem_spec",
@@ -7795,7 +7795,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7818,7 +7818,7 @@
      "value": "70-250 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "FD pages; p. 7-154",
      "basis": "oem_spec",
@@ -7828,7 +7828,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7855,7 +7855,7 @@
      "value": "200-400 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-154",
      "basis": "oem_spec",
@@ -7865,7 +7865,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7891,7 +7891,7 @@
      "value": "250-600 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-154",
      "basis": "oem_spec",
@@ -7901,7 +7901,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7921,7 +7921,7 @@
      "value": "500-800 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-154, 7-165",
      "basis": "oem_spec",
@@ -7931,7 +7931,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7955,7 +7955,7 @@
      "value": "500-800 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-154",
      "basis": "oem_spec",
@@ -7965,7 +7965,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -7989,7 +7989,7 @@
      "value": "800-1200 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-154",
      "basis": "oem_spec",
@@ -7999,7 +7999,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -8022,7 +8022,7 @@
      "value": "1200-1600 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-154",
      "basis": "oem_spec",
@@ -8032,7 +8032,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -8052,7 +8052,7 @@
      "value": "1600-2000 A",
      "conf": "A",
      "src": [
-      "SRC-00135"
+      "SRC-00203"
      ],
      "page": "p. 7-154 to 7-155",
      "basis": "oem_spec",
@@ -8062,7 +8062,7 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00135"
+   "SRC-00203"
   ],
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
@@ -8081,7 +8081,7 @@
      "value": "Connecticut Electric UBIP115, UBIP130, UBIP240 etc. classified for Pushmatic and Bulldog loadcenters",
      "conf": "C",
      "src": [
-      "SRC-00155"
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -8092,8 +8092,8 @@
      "value": "bolt-on push-button",
      "conf": "C",
      "src": [
-      "SRC-00176",
-      "SRC-00155"
+      "SRC-00244",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -8104,8 +8104,8 @@
      "value": "15-? A (UBIP replacements 15-40+ A)",
      "conf": "C",
      "src": [
-      "SRC-00176",
-      "SRC-00155"
+      "SRC-00244",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -8116,8 +8116,8 @@
      "value": "120 / 120/240 V",
      "conf": "C",
      "src": [
-      "SRC-00176",
-      "SRC-00155"
+      "SRC-00244",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -8128,8 +8128,8 @@
      "value": "10 kA (UBIP)",
      "conf": "C",
      "src": [
-      "SRC-00176",
-      "SRC-00155"
+      "SRC-00244",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -8140,8 +8140,8 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00176",
-      "SRC-00155"
+      "SRC-00244",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -8152,8 +8152,8 @@
    "FAM-SIE-011"
   ],
   "source_ids": [
-   "SRC-00176",
-   "SRC-00155"
+   "SRC-00244",
+   "SRC-00223"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -8172,7 +8172,7 @@
      "value": "Bolt-on",
      "conf": "C",
      "src": [
-      "SRC-00247"
+      "SRC-00439"
      ],
      "basis": "distributor",
      "batch": "B0012-archival-legacy-panelboards"
@@ -8183,7 +8183,7 @@
    "FAM-SIE-013"
   ],
   "source_ids": [
-   "SRC-00247"
+   "SRC-00439"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -8203,7 +8203,7 @@
      "value": "150 A frame (kit max)",
      "conf": "C",
      "src": [
-      "SRC-00251"
+      "SRC-00444"
      ],
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
@@ -8214,7 +8214,7 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00251"
+   "SRC-00444"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -8235,7 +8235,7 @@
      "value": "FJ3 225 A; J-frame 400 A (kit max)",
      "conf": "C",
      "src": [
-      "SRC-00251"
+      "SRC-00444"
      ],
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
@@ -8247,12 +8247,577 @@
    "FAM-SIE-014"
   ],
   "source_ids": [
-   "SRC-00251"
+   "SRC-00444"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
  {
   "id": "BRK-SQD-001",
+  "mfr": "SQD",
+  "name": "QO (plug-on)",
+  "aliases": [
+   "QO-H",
+   "QO-VH",
+   "QOH"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "120/240 Vac; 48 Vdc where DC rated",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-002"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-002",
+  "mfr": "SQD",
+  "name": "QOB (bolt-on)",
+  "aliases": [
+   "QOB-H",
+   "QOB-HID",
+   "QOB-VH"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on to NQ branch connectors; may also be used back-fed as 100-150 A main",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-002"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-003",
+  "mfr": "SQD",
+  "name": "EDB / EGB / EJB (E-frame bolt-on)",
+  "aliases": [
+   "ED",
+   "EDB EPD",
+   "EG",
+   "EJ"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on to NF branch connectors; EDB 3P 125 A can be back-fed as main with NFEDBS",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-31, 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1, 2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-70 A (1P), 15-125 A (2P/3P)",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "480Y/277 Vac (US); 600Y/347 Vac versions via se.com/ca",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "EDB 18 kA, EGB 35 kA, EJB 65 kA @ 480Y/277 V",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-32",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-004",
+  "mfr": "SQD",
+  "name": "EH / EHB",
+  "aliases": [
+   "EH plug-on",
+   "EHB bolt-on"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "EH plug-on; EHB bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00087"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete / no longer available",
+     "conf": "C",
+     "src": [
+      "SRC-00091"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "source_ids": [
+   "SRC-00087",
+   "SRC-00091"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-005",
+  "mfr": "SQD",
+  "name": "PowerPacT Q-frame (QB/QD/QG/QJ)",
+  "aliases": [
+   "QBL",
+   "QDL",
+   "QGL",
+   "QJL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "in NQ: vertical main/sub-feed on adapter pan (NQMB2Q/NQSFB2Q) with lug wires; I-Line plug-on in HCJ",
+     "conf": "A",
+     "src": [
+      "SRC-00027",
+      "SRC-00035"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "Q",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-006"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-006",
+  "mfr": "SQD",
+  "name": "PowerPacT H-frame (HD/HG/HJ/HL/HR)",
+  "aliases": [
+   "HDL",
+   "HGL",
+   "HJL",
+   "HLL",
+   "HRL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37444 with hard-bus connectors",
+     "conf": "A",
+     "src": [
+      "SRC-00037",
+      "SRC-00061"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "H (150 A max)",
+     "conf": "A",
+     "src": [
+      "SRC-00037"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004",
+   "FAM-SQD-006"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-007",
+  "mfr": "SQD",
+  "name": "PowerPacT J-frame (JD/JG/JJ/JL/JR)",
+  "aliases": [
+   "JDL",
+   "JGL",
+   "JJL",
+   "JLL",
+   "JRL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37445",
+     "conf": "A",
+     "src": [
+      "SRC-00037",
+      "SRC-00061"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "J (250 A max)",
+     "conf": "A",
+     "src": [
+      "SRC-00037"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004",
+   "FAM-SQD-006"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-008",
+  "mfr": "SQD",
+  "name": "LA / LH (L-frame, legacy thermal-magnetic)",
+  "aliases": [
+   "LAL",
+   "LAL36400MB",
+   "LHL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "NQMB4LA / N400M; order short-handle breaker (e.g. LAL36400MB)",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-9 fn",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "LA/LH 125-400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "page": "p. 9-9",
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004",
+   "FAM-SQD-006"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-009",
+  "mfr": "SQD",
+  "name": "PowerPacT L-frame (LG/LJ/LL/LR)",
+  "aliases": [
+   "PPL"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "NQMB6PPL / N600MPPL kits; requires 8.75 in. deep D9 boxes; M10x25 connector screws 442 lb-in",
+     "conf": "A",
+     "src": [
+      "SRC-00027",
+      "SRC-00080"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "L 125-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00027"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004",
+   "FAM-SQD-006"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-010",
+  "mfr": "SQD",
+  "name": "KI / KC frame (legacy)",
+  "aliases": [
+   "KI",
+   "KC",
+   "N250MKC"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "K (225/250 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "legacy (kits dated 2008-2009)",
+     "conf": "C",
+     "src": [
+      "SRC-00038"
+     ],
+     "basis": "inference",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004",
+   "FAM-SQD-002"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00062"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-011",
+  "mfr": "SQD",
+  "name": "FI frame (legacy)",
+  "aliases": [
+   "FI"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "F (100 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00062"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00062"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-012",
+  "mfr": "SQD",
+  "name": "PowerPacT M / P / R frame (I-Line)",
+  "aliases": [
+   "MG",
+   "MJ",
+   "PG",
+   "PJ",
+   "PK",
+   "PL",
+   "RG",
+   "RJ",
+   "RK",
+   "RL"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "M 800 A, P up to 1200 A, R 1200 A",
+     "conf": "B",
+     "src": [
+      "SRC-00027"
+     ],
+     "basis": "oem_spec",
+     "note": "Ampacity limits inferred from I-Line sub-feed table",
+     "batch": "B0003-squared-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00027"
+  ],
+  "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-013",
   "mfr": "SQD",
   "name": "FA / FH (I-Line)",
   "aliases": [
@@ -8268,7 +8833,7 @@
      "value": "1.5 in. (1-pole); 3 in. (multi-pole) in QED-2 I-Line",
      "conf": "B",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8281,7 +8846,7 @@
      "value": "Bolt-on construction available only for FA/FH, LA/LH, FY, QB, QD, QG, Q4 (factory order; bus clamps torque 20 lb-in / 3 N-m)",
      "conf": "A",
      "src": [
-      "SRC-00037"
+      "SRC-00105"
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
@@ -8292,9 +8857,9 @@
      "value": "I-Line plug-on (bolt-on version factory-only: 3rd character 'B')",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026",
-      "SRC-00037"
+      "SRC-00095",
+      "SRC-00094",
+      "SRC-00105"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -8306,9 +8871,9 @@
      "value": "100 A",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026",
-      "SRC-00037"
+      "SRC-00095",
+      "SRC-00094",
+      "SRC-00105"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -8320,9 +8885,9 @@
      "value": "1 (277 V), 2, 3",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026",
-      "SRC-00037"
+      "SRC-00095",
+      "SRC-00094",
+      "SRC-00105"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -8334,9 +8899,9 @@
      "value": "15-100 A",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026",
-      "SRC-00037"
+      "SRC-00095",
+      "SRC-00094",
+      "SRC-00105"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -8348,9 +8913,9 @@
      "value": "240/480/600 V",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026",
-      "SRC-00037"
+      "SRC-00095",
+      "SRC-00094",
+      "SRC-00105"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -8362,9 +8927,9 @@
      "value": "FA 240V 10k@240; FA 480V 25k@240/18k@480; FH 65k@240/25k@480/18k@600",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026",
-      "SRC-00037"
+      "SRC-00095",
+      "SRC-00094",
+      "SRC-00105"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -8373,18 +8938,18 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-006",
+   "FAM-SQD-008"
   ],
   "source_ids": [
-   "SRC-00026",
-   "SRC-00027",
-   "SRC-00037"
+   "SRC-00094",
+   "SRC-00095",
+   "SRC-00105"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-002",
+  "id": "BRK-SQD-014",
   "mfr": "SQD",
   "name": "H-frame HD/HG/HJ/HL/HR (I-Line)",
   "aliases": [
@@ -8401,7 +8966,7 @@
      "value": "4.5 in. (2- and 3-pole)",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8413,7 +8978,7 @@
      "value": "Class 611",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 10",
      "basis": "oem_spec",
@@ -8425,7 +8990,7 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8437,7 +9002,7 @@
      "value": "150 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8449,7 +9014,7 @@
      "value": "2, 3 (HR 3)",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8461,7 +9026,7 @@
      "value": "15-150 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8473,7 +9038,7 @@
      "value": "600 V",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8485,7 +9050,7 @@
      "value": "HD 25k@240/18k@480; HG 65/35; HJ 100/65; HL 125/100; HR 200/200",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8494,16 +9059,16 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-008",
+   "FAM-SQD-006"
   ],
   "source_ids": [
-   "SRC-00027"
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-003",
+  "id": "BRK-SQD-015",
   "mfr": "SQD",
   "name": "Q-frame QB/QD/QG/QJ (I-Line)",
   "aliases": [
@@ -8520,7 +9085,7 @@
      "value": "3 in. (single value printed in the mounting-height columns for QB/QD/QG/QJ)",
      "conf": "C",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8533,7 +9098,7 @@
      "value": "Class 734",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 10",
      "basis": "oem_spec",
@@ -8545,7 +9110,7 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8557,7 +9122,7 @@
      "value": "225 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8569,7 +9134,7 @@
      "value": "2, 3",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8581,7 +9146,7 @@
      "value": "70-225 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8593,7 +9158,7 @@
      "value": "240 V",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8605,7 +9170,7 @@
      "value": "QB 10k, QD 25k, QG 65k, QJ 100k @240 V",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8614,16 +9179,16 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-008",
+   "FAM-SQD-006"
   ],
   "source_ids": [
-   "SRC-00027"
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-004",
+  "id": "BRK-SQD-016",
   "mfr": "SQD",
   "name": "J-frame JD/JG/JJ/JL/JR (I-Line)",
   "aliases": [
@@ -8640,7 +9205,7 @@
      "value": "4.5 in.",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8652,7 +9217,7 @@
      "value": "Class 611",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 10",
      "basis": "oem_spec",
@@ -8664,7 +9229,7 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8676,7 +9241,7 @@
      "value": "250 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8688,7 +9253,7 @@
      "value": "2, 3",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8700,7 +9265,7 @@
      "value": "150-250 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8712,7 +9277,7 @@
      "value": "600 V",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8724,7 +9289,7 @@
      "value": "JD 25k@240/18k@480; JG 65/35; JJ 100/65; JL 125/100; JR 200/200",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8733,16 +9298,16 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-008",
+   "FAM-SQD-006"
   ],
   "source_ids": [
-   "SRC-00027"
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-005",
+  "id": "BRK-SQD-017",
   "mfr": "SQD",
   "name": "LA / LH (I-Line)",
   "aliases": [
@@ -8757,7 +9322,7 @@
      "value": "6 in. (2- and 3-pole)",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8769,7 +9334,7 @@
      "value": "Class 660",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 10",
      "basis": "oem_spec",
@@ -8781,7 +9346,7 @@
      "value": "I-Line plug-on (bolt-on factory option)",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8793,7 +9358,7 @@
      "value": "400 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8805,7 +9370,7 @@
      "value": "2, 3",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8817,7 +9382,7 @@
      "value": "125-400 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8829,7 +9394,7 @@
      "value": "600 V",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8841,7 +9406,7 @@
      "value": "LA 42k@240/30k@480/22k@600; LH 65/35/25",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -8850,16 +9415,16 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-006",
+   "FAM-SQD-008"
   ],
   "source_ids": [
-   "SRC-00027"
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-006",
+  "id": "BRK-SQD-018",
   "mfr": "SQD",
   "name": "LC (I-Line, 600 A)",
   "aliases": [
@@ -8871,7 +9436,7 @@
      "value": "7.5 in.",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8883,7 +9448,7 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8895,7 +9460,7 @@
      "value": "600 A",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8907,7 +9472,7 @@
      "value": "3",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8919,7 +9484,7 @@
      "value": "300-600 A",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8931,7 +9496,7 @@
      "value": "600 V",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8943,7 +9508,7 @@
      "value": "100k@240/65k@480/35k@600",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8952,15 +9517,15 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001"
+   "FAM-SQD-008"
   ],
   "source_ids": [
-   "SRC-00026"
+   "SRC-00094"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-007",
+  "id": "BRK-SQD-019",
   "mfr": "SQD",
   "name": "I-Limiter FI / KI / LI (I-Line)",
   "aliases": [
@@ -8975,7 +9540,7 @@
      "value": "FI 4.5 in.; KI 4.5 in.; LI 7.5 in.",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -8987,7 +9552,7 @@
      "value": "Replacing an LI with a KI requires (1) HLW4BL plus HNM1BL and HLW1BL fillers",
      "conf": "A",
      "src": [
-      "SRC-00034"
+      "SRC-00102"
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
@@ -8998,7 +9563,7 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9010,7 +9575,7 @@
      "value": "FI 100 A; KI 250 A; LI 600 A",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9022,7 +9587,7 @@
      "value": "2, 3",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9034,7 +9599,7 @@
      "value": "FI 20-100 A; KI 110-250 A; LI 300-600 A",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9046,7 +9611,7 @@
      "value": "600 V",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9058,7 +9623,7 @@
      "value": "200k@240/200k@480/100k@600",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9067,16 +9632,16 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-008",
+   "FAM-SQD-006"
   ],
   "source_ids": [
-   "SRC-00026"
+   "SRC-00094"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-008",
+  "id": "BRK-SQD-020",
   "mfr": "SQD",
   "name": "PowerPact L-frame LD/LG/LJ/LL/LR (I-Line)",
   "aliases": [
@@ -9093,7 +9658,7 @@
      "value": "No orderable mounting screw for L-frame in I-Line; a 10-32 x 5/8 screw can be used",
      "conf": "A",
      "src": [
-      "SRC-00040"
+      "SRC-00108"
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
@@ -9104,7 +9669,7 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9116,7 +9681,7 @@
      "value": "600 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9128,7 +9693,7 @@
      "value": "2, 3",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9140,7 +9705,7 @@
      "value": "250-600 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9152,7 +9717,7 @@
      "value": "600 V",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9164,7 +9729,7 @@
      "value": "LD 25k@240/18k@480; LG 65/35; LJ 100/65; LL 125/100; LR 200/200",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9173,16 +9738,16 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-006",
+   "FAM-SQD-008"
   ],
   "source_ids": [
-   "SRC-00027"
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-009",
+  "id": "BRK-SQD-021",
   "mfr": "SQD",
   "name": "M-frame MG/MJ (I-Line)",
   "aliases": [
@@ -9196,7 +9761,7 @@
      "value": "9 in. (per QED-2 table, shared with P-frame row)",
      "conf": "C",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9209,7 +9774,7 @@
      "value": "Class 612",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 10",
      "basis": "oem_spec",
@@ -9221,7 +9786,7 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9233,7 +9798,7 @@
      "value": "800 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9245,7 +9810,7 @@
      "value": "2, 3",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9257,7 +9822,7 @@
      "value": "300-800 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9269,7 +9834,7 @@
      "value": "600 V",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9281,7 +9846,7 @@
      "value": "MG 65k@240/35k@480/18k@600; MJ 100/65/25",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9290,16 +9855,16 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-006",
+   "FAM-SQD-008"
   ],
   "source_ids": [
-   "SRC-00027"
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-010",
+  "id": "BRK-SQD-022",
   "mfr": "SQD",
   "name": "P-frame PG/PJ/PK/PL (I-Line)",
   "aliases": [
@@ -9319,7 +9884,7 @@
      "value": "9 in. (2-/3-pole)",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9331,7 +9896,7 @@
      "value": "Cannot group mount 100% rated 1000 A and 1200 A P-frame; use R-frame",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9343,8 +9908,8 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -9356,8 +9921,8 @@
      "value": "1200 A",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -9369,8 +9934,8 @@
      "value": "2, 3",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -9382,8 +9947,8 @@
      "value": "100-1200 A (catalog 600-1200 A in 2110CT9701)",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -9395,8 +9960,8 @@
      "value": "600 V (PL 480 V)",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -9408,8 +9973,8 @@
      "value": "PG 65k@240/35k@480; PJ 100/65; PK 65/50/50 (Canada); PL 125/100",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 8; s1 p. 22",
      "basis": "oem_spec",
@@ -9418,17 +9983,17 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-006",
+   "FAM-SQD-008"
   ],
   "source_ids": [
-   "SRC-00026",
-   "SRC-00027"
+   "SRC-00094",
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-011",
+  "id": "BRK-SQD-023",
   "mfr": "SQD",
   "name": "R-frame RG/RJ/RK/RL (I-Line)",
   "aliases": [
@@ -9448,7 +10013,7 @@
      "value": "15 in.",
      "conf": "A",
      "src": [
-      "SRC-00026"
+      "SRC-00094"
      ],
      "page": "p. 22",
      "basis": "oem_spec",
@@ -9460,8 +10025,8 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 9; s1 p. 22",
      "basis": "oem_spec",
@@ -9473,8 +10038,8 @@
      "value": "1200 A (2500 A frame per QED-2 table)",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 9; s1 p. 22",
      "basis": "oem_spec",
@@ -9486,8 +10051,8 @@
      "value": "2, 3",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 9; s1 p. 22",
      "basis": "oem_spec",
@@ -9499,8 +10064,8 @@
      "value": "1000-1200 A",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 9; s1 p. 22",
      "basis": "oem_spec",
@@ -9512,8 +10077,8 @@
      "value": "600 V",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 9; s1 p. 22",
      "basis": "oem_spec",
@@ -9525,8 +10090,8 @@
      "value": "RG 65k@240/35k@480; RJ 100/65; RK 65/65/65 (Canada); RL 125/100/50",
      "conf": "A",
      "src": [
-      "SRC-00027",
-      "SRC-00026"
+      "SRC-00095",
+      "SRC-00094"
      ],
      "page": "s2 p. 9; s1 p. 22",
      "basis": "oem_spec",
@@ -9535,17 +10100,17 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-001",
-   "FAM-SQD-004"
+   "FAM-SQD-006",
+   "FAM-SQD-008"
   ],
   "source_ids": [
-   "SRC-00026",
-   "SRC-00027"
+   "SRC-00094",
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-012",
+  "id": "BRK-SQD-024",
   "mfr": "SQD",
   "name": "PowerPact B-frame BD/BG/BJ/BK (I-Line)",
   "aliases": [
@@ -9561,7 +10126,7 @@
      "value": "I-Line plug-on",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9573,7 +10138,7 @@
      "value": "125 A",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9585,7 +10150,7 @@
      "value": "1, 2, 3 (BK 1, 2)",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9597,7 +10162,7 @@
      "value": "15-125 A (BK 15-30 A)",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9609,7 +10174,7 @@
      "value": "600Y/347 V",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9621,7 +10186,7 @@
      "value": "BD 25k@240/18k@480; BG 65/35; BJ 100/65; BK 100/65/65",
      "conf": "A",
      "src": [
-      "SRC-00027"
+      "SRC-00095"
      ],
      "page": "p. 8",
      "basis": "oem_spec",
@@ -9630,15 +10195,15 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-004"
+   "FAM-SQD-006"
   ],
   "source_ids": [
-   "SRC-00027"
+   "SRC-00095"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-013",
+  "id": "BRK-SQD-025",
   "mfr": "SQD",
   "name": "QMB circuit breaker units (H-, J-, L-frame)",
   "aliases": [
@@ -9651,7 +10216,7 @@
      "value": "QMB plug-on unit with permanently attached mounting brackets",
      "conf": "A",
      "src": [
-      "SRC-00028"
+      "SRC-00096"
      ],
      "page": "pp. 17-18",
      "basis": "oem_spec",
@@ -9663,7 +10228,7 @@
      "value": "Twin H-frame HD/HG 15-150 A; single JD/JG 150-250 A; single LA/LH 225-400 A",
      "conf": "A",
      "src": [
-      "SRC-00028"
+      "SRC-00096"
      ],
      "page": "pp. 17-18",
      "basis": "oem_spec",
@@ -9675,7 +10240,7 @@
      "value": "600 Vac / 250 Vdc",
      "conf": "A",
      "src": [
-      "SRC-00028"
+      "SRC-00096"
      ],
      "page": "pp. 17-18",
      "basis": "oem_spec",
@@ -9687,7 +10252,7 @@
      "value": "HD 25k@240/18k@480/14k@600; HG 65/35/18; JD 25/18/14; JG 65/35/18; LA 42/30/22; LH 65/35/25",
      "conf": "A",
      "src": [
-      "SRC-00028"
+      "SRC-00096"
      ],
      "page": "pp. 17-18",
      "basis": "oem_spec",
@@ -9696,16 +10261,16 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-003",
-   "FAM-SQD-001"
+   "FAM-SQD-007",
+   "FAM-SQD-008"
   ],
   "source_ids": [
-   "SRC-00028"
+   "SRC-00096"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
  {
-  "id": "BRK-SQD-014",
+  "id": "BRK-SQD-026",
   "mfr": "SQD",
   "name": "Square D FA/FH/FC/FI (F-frame 100/150 A)",
   "aliases": [
@@ -9724,7 +10289,7 @@
      "value": "FY not listed in the lug tables found; alias recorded for search only.",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9736,7 +10301,7 @@
      "value": "F-Frame (FA family)",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9748,7 +10313,7 @@
      "value": "15-150 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9758,12 +10323,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-015",
+  "id": "BRK-SQD-027",
   "mfr": "SQD",
   "name": "Square D KA/KH/KC/KI (K-frame 250 A)",
   "aliases": [
@@ -9781,7 +10346,7 @@
      "value": "K-Frame (KA family)",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9793,7 +10358,7 @@
      "value": "110-250 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9803,12 +10368,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-016",
+  "id": "BRK-SQD-028",
   "mfr": "SQD",
   "name": "Square D LA/LH (L-frame 400 A)",
   "aliases": [
@@ -9823,7 +10388,7 @@
      "value": "L-Frame (LA family)",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9835,7 +10400,7 @@
      "value": "125-400 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9845,12 +10410,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-017",
+  "id": "BRK-SQD-029",
   "mfr": "SQD",
   "name": "Square D Q4 (400 A, LA-type lugs)",
   "aliases": [
@@ -9863,7 +10428,7 @@
      "value": "Q4",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9875,7 +10440,7 @@
      "value": "125-400 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9885,12 +10450,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-018",
+  "id": "BRK-SQD-030",
   "mfr": "SQD",
   "name": "Square D LC/LI/LE/LX/LXI (L-frame 600 A)",
   "aliases": [
@@ -9906,7 +10471,7 @@
      "value": "L-Frame (LI family)",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9918,7 +10483,7 @@
      "value": "100-600 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -9928,12 +10493,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-019",
+  "id": "BRK-SQD-031",
   "mfr": "SQD",
   "name": "Square D MA/MH/MX/ME (M-frame 1000 A)",
   "aliases": [
@@ -9948,7 +10513,7 @@
      "value": "Only control-wire tapped lugs AL900MAT/AL1000MAT found; standard MA lug kits not located (lead).",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -9960,7 +10525,7 @@
      "value": "M-Frame (MA family)",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -9972,7 +10537,7 @@
      "value": "up to 1000 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -9982,12 +10547,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-020",
+  "id": "BRK-SQD-032",
   "mfr": "SQD",
   "name": "Square D NA/NC/NX/NE (N-frame 1200 A)",
   "aliases": [
@@ -10002,7 +10567,7 @@
      "value": "N-Frame (NA family)",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -10014,7 +10579,7 @@
      "value": "up to 1200 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -10024,12 +10589,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-021",
+  "id": "BRK-SQD-033",
   "mfr": "SQD",
   "name": "Square D PowerPact H-Frame (HD/HG/HJ/HL/HR)",
   "aliases": [
@@ -10051,7 +10616,7 @@
      "value": "PowerPact H",
      "conf": "A",
      "src": [
-      "SRC-00112"
+      "SRC-00180"
      ],
      "page": "p.124",
      "basis": "oem_spec",
@@ -10063,7 +10628,7 @@
      "value": "15-150 A",
      "conf": "A",
      "src": [
-      "SRC-00112"
+      "SRC-00180"
      ],
      "page": "p.124",
      "basis": "oem_spec",
@@ -10073,12 +10638,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00112"
+   "SRC-00180"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-022",
+  "id": "BRK-SQD-034",
   "mfr": "SQD",
   "name": "Square D PowerPact J-Frame (JD/JG/JJ/JL/JR)",
   "aliases": [
@@ -10100,7 +10665,7 @@
      "value": "PowerPact J",
      "conf": "A",
      "src": [
-      "SRC-00112"
+      "SRC-00180"
      ],
      "page": "p.124",
      "basis": "oem_spec",
@@ -10112,7 +10677,7 @@
      "value": "150-250 A",
      "conf": "A",
      "src": [
-      "SRC-00112"
+      "SRC-00180"
      ],
      "page": "p.124",
      "basis": "oem_spec",
@@ -10122,12 +10687,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00112"
+   "SRC-00180"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-023",
+  "id": "BRK-SQD-035",
   "mfr": "SQD",
   "name": "Square D PowerPact L-Frame (LD/LG/LJ/LL/LR)",
   "aliases": [
@@ -10149,7 +10714,7 @@
      "value": "PowerPact L",
      "conf": "A",
      "src": [
-      "SRC-00112"
+      "SRC-00180"
      ],
      "page": "p.124",
      "basis": "oem_spec",
@@ -10161,7 +10726,7 @@
      "value": "250-600 A",
      "conf": "A",
      "src": [
-      "SRC-00112"
+      "SRC-00180"
      ],
      "page": "p.124",
      "basis": "oem_spec",
@@ -10171,12 +10736,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00112"
+   "SRC-00180"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-024",
+  "id": "BRK-SQD-036",
   "mfr": "SQD",
   "name": "Square D PowerPact M-Frame (MG/MJ)",
   "aliases": [
@@ -10189,7 +10754,7 @@
      "value": "PowerPact M",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -10201,7 +10766,7 @@
      "value": "up to 800 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -10211,12 +10776,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-025",
+  "id": "BRK-SQD-037",
   "mfr": "SQD",
   "name": "Square D PowerPact P-Frame (PG/PJ/PL)",
   "aliases": [
@@ -10230,7 +10795,7 @@
      "value": "PowerPact P",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -10242,7 +10807,7 @@
      "value": "up to 1200 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -10252,12 +10817,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-026",
+  "id": "BRK-SQD-038",
   "mfr": "SQD",
   "name": "Square D PowerPact R-Frame (RG/RJ/RL)",
   "aliases": [
@@ -10271,7 +10836,7 @@
      "value": "PowerPact R",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -10283,7 +10848,7 @@
      "value": "up to 3000 A (1200 A tapped lug listed)",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-17",
      "basis": "oem_spec",
@@ -10293,12 +10858,12 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
-  "id": "BRK-SQD-027",
+  "id": "BRK-SQD-039",
   "mfr": "SQD",
   "name": "Square D PowerPact D-Frame (DG/DJ/DL)",
   "aliases": [
@@ -10312,7 +10877,7 @@
      "value": "PowerPact D",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -10324,7 +10889,7 @@
      "value": "150-600 A",
      "conf": "A",
      "src": [
-      "SRC-00114"
+      "SRC-00182"
      ],
      "page": "p.3-28",
      "basis": "oem_spec",
@@ -10334,574 +10899,9 @@
   },
   "family_ids": [],
   "source_ids": [
-   "SRC-00114"
+   "SRC-00182"
   ],
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
- },
- {
-  "id": "BRK-SQD-028",
-  "mfr": "SQD",
-  "name": "QO (plug-on)",
-  "aliases": [
-   "QO-H",
-   "QO-VH",
-   "QOH"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "plug-on",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-9",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "voltage": [
-    {
-     "value": "120/240 Vac; 48 Vdc where DC rated",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-9",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "status": [
-    {
-     "value": "current",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-006",
-   "FAM-SQD-007"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-029",
-  "mfr": "SQD",
-  "name": "QOB (bolt-on)",
-  "aliases": [
-   "QOB-H",
-   "QOB-HID",
-   "QOB-VH"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "bolt-on to NQ branch connectors; may also be used back-fed as 100-150 A main",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-9",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "status": [
-    {
-     "value": "current",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-006",
-   "FAM-SQD-007"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-030",
-  "mfr": "SQD",
-  "name": "EDB / EGB / EJB (E-frame bolt-on)",
-  "aliases": [
-   "ED",
-   "EDB EPD",
-   "EG",
-   "EJ"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "bolt-on to NF branch connectors; EDB 3P 125 A can be back-fed as main with NFEDBS",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-31, 9-32",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "poles": [
-    {
-     "value": "1, 2, 3",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-32",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "amps": [
-    {
-     "value": "15-70 A (1P), 15-125 A (2P/3P)",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-32",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "voltage": [
-    {
-     "value": "480Y/277 Vac (US); 600Y/347 Vac versions via se.com/ca",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-32",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "interrupting": [
-    {
-     "value": "EDB 18 kA, EGB 35 kA, EJB 65 kA @ 480Y/277 V",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-32",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "status": [
-    {
-     "value": "current",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-009"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-031",
-  "mfr": "SQD",
-  "name": "EH / EHB",
-  "aliases": [
-   "EH plug-on",
-   "EHB bolt-on"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "EH plug-on; EHB bolt-on",
-     "conf": "A",
-     "src": [
-      "SRC-00236"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "status": [
-    {
-     "value": "obsolete / no longer available",
-     "conf": "C",
-     "src": [
-      "SRC-00240"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-010"
-  ],
-  "source_ids": [
-   "SRC-00236",
-   "SRC-00240"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-032",
-  "mfr": "SQD",
-  "name": "PowerPacT Q-frame (QB/QD/QG/QJ)",
-  "aliases": [
-   "QBL",
-   "QDL",
-   "QGL",
-   "QJL"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "in NQ: vertical main/sub-feed on adapter pan (NQMB2Q/NQSFB2Q) with lug wires; I-Line plug-on in HCJ",
-     "conf": "A",
-     "src": [
-      "SRC-00177",
-      "SRC-00185"
-     ],
-     "page": "p. 9-9",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "frame": [
-    {
-     "value": "Q",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-004",
-   "FAM-SQD-006"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-033",
-  "mfr": "SQD",
-  "name": "PowerPacT H-frame (HD/HG/HJ/HL/HR)",
-  "aliases": [
-   "HDL",
-   "HGL",
-   "HJL",
-   "HLL",
-   "HRL"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37444 with hard-bus connectors",
-     "conf": "A",
-     "src": [
-      "SRC-00187",
-      "SRC-00211"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "frame": [
-    {
-     "value": "H (150 A max)",
-     "conf": "A",
-     "src": [
-      "SRC-00187"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-004",
-   "FAM-SQD-006",
-   "FAM-SQD-009"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-034",
-  "mfr": "SQD",
-  "name": "PowerPacT J-frame (JD/JG/JJ/JL/JR)",
-  "aliases": [
-   "JDL",
-   "JGL",
-   "JJL",
-   "JLL",
-   "JRL"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37445",
-     "conf": "A",
-     "src": [
-      "SRC-00187",
-      "SRC-00211"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "frame": [
-    {
-     "value": "J (250 A max)",
-     "conf": "A",
-     "src": [
-      "SRC-00187"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-004",
-   "FAM-SQD-006",
-   "FAM-SQD-009"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-035",
-  "mfr": "SQD",
-  "name": "LA / LH (L-frame, legacy thermal-magnetic)",
-  "aliases": [
-   "LAL",
-   "LAL36400MB",
-   "LHL"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "NQMB4LA / N400M; order short-handle breaker (e.g. LAL36400MB)",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-9 fn",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "frame": [
-    {
-     "value": "LA/LH 125-400 A",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "page": "p. 9-9",
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-004",
-   "FAM-SQD-006",
-   "FAM-SQD-009"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-036",
-  "mfr": "SQD",
-  "name": "PowerPacT L-frame (LG/LJ/LL/LR)",
-  "aliases": [
-   "PPL"
-  ],
-  "claims": {
-   "mounting": [
-    {
-     "value": "NQMB6PPL / N600MPPL kits; requires 8.75 in. deep D9 boxes; M10x25 connector screws 442 lb-in",
-     "conf": "A",
-     "src": [
-      "SRC-00177",
-      "SRC-00230"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "frame": [
-    {
-     "value": "L 125-600 A",
-     "conf": "A",
-     "src": [
-      "SRC-00177"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-004",
-   "FAM-SQD-006",
-   "FAM-SQD-009"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-037",
-  "mfr": "SQD",
-  "name": "KI / KC frame (legacy)",
-  "aliases": [
-   "KI",
-   "KC",
-   "N250MKC"
-  ],
-  "claims": {
-   "frame": [
-    {
-     "value": "K (225/250 A)",
-     "conf": "A",
-     "src": [
-      "SRC-00188"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ],
-   "status": [
-    {
-     "value": "legacy (kits dated 2008-2009)",
-     "conf": "C",
-     "src": [
-      "SRC-00188"
-     ],
-     "basis": "inference",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-006",
-   "FAM-SQD-009",
-   "FAM-SQD-007"
-  ],
-  "source_ids": [
-   "SRC-00188",
-   "SRC-00212"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-038",
-  "mfr": "SQD",
-  "name": "FI frame (legacy)",
-  "aliases": [
-   "FI"
-  ],
-  "claims": {
-   "frame": [
-    {
-     "value": "F (100 A)",
-     "conf": "A",
-     "src": [
-      "SRC-00212"
-     ],
-     "basis": "oem_spec",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-009"
-  ],
-  "source_ids": [
-   "SRC-00212"
-  ],
-  "created_batch": "B0003-squared-panelboards"
- },
- {
-  "id": "BRK-SQD-039",
-  "mfr": "SQD",
-  "name": "PowerPacT M / P / R frame (I-Line)",
-  "aliases": [
-   "MG",
-   "MJ",
-   "PG",
-   "PJ",
-   "PK",
-   "PL",
-   "RG",
-   "RJ",
-   "RK",
-   "RL"
-  ],
-  "claims": {
-   "frame": [
-    {
-     "value": "M 800 A, P up to 1200 A, R 1200 A",
-     "conf": "B",
-     "src": [
-      "SRC-00177"
-     ],
-     "basis": "oem_spec",
-     "note": "Ampacity limits inferred from I-Line sub-feed table",
-     "batch": "B0003-squared-panelboards"
-    }
-   ]
-  },
-  "family_ids": [
-   "FAM-SQD-004",
-   "FAM-SQD-009"
-  ],
-  "source_ids": [
-   "SRC-00177"
-  ],
-  "created_batch": "B0003-squared-panelboards"
  },
  {
   "id": "BRK-SQD-040",
@@ -10919,8 +10919,8 @@
      "value": "QO plug-on (NQO), QOB bolt-on (NQOB)",
      "conf": "A",
      "src": [
-      "SRC-00245",
-      "SRC-00246"
+      "SRC-00437",
+      "SRC-00438"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -10931,7 +10931,7 @@
      "value": "1P 15-50 A, 2P 15-70 A and 70-100 A, 3P 15-50 A and 70-100 A (1960)",
      "conf": "A",
      "src": [
-      "SRC-00245"
+      "SRC-00437"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -10942,7 +10942,7 @@
      "value": "AC only in NQO/NQOB (1960)",
      "conf": "A",
      "src": [
-      "SRC-00246"
+      "SRC-00438"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
@@ -10953,9 +10953,9 @@
    "FAM-SQD-011"
   ],
   "source_ids": [
-   "SRC-00245",
-   "SRC-00246",
-   "SRC-00247"
+   "SRC-00437",
+   "SRC-00438",
+   "SRC-00439"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -10973,7 +10973,7 @@
      "value": "Discontinued, no replacement (search summary)",
      "conf": "C",
      "src": [
-      "SRC-00266"
+      "SRC-00459"
      ],
      "basis": "oem_web",
      "batch": "B0012-archival-legacy-panelboards"
@@ -10981,10 +10981,10 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-010"
+   "FAM-SQD-005"
   ],
   "source_ids": [
-   "SRC-00266"
+   "SRC-00459"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -11002,7 +11002,7 @@
      "value": "Obsolete",
      "conf": "A",
      "src": [
-      "SRC-00263"
+      "SRC-00456"
      ],
      "basis": "oem_web",
      "batch": "B0012-archival-legacy-panelboards"
@@ -11011,12 +11011,12 @@
   },
   "family_ids": [
    "FAM-SQD-013",
-   "FAM-SQD-010"
+   "FAM-SQD-005"
   ],
   "source_ids": [
-   "SRC-00263",
-   "SRC-00264",
-   "SRC-00267"
+   "SRC-00456",
+   "SRC-00457",
+   "SRC-00460"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -11033,7 +11033,7 @@
      "value": "1-pole 15-50 A",
      "conf": "A",
      "src": [
-      "SRC-00264"
+      "SRC-00457"
      ],
      "basis": "oem_web",
      "batch": "B0012-archival-legacy-panelboards"
@@ -11044,7 +11044,7 @@
      "value": "Obsolete and no longer available",
      "conf": "A",
      "src": [
-      "SRC-00264"
+      "SRC-00457"
      ],
      "basis": "oem_web",
      "batch": "B0012-archival-legacy-panelboards"
@@ -11052,10 +11052,10 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-010"
+   "FAM-SQD-005"
   ],
   "source_ids": [
-   "SRC-00264"
+   "SRC-00457"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -11086,8 +11086,8 @@
      "value": "Connecticut Electric UBIZ series (e.g., UBIZ2100 = QCAL100; UBIZ3150 = QFP24150; UBITBFP2002 = QFP2200T/QFBL2200; UBIZ243040 = QB243040)",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00155"
+      "SRC-00221",
+      "SRC-00223"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11098,9 +11098,9 @@
      "value": "plug-in (Q/QC/R38, QFP mains) and bolt-on (QB/QCB/QFB) onto on-edge flat bus",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00152",
-      "SRC-00151"
+      "SRC-00221",
+      "SRC-00220",
+      "SRC-00219"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11111,9 +11111,9 @@
      "value": "15-225 A",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00152",
-      "SRC-00151"
+      "SRC-00221",
+      "SRC-00220",
+      "SRC-00219"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11124,9 +11124,9 @@
      "value": "120/240 V; 240 V 3-ph (Q24, QFP24, QB243xxx)",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00152",
-      "SRC-00151"
+      "SRC-00221",
+      "SRC-00220",
+      "SRC-00219"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11137,9 +11137,9 @@
      "value": "10 kA (QFP24125, QCB30, QFL23225 listings)",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00152",
-      "SRC-00151"
+      "SRC-00221",
+      "SRC-00220",
+      "SRC-00219"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11150,9 +11150,9 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00152",
-      "SRC-00151"
+      "SRC-00221",
+      "SRC-00220",
+      "SRC-00219"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11164,9 +11164,9 @@
    "FAM-ZIN-002"
   ],
   "source_ids": [
-   "SRC-00153",
-   "SRC-00152",
-   "SRC-00151"
+   "SRC-00221",
+   "SRC-00220",
+   "SRC-00219"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -11186,8 +11186,8 @@
      "value": "Pattern appears to be QSF-<amp code: T3/T6 twin 30/60 A, 10=100, 20=200, 40=400, 60=600><3 poles><3=240 V, 5=600 V>",
      "conf": "D",
      "src": [
-      "SRC-00153",
-      "SRC-00174"
+      "SRC-00221",
+      "SRC-00242"
      ],
      "basis": "inference",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11198,9 +11198,9 @@
      "value": "bolt-on panel mounted switch unit",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00174",
-      "SRC-00157"
+      "SRC-00221",
+      "SRC-00242",
+      "SRC-00225"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11211,9 +11211,9 @@
      "value": "30-600 A",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00174",
-      "SRC-00157"
+      "SRC-00221",
+      "SRC-00242",
+      "SRC-00225"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11224,9 +11224,9 @@
      "value": "240 V / 600 V",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00174",
-      "SRC-00157"
+      "SRC-00221",
+      "SRC-00242",
+      "SRC-00225"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11237,9 +11237,9 @@
      "value": "200 kA (with RK1/RK5 fuses)",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00174",
-      "SRC-00157"
+      "SRC-00221",
+      "SRC-00242",
+      "SRC-00225"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11250,9 +11250,9 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00174",
-      "SRC-00157"
+      "SRC-00221",
+      "SRC-00242",
+      "SRC-00225"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11264,9 +11264,9 @@
    "FAM-OTH-001"
   ],
   "source_ids": [
-   "SRC-00153",
-   "SRC-00174",
-   "SRC-00157"
+   "SRC-00221",
+   "SRC-00242",
+   "SRC-00225"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -11289,7 +11289,7 @@
      "value": "Superbreakers lists SEH as fitting Eaton F-frame, Sylvania, Challenger and Westinghouse panelboards and crosses to Eaton EHD - sales claim only",
      "conf": "D",
      "src": [
-      "SRC-00153"
+      "SRC-00221"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11300,8 +11300,8 @@
      "value": "bolt-on",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00165"
+      "SRC-00221",
+      "SRC-00233"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11312,8 +11312,8 @@
      "value": "15-800 A (SEH to 100 A; SF to 175 A; SJK 250-600 A; SKM 800 A)",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00165"
+      "SRC-00221",
+      "SRC-00233"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11324,8 +11324,8 @@
      "value": "240/480/600 V",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00165"
+      "SRC-00221",
+      "SRC-00233"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11336,8 +11336,8 @@
      "value": "SEH 18 kA@240/14 kA@480; SF 25 kA@480; SJK 30 kA@480 (listings)",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00165"
+      "SRC-00221",
+      "SRC-00233"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11348,8 +11348,8 @@
      "value": "Obsolete (original FPE); recertified / new-surplus units sold by aftermarket",
      "conf": "C",
      "src": [
-      "SRC-00153",
-      "SRC-00165"
+      "SRC-00221",
+      "SRC-00233"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -11361,8 +11361,8 @@
    "FAM-EAT-028"
   ],
   "source_ids": [
-   "SRC-00153",
-   "SRC-00165"
+   "SRC-00221",
+   "SRC-00233"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  }

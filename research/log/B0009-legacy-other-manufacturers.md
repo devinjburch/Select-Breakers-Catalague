@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: agent/Claude Code research subagent (web search + distributor catalog JSON extraction)
 * Scope: Obsolete commercial/industrial panelboards & switchboards outside the big-four lineages (FPE, Zinsco/Sylvania/Challenger, Murray, Bulldog Pushmatic, Trumbull, Frank Adam, Wadsworth, Commander, Kinney, etc.) and their mounting hardware, kits, replacement interiors and aftermarket replacement parts.
-* Merge stats: {'sources_new': 39, 'families_new': 18, 'breakers_new': 14, 'parts_new': 152, 'parts_updated': 1, 'leads_new': 14, 'docs_filed': 1, 'batch': 'B0009-legacy-other-manufacturers'}
+* Merge stats: {'sources_new': 39, 'families_new': 18, 'breakers_new': 14, 'parts_new': 152, 'parts_updated': 1, 'leads_new': 14, 'docs_filed': 0, 'batch': 'B0009-legacy-other-manufacturers'}
 
 ## Narrative
 

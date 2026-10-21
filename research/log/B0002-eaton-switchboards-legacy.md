@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude (Opus 5.5) research subagent, Claude Code session
 * Scope: Eaton/Cutler-Hammer/Westinghouse switchboards and legacy distribution equipment: Pow-R-Line C, Pow-R-Line i, Pow-R-Line CS, IFS, WF/WRP, ES switchboards; Westinghouse CDP/HCDP, FDP, PRL1/2/3, NLAB/NAB group panelboards; PRL4 connector kits; BR loadcenter hardware; Westinghouse breaker families and Series C replacements.
-* Merge stats: {'sources_new': 13, 'families_new': 10, 'breakers_new': 32, 'parts_new': 38, 'parts_updated': 89, 'leads_new': 11, 'docs_filed': 0, 'batch': 'B0002-eaton-switchboards-legacy'}
+* Merge stats: {'sources_new': 14, 'families_new': 10, 'breakers_new': 32, 'parts_new': 38, 'parts_updated': 89, 'leads_new': 11, 'docs_filed': 0, 'batch': 'B0002-eaton-switchboards-legacy'}
 
 ## Narrative
 

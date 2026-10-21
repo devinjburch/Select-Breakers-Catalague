@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude agent (research session B0011, docs depth pass GE/ABB Spectra & A-Series, Square D QED-2/I-Line/NQ/NF)
 * Scope: Depth pass for parts already catalogued: OEM instruction leaflets (GE DEH/GEH Spectra bolt-on and plug-in kit instructions, Square D instruction bulletins/data bulletins) giving kit contents with piece part numbers, torques, hole patterns, dimensions; ABB current status/supersession (empower, retrofit kits).
-* Merge stats: {'sources_new': 38, 'families_new': 0, 'breakers_new': 0, 'parts_new': 179, 'parts_updated': 133, 'leads_new': 9, 'docs_filed': 38, 'batch': 'B0011-docs-ge-squared'}
+* Merge stats: {'sources_new': 38, 'families_new': 0, 'breakers_new': 0, 'parts_new': 179, 'parts_updated': 133, 'leads_new': 9, 'docs_filed': 0, 'batch': 'B0011-docs-ge-squared'}
 
 ## Narrative
 

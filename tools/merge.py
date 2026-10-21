@@ -155,13 +155,14 @@ def merge_batch(store, path, warnings):
     # ---- sources
     srcmap = {}
     by_url = {norm_url(s.get("url")): s for s in store.sources if s.get("url")}
-    by_doc = {(s.get("publisher", "").lower(), norm_pn(s.get("doc_number"))): s
+    # editions of one document share a doc number, so the date is part of the key
+    by_doc = {(s.get("publisher", "").lower(), norm_pn(s.get("doc_number")), (s.get("date") or "")[:7]): s
               for s in store.sources if s.get("doc_number")}
     for s in b.get("sources", []):
         key = s.get("key")
         hit = by_url.get(norm_url(s.get("url"))) if s.get("url") else None
         if not hit and s.get("doc_number"):
-            hit = by_doc.get((s.get("publisher", "").lower(), norm_pn(s.get("doc_number"))))
+            hit = by_doc.get((s.get("publisher", "").lower(), norm_pn(s.get("doc_number")), (s.get("date") or "")[:7]))
         if hit:
             srcmap[key] = hit["id"]
             for k, v in s.items():
@@ -182,6 +183,10 @@ def merge_batch(store, path, warnings):
             rec["batches"].append(batch)
         # file local document
         lf = rec.get("local_file")
+        if lf and "_unlinked" in lf and not (ROOT / lf).exists():
+            filed = sorted(LIB.glob(f"[!_]*/{Path(lf).name}"))
+            if filed:
+                rec["local_file"] = lf = str(filed[0].relative_to(ROOT))
         if lf and "_unlinked" in lf and (ROOT / lf).exists():
             # a previously unreferenced document is now cited: file it with its manufacturer
             dest = LIB / rec.get("mfr", "OTH") / Path(lf).name
@@ -196,7 +201,13 @@ def merge_batch(store, path, warnings):
             src_path = ROOT / lf
             if not src_path.exists():
                 # re-merge of an archived batch: the file was already filed in the library
-                filed = sorted(LIB.glob(f"*/{Path(lf).name}"))
+                name = Path(lf).name
+                filed = sorted(LIB.glob(f"[!_]*/{name}")) or sorted(LIB.glob(f"_unlinked/*/{name}"))
+                if filed and "_unlinked" in str(filed[0]):
+                    dest = LIB / rec.get("mfr", "OTH") / name
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    shutil.move(str(filed[0]), dest)
+                    filed = [dest]
                 if filed:
                     rec["local_file"] = str(filed[0].relative_to(ROOT))
                     rec["sha256"] = sha256(filed[0])

@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude agent session (Siemens instruction-sheet bucket, remaining sheets)
 * Scope: Remaining Siemens SIE_IS_* kit instruction sheets in the dcc-data-extract bucket relevant to panelboard/switchboard and MCCB connection hardware (strap kits, lug/terminal kits, rear studs, plug-in bases, shields, fillers, Vacu-Break/HCP kits), legacy Series 5/6 (ITE heritage) kit drawings, and SPEEDFAX 2011 switchboard replacement-kit tables.
-* Merge stats: {'sources_new': 124, 'families_new': 1, 'breakers_new': 0, 'parts_new': 306, 'parts_updated': 123, 'leads_new': 9, 'docs_filed': 124, 'batch': 'B0014-siemens-instruction-sheets'}
+* Merge stats: {'sources_new': 124, 'families_new': 1, 'breakers_new': 0, 'parts_new': 309, 'parts_updated': 120, 'leads_new': 9, 'docs_filed': 0, 'batch': 'B0014-siemens-instruction-sheets'}
 
 ## Narrative
 

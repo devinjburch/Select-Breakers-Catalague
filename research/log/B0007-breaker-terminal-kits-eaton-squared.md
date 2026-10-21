@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research subagent (claude-opus-5-5)
 * Scope: Breaker-mounted terminal/lug kits and connection hardware (terminal shields, interphase barriers, keeper/plug nuts, end caps, control-wire terminals, multiwire/PDC connectors, compression lugs, rear connection studs, panelboard connecting straps) for Eaton/Cutler-Hammer Series C (F/J/K/L/M/N/R/G) and Series G (EG/JG/LG/NG) MCCBs, and Square D FA/KA/KI/LA/LH/Q4/LI/MA/NA and PowerPact D/H/J/L/M/P/R MCCBs.
-* Merge stats: {'sources_new': 18, 'families_new': 0, 'breakers_new': 26, 'parts_new': 381, 'parts_updated': 8, 'leads_new': 7, 'docs_filed': 0, 'batch': 'B0007-breaker-terminal-kits-eaton-squared'}
+* Merge stats: {'sources_new': 18, 'families_new': 0, 'breakers_new': 26, 'parts_new': 379, 'parts_updated': 10, 'leads_new': 7, 'docs_filed': 0, 'batch': 'B0007-breaker-terminal-kits-eaton-squared'}
 
 ## Narrative
 

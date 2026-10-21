@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude (Opus 5.5) research subagent, Claude Code session
 * Scope: Square D / Schneider Electric switchboards: Power-Style QED-2 and Speed-D, QMB/QMJ fusible distribution (current and legacy QM/QW 'Saflex'), I-Line distribution sections and I-Line breaker mounting hardware (fillers, extensions, plug-on sub-feed lugs, mounting screws), QED structure renewal hardware.
-* Merge stats: {'sources_new': 49, 'families_new': 5, 'breakers_new': 13, 'parts_new': 176, 'parts_updated': 1, 'leads_new': 13, 'docs_filed': 0, 'batch': 'B0004-squared-switchboards'}
+* Merge stats: {'sources_new': 49, 'families_new': 3, 'breakers_new': 13, 'parts_new': 158, 'parts_updated': 19, 'leads_new': 13, 'docs_filed': 0, 'batch': 'B0004-squared-switchboards'}
 
 ## Narrative
 

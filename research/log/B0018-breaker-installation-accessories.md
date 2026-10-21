@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research agent (Opus) - breaker installation accessories batch
 * Scope: Field-installable breaker accessories and panel installation components for panelboard/switchboard breakers (Eaton/Cutler-Hammer, Square D, GE/ABB, Siemens): handle padlock attachments, lock-on/lock-off devices, handle ties, hold-down/retaining kits, field-installable shunt/aux/alarm/UVR kits, door locks/keys, directory cards, circuit-number strips, mounting screws.
-* Merge stats: {'sources_new': 10, 'families_new': 0, 'breakers_new': 0, 'parts_new': 291, 'parts_updated': 32, 'leads_new': 9, 'docs_filed': 6, 'batch': 'B0018-breaker-installation-accessories'}
+* Merge stats: {'sources_new': 10, 'families_new': 0, 'breakers_new': 0, 'parts_new': 291, 'parts_updated': 32, 'leads_new': 9, 'docs_filed': 0, 'batch': 'B0018-breaker-installation-accessories'}
 
 ## Narrative
 

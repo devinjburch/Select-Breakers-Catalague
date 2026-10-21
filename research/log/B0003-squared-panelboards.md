@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research subagent (Opus 5.5), batch B0003
 * Scope: Square D / Schneider Electric NQ (and legacy NQOD/NQO), NF (and legacy NEHB), I-Line (HCJ/HCM/HCP/HCP-SU/HCR-U/HCW) panelboard field-installable hardware kits: main breaker adapter kits, main/sub-feed/feed-through lug kits, neutral kits, branch connector kits, ground bars, fillers/blank extensions, SE barrier kits, rail/deadfront extensions, MH box endwalls/D9 boxes, plus breaker families as they relate to mounting.
-* Merge stats: {'sources_new': 66, 'families_new': 5, 'breakers_new': 12, 'parts_new': 200, 'parts_updated': 20, 'leads_new': 11, 'docs_filed': 56, 'batch': 'B0003-squared-panelboards'}
+* Merge stats: {'sources_new': 67, 'families_new': 7, 'breakers_new': 12, 'parts_new': 220, 'parts_updated': 0, 'leads_new': 11, 'docs_filed': 0, 'batch': 'B0003-squared-panelboards'}
 
 ## Narrative
 

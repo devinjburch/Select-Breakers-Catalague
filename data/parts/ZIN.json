@@ -18,7 +18,7 @@
      "value": "QSF100DS",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -29,7 +29,7 @@
      "value": "Zinsco QSF switch kit 100 A, double slot, mounting hardware",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -40,7 +40,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -51,7 +51,7 @@
      "value": "100 A",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -62,7 +62,7 @@
      "value": "branch (QSF fusible switch)",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -80,7 +80,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -107,7 +107,7 @@
      "value": "QSF200DS",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -118,7 +118,7 @@
      "value": "Zinsco QSF 200 A double slot mounting hardware",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -129,7 +129,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -140,7 +140,7 @@
      "value": "200 A",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -158,7 +158,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -185,8 +185,8 @@
      "value": "QSF400DS",
      "conf": "C",
      "src": [
-      "SRC-00164",
-      "SRC-00165"
+      "SRC-00232",
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -197,8 +197,8 @@
      "value": "Zinsco/Sylvania QSF 400 A switch kit, double slot",
      "conf": "C",
      "src": [
-      "SRC-00164",
-      "SRC-00165"
+      "SRC-00232",
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -209,8 +209,8 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164",
-      "SRC-00165"
+      "SRC-00232",
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -221,8 +221,8 @@
      "value": "400 A",
      "conf": "C",
      "src": [
-      "SRC-00164",
-      "SRC-00165"
+      "SRC-00232",
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -240,8 +240,8 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164",
-   "SRC-00165"
+   "SRC-00232",
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -268,7 +268,7 @@
      "value": "QSF600DS",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -279,7 +279,7 @@
      "value": "Zinsco QSF 600 A double slot mounting hardware",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -290,7 +290,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -301,7 +301,7 @@
      "value": "600 A",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -319,7 +319,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -346,7 +346,7 @@
      "value": "DSLQB",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -357,7 +357,7 @@
      "value": "Zinsco double slot breaker mounting hardware for QB",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -368,7 +368,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -387,7 +387,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -414,7 +414,7 @@
      "value": "DSLQFB",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -425,7 +425,7 @@
      "value": "Zinsco double slot breaker mounting hardware for QFB",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -436,7 +436,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -455,7 +455,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -482,7 +482,7 @@
      "value": "DSLNET",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -493,7 +493,7 @@
      "value": "Zinsco double slot twin mounting hardware for FPE NE breakers (inferred from name)",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -504,7 +504,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -525,7 +525,7 @@
    "Confirm frame (NE/NEF) - description only repeats part number"
   ],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -552,7 +552,7 @@
      "value": "DSLNEJT",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -563,7 +563,7 @@
      "value": "Zinsco double slot twin mounting hardware, NEJ type",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -574,7 +574,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -593,7 +593,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -620,7 +620,7 @@
      "value": "DSLNFT",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -631,7 +631,7 @@
      "value": "Zinsco double slot twin mounting hardware for FPE NF/NFJ (inferred from name)",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -642,7 +642,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -661,7 +661,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -688,7 +688,7 @@
      "value": "DSLNJT",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -699,7 +699,7 @@
      "value": "Zinsco double slot twin mounting hardware for FPE NJ/NJL (inferred from name)",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -710,7 +710,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -729,7 +729,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -756,7 +756,7 @@
      "value": "DSLNM",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -767,7 +767,7 @@
      "value": "Zinsco double slot mounting hardware for FPE NM (inferred from name)",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -778,7 +778,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -797,7 +797,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -824,7 +824,7 @@
      "value": "DSLNMS",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -835,7 +835,7 @@
      "value": "Zinsco DSLNM mounting hardware (single?)",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -846,7 +846,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00164"
+      "SRC-00232"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -867,7 +867,7 @@
    "Difference between DSLNM and DSLNMS (S=single?)"
   ],
   "source_ids": [
-   "SRC-00164"
+   "SRC-00232"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -894,7 +894,7 @@
      "value": "QSF100SS",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -905,7 +905,7 @@
      "value": "Sylvania QSF 100 A twin kit",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -916,7 +916,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -927,7 +927,7 @@
      "value": "100 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -945,7 +945,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00165"
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -972,7 +972,7 @@
      "value": "QSF100SB",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -983,7 +983,7 @@
      "value": "Sylvania QSF single slot switch kit, split buss, 100 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -994,7 +994,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1005,7 +1005,7 @@
      "value": "100 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1023,7 +1023,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00165"
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1050,7 +1050,7 @@
      "value": "QSF200SB",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1061,7 +1061,7 @@
      "value": "Sylvania QSF single slot switch kit, split buss, 200 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1072,7 +1072,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1083,7 +1083,7 @@
      "value": "200 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1101,7 +1101,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00165"
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1128,7 +1128,7 @@
      "value": "QSF400SB",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1139,7 +1139,7 @@
      "value": "Sylvania QSF single slot switch kit, split buss (listed 200 A; number implies 400 A)",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1150,7 +1150,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1161,7 +1161,7 @@
      "value": "listed '200A' - probably 400 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1181,7 +1181,7 @@
    "Ampacity conflict 200 vs 400 A"
   ],
   "source_ids": [
-   "SRC-00165"
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1208,7 +1208,7 @@
      "value": "SEHT",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1219,7 +1219,7 @@
      "value": "Sylvania 100 A twin kit (for SE/SEH breakers, inferred)",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1230,7 +1230,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1241,7 +1241,7 @@
      "value": "100 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1259,7 +1259,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00165"
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1286,7 +1286,7 @@
      "value": "SECT",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1297,7 +1297,7 @@
      "value": "Sylvania 225 A twin kit (for SC? frame, inferred)",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1308,7 +1308,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1319,7 +1319,7 @@
      "value": "225 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1337,7 +1337,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00165"
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1364,7 +1364,7 @@
      "value": "SJD4T",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1375,7 +1375,7 @@
      "value": "Sylvania 400 A twin kit (SJD frame)",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1386,7 +1386,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1397,7 +1397,7 @@
      "value": "400 A",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1415,7 +1415,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00165"
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1442,8 +1442,8 @@
      "value": "SKM8S",
      "conf": "C",
      "src": [
-      "SRC-00165",
-      "SRC-00175"
+      "SRC-00233",
+      "SRC-00243"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1454,8 +1454,8 @@
      "value": "Sylvania 800 A single kit (SKM frame)",
      "conf": "C",
      "src": [
-      "SRC-00165",
-      "SRC-00175"
+      "SRC-00233",
+      "SRC-00243"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1466,8 +1466,8 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165",
-      "SRC-00175"
+      "SRC-00233",
+      "SRC-00243"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1478,8 +1478,8 @@
      "value": "800 A",
      "conf": "C",
      "src": [
-      "SRC-00165",
-      "SRC-00175"
+      "SRC-00233",
+      "SRC-00243"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1497,8 +1497,8 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00165",
-   "SRC-00175"
+   "SRC-00233",
+   "SRC-00243"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1525,7 +1525,7 @@
      "value": "FPENEFT",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1536,7 +1536,7 @@
      "value": "Sylvania twin mounting hardware for FPE NEF breaker",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1547,7 +1547,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00165"
+      "SRC-00233"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1566,7 +1566,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00165"
+   "SRC-00233"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1593,7 +1593,7 @@
      "value": "QFP2T",
      "conf": "C",
      "src": [
-      "SRC-00167"
+      "SRC-00235"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1604,7 +1604,7 @@
      "value": "Zinsco QFP 2-pole main breaker mounting hardware / feet (base)",
      "conf": "C",
      "src": [
-      "SRC-00167"
+      "SRC-00235"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1615,7 +1615,7 @@
      "value": "discontinued; recertified/new-surplus",
      "conf": "C",
      "src": [
-      "SRC-00167"
+      "SRC-00235"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1626,7 +1626,7 @@
      "value": "Listing package dims 4.25 x 4.5 x 1.125 in, 0.1 lb (may be item size)",
      "conf": "C",
      "src": [
-      "SRC-00167"
+      "SRC-00235"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1637,7 +1637,7 @@
      "value": "2-pole QFP mains with offset/staggered lug or standard lug; listed for Zinsco, Sylvania, Westinghouse, Challenger panels",
      "conf": "C",
      "src": [
-      "SRC-00167"
+      "SRC-00235"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1648,7 +1648,7 @@
      "value": "Under main breaker, mounting it to panel",
      "conf": "C",
      "src": [
-      "SRC-00167"
+      "SRC-00235"
      ],
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1666,7 +1666,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00167"
+   "SRC-00235"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1691,7 +1691,7 @@
      "value": "LK-15",
      "conf": "C",
      "src": [
-      "SRC-00152"
+      "SRC-00220"
      ],
      "page": "reader-submitted panel label",
      "basis": "photo",
@@ -1703,7 +1703,7 @@
      "value": "Main lug block rated 150 A listed on Zinsco panel label alongside QFP24 main",
      "conf": "C",
      "src": [
-      "SRC-00152"
+      "SRC-00220"
      ],
      "basis": "photo",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1714,7 +1714,7 @@
      "value": "150 A",
      "conf": "C",
      "src": [
-      "SRC-00152"
+      "SRC-00220"
      ],
      "basis": "photo",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1733,7 +1733,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00152"
+   "SRC-00220"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1758,7 +1758,7 @@
      "value": "LK-22",
      "conf": "C",
      "src": [
-      "SRC-00152"
+      "SRC-00220"
      ],
      "page": "reader-submitted panel label",
      "basis": "photo",
@@ -1770,7 +1770,7 @@
      "value": "Main lug block rated 225 A listed on Zinsco panel label alongside QFP24 main",
      "conf": "C",
      "src": [
-      "SRC-00152"
+      "SRC-00220"
      ],
      "basis": "photo",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1781,7 +1781,7 @@
      "value": "225 A",
      "conf": "C",
      "src": [
-      "SRC-00152"
+      "SRC-00220"
      ],
      "basis": "photo",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1800,7 +1800,7 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00152"
+   "SRC-00220"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers"
@@ -1827,7 +1827,7 @@
      "value": "UBIZRBK12 (aftermarket, Connecticut Electric)",
      "conf": "C",
      "src": [
-      "SRC-00154"
+      "SRC-00222"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1838,8 +1838,8 @@
      "value": "Replacement buss bar kit: 2 copper-plated buss bars, lugs, screws, insulators; Wikipedia describes as tin-coated copper",
      "conf": "C",
      "src": [
-      "SRC-00154",
-      "SRC-00151"
+      "SRC-00222",
+      "SRC-00219"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1850,7 +1850,7 @@
      "value": "125 A",
      "conf": "C",
      "src": [
-      "SRC-00154"
+      "SRC-00222"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1861,7 +1861,7 @@
      "value": "Aftermarket replacement - not Zinsco OEM; buyer review reports bars may need trimming to fit",
      "conf": "C",
      "src": [
-      "SRC-00154"
+      "SRC-00222"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1870,7 +1870,7 @@
      "value": "Aftermarket replacement bus kit by Connecticut Electric (UBI); retailer spec field reads 'Certification: UL Listed' and warranty 5 years; made in China. Customer reviews report bars a few inches too long (cut to fit) and UBIZ breakers sitting slightly longer than original Zinsco.",
      "conf": "D",
      "src": [
-      "SRC-00154"
+      "SRC-00222"
      ],
      "basis": "distributor",
      "note": "seller claim (listing field) + customer reviews; listing not verified with maker",
@@ -1882,7 +1882,7 @@
      "value": "current (aftermarket)",
      "conf": "C",
      "src": [
-      "SRC-00154"
+      "SRC-00222"
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
@@ -1893,7 +1893,7 @@
      "value": "2 copper-plated buss bars, lugs, screws, insulators",
      "conf": "C",
      "src": [
-      "SRC-00154"
+      "SRC-00222"
      ],
      "basis": "distributor",
      "note": "retailer listing",
@@ -1905,7 +1905,7 @@
      "value": "For Zinsco Type Q or Type R load centers (UBIZ breakers sold separately)",
      "conf": "C",
      "src": [
-      "SRC-00154"
+      "SRC-00222"
      ],
      "basis": "distributor",
      "note": "seller claim",
@@ -1923,8 +1923,8 @@
    "Exact UL/ETL listing scope of UBIZRBK12 when installed in original Zinsco enclosures"
   ],
   "source_ids": [
-   "SRC-00151",
-   "SRC-00154"
+   "SRC-00219",
+   "SRC-00222"
   ],
   "batches": [
    "B0009-legacy-other-manufacturers",
