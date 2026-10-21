@@ -390,5 +390,426 @@
   "urls": [],
   "status": "open",
   "batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "LEAD-0030",
+  "priority": 1,
+  "topic": "Eaton instruction leaflets for KB/KL/KPRL3/KPRL4 kits",
+  "detail": "Renewal-parts guides give catalog numbers and compatibility but no kit drawings, torque values, strap dimensions or hole patterns. Each kit ships with instructions (IL/IB numbers not cited in the guides). Search Eaton document library for IL numbers packed with KPRL4X32, KPRL3AFD3, KB13AFT, KL23AMS, PRLSEBFD.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0031",
+  "priority": 1,
+  "topic": "Supersession mapping 2017 -> 2021 (PRL4 KPRL4FD/FD1/FD2/ED/ED2/LD; PRL1a/2a deadfronts 4180B03/4180B61/4180B05; PRL3a covers 4176B68/4180B93/4178B08/4179B39-42; filler 4178B06H01)",
+  "detail": "April 2021 edition replaced these numbers with KPRL4X12/X22/X32/LC and 42C80xx covers (same table rows). Distributor text says 4178B06H01 is for panels built before April 2019 and 42C8083H01 after - implies a chassis change, so old and new are probably NOT interchangeable. Confirm with Eaton Sumter aftermarket (803-481-6677) or a December 2020 edition of RP01400001E.",
+  "doc_numbers": [
+   "RP01400001E"
+  ],
+  "urls": [
+   "https://rexelusa.com/p/120408/eaton/panel-board-prl3a-cover-filler-plate-1p-for-f-frame-breakers/786685467672/4178b06h01"
+  ],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0032",
+  "priority": 2,
+  "topic": "RP.38F.01.T.E (February 2000) Cutler-Hammer panelboard renewal parts",
+  "detail": "Predecessor of RP01400001E; would cover earlier PRL1a/2a/3a/4B part numbers and possibly vintage PRL1/2/3 connector straps. Not found online.",
+  "doc_numbers": [
+   "RP.38F.01.T.E"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0033",
+  "priority": 2,
+  "topic": "RP01400002E April 2009 edition and PL01400002E price list",
+  "detail": "Earlier vintage-Westinghouse renewal parts edition and price list referenced by Feb 2013 edition.",
+  "doc_numbers": [
+   "RP01400002E",
+   "PL01400002E",
+   "PL01400001E"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0034",
+  "priority": 2,
+  "topic": "Drawings 42c8083.pdf etc. on Rexel",
+  "detail": "Rexel product page for 42C8083H01 links a drawing file '42c8083.pdf' (not opened). Similar drawing links may exist for other 42C80xx/4176Bxx covers - source of dimensions/hole patterns.",
+  "doc_numbers": [],
+  "urls": [
+   "https://www.rexelusa.com/p/2273430/eaton/filler-plate-panelboard-prl3a-for-panelboards-built-after-april-2019/42c8083h01"
+  ],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0035",
+  "priority": 2,
+  "topic": "KPRL4LFD3 (distributor: 'CON KIT FD+LFD PRL4')",
+  "detail": "Dixon Electric (Canada) lists Eaton KPRL4LFD3; not in any OEM table found (2021 table lists FD/LFD under KPRL4FBP). Redirect to dixon.ca not followed.",
+  "doc_numbers": [],
+  "urls": [
+   "https://dixon.ca/products/20-power-distribution/08-panelboards/05-panelboard-parts-accessories/p-Q1VIS1BSTDRMRkQz-eaton-kprl4lfd3-con-kit-fdlfd-prl4"
+  ],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0036",
+  "priority": 2,
+  "topic": "Pow-R-Xpress PRL4X branch fillers PRXP4PD34FILL, PRXP4PD2FILL1 and P44X25",
+  "detail": "Distributor-only numbers for PRL4X fillers and PRL4 4X blank cover (P44X25). Relationship to OEM 6554C0x not established.",
+  "doc_numbers": [],
+  "urls": [
+   "https://www.elliottelectric.com/Media/P44X25-CHS",
+   "https://www.gexpro.com/p/2925374/eaton/prl4x-pd2-1-pole-filler/786689814915/prxp4pd2fill1"
+  ],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0037",
+  "priority": 3,
+  "topic": "CA08104001E Tab 22 deeper tables",
+  "detail": "Tab 22 (Jan 2018) contains PRL4 branch breaker table 22.4-3, fusible table 22.4-4, terminal wire range tables, series ratings and box sizing for PRL1a-PRL4 - can enrich family/breaker claims. Saved locally as tab22.txt.",
+  "doc_numbers": [
+   "CA08104001E"
+  ],
+  "urls": [
+   "https://eatonarabia.com/wp-content/uploads/2022/03/eaton-panelboard-cag-tb01400003e-tab-22.pdf"
+  ],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0038",
+  "priority": 3,
+  "topic": "OSHPD OSP-0009 Eaton panelboard seismic pre-approval",
+  "detail": "Search snippet: PRL1a/1aF/1a-LX/Pow-R-Command 240 V 400 A; PRL2a 480 V 400 A; PRL3a 600 V 800 A; PRL4 600 V 1200 A. Not downloaded.",
+  "doc_numbers": [
+   "OSP-0009"
+  ],
+  "urls": [
+   "https://hcai.ca.gov/wp-content/uploads/2020/10/OSP-0009-2.pdf"
+  ],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0039",
+  "priority": 3,
+  "topic": "Westinghouse NLAB / NHB / pre-1980s lighting panels",
+  "detail": "Requested scope item; no Eaton/Westinghouse document found that names NLAB or NHB panelboards. RP01400002E covers only PRL1/2/3, PRL1-LX, PRL3-LX, CDP/HCDP, FDP. Try archive.org Westinghouse 'Distribution Equipment' catalogs (1960s-80s) and Mike Holt forum.",
+  "doc_numbers": [],
+  "urls": [
+   "https://forums.mikeholt.com/threads/westinghouse-prl2-panelboards.133286/latest"
+  ],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0040",
+  "priority": 3,
+  "topic": "SPD kits for Pow-R-Line panelboards",
+  "detail": "Catalogs state PRL1a/2a/3a/4 available with integrated SPD (Tab 34 reference) but no field-installable SPD kit numbers appear in renewal-parts guides. Search Eaton SPD 'integrated panelboard' kit catalog (SPD series SPD250/SPD100 panelboard mounting kits).",
+  "doc_numbers": [
+   "Tab 34"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0041",
+  "priority": 3,
+  "topic": "PRL4 retrofit kit catalog strings",
+  "detail": "Retrofit kits are built as KPRL4 + breaker catalog + T/S (e.g. KPRL4KD3400S; Xpert: KPRL4XPG33400S) and KPRL4 + switch catalog (e.g. KPRL4FDPWT3633R); individual catalog numbers not enumerated - not recorded as part records.",
+  "doc_numbers": [
+   "RP01400001E"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0042",
+  "priority": 4,
+  "topic": "Boxes, trims, EZ Box/EZ Trim, Type 12/3R enclosures, side gutter covers, door-in-door kits",
+  "detail": "Not recorded as parts in this batch (scope = mounting hardware). Tables available: s1 p.31 side gutter covers 6555C20H01-6555C28H01; s1 p.36 EZB/EZT 42C1999/42C4255/42C4258/42C4261/42C4264; s1 p.37-38 VWPB/LWPT, LDD...STW/FTW, mounting channels 8708C82G02-G08, RPCB/DPC; s4 p.10-11 DD2457K..DD4490K, EZ flanges 42C1993H01, 42C1995Hxx, 42C1987/42C1988Gxx, EZ anti-lift 1A85195H01; s5 pp.3-9 YS20xx boxes, LT/LTT trims, column boxes 114D939Gxx, 6726D69Gxx.",
+  "doc_numbers": [
+   "RP01400001E",
+   "RP01414001E",
+   "RP01400002E"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "LEAD-0043",
+  "priority": 1,
+  "topic": "2700CT1601 OEM QED-2 I-Line interiors catalog",
+  "detail": "Contains single/double-row OEM interior selection tables (CF... numbers), likely end closures, splice/main lug kits. Blocked by Akamai (productinfo.se.com, download.se.com 403). Try a distributor mirror (media.distributordatasolutions.com), Rexel/Graybar spec-sheet links, or a browser session.",
+  "doc_numbers": [
+   "2700CT1601"
+  ],
+  "urls": [
+   "https://www.productinfo.schneider-electric.com/power_style_qed_2/2700ct1601-oem-qed-2-switchboard-i-linetm-interiors-catalog/English/2700CT1601.pdf"
+  ],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0044",
+  "priority": 1,
+  "topic": "QED-2 instruction bulletin 80043-055-16 (2024) and -13 (2018)",
+  "detail": "Handling, assembly, splice (through-bus) and torque data for QED-2; likely gives splice plate hardware and torque values. Blocked.",
+  "doc_numbers": [
+   "80043-055-16",
+   "80043-055-13"
+  ],
+  "urls": [
+   "https://www.productinfo.schneider-electric.com/power_style_qed_2/80043-055-power-style-qed-2-switchboards-instruction-bulletin/English/80043-055-016_en.pdf"
+  ],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0045",
+  "priority": 1,
+  "topic": "OEM interiors IB 80235-597-09",
+  "detail": "Schneider FAQ cites IB 80235-597-09 for single/double-row OEM I-Line interiors.",
+  "doc_numbers": [
+   "80235-597-09"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0046",
+  "priority": 2,
+  "topic": "Data Bulletin 0600DB1004 I-Line plug-on connection design",
+  "detail": "Jaw design, bolt-on clamp details, I-Line busway/switchgear connections.",
+  "doc_numbers": [
+   "0600DB1004"
+  ],
+  "urls": [
+   "https://www.se.com/us/en/download/document/0600DB1004"
+  ],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0047",
+  "priority": 2,
+  "topic": "Current 2700CT1101 (v02, 2025-12, 140 MB) and 2110CT9701 v2.1 (2025-02)",
+  "detail": "Newer revisions may add QED-2 Series 2 changes (QMB 63 in. only) and accessory tables. Only 2012 and 2019 editions retrieved.",
+  "doc_numbers": [
+   "2700CT1101",
+   "2110CT9701"
+  ],
+  "urls": [
+   "https://www.se.com/us/en/download/document/2110CT9701"
+  ],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0048",
+  "priority": 2,
+  "topic": "Legacy QMB replacement attachment 'QMB Replacements.pdf' and Supplemental Digest",
+  "detail": "Several se.com FAQs reference an attached QMB Replacements.pdf and the Supplemental Digest for QMB3400LA/QMB3300LA and EX/LEX extension kits. Would give full legacy cross-reference table.",
+  "doc_numbers": [],
+  "urls": [
+   "https://www.se.com/us/en/faqs/FA123288",
+   "https://www.se.com/us/en/faqs/FA87289"
+  ],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0049",
+  "priority": 2,
+  "topic": "Unverified FAQs FA123288, FA87289, FA99653",
+  "detail": "QMB3640, QMB303T and QMB306T replacement answers seen only in search summaries (rate-limited 403). Re-fetch to upgrade s36 claims to A.",
+  "doc_numbers": [
+   "FA123288",
+   "FA87289",
+   "FA99653"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0050",
+  "priority": 3,
+  "topic": "QW1BL / QW3BL obsolete legacy fillers",
+  "detail": "OEM says obsolete, fabricate locally - remanufacture opportunity. Need physical sample for dimensions/hole pattern.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0051",
+  "priority": 3,
+  "topic": "I-Line plug-in units 45123-680-01 (busway) and panelboard install 80043-309-20",
+  "detail": "May provide I-Line jaw torque/lubrication and mounting details.",
+  "doc_numbers": [
+   "45123-680-01",
+   "80043-309-20"
+  ],
+  "urls": [
+   "https://se.com/us/en/download/document/80043-309-20"
+  ],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0052",
+  "priority": 3,
+  "topic": "QMB circuit breaker unit catalog numbers (twin H-frame, single J/L)",
+  "detail": "4620CT9601 text lists ratings and lug kits but not the CB unit catalog numbers (only legacy QMB3400LA / QMB3300LA found). Check Digest Section for QMB.",
+  "doc_numbers": [
+   "4620CT9601"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0053",
+  "priority": 3,
+  "topic": "QMB 'TD' and 'T' suffix units (QMB322TD, QMB323TD, QMB362T, QMB362T1)",
+  "detail": "Distributor and FAQ numbers differ from current 'TW' numbering; determine whether TD = legacy-interior version.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0054",
+  "priority": 4,
+  "topic": "QED-2 through-bus splice plates, end closures, main lug kits",
+  "detail": "No orderable catalog numbers found; FAQs say parts ordered by switchboard factory order (FO) number. Busbar connection kit '36967' seen on distributor page - unverified relevance.",
+  "doc_numbers": [],
+  "urls": [
+   "https://www.standardelectricsupply.com/2250993-Square-D-Schneider-Electric-36967"
+  ],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0055",
+  "priority": 4,
+  "topic": "Legacy Power-Style QED (QED-1, QED-3, QED-4, QED-2/S) and Model 6 MCC connections",
+  "detail": "Only names found (2700CT1101 p. 9; FA116225 mentions QED-1). No legacy QED catalogs retrieved.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "LEAD-0056",
+  "priority": 2,
+  "topic": "GE TCAL28 / TCAL38 / TCAL39 / TCAL51 / TCAL62 not found",
+  "detail": "These numbers appear in the batch scope but are not in the GE BuyLog 2008 excerpt or the 2012, 2013 or 2019 lug tables. TCAL28 may be confused with TCAL28PD1/PD3 (SF power distribution lugs). Older GE lug numbers (TCAL2x/3x for the 1980s-90s TF/TJ lines) may appear in GEP-1100 / GET-xxxx renewal catalogs or older BuyLog editions (pre-2008).",
+  "doc_numbers": [
+   "GEP-1100"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "LEAD-0057",
+  "priority": 2,
+  "topic": "GE footnote digits fused into part numbers",
+  "detail": "The pdftotext extraction of GE BuyLog runs footnote superscripts into part numbers (TCAL1212 = TCAL121 + fn2, TCAL811 = TCAL81 + fn1, TCLK3652 = TCLK365 + fn2, SKLVK6 = SKLVK + fn6, etc.). Base numbers were reconciled across the 2012 and 2019 editions (different footnote numbering). TCAL122, TCALK2122/3122, TCAL91, TCALK291/391, TCAL131 and 789A448G3 are inferred bases (conf B/C). Check them against distributor or ABB product pages.",
+  "doc_numbers": [
+   "BuyLog Section 6 Rev 1/19",
+   "BuyLog Section 3 Rev 9/12"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "LEAD-0058",
+  "priority": 2,
+  "topic": "Siemens QJ2 / pre-Sentron ITE lug kits",
+  "detail": "SPEEDFAX 2017/2021 no longer lists QJ2, so the only QJ2 lug found is TA1Q300 (distributor). Old ITE numbers such as TA1D/3TA1D/TA1E/TA1F/TA1G/TA2DS/TA3J6500/TA2P400 were not found in the 2017 tables. Search older SPEEDFAX editions (e.g. SPEEDFAX 2004-2011, Section 7) and ITE 'Breaker Lug Selection' leaflets.",
+  "doc_numbers": [
+   "SPEEDFAX 2011 Section 7"
+  ],
+  "urls": [
+   "https://media.distributordatasolutions.com/springfieldts/2018q4/e0ee4273acd983d79661d7d52bf9db41374e924f.pdf"
+  ],
+  "status": "open",
+  "batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "LEAD-0059",
+  "priority": 3,
+  "topic": "GE install docs for lugs / shields",
+  "detail": "The E150 reference list cites GEJ-3609 (back-connected studs) and GEH-4610 (plug-in mounting base). The lug kit instruction GEH/DEH numbers were not found; download them from library.e.abb.com.",
+  "doc_numbers": [
+   "GEJ-3609",
+   "GEH-4610",
+   "GEH-4342",
+   "DEH-41556"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "LEAD-0060",
+  "priority": 3,
+  "topic": "GE breaker mounting screw kits and plug-in bases not recorded",
+  "detail": "BuyLog p. 6-101 lists mounting screw kits SEMSK1-4, SFGMSK1/2, SFMSK1/2, SKMSK1/2, mounting bases 343L162G1/G7/G11, 343L184G18 and cup washer 254V644P1. P. 6-105 lists plug-in mounting bases (TE12PD1/2, TE13PD1/2, TF22/23PD, TJ42/43PD1A, TJ62/63PD1A, SGPC1/2/7, TK83/103/123PD1A) and mounting plates TMP1-4/SMP3. None of these are recorded in this batch; capture them in a breaker-mounting batch.",
+  "doc_numbers": [
+   "BuyLog 6-101",
+   "BuyLog 6-105"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "LEAD-0061",
+  "priority": 3,
+  "topic": "Siemens plug-in assemblies/tulips and VL (DG/FG/JG/MG/NG) lugs not recorded",
+  "detail": "SPEEDFAX p. 7-165 lists plug-in assemblies PC2637/PC2638/PC2657/PC2658, PC4753/4754, PC5777/5778, PC5660/5661, PC5662/5663, PC5664/5666, PCCJD/PCCLD, mounting plates PL2616/2617/4762/4763/5796/5797/5680/9698/9699 and tulip assemblies TCE3/TCF3/TCJ3/TCL3/TCM3/TCN3. VL-series lugs (3TA1DG30, 3TC1DG30, 3TA3DG02, 3TA6DG04, 3TA3FG20, 3TA1JG750, 3TA2JG250, 3TA2MG750, 3TA3MG500, 3TA3NG750, 3TA4NG500...) are on p. 7-175 onward. None are recorded here.",
+  "doc_numbers": [
+   "SPEEDFAX 7-165",
+   "SPEEDFAX 7-175"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "LEAD-0062",
+  "priority": 4,
+  "topic": "Siemens 3TC1QR250 vs 3TC1QR2520",
+  "detail": "P. 7-40 prints 3TC1QR250 and p. 7-155 prints 3TC1QR2520. Resolve with a distributor listing.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0008-breaker-terminal-kits-ge-siemens"
  }
 ]

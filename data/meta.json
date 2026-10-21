@@ -1,16 +1,19 @@
 {
  "counters": {
-  "SRC": 51,
+  "SRC": 119,
   "FAM-SIE": 10,
-  "BRK-SIE": 15,
-  "EDH-SIE": 244,
-  "LEAD": 29,
+  "BRK-SIE": 18,
+  "EDH-SIE": 313,
+  "LEAD": 62,
   "FAM-GEA": 9,
-  "BRK-GEA": 15,
-  "EDH-GEA": 280,
-  "FAM-EAT": 15,
-  "BRK-EAT": 32,
-  "EDH-EAT": 127
+  "BRK-GEA": 28,
+  "EDH-GEA": 395,
+  "FAM-EAT": 26,
+  "BRK-EAT": 38,
+  "EDH-EAT": 460,
+  "FAM-SQD": 5,
+  "BRK-SQD": 13,
+  "EDH-SQD": 176
  },
  "batches": [
   {
@@ -59,6 +62,54 @@
     "leads_new": 11,
     "docs_filed": 9,
     "batch": "B0002-eaton-switchboards-legacy"
+   }
+  },
+  {
+   "batch_id": "B0001-eaton-prl-panelboards",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0001-eaton-prl-panelboards.json",
+   "stats": {
+    "sources_new": 11,
+    "families_new": 11,
+    "breakers_new": 6,
+    "parts_new": 333,
+    "parts_updated": 89,
+    "leads_new": 13,
+    "docs_filed": 7,
+    "batch": "B0001-eaton-prl-panelboards"
+   }
+  },
+  {
+   "batch_id": "B0004-squared-switchboards",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0004-squared-switchboards.json",
+   "stats": {
+    "sources_new": 49,
+    "families_new": 5,
+    "breakers_new": 13,
+    "parts_new": 176,
+    "parts_updated": 1,
+    "leads_new": 13,
+    "docs_filed": 5,
+    "batch": "B0004-squared-switchboards"
+   }
+  },
+  {
+   "batch_id": "B0008-breaker-terminal-kits-ge-siemens",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0008-breaker-terminal-kits-ge-siemens.json",
+   "stats": {
+    "sources_new": 8,
+    "families_new": 0,
+    "breakers_new": 16,
+    "parts_new": 184,
+    "parts_updated": 0,
+    "leads_new": 7,
+    "docs_filed": 7,
+    "batch": "B0008-breaker-terminal-kits-ge-siemens"
    }
   }
  ],

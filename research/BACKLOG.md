@@ -25,6 +25,12 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0020 — WF/WRP switchboard distribution-section connector and retrofit kits** (B0002-eaton-switchboards-legacy)  
   RP01400002E p.20 lists 'Retrofit kits for WF and WRP distribution sections' and 'Connector kits for WF and WRP distribution sections' from Sumter but gives no numbers. Check whether KCDP/KFDP kits are used, since WF/WRP feeders were CDP-type breakers and FDP switches.  
   Docs: RP01400002E, PL01400002E
+* **LEAD-0030 — Eaton instruction leaflets for KB/KL/KPRL3/KPRL4 kits** (B0001-eaton-prl-panelboards)  
+  Renewal-parts guides give catalog numbers and compatibility but no kit drawings, torque values, strap dimensions or hole patterns. Each kit ships with instructions (IL/IB numbers not cited in the guides). Search Eaton document library for IL numbers packed with KPRL4X32, KPRL3AFD3, KB13AFT, KL23AMS, PRLSEBFD.
+* **LEAD-0031 — Supersession mapping 2017 -> 2021 (PRL4 KPRL4FD/FD1/FD2/ED/ED2/LD; PRL1a/2a deadfronts 4180B03/4180B61/4180B05; PRL3a covers 4176B68/4180B93/4178B08/4179B39-42; filler 4178B06H01)** (B0001-eaton-prl-panelboards)  
+  April 2021 edition replaced these numbers with KPRL4X12/X22/X32/LC and 42C80xx covers (same table rows). Distributor text says 4178B06H01 is for panels built before April 2019 and 42C8083H01 after - implies a chassis change, so old and new are probably NOT interchangeable. Confirm with Eaton Sumter aftermarket (803-481-6677) or a December 2020 edition of RP01400001E.  
+  Docs: RP01400001E  
+  URLs: https://rexelusa.com/p/120408/eaton/panel-board-prl3a-cover-filler-plate-1p-for-f-frame-breakers/786685467672/4178b06h01
 
 ## Priority 2
 
@@ -63,6 +69,21 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Comparison of RP01400001E Oct 2017 Table 37 and May 2022 Tables 46-47 suggests renumbering with Pow-R-Line Xpert (PD2-PD5 frames). Need explicit OEM supersession statement (April 2021 / Dec 2020 editions, Eaton product pages).  
   Docs: RP01400001E  
   URLs: https://eatonarabia.com/wp-content/uploads/2022/03/pow-r-line-1.pdf
+* **LEAD-0032 — RP.38F.01.T.E (February 2000) Cutler-Hammer panelboard renewal parts** (B0001-eaton-prl-panelboards)  
+  Predecessor of RP01400001E; would cover earlier PRL1a/2a/3a/4B part numbers and possibly vintage PRL1/2/3 connector straps. Not found online.  
+  Docs: RP.38F.01.T.E
+* **LEAD-0033 — RP01400002E April 2009 edition and PL01400002E price list** (B0001-eaton-prl-panelboards)  
+  Earlier vintage-Westinghouse renewal parts edition and price list referenced by Feb 2013 edition.  
+  Docs: RP01400002E, PL01400002E, PL01400001E
+* **LEAD-0034 — Drawings 42c8083.pdf etc. on Rexel** (B0001-eaton-prl-panelboards)  
+  Rexel product page for 42C8083H01 links a drawing file '42c8083.pdf' (not opened). Similar drawing links may exist for other 42C80xx/4176Bxx covers - source of dimensions/hole patterns.  
+  URLs: https://www.rexelusa.com/p/2273430/eaton/filler-plate-panelboard-prl3a-for-panelboards-built-after-april-2019/42c8083h01
+* **LEAD-0035 — KPRL4LFD3 (distributor: 'CON KIT FD+LFD PRL4')** (B0001-eaton-prl-panelboards)  
+  Dixon Electric (Canada) lists Eaton KPRL4LFD3; not in any OEM table found (2021 table lists FD/LFD under KPRL4FBP). Redirect to dixon.ca not followed.  
+  URLs: https://dixon.ca/products/20-power-distribution/08-panelboards/05-panelboard-parts-accessories/p-Q1VIS1BSTDRMRkQz-eaton-kprl4lfd3-con-kit-fdlfd-prl4
+* **LEAD-0036 — Pow-R-Xpress PRL4X branch fillers PRXP4PD34FILL, PRXP4PD2FILL1 and P44X25** (B0001-eaton-prl-panelboards)  
+  Distributor-only numbers for PRL4X fillers and PRL4 4X blank cover (P44X25). Relationship to OEM 6554C0x not established.  
+  URLs: https://www.elliottelectric.com/Media/P44X25-CHS https://www.gexpro.com/p/2925374/eaton/prl4x-pd2-1-pole-filler/786689814915/prxp4pd2fill1
 
 ## Priority 3
 
@@ -98,6 +119,23 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0028 — PRL4 blank covers 6554C01Hxx / 6554C02Hxx** (B0002-eaton-switchboards-legacy)  
   RP01400001E 2017 Table 36 / 2022 Table 45 list 1X-20X blank covers (style numbers) for 24 in and 36/44 in boxes; not transcribed here.  
   Docs: RP01400001E
+* **LEAD-0037 — CA08104001E Tab 22 deeper tables** (B0001-eaton-prl-panelboards)  
+  Tab 22 (Jan 2018) contains PRL4 branch breaker table 22.4-3, fusible table 22.4-4, terminal wire range tables, series ratings and box sizing for PRL1a-PRL4 - can enrich family/breaker claims. Saved locally as tab22.txt.  
+  Docs: CA08104001E  
+  URLs: https://eatonarabia.com/wp-content/uploads/2022/03/eaton-panelboard-cag-tb01400003e-tab-22.pdf
+* **LEAD-0038 — OSHPD OSP-0009 Eaton panelboard seismic pre-approval** (B0001-eaton-prl-panelboards)  
+  Search snippet: PRL1a/1aF/1a-LX/Pow-R-Command 240 V 400 A; PRL2a 480 V 400 A; PRL3a 600 V 800 A; PRL4 600 V 1200 A. Not downloaded.  
+  Docs: OSP-0009  
+  URLs: https://hcai.ca.gov/wp-content/uploads/2020/10/OSP-0009-2.pdf
+* **LEAD-0039 — Westinghouse NLAB / NHB / pre-1980s lighting panels** (B0001-eaton-prl-panelboards)  
+  Requested scope item; no Eaton/Westinghouse document found that names NLAB or NHB panelboards. RP01400002E covers only PRL1/2/3, PRL1-LX, PRL3-LX, CDP/HCDP, FDP. Try archive.org Westinghouse 'Distribution Equipment' catalogs (1960s-80s) and Mike Holt forum.  
+  URLs: https://forums.mikeholt.com/threads/westinghouse-prl2-panelboards.133286/latest
+* **LEAD-0040 — SPD kits for Pow-R-Line panelboards** (B0001-eaton-prl-panelboards)  
+  Catalogs state PRL1a/2a/3a/4 available with integrated SPD (Tab 34 reference) but no field-installable SPD kit numbers appear in renewal-parts guides. Search Eaton SPD 'integrated panelboard' kit catalog (SPD series SPD250/SPD100 panelboard mounting kits).  
+  Docs: Tab 34
+* **LEAD-0041 — PRL4 retrofit kit catalog strings** (B0001-eaton-prl-panelboards)  
+  Retrofit kits are built as KPRL4 + breaker catalog + T/S (e.g. KPRL4KD3400S; Xpert: KPRL4XPG33400S) and KPRL4 + switch catalog (e.g. KPRL4FDPWT3633R); individual catalog numbers not enumerated - not recorded as part records.  
+  Docs: RP01400001E
 
 ## Priority 4
 
@@ -105,4 +143,7 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   NBK01A-03A (P1), NBK3-8 (P2/P3), LPDC01/02, MCHK, LPJSPDNUT01, LPTS01, LP3RHP01, LPKEY01A/B (key B363A), LPLOCK01A/02A/03A (FAS-Latch, 11-1895-61/62/63), XTP060 touch-up paint - listed on pp.11-20, 11-21, 11-54; not catalogued as parts.
 * **LEAD-0029 — Challenger panelboards (non-loadcenter) data** (B0002-eaton-switchboards-legacy)  
   No OEM renewal data found for Challenger-branded commercial panelboards; Vol 12 only gives BR loadcenter lineage (Challenger bought 1988).
+* **LEAD-0042 — Boxes, trims, EZ Box/EZ Trim, Type 12/3R enclosures, side gutter covers, door-in-door kits** (B0001-eaton-prl-panelboards)  
+  Not recorded as parts in this batch (scope = mounting hardware). Tables available: s1 p.31 side gutter covers 6555C20H01-6555C28H01; s1 p.36 EZB/EZT 42C1999/42C4255/42C4258/42C4261/42C4264; s1 p.37-38 VWPB/LWPT, LDD...STW/FTW, mounting channels 8708C82G02-G08, RPCB/DPC; s4 p.10-11 DD2457K..DD4490K, EZ flanges 42C1993H01, 42C1995Hxx, 42C1987/42C1988Gxx, EZ anti-lift 1A85195H01; s5 pp.3-9 YS20xx boxes, LT/LTT trims, column boxes 114D939Gxx, 6726D69Gxx.  
+  Docs: RP01400001E, RP01414001E, RP01400002E
 

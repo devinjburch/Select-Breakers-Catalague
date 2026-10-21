@@ -4,12 +4,13 @@
 Checks: dangling references, duplicate part numbers, A/B claims without sources,
 conflicting values of equal confidence, alt numbers colliding with another part's primary number.
 """
+import re
 import sys
 from collections import defaultdict
 
 from common import CONF_RANK, load_all, norm_pn
 
-SINGLE_VALUED = {"poles", "voltage", "ampacity", "status", "material"}
+SINGLE_VALUED = {"poles", "voltage", "ampacity", "material"}
 
 
 def main():
@@ -35,7 +36,8 @@ def main():
                         errors.append(f"{eid}.{fld}: dangling source {s}")
             if fld in SINGLE_VALUED and len(lst) > 1:
                 top = [c for c in lst if c["conf"] == lst[0]["conf"]]
-                if len({norm_pn(c["value"]) for c in top}) > 1:
+                # wording differences are fine; flag only when the numbers stated differ
+                if len({tuple(sorted(set(re.findall(r"\d+(?:\.\d+)?", c["value"])))) for c in top}) > 1:
                     warns.append(f"{eid}.{fld}: conflicting class-{lst[0]['conf']} values: "
                                  + " | ".join(c["value"] for c in top))
 

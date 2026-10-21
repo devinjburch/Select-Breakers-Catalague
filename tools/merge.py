@@ -210,6 +210,12 @@ def merge_batch(store, path, warnings):
         for e in store.families:
             if e["mfr"] != mfr:
                 continue
+            # families with different explicit codes are never merged on a shared alias
+            if f.get("code") and e.get("code"):
+                if norm_pn(f["code"]) == norm_pn(e["code"]):
+                    hit = e
+                    break
+                continue
             enames = {norm_pn(x) for x in [e.get("code"), e.get("name")] + e.get("aliases", []) if x}
             if names & enames:
                 hit = e

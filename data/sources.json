@@ -723,7 +723,8 @@
   "id": "SRC-00042",
   "mfr": "EAT",
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0001-eaton-prl-panelboards"
   ],
   "sha256": "5a86bf6b03b1306235c35bdef2571d6ad317e5ef330b7dd1f4f6461de59b5c0c",
   "bytes": 1829594
@@ -882,6 +883,1072 @@
   "mfr": "EAT",
   "batches": [
    "B0002-eaton-switchboards-legacy"
+  ]
+ },
+ {
+  "title": "Renewal Parts RP01400001E - Pow-R-Line Xpert and legacy (PRL1X, PRL2X, PRL3X, PRL4X, PRL1a, PRL2a, PRL3a, PRL4)",
+  "publisher": "Eaton",
+  "doc_number": "RP01400001E (Z25020)",
+  "date": "2021-04",
+  "url": "https://eatonarabia.com/wp-content/uploads/2022/03/pow-r-line-1.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/pow-r-line-1.pdf",
+  "notes": "Effective April 2021, supersedes December 2020. 40 pp. Mirror hosted on eatonarabia.com (Eaton distributor site). Primary source for kit tables.",
+  "id": "SRC-00052",
+  "mfr": "EAT",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ],
+  "sha256": "dc188bbc8a3833bacf7cd63ad4bead642bc40f2be72df9fa5e347035d9c3c95f",
+  "bytes": 1852963
+ },
+ {
+  "title": "Current Cutler-Hammer Panelboards Renewal Parts RP01400001E (PRL1a, PRL2a, PRL3a, PRL4B/F, PRL5P, PRL1a/2a-LX, Pow-R-Command)",
+  "publisher": "Eaton / Cutler-Hammer",
+  "doc_number": "RP01400001E",
+  "date": "2009-02",
+  "url": "https://assets.usesi.com/product-media/catalogs/USESI_426974_catalog.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/USESI_426974_catalog.pdf",
+  "notes": "Effective February 2009; supersedes RP.38F.01.T.E pages 1-48 dated February 2000. 44 pp. Distributor-hosted (US Electrical Services) copy of OEM PDF. Contains older PRL4 kit numbers (KPRL4FD etc.) and PRL5P section.",
+  "id": "SRC-00053",
+  "mfr": "EAT",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ],
+  "sha256": "c67fc8f64fa204d099bbe3751c2673c797c3da49b69bb36825a2016a9bceb65f",
+  "bytes": 855357
+ },
+ {
+  "title": "Panelboard Renewal Parts Supplement, Renewal Parts Data RP01414001E",
+  "publisher": "Eaton",
+  "doc_number": "RP01414001E",
+  "date": "2011-01",
+  "url": "https://assets.usesi.com/product-media/catalogs/USESI_196328_catalog.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/USESI_196328_catalog.pdf",
+  "notes": "Effective January 2011. 16 pp. Identical content also at https://assets.usesi.com/product-media/brochures/USESI_426974_brochure.pdf (saved as USESI_426974_brochure.pdf). Includes PRL3a blank cover widths, PRL4 blank cover widths, PRL4 connector kits (KPRL4LD/MD/ND/45XS) and Pow-R-Kit order form.",
+  "id": "SRC-00054",
+  "mfr": "EAT",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ],
+  "sha256": "c0142c64096b4011b7d57708cc07897e2196156469574638365fdb2ed17f7672",
+  "bytes": 656173
+ },
+ {
+  "title": "Renewal Parts RP01400002E - Vintage Westinghouse panelboards (PRL1, PRL2, PRL3, PRL1-LX, PRL3-LX, CDP/HCDP, FDP)",
+  "publisher": "Eaton",
+  "doc_number": "RP01400002E (Z13209)",
+  "date": "2013-02",
+  "url": "https://novapart.co/media/2/6/6/F38703722D40D662.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/RP01400002E_novapart_mirror.pdf",
+  "notes": "Effective February 2013, supersedes April 2009. 20 pp. Mirror on novapart.co (landing page https://novapart.co/datasheet/farnell:2192454/ contains promotional text aimed at AI assistants - ignored).",
+  "id": "SRC-00055",
+  "mfr": "EAT",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ],
+  "sha256": "10d211cdd1c0b909ea399d41ea4140c4c6ff2e367e7d8c8c16dbff40fb5e0605",
+  "bytes": 569340
+ },
+ {
+  "title": "Volume 2 - Commercial Distribution, Tab 3 Panelboards and Lighting Control",
+  "publisher": "Eaton",
+  "doc_number": "CA08100003E",
+  "date": "2020-06",
+  "url": "https://eatonarabia.com/wp-content/uploads/2022/03/panelboard-and-lighting-control.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/panelboard-and-lighting-control.pdf",
+  "notes": "135 pp. Pow-R-Line Xpert (PRL1X/2X/3X/3E/4X/4DX/4F) selection guide p. V2-T3-2, panelboard selection guide p. V2-T3-11, terminal tables V2-T3-12/13.",
+  "id": "SRC-00056",
+  "mfr": "EAT",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ],
+  "sha256": "8ab080309c014a4b8496c9d83d9612a235d5df0fc8e59e887090dcbfcaf09ba0",
+  "bytes": 4950927
+ },
+ {
+  "title": "Panelboards - Consulting Application Guide Tab 22 (Pow-R-Line 1a/2a/3a/3E/4/1aF/2aF/1a-LX/2a-LX/1R/2R)",
+  "publisher": "Eaton",
+  "doc_number": "CA08104001E (Tab 22)",
+  "date": "2018-01",
+  "url": "https://eatonarabia.com/wp-content/uploads/2022/03/eaton-panelboard-cag-tb01400003e-tab-22.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/eaton-panelboard-cag-tb01400003e-tab-22.pdf",
+  "notes": "84 pp, January 2018 sheets. Table 22.0-2 selection guide p. 22.0-5; PRL1a p. 22.1-1; PRL2a p. 22.2-1; PRL3a p. 22.3-1/22.3-2; PRL3E p. 22.3-5; PRL4 p. 22.4-1/22.4-2.",
+  "id": "SRC-00057",
+  "mfr": "EAT",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ],
+  "sha256": "b1bbc5ae087a58759103e7a5b70748f863683bb1fac042d465cb35f3b53d8b83",
+  "bytes": 4775283
+ },
+ {
+  "title": "Rexel USA listing: Filler Plate, Panelboard, PRL3A, for Panelboards Built After April 2019 (42C8083H01)",
+  "publisher": "Rexel USA",
+  "doc_number": "",
+  "date": "",
+  "url": "https://www.rexelusa.com/p/2273430/eaton/filler-plate-panelboard-prl3a-for-panelboards-built-after-april-2019/42c8083h01",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Spec: Type Filler Plate; Length 4.220 in.",
+  "id": "SRC-00058",
+  "mfr": "OTH",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ]
+ },
+ {
+  "title": "Rexel USA listing: Panel Board, PRL3A, Cover Filler Plate, 1P for F-Frame Breakers (4178B06H01)",
+  "publisher": "Rexel USA",
+  "doc_number": "",
+  "date": "",
+  "url": "https://rexelusa.com/p/120408/eaton/panel-board-prl3a-cover-filler-plate-1p-for-f-frame-breakers/786685467672/4178b06h01",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "UPC 786685467672; description says 'for panels built PRIOR to April 2019'; color black; 1 pole.",
+  "id": "SRC-00059",
+  "mfr": "OTH",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ]
+ },
+ {
+  "title": "Elliott Electric listing: KPRL4FD - PRL4 Connector Kit For Twin MTD 3P EHD, FD, FDB, HFD",
+  "publisher": "Elliott Electric Supply",
+  "doc_number": "",
+  "date": "",
+  "url": "https://elliottelectric.com/P/Item/CHD/KPRL4FD/Alternate",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "UPC 782114795941; 225 A; 3-phase; product type 'PRL4 Conn Kit Twin MTD 3P E/F-FRM BKR'; package dims 9.0 x 1.5 x 3.0 in; listed weight 17 lb (as given); UL 67; shown in stock.",
+  "id": "SRC-00060",
+  "mfr": "OTH",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ]
+ },
+ {
+  "title": "Rexel USA listing: PRL4X PD2 1 POLE FILLER (PRXP4PD2FILL1)",
+  "publisher": "Rexel USA",
+  "doc_number": "",
+  "date": "",
+  "url": "https://www.rexelusa.com/p/2925374/eaton/prl4x-pd2-1-pole-filler/786689814915/prxp4pd2fill1",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "UPC 786689814915; Pow-R-Xpress (unassembled PRL4X) context.",
+  "id": "SRC-00061",
+  "mfr": "OTH",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ]
+ },
+ {
+  "title": "Elliott Electric spec sheet: P41X25 SWBD/PRL4 1X Filler 1.375\"H 25\"W Fits 36\" 44\" 45\"",
+  "publisher": "Elliott Electric Supply",
+  "doc_number": "",
+  "date": "",
+  "url": "https://www.elliottelectric.com/Media/P41X25-ETN",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/OTH/P41X25-ETN_elliott_spec.pdf",
+  "notes": "Description 'Eaton, PRL4- 1X Blank Cover'; UPC 621037246102; 2.0 lb.",
+  "id": "SRC-00062",
+  "mfr": "OTH",
+  "batches": [
+   "B0001-eaton-prl-panelboards"
+  ],
+  "sha256": "0499a41883fa125f62dbd83a2e057974b28e04b8c1aabad61a2a7a6329a11b41",
+  "bytes": 60066
+ },
+ {
+  "title": "Power-Style Low Voltage Switchboards: QED-2 and Speed-D Merchandised Service Section Switchboards Catalog (Class 2710, 2741, 2742)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "2700CT1101",
+  "date": "2012-02",
+  "url": "https://media.distributordatasolutions.com/schneider_synd/2023q1/documents/3ec11ffaa483c317fee9fe851a4472117ace727c.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/dds_3ec11.pdf",
+  "notes": "Distributor-hosted (DistributorDataSolutions) copy of OEM PDF, 60 pp. A newer 2700CT1101 (v02, 2025-12, ~140 MB) exists on se.com but was not retrieved.",
+  "id": "SRC-00063",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ],
+  "sha256": "998147d17dc11c721572344189165575cdef7a1a31ee904b3ebd606fa31eab4d",
+  "bytes": 4564066
+ },
+ {
+  "title": "I-Line Circuit Breaker Panelboards Catalog, Class 2110",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "2110CT9701R07/19",
+  "date": "2019-07",
+  "url": "https://media.distributordatasolutions.com/schneider2/2020q1/20ebda625aea586bc898b8e30954a51d38425d30.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/dds_20ebda.pdf",
+  "notes": "Distributor-hosted copy of OEM PDF, 24 pp. Current revision is v2.1 2025-02-18 (se.com, blocked).",
+  "id": "SRC-00064",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ],
+  "sha256": "e3553553f297d05e8923ad8e5b5d3e59f4cd01bc1903c859d85640672610e0ce",
+  "bytes": 2646449
+ },
+ {
+  "title": "QMB Fusible Panelboards Catalog, Class 4620",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "4620CT9601R07/15",
+  "date": "2015-07",
+  "url": "https://download.se.com/files?p_Doc_Ref=4620CT9601&p_enDocType=Catalog&p_File_Name=4620CT9601.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/4620CT9601.pdf",
+  "notes": "Retrieved via WebFetch (curl 403). se.com page says document is current but may reference obsolete products.",
+  "id": "SRC-00065",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ],
+  "sha256": "4bed4eab0838c4972f552c29a473ca229e20d1c47ed804a60f49411c0b54832e",
+  "bytes": 1942188
+ },
+ {
+  "title": "I-Line (HCP, HCP-SU, and HCRU) Panelboards and Switchboards - Blank Extension Installation, Instruction Bulletin, Class 2110",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80030-695-02",
+  "date": "2011-09",
+  "url": "https://media.distributordatasolutions.com/schneider/2018q1/f4c97d51a6c117544e2493c3367e6bba5774eb47",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/dds_f4c97d.pdf",
+  "notes": "Trilingual EN/ES/FR, 10 pp. States it applies to I-Line panelboards and QED2 switchboards manufactured after 2011.",
+  "id": "SRC-00066",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ],
+  "sha256": "d5202c6ef028a8238a6ebd4fefd8ececd854a74d5f9332a4ea87ccfc371d3a78",
+  "bytes": 1583711
+ },
+ {
+  "title": "Product data sheet QMB15BLW - Panelboard blank filler plate",
+  "publisher": "Schneider Electric",
+  "doc_number": "QMB15BLW data sheet",
+  "date": "2023-04-12",
+  "url": "https://media.distributordatasolutions.com/schneider_synd/2023q2/documents/55f1316a17cc332c2db81fbd11361b088e686058.pdf",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/dds_55f131.pdf",
+  "id": "SRC-00067",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ],
+  "sha256": "044bb5169fd88dec49f7788bb19dd8e12b507169ed626b4eca32af759d4f550d",
+  "bytes": 69399
+ },
+ {
+  "title": "FAQ FA225625: Do the merchandised Speed-D switchboards with QMB branch devices come with blank fillers for the unused space?",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA225625",
+  "url": "https://www.se.com/us/en/faqs/FA225625",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00068",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA100365: blank filler catalog numbers for current design QMB panelboards",
+  "publisher": "Schneider Electric Canada",
+  "doc_number": "FA100365",
+  "url": "https://www.se.com/ca/en/faqs/FA100365",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00069",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA243887: What is the difference between an I-Line Blank Filler and a Blank Extension?",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA243887",
+  "url": "https://www.se.com/us/en/faqs/FA243887",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Gives internal part numbers for HNM/HLN/HLW fillers and extensions; WebFetch summary (not verbatim).",
+  "id": "SRC-00070",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA112712: What blank fillers are required in an I-Line panel when an LI breaker is replaced with a KI?",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA112712",
+  "url": "https://www.se.com/us/en/faqs/FA112712",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00071",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA93287: blank extensions for the wide side of an HCW panelboard",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA93287",
+  "url": "https://www.se.com/us/en/faqs/FA93287",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00072",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA108059: Do the blank filler plates and extensions for I-Line panelboards fit the QED switchboards?",
+  "publisher": "Schneider Electric Canada",
+  "doc_number": "FA108059",
+  "url": "https://www.se.com/ca/en/faqs/FA108059",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00073",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA117096: difference between plug-on and bolt-on I-Line connections",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA117096",
+  "url": "https://www.se.com/us/en/faqs/FA117096",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "References Data Bulletin 0600DB1004.",
+  "id": "SRC-00074",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA129562: mounting screw for a PowerPact H or J frame breaker I-Line mounting bracket",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA129562",
+  "url": "https://www.se.com/au/en/faqs/FA129562/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00075",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA103561: mounting bracket screw for an FA or FH I-Line breaker",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA103561",
+  "url": "https://www.se.com/us/en/faqs/FA103561",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00076",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FAQ000274446: replacement mounting screw for L-frame breaker inside I-Line panelboard",
+  "publisher": "Schneider Electric",
+  "doc_number": "FAQ000274446",
+  "url": "https://www.se.com/us/en/faqs/FAQ000274446",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00077",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA125949: Can you replace the mounting bracket on the load end of I-Line breakers?",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA125949",
+  "url": "https://www.se.com/us/en/faqs/FA125949",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00078",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA118475: deadfront brackets on an I-Line HCN3254-2 panelboard",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA118475",
+  "url": "https://www.se.com/us/en/faqs/FA118475",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00079",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA116225: plug-button for unused holes in NEMA 1 and 3R QED-1 and QED-2 switchboards (incl. Speed-D)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA116225",
+  "url": "https://www.se.com/us/en/faqs/FA116225",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00080",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA108122: QED cover screw part number",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA108122",
+  "url": "https://www.se.com/us/en/faqs/FA108122",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "403 on direct fetch; content (21427-20401, 1/4-20 x 1-1/4 self-tapping screw) seen only in search-engine snippet.",
+  "id": "SRC-00081",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA125924: replacement handle for an outdoor QED switchboard",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA125924",
+  "url": "https://www.se.com/us/en/faqs/FA125924",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00082",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA124494: door and frame hinges for a QED2, CMM, or Speed-D NEMA 3R switchboard",
+  "publisher": "Schneider Electric Canada",
+  "doc_number": "FA124494",
+  "url": "https://www.se.com/ca/en/faqs/FA124494",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00083",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA96877: deadfront screws used on Square D panelboards (NF, I-Line, NQ, QMB)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA96877",
+  "url": "https://www.se.com/us/en/faqs/FA96877",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00084",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA121592: Are Square D QED switchboards able to have additional (splice-to) sections installed?",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA121592",
+  "url": "https://www.se.com/us/en/faqs/FA121592",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00085",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA308905: Do QED 2 switchboards NEMA 1 or 3R come with a solid bottom?",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA308905",
+  "url": "https://www.se.com/us/en/faqs/FA308905/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00086",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FAQ000269509: I-Line subfeed lug kits to tap I-Line bus (SL100...SL1200P7)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FAQ000269509",
+  "url": "https://www.se.com/ca/en/faqs/FAQ000269509/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Content seen via search-engine summary only (direct fetch 403).",
+  "id": "SRC-00087",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Square D QMB / QED-2 FAQ group (QED-2 Series 2 QMB mounting height 63 in.; QED-2 I-Line section limits 3000 A single row / 2000 A double row)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FAQ000279508 / FAQ000257217",
+  "url": "https://www.se.com/us/en/faqs/FAQ000279508",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Content seen via search-engine summaries only (direct fetch 403).",
+  "id": "SRC-00088",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Distributor listings for QMB blank fillers (QMB1BLW, QMB3BLW, QMB6BLW) - kit contents",
+  "publisher": "Standard Electric Supply / Steiner Electric / Crescent Electric",
+  "url": "https://www.standardelectricsupply.com/Square-D-QMB3BLW-Filler-Plate-Kit",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via search summaries; Crescent lists QMB1BLW as discontinued.",
+  "id": "SRC-00089",
+  "mfr": "OTH",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Distributor listings for I-Line blank extensions (HLW4BL qty 5, 6.35 in W x 4.5 in H; HLW1BL qty 3; HLN4BL)",
+  "publisher": "Standard Electric Supply / Crescent Electric / Steiner Electric / Rexel",
+  "url": "https://www.standardelectricsupply.com/Square-D-HLW4BL-I-Line-Blank-Plate",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via search summaries. Note conflicting qty for HLW1BL (se.com product title says qty 5; distributors and FAQ FA112712 say kit of 3).",
+  "id": "SRC-00090",
+  "mfr": "OTH",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Distributor listings for QED-2 OEM I-Line switchboard interiors (CF20R63C, CF25R63C, CF20RJ63C, CF30RJ63C, CF16RJ63C36)",
+  "publisher": "Rexel USA / Royal Wholesale Electric / others",
+  "url": "https://www.rexelusa.com/p/1207792/square-d/panelboard-interior-qed-2-i-line-63-height-3000a-copper-bus-center-feed/cf30rj63c",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via search summaries only.",
+  "id": "SRC-00091",
+  "mfr": "OTH",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Distributor listings for QMB switch units (QMB368W 1200 A 24 in.; QMB322TD; QMB362T1; QMB323TD)",
+  "publisher": "Crescent Electric / Steiner Electric / Forberg Smith",
+  "url": "https://www.crescentelectric.com/product/90087/switch-unit-qmb-fusible-panelboards-1200a-24-inch-3-pole-600vac-max",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via search summaries.",
+  "id": "SRC-00092",
+  "mfr": "OTH",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Distributor listings for SL400 I-Line sub-feed lug kit",
+  "publisher": "Crescent Electric / Steiner Electric / MB Glick",
+  "url": "https://www.crescentelectric.com/product/227088/panelboard-accessory-i-line-lug-kit-subfeed-400a-6-in",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Crescent title: 'I-Line, lug kit, subfeed, 400A, 6 in'.",
+  "id": "SRC-00093",
+  "mfr": "OTH",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "OEM QED-2 Switchboard I-Line Interiors, Single-Row and Double-Row OEM Interior Products Catalog",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "2700CT1601",
+  "date": "2023-01-11 (v1.3)",
+  "url": "https://www.productinfo.schneider-electric.com/power_style_qed_2/2700ct1601-oem-qed-2-switchboard-i-linetm-interiors-catalog/English/2700CT1601.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Akamai 403 via curl and WebFetch; download.se.com also 403. HIGH-VALUE: contains OEM interior selection tables.",
+  "id": "SRC-00094",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Power-Style QED-2 Switchboards Instruction Bulletin",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-055-16",
+  "date": "2024-06",
+  "url": "https://www.productinfo.schneider-electric.com/power_style_qed_2/80043-055-power-style-qed-2-switchboards-instruction-bulletin/English/80043-055-016_en.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "id": "SRC-00095",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Square D I-Line Plug-on Connection Design and Advantages, Data Bulletin",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "0600DB1004",
+  "date": "2010-12-01",
+  "url": "https://www.se.com/us/en/download/document/0600DB1004",
+  "type": "oem_bulletin",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "id": "SRC-00096",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "Mike Holt forum thread: SQ-D replacement parts (I-Line bussing not sold as DIY parts)",
+  "publisher": "forums.mikeholt.com",
+  "url": "https://forums.mikeholt.com/goto/post?id=1409627",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Anecdotal; seen via search summary.",
+  "id": "SRC-00097",
+  "mfr": "OTH",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "QMB legacy-replacement FAQs seen only via search summary (QMB3640 -> QMB3400LA; QMB303T -> QMB321T + QMB306LEX; QMB306T Series 1 -> QMB322TD + QMB306LEX)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA123288 / FA87289 / FA113960 / FA99653 / FA118445 (mapping unverified)",
+  "url": "https://www.se.com/us/en/faqs/FA123288",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Direct fetch 403 (rate-limited); content seen only through search-engine summary - treat as C until verified.",
+  "id": "SRC-00098",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA92305: repair parts for a QMB363TW, Series E1 (E01)",
+  "publisher": "Schneider Electric Canada",
+  "doc_number": "FA92305",
+  "url": "https://www.se.com/ca/en/faqs/FA92305",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00099",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA92286: repair parts for a QMB367W, Series E1 (E01)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA92286",
+  "url": "https://www.se.com/us/en/faqs/FA92286",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00100",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA119872: replacement for a QMB310T, series 1 through 4 switch",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA119872",
+  "url": "https://www.se.com/us/en/faqs/FA119872",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00101",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA127541: replacement for a QMB3620",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA127541",
+  "url": "https://www.se.com/us/en/faqs/FA127541",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00102",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA88047: replacement for a QMB3606T",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA88047",
+  "url": "https://www.se.com/us/en/faqs/FA88047",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00103",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA100372: replacement for a QMB3260 600 A QMB switch",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA100372",
+  "url": "https://www.se.com/us/en/faqs/FA100372",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00104",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA128647: replacement parts for a QMB3240",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA128647",
+  "url": "https://www.se.com/us/en/faqs/FA128647",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00105",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA122651: replacement switch for the old QMB2240, 2P 400 A QMB switch",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA122651",
+  "url": "https://www.se.com/us/en/faqs/FA122651",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00106",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA242815: Does Schneider offer a 1200 A QMB switch? Where is it used?",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA242815",
+  "url": "https://www.se.com/us/en/faqs/FA242815",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00107",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA122202: QMB blanks for current style QMB panelboards and switchboards with QMB distribution",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA122202",
+  "url": "https://www.se.com/us/en/faqs/FA122202",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00108",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA113960: replacement branch switch for the old QMB210T Series 1 through 4",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA113960",
+  "url": "https://www.se.com/us/en/faqs/FA113960",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00109",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "FAQ FA118445: part number for a 300 A / 3P circuit breaker unit for an old QMB Saflex panelboard",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA118445",
+  "url": "https://www.se.com/us/en/faqs/FA118445",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00110",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "MB Glick surplus listing: Square D QMB3606T QMB Saflex panelboard switch unit 60 A Series 4 (and used QMB 3606T Series 2 Saflex twin unit listing)",
+  "publisher": "MB Glick / others",
+  "url": "https://mbglick.com/shop/panelboard-switch/square-d-qmb3606t-qmb-saflex-panelboard-switch-unit-60a-max-600hp-series-4",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via search summary only.",
+  "id": "SRC-00111",
+  "mfr": "SQD",
+  "batches": [
+   "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "GE Products BuyLog, Section 6: Molded Case Circuit Breakers",
+  "publisher": "ABB (GE Industrial Solutions)",
+  "doc_number": "BuyLog Section 6, Rev. 1/19",
+  "date": "2019-01",
+  "url": "https://assets.unilogcorp.com/2/ITEM/DOC/GE_SEFFMI_Catalog.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/GE_SEFFMI_Catalog.pdf",
+  "notes": "Distributor-hosted mirror of the OEM PDF, 106 pp. Key pages: 6-36/6-37 (TJJ/TJK lugs), 6-48 (SG600 lugs), 6-73/6-78/6-81/6-88 (Record Plus lugs), 6-101 (mounting hardware and studs), 6-102 (lugs, line shields, lug covers), 6-103 (Spectra lugs and covers), 6-104 (power distribution lugs). CAUTION: footnote superscripts are run into the part numbers in the extracted text (e.g. 'TCAL1212' = TCAL121 + footnote 2), so numbers were reconciled against the 2012 edition.",
+  "id": "SRC-00112",
+  "mfr": "GEA",
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "sha256": "ef6ebb0807dd06684af7a794aa89fdc042a788f1186884af48e0ddd8aabc78b7",
+  "bytes": 2306782
+ },
+ {
+  "title": "GE BuyLog Catalog, Section 6: Molded Case Circuit Breakers",
+  "publisher": "GE Industrial Solutions",
+  "doc_number": "BuyLog Section 6, Rev. 11/13",
+  "date": "2013-11",
+  "url": "https://assets.usesi.com/product-media/catalogs/USESI_107433_catalog_1.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/USESI_107433_catalog_1.pdf",
+  "notes": "Distributor mirror. Its lug tables carry the same part numbers as the Rev. 1/19 edition.",
+  "id": "SRC-00113",
+  "mfr": "GEA",
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "sha256": "17b935df3acb259da28aa672bc1403b68c6ec89d014aebf263203bdd1678304b",
+  "bytes": 8481400
+ },
+ {
+  "title": "GE BuyLog Catalog, Section 3: Molded Case Circuit Breakers (with GO-135 list prices)",
+  "publisher": "GE Industrial Solutions",
+  "doc_number": "BuyLog Section 3, Rev. 9/12",
+  "date": "2012-09",
+  "url": "https://www.usesi.com/media/product-media/catalogs/USESI_14306_catalog.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/USESI_14306_catalog.pdf",
+  "notes": "Key pages: 3-120 (lugs and associated hardware, with footnotes 1-10), 3-121 (Spectra lugs), the TKMA tables (TCAL81/TCAL121) and the TJJ/TJK tables. Footnote numbers here differ from the 2019 edition, which made it possible to separate base part numbers from footnote digits. Lists the TCAL27, TCALK341, TCALK343, TCALK347 and TJLVK items that the 2013/2019 tables drop.",
+  "id": "SRC-00114",
+  "mfr": "GEA",
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "sha256": "8250df997ca9b0e2c9feff2bd98e868ce2f5827f2aceecada1b9e775ff571c50",
+  "bytes": 1864492
+ },
+ {
+  "title": "GE 2008 BuyLog, Section 3: Molded Case Circuit Breakers (excerpt, 3 pp.)",
+  "publisher": "GE Consumer & Industrial",
+  "doc_number": "BuyLog Section 3, Rev. 1/08",
+  "date": "2008-01",
+  "url": "https://docs.ips.us/docs/W1003579.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/W1003579.pdf",
+  "notes": "Excerpt hosted by IPS. Mentions only TCAL81 and TCAL125. Used for corroboration.",
+  "id": "SRC-00115",
+  "mfr": "GEA",
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "sha256": "d393389cd9edc27e587d6aea95053fbe0e9fb0019f6fd64483c46c7cfdb07dae",
+  "bytes": 472357
+ },
+ {
+  "title": "GE BuyLog Section 6 single page 6-103 (lugs), Rev. 7/13",
+  "publisher": "GE Industrial Solutions",
+  "doc_number": "BuyLog p. 6-103 Rev. 7/13",
+  "date": "2013-07",
+  "url": "https://cdn.shopify.com/s/files/1/0074/7149/7286/files/TCAL12_Catalogue.pdf?v=1680355092",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/TCAL12_Catalogue.pdf",
+  "notes": "Single-page extract (2013 pagination) of the general lug table hosted by a reseller. Its content matches 2019 p. 6-102.",
+  "id": "SRC-00116",
+  "mfr": "GEA",
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "sha256": "48e416c3ec4fcf83675edaa34b3db02923ecaead09657d65ed00ba10ef0a825c",
+  "bytes": 87411
+ },
+ {
+  "title": "Siemens SPEEDFAX Product Catalog, Section 7: Molded Case Circuit Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "SF-17-Sect-07 (SPEEDFAX 2017, pages revised 2017-2020)",
+  "date": "2020-09",
+  "url": "http://library.coburns.com/specs/SF-17-Sect-07-ALL-web.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SF-17-Sect-07-ALL-web.pdf",
+  "notes": "240 pp. Mirror (Coburn's). The OEM URL https://support.industry.siemens.com/cs/attachments/109983309/SF-17-Sect-07-ALL-web.pdf returned a 470-byte HTML stub to curl. Key pages: 7-39 (BQXD lugs, finger-safe shields), 7-40 (QR2 lugs), ED/FD/JD/LD/MD/ND/PD pages (lug notes), 7-153 (mechanical lugs, rev 06/30/19), 7-154 (aluminum body lugs, rev 05/31/18), 7-155 (optional Cu lugs, compression and distribution lugs, rev 11/30/19), 7-160 (terminal shields, rev 02/28/19), 7-165 (plug-in and rear-connecting studs, rev 09/30/20).",
+  "id": "SRC-00117",
+  "mfr": "SIE",
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "sha256": "62c85a6c4c23447c1ec618ad501e87bb42359271299749707bf63a17ed06e3f6",
+  "bytes": 10502629
+ },
+ {
+  "title": "Siemens SPEEDFAX, Section 7: Molded Case Circuit Breakers (section last modified 08/17/21)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "SPEEDFAX Section 7 (2021 revision)",
+  "date": "2021-08",
+  "url": "https://docs.ips.us/docs/W1003585.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/W1003585.pdf",
+  "notes": "242 pp. Later revision. Its set of TA/TC lug catalog numbers is identical to s6, so it was used only for corroboration and to show the parts were still listed in 2021.",
+  "id": "SRC-00118",
+  "mfr": "SIE",
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "sha256": "b04e84af8ae69ca7863f5dcf4e9ff6c0a14528083d9f2ec40a7ccadebcb1180b",
+  "bytes": 11084697
+ },
+ {
+  "title": "Siemens TA1Q300 product page",
+  "publisher": "BSP Automation (distributor)",
+  "doc_number": "",
+  "date": "",
+  "url": "https://bspautomation.com/brand/siemens/ta1q300",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Describes TA1Q300 as a 3-lug kit for QJ breakers, Al/Cu, single wire up to 300 kcmil. A search snippet from superbreakers.com (HTTP 429 when fetched) lists QJ2, QJH2, QJ2H and HQJ2H, 60-225 A.",
+  "id": "SRC-00119",
+  "mfr": "GEA",
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
   ]
  }
 ]

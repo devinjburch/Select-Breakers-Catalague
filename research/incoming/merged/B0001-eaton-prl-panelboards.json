@@ -171,8 +171,7 @@
     "PRL1a",
     "PRL-1A",
     "Pow-R-Line 1a",
-    "POW-R-LINE 1A",
-    "Pow-R-Line C"
+    "POW-R-LINE 1A"
    ],
    "equipment_type": "panelboard",
    "era": {
@@ -231,7 +230,7 @@
     "basis": "oem_spec",
     "page": "p.22.1-1 Tables 22.1-1, 22.1-2"
    },
-   "overview": "Cutler-Hammer/Eaton 240 Vac lighting & appliance panelboard on a 20 in wide box, neutral located in the side gutter. Branch QUICKLAG breakers mount horizontally on factory connector strips (bolt-on 1C96608 or plug-on 2C11642 assemblies); mains, sub-feed breakers and main/sub-feed/through-feed lugs mount vertically on KB/KL connector kits. Fully rated 10/22 kA, series rated to 200 kA at 240 Vac. Suitable for service entrance when specified (PRLSEB barrier kits, 4180B62 bonding jumper).",
+   "overview": "Cutler-Hammer/Eaton 240 Vac lighting & appliance panelboard on a 20 in wide box, neutral located in the side gutter. Branch QUICKLAG breakers mount horizontally on factory connector strips (bolt-on 1C96608 or plug-on 2C11642 assemblies); mains, sub-feed breakers and main/sub-feed/through-feed lugs mount vertically on KB/KL connector kits. Fully rated 10/22 kA, series rated to 200 kA at 240 Vac. Suitable for service entrance when specified (PRLSEB barrier kits, 4180B62 bonding jumper). Note: Eaton literature also uses the umbrella name 'Pow-R-Line C' for Series C breaker panelboards; that name is not unique to PRL1a and is also the name of the PRLC switchboard.",
    "claims": {
     "box_width": {
      "value": "20.00 in (508.0 mm) standard width",

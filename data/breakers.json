@@ -4,6 +4,31 @@
   "mfr": "EAT",
   "name": "EB",
   "aliases": [
+   "DA",
+   "EB",
+   "EHB",
+   "FB",
+   "HFB",
+   "HKA",
+   "HKB",
+   "HLA",
+   "HLB",
+   "HLC",
+   "HMA",
+   "HNB",
+   "HNC",
+   "JA",
+   "JB",
+   "KA",
+   "KB",
+   "LA",
+   "LB",
+   "LBB",
+   "LC",
+   "MA",
+   "MC",
+   "NB",
+   "NC",
    "Westinghouse EB"
   ],
   "claims": {
@@ -41,6 +66,16 @@
      "page": "RP01400002E p. 13 Table 18",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "15-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "page": "p.13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ],
    "status": [
@@ -53,6 +88,38 @@
      "page": "p. V12-T3-10 note 1",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Obsolete; Eaton cross-references each to a Series C retrofit kit using same X space",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "page": "p.13",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on to CDP chassis connectors",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "Various",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
@@ -61,7 +128,8 @@
    "FAM-EAT-011"
   ],
   "source_ids": [
-   "SRC-00038"
+   "SRC-00038",
+   "SRC-00055"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -733,7 +801,18 @@
   "mfr": "EAT",
   "name": "LC",
   "aliases": [
+   "CHLD",
+   "CLD",
+   "CLDC",
    "HLC",
+   "HLCC",
+   "HLD",
+   "LC",
+   "LCC",
+   "LCY",
+   "LD",
+   "LDB",
+   "LDC",
    "Westinghouse LC"
   ],
   "claims": {
@@ -766,7 +845,8 @@
      "value": "300-600 A",
      "conf": "A",
      "src": [
-      "SRC-00039"
+      "SRC-00039",
+      "SRC-00055"
      ],
      "page": "RP01400002E p. 13 Table 18",
      "basis": "oem_spec",
@@ -783,14 +863,79 @@
      "page": "p. V12-T3-11",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "600 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "LD 65/35/25; HLD 100/65/35; LDC 200/100/50 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
-   "FAM-EAT-007"
+   "FAM-EAT-007",
+   "FAM-EAT-014",
+   "FAM-EAT-018"
   ],
   "source_ids": [
-   "SRC-00038"
+   "SRC-00038",
+   "SRC-00055"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -799,7 +944,19 @@
   "mfr": "EAT",
   "name": "MA",
   "aliases": [
+   "CHMDL",
+   "CMDL",
    "HMA",
+   "HMC",
+   "HMCC",
+   "HMDL",
+   "MA",
+   "MC",
+   "MCC",
+   "MCY",
+   "MDL",
+   "MDS",
+   "MDSC",
    "Westinghouse MA"
   ],
   "claims": {
@@ -837,6 +994,15 @@
      "page": "RP01400002E p. 13 Table 18",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "300-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ],
    "status": [
@@ -849,14 +1015,79 @@
      "page": "p. V12-T3-12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on single mount",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "800 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "MDL 65/50/25; HMDL 100/65/35 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
-   "FAM-EAT-007"
+   "FAM-EAT-007",
+   "FAM-EAT-014",
+   "FAM-EAT-025"
   ],
   "source_ids": [
-   "SRC-00038"
+   "SRC-00038",
+   "SRC-00055"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -920,7 +1151,21 @@
   "mfr": "EAT",
   "name": "NB",
   "aliases": [
+   "CHND",
+   "CND",
+   "CNDC",
    "HNB",
+   "HNC",
+   "HND",
+   "NB",
+   "NC",
+   "NCY",
+   "ND",
+   "NDC",
+   "NGC",
+   "NGH",
+   "NGS",
+   "NHH",
    "Westinghouse NB"
   ],
   "claims": {
@@ -958,6 +1203,15 @@
      "page": "RP01400002E p. 13 Table 18",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "600-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ],
    "status": [
@@ -970,14 +1224,79 @@
      "page": "p. V12-T3-12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on single mount",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "1200 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "ND 65/35/25; HND 100/65/35; NDC 200/100/50 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
-   "FAM-EAT-007"
+   "FAM-EAT-007",
+   "FAM-EAT-014",
+   "FAM-EAT-025"
   ],
   "source_ids": [
-   "SRC-00038"
+   "SRC-00038",
+   "SRC-00055"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1164,7 +1483,18 @@
   "id": "BRK-EAT-019",
   "mfr": "EAT",
   "name": "EHD",
-  "aliases": [],
+  "aliases": [
+   "EHD",
+   "FD",
+   "FD/LFD",
+   "FDB",
+   "FDC",
+   "FDCE",
+   "FDE",
+   "HFD",
+   "HFDE",
+   "LFD"
+  ],
   "claims": {
    "dimensions_3p": [
     {
@@ -1188,6 +1518,16 @@
      "page": "p. 11 Table 15",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "EHD 18/14 kA; FD 65/25(35)/18; HFD 100/65/25; FDC 200/100/35 kA (240/480/600)",
+     "conf": "A",
+     "src": [
+      "SRC-00055",
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ],
    "frame": [
@@ -1200,6 +1540,15 @@
      "page": "p. 11 Table 15",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "F-frame 100/150/225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ],
    "amps": [
@@ -1212,18 +1561,79 @@
      "page": "p. 11 Table 15",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "15-225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on to panel connectors",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1, 2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "FD/HFD/FDC 600 Vac; EHD 480 Vac; FDB 600 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "page": "p.11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Series C legacy; replaced in Xpert panels by Power Defense PDG2",
+     "conf": "B",
+     "src": [
+      "SRC-00052",
+      "SRC-00056"
+     ],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
-   "FAM-EAT-007",
    "FAM-EAT-001",
+   "FAM-EAT-007",
+   "FAM-EAT-010",
    "FAM-EAT-014",
-   "FAM-EAT-010"
+   "FAM-EAT-016",
+   "FAM-EAT-017",
+   "FAM-EAT-018",
+   "FAM-EAT-025"
   ],
   "source_ids": [
    "SRC-00038",
-   "SRC-00039"
+   "SRC-00039",
+   "SRC-00055",
+   "SRC-00057"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1292,9 +1702,10 @@
   "mfr": "EAT",
   "name": "ED",
   "aliases": [
-   "EDH",
-   "EDC",
+   "ED",
    "EDB",
+   "EDC",
+   "EDH",
    "EDS"
   ],
   "claims": {
@@ -1320,18 +1731,97 @@
      "page": "p. 11 Table 15",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "100-225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on; single mount 175-225 A in PRL3a",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "225 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "240 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "ED 65, EDH 100, EDC 200, EDB 22, EDS 42 kA @240 V",
+     "conf": "A",
+     "src": [
+      "SRC-00055",
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
-   "FAM-EAT-007",
    "FAM-EAT-001",
+   "FAM-EAT-007",
+   "FAM-EAT-010",
    "FAM-EAT-014",
-   "FAM-EAT-010"
+   "FAM-EAT-016",
+   "FAM-EAT-017",
+   "FAM-EAT-018"
   ],
   "source_ids": [
    "SRC-00038",
-   "SRC-00039"
+   "SRC-00039",
+   "SRC-00055",
+   "SRC-00057"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1340,6 +1830,7 @@
   "mfr": "EAT",
   "name": "CA",
   "aliases": [
+   "CA",
    "CAH",
    "HCA"
   ],
@@ -1366,17 +1857,95 @@
      "page": "p. 11 Table 15",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "100-225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "225 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "240 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "CA 10, CAH 22, HCA 42 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "page": "p.11",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Legacy; not recommended for motor loads",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
    "FAM-EAT-007",
    "FAM-EAT-010",
-   "FAM-EAT-014"
+   "FAM-EAT-014",
+   "FAM-EAT-018"
   ],
   "source_ids": [
    "SRC-00038",
-   "SRC-00039"
+   "SRC-00039",
+   "SRC-00055"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1385,8 +1954,10 @@
   "mfr": "EAT",
   "name": "JD",
   "aliases": [
-   "JDB",
    "HJD",
+   "HJDDC",
+   "JD",
+   "JDB",
    "JDC"
   ],
   "claims": {
@@ -1407,22 +1978,91 @@
      "value": "70-250 A",
      "conf": "A",
      "src": [
-      "SRC-00039"
+      "SRC-00039",
+      "SRC-00055"
      ],
      "page": "p. 11",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "250 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "JD 65/35/18; HJD 100/65/25; JDC 200/100/35 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
    ]
   },
   "family_ids": [
-   "FAM-EAT-007",
    "FAM-EAT-001",
-   "FAM-EAT-014"
+   "FAM-EAT-007",
+   "FAM-EAT-014",
+   "FAM-EAT-016",
+   "FAM-EAT-017",
+   "FAM-EAT-018"
   ],
   "source_ids": [
    "SRC-00038",
-   "SRC-00039"
+   "SRC-00039",
+   "SRC-00055"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1431,12 +2071,14 @@
   "mfr": "EAT",
   "name": "KD",
   "aliases": [
-   "DK",
-   "KDB",
-   "HKD",
-   "KDC",
+   "CHKD",
    "CKD",
-   "CHKD"
+   "CKDC",
+   "DK",
+   "HKD",
+   "KD",
+   "KDB",
+   "KDC"
   ],
   "claims": {
    "dimensions_3p": [
@@ -1474,17 +2116,94 @@
      "page": "p. 11",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "100-400 A (DK 250-400)",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "400 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac (DK 240 Vac)",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "KD 65/35/25; HKD 100/65/35; KDC 200/100/50 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
-   "FAM-EAT-007",
    "FAM-EAT-001",
-   "FAM-EAT-014"
+   "FAM-EAT-007",
+   "FAM-EAT-014",
+   "FAM-EAT-016",
+   "FAM-EAT-017",
+   "FAM-EAT-018"
   ],
   "source_ids": [
    "SRC-00038",
-   "SRC-00039"
+   "SRC-00039",
+   "SRC-00055"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1701,15 +2420,91 @@
      "page": "p. 11 Table 15",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "15-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "FB-P 100 A, LA-P 400 A, NB-P 800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "200 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "page": "p.11",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
    "FAM-EAT-007",
-   "FAM-EAT-014"
+   "FAM-EAT-014",
+   "FAM-EAT-018"
   ],
   "source_ids": [
-   "SRC-00039"
+   "SRC-00039",
+   "SRC-00055"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1718,13 +2513,27 @@
   "mfr": "EAT",
   "name": "BAB",
   "aliases": [
-   "QBHW",
-   "HQP",
-   "QPHW",
    "BA",
-   "QBH",
+   "BAB",
+   "BAB-C",
+   "BAB-D",
+   "BABRP",
+   "BABRSP",
+   "HQP",
+   "QBCAF",
    "QBGF",
-   "QBHGF"
+   "QBGFEP",
+   "QBH",
+   "QBHCAF",
+   "QBHGF",
+   "QBHGFEP",
+   "QBHW",
+   "QHPX",
+   "QPGF",
+   "QPGFEP",
+   "QPHGF",
+   "QPHGFEP",
+   "QPHW"
   ],
   "claims": {
    "replacement": [
@@ -1749,17 +2558,121 @@
      "page": "p. 3",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Bolt-on (horizontal on PRL1a/1X branch connector assemblies; 100 A BAB/QBH mains also horizontal)",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "page": "p.22.1-1",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    },
+    {
+     "value": "Plug-on (2C11642 connector assemblies)",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "page": "p.9",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "QUICKLAG 1 in per pole",
+     "conf": "C",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1, 2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "page": "Table 22.1-2",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "120/240 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "BAB 10 kA; QBHW 22 kA at 240 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "page": "Table 22.1-2",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    },
+    {
+     "value": "HQP 10 kA; QPHW 22 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "page": "Table 22.1-2",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current",
+     "conf": "B",
+     "src": [
+      "SRC-00056",
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
    "FAM-EAT-009",
    "FAM-EAT-010",
-   "FAM-EAT-012"
+   "FAM-EAT-012",
+   "FAM-EAT-016",
+   "FAM-EAT-018",
+   "FAM-EAT-020",
+   "FAM-EAT-022"
   ],
   "source_ids": [
    "SRC-00038",
-   "SRC-00039"
+   "SRC-00039",
+   "SRC-00057"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1768,8 +2681,13 @@
   "mfr": "EAT",
   "name": "GB",
   "aliases": [
+   "GB",
    "GHB",
-   "GHBS"
+   "GHBGFEP",
+   "GHBS",
+   "GHQ",
+   "GHQRSP",
+   "HGHB"
   ],
   "claims": {
    "mounting": [
@@ -1782,16 +2700,87 @@
      "page": "p. 3; V12-T4-16 note 3",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1, 2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "page": "Table 22.2-2",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "277 V 1-pole, 480Y/277 Vac multi-pole; 125/250 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "GHB 65 kA @240, 14 kA @480Y/277; HGHB 25 kA @277",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current",
+     "conf": "B",
+     "src": [
+      "SRC-00056",
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
     }
    ]
   },
   "family_ids": [
    "FAM-EAT-009",
-   "FAM-EAT-010"
+   "FAM-EAT-010",
+   "FAM-EAT-017",
+   "FAM-EAT-018",
+   "FAM-EAT-021",
+   "FAM-EAT-022"
   ],
   "source_ids": [
    "SRC-00038",
-   "SRC-00039"
+   "SRC-00039",
+   "SRC-00057"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -1827,6 +2816,554 @@
    "SRC-00046"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-033",
+  "mfr": "EAT",
+  "name": "Series G L-frame (LGE/LGS/LGH/LGC/LGU) and LHH",
+  "aliases": [
+   "LGE",
+   "LGS",
+   "LGH",
+   "LGC",
+   "LGU",
+   "LHH"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "600 A frame (LHH 400 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "3",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "up to 600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "LGE 65/35/18; LGH 100/65/35; LGC/LGU 200 kA @240",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current/legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-016",
+   "FAM-EAT-017",
+   "FAM-EAT-018",
+   "FAM-EAT-014",
+   "FAM-EAT-023"
+  ],
+  "source_ids": [
+   "SRC-00057"
+  ],
+  "created_batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "BRK-EAT-034",
+  "mfr": "EAT",
+  "name": "Current-limiting FCL / LCL (and FDB+LFB)",
+  "aliases": [
+   "FCL",
+   "LCL",
+   "LFB"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "FCL 100 A, LCL 400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "FCL 15-100, LCL 125-400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "LCL 480 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "LCL 200 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00055"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Legacy",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-018",
+   "FAM-EAT-014",
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00055"
+  ],
+  "created_batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "BRK-EAT-035",
+  "mfr": "EAT",
+  "name": "Power Defense frame 2 (PDG2 / PDD2)",
+  "aliases": [
+   "PDG2",
+   "PD2",
+   "PG2",
+   "PDG2xF",
+   "PDG2xG",
+   "PDG2xM",
+   "PDG2xP",
+   "PDD2xG"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "225 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1, 2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00056"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac class",
+     "conf": "C",
+     "src": [
+      "SRC-00056"
+     ],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current",
+     "conf": "A",
+     "src": [
+      "SRC-00056"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-020",
+   "FAM-EAT-021",
+   "FAM-EAT-022",
+   "FAM-EAT-023"
+  ],
+  "source_ids": [
+   "SRC-00052",
+   "SRC-00056"
+  ],
+  "created_batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "BRK-EAT-036",
+  "mfr": "EAT",
+  "name": "Power Defense frame 3 (PDG3 / PDF3 / PDD3)",
+  "aliases": [
+   "PDG3",
+   "PD3",
+   "PG3",
+   "PF3",
+   "PDG3A",
+   "PDG3B",
+   "PDF3"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "400 A and 600 A frames",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "page": "p.32 Table 46",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "3",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "up to 600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current",
+     "conf": "A",
+     "src": [
+      "SRC-00056"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-020",
+   "FAM-EAT-021",
+   "FAM-EAT-022",
+   "FAM-EAT-023"
+  ],
+  "source_ids": [
+   "SRC-00052",
+   "SRC-00056"
+  ],
+  "created_batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "BRK-EAT-037",
+  "mfr": "EAT",
+  "name": "Power Defense frames 4/5 (PDG4, PDG5, PF4, PF5)",
+  "aliases": [
+   "PDG4",
+   "PDG5",
+   "PG4",
+   "PF4",
+   "PG5",
+   "PF5"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolt-on single mount",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "800 A (4) / 1200 A (5)",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "page": "p.34 Table 49",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "3",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "300-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00052"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current",
+     "conf": "A",
+     "src": [
+      "SRC-00056"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-023"
+  ],
+  "source_ids": [
+   "SRC-00052"
+  ],
+  "created_batch": "B0001-eaton-prl-panelboards"
+ },
+ {
+  "id": "BRK-EAT-038",
+  "mfr": "EAT",
+  "name": "Series G E-frame (EGB/EGS/EGH)",
+  "aliases": [
+   "EGB",
+   "EGS",
+   "EGH",
+   "EGE"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "125 A frame",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1, 2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-125 A",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "480 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "EGB 25/18; EGS 85/35; EGH 100/65 kA (240/480)",
+     "conf": "A",
+     "src": [
+      "SRC-00057"
+     ],
+     "page": "Table 22.3-9",
+     "basis": "oem_spec",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current",
+     "conf": "C",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0001-eaton-prl-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-019"
+  ],
+  "source_ids": [
+   "SRC-00057"
+  ],
+  "created_batch": "B0001-eaton-prl-panelboards"
  },
  {
   "id": "BRK-GEA-001",
@@ -2485,17 +4022,560 @@
   "created_batch": "B0005-ge-abb"
  },
  {
+  "id": "BRK-GEA-016",
+  "mfr": "GEA",
+  "name": "TQD / THQD (Q-Line 225A)",
+  "aliases": [
+   "TQD",
+   "THQD",
+   "TQC 70-100A"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "Q-Line 225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-102",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-017",
+  "mfr": "GEA",
+  "name": "E150 line (TEB, TED, THED, TEC)",
+  "aliases": [
+   "E-150",
+   "E150",
+   "TEB",
+   "TED",
+   "THED",
+   "TEC",
+   "THLC1",
+   "TB1"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "E150 (150 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-34 and 6-102",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "10-150 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-34 and 6-102",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-018",
+  "mfr": "GEA",
+  "name": "F225 line (TFJ, TFK, THFK, TFC)",
+  "aliases": [
+   "F225",
+   "TFJ",
+   "TFK",
+   "THFK",
+   "TFC",
+   "THLC2"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "F225 (225/250 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-101 to 6-102",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-019",
+  "mfr": "GEA",
+  "name": "J400 / J600 line (TJJ, TJK, THJK, TJD, TJC)",
+  "aliases": [
+   "J400",
+   "J600",
+   "TJJ",
+   "TJK",
+   "THJK",
+   "TJD",
+   "TJC",
+   "TB4",
+   "TLB4",
+   "THLC4"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "J400 / J600",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-36 to 6-37 and 6-102",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "200-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-36 to 6-37 and 6-102",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-020",
+  "mfr": "GEA",
+  "name": "K1200 line (TKM, TKMA, THKMA, TK4V, TB6, TB8)",
+  "aliases": [
+   "K1200",
+   "TKM",
+   "TKMA",
+   "THKMA",
+   "TK4V",
+   "TB6",
+   "TB8"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "K1200",
+     "conf": "A",
+     "src": [
+      "SRC-00112",
+      "SRC-00114"
+     ],
+     "page": "p. 6-102",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "300-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112",
+      "SRC-00114"
+     ],
+     "page": "p. 6-102",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112",
+   "SRC-00114"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-021",
+  "mfr": "GEA",
+  "name": "Spectra RMS SE150",
+  "aliases": [
+   "SE150",
+   "SED",
+   "SEH",
+   "SEL",
+   "SEP",
+   "SE1"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "SE150",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-44, 6-103",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-150 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-44, 6-103",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-022",
+  "mfr": "GEA",
+  "name": "Spectra RMS SF250",
+  "aliases": [
+   "SF250",
+   "SFH",
+   "SFL",
+   "SFP"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "SF250",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-46, 6-103",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "70-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-46, 6-103",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-023",
+  "mfr": "GEA",
+  "name": "Spectra RMS SG600",
+  "aliases": [
+   "SG600",
+   "SG400",
+   "SGD",
+   "SGH",
+   "SGL",
+   "SGP"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "SG600 (400/600 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-48, 6-103",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "125-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-48, 6-103",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-024",
+  "mfr": "GEA",
+  "name": "Spectra RMS SK1200",
+  "aliases": [
+   "SK1200",
+   "SK800",
+   "SKH",
+   "SKL",
+   "SKP",
+   "SKD"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "SK1200",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-51, 6-103",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "300-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-51, 6-103",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-025",
+  "mfr": "GEA",
+  "name": "Record Plus FB 100",
+  "aliases": [
+   "FB100",
+   "FBN",
+   "FBV",
+   "FBH"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "FB 100",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-68 to 6-73",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-68 to 6-73",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-026",
+  "mfr": "GEA",
+  "name": "Record Plus FC 100",
+  "aliases": [
+   "FC100"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-74 to 6-78",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-74 to 6-78",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-027",
+  "mfr": "GEA",
+  "name": "Record Plus FE 250",
+  "aliases": [
+   "FE250"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "FE 250",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-79 to 6-81",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "25-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-79 to 6-81",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-GEA-028",
+  "mfr": "GEA",
+  "name": "Record Plus FG 600",
+  "aliases": [
+   "FG600"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "FG 600",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-83 to 6-88",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "amps": [
+    {
+     "value": "100-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00112"
+     ],
+     "page": "p. 6-83 to 6-88",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00112"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
   "id": "BRK-SIE-001",
   "mfr": "SIE",
   "name": "BL",
   "aliases": [
-   "BL",
-   "BLH",
-   "HBL",
-   "BLF",
-   "BLE",
    "BAF",
-   "BT twin (B1515/B2020)"
+   "BL",
+   "BLE",
+   "BLF",
+   "BLH",
+   "BQ",
+   "BQE",
+   "BQF",
+   "BQH",
+   "BQHF",
+   "BQXD",
+   "BT twin (B1515/B2020)",
+   "HBL",
+   "HBQ"
   ],
   "claims": {
    "mounting": [
@@ -2532,6 +4612,16 @@
      "page": "p.11-16",
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
+    },
+    {
+     "value": "15-125 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-39, 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
     }
    ],
    "voltage": [
@@ -2570,7 +4660,8 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00001"
+   "SRC-00001",
+   "SRC-00117"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -2580,7 +4671,9 @@
   "name": "BQD",
   "aliases": [
    "BQD",
-   "BQD6"
+   "BQD6",
+   "CQD",
+   "CQD6"
   ],
   "claims": {
    "mounting": [
@@ -2600,7 +4693,8 @@
      "value": "15-100A",
      "conf": "A",
      "src": [
-      "SRC-00001"
+      "SRC-00001",
+      "SRC-00117"
      ],
      "page": "p.11-16",
      "basis": "oem_spec",
@@ -2630,6 +4724,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "note": [
+    {
+     "value": "SPEEDFAX p. 7-153 says the lugs are integral (line and load for BQD; line side for CQD/CQD6, load side for both). No separate lug kit is listed.",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
    ]
   },
   "family_ids": [
@@ -2642,7 +4748,8 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00001"
+   "SRC-00001",
+   "SRC-00117"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -2773,18 +4880,19 @@
   "mfr": "SIE",
   "name": "ED (ED2/ED4/ED6/HED4/HHED6) and CED6",
   "aliases": [
-   "ED2",
-   "ED4",
-   "ED6",
-   "HED4",
-   "HED6",
-   "HHED6",
    "CED6",
    "E2",
    "E4",
    "E6",
+   "ED",
+   "ED2",
+   "ED4",
+   "ED6",
    "HE4",
-   "HE6"
+   "HE6",
+   "HED4",
+   "HED6",
+   "HHED6"
   ],
   "claims": {
    "amps": [
@@ -2792,7 +4900,8 @@
      "value": "15-125A",
      "conf": "A",
      "src": [
-      "SRC-00001"
+      "SRC-00001",
+      "SRC-00117"
      ],
      "page": "p.11-94",
      "basis": "oem_spec",
@@ -2812,7 +4921,8 @@
   ],
   "source_ids": [
    "SRC-00001",
-   "SRC-00003"
+   "SRC-00003",
+   "SRC-00117"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -2821,10 +4931,11 @@
   "mfr": "SIE",
   "name": "QJ2 / QJH2 / QJ2-H / HQJ2H",
   "aliases": [
+   "HQJ2H",
    "QJ2",
-   "QJH2",
    "QJ2-H",
-   "HQJ2H"
+   "QJ2H",
+   "QJH2"
   ],
   "claims": {
    "amps": [
@@ -2832,7 +4943,8 @@
      "value": "60-225A",
      "conf": "A",
      "src": [
-      "SRC-00004"
+      "SRC-00004",
+      "SRC-00119"
      ],
      "page": "p.10-18",
      "basis": "oem_spec",
@@ -2859,9 +4971,10 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00004",
    "SRC-00001",
-   "SRC-00003"
+   "SRC-00003",
+   "SRC-00004",
+   "SRC-00119"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -2870,11 +4983,12 @@
   "mfr": "SIE",
   "name": "QR2 / QRH2 / HQR2 / HQR2H",
   "aliases": [
+   "HQR2",
+   "HQR2H",
    "QR",
    "QR2",
-   "QRH2",
-   "HQR2",
-   "HQR2H"
+   "QR2H",
+   "QRH2"
   ],
   "claims": {
    "amps": [
@@ -2887,6 +5001,16 @@
      "page": "pp.11-94, 11-96",
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
+    },
+    {
+     "value": "100-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-40",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
     }
    ],
    "voltage": [
@@ -2898,6 +5022,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
+    },
+    {
+     "value": "240 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-40",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
     }
    ]
   },
@@ -2911,7 +5045,8 @@
    "FAM-SIE-009"
   ],
   "source_ids": [
-   "SRC-00001"
+   "SRC-00001",
+   "SRC-00117"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -2920,13 +5055,13 @@
   "mfr": "SIE",
   "name": "FD family (FXD6, FD6, HFXD6, HFD6, HHFXD6, HHFD6, CFD6)",
   "aliases": [
-   "FXD6",
+   "CFD6",
    "FD6",
+   "FXD6",
    "HFD6",
    "HFXD6",
    "HHFD6",
-   "HHFXD6",
-   "CFD6"
+   "HHFXD6"
   ],
   "claims": {
    "amps": [
@@ -2934,7 +5069,8 @@
      "value": "70-250A",
      "conf": "A",
      "src": [
-      "SRC-00001"
+      "SRC-00001",
+      "SRC-00117"
      ],
      "page": "p.11-94",
      "basis": "oem_spec",
@@ -2952,7 +5088,8 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00001"
+   "SRC-00001",
+   "SRC-00117"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -2961,16 +5098,20 @@
   "mfr": "SIE",
   "name": "JD family (JXD2, JXD6, JD6, HJD6, HJXD6, HHJD6, CJD6, SJD6, SHJD6, SCJD6)",
   "aliases": [
-   "JXD2",
-   "JXD6",
-   "JD6",
+   "CJD6",
+   "HHJD6",
+   "HHJXD6",
    "HJD6",
    "HJXD6",
-   "HHJXD6",
-   "CJD6",
-   "SJD6",
+   "JD6",
+   "JXD2",
+   "JXD6",
+   "SCJD6",
+   "SCJD6-B",
    "SHJD6",
-   "SCJD6"
+   "SHJD6-B",
+   "SJD6",
+   "SJD6-B"
   ],
   "claims": {
    "amps": [
@@ -2978,7 +5119,8 @@
      "value": "200-400A",
      "conf": "A",
      "src": [
-      "SRC-00001"
+      "SRC-00001",
+      "SRC-00117"
      ],
      "page": "p.11-95",
      "basis": "oem_spec",
@@ -2996,7 +5138,8 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00001"
+   "SRC-00001",
+   "SRC-00117"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -3005,15 +5148,19 @@
   "mfr": "SIE",
   "name": "LD family (LXD6, LD6, HLD6, HHLD6, CLD6, SLD6, SHLD6, SCLD6)",
   "aliases": [
-   "LXD6",
-   "LD6",
+   "CLD6",
+   "HHLD6",
+   "HHLXD6",
    "HLD6",
    "HLXD6",
-   "HHLD6",
-   "CLD6",
-   "SLD6",
+   "LD6",
+   "LXD6",
+   "SCLD6",
+   "SCLD6-B",
    "SHLD6",
-   "SCLD6"
+   "SHLD6-B",
+   "SLD6",
+   "SLD6-B"
   ],
   "claims": {
    "amps": [
@@ -3021,7 +5168,8 @@
      "value": "250-600A",
      "conf": "A",
      "src": [
-      "SRC-00001"
+      "SRC-00001",
+      "SRC-00117"
      ],
      "page": "p.11-95",
      "basis": "oem_spec",
@@ -3036,7 +5184,8 @@
    "FAM-SIE-010"
   ],
   "source_ids": [
-   "SRC-00001"
+   "SRC-00001",
+   "SRC-00117"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -3045,25 +5194,55 @@
   "mfr": "SIE",
   "name": "MD / ND family (MXD6, MD6, HMD6, CMD6, SMD6, NXD6, ND6, HND6, CND6, SND6) and LMD6",
   "aliases": [
-   "MXD6",
-   "MD6",
-   "HMD6",
    "CMD6",
-   "SMD6",
-   "SHMD6",
-   "SCMD6",
-   "NXD6",
-   "ND6",
-   "HND6",
    "CND6",
-   "SND6",
-   "SHND6",
-   "SCND6",
+   "HLMD6",
+   "HLMXD6",
+   "HMD6",
+   "HMXD6",
+   "HND6",
+   "HNXD6",
    "LMD6",
-   "HLMD6"
+   "LMXD6",
+   "MD6",
+   "MXD6",
+   "ND6",
+   "NXD6",
+   "SCMD6",
+   "SCMD6-B",
+   "SCND6",
+   "SCND6-B",
+   "SHMD6",
+   "SHMD6-B",
+   "SHND6",
+   "SHND6-B",
+   "SMD6",
+   "SMD6-B",
+   "SND6",
+   "SND6-B"
   ],
   "claims": {
    "amps": [
+    {
+     "value": "500-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-154, 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    },
+    {
+     "value": "800-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    },
     {
      "value": "MD to 800A, ND to 1200A",
      "conf": "B",
@@ -3083,7 +5262,8 @@
   ],
   "source_ids": [
    "SRC-00001",
-   "SRC-00003"
+   "SRC-00003",
+   "SRC-00117"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -3205,5 +5385,1550 @@
    "SRC-00002"
   ],
   "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-016",
+  "mfr": "SIE",
+  "name": "NGG / HGG / LGG (G-frame bolt-on/lug)",
+  "aliases": [
+   "NGG",
+   "HGG",
+   "LGG"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "15-125 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00117"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-SIE-017",
+  "mfr": "SIE",
+  "name": "Sentron PD (PD6, PXD6, HPD6, HPXD6, SPD6-B, CPD6)",
+  "aliases": [
+   "PD6",
+   "PXD6",
+   "HPD6",
+   "HPXD6",
+   "SPD6-B",
+   "SHPD6-B",
+   "CPD6"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "1200-1600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00117"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-SIE-018",
+  "mfr": "SIE",
+  "name": "Sentron RD (RD6, RXD6, HRD6, HRXD6)",
+  "aliases": [
+   "RD6",
+   "RXD6",
+   "HRD6",
+   "HRXD6"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "1600-2000 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-154 to 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00117"
+  ],
+  "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
+ },
+ {
+  "id": "BRK-SQD-001",
+  "mfr": "SQD",
+  "name": "FA / FH (I-Line)",
+  "aliases": [
+   "FA",
+   "FH",
+   "FY",
+   "FA 240V",
+   "FA 480V"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "1.5 in. (1-pole); 3 in. (multi-pole) in QED-2 I-Line",
+     "conf": "B",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "note": "Column alignment from text extraction; verify visually",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "bolt_on": [
+    {
+     "value": "Bolt-on construction available only for FA/FH, LA/LH, FY, QB, QD, QG, Q4 (factory order; bus clamps torque 20 lb-in / 3 N-m)",
+     "conf": "A",
+     "src": [
+      "SRC-00074"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on (bolt-on version factory-only: 3rd character 'B')",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063",
+      "SRC-00074"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063",
+      "SRC-00074"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1 (277 V), 2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063",
+      "SRC-00074"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063",
+      "SRC-00074"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "240/480/600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063",
+      "SRC-00074"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "FA 240V 10k@240; FA 480V 25k@240/18k@480; FH 65k@240/25k@480/18k@600",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063",
+      "SRC-00074"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064",
+   "SRC-00063",
+   "SRC-00074"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-002",
+  "mfr": "SQD",
+  "name": "H-frame HD/HG/HJ/HL/HR (I-Line)",
+  "aliases": [
+   "HD",
+   "HG",
+   "HJ",
+   "HL",
+   "HR",
+   "PowerPact H"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "4.5 in. (2- and 3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "class": [
+    {
+     "value": "Class 611",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 10",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "150 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3 (HR 3)",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-150 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "HD 25k@240/18k@480; HG 65/35; HJ 100/65; HL 125/100; HR 200/200",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-003",
+  "mfr": "SQD",
+  "name": "Q-frame QB/QD/QG/QJ (I-Line)",
+  "aliases": [
+   "QB",
+   "QD",
+   "QG",
+   "QJ",
+   "Q2",
+   "Q4"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "3 in. (single value printed in the mounting-height columns for QB/QD/QG/QJ)",
+     "conf": "C",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "note": "Text extraction column alignment ambiguous; which pole columns the 3 in. applies to needs PDF visual check",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "class": [
+    {
+     "value": "Class 734",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 10",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "70-225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "240 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "QB 10k, QD 25k, QG 65k, QJ 100k @240 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-004",
+  "mfr": "SQD",
+  "name": "J-frame JD/JG/JJ/JL/JR (I-Line)",
+  "aliases": [
+   "JD",
+   "JG",
+   "JJ",
+   "JL",
+   "JR",
+   "PowerPact J"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "4.5 in.",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "class": [
+    {
+     "value": "Class 611",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 10",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "150-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "JD 25k@240/18k@480; JG 65/35; JJ 100/65; JL 125/100; JR 200/200",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-005",
+  "mfr": "SQD",
+  "name": "LA / LH (I-Line)",
+  "aliases": [
+   "LA",
+   "LH",
+   "LAL",
+   "LHL"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "6 in. (2- and 3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "class": [
+    {
+     "value": "Class 660",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 10",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on (bolt-on factory option)",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "125-400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "LA 42k@240/30k@480/22k@600; LH 65/35/25",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-006",
+  "mfr": "SQD",
+  "name": "LC (I-Line, 600 A)",
+  "aliases": [
+   "LC"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "7.5 in.",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "3",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "300-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "100k@240/65k@480/35k@600",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001"
+  ],
+  "source_ids": [
+   "SRC-00063"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-007",
+  "mfr": "SQD",
+  "name": "I-Limiter FI / KI / LI (I-Line)",
+  "aliases": [
+   "FI",
+   "KI",
+   "LI",
+   "I-Limiter"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "FI 4.5 in.; KI 4.5 in.; LI 7.5 in.",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "swap_fillers": [
+    {
+     "value": "Replacing an LI with a KI requires (1) HLW4BL plus HNM1BL and HLW1BL fillers",
+     "conf": "A",
+     "src": [
+      "SRC-00071"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "FI 100 A; KI 250 A; LI 600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "FI 20-100 A; KI 110-250 A; LI 300-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "200k@240/200k@480/100k@600",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00063"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-008",
+  "mfr": "SQD",
+  "name": "PowerPact L-frame LD/LG/LJ/LL/LR (I-Line)",
+  "aliases": [
+   "LD",
+   "LG",
+   "LJ",
+   "LL",
+   "LR",
+   "PowerPact L"
+  ],
+  "claims": {
+   "mount_screw": [
+    {
+     "value": "No orderable mounting screw for L-frame in I-Line; a 10-32 x 5/8 screw can be used",
+     "conf": "A",
+     "src": [
+      "SRC-00077"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "250-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "LD 25k@240/18k@480; LG 65/35; LJ 100/65; LL 125/100; LR 200/200",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-009",
+  "mfr": "SQD",
+  "name": "M-frame MG/MJ (I-Line)",
+  "aliases": [
+   "MG",
+   "MJ",
+   "PowerPact M"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "9 in. (per QED-2 table, shared with P-frame row)",
+     "conf": "C",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "note": "Column alignment in text extraction ambiguous",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "class": [
+    {
+     "value": "Class 612",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 10",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "300-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "MG 65k@240/35k@480/18k@600; MJ 100/65/25",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-010",
+  "mfr": "SQD",
+  "name": "P-frame PG/PJ/PK/PL (I-Line)",
+  "aliases": [
+   "PG",
+   "PJ",
+   "PK",
+   "PL",
+   "PG-C",
+   "PJ-C",
+   "PK-C",
+   "PL-C",
+   "PowerPact P"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "9 in. (2-/3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "note_100pct": [
+    {
+     "value": "Cannot group mount 100% rated 1000 A and 1200 A P-frame; use R-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "100-1200 A (catalog 600-1200 A in 2110CT9701)",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V (PL 480 V)",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "PG 65k@240/35k@480; PJ 100/65; PK 65/50/50 (Canada); PL 125/100",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 8; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064",
+   "SRC-00063"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-011",
+  "mfr": "SQD",
+  "name": "R-frame RG/RJ/RK/RL (I-Line)",
+  "aliases": [
+   "RG",
+   "RJ",
+   "RK",
+   "RL",
+   "RG-C",
+   "RJ-C",
+   "RK-C",
+   "RL-C",
+   "PowerPact R"
+  ],
+  "claims": {
+   "group_mount_height": [
+    {
+     "value": "15 in.",
+     "conf": "A",
+     "src": [
+      "SRC-00063"
+     ],
+     "page": "p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 9; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "1200 A (2500 A frame per QED-2 table)",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 9; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "2, 3",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 9; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "1000-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 9; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 9; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "RG 65k@240/35k@480; RJ 100/65; RK 65/65/65 (Canada); RL 125/100/50",
+     "conf": "A",
+     "src": [
+      "SRC-00064",
+      "SRC-00063"
+     ],
+     "page": "s2 p. 9; s1 p. 22",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-001",
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064",
+   "SRC-00063"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-012",
+  "mfr": "SQD",
+  "name": "PowerPact B-frame BD/BG/BJ/BK (I-Line)",
+  "aliases": [
+   "BD",
+   "BG",
+   "BJ",
+   "BK",
+   "PowerPact B"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "I-Line plug-on",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "125 A",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "poles": [
+    {
+     "value": "1, 2, 3 (BK 1, 2)",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-125 A (BK 15-30 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600Y/347 V",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "BD 25k@240/18k@480; BG 65/35; BJ 100/65; BK 100/65/65",
+     "conf": "A",
+     "src": [
+      "SRC-00064"
+     ],
+     "page": "p. 8",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "source_ids": [
+   "SRC-00064"
+  ],
+  "created_batch": "B0004-squared-switchboards"
+ },
+ {
+  "id": "BRK-SQD-013",
+  "mfr": "SQD",
+  "name": "QMB circuit breaker units (H-, J-, L-frame)",
+  "aliases": [
+   "QMB breaker unit",
+   "QMB3400LA"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "QMB plug-on unit with permanently attached mounting brackets",
+     "conf": "A",
+     "src": [
+      "SRC-00065"
+     ],
+     "page": "pp. 17-18",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "frame": [
+    {
+     "value": "Twin H-frame HD/HG 15-150 A; single JD/JG 150-250 A; single LA/LH 225-400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00065"
+     ],
+     "page": "pp. 17-18",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 Vac / 250 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00065"
+     ],
+     "page": "pp. 17-18",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "HD 25k@240/18k@480/14k@600; HG 65/35/18; JD 25/18/14; JG 65/35/18; LA 42/30/22; LH 65/35/25",
+     "conf": "A",
+     "src": [
+      "SRC-00065"
+     ],
+     "page": "pp. 17-18",
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-003",
+   "FAM-SQD-001"
+  ],
+  "source_ids": [
+   "SRC-00065"
+  ],
+  "created_batch": "B0004-squared-switchboards"
  }
 ]

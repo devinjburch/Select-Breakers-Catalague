@@ -1,5 +1,5 @@
 breaker_id,mfr,name,aliases,mounting,frame,poles,amps,voltage,status,families
-BRK-EAT-001,EAT,EB,Westinghouse EB,,,,15-100 A,,Still manufactured as a 'replacement circuit breaker' for exact replacement (frame listed obsolete; see cross-reference),CDP; WEB
+BRK-EAT-001,EAT,EB,DA; EB; EHB; FB; HFB; HKA; HKB; HLA; HLB; HLC; HMA; HNB; HNC; JA; JB; KA; KB; LA; LB; LBB; LC; MA; MC; NB; NC; Westinghouse EB,Bolt-on to CDP chassis connectors,Various,,15-100 A,,Still manufactured as a 'replacement circuit breaker' for exact replacement (frame listed obsolete; see cross-reference),CDP; WEB
 BRK-EAT-002,EAT,EHB,Westinghouse EHB,,,,15-100 A,,Replacement circuit breaker still manufactured; frame obsolete,CDP; WEB
 BRK-EAT-003,EAT,FB,Westinghouse FB,,,,15-150 A,,Replacement circuit breaker still manufactured; frame obsolete,CDP; WEB; WF/WRP
 BRK-EAT-004,EAT,HFB,Westinghouse HFB,,,,15-150 A,,Replacement circuit breaker still manufactured,CDP; WEB
@@ -10,27 +10,33 @@ BRK-EAT-008,EAT,JB,Westinghouse JB,,,,70-250 A,,obsolete frame,CDP
 BRK-EAT-009,EAT,DA,Westinghouse DA,,,,250-400 A,,obsolete frame,CDP
 BRK-EAT-010,EAT,LA,HLA; LAB; Westinghouse LA,,,,250-600 A,,obsolete frame (HLA still in panelboard-only list),CDP
 BRK-EAT-011,EAT,LB,LBB; HLB; Westinghouse LB,,,,LB 70-400 A; LBB/HLB 125-400 A,,obsolete frame,CDP
-BRK-EAT-012,EAT,LC,HLC; Westinghouse LC,,,,300-600 A,,replacement breaker still manufactured (LC obsolete per note 2),CDP
-BRK-EAT-013,EAT,MA,HMA; Westinghouse MA,,,,125-800 A,,MA obsolete; HMA replacement breaker,CDP
+BRK-EAT-012,EAT,LC,CHLD; CLD; CLDC; HLC; HLCC; HLD; LC; LCC; LCY; LD; LDB; LDC; Westinghouse LC,Bolt-on,600 A frame,"2, 3",300-600 A,600 Vac,replacement breaker still manufactured (LC obsolete per note 2),CDP; PRL4; PRL3A
+BRK-EAT-013,EAT,MA,CHMDL; CMDL; HMA; HMC; HMCC; HMDL; MA; MC; MCC; MCY; MDL; MDS; MDSC; Westinghouse MA,Bolt-on single mount,800 A frame,"2, 3",125-800 A,600 Vac,MA obsolete; HMA replacement breaker,CDP; PRL4; PRL5P
 BRK-EAT-014,EAT,MC,HMC; MCC; Westinghouse MC,,,,400-800 A,,obsolete frame,CDP
-BRK-EAT-015,EAT,NB,HNB; Westinghouse NB,,,,700-1200 A,,obsolete frame,CDP
+BRK-EAT-015,EAT,NB,CHND; CND; CNDC; HNB; HNC; HND; NB; NC; NCY; ND; NDC; NGC; NGH; NGS; NHH; Westinghouse NB,Bolt-on single mount,1200 A frame,"2, 3",700-1200 A,600 Vac,obsolete frame,CDP; PRL4; PRL5P
 BRK-EAT-016,EAT,NC,HNC; Westinghouse NC,,,,600-1200 A,,obsolete frame,CDP
 BRK-EAT-017,EAT,E,EA; EH; Westinghouse E-frame,,,,,,out of production; last manufactured 1974,CDP; NAB
 BRK-EAT-018,EAT,F,FA; HF; HFA; Westinghouse F-frame,,,,,,out of production; last manufactured 1974,CDP; NAB
-BRK-EAT-019,EAT,EHD,,,100 A frame (E-frame Series C),,15-100 A,,,CDP; PRLC; PRL4; PRL3
+BRK-EAT-019,EAT,EHD,EHD; FD; FD/LFD; FDB; FDC; FDCE; FDE; HFD; HFDE; LFD,Bolt-on to panel connectors,100 A frame (E-frame Series C),"1, 2, 3",15-100 A,FD/HFD/FDC 600 Vac; EHD 480 Vac; FDB 600 Vac,Series C legacy; replaced in Xpert panels by Power Defense PDG2,PRLC; CDP; PRL3; PRL4; PRL1A; PRL2A; PRL3A; PRL5P
 BRK-EAT-020,EAT,FD,FDB; HFD; FDC; FD-frame,,"225 A F-frame Series C (FDB 15-225, FD/HFD/FDC 15-225)",,,,,CDP; PRLC; PRL4; PRL3
-BRK-EAT-021,EAT,ED,EDH; EDC; EDB; EDS,,,,100-225 A (EDC 15-225 A); 240 V max,,,CDP; PRLC; PRL4; PRL3
-BRK-EAT-022,EAT,CA,CAH; HCA,,,,"100-225 A, 240 V; not recommended for motor loads",,,CDP; PRL3; PRL4
-BRK-EAT-023,EAT,JD,JDB; HJD; JDC,,,,70-250 A,,,CDP; PRLC; PRL4
-BRK-EAT-024,EAT,KD,DK; KDB; HKD; KDC; CKD; CHKD,,,,KD/KDB/HKD/KDC 100-400 A; DK 250-400 A 240 V,,,CDP; PRLC; PRL4
+BRK-EAT-021,EAT,ED,ED; EDB; EDC; EDH; EDS,Bolt-on; single mount 175-225 A in PRL3a,225 A frame,"2, 3",100-225 A (EDC 15-225 A); 240 V max,240 Vac,Legacy,PRLC; CDP; PRL3; PRL4; PRL1A; PRL2A; PRL3A
+BRK-EAT-022,EAT,CA,CA; CAH; HCA,Bolt-on,225 A frame,"2, 3","100-225 A, 240 V; not recommended for motor loads",240 Vac,Legacy; not recommended for motor loads,CDP; PRL3; PRL4; PRL3A
+BRK-EAT-023,EAT,JD,HJD; HJDDC; JD; JDB; JDC,Bolt-on,250 A frame,"2, 3",70-250 A,600 Vac,Legacy,PRLC; CDP; PRL4; PRL1A; PRL2A; PRL3A
+BRK-EAT-024,EAT,KD,CHKD; CKD; CKDC; DK; HKD; KD; KDB; KDC,Bolt-on,400 A frame,"2, 3",KD/KDB/HKD/KDC 100-400 A; DK 250-400 A 240 V,600 Vac (DK 240 Vac),Legacy,PRLC; CDP; PRL4; PRL1A; PRL2A; PRL3A
 BRK-EAT-025,EAT,LD,HLD; LDC; LDB; CLD,,,,300-600 A,,,CDP; PRLC; PRL4
 BRK-EAT-026,EAT,MDL,HMDL; CMDL,,,,300-800 A,,,CDP; PRLC; PRL4
 BRK-EAT-027,EAT,ND,HND; NDC; CND,,,,600-1200 A,,,CDP; PRLC; PRL4
 BRK-EAT-028,EAT,RD,RG,,,,1600/2000/2500 A,,,PRLC; WF/WRP
-BRK-EAT-029,EAT,Tri-Pac,FB-P; LA-P; NB-P; TRI-PAC,,,,FB-P 15-100 A; LA-P 70-400 A; NB-P 300-800 A; 200 kA at 600 V,,,CDP; PRL4
-BRK-EAT-030,EAT,BAB,QBHW; HQP; QPHW; BA; QBH; QBGF; QBHGF,Bolt-on 1 in per pole; mounted on PRL1/PRL3 subchassis; KPRL1BAB connectors mount up to 12 poles,,,,,,PRL1/PRL2; PRL3; NLAB
-BRK-EAT-031,EAT,GB,GHB; GHBS,Bolt-on; PRL2 subchassis via KPRL2GHB; GB/GHB cannot be mixed on same subchassis as BAB/QBH,,,,,,PRL1/PRL2; PRL3
+BRK-EAT-029,EAT,Tri-Pac,FB-P; LA-P; NB-P; TRI-PAC,Bolt-on,"FB-P 100 A, LA-P 400 A, NB-P 800 A","2, 3",FB-P 15-100 A; LA-P 70-400 A; NB-P 300-800 A; 200 kA at 600 V,600 Vac,Legacy,CDP; PRL4; PRL3A
+BRK-EAT-030,EAT,BAB,BA; BAB; BAB-C; BAB-D; BABRP; BABRSP; HQP; QBCAF; QBGF; QBGFEP; QBH; QBHCAF; QBHGF; QBHGFEP; QBHW; QHPX; QPGF; QPGFEP; QPHGF; QPHGFEP; QPHW,Bolt-on 1 in per pole; mounted on PRL1/PRL3 subchassis; KPRL1BAB connectors mount up to 12 poles,QUICKLAG 1 in per pole,"1, 2, 3",15-100 A,120/240 Vac,Current,PRL1/PRL2; PRL3; NLAB; PRL1A; PRL3A; PRL1X; PRL3X
+BRK-EAT-031,EAT,GB,GB; GHB; GHBGFEP; GHBS; GHQ; GHQRSP; HGHB,Bolt-on; PRL2 subchassis via KPRL2GHB; GB/GHB cannot be mixed on same subchassis as BAB/QBH,,"1, 2, 3",15-100 A,"277 V 1-pole, 480Y/277 Vac multi-pole; 125/250 Vdc",Current,PRL1/PRL2; PRL3; PRL2A; PRL3A; PRL2X; PRL3X
 BRK-EAT-032,EAT,BR,BW; BWH; BD; BQ; BQC,1 in plug-on Type BR loadcenter breakers,,,,,,BR
+BRK-EAT-033,EAT,Series G L-frame (LGE/LGS/LGH/LGC/LGU) and LHH,LGE; LGS; LGH; LGC; LGU; LHH,Bolt-on,600 A frame (LHH 400 A),3,up to 600 A,600 Vac,Current/legacy,PRL1A; PRL2A; PRL3A; PRL4; PRL4X
+BRK-EAT-034,EAT,Current-limiting FCL / LCL (and FDB+LFB),FCL; LCL; LFB,Bolt-on,"FCL 100 A, LCL 400 A","2, 3","FCL 15-100, LCL 125-400 A",LCL 480 Vac,Legacy,PRL3A; PRL4; CDP
+BRK-EAT-035,EAT,Power Defense frame 2 (PDG2 / PDD2),PDG2; PD2; PG2; PDG2xF; PDG2xG; PDG2xM; PDG2xP; PDD2xG,Bolt-on,225 A frame,"1, 2, 3",15-225 A,600 Vac class,Current,PRL1X; PRL2X; PRL3X; PRL4X
+BRK-EAT-036,EAT,Power Defense frame 3 (PDG3 / PDF3 / PDD3),PDG3; PD3; PG3; PF3; PDG3A; PDG3B; PDF3,Bolt-on,400 A and 600 A frames,3,up to 600 A,,Current,PRL1X; PRL2X; PRL3X; PRL4X
+BRK-EAT-037,EAT,"Power Defense frames 4/5 (PDG4, PDG5, PF4, PF5)",PDG4; PDG5; PG4; PF4; PG5; PF5,Bolt-on single mount,800 A (4) / 1200 A (5),3,300-1200 A,,Current,PRL4X
+BRK-EAT-038,EAT,Series G E-frame (EGB/EGS/EGH),EGB; EGS; EGH; EGE,Bolt-on,125 A frame,"1, 2, 3",15-125 A,480 Vac,Current,PRL3E
 BRK-GEA-001,GEA,THQB / THHQB / TXQB,Q-line bolt-on; QB,bolt-on (A-Series AQ; Spectra double-branch),,,"15-100 A, 1-3P",,,A-SERIES; A-SERIES-PWR; SPECTRA-PP
 BRK-GEA-002,GEA,THQL / THHQL / TXQL,Q-line plug-in,plug-in (A-Series AL),,,15-100 A,,,A-SERIES
 BRK-GEA-003,GEA,TEY / TEYF / TEYD / TEYH / TEYL,E-frame TEY; EY,bolt-on (AE/AEP; Spectra double-branch; ReliaGear neXT),,,15-100 A (110/125 A TEYD/H/L in AS),,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; RG-NEXT

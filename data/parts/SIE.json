@@ -29073,5 +29073,8405 @@
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00245",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TC1Q1",
+  "title": "Siemens TC1Q1 line-side lug, BQ 15-40A (steel)",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TC1Q1",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Mechanical line-side lug, steel body; sold in package of six",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQ, BQH, BQHF, BQE, BQF, BL, BLH, HBL, HBQ line side 15-40 A; BQXD line side; NGG/HGG/LGG 15-30 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; sold in pkg of 6; wire range (1) #14-#6 AWG Cu / #12-#6 AWG Al (BQXD table: #16-#6 Cu)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Steel', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-153'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "location": [
+    {
+     "value": "Line side (BQ family; load-side lugs are integral)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [
+   "EDH-SIE-00249"
+  ],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00246",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "3TC1Q1",
+  "title": "Siemens 3TC1Q1 lug pack of 3, NGG/HGG/LGG 15-30A",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "3TC1Q1",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Pack of 3 TC1Q1-type lugs for NGG/HGG/LGG 15-30 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NGG, HGG, LGG 15-30 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "pkg of 3; wire range #14-#6 AWG Cu / #12-#6 AWG Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [
+   "EDH-SIE-00249"
+  ],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00247",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA1Q1",
+  "title": "Siemens TA1Q1 line-side lug, BQ 45-125A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA1Q1",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Mechanical line-side lug; sold in package of six",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQ family line side 45-125 A; BQXD 45-60 A line (and load on QLD versions)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; sold in pkg of 6; wire range (1) #8-#1 AWG Cu / #6-#1/0 AWG Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "location": [
+    {
+     "value": "Line side",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153; 7-39",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00248",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "3TC1GG20",
+  "title": "Siemens 3TC1GG20 lug pack of 3, NGG/HGG/LGG 35-125A",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "3TC1GG20",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Pack of 3 lugs",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NGG, HGG, LGG 35-125 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "pkg of 3; wire range #8-#1/0 AWG Cu / #8-#2/0 AWG Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [
+   "EDH-SIE-00249"
+  ],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00249",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TNKG3",
+  "title": "Siemens TNKG3 nut keeper plate (pkg of 3), NGG",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TNKG3",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Nut keeper plate; one nut keeper plate is required with each lug on the NGG breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NGG, HGG, LGG 15-125 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "pkg of 3",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-153",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00250",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA6GG04",
+  "title": "Siemens TA6GG04 distribution lug, NGG/HGG/LGG",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA6GG04",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Distribution lug, 6 wires per lug; special purpose wire connector, not for general use",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NGG, HGG, LGG 15-125 A, 1/2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug per kit; wire range #6-#4 Al / #14-#4 Cu, 6 wires per lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00251",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TSSG3A",
+  "title": "Siemens TSSG3A terminal shield, HGG/LGG/NGG 3-pole",
+  "component_type": "barrier",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TSSG3A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Terminal shield",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "HGG, LGG, NGG 3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "std pkg 1",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00252",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "BQFS2",
+  "title": "Siemens BQFS2 finger-safe terminal shield, BQ/BQXD (2 pcs)",
+  "component_type": "barrier",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BQFS2",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-39 and accessories page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Finger safe terminal shield: protects against accidental contact with lugs, 1 per lug; fits line and load end",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-39 and accessories page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ/BQXD",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-39 and accessories page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "2 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-39 and accessories page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-39 and accessories page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "location": [
+    {
+     "value": "Over each lug, line or load end",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-39",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "BQFS1K",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-39",
+     "basis": "oem_spec",
+     "note": "Bulk pack of 1000 pieces",
+     "relation": "equivalent",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-39 and accessories page",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00253",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "3TA1QR300",
+  "title": "Siemens 3TA1QR300 lug kit (3), QR2 100-250A",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "3TA1QR300",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body lugs, 3 per kit; load-side lugs mounted and included with QR2 (line+load with suffix 'L')",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QR2, QR2H, HQR2, HQR2H 100-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "3 lugs; wire range #3-300 kcmil Al/Cu",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00254",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "3TC1QR250",
+  "title": "Siemens 3TC1QR250 copper lug kit (3), QR2",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "3TC1QR250",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Optional copper lugs, 3 per kit",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QR2, QR2H, HQR2, HQR2H 100-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "3 lugs; wire range #3-300 kcmil Cu only",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Copper', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "3TC1QR2520",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Printed '3TC1QR2520' on p. 7-155 but '3TC1QR250' on p. 7-40. It may be a footnote run-in or a typo.",
+     "relation": "alias",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-40; s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [
+   "Which is the correct orderable number, 3TC1QR250 or 3TC1QR2520?"
+  ],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00255",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CCQ250",
+  "title": "Siemens CCQ250 compression lug, QR2",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CCQ250",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Compression lug (lug and necessary hardware per kit)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QR2, QR2H, HQR2, HQR2H 100-250 A, 2-3 pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug per kit; wire range #6-350 kcmil Al/Cu",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Compression (CMP)', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 'p. 7-40'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00256",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA1Q300",
+  "title": "Siemens TA1Q300 3-lug kit, QJ2 (distributor data)",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-006"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA1Q300",
+     "conf": "C",
+     "src": [
+      "SRC-00119"
+     ],
+     "basis": "distributor",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "3-lug kit for QJ breakers; accepts Al or Cu, single wire up to 300 kcmil",
+     "conf": "C",
+     "src": [
+      "SRC-00119"
+     ],
+     "basis": "distributor",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QJ breakers (QJ2, QJH2, QJ2H, HQJ2H per a search snippet)",
+     "conf": "C",
+     "src": [
+      "SRC-00119"
+     ],
+     "basis": "distributor",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "3 lugs; wire range single wire up to 300 kcmil Al/Cu",
+     "conf": "C",
+     "src": [
+      "SRC-00119"
+     ],
+     "basis": "distributor",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "C",
+     "src": [
+      "SRC-00119"
+     ],
+     "basis": "distributor",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00119"
+     ],
+     "basis": "distributor",
+     "note": "Not in SPEEDFAX 2017. The QJ2 frame is not in the current catalog.",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Find an OEM ITE/Siemens table for QJ2 lugs (an older SPEEDFAX of about 1995-2008 or the QJ2 instruction)",
+   "Did TA1Q300 supersede, or is it superseded by, 3TA1QR300?"
+  ],
+  "source_ids": [
+   "SRC-00119"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00257",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "SA1E025",
+  "title": "Siemens SA1E025 lug, ED 2/3-pole 15-25A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SA1E025",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED2, ED4, ED6, HED4, HHED6 (all 2-, 3-pole) 15-25 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range #14-#10 AWG Cu / #12-#10 AWG Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00258",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "LN1E100",
+  "title": "Siemens LN1E100 lug, ED 30-100A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LN1E100",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body lug, line side (all poles) and load side (2/3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED2, ED4, ED6, ED6 ETI, HED4, HHED6 30-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range #10-1/0 Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00259",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA1E6125",
+  "title": "Siemens TA1E6125 lug, ED 110-125A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA1E6125",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body line/load lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED/HED/HHED 110-125 A, 2- and 3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range #3-3/0 Cu / #1-2/0 Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00260",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "LD1E060",
+  "title": "Siemens LD1E060 load-side lug, ED 1-pole 30-60A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LD1E060",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Load-side lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED, HED 1-pole 30-60 A; CED6",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range #10-#4 Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "location": [
+    {
+     "value": "Load side",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00261",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "LD1E100",
+  "title": "Siemens LD1E100 load-side lug, ED 1-pole 70-100A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LD1E100",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Load-side lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED, HED 1-pole 70-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range #4-#1/0 Cu/Al (ED page: #6-#1/0)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "location": [
+    {
+     "value": "Load side",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00262",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TC1ED6150",
+  "title": "Siemens TC1ED6150 copper-body lug, ED 30-125A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TC1ED6150",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Optional copper-body mechanical lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED, HED 1-, 2-, 3-pole 30-125 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range #10-#1/0 Cu only",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Copper body', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 ED page (ED2/ED4/ED6 lug table); s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00263",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CCE125",
+  "title": "Siemens CCE125 compression lug, ED 15-125A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CCE125",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Compression lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED2, ED4, ED6, HED4, HHED6, CED6 15-125 A, 1/2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug per kit; wire range #2/0 AWG Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00264",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA6ED06",
+  "title": "Siemens TA6ED06 distribution lug, ED",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA6ED06",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Distribution lug, 6 wires per lug; special purpose wire connector",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED2, ED4, ED6, HED4, HHED6, CED6 15-125 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug per kit; wire range #14-#4 AWG Cu / #6-#4 AWG Al, 6 wires",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00265",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA1FD350A",
+  "title": "Siemens TA1FD350A lug, FD 70-250A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA1FD350A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 FD page; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard aluminum-body line/load lug; supplied with FD6/HFD6/HHFD6 complete breakers. Suffix 'L' = lugs installed.",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 FD page; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FXD6-A, FD6-A, HFD6, HHFD6, CFD6 70-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 FD page; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range #6 AWG-350 kcmil Cu / #4 AWG-350 kcmil Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 FD page; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 FD page; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 FD page; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 FD page; s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00266",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TC1FD350",
+  "title": "Siemens TC1FD350 copper lug, FD 70-250A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TC1FD350",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Optional copper mechanical lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "HFD6, HHFD6, CFD6, F(X)D6-A 70-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range #6 AWG-350 kcmil Cu",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Copper', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00267",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CCF250",
+  "title": "Siemens CCF250 compression lug, FD",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CCF250",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Compression lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "F(X)D6-A, HF(X)D6, HHF(X)D6, CFD6 125-250 A, 2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug per kit; wire range 350 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00268",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA6FD04",
+  "title": "Siemens TA6FD04 distribution lug, FD",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA6FD04",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Distribution lug, 6 wires per lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "F(X)D6-A, HF(X)D6, HHF(X)D6, CFD6 70-250 A, 2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug per kit; wire range #14-#4 AWG Cu / #6-#4 AWG Al, 6 wires",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00269",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA2J6500",
+  "title": "Siemens TA2J6500 lug, JD/LD 200-600A, 1-2 x 3/0-500 kcmil",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009",
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA2J6500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 JD/LD pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard aluminum-body line/load lug for JD and LD frames; six lugs per 3-pole breaker; suffix 'L' = lugs installed",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 JD/LD pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JXD2(A), JXD6(A), JD6(A), SJD6-B, HJD6(A), HJXD6(A), HHJXD6, HHJD6, SHJD6-B, CJD6, SCJD6-B (200-400 A); LXD6(A), LD6(A), SLD6-B, HLD6(A), HLXD6(A), HHLXD6, HHLD6, SHLD6-B, CLD6, SCLD6-B (250-600 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 JD/LD pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug (6 per 3-pole breaker); wire range 1-2 cables, 3/0-500 kcmil Cu / 4/0-500 kcmil Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 JD/LD pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 JD/LD pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 JD/LD pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 JD/LD pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00270",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA2J630",
+  "title": "Siemens TA2J630 lug, SJD6-B 65-200A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA2J630",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body lug, 1-2 cables",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SJD6-B, SHJD6-B, SCJD6-B 65-200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1-2 cables #4 AWG-3/0 Cu or Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; JD page",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00271",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TC1J6600",
+  "title": "Siemens TC1J6600 copper lug, JD/LD (100% rated)",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009",
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TC1J6600",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Optional copper mechanical lug; used for 100% rated JD/LD frame breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "J(X)D2(A), J(X)D6(A), HJD6(A), HHJD6, SHJD6-B, L(X)D6(A), HHLD6, HLD6(A), SHLD6-B, CJD6, CLD6 200-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1 x 3/0-600 kcmil Cu",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Copper', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00272",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TC2J6500",
+  "title": "Siemens TC2J6500 copper lug, JD/LD (100% rated)",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009",
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TC2J6500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Optional copper mechanical lug; used for 100% rated JD/LD",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JD/LD frames 200-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1-2 x 3/0-500 kcmil Cu",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Copper', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00273",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA1L6750",
+  "title": "Siemens TA1L6750 lug, LD 250-600A, 1 x 500-750 kcmil",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009",
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA1L6750",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD/LD pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Optional aluminum mechanical lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD/LD pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LD/JD family 250-600 A (Q155 row)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD/LD pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1 x 500-750 kcmil Al or 1 x 500-600 kcmil Cu",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD/LD pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD/LD pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD/LD pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD/LD pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00274",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CCL600",
+  "title": "Siemens CCL600 compression lug, JD/LD",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009",
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CCL600",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Compression lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JXD2-A, J(X)D6-A, HJ(X)D6-A, HHJ(X)D6-A, CJD6, SJD6-B, SHJD6-B, SCJD6-B, L(X)D6-A, HL(X)D6-A, CLD6, SLD6-B, SHLD6-B, SCLD6-B 200-600 A, 2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug per kit; wire range 500 kcmil (JD page: 1 pc #1/0-500 kcmil Cu/Al)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; JD page",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00275",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA6JD20",
+  "title": "Siemens TA6JD20 distribution lug, JD/LD",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009",
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA6JD20",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Distribution lug, 6 wires per lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JD/LD families 200-600 A, 2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug per kit; wire range #14-2/0 AWG Cu / #6-2/0 AWG Al, 6 wires",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00276",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "JDTERMSHIELD",
+  "title": "Siemens JDTERMSHIELD terminal shield, JD/LD 3-pole",
+  "component_type": "barrier",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009",
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "JDTERMSHIELD",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Terminal shield",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JD, LD 3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "std pkg 1",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00277",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA2K500",
+  "title": "Siemens TA2K500 lug, LMD/MD 500-600A, 1-2 x #1-500",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA2K500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LMD6, LMXD6, HLMD6, HLMXD6 (TA2K500 or TA3K500 only); MD6, MXD6, SMD6-B, HMD6, HMXD6, SHMD6-B, CMD6, SCMD6-B 500-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1-2 x #1-500 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00278",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA3K500",
+  "title": "Siemens TA3K500 lug, LMD/MD 500-800A, 1-3 x 1/0-500",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA3K500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body lug; standard line/load lug on MD/LMD (suffix 'L' = lugs installed)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LMD/MD families; MD 700-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1-3 x 1/0-500 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00279",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TC2K500",
+  "title": "Siemens TC2K500 copper lug, MD 500-600A",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TC2K500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Optional copper mechanical lug",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SMD6-B, M(X)D6, HM(X)D6, CMD6, SCMD6-B 500-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1-2 x #1 AWG-500 kcmil Cu",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Copper', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00280",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA2N750",
+  "title": "Siemens TA2N750 lug, MD 500-800A (100% rated), 500-750 kcmil",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA2N750",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body lug, 1-2 cables; used for 100% rated MD/ND frame breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD family 500-800 A (100% rated)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1-2 x 500-750 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [
+   "What is the relationship between TA2N750 (single, p. 7-154) and the 2TA2N8750/3TA2N8750 kits (MD page, p. 7-155)?"
+  ],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00281",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "2TA2N8750",
+  "title": "Siemens 2TA2N8750 lug kit (2 connectors + NDTS end barrier), MD/ND",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "2TA2N8750",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Connector kit, 2 connectors + 1 NDTS end barrier. 3TA4P8500/3TA2N8750 are named for 100% rated MD/ND (90 C cable sized at 75 C ampacity)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD/ND families (see table); 2-pole use: '2-' kits for 2-pole, two '3-' kits for 3-pole per footnotes",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "2 connectors + 1 NDTS end barrier; wire range 1-2 cables per lug, 500-750 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00282",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "3TA2N8750",
+  "title": "Siemens 3TA2N8750 lug kit (3 connectors + NDTS end barrier), MD/ND",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "3TA2N8750",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Connector kit, 3 connectors + 1 NDTS end barrier. 3TA4P8500/3TA2N8750 are named for 100% rated MD/ND (90 C cable sized at 75 C ampacity)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD/ND families (see table); 3-pole use: '2-' kits for 2-pole, two '3-' kits for 3-pole per footnotes",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "3 connectors + 1 NDTS end barrier; wire range 1-2 cables per lug, 500-750 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00283",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "2TA3N8750",
+  "title": "Siemens 2TA3N8750 lug kit (2 connectors + NDTS end barrier), MD/ND",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "2TA3N8750",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Connector kit, 2 connectors + 1 NDTS end barrier. 3TA4P8500/3TA2N8750 are named for 100% rated MD/ND (90 C cable sized at 75 C ampacity)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD/ND families (see table); 2-pole use: '2-' kits for 2-pole, two '3-' kits for 3-pole per footnotes",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "2 connectors + 1 NDTS end barrier; wire range 1-3 cables per lug, 500-750 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00284",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "3TA3N8750",
+  "title": "Siemens 3TA3N8750 lug kit (3 connectors + NDTS end barrier), MD/ND",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "3TA3N8750",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Connector kit, 3 connectors + 1 NDTS end barrier. 3TA4P8500/3TA2N8750 are named for 100% rated MD/ND (90 C cable sized at 75 C ampacity)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD/ND families (see table); 3-pole use: '2-' kits for 2-pole, two '3-' kits for 3-pole per footnotes",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "3 connectors + 1 NDTS end barrier; wire range 1-3 cables per lug, 500-750 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00285",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "2TA4N8500",
+  "title": "Siemens 2TA4N8500 lug kit (2 connectors + NDTS end barrier), MD/ND",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "2TA4N8500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Connector kit, 2 connectors + 1 NDTS end barrier. 3TA4P8500/3TA2N8750 are named for 100% rated MD/ND (90 C cable sized at 75 C ampacity)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD/ND families (see table); 2-pole use: '2-' kits for 2-pole, two '3-' kits for 3-pole per footnotes",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "2 connectors + 1 NDTS end barrier; wire range 1-4 cables per lug, 250-500 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00286",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "3TA4N8500",
+  "title": "Siemens 3TA4N8500 lug kit (3 connectors + NDTS end barrier), MD/ND",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "3TA4N8500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Connector kit, 3 connectors + 1 NDTS end barrier. 3TA4P8500/3TA2N8750 are named for 100% rated MD/ND (90 C cable sized at 75 C ampacity)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD/ND families (see table); 3-pole use: '2-' kits for 2-pole, two '3-' kits for 3-pole per footnotes",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "3 connectors + 1 NDTS end barrier; wire range 1-4 cables per lug, 250-500 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00287",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "2TA4P8500",
+  "title": "Siemens 2TA4P8500 lug kit (2 connectors + NDTS end barrier), MD/ND",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "2TA4P8500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Connector kit, 2 connectors + 1 NDTS end barrier. 3TA4P8500/3TA2N8750 are named for 100% rated MD/ND (90 C cable sized at 75 C ampacity)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD/ND families (see table); 2-pole use: '2-' kits for 2-pole, two '3-' kits for 3-pole per footnotes",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "2 connectors + 1 NDTS end barrier; wire range 1-4 cables per lug, 250-500 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00288",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "3TA4P8500",
+  "title": "Siemens 3TA4P8500 lug kit (3 connectors + NDTS end barrier), MD/ND",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "3TA4P8500",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Connector kit, 3 connectors + 1 NDTS end barrier. 3TA4P8500/3TA2N8750 are named for 100% rated MD/ND (90 C cable sized at 75 C ampacity)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "s6 p. 7-154; MD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD/ND families (see table); 3-pole use: '2-' kits for 2-pole, two '3-' kits for 3-pole per footnotes",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "3 connectors + 1 NDTS end barrier; wire range 1-4 cables per lug, 250-500 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; s6 p. 7-155; MD/ND pages",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00289",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "NDTS",
+  "title": "Siemens NDTS wire lug shield / end barrier, MD/ND",
+  "component_type": "barrier",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NDTS",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 MD/ND pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Wire lug shield (NDTS); required when oversized lugs are used; included in the 2TA*/3TA* connector kits as the 'NDTS end barrier'. Breaker length increases to 24 in with lug shields (MD/ND dimension table).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 MD/ND pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD6, MXD6, HMD6, HMXD6, CMD6, ND6, NXD6, CND6 families",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 MD/ND pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 MD/ND pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 MD/ND pages; s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Breaker overall length 24 in with lug shields vs 16 in without (W 9, D 6, D1 8.25)",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "MD page dimension table",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Is NDTS orderable on its own, or only as part of the kits?"
+  ],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00290",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CCM800K2",
+  "title": "Siemens CCM800K2 compression lug kit, MD 2-pole",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CCM800K2",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Compression lug kit for complete line or load end of a 2-pole breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "M(X)D6, HM(X)D6, CMD6, SMD6-B, SHMD6-B, SCMD6-B 500-800 A, 2-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "6 lugs; wire range 500 kcmil",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00291",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CCM800K3",
+  "title": "Siemens CCM800K3 compression lug kit, MD 3-pole",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CCM800K3",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Compression lug kit for complete line or load end of a 3-pole breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD family 500-800 A, 3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "9 lugs; wire range 500 kcmil",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00292",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CCN1200K2",
+  "title": "Siemens CCN1200K2 compression lug kit, ND 2-pole",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CCN1200K2",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Compression lug kit for complete line or load end of a 2-pole breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "N(X)D6, HN(X)D6, CND6, SND6-B, SHND6-B, SCND6-B 900-1200 A, 2-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "8 lugs; wire range 500 kcmil",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00293",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CCN1200K3",
+  "title": "Siemens CCN1200K3 compression lug kit, ND 3-pole",
+  "component_type": "lug-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CCN1200K3",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Compression lug kit for complete line or load end of a 3-pole breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ND family 900-1200 A, 3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "12 lugs; wire range 500 kcmil",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00294",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA5P600",
+  "title": "Siemens TA5P600 lug, PD 1200-1600A, 1-5 x 300-600 kcmil",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA5P600",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body lug; standard PD frame lug, 6 required per breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "PD6, HPD6, CPD6, PXD6, HPXD6, SPD6-B, SHPD6-B 1200-1600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug (6 required); wire range 1-5 x 300-600 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154; PD page",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00295",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA6R600",
+  "title": "Siemens TA6R600 lug, PD/RD 1200-2000A, 1-6 x 300-600 kcmil",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA6R600",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Aluminum-body lug, 1-6 cables",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "PD6, PXD6, HPD6, HPXD6, SPD6-B, SHPD6-B, RD6, RXD6, HRD6, HRXD6 1200-2000 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1-6 x 300-600 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum body lug for copper or aluminum wire', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-154'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-154",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00296",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TC5R600",
+  "title": "Siemens TC5R600 copper lug, RD 1600-2000A (also 100% PD)",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-018",
+   "BRK-SIE-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TC5R600",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Copper mechanical lug; standard RD frame lug; required for 100% rated PD breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "R(X)D6, HR(X)D6 1600-2000 A; 100% rated PXD6/HPXD6",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug (6 per breaker); wire range 1-5 x 300-600 kcmil Cu",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Copper', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; PD page",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155; PD page",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00297",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TA4P750",
+  "title": "Siemens TA4P750 lug, PD 1200-1600A, 600-750 kcmil (built to order)",
+  "component_type": "lug",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TA4P750",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Optional aluminum lug, built to order (6-8 weeks)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "P(X)D6, HP(X)D6, CPD6, SPD6-B, SHPD6-B 1200-1600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 lug; wire range 1-4 x 600-750 kcmil Cu/Al",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "material": [
+    {
+     "value": "{'value': 'Aluminum', 'conf': 'A', 'src': ['s6'], 'basis': 'oem_spec', 'page': 's6 p. 7-155'}",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-155",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00298",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "MDTERMSHIELD",
+  "title": "Siemens MDTERMSHIELD terminal shield, MD/ND/PD/RD 3-pole",
+  "component_type": "barrier",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011",
+   "BRK-SIE-017",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "MDTERMSHIELD",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Terminal shield",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MD, ND, PD, RD 3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "std pkg 1",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-160",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00299",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS2643",
+  "title": "Siemens RS2643 rear-connecting stud, All ED, line side (short) 2.38 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS2643",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Line side (short). Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All ED (100 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 2.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00300",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS2644",
+  "title": "Siemens RS2644 rear-connecting stud, All ED, load side (short) 2.38 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS2644",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Load side (short). Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All ED (100 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 2.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00301",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS2641",
+  "title": "Siemens RS2641 rear-connecting stud, All ED, line side (long) 4.88 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS2641",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Line side (long). Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All ED (100 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 4.88 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00302",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS2642",
+  "title": "Siemens RS2642 rear-connecting stud, All ED, load side (long) 4.88 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS2642",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Load side (long). Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All ED (100 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 4.88 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00303",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS4756",
+  "title": "Siemens RS4756 rear-connecting stud, All FD, short (line or load) 3.12 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS4756",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Short (line or load). Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All FD (250 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 3.12 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00304",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS4755",
+  "title": "Siemens RS4755 rear-connecting stud, All FD, long (line or load) 7.06 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS4755",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Long (line or load). Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All FD (250 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 7.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00305",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS5774",
+  "title": "Siemens RS5774 rear-connecting stud, All JD, short 5.85 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS5774",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Short. Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All JD (400 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 5.85 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "CJD/SCJD/CLD/SCLD also require the CLRSJL3 shield kit"
+  ],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00306",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS5773",
+  "title": "Siemens RS5773 rear-connecting stud, All JD, long 11.20 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS5773",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Long. Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All JD (400 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 11.20 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "CJD/SCJD/CLD/SCLD also require the CLRSJL3 shield kit"
+  ],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00307",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS5784",
+  "title": "Siemens RS5784 rear-connecting stud, All LD, short 5.85 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS5784",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Short. Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All LD (600 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 5.85 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "CJD/SCJD/CLD/SCLD also require the CLRSJL3 shield kit"
+  ],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00308",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS5783",
+  "title": "Siemens RS5783 rear-connecting stud, All LD, long 11.20 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS5783",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Long. Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All LD (600 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 11.20 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "CJD/SCJD/CLD/SCLD also require the CLRSJL3 shield kit"
+  ],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00309",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS5788",
+  "title": "Siemens RS5788 rear-connecting stud, LM(X)D6, HLM(X)D6, short 5.85 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS5788",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Short. Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LM(X)D6, HLM(X)D6 (800 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 5.85 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00310",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS5787",
+  "title": "Siemens RS5787 rear-connecting stud, LM(X)D6, HLM(X)D6, long 11.20 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS5787",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Long. Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LM(X)D6, HLM(X)D6 (800 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 11.20 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00311",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS5786",
+  "title": "Siemens RS5786 rear-connecting stud, All MD, ND, short 5.50 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS5786",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Short. Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All MD, ND (1200 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 5.50 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00312",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "RS5785",
+  "title": "Siemens RS5785 rear-connecting stud, All MD, ND, long 8.00 in",
+  "component_type": "breaker-accessory",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-011",
+   "BRK-SIE-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RS5785",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Rear-connecting stud, Long. Price includes one current stud, insulating tube, stud nuts and terminal shields when required. For proper electrical clearance, studs must alternate between short and long lengths on the breaker poles (e.g. SLSLSL or LSLSLS). Built to order (6-8 weeks).",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All MD, ND (1200 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "1 current stud + insulating tube + stud nuts (+ terminal shields when required)",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed; built to order",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Extension behind breaker 8.00 in",
+     "conf": "A",
+     "src": [
+      "SRC-00117"
+     ],
+     "page": "p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00313",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CLRSJL3",
+  "title": "Siemens CLRSJL3 rear-stud shield kit, CJD/SCJD/CLD/SCLD",
+  "component_type": "barrier",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SIE-009",
+   "BRK-SIE-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CLRSJL3",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "description": [
+    {
+     "value": "Required shield kit to add with rear-connecting studs on CJD, SCJD, CLD, SCLD",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "CJD, SCJD, CLD, SCLD",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "B",
+     "src": [
+      "SRC-00117",
+      "SRC-00118"
+     ],
+     "page": "s6 p. 7-165",
+     "basis": "oem_spec",
+     "note": "Listed in SPEEDFAX 2017 (rev. pages 2018-2020) and the 2021 Section 7 revision; '(s)' built-to-order flags noted where printed",
+     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "aftermarket",
+   "dimensions",
+   "fasteners",
+   "hole_pattern",
+   "id_features",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "What does the CLRSJL3 kit contain?"
+  ],
+  "source_ids": [
+   "SRC-00117",
+   "SRC-00118"
+  ],
+  "batches": [
+   "B0008-breaker-terminal-kits-ge-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
  }
 ]

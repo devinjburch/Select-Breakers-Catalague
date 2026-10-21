@@ -1,0 +1,526 @@
+CLICK ANYWHERE on THIS PAGE to RETURN to FPE FEDERAL PACIFIC ELECTRIC STAB-LOK PANEL HAZARDS at
+InspectApedia.com
+                                                                                                      Page 1
+
+
+
+                            Eaton Electrical
+         Launches New Options for Upgrading Existing Panelboards.
+        More and more customers need to upgrade their existing electrical systems to meet their
+        growing power demand. The digital age coupled with the aging infrastructure is driving these
+        opportunities as well as a desire for improved building safety and reliability through adding arc
+        fault, ground fault, and/or surge protection. In the specific situation of upgrading an existing
+        panelboard, the question becomes when is it better to upgrade reusing the existing box versus
+        doing a full replacement.
+
+        Situations where reusing the existing box is the right choice
+               The panel is flush mounted so that replacing with a new panel will require major wall
+               repair. This is especially relevant with plaster, concrete, or block walls
+               Other difficulties exist with disturbing the existing installation such as existing asbestos
+               insulation
+               When limiting downtime is beneficial – total installation time of a retrofit is much quicker
+               than total wall repair
+               When total project completion time is critical. More steps are required in complete
+               removal, new installation and wall repair. It also requires coordination with other
+               subcontractors
+
+        However there are many challenges to retrofitting into an existing box including:
+               Sometimes the box is too shallow or short to accommodate upgrading the existing box
+               It can be tricky to get the interior mounted to the right elevation within the existing box to
+               work properly with the cover
+               Sometimes the contractor is hesitant to do a detailed take off of the existing box specs.
+               When doing a job walk through, it is not quick and easy for the contractor to determine if
+               the box can accommodate the upgrade
+               The lead times can be too long for the project time line
+
+        To address these concerns, we are expanding our offering to include a new loadcenter based
+        (plug on style breaker) solution. This new offering will meet the needs of especially size
+        constrained 240V panelboard applications.
+
+        The new loadcenter based (plug on style breaker) solution takes advantage of its compact
+        design to handle even the most challenging upgrade needs. It features an innovative field
+        adjustable interior assembly that is adaptable between 4” and 6” of box depth, which relieves
+        the pressure of the precise field measurement. To satisfy the need of quick lead times and
+        desire for easier selection we have developed a kitted offering that you select based on your
+        existing box size. This way you know literally at the walk through whether an upgrade will work
+        in the application thus saving return trips to the job site. Our interiors are UL recognized under
+        UL67, the panelboard standard, and the approved box sizes provide the contractor the right
+        guidance to comply with current NEC wire bend space requirements. The standardized kits are
+        available with quick lead-times to meet tight project timelines.
+
+        This document contains detailed information on this new addition to our offering. If you have
+        further questions or need a quotation on these retrofit kits please contact our Lincoln Flex
+        Center at 800-330-6479. If however you would like more information about Eaton Electrical’s
+        other panelboard retrofit solutions, contact your local satellite or Eaton Electrical/ Cutler-
+        Hammer sales office.
+                                                                                      Page 2
+
+
+
+
+Retrofit Kits
+Consist of cover assembly and field adjustable interior assembly
+
+
+             Picture Frame
+
+                                                                          Interiors are UL
+                                                                          recognized under
+                                                                          UL67,
+                                                                          Panelboard Standard
+
+
+
+
+                             Trim
+
+
+           Cover Assembly
+
+
+
+                                                       Field Adjustable
+                                                       Interior Assembly
+
+
+  Cover assembly consists of a picture frame and trim. The picture frame adapts the
+  trim assembly to the existing box size and provides some additional coverage over the
+  wall. The picture frame is drilled in the field for attaching it to the existing box flange.
+
+  The amount of coverage over the wall is the difference between the standard picture
+  frame size (shown in the selection chart) and the existing box dimensions. If different
+  dimensions are required, then choose the custom cover option.
+
+  The interior assembly includes a field adjustable riser that sets the interior at the right
+  depth within the existing box. The assembly is field adjustable to accommodate box
+  depths between 4” and 6”. The existing box is drilled in the field to mount the riser
+  assembly.
+                                                                                                         Page 3
+
+
+Cutler-Hammer offers two types of Retrofit kits CH and BR
+Type CH Panelboard Retrofit Kits – Most Compact Option
+                                                                                                      All Cutler-Hammer
+                                                                                                      Designs Feature
+                                                                                                      Sturdy Metal Interior
+                                                                                                      Construction
+
+
+
+
+3 Phase Panels                     1 Phase Panels                          Sub Feed Lug Panels
+Typical construction for 3         Typical construction for 1 phase        Typical construction for sub feed
+phase main breaker and             main breaker and main lug CH            lug panels both 1 and 3 phase
+main lug CH panels feature         panels feature one piece copper         feature copper bus & tin-plated
+copper bus & tin-plated            bus construction                        copper bus stabs.
+copper bus stabs.
+
+Types of Branch Breakers – ¾” Per Pole Format
+Catalog Numbers               Voltage       Poles      AMP        AIC      Special Protection or features
+CH110 – CH160*                120            1          10 - 60   10K      Trips to off
+CH210 – CH2100*               120/240        2          10 - 100 10K       Trips to off
+CH310 – CH3100*               240V           3          10 - 100 10K       Trips to off
+CH115AF, CH120AF              120            1          15 - 20   10K      Arc Fault, Trips to off
+CH115AFGF - CH120AFGF 120                    1          15 - 20   10K      Arc Fault, 5 MA GFI, Trips to off
+CH215AF - CH220AF**           120/240        2          15 - 20   10K      Arc Fault , Trips to off
+CH215AFGF, CH220AFGF          120/240        2          15 - 20   10K      Arc Fault, 5 MA GFI, Trips to off
+CH115GF – CH130GF*            120            1          15 - 30   10K      5 MA GFI, Trips to off
+CH215GF – CH260GF             120/240        2          15 - 60   10K      5MA GFI, Trips to off
+CH115EPD – CH130EPD           120            1          15 - 30   10K      30MA GFI, Trips to off
+CH215EPD – CH260EPD           120/240        2          15 - 60   10K      30MA GFI, Trips to off
+CH215SW – CH250SW*            120V           2          15 – 50   10K      Switching neutral, Trips to off
+CH315SW – CH350SW*            120/240        3          15 - 50   10K      Switching neutral, Trips to off
+CH115HID – CH130HID           120/240        1          15 - 30   10K      Suitable for HID loads, Trips to off
+CH215HID – CH230HID           240            2          15 - 30   10K      Suitable for HID loads, Trips to off
+CH315HID – CH330HID           240            3          15 - 30   10K      Suitable for HID loads, Trips to off
+CH115M50 – CH150M50           120            1          15 - 50   10K      High Ambient, Trips to off
+CH215M50 – CH270M50           120/240        2          15 - 70   10K      High Ambient, Trips to off
+CH115HM – CH120HM*            120            1          15 - 20   10K      High Magnetic, Trips to off
+CH215HM – CH220HM*            120/240        2          15 - 20   10K      High Magnetic, Trips to off
+ * - denotes breakers available in trip to center position by substituting a CHP for CH in the part number
+ ** - denotes breakers available with independent trip by substituting AFIT for AF in the part number
+                                                                                                        Page 4
+
+
+Type BR Panelboard Retrofit Kits
+                                                                               All Cutler-Hammer
+                                                                               Designs Feature
+                                                                               Sturdy Metal Interior
+                                                                               Construction
+
+
+
+
+                                         1 Phase Panels
+3 Phase Panels
+Typical construction for 3            Typical construction for 1 phase
+phase main breaker and main           main breaker and main lug BR
+lug BR panels with tin-plated         panels with tin-plated aluminum bus.
+aluminum bus.
+
+Branch Breakers – 1” Per Pole Format
+     Catalog Numbers           Voltage    Poles      AMP         AIC        Special Protection or features
+ BR110 – BR170                 120        1        10 - 70      10K
+ BRH115 – BRH170               120        1        15 - 70      22K     Higher AIC rating
+ BR210 – BR2125                120/240    2        10 - 125     10K
+ BR210H – BR2100H              240V       2        10 - 100     10K     Rated for voltage to ground of 240V
+ BRH215 – BRH2125              120/240    2        15 - 125     22K     Higher AIC rating
+ BR310 – BR3100                240        3        10 - 100     10K
+ BRH315 – BRH3100              240        3        15 - 100     22K     Higher AIC rating
+ BR115AF – BR120AF**           120        1        15 - 20      10K     Arc Fault
+ BR115AFGF –                   120        1        15 - 20      10K     Arc Fault, 5 MA GFI
+ BR120AFGF
+ BR215AF – BR220AF**           120/240    2        15 - 20      10K     Arc Fault
+ BR215AFGF –                   120/240    2        15 - 20      10K     Arc Fault, 5 MA GFI
+ BR220AFGF
+ GFCB115 – GFCB140             120        1        15 - 40      10K     5 MA GFI
+ GFCB215 – GFCB250             120/240    2        15 - 50      10K     5MA GFI
+ GFCBH115 – GFCBH125           120        1        15 - 25      22K     5MA GFI, Higher AIC
+ GFCBH215 – GFCB H230          120/240    2        15 - 30      22K     5MA GFI, Higher AIC
+ GFEP115 – GFEP130             120        1        15 - 30      10K     30MA GFI
+ GFEP215 – GFEP250             120/240    2        15 - 50      10K     30MA GFI
+ BRSN215 – BRSN230             120V       2        15 – 30      10K     Switching neutral
+ BR115H – BR120H               120/240    1        15 - 20      10K     Suitable for HID loads
+ BR315H – BR320H               240        3        15 - 20      10K     Suitable for HID loads
+ BJ2125 – BJ2225               120/240    2        125 - 225    10K     Branch mounts in 4 circuits
+ BJH2125 – BJH2225             120/240    2        125 - 225    22K     Branch mounts in 4 circuits, Higher AIC
+ BJ3125 – BJ3225               240        3        125 - 225    10K     Branch mounts in 6 circuits
+ BJH3125 – BJH3225             240        3        125 - 225    22K     Branch mounts in 6 circuits, Higher AIC
+ BD1010 – BD5030               120/240    (2) 1    10 - 50      10K     Twin breaker qty 2 – 1 pole in 1” space
+ Type BQ                       120/240    1/2      15 - 50      10K     Quad breakers qty 4 poles in 2” space,
+                                                                        see internet catalog for detailed offering
+  ** - denotes breakers available with independent trip by substituting AFIT for AF in the part number
+                                                                                   Page 5
+
+
+
+
+Detailed product Guide
+
+All standard retrofit kits size A-E are suitable for a range of existing box sizes*
+       Box Width’s ranging from 14 ½” to 22”
+       Box Depth’s ranging from 4” for BR and 4 ¼” for CH to 6”
+       Box Height’s ranging from 21” to 45”
+For box dimensions outside of these ranges contact the Lincoln Flex Center at 800-330-
+6479. Be sure to provide the existing incoming line wire size.
+
+To select the retrofit kit
+1. Decide which type of interior you want (CH or BR) – see descriptions pages 3-4
+2. From the existing box size determine which retrofit groups are suitable (may be more
+than one).
+
+* For box sizes smaller than Retro Size A, see page 10 for additional offerings.
+
+           Existing Box Height Determines Retro Size Group
+
+
+                                                                      Retro Size E
+
+                                                  Retro Size D
+
+                                       Retro Size C
+
+                       Retro Size B
+
+       Retro Size A
+     21”            29” 30”         34” 36” 37”         41”        45”                54”
+
+
+
+3. Use type of interior, # of phases, and type of main to find the selection chart
+4. Select part number from chart (if main breaker, replace XXX with specific amp rating
+5. Note that the overlap of the existing wall is the retro cover size minus the existing
+box size. If specific measurements are needed communicate that you need a custom
+trim size.
+6. Contact the Lincoln Flex Center at 800-330-6479 for pricing, lead-times, and order
+entry instructions.
+                                                                                              Page 6
+
+
+
+ Type CH Interior
+ Single Phase with Main Breaker                                              Selection Chart 1
+                            Existing Box                                                    Retro Cover
+   Main Breaker                                                  Part Number        Retro
+                               Height                 # of       (XXX is for Main              Size*
+                                            Wire Size                                Size
+   Amp                                                Ckts       Breaker specific
+                    AIC                                            amp rating)      Group
+  Rating           Rating   Min     Max                                                      H     W
+  60 – 125          10K     21”      30"      #2 – 1/0     22     RACH22BXXX          A      33”   24”
+  60 – 125          10K     29”      36”      #2 – 1/0     30     RBCH30BXXX
+
+                            29”      30”    #2 – 250MCM                               B      40”   24”
+  100 – 200         35K                                    24     RBCH24BXXX
+                            30.5”    36"    #2 – 300MCM
+
+  100 – 225         35K     34”      41"    #2 – 300MCM    32     RCCH32BXXX          C      43”   24”
+
+                    35K                     #2 – 300MCM           RDCH42BXXX
+  100 – 225                 37”      45"                   42                         D      47”   24”
+                    100K                    #4 – 300MCM           RDCH42HXXX
+
+
+
+ Type CH Interior
+ Single Phase Main Lug Only                                                   Selection Chart 2
+                            Existing Box
+  Max. Bus Amp                                            # of                      Retro Retro Cover
+                               Height       Wire Size            Part Number                 Size*
+     Rating                                               Ckts                       Size
+                            Min     Max                                             Group  H      W
+             125            21”      30”      #4 – 2/0     24     RACH24L125          A      33”   24”
+
+                            25"      26"      #4 - #1
+             125                                           42     RBCH42L125
+                            26.5     30"      #4 - 1/0
+                                                                                      B      40”   24”
+             225            29”      36”    #1 – 300MCM    32     RBCH32L225
+
+             225            28.5”    36”      #4 - 4/0     42     RBCH42L225
+
+             225            34”      41”    #1 – 300MCM    42     RCCH42L225          C      43”   24”
+
+             225            37”      45”    #1 – 300MCM    42     RDCH42L225          D      47”   24”
+
+
+
+ Type CH Interior
+ Single Phase with Sub Feed Lugs                                               Selection Chart 3
+                            Existing Box                                     Retro Retro Cover
+  Max. Bus Amp                 Height                 # of                            Size*
+                                            Wire Size            Part Number Size
+     Rating                                           Ckts
+                            Min     Max                                      Group  H      W
+                            29”      36”    #6 – 300MCM    24     RBCH24D225
+             225            31”     33.5”   #6 – 250MCM                               B      40”   24”
+                                                           30     RBCH32D225
+                            34”      36”    #6 – 300MCM
+
+             225            34”      41”    #6 – 300MCM    32     RCCH32D225          C      43”   24”
+
+             225            37”      45”    #6 – 300MCM    42     RDCH42D225          D      47”   24”
+
+
+* Specific cover sizes are available. Be sure to specify the custom cover option and provide
+exact dimensions required.
+                                                                                                 Page 7
+
+
+
+   Type CH Interior
+   Three Phase with Main Breaker                                                   Selection Chart 4
+     Main Breaker             Existing Box                                                     Retro Cover
+                                                                    Part Number
+                                 Height                      # of   (XXX is for Main              Size*
+                                              Wire Size                                Retro
+    Amp                                                      Ckts   Breaker specific
+                                                                                        Size
+                      AIC                                             amp rating)
+   Rating            Rating   Min     Max                                              Group    H     W
+    60 – 125          10K     21”      30”      #2 – 1/0      18    RACH18B3XXX          A      33”   24”
+                      10K     37”      45”    2/0 – 300MCM          RDCH42B3XXX
+   100 - 225                  37”     38.5”   2/0 – 250MCM    42                         D      47”   24”
+                      100K                                          RDCH42H3XXX
+                              39”      45”    2/0 – 300MCM
+
+
+
+   Type CH Interior
+   Three Phase with Main Lugs Only                                                 Selection Chart 5
+                              Existing Box                                             Retro Retro Cover
+    Max. Bus Amp                                             # of
+                                 Height       Wire Size             Part Number         Size    Size*
+       Rating                                                Ckts
+                              Min     Max                                              Group  H      W
+               125            21”      30”      #6 – 2/0      24    RACH24L3125
+
+               125            22"      30"       #4 - #1      30    RACH30L3125
+                                                                                         A      33”   24”
+               150            22.5"    30"      #4 - 1/0
+                                                              30    RACH30L3225
+               225            24.5"    30"      #4 - 4/0
+
+               225            29”      36”    #4 – 300MCM     30    RBCH30L3225
+
+               125            25"      28"       #4 - #1      42    RBCH42L3125          B      40”   24”
+
+               225            28.5"    36"      #4 - 4/0      42    RBCH42L3225
+
+               225            34”      41”    #4 – 300MCM     42    RCCH42L3225          C      43”   24”
+
+               225            37”      45”    #4 – 300MCM     42    RDCH42L3225          D      47”   24”
+
+
+
+   Type CH Interior
+   Three Phase with Sub Feed Lugs                                                  Selection Chart 6
+                              Existing Box                                      Retro Retro Cover
+    Max. Bus Amp                 Height                      # of                        Size*
+                                              Wire Size             Part Number Size
+       Rating                                                Ckts
+                              Min     Max                                       Group  H      W
+                              29”      36”    #6 –300MCM      24    RBCH24D3225
+               225            31”     33.5”   #6 – 250MCM                                B      40”   24”
+                                                              30    RBCH30D3225
+                              34”      36”    #6 – 300MCM
+
+               225            34”      41”    #6 –300MCM      30    RCCH30D3225          C      43”   24”
+
+               225            37”      45”    #6 – 300MCM     42    RDCH42D3225          D      47”   24”
+
+
+* Specific cover sizes are available. Be sure to specify the custom cover option and provide exact
+dimensions required.
+                                                                                                 Page 8
+
+
+
+   Type BR Interior
+   Single Phase with Main Breaker                                                      Selection Chart 7
+                               Existing Box                                                     Retro Cover
+     Main Breaker                                                   Part Number         Retro
+                                  Height                     # of   (XXX is for Main
+                                                                                                   Size*
+                                               Wire Size                                 Size
+     Amp               AIC                                   Ckts   Breaker specific
+                               Min     Max                            amp rating)       Group    H        W
+    Rating            Rating
+                       10K                       #4 – 2/0            RABR20BXXX
+    60 – 125                   21”      30”                   20                          A      33”   24”
+                       22K                       #4 – 2/0            RABR20HXXX
+                       10K                       #4 – 1/0           RBBR30BCXXX
+    60 – 125                   29”      36”                   30
+                       22K                       #4 – 1/0           RBBR30HCXXX
+                                                                                          B      40”   24”
+                               29”     30.5”   #2 – 250MCM
+    100 – 200          25K                                    20     RBBR20BXXX
+                               31”      36”    #2 – 300MCM
+                               34”     35.5”   #2 – 250MCM
+    100 – 200          25K                                    30     RCBR30BXXX           C      43”   24”
+                               36”      41”    #2 – 300MCM
+                               37”     38.5”     #2 – 4/0
+    100 - 200          25K     39”     40.5”   #2 – 250MCM    40     RDBR40BXXX           D      47”   24”
+                               41”      45”    #2 – 300MCM
+
+
+
+   Type BR Interior
+   Single Phase with Main Lugs Only                                                Selection Chart 8
+                               Existing Box                                             Retro Retro Cover
+    Max. Bus Amp                  Height                     # of                                Size*
+                                               Wire Size            Part Number          Size
+       Rating                                                Ckts
+                                                                                        Group
+                               Min     Max                                                     H      W
+                125            21”      30”     #14 – 2/0     20     RABR20L125           A      33”   24”
+                               29”     31.5”   #1 – 250MCM
+                200                                           30     RBBR30L200           B      40”   24”
+                               32”      36”    #1 – 300MCM
+                               34”     36.5”   #1 – 250MCM
+                200                                           40     RCBR40L200           C      43”   24”
+                               37”      41”    #1 – 300MCM
+                               37”     38.5”   #1 – 250MCM
+                225                                           42     RDBR42L225           D      47”   24”
+                               39”      45”    #1 – 300MCM
+
+
+* Specific cover sizes are available. Be sure to specify the custom cover option and provide exact
+dimensions required.
+                                                                                                 Page 9
+
+
+
+   Type BR Interior
+   Three Phase with Main Breaker                                                   Selection Chart 9
+                              Existing Box                                                     Retro Cover
+     Main Breaker                                                   Part Number        Retro
+                                 Height                      # of   (XXX is for Main
+                                                                                                  Size*
+                                              Wire Size                                 Size
+    Amp               AIC                                    Ckts   Breaker specific
+                              Min     Max                             amp rating)      Group    H     W
+   Rating            Rating
+                      10K                                           RABR12B3XXX
+    60 - 100                  21”      30”      #4 – 1/0      12                         A      33”   24”
+                      22K                                           RABR12H3XXX
+                      10K                                            RBBR30BXXX
+    60 – 100                  29”      36”      #4 – 1/0      30                         B      40”   24”
+                      22K                                           RBBR30H3XXX
+                      10K     37”      45”    2/0 – 300MCM          RDBR30B3XXX
+   100 - 200                  37”     38.5”   2/0 – 250MCM    30                         D      47”   24”
+                      100K                                          RDBR30H3XXX
+                              39”      45”    2/0 – 300MCM
+                      10K                                           REBR42B3XXX
+   100 - 225                  45”      54”    2/0 – 300MCM    42                         E      56”   24”
+                      100K                                          REBR42H3XXX
+
+
+
+   Type BR Interior
+   Three Phase with Main Lugs Only                                               Selection Chart 10
+                              Existing Box                                             Retro Retro Cover
+    Max. Bus Amp                 Height                      # of                               Size*
+                                              Wire Size             Part Number         Size
+       Rating                                                Ckts
+                                                                                       Group
+                              Min     Max                                                     H      W
+               125            21”      30”      #8 – 2/0      12    RABR12L3125          A      33”   24”
+
+               100                              #8 – 2/0      30    RBBR30L3100
+                              29”      36”                                               B      40”   24”
+               150                              #4 – 4/0      24    RBBR24L3150
+
+                              34”     35.5”   #4 – 250MCM
+               200                                            30    RCBR30L3200          C      43”   24”
+                              36”      41”    #4 – 300MCM
+                              37”     38.5”   #4 – 250MCM
+               225                                            42    RDBR42L3225          D      47”   24”
+                              39”      45”    #4 – 300MCM
+
+               225            45”      54”    #4 – 300MCM     42    REBR42L3225          E      56”   24”
+
+
+* Specific cover sizes are available. Be sure to specify the custom cover option and provide exact
+dimensions required.
+                                                                                Page 10
+
+
+
+                    Retrofit Options for Smaller Existing Panelboard
+                               or Loadcenter Enclosures
+   An additional offering has been geared toward retrofitting enclosures that are
+   smaller than the Retro Size A group listed above. These kits are specifically
+   designed for enclosures with the following parameters:
+           Box Width’s ranging from 10 ½” to 15 ½”
+           Box Depth’s ranging from 3 ½” to 5 ¼”
+           Box Height’s ranging from 14 ½” to 20 ½”
+
+
+
+
+                      Compact Design for 12/24 circuit MLO Retrofit
+   Cover assembly consists of a picture frame and trim. The trim protrudes ½”
+   from drywall to provide additional depth for the adjustable riser assembly. The
+   picture frame is drilled in the field for attaching it to the existing box flange.
+   The amount of coverage over the wall is the difference between the standard
+   picture frame size (shown in the selection chart) and the existing box dimensions.
+   If different dimensions are required, then choose the custom cover option.
+   The interior assembly includes a field adjustable riser that sets the interior at
+   the right depth within the existing box. The assembly is field adjustable to
+   accommodate box depths between 3 ½” and 5 ¼”. The existing box is drilled in
+   the field to mount the riser assembly.
+
+Type BR Interior                                                   Selection Chart 11
+                                                        Part Number      Retro Retro Cover
+ Amp                                   # of      # of                             Size*
+           Main        Wire Size                        (XXX is for MB    Size
+Rating                                Spaces     Ckts    Amp Rating)     Group  H      W
+                                                         RAABR12L125             19"    13"
+  125      Lugs         #6 – 1/0         12        24
+                                                         RAABR12L125A            21"    16"
+                                                                          AA
+                                                         RAABR10BXXX             19"    13"
+ 60-125   Breaker       #6 – 1/0         10        20
+                                                        RAABR10BXXXA             21"    16"
+
