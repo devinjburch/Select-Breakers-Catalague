@@ -30823,6 +30823,18 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRL3AFDCH (kit # FD3K) as a replacement ('Kit # FD3K replaces OEM KPRL3AFD3'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -30839,11 +30851,13 @@
    "SRC-00001",
    "SRC-00002",
    "SRC-00004",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -31359,6 +31373,18 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRL3AEDCH (kit # ED3K) as a replacement ('Kit # ED3K replaces OEM KPRL3AED3'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -31376,11 +31402,13 @@
    "SRC-00002",
    "SRC-00004",
    "SRC-00316",
-   "SRC-00317"
+   "SRC-00317",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -43238,7 +43266,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-012",
@@ -43519,6 +43548,18 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRLCACH (kit # CA4K) as a replacement ('Kit # CA4K replaces OEM KPRL4CA'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -43535,12 +43576,14 @@
    "SRC-00001",
    "SRC-00003",
    "SRC-00016",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -43554,7 +43597,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-006",
@@ -43853,6 +43897,28 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRLJDSCH (kit # JDS4K) as a replacement ('Kit # JDS4K replaces OEM KPRL4JDS'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    },
+    {
+     "value": "Breaker King offers BPRL4BJDSCH (kit # JDS4BK) as a replacement ('Kit # JDS4BK replaces OEM KRPL4JDS (sic; read as KPRL4JDS)'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -43873,12 +43939,14 @@
    "SRC-00003",
    "SRC-00004",
    "SRC-00016",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -43892,7 +43960,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-006",
@@ -44203,6 +44272,18 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRLJDTCH (kit # JD4K) as a replacement ('Kit # JD4K replaces OEM KPRL4JDT'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -44223,12 +44304,14 @@
    "SRC-00003",
    "SRC-00004",
    "SRC-00016",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -44580,7 +44663,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-007",
@@ -44841,6 +44925,26 @@
      ],
      "basis": "surplus_listing",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Breaker King offers BPRLKDSCH (kit # KDS4K) as a replacement ('Kit # KDS4K replaces OEM KPRL4KDS'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    },
+    {
+     "value": "Breaker King offers BPRL4BKDSCH (kit # KDS4BK) as a replacement ('Kit # KDS4BK replaces OEM KPRL4KDS'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "ampacity": [
@@ -44914,12 +45018,14 @@
    "SRC-00016",
    "SRC-00018",
    "SRC-00023",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -45257,6 +45363,18 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRLKDTCH as a replacement ('OEM Item KPRL4KDT Is Provided as PCS Brand Aftermarket Kit'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -45278,12 +45396,14 @@
    "SRC-00004",
    "SRC-00016",
    "SRC-00019",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -47505,7 +47625,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-011",
@@ -47828,6 +47949,18 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRLNDCH (kit # ND4K) as a replacement ('Kit # ND4K replaces OEM KPRL4ND'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -47848,12 +47981,14 @@
    "SRC-00003",
    "SRC-00004",
    "SRC-00016",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -48193,7 +48328,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-010",
@@ -48370,6 +48506,18 @@
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRLMDCH (kit # MD4K) as a replacement ('Kit # MD4K replaces OEM KPRL4MD'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -48388,11 +48536,13 @@
    "SRC-00001",
    "SRC-00003",
    "SRC-00004",
-   "SRC-00016"
+   "SRC-00016",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -49793,7 +49943,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-004",
@@ -50027,6 +50178,36 @@
      ],
      "basis": "distributor",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Breaker King offers BPRLFDCH as a replacement ('OEM Item KPRL4FD Is ... (truncated on listing)'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    },
+    {
+     "value": "Breaker King offers BPRL4BFDCH (kit # FD4BK) as a replacement ('Kit # FD4BK replaces OEM KPRL4FD'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    },
+    {
+     "value": "Superbreakers sells 'Eaton/Cutler-Hammer KPRL4FD Equivalent Twin Mount Mounting Hardware': 'Cutler-Hammer Equivalent Circuit Breaker Mounting Hardware ... for direct replacement ... PRL4A and PRL4B bolt-on panel boards ... comes with all associated hardware including panel cover and screws ... in stock new'",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; 'equivalent' = non-OEM per seller wording; no listing statement",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "poles": [
@@ -50147,12 +50328,15 @@
    "SRC-00004",
    "SRC-00010",
    "SRC-00016",
-   "SRC-00316"
+   "SRC-00252",
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -50166,7 +50350,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-005",
@@ -50475,6 +50660,28 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRLEDCH (kit # ED4K) as a replacement ('Kit # ED4K replaces OEM KPRL4ED'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    },
+    {
+     "value": "Breaker King offers BPRL4BEDCH (kit # ED4BK) as a replacement ('Kit #ED4BK replaces OEM KPRL4ED'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -50493,12 +50700,14 @@
    "SRC-00002",
    "SRC-00003",
    "SRC-00016",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -50512,7 +50721,8 @@
   "component_type": "breaker-mounting-kit",
   "family_ids": [
    "FAM-EAT-005",
-   "FAM-EAT-009"
+   "FAM-EAT-009",
+   "FAM-EAT-028"
   ],
   "breaker_ids": [
    "BRK-EAT-008",
@@ -50835,6 +51045,18 @@
      "note": "Package/shipping data per Eaton web; NOT verified component dimensions",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRLLDCH (kit # LA4K) as a replacement ('Kit # LA4K replaces OEM KPRL4LD'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -50854,12 +51076,14 @@
    "SRC-00003",
    "SRC-00004",
    "SRC-00016",
-   "SRC-00316"
+   "SRC-00316",
+   "SRC-00473"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
    "B0002-eaton-switchboards-legacy",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -53756,11 +53980,22 @@
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPCACH (kit # CA1K) as a replacement ('Kit CA1K replaces OEM KCDPCA'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
-   "aftermarket",
    "fasteners",
    "finish",
    "hole_pattern",
@@ -53777,11 +54012,13 @@
    "SRC-00005",
    "SRC-00013",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00477"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -54007,11 +54244,22 @@
      "basis": "inference",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPKBCH (kit # KB1K) as a replacement ('Kit KB1K replaces OEM KCDPKB'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
-   "aftermarket",
    "fasteners",
    "finish",
    "hole_pattern",
@@ -54028,11 +54276,13 @@
    "SRC-00005",
    "SRC-00013",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00477"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -54259,11 +54509,22 @@
      "basis": "inference",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPLBCH (kit # LB1K) as a replacement ('Kit LB1K replaces OEM KCDPLB'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
-   "aftermarket",
    "fasteners",
    "finish",
    "hole_pattern",
@@ -54280,11 +54541,13 @@
    "SRC-00005",
    "SRC-00013",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00477"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -54496,11 +54759,22 @@
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPLACH (kit # LA4K) as a replacement ('Kit LA4K replaces OEM KCDPLA400'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
-   "aftermarket",
    "fasteners",
    "finish",
    "hole_pattern",
@@ -54517,11 +54791,13 @@
    "SRC-00005",
    "SRC-00013",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00477"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -54747,11 +55023,22 @@
      "basis": "inference",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPLCCH (kit # LA6K) as a replacement ('Kit LA6K replaces OEM KCDPLA600'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
-   "aftermarket",
    "fasteners",
    "finish",
    "hole_pattern",
@@ -54767,11 +55054,13 @@
    "SRC-00005",
    "SRC-00013",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00477"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55993,6 +56282,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -56038,11 +56337,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -56162,6 +56463,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -56207,11 +56518,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -56331,6 +56644,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -56376,11 +56699,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -56501,6 +56826,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -56547,11 +56882,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -56671,6 +57008,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -56716,11 +57063,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -56840,6 +57189,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -56885,11 +57244,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -57010,6 +57371,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -57056,11 +57427,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -57180,6 +57553,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -57225,11 +57608,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -57349,6 +57734,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -57394,11 +57789,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -57519,6 +57916,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -57564,11 +57971,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -57689,6 +58098,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -57734,11 +58153,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -57859,6 +58280,16 @@
      "page": "p. 12",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket CDP retrofit kit (breaker + connector kit + mounting hardware + cover + instructions) to add a branch device to an existing Westinghouse CDP chassis; not for replacing or creating a main device; CDP standard widths 30, 38, 42, 48 in; required space must be available; also usable to add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -57904,11 +58335,13 @@
   "source_ids": [
    "SRC-00005",
    "SRC-00014",
-   "SRC-00015"
+   "SRC-00015",
+   "SRC-00248"
   ],
   "batches": [
    "B0001-eaton-prl-panelboards",
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63682,6 +64115,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -63704,10 +64147,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63806,6 +64251,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -63828,10 +64283,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63930,6 +64387,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -63952,10 +64419,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64054,6 +64523,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -64076,10 +64555,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64178,6 +64659,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -64200,10 +64691,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64302,6 +64795,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -64324,10 +64827,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64426,6 +64931,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -64448,10 +64963,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64550,6 +65067,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -64572,10 +65099,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64674,6 +65203,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -64696,10 +65235,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64798,6 +65339,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -64820,10 +65371,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64922,6 +65475,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -64944,10 +65507,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65046,6 +65611,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -65068,10 +65643,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65170,6 +65747,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -65192,10 +65779,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65294,6 +65883,16 @@
      "page": "p. 17",
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
+    },
+    {
+     "value": "Eaton aftermarket FDP retrofit kit (adds a fusible-switch branch device to an existing Westinghouse FDP chassis; one 3-pole switch single or twin, fuses not included). Requires vertical busbar centreline spacing 3.50 in phase-to-phase; at 4.25 in spacing the kits will not fit and no parts are available. Not for replacing or creating a main device. FDP standard widths 30, 38, 42 in. CDP/FDP kits may also add chassis-mounted devices to WF group-mounted switchboards. Non-listed arrangements: Sumter Plant Aftermarket Center.",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "kit_contents": [
@@ -65316,10 +65915,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00014"
+   "SRC-00014",
+   "SRC-00248"
   ],
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -107886,8 +108487,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -107939,6 +108540,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (twin mount)",
      "conf": "C",
@@ -108011,11 +108623,13 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251",
    "SRC-00252"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -108032,8 +108646,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -108085,6 +108699,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (twin mount)",
      "conf": "C",
@@ -108157,11 +108782,13 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251",
    "SRC-00252"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -108178,8 +108805,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -108231,6 +108858,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (twin mount)",
      "conf": "C",
@@ -108303,11 +108941,13 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251",
    "SRC-00252"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -108324,8 +108964,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -108377,6 +109017,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (twin mount)",
      "conf": "C",
@@ -108449,11 +109100,13 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251",
    "SRC-00252"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -108470,8 +109123,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -108523,6 +109176,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (twin mount)",
      "conf": "C",
@@ -108595,11 +109259,13 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251",
    "SRC-00252"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -108616,8 +109282,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -108669,6 +109335,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (twin mount)",
      "conf": "C",
@@ -108741,11 +109418,13 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251",
    "SRC-00252"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -108762,8 +109441,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -108811,6 +109490,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (twin mount)",
      "conf": "C",
@@ -108867,10 +109557,12 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -108887,8 +109579,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -108940,6 +109632,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (single mount)",
      "conf": "C",
@@ -109012,11 +109715,13 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251",
    "SRC-00252"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -109033,8 +109738,8 @@
    "FAM-EAT-031"
   ],
   "breaker_ids": [
-   "BRK-EAT-067",
-   "BRK-EAT-065"
+   "BRK-EAT-065",
+   "BRK-EAT-067"
   ],
   "claims": {
    "description": [
@@ -109086,6 +109791,17 @@
     }
    ],
    "application": [
+    {
+     "value": "Eaton aftermarket MP40 retrofit kits can also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards, and Cutler-Hammer NFB panelboards 26.5 to 36 in wide; not for main devices",
+     "conf": "A",
+     "src": [
+      "SRC-00248"
+     ],
+     "page": "Panelboard Aftermarket help page",
+     "basis": "oem_spec",
+     "note": "program-level statement applied to each MP40 kit",
+     "batch": "B0016-aftermarket-retrofit"
+    },
     {
      "value": "branch (single mount)",
      "conf": "C",
@@ -109158,11 +109874,13 @@
    "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
   ],
   "source_ids": [
+   "SRC-00248",
    "SRC-00251",
    "SRC-00252"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -116428,6 +117146,1303 @@
   ],
   "batches": [
    "B0010-docs-eaton-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00902",
+  "mfr": "EAT",
+  "brand_marking": "",
+  "oem_part_number": "KPRL4LDS",
+  "title": "PRL4B column breaker connector kit KPRL4LDS (L-frame single) - per aftermarket seller cross-reference",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPRL4BLDSCH (kit # LDS4BK) as a replacement ('Kit # LDS4BK replaces OEM KPRL4LDS'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "KPRL4LDS",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "OEM number known only from aftermarket seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bus hardware for PRL4B column panelboards in 24-36 in wide enclosures; mounts one L-frame breaker (600 A max)",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "inferred from aftermarket seller's description of its replacement",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00903",
+  "mfr": "EAT",
+  "brand_marking": "",
+  "oem_part_number": "PH6E3",
+  "title": "Cutler-Hammer PH panelboard twin breaker kit PH6E3 (FS/FH frame) - per aftermarket seller cross-reference",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-EAT-033"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPHECH (kit # PH6EK) as a replacement ('Kit # PH6EK replaces OEM PH6E3'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "PH6E3",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "OEM number known only from aftermarket seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bus connection hardware for obsolete Cutler-Hammer PH panelboards; mounts two FS/FH frame breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "inferred from aftermarket seller's description of its replacement",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00904",
+  "mfr": "EAT",
+  "brand_marking": "",
+  "oem_part_number": "PH6C3",
+  "title": "Cutler-Hammer PH panelboard twin breaker kit PH6C3 (CC frame) - per aftermarket seller cross-reference",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-EAT-033"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BPHCCH (kit # PH6CK) as a replacement ('Kit # PH6CK Replaces OEM PH6C3'), labelled 'EATON/Cutler Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "PH6C3",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "OEM number known only from aftermarket seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bus connection hardware for Cutler-Hammer PH panelboards; mounts two CC frame breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "inferred from aftermarket seller's description of its replacement",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00905",
+  "mfr": "EAT",
+  "brand_marking": "",
+  "oem_part_number": "KCDPFB150",
+  "title": "Westinghouse CDP breaker connector kit KCDPFB150 (FB/FD twin, 150 A) - per aftermarket seller cross-reference",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-EAT-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPFBCH (kit # FB1K) as a replacement ('Kit FB1K replaces OEM KCDPFB150'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "KCDPFB150",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "OEM number known only from aftermarket seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bus connection hardware for Westinghouse CDP panelboards; mounts two FB/FD breakers, 150 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "inferred from aftermarket seller's description of its replacement",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00477"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00906",
+  "mfr": "EAT",
+  "brand_marking": "",
+  "oem_part_number": "KCDPMA",
+  "title": "Westinghouse CDP breaker connector kit KCDPMA (MA/MC/MDL single) - per aftermarket seller cross-reference",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-EAT-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPMACH (kit # MA8K) as a replacement ('Kit MA8K replaces OEM KCDPMA'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "KCDPMA",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "OEM number known only from aftermarket seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bus connection hardware for Westinghouse CDP panelboards; mounts one MA, HMA, MC, MD, HMD, MDL frame breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "inferred from aftermarket seller's description of its replacement",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00477"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00907",
+  "mfr": "EAT",
+  "brand_marking": "",
+  "oem_part_number": "KCDPNB",
+  "title": "Westinghouse CDP breaker connector kit KCDPNB (NB/NC/ND single) - per aftermarket seller cross-reference",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-EAT-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPNBCH (kit # NB12K) as a replacement ('Kit NB12K replaces OEM KCDPNB'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "KCDPNB",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "OEM number known only from aftermarket seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bus connection hardware for Westinghouse CDP panelboards; mounts one NB, HNB, NC, ND, HND frame breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00477"
+     ],
+     "basis": "distributor",
+     "note": "inferred from aftermarket seller's description of its replacement",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00477"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00908",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "RACH24L125I",
+  "title": "Eaton CH retrofit stocking kit RACH24L125I",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-EAT-027"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RACH24L125I",
+     "conf": "C",
+     "src": [
+      "SRC-00479"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Eaton CH 3/4-inch Loadcenter Retrofit Stocking Kit, main lug only, 125 A, retro size group A, cover height 33 in, cover width 24 in, NEMA 1, CH, surface/flush, 24 circuits, single-phase, #4-2/0 AWG; distributor title 'CH Retrofit Kit Int Only'",
+     "conf": "C",
+     "src": [
+      "SRC-00479"
+     ],
+     "basis": "distributor",
+     "note": "distributor data (Eaton catalog text)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "Retrofit of existing (any-manufacturer) loadcenter/panel enclosure with new Eaton CH or BR interior ('retrofit stocking kit'); Eaton brochure: kits 'UL 67 Listed', 'Replaces vintage brands that have hard to find, expensive replacement breakers', select by measuring existing enclosure",
+     "conf": "C",
+     "src": [
+      "SRC-00479",
+      "SRC-00484"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Package/product 6.00 x 22.00 x 30.00 in; 13.2 lb",
+     "conf": "C",
+     "src": [
+      "SRC-00479"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "listing": [
+    {
+     "value": "Standard: UL 67",
+     "conf": "C",
+     "src": [
+      "SRC-00479"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "id_features": [
+    {
+     "value": "Suffix 'I' appears to denote interior-only version of the RxCH retrofit kits (cf. existing RACH24L125 etc.) - inference from distributor titles 'Int Only'",
+     "conf": "D",
+     "src": [
+      "SRC-00479"
+     ],
+     "basis": "inference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "bus material",
+   "install_doc",
+   "kit_contents"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00479",
+   "SRC-00484"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00909",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "RDCH42B200I",
+  "title": "Eaton CH retrofit stocking kit RDCH42B200I",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-EAT-027"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RDCH42B200I",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Eaton CH 3/4-inch Loadcenter Retrofit Stocking Kit, main circuit breaker 200 A, retro size group D, cover height 47 in, cover width 24 in, NEMA 1, 25 kAIC, CH, surface/flush, 42 circuits, single-phase, #1 AWG-300 kcmil; distributor title 'CH Retrofit Kit Int Only 1 PH 200A Main BKR 42 CKT'",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "note": "distributor data (Eaton catalog text)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "Retrofit of existing (any-manufacturer) loadcenter/panel enclosure with new Eaton CH or BR interior ('retrofit stocking kit'); Eaton brochure: kits 'UL 67 Listed', 'Replaces vintage brands that have hard to find, expensive replacement breakers', select by measuring existing enclosure",
+     "conf": "C",
+     "src": [
+      "SRC-00480",
+      "SRC-00484"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "id_features": [
+    {
+     "value": "Suffix 'I' appears to denote interior-only version of the RxCH retrofit kits (cf. existing RACH24L125 etc.) - inference from distributor titles 'Int Only'",
+     "conf": "D",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "inference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "bus material",
+   "install_doc",
+   "kit_contents"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00480",
+   "SRC-00484"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00910",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "RDCHFRAME",
+  "title": "Eaton CH retrofit stocking kit RDCHFRAME",
+  "component_type": "trim",
+  "family_ids": [
+   "FAM-EAT-027"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RDCHFRAME",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "CH Retrofit Kit Collar Only for RDCH style interior; retro size group D; 6 x 22 x 45 in; UL 67",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "note": "distributor data (Eaton catalog text)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "Retrofit of existing (any-manufacturer) loadcenter/panel enclosure with new Eaton CH or BR interior ('retrofit stocking kit'); Eaton brochure: kits 'UL 67 Listed', 'Replaces vintage brands that have hard to find, expensive replacement breakers', select by measuring existing enclosure",
+     "conf": "C",
+     "src": [
+      "SRC-00480",
+      "SRC-00484"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "bus material",
+   "install_doc",
+   "kit_contents"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00480",
+   "SRC-00484"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00911",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "RTBR12L125R",
+  "title": "Eaton BR retrofit stocking kit RTBR12L125R",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-EAT-027"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RTBR12L125R",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Eaton BR retrofit kit interior only, main lug only, 125 A, 12 circuits / 24 spaces, single-phase (Crescent: discontinued)",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "note": "distributor data (Eaton catalog text)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "Retrofit of existing (any-manufacturer) loadcenter/panel enclosure with new Eaton CH or BR interior ('retrofit stocking kit'); Eaton brochure: kits 'UL 67 Listed', 'Replaces vintage brands that have hard to find, expensive replacement breakers', select by measuring existing enclosure",
+     "conf": "C",
+     "src": [
+      "SRC-00480",
+      "SRC-00484"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (distributor)",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "bus material",
+   "install_doc",
+   "kit_contents"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00480",
+   "SRC-00484"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00912",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "RTBR12L125Q",
+  "title": "Eaton BR retrofit stocking kit RTBR12L125Q",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-EAT-027"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RTBR12L125Q",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Eaton BR retrofit kit interior only, main lug only, 125 A, 12 circuits / 24 spaces, single-phase",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "note": "distributor data (Eaton catalog text)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "Retrofit of existing (any-manufacturer) loadcenter/panel enclosure with new Eaton CH or BR interior ('retrofit stocking kit'); Eaton brochure: kits 'UL 67 Listed', 'Replaces vintage brands that have hard to find, expensive replacement breakers', select by measuring existing enclosure",
+     "conf": "C",
+     "src": [
+      "SRC-00480",
+      "SRC-00484"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "bus material",
+   "install_doc",
+   "kit_contents"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00480",
+   "SRC-00484"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00913",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "RTBR10B100Q",
+  "title": "Eaton BR retrofit stocking kit RTBR10B100Q",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-EAT-027"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RTBR10B100Q",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Eaton BR retrofit kit interior only, main circuit breaker 100 A, 10 circuits / 20 spaces, single-phase",
+     "conf": "C",
+     "src": [
+      "SRC-00480"
+     ],
+     "basis": "distributor",
+     "note": "distributor data (Eaton catalog text)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "Retrofit of existing (any-manufacturer) loadcenter/panel enclosure with new Eaton CH or BR interior ('retrofit stocking kit'); Eaton brochure: kits 'UL 67 Listed', 'Replaces vintage brands that have hard to find, expensive replacement breakers', select by measuring existing enclosure",
+     "conf": "C",
+     "src": [
+      "SRC-00480",
+      "SRC-00484"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "bus material",
+   "install_doc",
+   "kit_contents"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00480",
+   "SRC-00484"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00914",
+  "mfr": "EAT",
+  "brand_marking": "Eaton/Cutler-Hammer (per seller)",
+  "oem_part_number": "6554C02H01",
+  "title": "Deadfront filler blank 6554C02H01 for PRL4A (1X) - per seller listing",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "6554C02H01",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "number quoted in Breaker King description (style number format)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Deadfront filler blank, 1X 1.375 in H x 25 in W, for PRL4A panelboards; seller description also lists 'CH4FP1'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "1X 1.375 in H x 25 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BFP1CH, manufacturer field 'EATON/Cutler-Hammer' (genuine vs aftermarket not stated)",
+     "conf": "D",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "finish",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is CH4FP1 a Breaker King code or an Eaton catalog number?"
+  ],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00915",
+  "mfr": "EAT",
+  "brand_marking": "Eaton/Cutler-Hammer (per seller)",
+  "oem_part_number": "6554C02H02",
+  "title": "Deadfront filler blank 6554C02H02 for PRL4A (2X) - per seller listing",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "6554C02H02",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "number quoted in Breaker King description (style number format)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Deadfront filler blank, 2X 2-3/4 in H x 25 in W, for PRL4A panelboards; seller description also lists 'CH4FP2'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "2X 2-3/4 in H x 25 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BFP2CH, manufacturer field 'EATON/Cutler-Hammer' (genuine vs aftermarket not stated)",
+     "conf": "D",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "finish",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is CH4FP2 a Breaker King code or an Eaton catalog number?"
+  ],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00916",
+  "mfr": "EAT",
+  "brand_marking": "Eaton/Cutler-Hammer (per seller)",
+  "oem_part_number": "6554C02H03",
+  "title": "Deadfront filler blank 6554C02H03 for PRL4A (3X) - per seller listing",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "6554C02H03",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "number quoted in Breaker King description (style number format)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Deadfront filler blank, 3X 4-1/8 in H x 25 in W, for PRL4A panelboards; seller description also lists 'CH4FP3'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "3X 4-1/8 in H x 25 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BFP3CH, manufacturer field 'EATON/Cutler-Hammer' (genuine vs aftermarket not stated)",
+     "conf": "D",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "finish",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is CH4FP3 a Breaker King code or an Eaton catalog number?"
+  ],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00917",
+  "mfr": "EAT",
+  "brand_marking": "Eaton/Cutler-Hammer (per seller)",
+  "oem_part_number": "6554C01H01",
+  "title": "Deadfront filler blank 6554C01H01 for PRL4B narrow column (1X) - per seller listing",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "6554C01H01",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "number quoted in Breaker King description (style number format)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Deadfront filler blank, 1X 1.375 in H x 17 in W, for PRL4B narrow column panelboards; seller description also lists 'CH4BFP1'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "1X 1.375 in H x 17 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BFP1CH4B, manufacturer field 'EATON/Cutler-Hammer' (genuine vs aftermarket not stated)",
+     "conf": "D",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "finish",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is CH4BFP1 a Breaker King code or an Eaton catalog number?"
+  ],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00918",
+  "mfr": "EAT",
+  "brand_marking": "Eaton/Cutler-Hammer (per seller)",
+  "oem_part_number": "6554C01H02",
+  "title": "Deadfront filler blank 6554C01H02 for PRL4B narrow column (2X) - per seller listing",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "6554C01H02",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "number quoted in Breaker King description (style number format)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Deadfront filler blank, 2X 2-3/4 in H x 17 in W, for PRL4B narrow column panelboards; seller description also lists 'CH4BFP2'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "2X 2-3/4 in H x 17 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BFP2CH4B, manufacturer field 'EATON/Cutler-Hammer' (genuine vs aftermarket not stated)",
+     "conf": "D",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "finish",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is CH4BFP2 a Breaker King code or an Eaton catalog number?"
+  ],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00919",
+  "mfr": "EAT",
+  "brand_marking": "Eaton/Cutler-Hammer (per seller)",
+  "oem_part_number": "6554C01H03",
+  "title": "Deadfront filler blank 6554C01H03 for PRL4B narrow column (3X) - per seller listing",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "6554C01H03",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "note": "number quoted in Breaker King description (style number format)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Deadfront filler blank, 3X 4-1/8 in H x 17 in W, for PRL4B narrow column panelboards; seller description also lists 'CH4BFP3'",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "3X 4-1/8 in H x 17 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BFP3CH4B, manufacturer field 'EATON/Cutler-Hammer' (genuine vs aftermarket not stated)",
+     "conf": "D",
+     "src": [
+      "SRC-00473"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "finish",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is CH4BFP3 a Breaker King code or an Eaton catalog number?"
+  ],
+  "source_ids": [
+   "SRC-00473"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

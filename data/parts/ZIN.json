@@ -1865,6 +1865,16 @@
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "Aftermarket replacement bus kit by Connecticut Electric (UBI); retailer spec field reads 'Certification: UL Listed' and warranty 5 years; made in China. Customer reviews report bars a few inches too long (cut to fit) and UBIZ breakers sitting slightly longer than original Zinsco.",
+     "conf": "D",
+     "src": [
+      "SRC-00154"
+     ],
+     "basis": "distributor",
+     "note": "seller claim (listing field) + customer reviews; listing not verified with maker",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "status": [
@@ -1876,6 +1886,30 @@
      ],
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "2 copper-plated buss bars, lugs, screws, insulators",
+     "conf": "C",
+     "src": [
+      "SRC-00154"
+     ],
+     "basis": "distributor",
+     "note": "retailer listing",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "For Zinsco Type Q or Type R load centers (UBIZ breakers sold separately)",
+     "conf": "C",
+     "src": [
+      "SRC-00154"
+     ],
+     "basis": "distributor",
+     "note": "seller claim",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ]
   },
@@ -1889,11 +1923,12 @@
    "Exact UL/ETL listing scope of UBIZRBK12 when installed in original Zinsco enclosures"
   ],
   "source_ids": [
-   "SRC-00154",
-   "SRC-00151"
+   "SRC-00151",
+   "SRC-00154"
   ],
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

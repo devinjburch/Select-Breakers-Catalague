@@ -61605,7 +61605,8 @@
   "title": "Square D Q1B panelboard mounting kit for NQOB",
   "component_type": "breaker-mounting-kit",
   "family_ids": [
-   "FAM-SQD-011"
+   "FAM-SQD-011",
+   "FAM-SQD-012"
   ],
   "breaker_ids": [
    "BRK-SQD-040"
@@ -61620,6 +61621,15 @@
      ],
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Bus connection hardware for obsolete NA1B and NY1B panelboards, mounting one 3-pole breaker up to 100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00476"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "breaker_compat": [
@@ -61649,10 +61659,22 @@
      "value": "SK-5666",
      "conf": "C",
      "src": [
-      "SRC-00251"
+      "SRC-00251",
+      "SRC-00476"
      ],
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BSK5666; condition not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00476"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ]
   },
@@ -61666,10 +61688,12 @@
    "Relationship to SK5668 (stated by Schneider FAQ summaries as the correct NQOB branch kit)?"
   ],
   "source_ids": [
-   "SRC-00251"
+   "SRC-00251",
+   "SRC-00476"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -62124,6 +62148,18 @@
      "basis": "oem_web",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BSK4515 as a replacement ('Equal To - OEM # SK4515'), labelled 'Aftermarket'",
+     "conf": "C",
+     "src": [
+      "SRC-00476"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -62134,10 +62170,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00263"
+   "SRC-00263",
+   "SRC-00476"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -62210,6 +62248,18 @@
      "basis": "oem_web",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BSK4516 as a replacement ('Equal To - OEM # SK4516'), labelled 'Aftermarket'",
+     "conf": "C",
+     "src": [
+      "SRC-00476"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -62220,10 +62270,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00263"
+   "SRC-00263",
+   "SRC-00476"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -62296,6 +62348,18 @@
      "basis": "oem_web",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BSK4517 as a replacement ('Equal To - OEM # SK4517'), labelled 'Aftermarket'",
+     "conf": "C",
+     "src": [
+      "SRC-00476"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -62306,10 +62370,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00263"
+   "SRC-00263",
+   "SRC-00476"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -62382,6 +62448,18 @@
      "basis": "oem_web",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BSK4578 as a replacement ('Equal To - OEM # SK4578'), labelled 'Aftermarket'",
+     "conf": "C",
+     "src": [
+      "SRC-00476"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -62392,10 +62470,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00263"
+   "SRC-00263",
+   "SRC-00476"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -66222,6 +66302,368 @@
   ],
   "batches": [
    "B0011-docs-ge-squared"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00578",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "NQ418L1C14",
+  "title": "Square D NQ 14 in wide interior NQ418L1C14",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-015"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NQ418L1C14",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "NQ interior 14 in W, 18 circuits, 100 A, 3-phase (distributor title 'NQ 14IN 18CKT 100A 3')",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "note": "distributor title via search extract",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "14 in wide NQ interior; Square D directs retrofit enclosures under 17 in wide to 'RTI 14\"W NQ interiors' (custom trim). That these C14 catalog numbers are the RTI interiors is an inference from width only.",
+     "conf": "D",
+     "src": [
+      "SRC-00472",
+      "SRC-00467"
+     ],
+     "basis": "inference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is 'RTI' a distinct catalog suffix or simply the C14 (14 in) interiors?"
+  ],
+  "source_ids": [
+   "SRC-00472",
+   "SRC-00467"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00579",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "NQ430L1C14",
+  "title": "Square D NQ 14 in wide interior NQ430L1C14",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-015"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NQ430L1C14",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "NQ series panelboard interior 240 Vac/48 Vdc, 100 A, 30 spaces, 3-phase",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "note": "distributor title via search extract",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "14 in wide NQ interior; Square D directs retrofit enclosures under 17 in wide to 'RTI 14\"W NQ interiors' (custom trim). That these C14 catalog numbers are the RTI interiors is an inference from width only.",
+     "conf": "D",
+     "src": [
+      "SRC-00472",
+      "SRC-00467"
+     ],
+     "basis": "inference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "32 in H x 14 in W x 5-3/4 in D (Steiner)",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is 'RTI' a distinct catalog suffix or simply the C14 (14 in) interiors?"
+  ],
+  "source_ids": [
+   "SRC-00472",
+   "SRC-00467"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00580",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "NQ430L2C14",
+  "title": "Square D NQ 14 in wide interior NQ430L2C14",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-015"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NQ430L2C14",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "NQ 3-phase panelboard 240 Vac/48 Vdc, 225 A, 4-wire, copper, 14 in wide",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "note": "distributor title via search extract",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "14 in wide NQ interior; Square D directs retrofit enclosures under 17 in wide to 'RTI 14\"W NQ interiors' (custom trim). That these C14 catalog numbers are the RTI interiors is an inference from width only.",
+     "conf": "D",
+     "src": [
+      "SRC-00472",
+      "SRC-00467"
+     ],
+     "basis": "inference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is 'RTI' a distinct catalog suffix or simply the C14 (14 in) interiors?"
+  ],
+  "source_ids": [
+   "SRC-00472",
+   "SRC-00467"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00581",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "NQ442L2C14",
+  "title": "Square D NQ 14 in wide interior NQ442L2C14",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-015"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NQ442L2C14",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "NQ interior 14 in W, 42 circuits, 225 A, 3-phase, copper; SCCR 65,000/100,000 A",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "note": "distributor title via search extract",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "14 in wide NQ interior; Square D directs retrofit enclosures under 17 in wide to 'RTI 14\"W NQ interiors' (custom trim). That these C14 catalog numbers are the RTI interiors is an inference from width only.",
+     "conf": "D",
+     "src": [
+      "SRC-00472",
+      "SRC-00467"
+     ],
+     "basis": "inference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "14 in W x 5-3/4 in D x 38 in H (Standard Electric; Steiner width field 13.49 in)",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is 'RTI' a distinct catalog suffix or simply the C14 (14 in) interiors?"
+  ],
+  "source_ids": [
+   "SRC-00472",
+   "SRC-00467"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00582",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "NQ30L1C14GS",
+  "title": "Square D NQ 14 in wide interior NQ30L1C14GS",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-015"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NQ30L1C14GS",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "NQ interior 14 in W, 30 circuits, 100 A, 1-phase (distributor title 'NQ 14 30CKT 100A 1P')",
+     "conf": "C",
+     "src": [
+      "SRC-00472"
+     ],
+     "basis": "distributor",
+     "note": "distributor title via search extract",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "application": [
+    {
+     "value": "14 in wide NQ interior; Square D directs retrofit enclosures under 17 in wide to 'RTI 14\"W NQ interiors' (custom trim). That these C14 catalog numbers are the RTI interiors is an inference from width only.",
+     "conf": "D",
+     "src": [
+      "SRC-00472",
+      "SRC-00467"
+     ],
+     "basis": "inference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is 'RTI' a distinct catalog suffix or simply the C14 (14 in) interiors?"
+  ],
+  "source_ids": [
+   "SRC-00472",
+   "SRC-00467"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

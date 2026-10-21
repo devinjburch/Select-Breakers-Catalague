@@ -128,7 +128,8 @@
   "id": "SRC-00007",
   "mfr": "EAT",
   "batches": [
-   "B0001-eaton-prl-panelboards"
+   "B0001-eaton-prl-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "sha256": "b1bbc5ae087a58759103e7a5b70748f863683bb1fac042d465cb35f3b53d8b83",
   "bytes": 4775283
@@ -2297,7 +2298,8 @@
   "id": "SRC-00138",
   "mfr": "FPE",
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ]
  },
  {
@@ -2339,7 +2341,8 @@
   "id": "SRC-00141",
   "mfr": "SIE",
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ]
  },
  {
@@ -2381,7 +2384,8 @@
   "id": "SRC-00144",
   "mfr": "FPE",
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ]
  },
  {
@@ -2521,7 +2525,8 @@
   "id": "SRC-00154",
   "mfr": "ZIN",
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ]
  },
  {
@@ -4144,7 +4149,7 @@
   "title": "Eaton Bid Manager help - 'Panel Board Aftermarket' (PNLA) take-off help page",
   "publisher": "Eaton",
   "doc_number": null,
-  "date": null,
+  "date": "2010-06",
   "url": "https://bidmanager.eaton.com/BidManager/Help/Sales/en-US/TakeOff_Help_Files/PNLAHelp/PNLAHelp/PNLAHelp.htm",
   "type": "oem_web",
   "accessed": "2026-10-21",
@@ -4153,7 +4158,8 @@
   "id": "SRC-00248",
   "mfr": "EAT",
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ]
  },
  {
@@ -4217,7 +4223,8 @@
   "id": "SRC-00252",
   "mfr": "SIE",
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ]
  },
  {
@@ -8121,5 +8128,344 @@
   ],
   "sha256": "83aa5ac9f6ba1ca36f066c7e780d1e8fbed54b6af4aa31e6ffe4e9baf6ba6120",
   "bytes": 179252
+ },
+ {
+  "title": "UBI Replacement Bulk Circuit Breakers - Your Source for Replacement Circuit Breakers for Use in Federal Pacific, Pushmatic and Zinsco Load Centers",
+  "publisher": "Connecticut Electric",
+  "doc_number": "Rev. 4/05",
+  "date": "2005-04",
+  "url": "https://inspectapedia.com/fpe/FPE%20Replacement%20Breakers%20UBI%20CT%20Elec.pdf",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/FPE/FPE Replacement Breakers UBI CT Elec.pdf",
+  "notes": "Manufacturer (aftermarket maker) sell sheet, 2 pp, hosted by InspectAPedia. p.2 table 'Corresponds to' gives explicit seller cross-reference UBI catalog no. -> FPE/Pushmatic/Zinsco breaker series. Same sheet re-hosted by Elliott Electric as UBIF15N/UBIP120 'specification sheet'. Copyright 2004 Connecticut Electric.",
+  "id": "SRC-00462",
+  "mfr": "FPE",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "sha256": "8b72b73e73bfc1b756245383ccd096325d35dc032bd2bdd2165c3062d5f73626",
+  "bytes": 266189
+ },
+ {
+  "title": "UBIF15N - Replacement Circuit Breaker For Federal Pacific Electric Type NA (Thick) Breakers (product page)",
+  "publisher": "Elliott Electric Supply",
+  "url": "https://www.elliottelectric.com/P/Item/FPE/UBIF15N/",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "States 'Classified and approved for use in Federal Pacific load centers. ETL Listed. 10,000 AIC.'; Special features 'The only newly manufactured and Listed replacements available' (seller claim).",
+  "id": "SRC-00463",
+  "mfr": "FPE",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "UBIP120 - Replacement Circuit Breaker For Pushmatic Circuit Breakers (product page)",
+  "publisher": "Elliott Electric Supply",
+  "url": "https://www.elliottelectric.com/P/Item/FPE/UBIP120",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "States 'Classified for use in Pushmatic and Bulldog load centers. ETL Listed.'; 'Bolt-On for use in Pushmatic and Bulldog Load Centers'.",
+  "id": "SRC-00464",
+  "mfr": "OTH",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Product specifications - Eaton CL245 (Eaton Classified 3/4in thermal magnetic circuit breaker, Type CL 1-Inch classified replacement breaker)",
+  "publisher": "Eaton (via Elliott Electric Supply)",
+  "url": "https://www.elliottelectric.com/Media/CL245-ETN-1021-4-Attachment.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/CL245-ETN-1021-4-Attachment.pdf",
+  "notes": "Eaton-generated product spec sheet mirrored by distributor. Catalog notes: 'Replacement for Square D Homeline, GE Type THQ, Crouse-Hinds Type MP, Thomas and Betts Type TB, Murray Type MP, ITE/Siemens Type QP. Requires Two 1-inch (25.4 mm) spaces.' Certifications UL 489. Refers to brochure 5651B63SH09.",
+  "id": "SRC-00465",
+  "mfr": "EAT",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "sha256": "82c73065a2539e158f336b53cb61011e94b3e0c37cfe764463020f3af0e28262",
+  "bytes": 51853
+ },
+ {
+  "title": "Eaton CL circuit breaker for panel (featured article)",
+  "publisher": "Relectric",
+  "url": "https://www.relectric.com/featured/eaton-cl-circuit-breaker-for-panel/",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Secondary summary; references Eaton classified breaker brochure BR003034EN and whitepaper WP003005EN (eaton.com URLs, not reachable from container). Its 'quick reference chart' brand lists differ from Eaton spec sheet; treat as D.",
+  "id": "SRC-00466",
+  "mfr": "EAT",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA239605 - Retrofit form / custom trim for existing Schneider Electric or competitor enclosure with current-style NF or NQ interior",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA239605",
+  "url": "https://www.se.com/ca/en/faqs/FA239605",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "se.com returns HTTP 403 to container and WebFetch; content taken from search-engine extracts of the OEM page (quoted text). Re-verify directly.",
+  "id": "SRC-00467",
+  "mfr": "SQD",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA124771 - Existing box studs are not used in Square D Retrofit offering",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA124771",
+  "url": "https://www.se.com/ca/en/faqs/FA124771",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "403; content from search-engine extract.",
+  "id": "SRC-00468",
+  "mfr": "SQD",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA116402 - Panel interiors for existing back boxes (retrofit form to local sales office)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA116402",
+  "url": "https://www.se.com/ca/en/faqs/FA116402",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "403; content from search-engine extract.",
+  "id": "SRC-00469",
+  "mfr": "SQD",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA283569 - Square D does not offer QO or Homeline load center retrofit interiors",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA283569",
+  "url": "https://www.se.com/ca/en/faqs/FA283569",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "403; content from search-engine extract.",
+  "id": "SRC-00470",
+  "mfr": "SQD",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA339443 - Installing Square D equipment in other manufacturers' gear (UL listing / warranty may be voided)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA339443",
+  "url": "https://www.se.com/us/en/faqs/FA339443",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "403; content from search-engine extract.",
+  "id": "SRC-00471",
+  "mfr": "SQD",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Distributor listings for Square D NQ 14-inch-wide interiors (NQ418L1C14, NQ430L1C14, NQ430L2C14, NQ442L2C14, NQ30L1C14GS)",
+  "publisher": "Steiner Electric / Standard Electric Supply / Stoneway Electric",
+  "url": "https://steinerelectric.com/Catalog/Circuit-BreakersEV-Charging-And-Power-Distribution/Panelboards-And-Accessories/Panelboard-Interiors/Square-D-NQ442L2C14-NQ-14IN-42CKT-225A-3-652575",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Pages 403 to fetch; titles/dimensions from search-engine extracts. NQ442L2C14: 14 in W x 5-3/4 in D x 38 in H (Standard Electric); NQ430L1C14 32 x 14 x 5-3/4 in (Steiner).",
+  "id": "SRC-00472",
+  "mfr": "SQD",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Breaker King - Breaker Mounting Kits :: Cutler-Hammer/Eaton (category listing pages 1-3, 28 products)",
+  "publisher": "Breaker King",
+  "url": "https://www.breakerking.com/catalog/index.php?main_page=index&cPath=4_187_188",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Manufacturer field 'EATON/Cutler Aftermarket Repl'; text 'Kit # XX replaces OEM YY' or 'OEM Item KPRL4KDT Is Provided as PCS Brand Aftermarket Kit'.",
+  "id": "SRC-00473",
+  "mfr": "EAT",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Breaker King - Breaker Mounting Kits :: General Electric (category listing pages 1-5, 48 products)",
+  "publisher": "Breaker King",
+  "url": "https://www.breakerking.com/catalog/index.php?main_page=index&cPath=4_187_190",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "'GE/ABB Aftermarket Replacement' items with 'Kit # XX replaces OEM YY'; others list 'Kit OEM #' only (condition not stated); some 'Previously used'.",
+  "id": "SRC-00474",
+  "mfr": "GEA",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Breaker King - Breaker Mounting Kits :: Siemens/I-T-E (category listing pages 1-5, 43 products)",
+  "publisher": "Breaker King",
+  "url": "https://www.breakerking.com/catalog/index.php?main_page=index&cPath=4_187_191",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "'SIEMENS/I-T-E Aftermarket Repl' items with 'replaces OEM'; P1/P2 items list 'OEM P/N' only.",
+  "id": "SRC-00475",
+  "mfr": "SIE",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Breaker King - Breaker Mounting Kits :: Square D (category listing, 10 products)",
+  "publisher": "Breaker King",
+  "url": "https://www.breakerking.com/catalog/index.php?main_page=index&cPath=4_187_192",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "ML kits labelled aftermarket, 'Equal To - OEM # SK45xx'.",
+  "id": "SRC-00476",
+  "mfr": "SQD",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Breaker King - Breaker Mounting Kits :: Westinghouse (category listing pages 1-2, 15 products)",
+  "publisher": "Breaker King",
+  "url": "https://www.breakerking.com/catalog/index.php?main_page=index&cPath=4_187_193",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Westinghouse CDP kits 'Kit FB1K replaces OEM KCDPFB150' etc.; condition label not shown on listing.",
+  "id": "SRC-00477",
+  "mfr": "EAT",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Relectric - Breaker Parts & Accessories: Mounting Hardware (listing page 20; Industrial Electric Mfg items)",
+  "publisher": "Relectric",
+  "url": "https://www.relectric.com/circuit-breaker-parts-and-accessories/mounting-hardware?page=20",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Lists Industrial Electric Mfg Inc (IEM) CDP-type mounting kits for GE/Eaton breakers (CDPTEDT, CDPTHEDT, CDPFDZBRACKET); other IEM codes (CDPEDT, CDPSGS, CDPSGT, CDPKDT, CDPTJJS) seen on other pages via search extracts.",
+  "id": "SRC-00478",
+  "mfr": "GEA",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "RACH24L125I CH Retrofit Kit Int Only 1 PH 125A Main Lug Only (product data sheet)",
+  "publisher": "Eaton (via Elliott Electric Supply)",
+  "url": "https://www.elliottelectric.com/Media/RACH24L125I-CHD-1021-4-Attachment.pdf",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/RACH24L125I-CHD-1021-4-Attachment.pdf",
+  "notes": "Distributor data sheet with Eaton catalog text: 'Eaton CH 3/4-inch Loadcenter Retrofit Stocking Kit, Main lug only, 125 A, size group a, Cover height 33 in, Cover width 24 in, NEMA 1 ... 24 Circuits, Single-phase ... #4-2/0 AWG'; standard UL 67; dims 6 x 22 x 30 in; 13.2 lb.",
+  "id": "SRC-00479",
+  "mfr": "EAT",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "sha256": "4037e7d05418aaadee69e037b106e177b7c3c997dd366400c9eab2b784f456df",
+  "bytes": 62603
+ },
+ {
+  "title": "Distributor listings for Eaton CH/BR retrofit stocking kits RDCH42B200I, RDCHFRAME, RTBR12L125R, RTBR12L125Q, RTBR10B100Q",
+  "publisher": "Elliott Electric Supply / Crescent Electric",
+  "url": "https://elliottelectric.com/P/Item/CHD/RDCHFRAME",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Titles/specs via search-engine extracts (Crescent pages 403). RDCHFRAME 'CH Retrofit Kit Collar Only For RDCH Style Interior', retro size group D, 6 x 22 x 45 in, UL 67; RDCH42B200I 'Eaton CH 3/4-inch Loadcenter Retrofit Stocking Kit, Main circuit breaker, 200 A, Retro size group d, Cover height 47 in, Cover width 24 in, NEMA 1, 25 kAIC ... 42 Circuits ... #1 AWG-300 kcmil'; RTBR12L125R 'BR Retrofit Kit Interior Only, 125 A' (Crescent: Discontinued).",
+  "id": "SRC-00480",
+  "mfr": "EAT",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Tmax XT Retrofit Kits for Spectra Plug-in Panelboards and Switchboards / ABB eCatalog 'Spectra to Tmax XT Smart Cross Reference'",
+  "publisher": "ABB",
+  "url": "https://new.abb.com/low-voltage/service/service-for-low-voltage-products/tmax-xt-retrofit-kits-for-spectra-plug-in-panelboards-and-switchboards",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "HTTP 503 to WebFetch; content via search-engine extracts: kits 'allow legacy GE Spectra plug-in breakers installed in Spectra panelboards and switchboards to be upgraded' and customers 'can maintain the UL listing of their equipment without additional charges'. eCatalog entries pair breaker + kit, e.g. XT4VU3100BFF000XXX + SRFB6XT4FPX; XT4SQ3100EFF000XXX + SRFB3XT4FPX (Spectra SEL 100 A frame, rating plug SRPE100A80); XT4LU3225GFF000XXX + SRFB3XT4FPX (Spectra SGH 225 A).",
+  "id": "SRC-00481",
+  "mfr": "GEA",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Need leads for suppliers of obsolete breaker mounting kits (Mike Holt forum thread)",
+  "publisher": "Mike Holt Enterprises forum",
+  "url": "https://forums.mikeholt.com/threads/need-leads-for-suppliers-of-obsolete-breaker-mounting-kits.2580007",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "403; via search extract: Arrow-Hart panel kit needed; breakeroutlet.com said they could have a kit made but could not provide photos/drawings; Breaker King could not help.",
+  "id": "SRC-00482",
+  "mfr": "OTH",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA129258 - Bus bars in obsolete NEHB panelboard are not field replaceable items",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA129258",
+  "url": "https://www.se.com/us/en/faqs/FA129258",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "403; via search extract.",
+  "id": "SRC-00483",
+  "mfr": "SQD",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Eaton Retrofit Interior Kit (video) and retrofit interior kit brochure (USESI 295119)",
+  "publisher": "Eaton",
+  "url": "https://assets.usesi.com/product-media/brochures/USESI_295119_brochure.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Via search extract: kits 'designed and tested specifically for renovating an outdated electrical panel in an apartment, condominium, or a single family home'; 'UL 67 Listed'; 'Replaces vintage brands that have hard to find, expensive replacement breakers'; 'measure the existing panel enclosure to determine appropriate kits'. Video: https://videos.eaton.com/detail/video/6352598334112/retrofit-interior-kit",
+  "id": "SRC-00484",
+  "mfr": "EAT",
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ]
  }
 ]

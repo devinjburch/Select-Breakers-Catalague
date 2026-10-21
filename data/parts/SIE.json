@@ -1200,6 +1200,18 @@
      "note": "Same mounting family, sold with breaker installed; listed for reference",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BMBKQR3A ('OEM P/N MBKQR3A; P1-T one 3-pole QR/HQR main or subfeed'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -1216,10 +1228,12 @@
   ],
   "source_ids": [
    "SRC-00097",
-   "SRC-00101"
+   "SRC-00101",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -1643,6 +1657,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BMBKFD3A ('OEM P/N MBKFD3A; P1-T one 3-pole FD main or branch'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -1658,11 +1684,13 @@
   "source_ids": [
    "SRC-00097",
    "SRC-00101",
-   "SRC-00330"
+   "SRC-00330",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -7982,6 +8010,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BMBKBL3 ('OEM P/N MBKBL3; P1 one 3-pole BL/HBL main or branch'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -7997,10 +8037,12 @@
    "Revised P1 equivalents: is MBKBL3 the predecessor of MBKBL3A (now MBKVA41B)? Part-number pattern suggests so but SpeedFax states Revised P1 kits are not interchangeable with original P1."
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00097",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -8092,6 +8134,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BMBKBQ3 ('OEM P/N MBKBC3 (titled 'P1 BQD Hardware')'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -8107,10 +8161,12 @@
    "Revised P1 equivalents: is MBKBL3 the predecessor of MBKBL3A (now MBKVA41B)? Part-number pattern suggests so but SpeedFax states Revised P1 kits are not interchangeable with original P1."
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00097",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -8532,6 +8588,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BMBKED3 ('OEM P/N MBKED3; P1 one 3-pole ED main or branch'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -8547,10 +8615,12 @@
    "Revised P1 equivalents: is MBKBL3 the predecessor of MBKBL3A (now MBKVA41B)? Part-number pattern suggests so but SpeedFax states Revised P1 kits are not interchangeable with original P1."
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00097",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -9218,6 +9288,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BMBKJD1 ('OEM P/N MBKJD1; P1 one 2-pole JD main only'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -9233,10 +9315,12 @@
    "Revised P1 equivalents: is MBKBL3 the predecessor of MBKBL3A (now MBKVA41B)? Part-number pattern suggests so but SpeedFax states Revised P1 kits are not interchangeable with original P1."
   ],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00097",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -11914,6 +11998,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BP2FP3 ('3 in deadfront filler blank for P1/P2 (description lists DFFP3)'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -11927,11 +12023,13 @@
    "SRC-00097",
    "SRC-00106",
    "SRC-00319",
-   "SRC-00452"
+   "SRC-00452",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -12068,6 +12166,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BP2FP6 ('6 in deadfront filler blank for P1/P2 (description lists DFFP6)'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -12081,11 +12191,13 @@
    "SRC-00097",
    "SRC-00106",
    "SRC-00319",
-   "SRC-00453"
+   "SRC-00453",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -15759,6 +15871,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BP2BLBQDITE ('Kit # BBKB32; P2/P3 two BL or BQD'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -15775,11 +15899,13 @@
    "SRC-00102",
    "SRC-00106",
    "SRC-00319",
-   "SRC-00430"
+   "SRC-00430",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -16211,6 +16337,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BP2EDITE ('Kit # BBKED32; P2/P3 two ED2/ED4/ED6'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -16227,11 +16365,13 @@
    "SRC-00102",
    "SRC-00106",
    "SRC-00319",
-   "SRC-00431"
+   "SRC-00431",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -16414,6 +16554,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BP2NGBITE ('Kit # BBKNB32; P2/P3 two 2P/3P NGB'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -16430,11 +16582,13 @@
    "SRC-00102",
    "SRC-00106",
    "SRC-00319",
-   "SRC-00364"
+   "SRC-00364",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -16639,6 +16793,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BP2GBITE ('OEM P/N BBKGB32; P2/P3 six poles NGB/HGB/LGB twin'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -16655,11 +16821,13 @@
    "SRC-00102",
    "SRC-00106",
    "SRC-00319",
-   "SRC-00363"
+   "SRC-00363",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -17054,6 +17222,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BP2QRITE ('OEM P/N BBKQR1; P2 one QR/HQR single branch'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -17069,11 +17249,13 @@
    "SRC-00097",
    "SRC-00102",
    "SRC-00106",
-   "SRC-00366"
+   "SRC-00366",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -17375,6 +17557,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BP2QJITE ('Kit # BBKQ1; P2 one 2P/3P QJ'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -17391,10 +17585,12 @@
   "source_ids": [
    "SRC-00097",
    "SRC-00102",
-   "SRC-00106"
+   "SRC-00106",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -19358,6 +19554,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BBLITE ('Kit # SBL; six-pole BL frame, S4/P4/SPP'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -19371,11 +19579,13 @@
   "source_ids": [
    "SRC-00097",
    "SRC-00108",
-   "SRC-00428"
+   "SRC-00428",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -19889,6 +20099,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BEDSITE (kit # ED64K) as a replacement ('Replaces OEM SE6'), labelled 'SIEMENS Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -19902,10 +20124,12 @@
   "questions": [],
   "source_ids": [
    "SRC-00097",
-   "SRC-00106"
+   "SRC-00106",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -21169,6 +21393,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BFDSITE (kit # FD64K) as a replacement ('Replaces OEM SF6'), labelled 'SIEMENS Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -21180,11 +21416,13 @@
   "source_ids": [
    "SRC-00097",
    "SRC-00106",
-   "SRC-00435"
+   "SRC-00435",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -22056,6 +22294,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BJDSITE (kit # JD64K) as a replacement ('Replaces OEM SJ1'), labelled 'SIEMENS Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -22069,10 +22319,12 @@
   "questions": [],
   "source_ids": [
    "SRC-00097",
-   "SRC-00106"
+   "SRC-00106",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -23200,6 +23452,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BLDSITE ('Kit # SL6; one LD6 frame, S4/P4/SPP'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -23212,10 +23476,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00097"
+   "SRC-00097",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -24938,6 +25204,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BEDITE (kit # ED65K) as a replacement ('Kit # ED65K replaces OEM 6E62 and SE6D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -24952,10 +25230,12 @@
   "source_ids": [
    "SRC-00097",
    "SRC-00098",
-   "SRC-00106"
+   "SRC-00106",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -26119,6 +26399,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BFDITE (kit # FD65K) as a replacement ('Kit # FD65K replaces OEM 6F62 and SF6D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -26131,11 +26423,13 @@
    "SRC-00097",
    "SRC-00098",
    "SRC-00106",
-   "SRC-00440"
+   "SRC-00440",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -27343,6 +27637,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BJDSGLITE (kit # JDS65K) as a replacement ('Kit # JDS65K replaces OEM 6JJ61 and SJ1D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -27355,11 +27661,13 @@
    "SRC-00097",
    "SRC-00098",
    "SRC-00106",
-   "SRC-00429"
+   "SRC-00429",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -27557,6 +27865,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BJDITE (kit # JD65K) as a replacement ('Kit # JD65K replaces OEM 6JJ62 and SJ2D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -27569,11 +27889,13 @@
   "source_ids": [
    "SRC-00097",
    "SRC-00098",
-   "SRC-00352"
+   "SRC-00352",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -28572,6 +28894,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BLDITE (kit # LD65K) as a replacement ('Kit # LD65K replaces OEM 6LL61 and SL6D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -28583,11 +28917,13 @@
   "source_ids": [
    "SRC-00097",
    "SRC-00098",
-   "SRC-00429"
+   "SRC-00429",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -29658,6 +29994,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BLMDITE ('Kit # SLM1D; one LMD6 frame, 12-3/4 in deep enclosures (labelled aftermarket, no 'replaces' text)'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -29671,11 +30019,13 @@
    "SRC-00097",
    "SRC-00098",
    "SRC-00099",
-   "SRC-00342"
+   "SRC-00342",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -29838,6 +30188,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BMDITE (kit # ND65K) as a replacement ('Replaces OEM SMND'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -29851,10 +30213,12 @@
   "source_ids": [
    "SRC-00097",
    "SRC-00098",
-   "SRC-00099"
+   "SRC-00099",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -31765,6 +32129,7 @@
   "title": "6E62 connecting strap kit - ED2, ED4, ED6, HED4, HED6 (3.75in, twin)",
   "component_type": "branch-connector-kit",
   "family_ids": [
+   "FAM-SIE-008",
    "FAM-SIE-009",
    "FAM-SIE-010"
   ],
@@ -31962,6 +32327,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BEDITE (kit # ED65K) as a replacement ('Kit # ED65K replaces OEM 6E62 and SE6D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -31975,11 +32352,13 @@
   "source_ids": [
    "SRC-00098",
    "SRC-00099",
-   "SRC-00350"
+   "SRC-00350",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -31992,8 +32371,9 @@
   "title": "6QJ2 connecting strap kit - QJ2, QJH2, QJ2-H (5in, twin)",
   "component_type": "branch-connector-kit",
   "family_ids": [
-   "FAM-SIE-010",
-   "FAM-SIE-009"
+   "FAM-SIE-008",
+   "FAM-SIE-009",
+   "FAM-SIE-010"
   ],
   "breaker_ids": [
    "BRK-SIE-006"
@@ -32106,6 +32486,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BQJITE (kit # QJ65K) as a replacement ('Kit # QJ65K replaces OEM 6QJ2 and SQJD'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -32117,10 +32509,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00099"
+   "SRC-00099",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32133,6 +32527,7 @@
   "title": "6F62 connecting strap kit - FXD6, FD6, HFD6 (5in, twin)",
   "component_type": "branch-connector-kit",
   "family_ids": [
+   "FAM-SIE-008",
    "FAM-SIE-009",
    "FAM-SIE-010"
   ],
@@ -32330,6 +32725,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BFDITE (kit # FD65K) as a replacement ('Kit # FD65K replaces OEM 6F62 and SF6D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -32344,11 +32751,13 @@
    "SRC-00098",
    "SRC-00099",
    "SRC-00111",
-   "SRC-00351"
+   "SRC-00351",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32793,6 +33202,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BJDSGLITE (kit # JDS65K) as a replacement ('Kit # JDS65K replaces OEM 6JJ61 and SJ1D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -32802,11 +33223,13 @@
   "questions": [],
   "source_ids": [
    "SRC-00099",
-   "SRC-00429"
+   "SRC-00429",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32819,6 +33242,7 @@
   "title": "6JJ62 connecting strap kit - JXD2, JXD6, JD6, HJD6 double branch (8.75in, twin)",
   "component_type": "branch-connector-kit",
   "family_ids": [
+   "FAM-SIE-008",
    "FAM-SIE-009",
    "FAM-SIE-010"
   ],
@@ -33006,6 +33430,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BJDITE (kit # JD65K) as a replacement ('Kit # JD65K replaces OEM 6JJ62 and SJ2D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -33019,11 +33455,13 @@
   "source_ids": [
    "SRC-00098",
    "SRC-00099",
-   "SRC-00352"
+   "SRC-00352",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -33868,6 +34306,18 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BLDITE (kit # LD65K) as a replacement ('Kit # LD65K replaces OEM 6LL61 and SL6D'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -33878,11 +34328,13 @@
   "source_ids": [
    "SRC-00098",
    "SRC-00099",
-   "SRC-00429"
+   "SRC-00429",
+   "SRC-00475"
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -35652,6 +36104,18 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BFP1SE ('1X filler blank 1-1/4 in H x 19 in W for CDP6/S4/S5/P4/P5 (description lists 6FPB01 SFP01)'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -35667,10 +36131,12 @@
    "SRC-00097",
    "SRC-00098",
    "SRC-00099",
-   "SRC-00106"
+   "SRC-00106",
+   "SRC-00475"
   ],
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -48480,6 +48946,18 @@
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BFJITE (kit # FJ3K) as a replacement ('Kit # FJ3K. Replaces OEM 5FJ2'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -48492,10 +48970,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00251"
+   "SRC-00251",
+   "SRC-00475"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -48591,6 +49071,18 @@
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BJLITE (kit # JJ3K) as a replacement ('Kit # JJ3K. Replaces OEM 5JJ2'), condition not stated",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -48605,10 +49097,12 @@
    "Title says NAB/NHB panels but spec says FC20/VB - which ITE equipment?"
   ],
   "source_ids": [
-   "SRC-00251"
+   "SRC-00251",
+   "SRC-00475"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -53791,9 +54285,9 @@
   "title": "Switchboard/power panel branch kit for EB breakers, shallow (P4)",
   "component_type": "branch-connector-kit",
   "family_ids": [
-   "FAM-SIE-009",
    "FAM-SIE-007",
-   "FAM-SIE-008"
+   "FAM-SIE-008",
+   "FAM-SIE-009"
   ],
   "breaker_ids": [],
   "claims": {
@@ -53880,16 +54374,30 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BSEBP4 (kit # NEB64K) as a replacement ('Replaces OEM SEB'), labelled 'SIEMENS Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
   "unknowns": [],
   "questions": [],
   "source_ids": [
-   "SRC-00337"
+   "SRC-00337",
+   "SRC-00475"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -59781,6 +60289,253 @@
   ],
   "batches": [
    "B0010-docs-eaton-siemens"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00443",
+  "mfr": "SIE",
+  "brand_marking": "",
+  "oem_part_number": "SQJ",
+  "title": "Siemens S4/P4/SPP QJ2 twin connecting strap kit SQJ - per aftermarket seller cross-reference",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-007"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BQJSITE (kit # QJ64K) as a replacement ('Replaces OEM SQJ'), labelled 'SIEMENS Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SQJ",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "OEM number known only from aftermarket seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bus connection hardware for S4, P4, SPP (10 in deep); mounts two QJ2 frame breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "inferred from aftermarket seller's description of its replacement",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00475"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00444",
+  "mfr": "SIE",
+  "brand_marking": "",
+  "oem_part_number": "MBKQJ3",
+  "title": "Original P1 main/subfeed strap kit MBKQJ3 (3-pole QJ/HQJ) - per seller listing",
+  "component_type": "main-breaker-kit",
+  "family_ids": [
+   "FAM-SIE-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BMBKQJ3 ('OEM P/N MBKQJ3; P1 one 3-pole QJ/HQJ main or branch'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MBKQJ3",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "OEM P/N MBKQJ3; P1 one 3-pole QJ/HQJ main or branch",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller listing",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00475"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00445",
+  "mfr": "SIE",
+  "brand_marking": "",
+  "oem_part_number": "MBKQJ3A",
+  "title": "Revised P1 (P1-T) main/subfeed strap kit MBKQJ3A (3-pole QJ/HQJ) - per seller listing",
+  "component_type": "main-breaker-kit",
+  "family_ids": [
+   "FAM-SIE-001"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BMBKQJ3A ('OEM P/N MBKQJ3A; P1-T one 3-pole QJ/HQJ main or subfeed'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MBKQJ3A",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "OEM P/N MBKQJ3A; P1-T one 3-pole QJ/HQJ main or subfeed",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller listing",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00475"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00446",
+  "mfr": "SIE",
+  "brand_marking": "",
+  "oem_part_number": "SQJD",
+  "title": "Siemens S5/P5/SPP deep QJ2 twin connecting strap kit SQJD - per aftermarket seller cross-reference",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-008"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BQJITE (kit # QJ65K) as a replacement ('Kit # QJ65K replaces OEM 6QJ2 and SQJD'), labelled 'SIEMENS/I-T-E Aftermarket Repl'",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SQJD",
+     "conf": "C",
+     "src": [
+      "SRC-00475"
+     ],
+     "basis": "distributor",
+     "note": "OEM number known only from aftermarket seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "description",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00475"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

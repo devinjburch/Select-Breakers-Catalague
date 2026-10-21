@@ -1,0 +1,21 @@
+# Research log — B0016-aftermarket-retrofit
+
+* Date: 2026-10-21
+* Researcher: Claude Code research subagent (aftermarket / retrofit sweep)
+* Scope: OEM retrofit/replacement interiors and conversion kits for obsolete panelboards (Eaton P1R/P2R, CH/BR retrofit stocking kits, Eaton aftermarket retrofit program, Square D NQ/NF retrofit, ABB Spectra Tmax XT retrofit); third-party/aftermarket hardware (Breaker King/PCS kits, Superbreakers equivalents, IEM kits, Connecticut Electric UBI breakers and bus kit, Eaton CL classified breakers); published cross-references.
+* Merge stats: {'sources_new': 23, 'families_new': 2, 'breakers_new': 4, 'parts_new': 172, 'parts_updated': 132, 'leads_new': 8, 'docs_filed': 3, 'batch': 'B0016-aftermarket-retrofit'}
+
+## Narrative
+
+B0016 aftermarket/retrofit sweep (2026-10-21).
+FOUND / CAPTURED:
+- Connecticut Electric UBI sell sheet (Rev 4/05, downloaded): full cross-reference table, 58 UBI catalog numbers -> FPE NA/NC series, Pushmatic series, Zinsco Q/QC/QCAL/R/RC OEM numbers. Recorded as OTH parts (component_type other, breaker families bUBIF/bUBIP/bUBIZ) with Zinsco OEM numbers as 'equivalent' alt PNs (seller cross-reference, conf C). Listing wording quoted exactly: maker says 'Meet or exceed ANSI/UL 489' / 'conform to ANSI/UL 489, 9th Edition'; distributor says 'Classified and approved for use in Federal Pacific load centers. ETL Listed.' / 'Classified for use in Pushmatic and Bulldog load centers. ETL Listed.'
+- Breaker King (breakerking.com) mounting-kit categories (FPE, Cutler-Hammer/Eaton, GE, Siemens/ITE, Square D, Westinghouse; ~150 products reviewed): ~70 aftermarket kits with explicit 'Kit # X replaces OEM Y' / 'Equal To - OEM #' text, several labelled '(PCS) Aftermarket Assembly' or 'PCS Brand Aftermarket Kit'. Each recorded as an OTH part (brand Breaker King/PCS) with alt_part_numbers relation equivalent (conf C, seller cross-reference) plus an 'aftermarket' claim on the OEM part number record. Breaker King SKUs that merely resell OEM-numbered kits ('OEM P/N', no aftermarket label) recorded only as D-level sourcing notes on the OEM record.
+- Superbreakers 'Equivalent' kits KPRL4FD and NHB150PK (new, non-OEM per wording).
+- IEM (Industrial Electric Mfg) CDP-type kits for GE/Eaton breakers via Relectric.
+- Eaton OEM: Pow-R-Line 1R/2R retrofit section of CA08104001E (family-level claims; Eaton states P1R/P2R are 'the only panelboards in the market listed for use in retrofit applications in other manufacturers' enclosures'); Eaton Bid Manager 'Panelboard Aftermarket' guide (June 2010) - rules for CDP/FDP/MP40/MP100/PRL4/switchboard retrofit kits applied as A-level application claims to existing KFDP...R, KCDP<frame>, MP40 kit records; new CH/BR retrofit stocking kit numbers (RACH24L125I, RDCH42B200I, RDCHFRAME, RTBR...).
+- Square D: retrofit offering is custom trim + standard NQ/NF interior via retrofit form (FAQs FA239605/FA124771/FA116402/FA283569/FA339443), no QO/Homeline retrofit; se.com 403 so FAQ text taken from search-engine extracts (conf B, flagged). NQ 14 in (C14) interiors recorded; link to 'RTI 14 in' interiors is inference (D).
+- ABB: Spectra Tmax XT kit/breaker pairings from eCatalog (via search extract; site 503) added to SRFB6XT4FPX / SRFB3XT4FPX.
+- Eaton CL classified breakers: CL245 spec sheet (Eaton text, downloaded) gives classified-replacement brand list; recorded as breaker family.
+NOT FOUND / GAPS: Eaton classified compatibility chart (eaton.com unreachable); Siemens retrofit interior offering; ABB ReliaGear retrofit; Square D I-Line retrofit for competitor gear; identity of 'PCS'; Breaker Outlet and relectric have no own-brand reproduction lines evident (relectric = new/surplus/reconditioned OEM + IEM). No published filler-plate cross-reference between manufacturers found. Circuit Breaker Sales (owner of Federal Pacific Equipment / fpeparts.com) lists FPE panelboard kit families without part numbers or new/aftermarket status.
+RULES APPLIED: no equivalence or listing asserted beyond exact seller/OEM wording; all third-party compatibility <= C; seller claims noted 'seller claim' / 'seller cross-reference'. Downloaded: UBI sheet, CL245 spec, RACH24L125I data sheet (CA08104001E copy not kept: already in library as SRC-00007).

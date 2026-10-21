@@ -2981,9 +2981,9 @@
   "name": "Eaton / Cutler-Hammer Type CH and Type BR panelboard retrofit kits (reuse of existing box)",
   "code": "CH-BR-RETRO",
   "aliases": [
-   "Retro Size A-E",
+   "Lincoln Flex Center retrofit",
    "RA/RB/RC/RD/RE/RAA retrofit kits",
-   "Lincoln Flex Center retrofit"
+   "Retro Size A-E"
   ],
   "brand_markings": [
    "Cutler-Hammer",
@@ -3089,9 +3089,9 @@
    ]
   },
   "source_ids": [
+   "SRC-00148",
    "SRC-00162",
-   "SRC-00163",
-   "SRC-00148"
+   "SRC-00163"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -3101,9 +3101,9 @@
   "name": "Challenger distribution panelboards (PM4a / PM4b)",
   "code": "CHA-PM4",
   "aliases": [
+   "Challenger panelboard",
    "PM4a",
-   "PM4b",
-   "Challenger panelboard"
+   "PM4b"
   ],
   "brand_markings": [
    "Challenger"
@@ -3138,9 +3138,9 @@
    ]
   },
   "source_ids": [
-   "SRC-00166",
+   "SRC-00151",
    "SRC-00156",
-   "SRC-00151"
+   "SRC-00166"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -4002,17 +4002,23 @@
   "code": "PRL-RETRO",
   "aliases": [
    "P1R",
-   "P2R",
-   "P1RL",
    "P1RB",
-   "P2RL",
+   "P1RL",
+   "P2R",
    "P2RB",
+   "P2RL",
+   "PRL1R",
+   "PRL2R",
+   "Pow-R-Line 1R",
+   "Pow-R-Line 2R",
    "Pow-R-Line Retrofit"
   ],
   "brand_markings": [],
   "equipment_type": "panelboard",
   "overview": "Cutler-Hammer/Eaton (Canada) retrofit interiors for installation into existing panelboard enclosures; P1R 240 Vac max, P2R 347/600 Vac max. Mains: lugs (100/225/400 A), BAB (P1R) or GBH/GHB (P2R) 60-100 A, or E/F-frame 60-225 A.",
-  "overview_notes": [],
+  "overview_notes": [
+   "Eaton CA08104001E (Jan 2018) catalogs the Pow-R-Line 1R (240 Vac max; BAB/QBHW/QBGF/QBCAF branch breakers, 15-100 A bolt-on; mains BAB/QBHW 100 A or EHD/FDB/FD/HFD/FDC/ED/EDB/EDS/EDH/EDC 100-225 A; MLO 100-400 A) and Pow-R-Line 2R (480Y/277 Vac max; GHQ/GHB/GHB-HID/GHBGFEP/HGHB branch; mains GHB 100 A or FDB/FD/HFD/FDC 150-225 A; MLO 100-225 A) as factory-assembled interiors and trims custom-built to bolt into most any manufacturer's existing enclosure (4.50-6.00 in deep; optional brackets deeper; collar adapters shallower). UL and CSA labelled; Eaton states they are the only panelboards listed for retrofit use in other manufacturers' enclosures."
+  ],
   "claims": {
    "bus_joint_torque": [
     {
@@ -4038,6 +4044,16 @@
      "page": "IL01417001E pp.5-6; PUB50895 pp.6-7",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Existing mounting hardware may usually be removed; backpan may need attachment using at least one existing stud for grounding per local code. Trim/door attaches directly to deadfront assembly (no external trim-fastening hardware). Interior backpan or optional mounting plates fastened to back of existing enclosure with hardware provided.",
+     "conf": "A",
+     "src": [
+      "SRC-00007"
+     ],
+     "page": "pp. 22.6-2, 22.6-4",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "minimum_enclosure": [
@@ -4050,10 +4066,81 @@
      "page": "p. 2, Installation Criteria tables",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "CA08104001E Table 22.6-3/22.6-6 minimum enclosure (H x W x D in): MLO 100/225/400 A 18/30/42 ckt 21.00/27.00/34.00 x 14.00 x 4.50; BAB/QBHW (1R) or GHB (2R) 100 A main 21/27/34 x 14 x 4.5; F/E-frame main 18/30/42 ckt 30.00/36.00/42.00 x 14.00 x 4.50. (Differs from IL01417001E minimums, e.g. 14.25 in width - see existing claims.)",
+     "conf": "A",
+     "src": [
+      "SRC-00007"
+     ],
+     "page": "pp. 22.6-2, 22.6-4",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "listing": [
+    {
+     "value": "Panelboards are listed and marked with both UL and CSA labels; 'Pow-R-Line 1R and Pow-R-Line 2R Retrofit Panelboards are the only panelboards in the market listed for use in retrofit applications in other manufacturers' enclosures' (Eaton statement)",
+     "conf": "A",
+     "src": [
+      "SRC-00007"
+     ],
+     "page": "pp. 22.0 overview, 22.6-1, 22.6-3",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "box_range": [
+    {
+     "value": "Fits existing box depths 4.50-6.00 in (114.3-152.4 mm); optional mounting brackets if enclosure deeper than 6.00 in; shallower boxes may require special collar adapters. Order data required: existing box H, W, D, flange width F or FF, plaster-line offset E, and existing interior stud locations A, B, C.",
+     "conf": "A",
+     "src": [
+      "SRC-00007"
+     ],
+     "page": "pp. 22.6-2, 22.6-4",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "bus": [
+    {
+     "value": "Tin-plated aluminum standard, copper optional; integral neutral; ground bar and bonding conductor included; neutral/ground convertible left-right; insulated/isolated ground optional",
+     "conf": "A",
+     "src": [
+      "SRC-00007"
+     ],
+     "page": "pp. 22.6-2, 22.6-4",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "1R: 240 Vac max (3ph4w 208Y/120, 240/120 delta, 1ph3w 120/240, 1ph2w 120, 3ph3w 208/240). 2R: 480Y/277 Vac max plus the 1R services.",
+     "conf": "A",
+     "src": [
+      "SRC-00007"
+     ],
+     "page": "pp. 22.6-1, 22.6-3",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "short_circuit": [
+    {
+     "value": "240 Vac: 10 kA and 22 kA fully rated; 22-200 kA series rated",
+     "conf": "A",
+     "src": [
+      "SRC-00007"
+     ],
+     "page": "pp. 22.6-1, 22.6-3",
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ]
   },
   "source_ids": [
+   "SRC-00007",
    "SRC-00311",
    "SRC-00312"
   ],
@@ -4238,12 +4325,12 @@
   "name": "FPE BDP distribution panelboard (double-hole bus)",
   "code": "BDP",
   "aliases": [
-   "BDP panel board",
-   "BDP Spectra bolt-on (as listed by Superbreakers - likely erroneous)"
+   "BDP Spectra bolt-on (as listed by Superbreakers - likely erroneous)",
+   "BDP panel board"
   ],
   "brand_markings": [
-   "Federal Pacific",
-   "FPE"
+   "FPE",
+   "Federal Pacific"
   ],
   "equipment_type": "panelboard",
   "overview": "FPE BDP is a distribution panelboard with a 'double hole bus' (Superbreakers) using twin bus-connection kits KBDP1C-KBDP5C per breaker frame. Breaker King sells PCS aftermarket assemblies NEF3K/NEJ3K/NJL3K replacing KBDP1C/KBDP2C/KBDP4C. Superbreakers labels KBDP1C as 240 V 100 A for 'BDP Spectra Bolt-on' panelboards - the 'Spectra' wording appears to be a listing error (Spectra is a GE name).",
@@ -4396,17 +4483,17 @@
   "name": "FPE NA1B / NH1B lighting and appliance panelboards",
   "code": "NA1B",
   "aliases": [
-   "NAIB",
-   "NH1B",
-   "NHIB",
    "NA-type panel",
-   "NH-type panel",
    "NAB",
-   "NHB"
+   "NAIB",
+   "NH-type panel",
+   "NH1B",
+   "NHB",
+   "NHIB"
   ],
   "brand_markings": [
-   "Federal Pacific",
    "Federal Noark",
+   "Federal Pacific",
    "Stab-Lok"
   ],
   "equipment_type": "panelboard",
@@ -4571,21 +4658,21 @@
   "aliases": [
    "A Series",
    "A-Series II",
-   "AQ",
-   "AE",
-   "AS",
-   "AL",
    "AD",
    "AD Plus",
-   "AQF",
+   "AE",
    "AEF",
+   "AL",
+   "AQ",
+   "AQF",
+   "AS",
    "Pro-Stock"
   ],
   "brand_markings": [
+   "ABB",
    "GE",
-   "General Electric",
    "GE Industrial Solutions",
-   "ABB"
+   "General Electric"
   ],
   "equipment_type": "panelboard",
   "overview": "GE's lighting/appliance panelboard platform. Symmetrical 20 in wide x 5.81 in deep galvanized boxes with removable endwalls, branch-bus direct connection and captive branch hardware. Type letter indicates breaker family: AL = plug-in Q-line, AQ = bolt-on Q-line (THQB), AE = bolt-on E-frame (TEY) 480Y/277 V, AD = 600 V TED/SE/FB. Pro-Stock unassembled interiors (AQU/AEU) are completed with MB main breaker kits, ML main lug kits and NK neutral kits. Pages in the 2014 BuyLog are headed 'A-Series II' on the column-panel kit page.",
@@ -5442,18 +5529,18 @@
   "name": "GE / Trumbull NLAB, NLTQ, NLTQX and DB lighting panelboards (TQ / TQL / TQC / TQB breakers)",
   "code": "NLAB",
   "aliases": [
+   "DB",
+   "GE NLAB",
    "NLAB",
-   "NTQ",
    "NLTQ",
    "NLTQX",
-   "DB",
+   "NTQ",
    "TQLA",
-   "TQLP",
-   "GE NLAB"
+   "TQLP"
   ],
   "brand_markings": [
-   "General Electric",
    "G-E",
+   "General Electric",
    "Trumbull"
   ],
   "equipment_type": "panelboard",
@@ -5595,12 +5682,12 @@
    ]
   },
   "source_ids": [
+   "SRC-00244",
+   "SRC-00257",
    "SRC-00259",
    "SRC-00260",
-   "SRC-00244",
-   "SRC-00268",
-   "SRC-00257",
-   "SRC-00261"
+   "SRC-00261",
+   "SRC-00268"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
  },
@@ -5871,6 +5958,41 @@
    "SRC-00173"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
+ },
+ {
+  "id": "FAM-OTH-005",
+  "mfr": "OTH",
+  "name": "Industrial Electric Mfg (IEM) CDP-type distribution panelboards / switchboard distribution sections",
+  "code": "IEM-CDP",
+  "aliases": [
+   "IEM CDP",
+   "Industrial Electric Mfg CDP"
+  ],
+  "brand_markings": [
+   "IEM",
+   "Industrial Electric Mfg Inc"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Independent switchboard/panelboard builder (Industrial Electric Mfg Inc, IEM) whose 'CDP Type' distribution sections accept other manufacturers' molded-case breakers (GE TED/THED/SG/TJJ, Eaton ED/FD/KD) via IEM-made mounting hardware kits; kits resold (often reconditioned) by Relectric. Included here as a third-party (non-breaker-OEM) source of mounting hardware.",
+  "overview_notes": [],
+  "claims": {
+   "breaker_compat": [
+    {
+     "value": "IEM CDP kit codes seen: CDPEDT (ED twin), CDPTEDT (TED twin), CDPTHEDT (THED twin), CDPSGS (SG 400 A single), CDPSGT (SG twin), CDPKDT (KD twin), CDPTJJS (TJJ single), CDPFDZBRACKET (Z bracket FD/HFD)",
+     "conf": "C",
+     "src": [
+      "SRC-00478"
+     ],
+     "basis": "distributor",
+     "note": "seller listing",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00478"
+  ],
+  "created_batch": "B0016-aftermarket-retrofit"
  },
  {
   "id": "FAM-SIE-001",
@@ -6505,19 +6627,19 @@
   "name": "Bulldog / ITE Pushmatic panelboards and Electri-Centers (incl. 3-phase versions)",
   "code": "PUSHMATIC",
   "aliases": [
-   "Pushmatic",
    "Bulldog Pushmatic",
+   "Electra-Center",
    "Electri-Center",
-   "Electra-Center"
+   "Pushmatic"
   ],
   "brand_markings": [
-   "Bulldog",
    "Bull Dog",
-   "Pushmatic",
-   "ITE Pushmatic",
+   "Bulldog",
+   "Electri-Center",
    "Gould ITE",
-   "Siemens",
-   "Electri-Center"
+   "ITE Pushmatic",
+   "Pushmatic",
+   "Siemens"
   ],
   "equipment_type": "panelboard",
   "overview": "Bulldog Pushmatic panels use push-button (not toggle) bolt-on breakers, grease-lubricated mechanisms reported to stiffen if not exercised, thermal plus (in at least some versions) magnetic trip. Brand passed to ITE/Gould and then Siemens. Replacement 1-2 pole breakers exist (Connecticut Electric UBIP); 3-phase Pushmatic panelboards exist but replacement 3-pole breakers are scarce. Condensed-space P1515 dual breakers do not fit older ITE Pushmatic panels.",
@@ -6587,10 +6709,10 @@
    ]
   },
   "source_ids": [
-   "SRC-00170",
-   "SRC-00176",
+   "SRC-00155",
    "SRC-00159",
-   "SRC-00155"
+   "SRC-00170",
+   "SRC-00176"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
  },
@@ -7422,13 +7544,13 @@
   "name": "NQ panelboard (Class 1640)",
   "code": "NQ",
   "aliases": [
-   "NQ lighting panelboard",
    "NQ RTI",
+   "NQ lighting panelboard",
    "NQ14 (14-inch-wide)"
   ],
   "brand_markings": [
-   "Square D",
-   "Schneider Electric"
+   "Schneider Electric",
+   "Square D"
   ],
   "equipment_type": "panelboard",
   "overview": "Current Square D 240 Vac / 48 Vdc lighting and appliance panelboard, 20 in. wide MH box (14 in. NQ14 variant), merchandised as ready-to-install (RTI) interiors plus field-installable kits (main breaker adapter kits NQMB*, sub-feed/feed-through lug kits, neutral kits, rail/deadfront extensions). Accepts QO plug-on and QOB bolt-on branch breakers; tandem breakers not allowed. Mains 100-600 A main lug or main breaker (QOB/QOB-VH back-fed, PowerPacT Q/H/J vertical, LA/LH, PowerPacT L).",
@@ -7497,10 +7619,10 @@
   },
   "source_ids": [
    "SRC-00177",
-   "SRC-00179",
-   "SRC-00236",
    "SRC-00178",
-   "SRC-00182"
+   "SRC-00179",
+   "SRC-00182",
+   "SRC-00236"
   ],
   "created_batch": "B0003-squared-panelboards"
  },
@@ -8387,27 +8509,118 @@
   "created_batch": "B0012-archival-legacy-panelboards"
  },
  {
+  "id": "FAM-SQD-015",
+  "mfr": "SQD",
+  "name": "Square D NQ / NF retrofit (custom trim + current interior into existing enclosure)",
+  "code": "SQD-NQNF-RETRO",
+  "aliases": [
+   "Square D Retrofit offering",
+   "RTI 14in NQ interior",
+   "NQ/NF retrofit form"
+  ],
+  "brand_markings": [
+   "Square D",
+   "Schneider Electric"
+  ],
+  "equipment_type": "other",
+  "overview": "Schneider Electric (Square D) offers, through a retrofit form submitted via distributor to the local sales office (panel TAG group feasibility review), a custom trim built to fit an existing Schneider or competitor enclosure combined with a standard current-style NQ or NF interior. Enclosures 17 in wide and above take the standard 20 in W NQ/NF interior; narrower ones take the 'RTI' 14 in W NQ interior. NEMA 1 only (no N3R). Existing box studs are not used; the contractor centres the interior, shims as needed and fastens the mounting rails to the box back wall by any means. Square D does not offer QO/Homeline load center retrofit interiors.",
+  "overview_notes": [],
+  "claims": {
+   "box_range": [
+    {
+     "value": "Enclosures >=17 in W: standard 20 in W NQ and NF interiors; enclosures <17 in W: 'RTI 14\"W NQ interiors'; an NQ or NF panel can be up to 3 in longer than the existing enclosure; NEMA 1 applications only, not available for N3R",
+     "conf": "B",
+     "src": [
+      "SRC-00467"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM FAQ text read via search-engine extract (se.com 403); upgrade to A once page is read directly",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Existing box studs are not used in Square D Retrofit offering; contractor attaches interior mounting rails to back wall of existing box with any fastening means; contractor must centre interior and may need to shim to correct elevation",
+     "conf": "B",
+     "src": [
+      "SRC-00468",
+      "SRC-00467"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM FAQ via search extract",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "ordering": [
+    {
+     "value": "Retrofit form completed and submitted to distributor -> local sales office for price, availability and feasibility from the panel TAG group; trim modified to fit existing box where possible, interior stays standard",
+     "conf": "B",
+     "src": [
+      "SRC-00467",
+      "SRC-00469"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM FAQ via search extract",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "listing": [
+    {
+     "value": "Square D equipment is generally not approved for installation in other manufacturers' gear; Schneider Services can perform a retrofit but UL listings may be voided and the warranty as well unless otherwise specified (US FAQ FA339443). Canadian FAQs describe the custom-trim retrofit offering without a listing statement.",
+     "conf": "B",
+     "src": [
+      "SRC-00471",
+      "SRC-00467"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM FAQ via search extract; regional answers differ",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "exclusions": [
+    {
+     "value": "Square D does not offer QO or Homeline load center retrofit interiors for old QO/Homeline load centers or for other manufacturers' existing boxes",
+     "conf": "B",
+     "src": [
+      "SRC-00470"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM FAQ via search extract",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00467",
+   "SRC-00468",
+   "SRC-00469",
+   "SRC-00470",
+   "SRC-00471"
+  ],
+  "created_batch": "B0016-aftermarket-retrofit"
+ },
+ {
   "id": "FAM-ZIN-001",
   "mfr": "ZIN",
   "name": "Zinsco / Sylvania Q-type plug-in panels and lighting panelboards (Magnatrip)",
   "code": "ZIN-Q",
   "aliases": [
-   "Magnatrip",
    "ML12",
    "MLB20",
    "MOB20",
-   "MTMB20",
    "MT12MBB",
+   "MTMB20",
+   "Magnatrip",
    "Q-frame"
   ],
   "brand_markings": [
-   "Zinsco",
+   "Challenger (Zinsco-frame)",
+   "GTE Sylvania Zinsco",
+   "GTE-Sylvania",
+   "Kearney (look-alike)",
    "Magnatrip",
    "Sylvania",
-   "GTE-Sylvania",
-   "GTE Sylvania Zinsco",
-   "Challenger (Zinsco-frame)",
-   "Kearney (look-alike)"
+   "Zinsco"
   ],
   "equipment_type": "panelboard",
   "overview": "Zinsco (and Sylvania-labelled) panels use breakers with deep slots that clip onto flat on-edge bus bars; plug-in Q/QC/R38 branch breakers and QFP/QFL/QFB main breakers. Commercial versions with 3-phase 240 V and bolt-on QB/QCB breakers exist (QB243040 'for obsolete Zinsco commercial and industrial panelboards'). Known failure mode: loosened breaker-bus contact on aluminium bus causing arcing/fusing. Aftermarket: Connecticut Electric UBIZ breakers (10 kAIC) and UBIZRBK12 125 A replacement bus kit.",

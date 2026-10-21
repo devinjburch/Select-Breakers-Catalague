@@ -1,28 +1,28 @@
 {
  "counters": {
-  "SRC": 461,
+  "SRC": 484,
   "FAM-EAT": 41,
-  "BRK-EAT": 67,
-  "EDH-EAT": 901,
-  "LEAD": 122,
-  "FAM-SQD": 14,
+  "BRK-EAT": 68,
+  "EDH-EAT": 919,
+  "LEAD": 130,
+  "FAM-SQD": 15,
   "BRK-SQD": 43,
-  "EDH-SQD": 577,
+  "EDH-SQD": 582,
   "FAM-GEA": 12,
   "BRK-GEA": 31,
-  "EDH-GEA": 610,
+  "EDH-GEA": 612,
   "FAM-SIE": 14,
   "BRK-SIE": 33,
-  "EDH-SIE": 442,
+  "EDH-SIE": 446,
   "FAM-FPE": 7,
   "FAM-ZIN": 2,
-  "FAM-OTH": 4,
+  "FAM-OTH": 5,
   "BRK-FPE": 9,
   "BRK-ZIN": 3,
-  "BRK-OTH": 1,
+  "BRK-OTH": 4,
   "EDH-FPE": 43,
   "EDH-ZIN": 25,
-  "EDH-OTH": 1
+  "EDH-OTH": 144
  },
  "batches": [
   {
@@ -215,6 +215,22 @@
     "leads_new": 7,
     "docs_filed": 151,
     "batch": "B0010-docs-eaton-siemens"
+   }
+  },
+  {
+   "batch_id": "B0016-aftermarket-retrofit",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0016-aftermarket-retrofit.json",
+   "stats": {
+    "sources_new": 23,
+    "families_new": 2,
+    "breakers_new": 4,
+    "parts_new": 172,
+    "parts_updated": 132,
+    "leads_new": 8,
+    "docs_filed": 3,
+    "batch": "B0016-aftermarket-retrofit"
    }
   }
  ],

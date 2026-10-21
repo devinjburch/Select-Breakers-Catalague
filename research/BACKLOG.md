@@ -87,6 +87,13 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0120 — Siemens instruction-sheet bucket (remaining sheets)** (B0010-docs-eaton-siemens)  
   Public S3 bucket dcc-data-extract 'Compas/Instruction Sheet Quick Guide' holds ~1,290 Siemens SIE_IS_* sheets; this batch processed panelboard/switchboard kit sheets only. Not yet processed: MCCB terminal/lug kits (TA*/TC* lug sheets, e.g. SIE_IS_JD-LD_Distribution-Lug, SIE_IS_FD_Compression-Lug), Vacu-Break/HCP switch kits, PowerMod/meter-stack kits (reppartsspdfax: GMBC1/2, MMCVR1, MMBMT1, MMSCK1, MMPK11/13), MG1/SMND/NG1D image sheets, F672/F6162D fusible kits.  
   URLs: https://s3.amazonaws.com/dcc-data-extract?list-type=2&prefix=new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS
+* **LEAD-0123 — Eaton classified breaker compatibility chart / brochure BR003034EN and whitepaper WP003005EN** (B0016-aftermarket-retrofit)  
+  Eaton CL/CLCAF/CLGF/CLDF classified breakers: obtain the official load-centre catalog-number compatibility chart (eaton.com unreachable from container). Needed for an authoritative classified cross-reference table.  
+  Docs: BR003034EN, WP003005EN, 5651B63SH09  
+  URLs: https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/circuit-breakers/classified-circuit-breakers/eaton-classified-breaker-brochure-br003034en.pdf
+* **LEAD-0124 — Identify 'PCS' maker of Breaker King aftermarket panelboard kits** (B0016-aftermarket-retrofit)  
+  Breaker King labels many kits '(PCS) Aftermarket Assembly' / 'Provided as PCS Brand Aftermarket Kit' with PCS kit numbers (NEF1K, FD3K, ED4K, SED1K, ED65K ...). Identify PCS, obtain drawings/material specs and any test/listing basis. Remaining Breaker King pages not captured: Westinghouse page 1 items BCDPFW/BCDPJW/BCDPKW/BCDPKLW (no OEM xref), GE A-Series II 'unspecified/specified space' kits (BASPP...) without OEM xref.  
+  URLs: https://www.breakerking.com/catalog/index.php?main_page=index&cPath=4_187
 
 ## Priority 2
 
@@ -245,6 +252,16 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0122 — Eaton cooperindustries.com mirror** (B0010-docs-eaton-siemens)  
   cooperindustries.com mirrors eaton.com DAM and skuPage URLs (www.eaton.com times out from container). Use it for Eaton switchboard ILs (e.g. Pow-R-Line C/i branch device instructions, IL 29C101H breaker leaflets) and for current RP01400001E.  
   URLs: http://cooperindustries.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/pow-r-line-switchboard-manual-im01500001e.pdf
+* **LEAD-0125 — ABB Spectra to Tmax XT smart cross-reference and plug-in (APN) retrofit kits** (B0016-aftermarket-retrofit)  
+  new.abb.com page 'Tmax XT Retrofit Kits for Spectra Plug-in Panelboards and Switchboards' and empower.abb.com eCatalog returned 503. Capture full kit list for plug-in Spectra (APN) and the frame/rating-plug cross-reference table.  
+  URLs: https://new.abb.com/low-voltage/service/service-for-low-voltage-products/tmax-xt-retrofit-kits-for-spectra-plug-in-panelboards-and-switchboards https://empower.abb.com/ecatalog/ec/EN_NA/p/Tmax27402
+* **LEAD-0126 — Schneider Electric retrofit FAQs and retrofit form (se.com 403)** (B0016-aftermarket-retrofit)  
+  Read FA239605, FA124771, FA116402, FA283569, FA339443, FA129258 directly and obtain the Square D retrofit form; confirm whether 'RTI' 14 in NQ interiors have distinct catalog numbers and whether I-Line retrofit for competitor switchboards is offered.  
+  Docs: FA239605, FA124771, FA116402, FA283569, FA339443, FA129258  
+  URLs: https://www.se.com/ca/en/faqs/FA239605
+* **LEAD-0127 — Connecticut Electric current UBI catalog (post-2005) incl. bolt-on UBIF...NB, UBIFPE NE-frame, 3-pole UBIF3xxN** (B0016-aftermarket-retrofit)  
+  2005 sheet lists only plug-in NA/NC, Pushmatic and Zinsco Q/QC/R/RC. Resellers cite UBIF340N, UBIF380NB, UBIFPE1003 and BRK-FPE-001 alias 'UBIF...NB'. Obtain current catalog and listing/classification documents (ETL file numbers).  
+  URLs: https://www.connecticut-electric.com
 
 ## Priority 3
 
@@ -370,6 +387,12 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Docs: 3A1064, E3A1064
 * **LEAD-0119 — KPRL3A* '140A max' vs RP01400001E 100 A** (B0010-docs-eaton-siemens)  
   Eaton web SKU pages state 'Amperage Rating 140A max' for KPRL3ABA*/KPRL3AGB*/KPRL3AFD* while catalogue holds RP01400001E-derived 100 A/150 A device limits. Resolve with kit label/IL.
+* **LEAD-0128 — Siemens / ABB ReliaGear retrofit interior offerings** (B0016-aftermarket-retrofit)  
+  No Siemens retrofit interior (P1 into existing box) or ABB ReliaGear retrofit interior found; only Siemens unassembled P1 interiors and IMK1 interior mounting kit. Ask Siemens/ABB or search Siemens SPEEDFAX for 'retrofit'.  
+  URLs: https://steinerelectric.com/Catalog/Circuit-BreakersEV-Charging-And-Power-Distribution/Panelboards-And-Accessories/Panelboard-Mounting-Accessories/Siemens-IMK1-Interior-Mounting-KitFor-Use-With-P1-P2-P3-Panelboards-314082
+* **LEAD-0129 — Eaton CH/BR retrofit stocking kit complete catalog (I-suffix interiors, RxCHFRAME collars, RTBR series)** (B0016-aftermarket-retrofit)  
+  New numbers RACH24L125I, RDCH42B200I, RDCHFRAME, RTBR12L125R/Q, RTBR10B100Q seen at distributors; need Eaton list price/catalog page for full series and meaning of I/Q/R/K suffixes (automa.net lists RACH24L125K).  
+  URLs: https://elliottelectric.com/P/Item/CHD/RDCHFRAME https://automa.net/eaton/rach24l125k
 
 ## Priority 4
 
@@ -396,4 +419,7 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0106 — Westinghouse NOFUZE catalog B-series (1946) page B62 and bulletin B-3714** (B0012-archival-legacy-panelboards)  
   The 1946 ECM insert reproduces Westinghouse catalog pages (B62); the full Westinghouse 'Electrical Contracting' catalog insert may list NLAB/NMM part numbers.  
   URLs: https://archive.org/details/sim_ecm_1946-09_45
+* **LEAD-0130 — Custom/reproduction mounting kit fabricators (Breaker Outlet, IEM, others)** (B0016-aftermarket-retrofit)  
+  Forum: breakeroutlet.com offered to have an Arrow-Hart kit made but would not supply drawings. IEM (Industrial Electric Mfg) makes CDP-type kits for GE/Eaton breakers. Survey fabricators and what evidence (drawings, testing) they provide.  
+  URLs: https://forums.mikeholt.com/threads/need-leads-for-suppliers-of-obsolete-breaker-mounting-kits.2580007 https://www.relectric.com/circuit-breaker-parts-and-accessories/mounting-hardware?page=20
 

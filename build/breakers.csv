@@ -66,6 +66,7 @@ BRK-EAT-064,EAT,Westinghouse Quicklag (QC / QL / QP) lighting breakers,Quicklag;
 BRK-EAT-065,EAT,"Westinghouse AB De-ion molded case breakers (E, F, G, J, K, KL, L, M frames)",AB De-ion; E frame; EB; EHB,,,,15-800 A (CDP 1957),Up to 600 V AC / 250 V DC,,CDP; NAB; MP40; NFB
 BRK-EAT-066,EAT,Cutler-Hammer CH / CHB,CH; CHB,"CH plug-on, CHB bolt-on",,,,,Current product (still used in PRL1a / PRL3a),CHP/CHB; PB; PH
 BRK-EAT-067,EAT,Cutler-Hammer CC / CCH / CHH,CC; CCH; CHH,,,,,,CC and CHH still listed as new breakers for PRL3a/PRL4B/PRL5P; CCH has no direct new breaker in the charts,MP40; PH; EE; EP; NFB
+BRK-EAT-068,EAT,Eaton Type CL classified replacement breakers,CL; CLCAF; CLGF; CLDF; Type CL 1-Inch classified replacement breaker,1 in plug-on classified replacement breaker,,,,,,
 BRK-FPE-001,FPE,NB (Stab-Lok bolt-on),NB Stab-Lok; UBIF...NB (Connecticut Electric replacement),bolt-on (NBLP panelboards),,,"15-100 A (e.g., NB100 2P 100 A)",120/240 VAC,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,NBLP
 BRK-FPE-002,FPE,NA / NC (Stab-Lok plug-in),"NA (thick, 1 in/pole); NC (thin); Stab-Lok",plug-in Stab-Lok,,,15-100 A,120/240 VAC,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,NA1B
 BRK-FPE-003,FPE,NE / NEF / NEG / HEF / HEG (N-frame 100 A class),"NE; NEF; NEG; HEF; HEG; NES (stab); NEF4.., NEF6..",bolt-on; NES variants stab-type,NE frame (same physical size for NE/NEF per JRL Electric explainer),,15-100 A,NE: 240 VAC/250 VDC; NEF: 480 VAC (2-3P) / 277 V (1P); HEF/HEG: 600 VAC,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,CDP; BDP; NDP; NA1B
@@ -107,6 +108,9 @@ BRK-GEA-029,GEA,GE TQ / TQL / TQC / TQB / TBQ lighting breakers,TQ; TQL; TQC; TQ
 BRK-GEA-030,GEA,GE / Trumbull Type AT and ATB breakers,AT; ATB,,,,"AT 15-50 A branch in NAB/ABH; mains 50 A AT, 100 A ATB, 200 A AT in NLAB",,,NHB; NLAB
 BRK-GEA-031,GEA,GE TB1 / TB4 / TB6 / TB8 breakers (CCB / AV),TB1; TB4; TB6; TB8,"Bolted with DPK (twin) / SPK (single) strap kits in CCB, QMR and AV1/AV2",,,,,,CCB-QMR; AV-LINE
 BRK-OTH-001,OTH,Wadsworth A / B series,A15NI; A360; B1515,plug-in (assumed),,,15-90 A,120/240 V (3-pole versions exist),Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,WADSWORTH
+BRK-OTH-002,OTH,Connecticut Electric UBIF (UBI replacement for FPE Stab-Lok NA/NC/NB),UBIF; UBI-F; Unique Breakers Inc UBIF,"Plug-in for use in Federal Pacific load centers (NA thick, NC thin series); bolt-on NB variants (UBIF...NB) referenced by resellers",,,1-pole 15-50 A; 2-pole 15-70 A (per 2005 sheet),"120 V (1P), 120/240 V (2P)","current (aftermarket, newly manufactured)",
+BRK-OTH-003,OTH,Connecticut Electric UBIP (UBI replacement for Pushmatic),UBIP; Unique Breakers Inc UBIP,Bolt-on for use in Pushmatic and Bulldog load centers,,,"1-pole 15-30 A; 2-pole 15-100 A; twin 15/15, 15/20, 20/20",,,PUSHMATIC
+BRK-OTH-004,OTH,Connecticut Electric UBIZ (UBI replacement for Zinsco Q/QC/R/RC),UBIZ; Unique Breakers Inc UBIZ,Plug-in for use in Zinsco load centers,,,Q 1-pole 15-30 A; QC 2-pole 20-125 A; R twin 15/15-30/30; RC 2-pole 20-60 A,,,ZIN-Q
 BRK-SIE-001,SIE,BL,BL; BLH; HBL; BLF; BLE; BAF; BT twin (B1515/B2020),bolt-on,1in per pole bolt-on,,15-100A,120/240V,,RP1; P1; S1/S2; P2; P3; P4; P5; SB
 BRK-SIE-002,SIE,BQD,BQD; BQD6,"bolt-on, 1in per pole",,,15-100A,480Y/277V,,RP1; P1; P2; P3; P4; P5; SB
 BRK-SIE-003,SIE,GB (NGB/HGB/LGB) and GB2 (NGB2/HGB2/LGB2); 'xGB',xGB; NGB; HGB; LGB; xGB2; NGB2; HGB2; LGB2,,,,15-125A,480Y/277V; 600Y/347V 14kA,,RP1; P2; P3; P4; P5

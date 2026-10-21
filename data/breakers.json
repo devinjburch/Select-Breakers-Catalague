@@ -4389,6 +4389,73 @@
   "created_batch": "B0012-archival-legacy-panelboards"
  },
  {
+  "id": "BRK-EAT-068",
+  "mfr": "EAT",
+  "name": "Eaton Type CL classified replacement breakers",
+  "aliases": [
+   "CL",
+   "CLCAF",
+   "CLGF",
+   "CLDF",
+   "Type CL 1-Inch classified replacement breaker"
+  ],
+  "claims": {
+   "classified_for": [
+    {
+     "value": "Eaton catalog notes (CL245): 'Replacement for Square D Homeline, GE Type THQ, Crouse-Hinds Type MP, Thomas and Betts Type TB, Murray Type MP, ITE/Siemens Type QP. Requires Two 1-inch (25.4 mm) spaces.'",
+     "conf": "A",
+     "src": [
+      "SRC-00465"
+     ],
+     "page": "p. 1",
+     "basis": "oem_spec",
+     "note": "exact load-center catalog numbers are in the breaker instruction leaflet / Eaton classified compatibility chart (BR003034EN), not retrieved",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "listing": [
+    {
+     "value": "UL classified (UL 489 certification on spec sheet); classification is for specific listed load centres named by Eaton - not the same as listing",
+     "conf": "C",
+     "src": [
+      "SRC-00465",
+      "SRC-00466"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "1 in plug-on classified replacement breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00465"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "10 kAIC (CL245)",
+     "conf": "A",
+     "src": [
+      "SRC-00465"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00465",
+   "SRC-00466"
+  ],
+  "created_batch": "B0016-aftermarket-retrofit"
+ },
+ {
   "id": "BRK-FPE-001",
   "mfr": "FPE",
   "name": "NB (Stab-Lok bolt-on)",
@@ -6557,6 +6624,245 @@
    "SRC-00161"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
+ },
+ {
+  "id": "BRK-OTH-002",
+  "mfr": "OTH",
+  "name": "Connecticut Electric UBIF (UBI replacement for FPE Stab-Lok NA/NC/NB)",
+  "aliases": [
+   "UBIF",
+   "UBI-F",
+   "Unique Breakers Inc UBIF"
+  ],
+  "claims": {
+   "listing": [
+    {
+     "value": "Seller states: 'Meet or exceed ANSI/UL 489 Standard'; 'tested and certified in accordance with the National Electric Code and conform to the ANSI/UL Standard 489, 9th Edition'; marked 'Unique Breakers, Inc.' Distributor states 'Classified and approved for use in Federal Pacific load centers. ETL Listed.'",
+     "conf": "C",
+     "src": [
+      "SRC-00462",
+      "SRC-00463"
+     ],
+     "page": "p. 1-2",
+     "basis": "distributor",
+     "note": "seller claim; the UBI sheet itself does not use the word 'classified'",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "cross_reference": [
+    {
+     "value": "UBIF0xxN = FPE NC one/two-pole thin series; UBIFxxN / UBIF2xxN = FPE NA one/two-pole thick series (table 'Corresponds to')",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "note": "seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Plug-in for use in Federal Pacific load centers (NA thick, NC thin series); bolt-on NB variants (UBIF...NB) referenced by resellers",
+     "conf": "C",
+     "src": [
+      "SRC-00462",
+      "SRC-00463",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "amps": [
+    {
+     "value": "1-pole 15-50 A; 2-pole 15-70 A (per 2005 sheet)",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "120 V (1P), 120/240 V (2P)",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "10,000 A RMS sym max",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "status": [
+    {
+     "value": "current (aftermarket, newly manufactured)",
+     "conf": "C",
+     "src": [
+      "SRC-00463"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00462",
+   "SRC-00463",
+   "SRC-00141"
+  ],
+  "created_batch": "B0016-aftermarket-retrofit"
+ },
+ {
+  "id": "BRK-OTH-003",
+  "mfr": "OTH",
+  "name": "Connecticut Electric UBIP (UBI replacement for Pushmatic)",
+  "aliases": [
+   "UBIP",
+   "Unique Breakers Inc UBIP"
+  ],
+  "claims": {
+   "listing": [
+    {
+     "value": "Distributor: 'Classified for use in Pushmatic and Bulldog load centers. ETL Listed.'; maker sheet: conform to ANSI/UL 489",
+     "conf": "C",
+     "src": [
+      "SRC-00464",
+      "SRC-00462"
+     ],
+     "basis": "distributor",
+     "note": "seller claim",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on for use in Pushmatic and Bulldog load centers",
+     "conf": "C",
+     "src": [
+      "SRC-00464"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "amps": [
+    {
+     "value": "1-pole 15-30 A; 2-pole 15-100 A; twin 15/15, 15/20, 20/20",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "10,000 A RMS sym max",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-011"
+  ],
+  "source_ids": [
+   "SRC-00462",
+   "SRC-00464"
+  ],
+  "created_batch": "B0016-aftermarket-retrofit"
+ },
+ {
+  "id": "BRK-OTH-004",
+  "mfr": "OTH",
+  "name": "Connecticut Electric UBIZ (UBI replacement for Zinsco Q/QC/R/RC)",
+  "aliases": [
+   "UBIZ",
+   "Unique Breakers Inc UBIZ"
+  ],
+  "claims": {
+   "cross_reference": [
+    {
+     "value": "UBIZ15/20/30 = Zinsco Q15/Q20/Q30; UBIZ220-2100 = QC20-QC50, QCAL60-QCAL100; UBIZ2125 = QCAL125; UBIZ1515/1520/2020/3030 = R3815/R381520/R3820/R3830; UBIZ0220-0260 = RC3820-RC3860",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "note": "seller cross-reference",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Plug-in for use in Zinsco load centers",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "amps": [
+    {
+     "value": "Q 1-pole 15-30 A; QC 2-pole 20-125 A; R twin 15/15-30/30; RC 2-pole 20-60 A",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "10,000 A RMS sym max",
+     "conf": "C",
+     "src": [
+      "SRC-00462"
+     ],
+     "page": "p. 2",
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-ZIN-001"
+  ],
+  "source_ids": [
+   "SRC-00462"
+  ],
+  "created_batch": "B0016-aftermarket-retrofit"
  },
  {
   "id": "BRK-SIE-001",

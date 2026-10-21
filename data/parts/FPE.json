@@ -154,6 +154,18 @@
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPNEF10FPE (kit # NEF1K) as a replacement ('Kit # NEF1K replaces OEM KCDP1C'), labelled 'FPE Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00138"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -173,7 +185,8 @@
    "SRC-00147"
   ],
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -326,6 +339,18 @@
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPNEJFPE (kit # NEJ1K) as a replacement ('Kit # NEJ1K replaces OEM KCDP2C'), labelled 'FPE Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00138"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -344,7 +369,8 @@
    "SRC-00141"
   ],
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -486,6 +512,18 @@
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPNFJFPE (kit # NFJ1K) as a replacement ('Kit # NFJ1K replaces OEM KCDP3C'), labelled 'FPE Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00138"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -504,7 +542,8 @@
    "SRC-00141"
   ],
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -664,6 +703,18 @@
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BCDPNJLFPE (kit # NJL1K) as a replacement ('Kit # NJL1K replaces OEM KCDP4C'), labelled 'FPE Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00138"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -682,7 +733,8 @@
    "SRC-00141"
   ],
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -1110,6 +1162,18 @@
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BBDPNEF10FPE (kit # NEF3K) as a replacement ('Kit # NEF3K replaces OEM KBDP1C'), labelled '(PCS) Aftermarket Assembly'",
+     "conf": "C",
+     "src": [
+      "SRC-00138"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -1129,7 +1193,8 @@
    "SRC-00147"
   ],
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -1283,6 +1348,18 @@
      "basis": "distributor",
      "batch": "B0009-legacy-other-manufacturers"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BBDPNEJFPE (kit # NEJ3K) as a replacement ('Kit # NEJ3K replaces OEM KBDP2C'), labelled '(PCS) Aftermarket Assembly'",
+     "conf": "C",
+     "src": [
+      "SRC-00138"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -1301,7 +1378,8 @@
    "SRC-00141"
   ],
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -1574,6 +1652,18 @@
      "basis": "surplus",
      "batch": "B0009-legacy-other-manufacturers"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BBDPNJLFPE (kit # NJL3K) as a replacement ('Kit # NJL3K replaces OEM KBDP4C'), labelled '(PCS) Aftermarket Assembly'",
+     "conf": "C",
+     "src": [
+      "SRC-00138"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -1592,7 +1682,8 @@
    "SRC-00141"
   ],
   "batches": [
-   "B0009-legacy-other-manufacturers"
+   "B0009-legacy-other-manufacturers",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

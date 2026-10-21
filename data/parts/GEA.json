@@ -4070,6 +4070,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BASPTED ('Kit OEM # ASPTED3P; A Series I only, not A Series II; mounts one TED 3-pole'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -4082,11 +4094,13 @@
   "questions": [],
   "source_ids": [
    "SRC-00075",
-   "SRC-00301"
+   "SRC-00301",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -4165,6 +4179,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BASPTQD ('Kit OEM # ASPTQD3P; A Series I only; one TQD 3-pole'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -4176,10 +4202,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00075",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -10871,6 +10899,18 @@
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BAMCB6EBGE (kit # SED1K) as a replacement ('Kit SED1K; Replaces OEM AMCB6EBFP'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -10884,11 +10924,13 @@
    "SRC-00075",
    "SRC-00272",
    "SRC-00301",
-   "SRC-00302"
+   "SRC-00302",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -11070,6 +11112,18 @@
      "basis": "inference",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BAMCB6EYGE (kit # SEY1K) as a replacement ('Kit SEY1K; Replaces OEM AMCB6EYFP'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -11083,11 +11137,13 @@
   "source_ids": [
    "SRC-00075",
    "SRC-00276",
-   "SRC-00301"
+   "SRC-00301",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -11564,6 +11620,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BAMCB6QDGE (kit # SQD1K) as a replacement ('Kit SQD1K; Replaces OEM AMCB6QDFP'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [
@@ -11578,10 +11646,12 @@
   "questions": [],
   "source_ids": [
    "SRC-00075",
-   "SRC-00086"
+   "SRC-00086",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -11991,6 +12061,18 @@
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BAMCB6FJGE (kit # SFD1K) as a replacement ('Kit SFD1K; Replaces OEM AMCB6FJFP'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -12004,11 +12086,13 @@
    "SRC-00075",
    "SRC-00273",
    "SRC-00301",
-   "SRC-00302"
+   "SRC-00302",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -13020,6 +13104,18 @@
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BAMCB6GBGE (kit # SGD1K) as a replacement ('Kit SGD1K; Replaces OEM AMCB6GBFP'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -13033,11 +13129,13 @@
    "SRC-00075",
    "SRC-00277",
    "SRC-00301",
-   "SRC-00302"
+   "SRC-00302",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -13907,6 +14005,18 @@
      "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BAMCB3FJGE (kit # SFS1K) as a replacement ('Kit SFS1K; Replaces OEM AMCB3FJFP'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -13921,11 +14031,13 @@
    "SRC-00075",
    "SRC-00273",
    "SRC-00301",
-   "SRC-00302"
+   "SRC-00302",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -14433,6 +14545,18 @@
      "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BAMCB3GMGE (kit # SGS1K) as a replacement ('Kit SGS1K; Replaces OEM AMCB3GMFP'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -14447,11 +14571,13 @@
    "SRC-00075",
    "SRC-00274",
    "SRC-00301",
-   "SRC-00302"
+   "SRC-00302",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -14952,6 +15078,18 @@
      "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BAMCB35KMGE (kit # SKS1K) as a replacement ('Kit SKS1K; Replaces OEM AMCB35KMFP (sic; OEM catalog number is AMCB3KMFP)'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -14966,11 +15104,13 @@
    "SRC-00075",
    "SRC-00275",
    "SRC-00301",
-   "SRC-00302"
+   "SRC-00302",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -17183,6 +17323,18 @@
      "note": "Instruction is written for the base module number (without FP); FP = module + filler plate kit",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BAMC6QBGE ('OEM # AMC6QBFP; obsolete APN plug-on module, up to 6 poles THQB/THHQB'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -17195,11 +17347,13 @@
   "source_ids": [
    "SRC-00075",
    "SRC-00290",
-   "SRC-00301"
+   "SRC-00301",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -17417,6 +17571,18 @@
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BAMC6EYGE ('Kit # AMC6EYFP; APN plug-on, 1 or 2 TEY frame'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [
@@ -17430,11 +17596,13 @@
   "source_ids": [
    "SRC-00075",
    "SRC-00290",
-   "SRC-00301"
+   "SRC-00301",
+   "SRC-00474"
   ],
   "batches": [
    "B0005-ge-abb",
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32460,6 +32628,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BTEDGE (kit # TED1K) as a replacement ('Kit # TED1K replaces OEM TED1DPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -32471,10 +32651,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00075",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32564,6 +32746,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BTFKGE (kit # TFK1K) as a replacement ('Kit # TFK1K replaces OEM TF2DPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -32575,10 +32769,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00075",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32679,6 +32875,16 @@
      "basis": "distributor",
      "note": "Stanion page seen only via search summary; returned 404 on fetch",
      "batch": "B0005-ge-abb"
+    },
+    {
+     "value": "Breaker King offers BTQDGE (kit # TQD1K) as a replacement ('Kit # TQD1K replaces OEM TQ2DPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ]
   },
@@ -32692,10 +32898,12 @@
   "questions": [],
   "source_ids": [
    "SRC-00075",
-   "SRC-00095"
+   "SRC-00095",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32785,6 +32993,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BTJK4GE (kit # TJK4K) as a replacement ('Kit # TJK4K replaces OEM TJ4DPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -32796,10 +33016,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00075",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32889,6 +33111,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BTJK6GE (kit # TJK6K) as a replacement ('Kit # TJK6K replaces OEM TJ6DPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -32900,10 +33134,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00075",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -32993,6 +33229,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BTELGE (kit # TEL1K) as a replacement ('Kit # TEL1K replaces OEM TEL1DPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -33004,10 +33252,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00075",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -33203,6 +33453,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BTK8GE (kit # TKM8K) as a replacement ('Kit TKM8K; Replaces OEM TK8SPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -33214,10 +33476,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00075",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -33308,6 +33572,18 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BTK12GE (kit # TKM12K) as a replacement ('Kit TKM12K; Replaces OEM TK12SPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -33319,10 +33595,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00075"
+   "SRC-00075",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -34320,6 +34598,29 @@
      "basis": "surplus_listing",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BNHB150GE as a replacement ('OEM Item NHB150PK Is Provided as PCS Brand ... (truncated)'), labelled 'GE/ABB'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    },
+    {
+     "value": "Superbreakers sells 'NHB150PK - General Electric Circuit Breaker Equivalent Mounting Hardware ... twin mount equivalent hardware kit for ... General Electric NAB or NHB model panel boards ... includes screws, a panel cover and brackets'. Breaker King lists BNHB150GE: 'OEM Item NHB150PK Is Provided as PCS Brand ...'",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claims from two resellers; aftermarket maker possibly PCS (Breaker King wording)",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -34333,10 +34634,13 @@
   ],
   "source_ids": [
    "SRC-00091",
-   "SRC-00092"
+   "SRC-00092",
+   "SRC-00252",
+   "SRC-00474"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -52179,6 +52483,7 @@
   "title": "GE SG-frame twin mounting kit, 600 A (dealer label 'AV')",
   "component_type": "branch-connector-kit",
   "family_ids": [
+   "FAM-GEA-006",
    "FAM-GEA-009"
   ],
   "breaker_ids": [],
@@ -52259,6 +52564,18 @@
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Breaker King offers BSGDGE (kit # SGD6K) as a replacement ('Kit SGD6K; Replaces OEM SG6DPK'), labelled 'GE/ABB Aftermarket Replacement'",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller claim; seller cross-reference; equivalence/listing not verified",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -52271,10 +52588,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00251"
+   "SRC-00251",
+   "SRC-00474"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -52638,6 +52957,16 @@
      ],
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Breaker King BFP2CCBGE (lists part GAVFP2): 2X, 2.75 in H x 17 in W, gray painted sheet steel, for CCB/AV1/AV2",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "conflicts with existing 4.125 x 17 in claim; verify",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "oem_part_number": [
@@ -52650,6 +52979,17 @@
      "basis": "surplus_listing",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BFP2CCBGE (manufacturer field GE/ABB; condition not stated)",
+     "conf": "D",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -52661,10 +53001,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00251"
+   "SRC-00251",
+   "SRC-00474"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -71130,6 +71472,16 @@
      "page": "guide pp.28-30",
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
+    },
+    {
+     "value": "ABB: Tmax XT retrofit kits allow legacy GE Spectra breakers installed in Spectra panelboards and switchboards to be upgraded; customers 'can maintain the UL listing of their equipment without additional charges'",
+     "conf": "B",
+     "src": [
+      "SRC-00481"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM page via search extract",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "id_features": [
@@ -71155,6 +71507,18 @@
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "replacement": [
+    {
+     "value": "ABB eCatalog 'Spectra to Tmax XT Smart Cross Reference' pairs SRFB6XT4FPX with Tmax XT4 TMF breakers, e.g. XT4VU3100BFF000XXX (250 A frame, 65 kA), XT4VU3025AFF000XXX, XT4VU3050AFF000XXX",
+     "conf": "B",
+     "src": [
+      "SRC-00481"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM eCatalog read via search-engine extract (site 503); upgrade to A on direct read",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -71165,10 +71529,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00302"
+   "SRC-00302",
+   "SRC-00481"
   ],
   "batches": [
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -71360,6 +71726,16 @@
      "page": "guide pp.28-30",
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
+    },
+    {
+     "value": "ABB: Tmax XT retrofit kits allow legacy GE Spectra breakers installed in Spectra panelboards and switchboards to be upgraded; customers 'can maintain the UL listing of their equipment without additional charges'",
+     "conf": "B",
+     "src": [
+      "SRC-00481"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM page via search extract",
+     "batch": "B0016-aftermarket-retrofit"
     }
    ],
    "id_features": [
@@ -71385,6 +71761,18 @@
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "replacement": [
+    {
+     "value": "ABB eCatalog cross reference pairs SRFB3XT4FPX with e.g. XT4SQ3100EFF000XXX (Ekip LS/I, 35 kA) replacing Spectra SEL 100 A frame (rating plug SRPE100A80), and XT4LU3225GFF000XXX replacing Spectra SGH 225 A",
+     "conf": "B",
+     "src": [
+      "SRC-00481"
+     ],
+     "basis": "oem_spec",
+     "note": "OEM eCatalog read via search-engine extract (site 503); upgrade to A on direct read",
+     "batch": "B0016-aftermarket-retrofit"
+    }
    ]
   },
   "requires": [],
@@ -71395,10 +71783,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00302"
+   "SRC-00302",
+   "SRC-00481"
   ],
   "batches": [
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -72799,6 +73189,145 @@
   ],
   "batches": [
    "B0011-docs-ge-squared"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00611",
+  "mfr": "GEA",
+  "brand_marking": "",
+  "oem_part_number": "NLAB100PK",
+  "title": "GE NLAB panelboard twin kit NLAB100PK (two 3-pole THQB) - per seller listing",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King stocks under SKU BNLAB100GE ('Kit OEM # NLAB100PK; obsolete NLAB panelboards, mounts two 3-pole THQB breakers'); condition (new/surplus/aftermarket) not stated",
+     "conf": "D",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller SKU for OEM-numbered item; not a claim of an aftermarket equivalent",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "NLAB100PK",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "description": [
+    {
+     "value": "Kit OEM # NLAB100PK; obsolete NLAB panelboards, mounts two 3-pole THQB breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller listing",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00474"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00612",
+  "mfr": "GEA",
+  "brand_marking": "",
+  "oem_part_number": "GAVFP3",
+  "title": "GE CCB/AV filler plate GAVFP3 (3X) - per seller listing",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "GAVFP3",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "CCBFP3",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "note": "seller lists 'GAVFP3, CCBFP3' together",
+     "relation": "alias",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "3X, 4-1/8 in H x 17 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Sourcing: Breaker King SKU BFP3CCBGE (GE/ABB; condition not stated)",
+     "conf": "D",
+     "src": [
+      "SRC-00474"
+     ],
+     "basis": "distributor",
+     "batch": "B0016-aftermarket-retrofit"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00474"
+  ],
+  "batches": [
+   "B0016-aftermarket-retrofit"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
