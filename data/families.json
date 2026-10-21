@@ -254,8 +254,8 @@
   "name": "Pow-R-Line 3a",
   "code": "PRL3A",
   "aliases": [
-   "PRL3a",
    "PRL-3A",
+   "PRL3a",
    "Pow-R-Line 3a"
   ],
   "brand_markings": [
@@ -716,11 +716,26 @@
      "basis": "oem_spec",
      "batch": "B0001-eaton-prl-panelboards"
     }
+   ],
+   "main_handle_location": [
+    {
+     "value": "PRL1X/2X Power Defense frame 2 main: handle centerline to top of box D = 10.06 in (100 A max) / 11.06 in (225 A max); PD frame 3 400 A: 20.426 in (500 kcmil lugs) / 23.426 in (750 kcmil); PD frame 3 600 A: 20.488 / 23.488 in; box example EZB2090R = 90 in; NEC 6 ft 7 in (79 in) max handle height",
+     "conf": "A",
+     "src": [
+      "SRC-00318"
+     ],
+     "page": "pp. 2-6, Figures 1-5",
+     "basis": "oem_spec",
+     "note": "Dimensions are estimates to be verified by installer (per leaflet)",
+     "batch": "B0010-docs-eaton-siemens"
+    }
    ]
   },
   "source_ids": [
    "SRC-00001",
-   "SRC-00006"
+   "SRC-00006",
+   "SRC-00314",
+   "SRC-00318"
   ],
   "created_batch": "B0001-eaton-prl-panelboards"
  },
@@ -798,11 +813,26 @@
      "basis": "oem_spec",
      "batch": "B0001-eaton-prl-panelboards"
     }
+   ],
+   "main_handle_location": [
+    {
+     "value": "As PRL1X: PD2 main D = 10.06 in (100 A) / 11.06 in (225 A); PD3 400 A D = 20.426 / 23.426 in; PD3 600 A D = 20.488 / 23.488 in",
+     "conf": "A",
+     "src": [
+      "SRC-00318"
+     ],
+     "page": "pp. 2-6, Figures 1-5",
+     "basis": "oem_spec",
+     "note": "Dimensions are estimates to be verified by installer (per leaflet)",
+     "batch": "B0010-docs-eaton-siemens"
+    }
    ]
   },
   "source_ids": [
    "SRC-00001",
-   "SRC-00006"
+   "SRC-00006",
+   "SRC-00314",
+   "SRC-00318"
   ],
   "created_batch": "B0001-eaton-prl-panelboards"
  },
@@ -880,11 +910,26 @@
      "basis": "oem_spec",
      "batch": "B0001-eaton-prl-panelboards"
     }
+   ],
+   "main_handle_location": [
+    {
+     "value": "PRL3X PD frame 2 main: D = 10.901 in (100 A max) / 15.026 in (225 A max); PD frame 3 400 A: 19.962 in (500 kcmil) / 24.087 in (750 kcmil)",
+     "conf": "A",
+     "src": [
+      "SRC-00318"
+     ],
+     "page": "pp. 2-6, Figures 1-5",
+     "basis": "oem_spec",
+     "note": "Dimensions are estimates to be verified by installer (per leaflet)",
+     "batch": "B0010-docs-eaton-siemens"
+    }
    ]
   },
   "source_ids": [
    "SRC-00001",
-   "SRC-00006"
+   "SRC-00006",
+   "SRC-00314",
+   "SRC-00318"
   ],
   "created_batch": "B0001-eaton-prl-panelboards"
  },
@@ -894,9 +939,9 @@
   "name": "Pow-R-Line Xpert 4X (incl. PRL4DX, PRL4F)",
   "code": "PRL4X",
   "aliases": [
+   "PRL4DX",
    "PRL4x",
    "Pow-R-Line 4X",
-   "PRL4DX",
    "Pow-R-Xpress PRL4X"
   ],
   "brand_markings": [
@@ -968,7 +1013,8 @@
   },
   "source_ids": [
    "SRC-00001",
-   "SRC-00006"
+   "SRC-00006",
+   "SRC-00315"
   ],
   "created_batch": "B0001-eaton-prl-panelboards"
  },
@@ -2039,16 +2085,16 @@
   "name": "Pow-R-Line C switchboard",
   "code": "PRLC",
   "aliases": [
-   "Pow-R-Line C",
    "POW-R-LINE C",
    "PRL-C",
+   "Pow-R-Line C",
    "Pow-R-Line C switchboard",
    "Type 1 Pow-R-Line C"
   ],
   "brand_markings": [
-   "Westinghouse",
    "Cutler-Hammer",
-   "Eaton"
+   "Eaton",
+   "Westinghouse"
   ],
   "equipment_type": "switchboard",
   "overview": "Eaton (originally Westinghouse) Class II service-distribution switchboard, UL 891 / NEMA PB-2, front- or rear-access, with individually mounted mains and group-mounted feeder chassis. Evolved from the Westinghouse WF/WRP St. Louis switchboard when the design moved to Sumter SC and Visalia CA in 1988 with the introduction of Series C breakers. Distribution chassis are laid out in X units (1X = 1-3/8 in) on 38X or 50X vertical panel space in 36 in or 45 in wide structures; device X requirements (EHD 1-3X, FD 2-3X, JD 3X, KD 4X, LD/MDL/ND 6X) parallel the PRL4 panelboard chassis. Vol 12 states breaker provisions 'are available for all ratings of the Pow-R-Line C designs including all parts required to complete the cell', but no PRLC-specific provision kit catalog numbers were found in public documents (factory/Sumter quoted).",
@@ -2200,12 +2246,38 @@
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "bus_joint_torque": [
+    {
+     "value": "Torque values for copper or aluminum bus bar connections: #10 = 30 lb-in (2.5 lb-ft); 1/4 in = 65 lb-in (5.4 lb-ft); 5/16 in = 130 lb-in (10.8 lb-ft); 3/8 in = 240 lb-in (20.0 lb-ft); 1/2 in = 600 lb-in (50.0 lb-ft). For other torque values refer to the instruction leaflet for the specific component.",
+     "conf": "A",
+     "src": [
+      "SRC-00022"
+     ],
+     "page": "p. 20, Appendix A Table 2",
+     "basis": "oem_spec",
+     "note": "IM01500001E covers Eaton Pow-R-Line switchboards generally (incl. Pow-R-Line C / i); not stated per sub-type.",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ],
+   "installation_doc": [
+    {
+     "value": "Pow-R-Line switchboards instruction manual IM01500001E (May 2021): splice plates installed with carriage bolts and hex nuts with captive Belleville washers, torqued per Appendix A Table 2 and switchboard labels; busway flange tie-bar hardware 0.375 in hex head bolt, flat washer and keps nut tightened to 20 lb-ft.",
+     "conf": "A",
+     "src": [
+      "SRC-00022"
+     ],
+     "page": "pp. 9, 19, 20",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
    ]
   },
   "source_ids": [
    "SRC-00013",
    "SRC-00017",
    "SRC-00021",
+   "SRC-00022",
    "SRC-00023",
    "SRC-00025"
   ],
@@ -2397,9 +2469,9 @@
   "name": "Pow-R-Line i switchboard",
   "code": "PRLi",
   "aliases": [
-   "Pow-R-Line i",
    "PRL i",
-   "Pow-R-Line I"
+   "Pow-R-Line I",
+   "Pow-R-Line i"
   ],
   "brand_markings": [
    "Cutler-Hammer",
@@ -2456,11 +2528,25 @@
      "basis": "oem_spec",
      "batch": "B0002-eaton-switchboards-legacy"
     }
+   ],
+   "bus_joint_torque": [
+    {
+     "value": "Pow-R-Line switchboards bus bar connection torque table: #10 30 lb-in; 1/4 in 65 lb-in; 5/16 in 130 lb-in; 3/8 in 240 lb-in; 1/2 in 600 lb-in (50 lb-ft).",
+     "conf": "A",
+     "src": [
+      "SRC-00022"
+     ],
+     "page": "p. 20, Appendix A Table 2",
+     "basis": "oem_spec",
+     "note": "Manual is for Pow-R-Line switchboards generally.",
+     "batch": "B0010-docs-eaton-siemens"
+    }
    ]
   },
   "source_ids": [
    "SRC-00013",
-   "SRC-00017"
+   "SRC-00017",
+   "SRC-00022"
   ],
   "created_batch": "B0002-eaton-switchboards-legacy"
  },
@@ -2844,16 +2930,16 @@
   "code": "BR",
   "aliases": [
    "BR",
-   "Type BR",
    "Bryant BR",
-   "Challenger BR"
+   "Challenger BR",
+   "Type BR"
   ],
   "brand_markings": [
-   "Westinghouse",
    "Bryant",
    "Challenger",
    "Cutler-Hammer",
-   "Eaton"
+   "Eaton",
+   "Westinghouse"
   ],
   "equipment_type": "loadcenter",
   "overview": "1-in-per-pole plug-on residential/light-commercial loadcenter family with Westinghouse/Bryant/Challenger lineage. Vol 12 Tab 5 lists replacement main/subfeed lug blocks, filler plates, interlocks and handle accessories.",
@@ -3864,6 +3950,148 @@
    "SRC-00013"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "FAM-EAT-039",
+  "mfr": "EAT",
+  "name": "Pow-R-Line XD switchboard",
+  "code": "PRLXD",
+  "aliases": [
+   "Pow-R-Line XD",
+   "PRL XD"
+  ],
+  "brand_markings": [],
+  "equipment_type": "switchboard",
+  "overview": "Eaton Pow-R-Line XD low-voltage distribution switchboard; installation per instruction manual MN015002EN (July 2019).",
+  "overview_notes": [],
+  "claims": {
+   "bus_joint_torque": [
+    {
+     "value": "Torque values for copper or aluminum bus bar connections: #10 30 lb-in (2.5 lb-ft); 1/4 in 65 (5.4); 5/16 in 130 (10.8); 3/8 in 240 (20.0); 1/2 in 600 (50.0). Other torques: refer to the component instruction leaflet.",
+     "conf": "A",
+     "src": [
+      "SRC-00310"
+     ],
+     "page": "Appendix A Table 1",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ],
+   "installation_doc": [
+    {
+     "value": "MN015002EN; system ground fault instructions referenced as IB015002EN",
+     "conf": "A",
+     "src": [
+      "SRC-00310"
+     ],
+     "page": "maintenance section",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00310"
+  ],
+  "created_batch": "B0010-docs-eaton-siemens"
+ },
+ {
+  "id": "FAM-EAT-040",
+  "mfr": "EAT",
+  "name": "Pow-R-Line Retrofit panelboards P1R / P2R (P1RL, P1RB, P2RL, P2RB)",
+  "code": "PRL-RETRO",
+  "aliases": [
+   "P1R",
+   "P2R",
+   "P1RL",
+   "P1RB",
+   "P2RL",
+   "P2RB",
+   "Pow-R-Line Retrofit"
+  ],
+  "brand_markings": [],
+  "equipment_type": "panelboard",
+  "overview": "Cutler-Hammer/Eaton (Canada) retrofit interiors for installation into existing panelboard enclosures; P1R 240 Vac max, P2R 347/600 Vac max. Mains: lugs (100/225/400 A), BAB (P1R) or GBH/GHB (P2R) 60-100 A, or E/F-frame 60-225 A.",
+  "overview_notes": [],
+  "claims": {
+   "bus_joint_torque": [
+    {
+     "value": "Bus bar connections (Cu or Al): #10 30 lb-in (2.5 lb-ft, 3.4 N-m); 1/4 in 65 lb-in (5.4 lb-ft, 7.3 N-m); 5/16 in 130 lb-in (10.8 lb-ft, 14.7 N-m); 3/8 in 240 lb-in (20 lb-ft, 27.1 N-m); 1/2 in 600 lb-in (50 lb-ft, 67.8 N-m)",
+     "conf": "A",
+     "src": [
+      "SRC-00311",
+      "SRC-00312"
+     ],
+     "page": "IL01417001E Appendix Table 2 (p.13); PUB50895 Appendix Table 4",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Interior mounted with #10-32 hardware: drill and tap 10-32 holes at minimum 8 mounting locations in back of existing enclosure; depth-adjustment bracket #10-32 screws torqued to 24 in-lb; one existing mounting stud or supplied bonding wire/lug used to bond chassis to enclosure.",
+     "conf": "A",
+     "src": [
+      "SRC-00311",
+      "SRC-00312"
+     ],
+     "page": "IL01417001E pp.5-6; PUB50895 pp.6-7",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ],
+   "minimum_enclosure": [
+    {
+     "value": "P1RL/P1RB minimum enclosure (H x W x D, in): lug 100 A 18/30/42 ckt 19.5/26.5/33.5 x 14.25 x 4.5; lug 225 A 22/28/34 x 14.25 x 4.5; BAB main 60-100 A 19.5/26.5/33.5 x 14.25 x 4.5; E/F-frame main 60-225 A 30/36/42 x 14.25 x 4.5; lug 400 A 24-42 ckt 48 x 20.0 x 5.75. P2RL/P2RB same heights, depth 4.75 in (400 A 5.75 in), GBH/GHB main 60-100 A.",
+     "conf": "A",
+     "src": [
+      "SRC-00311"
+     ],
+     "page": "p. 2, Installation Criteria tables",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00311",
+   "SRC-00312"
+  ],
+  "created_batch": "B0010-docs-eaton-siemens"
+ },
+ {
+  "id": "FAM-EAT-041",
+  "mfr": "EAT",
+  "name": "Pow-R-Line 3FQS fusible (coordination) panelboard (ex Bussmann Quik-Spec Coordination Panelboard)",
+  "code": "PRL3FQS",
+  "aliases": [
+   "3FQS",
+   "Pow-R-Line 3FQS",
+   "Quik-Spec Coordination Panelboard",
+   "QSCP"
+  ],
+  "brand_markings": [],
+  "equipment_type": "panelboard",
+  "overview": "Fusible branch panelboard using Bussmann CCPB (Compact Circuit Protector Base) ampacity-rejecting branch disconnects with CUBEFuse (TCF) fuses, 30-400 A mains (lugs, non-fused or Class J fused main disconnect). Bussmann-heritage product sold under the Eaton Pow-R-Line name.",
+  "overview_notes": [],
+  "claims": {
+   "torque_label": [
+    {
+     "value": "Agency label 3A1064 (E3A1064) on panelboard carries wire sizes and fastener torque values; chassis to enclosure four 1/4-20 hex flange nuts 35 lb-in (2.8 N-m); CCPB bus tab #10-32 x 1/4 in screw 25 lb-in (2.82 N-m)",
+     "conf": "A",
+     "src": [
+      "SRC-00313"
+     ],
+     "page": "pp. 5-7, 10",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00313"
+  ],
+  "created_batch": "B0010-docs-eaton-siemens"
  },
  {
   "id": "FAM-FPE-001",
@@ -5650,11 +5878,11 @@
   "name": "Type P1 (Revised P1)",
   "code": "RP1",
   "aliases": [
-   "Revised P1",
    "New Revised P1",
    "NextGen P1",
+   "P1...N",
    "P1...T",
-   "P1...N"
+   "Revised P1"
   ],
   "brand_markings": [
    "Siemens"
@@ -5735,12 +5963,25 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "torque_table": [
+    {
+     "value": "P1-250/P1-400 torque label: #10-32 branch breaker to phase bus and BL/BT/BQD/ED/xGB/3VA41 (and FD/QJ/QR) breaker to straps 20 lb-in; 1/4-20 straps to phase bus (BL/BT/BQD/ED/FD/xGB/QJ/QR/3VA41/3VA52/3VA61/3VA62) 72 lb-in; P1-250 main copper lugs to phase bus 1/4-20 72 lb-in; P1-400 main lugs to phase bus 5/16-18 144 lb-in; 3VA52/61/62 breaker to bus extensions 5/16-18 177 lb-in; JD breaker to straps 3/8-16 240 lb-in; 3VA53/63 to bus extensions 3/8-16 354 lb-in; breaker mounting screws QR 1/4-20 x 3-1/4 35 lb-in, FD/3VA52 1/4-20 x 4 40 lb-in, 3VA61/62 #8-32 x 3 13 lb-in; 3VA nutkeepers 177 (52/61/62) / 354 (53/63) lb-in; branch neutral terminal-strip wire screws 20 lb-in (#14-#10) rising to 45 lb-in (#4, large hole) and 50 lb-in (#3-2/0, large hole) - small/large hole values per label table (column layout not fully legible in text extraction); lug set screws 5/16 Allen 275, 3/8 375, 1/2 500 lb-in; bus connections per bus material (1/8 in Cu / 3/16 in Al): #10-24 25/30 (A&C straps, B connectors), #10-24 neutral strips to risers 30/30, 1/4-20 50/30, 5/16-18 72/108 lb-in. Bus material: catalog ending A/AT = aluminum, C/CT = copper.",
+     "conf": "A",
+     "src": [
+      "SRC-00362"
+     ],
+     "page": "both sides (P1-250 and P1-400 versions)",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
    ]
   },
   "source_ids": [
    "SRC-00097",
    "SRC-00101",
-   "SRC-00104"
+   "SRC-00104",
+   "SRC-00362"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -5983,11 +6224,11 @@
   "name": "Type P4 / S4 / Sentron SPP (10in deep) power panelboard",
   "code": "P4",
   "aliases": [
+   "F1",
+   "FPP (10in)",
    "S4",
    "SPP",
-   "Sentron SPP shallow",
-   "F1",
-   "FPP (10in)"
+   "Sentron SPP shallow"
   ],
   "brand_markings": [
    "Siemens"
@@ -6019,10 +6260,36 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "seismic_mounting": [
+    {
+     "value": "Seismic-rated box installation: (4) 1/2-13 Grade 5 bolts with narrow flat washers tightened to 60 lb-ft; or minimum (4) 3/8-16 Grade 5 bolts with wide flat washers tightened to 30 lb-ft (center hole in each mounting bracket end)",
+     "conf": "A",
+     "src": [
+      "SRC-00361"
+     ],
+     "page": "single sheet",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ],
+   "trim_installation": [
+    {
+     "value": "Trims attached with 1/4-20 washer-head thread-forming screws: 1-piece trims 1-1/4 in only; 4-piece trims 1-1/4 in on exterior edges; 32 in wide P4 trims with deep inner flanges (1.56 in) 2 in screws on interior edges; 32/38 in wide P5 trims with shallow inner flanges (0.60 in) 1 in screws; hinges 1/4-20 x 1/2 countersunk screws + 1/4-20 Belleville nuts; trim cover screws 50 in-lb",
+     "conf": "A",
+     "src": [
+      "SRC-00427"
+     ],
+     "page": "single sheet",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
    ]
   },
   "source_ids": [
-   "SRC-00097"
+   "SRC-00097",
+   "SRC-00361",
+   "SRC-00427"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -6032,11 +6299,11 @@
   "name": "Type P5 / S5 / Sentron SPP deep (12.75in deep) power panelboard",
   "code": "P5",
   "aliases": [
+   "F2",
+   "FPP deep",
    "S5",
    "SPP deep",
-   "Sentron Deep",
-   "F2",
-   "FPP deep"
+   "Sentron Deep"
   ],
   "brand_markings": [
    "Siemens"
@@ -6068,10 +6335,49 @@
      "basis": "oem_spec",
      "batch": "B0006-siemens-ite"
     }
+   ],
+   "installation_notes": [
+    {
+     "value": "Unassembled P5 power panels (32 in / 38 in wide) ship with Type 1 enclosure, top feed; deadfront of removable filler plates; require separate main lug kit, main breaker kit or main switch kit (see label on back of deadfront); service equipment with single main or max six breakers/switches; interior held by four 1/4-20 screws and four 1/4 in Belleville washer nuts; deadfront by four 1/4-20 screws; large angled filler ~5.63 in from rail end",
+     "conf": "A",
+     "src": [
+      "SRC-00360"
+     ],
+     "page": "pp. 2-4",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ],
+   "seismic_mounting": [
+    {
+     "value": "Seismic-rated box installation: (4) 1/2-13 Grade 5 bolts with narrow flat washers tightened to 60 lb-ft; or minimum (4) 3/8-16 Grade 5 bolts with wide flat washers tightened to 30 lb-ft (center hole in each mounting bracket end)",
+     "conf": "A",
+     "src": [
+      "SRC-00361"
+     ],
+     "page": "single sheet",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
+   ],
+   "trim_installation": [
+    {
+     "value": "Trims attached with 1/4-20 washer-head thread-forming screws: 1-piece trims 1-1/4 in only; 4-piece trims 1-1/4 in on exterior edges; 32 in wide P4 trims with deep inner flanges (1.56 in) 2 in screws on interior edges; 32/38 in wide P5 trims with shallow inner flanges (0.60 in) 1 in screws; hinges 1/4-20 x 1/2 countersunk screws + 1/4-20 Belleville nuts; trim cover screws 50 in-lb",
+     "conf": "A",
+     "src": [
+      "SRC-00427"
+     ],
+     "page": "single sheet",
+     "basis": "oem_spec",
+     "batch": "B0010-docs-eaton-siemens"
+    }
    ]
   },
   "source_ids": [
-   "SRC-00097"
+   "SRC-00097",
+   "SRC-00360",
+   "SRC-00361",
+   "SRC-00427"
   ],
   "created_batch": "B0006-siemens-ite"
  },
@@ -6107,8 +6413,8 @@
    ]
   },
   "source_ids": [
-   "SRC-00098",
    "SRC-00097",
+   "SRC-00098",
    "SRC-00099"
   ],
   "created_batch": "B0006-siemens-ite"

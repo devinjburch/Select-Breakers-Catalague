@@ -398,8 +398,12 @@
   "id": "SRC-00022",
   "mfr": "EAT",
   "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ]
+   "B0002-eaton-switchboards-legacy",
+   "B0010-docs-eaton-siemens"
+  ],
+  "local_file": "docs/library/EAT/pow-r-line-switchboard-manual-im01500001e.pdf",
+  "sha256": "a53d0f457aec651bf7c56eae9f18439d2228c1545eec882d8f5907530fcca096",
+  "bytes": 1517337
  },
  {
   "title": "eBay listing: EATON KPRL4KDS POW-R-LINE C einzelne Montage Panelboard Stecker Kit 400A 3P",
@@ -5235,5 +5239,2887 @@
   "batches": [
    "B0011-docs-ge-squared"
   ]
+ },
+ {
+  "title": "Pow-R-Line XD switchboards Instruction Manual MN015002EN (Effective July 2019)",
+  "publisher": "Eaton",
+  "doc_number": "MN015002EN",
+  "date": "2019-07",
+  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/pow-r-line-xd-switchboards-instruction-manual-mn015002en.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/pow-r-line-xd-switchboards-instruction-manual-mn015002en.pdf",
+  "notes": "Downloaded via Eaton-owned mirror host cooperindustries.com (same DAM path).",
+  "id": "SRC-00310",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "18cb0a2f1f3b701b08e345a3339ce9c40835b07eb61edfec9d245d09be1cf237",
+  "bytes": 2351694
+ },
+ {
+  "title": "Instruction Manual Pow-R-Line Retrofit Panelboards, P1R & P2R Retrofit Panels (IL01417001E, Effective November 2007)",
+  "publisher": "Eaton (Cutler-Hammer, Eaton Canada)",
+  "doc_number": "IL01417001E",
+  "date": "2007-11",
+  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/pow-r-line-1r-and-2r-retrofit-panels-instruction-manual.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/pow-r-line-1r-and-2r-retrofit-panels-instruction-manual.pdf",
+  "notes": "14 pp. Downloaded via cooperindustries.com mirror. Also mirrored at https://www.texasinspector.com/files/EatonRetrofitPanels.pdf",
+  "id": "SRC-00311",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "58025d2922bc52c80ec07e3c49a4942be5c474d015f1d66437afd1a0f463852f",
+  "bytes": 349587
+ },
+ {
+  "title": "Instruction Manual PUB50895 Pow-R-Line Retrofit Panelboards P1R 240Vac Max & P2R 347/600Vac Max (Effective May 2016, Rev.004)",
+  "publisher": "Eaton (Eaton Canada)",
+  "doc_number": "PUB50895",
+  "date": "2016-05",
+  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/canada/eaton-pow-r-line-retrofit-panelboards-instruction-manual-pub50895-ca.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/eaton-pow-r-line-retrofit-panelboards-instruction-manual-pub50895-ca.pdf",
+  "notes": "15 pp. Downloaded via cooperindustries.com mirror.",
+  "id": "SRC-00312",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "1f1a50ddc488cb9210d176f983e235f1005b7cb5cb9e71089e1e605524a7ae60",
+  "bytes": 652825
+ },
+ {
+  "title": "Pow-R-Line 3FQS Fusible Panelboard Instruction Leaflet E3A1071 RevG (December 2010)",
+  "publisher": "Eaton (Cooper Bussmann heritage)",
+  "doc_number": "E3A1071 RevG",
+  "date": "2010-12",
+  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/pow-r-line-3fqs-fusible-panelboard-instruction-leaflet-e3a1071.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/pow-r-line-3fqs-fusible-panelboard-instruction-leaflet-e3a1071.pdf",
+  "notes": "16 pp incl. replacement-parts lists pp.12-14. Downloaded via cooperindustries.com mirror. Product is the former Bussmann Quik-Spec Coordination Panelboard (QSCP).",
+  "id": "SRC-00313",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "50b81a84ee5cdda125fad0110db1f0b825f1975bff35d106c37f20e1f9fb8760",
+  "bytes": 2035943
+ },
+ {
+  "title": "Design Guide DG014001EN Pow-R-Line 1X, 2X and 3X panelboards (Effective November 2024)",
+  "publisher": "Eaton",
+  "doc_number": "DG014001EN",
+  "date": "2024-11",
+  "url": "https://www.eaton.com/content/dam/eaton/products/design-guides---consultant-audience/eaton-panelboard-prl1x-2x-3x-design-guide-dg014001en.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/eaton-panelboard-prl1x-2x-3x-design-guide-dg014001en.pdf",
+  "notes": "Downloaded via cooperindustries.com mirror.",
+  "id": "SRC-00314",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5366ec6a48a169a4716e81f4e8e739c99d82d42d241d009c4c98fed74def3440",
+  "bytes": 1100664
+ },
+ {
+  "title": "Design Guide DG014003EN Pow-R-Line 4X panelboards (Effective March 2025)",
+  "publisher": "Eaton",
+  "doc_number": "DG014003EN",
+  "date": "2025-03",
+  "url": "https://www.eaton.com/content/dam/eaton/products/design-guides---consultant-audience/eaton-panelboard-prl4x-design-guide-dg014003en.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/eaton-panelboard-prl4x-design-guide-dg014003en.pdf",
+  "notes": "Downloaded via cooperindustries.com mirror.",
+  "id": "SRC-00315",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f2926266a84d60c2c23cb12ea2767ea90551e130fcc59d39592053a8ac6631fe",
+  "bytes": 1287088
+ },
+ {
+  "title": "Eaton online product catalog SKU pages (https://www.eaton.com/us/en-us/skuPage.<catalog number>.html): General/Product specifications tables",
+  "publisher": "Eaton",
+  "doc_number": "",
+  "date": "2026-10",
+  "url": "https://www.eaton.com/us/en-us/skuPage.KPRL4FD.html",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Fetched 2026-10-21 for 334 catalogue part numbers via Eaton-owned mirror host cooperindustries.com/us/en-us/skuPage.<pn>.html; 82 pages exist (KPRL3*, KPRL4*, PRLSEB*, BR kits). All KB*, KL*, KCDP*, KFDP*, 1C966xx/2C11642 branch assemblies returned 404 (no current SKU page). 'Product Length/Depth/Height/Width/Weight' attributes are Eaton logistics data (several are placeholders such as 1x1x1 in or 0.01 in) - treat as package/shipping data, never as component dimensions. Page cited per claim.",
+  "id": "SRC-00316",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ]
+ },
+ {
+  "title": "Eaton product specifications - KPRL3AED3 (Elliott Electric hosted Eaton spec sheet)",
+  "publisher": "Eaton (via Elliott Electric)",
+  "doc_number": "KPRL3AED3 spec sheet",
+  "date": "2024",
+  "url": "https://www.elliottelectric.com/Media/KPRL3AED3-CHD-1021-2-Attachment.pdf",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/KPRL3AED3-CHD-1021-2-Attachment.pdf",
+  "notes": "Eaton-generated product specification PDF (c) 2024 Eaton, distributor hosted.",
+  "id": "SRC-00317",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "bac4fb82ea72e17d1cb53fa9c9dc23312e57ffbe461b202ea60b6146efbd0a57",
+  "bytes": 43539
+ },
+ {
+  "title": "Instruction Leaflet IL014069EN Pow-R-Line 1X/2X/3X Installation reference for tall interiors (Effective February 2024)",
+  "publisher": "Eaton",
+  "doc_number": "IL014069EN",
+  "date": "2024-02",
+  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/eaton-pow-r-line-1x2x3x-installation-reference-for-tall-interiors-il014069en-en-us.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/eaton-pow-r-line-1x2x3x-installation-reference-for-tall-interiors-il014069en-en-us.pdf",
+  "notes": "Downloaded via cooperindustries.com mirror.",
+  "id": "SRC-00318",
+  "mfr": "EAT",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "932358e32ee5a29d726fe8a3d2867fcc833bead104addae71a9d87102dfbf12f",
+  "bytes": 327229
+ },
+ {
+  "title": "Siemens SPEEDFAX 2017 Product Catalog p. 11-48 'Type P3 Panelboard Kits and Accessories Selection' (revised 05/15/18)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "SPEEDFAX 2017 p. 11-48 (rev 05/15/18)",
+  "date": "2018-05",
+  "url": "https://my.goagilix.com/assets/8e/ae/8eae8069-ae72-4c43-884e-ced7a932dac0/IDW_DOCUMENT_0a99b8af4a8d4007e49c8b7c5bf43b3a0181bf98c101e2c9da4d60b95cb45b84.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Single catalog page hosted by distributor (goagilix IDW document).",
+  "id": "SRC-00319",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ]
+ },
+ {
+  "title": "P1SCRWS Branch Connector Screw Kit Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1072-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1072-01_P1SCRWS.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1072-01_P1SCRWS.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00320",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e91358b7b6dc58633ae4db243b3e92fdc68338fbe41c5fae35d87c4bbaefaf01",
+  "bytes": 110086
+ },
+ {
+  "title": "P1-250 Panelboard Kit CNLK30A, CNLK42A & CNLK54A 250A Copper Neutral Lug Kits Installation Instructions (also for P1-400 subfeed)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1102-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1102-01_CNLKxxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1102-01_CNLKxxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00321",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "9731052fc776809b5bec4d93021866196248f1f6132814018c6d72bf7d50eacf",
+  "bytes": 442231
+ },
+ {
+  "title": "P1 Panelboard Kit LNLK30A, LNLK42A & LNLK54A 2/0 Neutral Lug Kits Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1103-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1103-01_LNLKxxA_instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1103-01_LNLKxxA_instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00322",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "7375441ca1825d79a09dfd5924ab8629884550c9a22f0a1e5a9940f8c190b3d7",
+  "bytes": 553586
+ },
+ {
+  "title": "P1-250 Panelboard Kit 2NLK30A, 2NLK42A & 2NLK54A 200% Neutral Lug Kits Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1104-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1104-01_2NLKxxA_instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1104-01_2NLKxxA_instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00323",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f485ec42aaa0a89f067822e1d73a89b41835ef48c233de449526058866d13f91",
+  "bytes": 390950
+ },
+ {
+  "title": "P1-250 Panelboard Kit MLKA1A & MLKA3A Main / Feed Thru Lugs Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1105-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1105-01_MLKAxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1105-01_MLKAxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00324",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "50049788050af6636ce784931d9c44c550a7694b9b988011c2dc2a7388df9610",
+  "bytes": 404729
+ },
+ {
+  "title": "P1-250 Panelboard Kit MLKC1A & MLKC3A Main / Feed-thru (copper) Lugs Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1106-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1106-01_MLKCxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1106-01_MLKCxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00325",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "fdb687a11a73ecf4e855010280dd94b7fab31793890f626cf66b2c91e006a223",
+  "bytes": 397253
+ },
+ {
+  "title": "P1-400 Panelboard Kit 42NLK30A, 42NLK42A, 42NLK54A Installation Instructions with 200% Neutral",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1107-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1107-01_42NLKxxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1107-01_42NLKxxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00326",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f957472255453351d3d2f163ffc367a2b0da61de568dea5e0c5f1cb02e195467",
+  "bytes": 486872
+ },
+ {
+  "title": "P1-400 Panelboard Kit 4MLKA1A, 4MLKA3A Main / Feed-thru Lugs Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1108-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1108-01_4MLKAxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1108-01_4MLKAxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00327",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "eb5dfbfe1af893e313f9f84e89c59b166027c6778e3707c9ba64c968432fbfc5",
+  "bytes": 433452
+ },
+ {
+  "title": "P1-400 Panelboard Kit 4MLKC1A, 4MLKC3A Copper Lugs Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1109-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1109-01_4MLKCxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1109-01_4MLKCxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00328",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0f22a2ebe8d3b3c2305bd045c26323de3f344a08d047d3fd7face5042a553237",
+  "bytes": 457452
+ },
+ {
+  "title": "P1-400 Panelboard Kit 4MLKA1B, 4MLKA3B 750 kcmil Main / Feed-thru Lugs Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1110-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1110-01_4MLKAxB_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1110-01_4MLKAxB_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00329",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "dc788f3cf42355fdddcff01a9d91d76be387ed3aab898f3fee2e42381ca3f31d",
+  "bytes": 550631
+ },
+ {
+  "title": "P1-250 Panelboard Kit MBKFD1A & MBKFD3A FD Main/Subfeed Breaker Instructions (also P1-400 subfeed)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1111-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1111-01_MBKFDxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1111-01_MBKFDxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00330",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "b8e6ace3bf4d3bf5c24a14970da2493dc2c29ef9da410e717af819496b9c2c50",
+  "bytes": 649519
+ },
+ {
+  "title": "P1-250 Panelboard Kit MBKED1A & MBKED3A ED Main/Subfeed Breaker Instructions (also P1-400 subfeed)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1113-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1113-01_MBKEDxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1113-01_MBKEDxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00331",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "76b76fd0f1321972d921645ff915c39deb4d4ecbfd798ba46a9e1dfd94d55685",
+  "bytes": 727429
+ },
+ {
+  "title": "P1-250 Panelboard Kit MBKBFA for BL/BQD/GB Main Breaker Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1114-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1114-01_MBKBFA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1114-01_MBKBFA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00332",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "17b734c5352e016cceb8cb6ca5b39230dd522495681afd3bffd54a868af1a75a",
+  "bytes": 359288
+ },
+ {
+  "title": "P1-400 Panelboard Kit MBKJD1A & MBKJD3A JD Main Breaker Kit Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1115-01 Rev. 02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1115-01_MBKJDxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1115-01_MBKJDxA_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00333",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "95ec072fe914de6d716ad7f382e73afdbee38b62f56e18f56aee8a6a1496539e",
+  "bytes": 577750
+ },
+ {
+  "title": "250A OEM Chassis Instructions (Revised P1)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1117-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1117-01_250A_OEM_Chassis_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1117-01_250A_OEM_Chassis_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00334",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "1029dc9a7ceeb60605897102212f736002ca223d1dff825eb83800b03b83bc39",
+  "bytes": 334208
+ },
+ {
+  "title": "P1 Panelboard Replacement Parts Kit P1CONACPHAL & P1CONACPHCU A/C-Phase Connector Kits Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1119-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1119-01_P1CONACPHxx_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1119-01_P1CONACPHxx_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00335",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0e2f7e34375a146db216c50ed54d4a5a1f6a0f4f908ef32694c2fc9ed21e23d8",
+  "bytes": 255144
+ },
+ {
+  "title": "P1 Panelboard Replacement Parts Kit P1CONBPHAL & P1CONBPHCU B-Phase Connector Kits Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1122-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1122-01_P1CONBPHxx_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1122-01_P1CONBPHxx_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00336",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "612fd41e3a982d9631eb9d6daec4ffd9363c81e6211bc72e8d50a1f9ef5c749d",
+  "bytes": 305030
+ },
+ {
+  "title": "SEB / SEBD Installation Instructions - Siemens EB circuit breakers in switchboard or shallow/deep panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1020-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SEB_SEBD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SEB_SEBD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00337",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5cdfdade23317aaa55ccac03b44defb86bc78cb2ead5bda1b830443b83d31bb7",
+  "bytes": 2841897
+ },
+ {
+  "title": "Switchboard/Powerpanel Kit SQRD / 6QR2 / SQR Installation Instructions for Branch Mounting of 225A MAX QR Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1133-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SQRD6QR2SQR.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SQRD6QR2SQR.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00338",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "6fd050c8addf644720a3bd109e127410f59ae4c05ed25c04b0a045210d4d8543",
+  "bytes": 505712
+ },
+ {
+  "title": "Switchboard (SB1, SB2, SB3) / Power Panel (P4, P5) Kit SDG, SDGD for Branch Mounting Type VL DG Frame Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1023-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SDG_SDGD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SDG_SDGD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00339",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "32600cfc9fc3aa9eb19a62c51c93f828bc518ba281c32a16e8adc46a1114d257",
+  "bytes": 553001
+ },
+ {
+  "title": "Switchboard (SB1, SB2, SB3) / Power Panel Kit (P5) SJG2D for Branch Mounting Type VL JG Frame Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1026-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SJG2D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SJG2D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00340",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "9d05b6c391720aa768dbb42ee5ddc5f8d9556ea6b0f088da7a02b6c7008ee24e",
+  "bytes": 501851
+ },
+ {
+  "title": "Switchboard (SB1, SB2, SB3) / Power Panel Kit (P4, P5) SJG, SJG1D, SLG, SLGD for Branch Mounting Type VL JG, LG Frame Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1025-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SJG_SJG1D_SLG_SLGD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SJG_SJG1D_SLG_SLGD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00341",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "9d35f9f4830131882565ad3b9680d798a626aff677af691bc0f2088c21563323",
+  "bytes": 498184
+ },
+ {
+  "title": "Switchboard/Power Panel Kit MG1/MG1D/SLM1/SLM1D for Branch Mounting Sentron LMD and VL MG Frame Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1016-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MG1_MG1D_SLM1_SLM1D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_MG1_MG1D_SLM1_SLM1D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00342",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "224e92f3d398a79549b52678c3b2119bd120f0a660833186c2b6479b669be523",
+  "bytes": 2791207
+ },
+ {
+  "title": "Power Panel / Switchboard Kit SGB2 / SGB2D Instructions for Branch Mounting Type GB2 Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1031-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_12-A-1031-01_SGB2_SGB2D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_12-A-1031-01_SGB2_SGB2D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00343",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "9b8959d0268d1ac54a7081f82e05cb464a20433b19001115af2e511217f9ea69",
+  "bytes": 940204
+ },
+ {
+  "title": "P4 and P5 Power Panel / Distribution Switchboard Kit S3VA41T / S3VA41TD for Branch Mounting of Type 3VA41 or xGB Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1057-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-B-1057-01_S3VA41T_S3VA41TD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-B-1057-01_S3VA41T_S3VA41TD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00344",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "256a99e9978cb7b0b8a64af3fa044cdaeb28f1f4fe6d76f92e9b31c1074c297c",
+  "bytes": 909263
+ },
+ {
+  "title": "Distribution Switchboard / Power Panel Kit S3VA41TDHD for Branch Mounting of 2-pole 3VA41 or xGB Breakers (high density)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1058-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-B-1058-01_S3VA41TDHD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-B-1058-01_S3VA41TDHD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00345",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "7431b55331693ad97427e4f7b1ec0f9103e93a69237a75b200b503be07f05695",
+  "bytes": 1081141
+ },
+ {
+  "title": "Distribution Switchboard Section / Power Panel Branch Mounting Kit S3VA52T / S3VA52TD Installation Instructions for Type 3VA52/61/62 Breaker",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1168-01 Rev. 02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Switchboard-PowerPanels_11-A-1168-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Switchboard-PowerPanels_11-A-1168-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00346",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "6b11a8640a4a6baf8ebc4b36dc04848e1027b16ba865defbfb1379f136249217",
+  "bytes": 785411
+ },
+ {
+  "title": "Distribution Switchboard Section / Power Panel Branch Mounting Kit S3VA53T / S3VA53TD for Single-Mount 3VA53 / 3VA63 Breaker",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "15-A-1078-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_S3VA53T-TD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_S3VA53T-TD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00347",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e6c075d9a68f47a0d9490efdbd6f4852e083abae91428ceb1128b37b0317d864",
+  "bytes": 948103
+ },
+ {
+  "title": "Distribution Switchboard Section / Power Panel Branch Mounting Kit S3VA54T / S3VA54TD for Single-Mount 3VA54 / 3VA64 Breaker",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "15-A-1079-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_S3VA54T-TD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_S3VA54T-TD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00348",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "56113446a6d075eacd78d691136e7c81f7a5e36dfd0d42bb30a52a9c8433a42e",
+  "bytes": 895813
+ },
+ {
+  "title": "Switchboard/Power Panel Kit SNBD/SNB for Branch Mounting Type GB Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1019-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SNBDSNB.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SNBDSNB.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00349",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "a653d7eafadc623402c3955426838e79721459ce1fdd37e5637722b59e9e1613",
+  "bytes": 485280
+ },
+ {
+  "title": "CAT. NO. 6E62 instruction sheet with drawing 11-5079-00 Rev 10 'ED2, ED4 & ED6 Mounting Series 6 Branch Bus' and BOM 11-5079-05 Rev 8",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1143-01 Rev. 4",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6E62_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_6E62_old.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00350",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "6c0c662ae6998baaaf77586ff09ae88bf2094bafec1e3d97071b3a93c59bbf14",
+  "bytes": 225738
+ },
+ {
+  "title": "CAT. NO. 6F62 instruction sheet with drawing 11-5098-00 Rev 6 'FD Frame Mounting Series 6 Branch Bus', BOM 11-5098-04 Rev 8, Series 5 adaptor kit 11-5570-01 Rev 3",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1145-01 Rev. 4",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6F62_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_6F62_old.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00351",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "4646cc47ab41eb005191c8182ab7b31c193e30426bb3dd974badf88847dafab5",
+  "bytes": 351616
+ },
+ {
+  "title": "CAT. NO. 6JJ62 instruction sheet with drawing 12-5721 Rev 11 'JD Frame Twin Mounting Series 6 Branch' (-01 = 6JJ62, -02 = SJ2D) and Series 5 adaptor kit 11-5570-02",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1169-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6JJ62_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_6JJ62_old.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00352",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "966731dca6ba7d40fc684fd344b3e86b52109d6d19778e3f26b2e56261acc42b",
+  "bytes": 324664
+ },
+ {
+  "title": "Distribution Switchboard / P5 38in wide Power Panel Mounting Kit S3VA53T2D / S3VA54T2D Instructions for Twin-mount 3VA53, 3VA63, 3VA54 or 3VA64 breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1086-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SB_11-B-1086-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SB_11-B-1086-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00353",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "4945727c613fffda6bc0276dbf3c351b72833c6c517d239dce5696f9f17caa56",
+  "bytes": 783419
+ },
+ {
+  "title": "Distribution Switchboard or P5 Power Panel Strap Mounting Kit S3VA55TD for 800A 3VA55/65 or 1000A 3VA66 Breaker",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1097-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SB_S3VA55TD_11-B-1097-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SB_S3VA55TD_11-B-1097-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00354",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "a1ca84bc504dcc7a7df75b6ce8d9e3d907359a04b598a3dfcac7b5ab8b5a1e82",
+  "bytes": 884126
+ },
+ {
+  "title": "Switchboard / P5 Powerpanel Strap Mounting Kit S3VA57TD for a 1,200A 3VA57 or 3VA67 Breaker",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1101-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-B-1101-01_S3VA55TD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-B-1101-01_S3VA55TD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00355",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "c1c15d527afdf7340ee02bd38cd5c14b6a4854e3900e8613f1f91389d056485d",
+  "bytes": 529108
+ },
+ {
+  "title": "Power Panel Kit (P4, P5) SMBKL6 / SMBKL6D for Main Mounting Sentron JD & LD Frame Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-D-1019-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SMBKL6SMBKL6D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SMBKL6SMBKL6D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00356",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "1ec9d15efceec7fee3d4a811208777c54e69f650bf366b4ef53c1484068f6d50",
+  "bytes": 978735
+ },
+ {
+  "title": "Power Panel Kit (P4, P5) SMBKLG, SMBKLG1D for Main Mounting Type VL JG, LG Frame Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-D-1022-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SMBKLG_SMBKL_G1D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SMBKLG_SMBKL_G1D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00357",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "bb13030ceedf0939b1c06befdc3cf5c3a14c936c2f37bd74b3327fef2dba8be1",
+  "bytes": 405299
+ },
+ {
+  "title": "Power Panel Kit (P4, P5) SMBKMG, SMBKMG1D for Main Mounting Type VL MG Frame Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-D-1020-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SMBKMGSMBKMG1DP.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SMBKMGSMBKMG1DP.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00358",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "baff2083bef2dfba78cbc34436f430bc813087a6312b48af5291b81498d6e05d",
+  "bytes": 1118431
+ },
+ {
+  "title": "Power Panel Kit (P4, P5) SMLK12 for Main Lug Mounting (400-1200A)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-D-1018-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SMLK12.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SMLK12.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00359",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "40bfe40be7ea55ad21fe0e2f9d9bad1921b1a8c7f001a20ffc3faa8cd87af1ff",
+  "bytes": 965893
+ },
+ {
+  "title": "Installation Instructions - general use of Siemens P5 32in or 38in wide Power Panel (P5X60MC120EH32, P5X75MC120EH32, P5X90MC120EH32, P5X90MC120EH)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-D-1013-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_P5_11-D-1013-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_P5_11-D-1013-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00360",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "72e8a7456c79363d55a0c53a7202bbb93c81edb87936ca58f666f24163a9fd7b",
+  "bytes": 608777
+ },
+ {
+  "title": "P4 / P5 Series Panelboard Box Installation For Seismic-Rated Panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-B-1015-01 Rev. 03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SeismicP4-P5_Panelboard.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SeismicP4-P5_Panelboard.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00361",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "18fc9a4e70c35a747f15096b3f95baa51b048795e782a32e46a91565a298e869",
+  "bytes": 266334
+ },
+ {
+  "title": "Revised P1 (P1-250 / P1-400) Hardware Tightening Torque instructions label",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-D-1030-01 Rev. 03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-D-1030-01_RP1-Torque_Val.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-D-1030-01_RP1-Torque_Val.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00362",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0b18c8e39885ab88a614acfbff5ce88bb56da7fe53bcc4a71f740cd54e94c8a5",
+  "bytes": 783141
+ },
+ {
+  "title": "P2 & P3 Panelboard Kit BBKGB32 Installation Instructions for Branch Mounting Type GB2 Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1030-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_BBKGB32_12-a-1030-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_BBKGB32_12-a-1030-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00363",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "1e456b655ce11b0c723ef76626d0e0fe1b633a2fcd67b63b3a952d08fd0fc007",
+  "bytes": 782794
+ },
+ {
+  "title": "P2 & P3 Panelboard Kit BBKNB32 Installation Instructions for Branch Mounting Type GB Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1092-01 Rev. 02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_12-A-1092-01_BBKNB32.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_12-A-1092-01_BBKNB32.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00364",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e9ca9d112c9514b3be0c1791fc8e8215dc026e457c7a107affcea7c0ba282560",
+  "bytes": 961848
+ },
+ {
+  "title": "BBKVA4P2P3 Type 3VA41 or xGB Branch Breaker Mounting Kit Installation Instructions for P2 or P3 Panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1055-01 Rev. 02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_BBKVA4P2P3_InstructionSheet.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_BBKVA4P2P3_InstructionSheet.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00365",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "c81331f6d601fe9d54e5e1f8f31d1a0ed0d3bc409d84f01e75dcfcd43e1818e8",
+  "bytes": 1153930
+ },
+ {
+  "title": "P2 Panelboard Kit BBKQR1 Installation Instructions for Branch Mounting of 225A MAX QR Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1131-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_BBKQR1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_BBKQR1.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00366",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "189c4dcd24c254c4dbb7cce8220668fdb9e115de5c8f12bf7344335b3d86ed16",
+  "bytes": 511254
+ },
+ {
+  "title": "P3 Panelboard Kit BBKQR2 Installation Instructions for Branch Mounting of 225A MAX QR Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1132-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1132-01_BBKQR2.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1132-01_BBKQR2.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00367",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "7ac02328ec3e8a6f4e160dddb0ece59e2b58912411d9e96ab113d465fdc74437",
+  "bytes": 606466
+ },
+ {
+  "title": "BBKVA5262P2HW hardware kit instructions (3VA52/61/62 breaker to P2/P3 strap kit)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1050-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_BBKVA5262P2HW_11-B-1050-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_BBKVA5262P2HW_11-B-1050-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00368",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e748b10d59e14ccce0bafd53dc6f0744beefc96199963924853ddecd9321a68d",
+  "bytes": 429544
+ },
+ {
+  "title": "P2 / P3 Panelboard Kit BBKVA5262P2S Installation Instructions for Branch Mounting 3VA52 / 3VA61 / 3VA62 Circuit Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1051-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_BBKVA5262P2S_11-B-1051-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_BBKVA5262P2S_11-B-1051-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00369",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "d6bffc35449196878f12b33c016412911310f3a88d188d072414361670b1831d",
+  "bytes": 1229165
+ },
+ {
+  "title": "BBKVA52P3HW hardware kit instructions (3VA52 FAS breaker in P3 twin strap kit; supersedes breaker instructions above 500 V)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1166-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-a-1166-01_BBKVA52P3HW_3VA52.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-a-1166-01_BBKVA52P3HW_3VA52.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00370",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "cd368a6500fbe45e730146bd4f3522287f6f3b8cbded9a533cc44c87d739bc5c",
+  "bytes": 321199
+ },
+ {
+  "title": "P3 Panelboard Kit BBKVA52P3T Installation Instructions for Branch Mounting of Twin FAS (3VA52) Breakers",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1167-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-a-1167-01_BBKVA52P3T_3VA52.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-a-1167-01_BBKVA52P3T_3VA52.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00371",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "53f903c29b2daf6f27dc7298a7592e404de3c82e5bc6158a101a7cf54c8aacc6",
+  "bytes": 2441596
+ },
+ {
+  "title": "P1-250 Panelboard Kit MBKBL1A & MBKBL3A BL Main/Subfeed Breaker Instructions (also P1-400 subfeed)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1140-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-a-1140-01_MBKBLxA.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-a-1140-01_MBKBLxA.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00372",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f91db9be881610068ec185b598719485eaeeffca1f9ff7d5e8fda529cb3d71bb",
+  "bytes": 942456
+ },
+ {
+  "title": "P1-250 Panelboard Kit MBKBC1NBA & MBKBC3NBA BQD / GB Main/Subfeed Breaker Instructions (also P1-400 subfeed)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1141-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MBKBCxNBA_11-a-1141-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_MBKBCxNBA_11-a-1141-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00373",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "c5ad4ecbed94c2efdeb0027aea04eceba6cb1de318f81c55c642b680e1c35921",
+  "bytes": 736607
+ },
+ {
+  "title": "MBKVA41A or MBKVA41B BL / BQD / xGB / 3VA4 Main / Subfeed Breaker Kit for P1-250 Panelboard (or P1-400 Subfeed)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1193-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-A-1193-01_MBKVA41x_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-A-1193-01_MBKVA41x_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00374",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "024f78c07a85c2ab7654218d3127237ff01e0f6c714d02fd6226746b0575a503",
+  "bytes": 1221596
+ },
+ {
+  "title": "MBKVA5262A / MBKVA5262B 3VA52 / 3VA61 / 3VA62 Main or Subfeed Breaker Kit for P1-250 Panelboard (or P1-400 Subfeed)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1059-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_MBKVAxx_11-B-1059-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_MBKVAxx_11-B-1059-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00375",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0eb84b357561e45c17fe5c994ce5abee596486f6d03584051ad817cfe35692a4",
+  "bytes": 1199525
+ },
+ {
+  "title": "MBKVA5363A 3VA Main Strap Kit Installation Instructions for P1-400 Panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1169-01 Rev. 02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-A-1169-01_MBKVA5363A.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-A-1169-01_MBKVA5363A.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00376",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "d08d3bf186df2ebaab0f87e10bbdffc1f84fa6104a1861643521147993ee6e5e",
+  "bytes": 1283105
+ },
+ {
+  "title": "P1-400 Panelboard Kit MBKJD1A & MBKJD3A (MBKJD3B) JD Main Breaker Kit Instructions, Rev. 05",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1115-01 Rev. 05",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-A-1115-01_MBKJD3B_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-A-1115-01_MBKJD3B_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00377",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "4ac7fde9538fb0aaf22ae4d398e44e314aaed6d1749b90da492825fc475c9010",
+  "bytes": 525363
+ },
+ {
+  "title": "S1 & P1 Panelboard Kit MBKQR1 & MBKQR3 for 225A MAX QR Main/Subfeed Breaker (NOT for Revised P1)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1138-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MBKQR1_MBKQR3.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_MBKQR1_MBKQR3.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00378",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "c22399fd574959f77726c5d3a23f6f008e6595ce5a03391a85643c8343ba395e",
+  "bytes": 412122
+ },
+ {
+  "title": "MBKQRC1FK C1 Filler Kit for QR Breaker Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1137-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MBKQRC1FK.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_MBKQRC1FK.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00379",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "c98d1dc829328dc0318406f8b565dae9c104a8edae32d417389ed5803e9f24b7",
+  "bytes": 185697
+ },
+ {
+  "title": "BBKQRP1FK filler kit for horizontally or vertically mounted 225A MAX QR breaker (P2)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1135-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1135-01_BBKQRP1FK.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1135-01_BBKQRP1FK.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00380",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "29b3d3b384af10ada93974ed02bd4f80f04098a2f7ec8098a9720fd2ee0a1623",
+  "bytes": 278147
+ },
+ {
+  "title": "BBKQRP2FK filler kit for dual-mounted horizontal 225A MAX QR breakers (P3)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1136-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1136-01_BBKQRP2FK.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1136-01_BBKQRP2FK.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00381",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "709ff4ab465b0707f57b0757cd9ad816f9b7c21dab0e4399857dce3254000ab2",
+  "bytes": 237540
+ },
+ {
+  "title": "MBKQRFK P1 / RP1 Filler Kit for QR Breaker Installation Instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1134-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MBKQRFK.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_MBKQRFK.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00382",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "8913fcccc73e4b7f05f871666cf9f485407c2472a0bfe3cbee11f7c330ad4c77",
+  "bytes": 325260
+ },
+ {
+  "title": "LNLK4X11B, LNLK6X17B or LNLK7X20B 2/0 Neutral Lug Kit Instructions for P1 or P3 Panelboards (Revised P1 only)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1032-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-B-1032-01_LNLKxxxxB_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-B-1032-01_LNLKxxxxB_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00383",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "9d1728b02c42beb4bfa51f827f5dc72c7f0287e14425343376aaf4c1d21895c1",
+  "bytes": 1010450
+ },
+ {
+  "title": "LNLK5X12A or LNLK7X18A 1/0 Neutral Lug Kit Instructions for P1 Panelboards (Revised P1 only)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1036-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-B-1036-01_LNLKxxxxA_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-B-1036-01_LNLKxxxxA_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00384",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "9d64080ab40956c22d547df634735c989be029fe96263f19e669818d107228ea",
+  "bytes": 1084487
+ },
+ {
+  "title": "CNLK42B or CNLK54B Copper Neutral Lug Kit Instructions for P1 Panelboards (Revised P1 only)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1033-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-B-1033-01_CNLKxxB_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-B-1033-01_CNLKxxB_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00385",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "74afc8042564a1316bb2544f0d5c2a58bce05b0b2c2cadaa33ca6b5d6c790c37",
+  "bytes": 1285668
+ },
+ {
+  "title": "2NLK42B or 2NLK54B 200% Neutral Lug Kit for P1-250 Panels (Revised P1 only)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1034-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-B-1034-01_2NLKxxB_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-B-1034-01_2NLKxxB_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00386",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5e0dec7dd3d1306baf6f51651c3489b95d94b215660422ea8365a59eae676fee",
+  "bytes": 1136240
+ },
+ {
+  "title": "42NLK54B 200% Neutral Lug Kit for 30, 42, 54 or 66 Circuit P1-400 Panels (Revised P1 only)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1035-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-B-1035-01_42NLK54B_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-B-1035-01_42NLK54B_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00387",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f0806bb854b45f2c8f50d2b00c22f6d99f97b349db6fbd10b49f9635d7b17d2e",
+  "bytes": 489306
+ },
+ {
+  "title": "SEBKRP1V1 / SEBKRP1V2 Service Entrance Barrier Kits for Revised P1 Panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1148-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1148-01_SEBKRP1V1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1148-01_SEBKRP1V1.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00388",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "4c2955b4f2cb8c8acd308b146bb84ad3b579f5b295fc81f4777de253de2d7d77",
+  "bytes": 331880
+ },
+ {
+  "title": "SEBKRP1V3 / SEBKRP1V4 Service Entrance Barrier Kits for Revised P1 Panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1149-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1149-01_SEBKRP1V3.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1149-01_SEBKRP1V3.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00389",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "a272d123832108153dd77add1bd0c5dd6ba23c592a6f5278dccecca1364ea37f",
+  "bytes": 309140
+ },
+ {
+  "title": "SEBKRP1V5 Service Entrance Barrier Kit for Revised P1 Panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1165-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1165-01_SEBKRP1V5.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1165-01_SEBKRP1V5.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00390",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "79450dd53642bcec0ef747eec99d450ae3c8f00888471b2fff91642e99bd321d",
+  "bytes": 355114
+ },
+ {
+  "title": "SEBKRP1V6 Service Entrance Barrier Kit for Revised P1 Panelboard",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1194-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-A-1194-01_SEBKRP1V6_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-A-1194-01_SEBKRP1V6_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00391",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "794ff1ffd1fcbe499763a5d1e618f79316deda1be3ee43178a7341fcad658822",
+  "bytes": 427477
+ },
+ {
+  "title": "SEBKRP1V7 Service Entrance Barrier Kit for RP1 Panelboard",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1060-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-B-1060-01_SEBKRP1V7.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-B-1060-01_SEBKRP1V7.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00392",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "19beb96a2d0b6be8ce0fb969eaaf7f2a72e8d9348bf5caa29026fa9f7227c17d",
+  "bytes": 306530
+ },
+ {
+  "title": "SEBKP2V1 / SEBKP2V2 Service Entrance Barrier Kit for P2 Panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1151-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1151-01_SEBKP2V1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1151-01_SEBKP2V1.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00393",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "65070a95ee0055712d55c69fd82400c6f58b2cb03ca19ccc8cd82ea4280c55ef",
+  "bytes": 269282
+ },
+ {
+  "title": "SEBKP2V3 Service Entrance Barrier Kit for P2 or P3 Panelboards (with or without SEM3)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1153-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1153-01_SEBKP2V3.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1153-01_SEBKP2V3.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00394",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f13979213377ad1177e04e44c12162d331bdcfddc76b104d7da614e1849e88e2",
+  "bytes": 241308
+ },
+ {
+  "title": "SEBKP2V4 / SEBKP3V1 Service Entrance Barrier Kits (vertical mains) for P2 / P3",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1154-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1154-01_SEBKP2V4_SEBKP3V1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1154-01_SEBKP2V4_SEBKP3V1.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00395",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "985c9d4475996dd8d4cc8dd7671b0f724c95782714d0a02d1fd9a4496e8f8149",
+  "bytes": 275872
+ },
+ {
+  "title": "SEBKP2V5 Service Entrance Barrier Kit for P2 (ED/CED main)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1155-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1155-01_SEBKP2V5.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1155-01_SEBKP2V5.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00396",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0756ccb8a0322146a7d5c095fe2e3ee79997a2977906fe1fafeeda927635007b",
+  "bytes": 189102
+ },
+ {
+  "title": "SEBKP2V6 Service Entrance Barrier Kit for P2 (vertical ED main)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1156-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1156-01_SEBKP2V6.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1156-01_SEBKP2V6.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00397",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e852fefa9b5659e2bf266079bab8eded5374a4037ffc81002be22a7b4708b5d1",
+  "bytes": 254321
+ },
+ {
+  "title": "SEBKP1P2P3V1 Service Entrance Barrier Kit for Revised P1, P2 or P3",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1157-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1157-01_SEBKP1P2P3V1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1157-01_SEBKP1P2P3V1.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00398",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "c10b03ab6d5690fd1bd8d616560264349433e60f4f26aa8369e3f944a44be5bf",
+  "bytes": 325136
+ },
+ {
+  "title": "SEBP4V1 Service Entrance Barrier Kit for P4 or P5",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1158-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SEBP4V1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SEBP4V1.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00399",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "71441a1f96d68b330e440e35989d88c4c4563b6ae8046a9e9ff23ef38a996736",
+  "bytes": 247256
+ },
+ {
+  "title": "SEBP4V2 Service Entrance Barrier Kit for P4 or P5",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1159-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SEBP4V2.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SEBP4V2.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00400",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f5f26a8282766141438034e2316ec28b983c6713eb4026f83f99880a66ca0051",
+  "bytes": 277170
+ },
+ {
+  "title": "SEBP4V3 Service Entrance Barrier Kit for P4 or P5",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1162-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SEBP4V3.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SEBP4V3.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00401",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f46ff24ae05e4a7280eab608b49228943daab59d978283fcc917ffb40d5dc006",
+  "bytes": 188983
+ },
+ {
+  "title": "SEBP5V1 / SEBP5V2 Service Entrance Barrier Kit for P5",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1160-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SEBP5V1_SEBP5V2.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SEBP5V1_SEBP5V2.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00402",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "57ad3343f839506166cfce624e8d56254c84780b2a1dd13fb387a890c577ce53",
+  "bytes": 211388
+ },
+ {
+  "title": "SEBP5V3 Service Entrance Barrier Kit for P5 (Vacu-Break main switch)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1163-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SEBP5V3.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SEBP5V3.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00403",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0f4534e2a6ccd970ed51ebc47cb337bb17ecfda8bcadcf6a1cd7ceca071e076c",
+  "bytes": 392419
+ },
+ {
+  "title": "SEBP5V4 Service Entrance Barrier Kit for P5 (HCP main)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1164-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SEBP5V4.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SEBP5V4.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00404",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "347e46c4373710364745d2eca58ac7bfb29ec579bd55ddc13cd603fca9816773",
+  "bytes": 203618
+ },
+ {
+  "title": "SEBPPVA1 Service Entrance Barrier Kit for Switchboard or P4/P5 (3VA53/63/54/64)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "15-A-1081-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_15-A-1081-01_SEBPPVA1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_15-A-1081-01_SEBPPVA1.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00405",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "94554af6f9b5d6c7069cbf503896457d6640da113caf7483bc8f97cda39011d1",
+  "bytes": 402795
+ },
+ {
+  "title": "SEBPPVA2 Service Entrance Barrier Kit for 3VA55, 3VA65 or 3VA66 Breaker in a P5 Panelboard",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1095-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-B-1095-01_SEBPPVA2.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-B-1095-01_SEBPPVA2.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00406",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "1489ba49666bd7fb52e334275919d61b15d1920cc27919030c74d8d401468610",
+  "bytes": 495632
+ },
+ {
+  "title": "DFFP01A / DFFP01B / DFFP01C / DFFPJD01 / DFFPJD02 / DFFPVA41A / DFFPV5363A replacement filler plates for Siemens Lighting Panels",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1180-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-A-1180-01_DFFPxxxx_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-A-1180-01_DFFPxxxx_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00407",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "8f404e9da327c69f96f5152ea79f8849b2cd1470bd55ebfcd5ad4575cf875c2a",
+  "bytes": 158577
+ },
+ {
+  "title": "DFFPVA5262A Filler Plate Kit replacement filler plate (3VA52/61/62)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1061-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_DFFPVA5262A_FillerPlateKit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_DFFPVA5262A_FillerPlateKit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00408",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "198a09504866136c91aa129df5993e6c024758e4b3f50a533520abdcca5e7919",
+  "bytes": 227315
+ },
+ {
+  "title": "DFFPVA5262P2A filler plate (3VA52/61/62 single mount) installation",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1052-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_DFFPVA5262P2A_FillerPlate.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_DFFPVA5262P2A_FillerPlate.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00409",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "bbac4813728aa4305f7af2c3d5ad5d2a94e41912512b2133c0142bf234cf772b",
+  "bytes": 232578
+ },
+ {
+  "title": "DFFPVA5262P2B Provision Plate kit installation",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1053-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_DFFPVA5262P2B_ProvisionPlate.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_DFFPVA5262P2B_ProvisionPlate.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00410",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "50b9d9e54902efc68695f3dfed092fac4b04114962ed8c15a8b8b1b388087362",
+  "bytes": 765435
+ },
+ {
+  "title": "DFK07-DFK21 replacement deadfront center strip for P2 and P3 panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1182-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1182-01_DFKxx.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1182-01_DFKxx.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00411",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "2ca719ee6ce41aa432c29dd722bb743ac634371be7b54d3ac906986226895de3",
+  "bytes": 386895
+ },
+ {
+  "title": "DFP3AP01 replacement Adaptor Plate for BL/BQD/ED/GB/GB2 breaker in P3",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1178-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1178-01_DFP3AP01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1178-01_DFP3AP01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00412",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "1536b45e24fe06082d447fc27e4ae79a5fbcec135096adf03bc48395e21f878c",
+  "bytes": 233237
+ },
+ {
+  "title": "LPP2NB01 neutral lug replacement / addition kit for P2 panelboard",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1179-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1179-01_LPP2NB01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1179-01_LPP2NB01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00413",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "9795df6d938dee5e83f5e98d584cae0fbad97bb4898380096c13d9e781415940",
+  "bytes": 530972
+ },
+ {
+  "title": "BNK350N 350 MCM narrow neutral lug replacement kit for P2 and P3",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1177-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1177-01_BNK350N.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1177-01_BNK350N.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00414",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "c5ef723dbf6d32fa6690b6c8ff6c85176a686b3339b648108cd81fed3f6a4ff2",
+  "bytes": 191263
+ },
+ {
+  "title": "LPDC01 panelboard directory card kit",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1184-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1184-01_LPDC01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1184-01_LPDC01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00415",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e6ab869f864ecd7aad7236c0174d4fac8296dd881d26cb8684fd844c82371153",
+  "bytes": 158506
+ },
+ {
+  "title": "LPLOCK01A / LPLOCK02A replacement panelboard door locks",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1175-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1175-01_LPLOCK0xA.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1175-01_LPLOCK0xA.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00416",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "b38eefe220f6c9f8aaf7addb9a8bad7068dd90bdf562a2cb8e06744106b10efc",
+  "bytes": 206823
+ },
+ {
+  "title": "EWK1 / EWK2 / EWK1B / EWK2B box end wall kits",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1004-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_EWK1-2-1B-2B-11-A-1004-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_EWK1-2-1B-2B-11-A-1004-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00417",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "818d23f898ea9e7d9edb729439503979500680c4e4c90731c5aa64eed95ec34a",
+  "bytes": 347378
+ },
+ {
+  "title": "EWK3 instructions for special open endwall",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1143-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_EWK3_11-A-1143-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_EWK3_11-A-1143-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00418",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "506303c0148312844120a83365a6fde5d1a716313cb016a3e46ca81829a0181d",
+  "bytes": 280956
+ },
+ {
+  "title": "BXXCVR extension cover mounting instructions",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1144-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_BXXCVR_11-A-1144-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_BXXCVR_11-A-1144-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00419",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0622045f053bca6f66b3af8a93c5ebad5a11cd5e695ef9bd641da5a47e586da1",
+  "bytes": 379834
+ },
+ {
+  "title": "B74FLR preparation for installation instructions (74 in box)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1129-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_B74FLR_11-A-1129-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_B74FLR_11-A-1129-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00420",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "4a5d3e92c9530d5ecaeafead5054c82c6aaed6dd641f6fdda2faa6e757d2aa01",
+  "bytes": 353122
+ },
+ {
+  "title": "NBK01A / NBK02A / NBK03A circuit numbering strips for Revised P1",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1197-00 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-A-1197_NBK0xA_kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-A-1197_NBK0xA_kit.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00421",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5ec010acce535ce0660e77b5a31dbac2f7b8084cf43301579c4f3089ec662241",
+  "bytes": 157297
+ },
+ {
+  "title": "P1DFS250AFT or P1DFS250ANFT RP1-250 Panelboard Deadfront Supports",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1196-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-A-1196-01_P1DFS250AxFT.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-A-1196-01_P1DFS250AxFT.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00422",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f3580664fd47c681b9b949125629309c12d2d13cd85b89b1ff428aef002f4b40",
+  "bytes": 182590
+ },
+ {
+  "title": "P1DFS400A RP1-400 Panel Deadfront Supports",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1190-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_RP1_11-A-1190-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_RP1_11-A-1190-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00423",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "1d45d742dba3d518e056c144a7184b5e18f4b157b42071c9c5b247729ee0308f",
+  "bytes": 155047
+ },
+ {
+  "title": "S3VA52PR provision kit (3VA52/61/62 nut keepers and bus extensions)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1171-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_11-A-1171-01_S3VA52PR.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_11-A-1171-01_S3VA52PR.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00424",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "4c6c34c8828dccef311ceafe1c8981f6f603835e2c3ac873a9ece1119bab89a9",
+  "bytes": 256747
+ },
+ {
+  "title": "SQRC QR Breaker Retrofit Field Kit Installation Instructions for P4/P5/SB",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1139-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SQRC.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SQRC.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00425",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e3bfa08ac8c9e604a2f4ee7c6f4c1f584aad90b2b836f7ae7aa02893b2584378",
+  "bytes": 135999
+ },
+ {
+  "title": "Lighting Panel Ground Bus Information: P1-P2-P3 (EGK / ECGK / IGK / ICGK)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_EGK_LightingPanel_GroundBus_Information.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_EGK_LightingPanel_GroundBus_Information.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00426",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "738e9ff6e610c348d113878c280aa53960130afaf876043bea2cf0124fbf4f65",
+  "bytes": 77717
+ },
+ {
+  "title": "Trim & Hinge Installation Instructions (P4 / P5)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1078-01 Rev. 02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1078-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/SIE_IS_Panelboard_11-A-1078-01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00427",
+  "mfr": "GEA",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "727f6d16be8c452ec424cab188c56ee00b55e15edf453b5d859cb06675bdabea",
+  "bytes": 242008
+ },
+ {
+  "title": "Switchboard/Powerpanel Kit SBLBD/SBL for Branch Mounting Type BL/BQDH Breakers (scanned; read visually)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1013-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SBL_SBLBD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SBL_SBLBD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00428",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "ff7aea3586e7c6a95325be3576fae99c49453f38097501a2e3ef101aa34fbf15",
+  "bytes": 2049080
+ },
+ {
+  "title": "Switchboard/Distribution Panel Kit 6JJ61/SJ1D/6SJL1/SSJ1D, 6LL61/SL6D/SSL6D/6SLL1 for Branch Mounting Type JD/SJD/LD/SLD Breakers (scanned; read visually)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1012-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SJ1D_SSJ1D_SL6D_SSL6D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_SJ1D_SSJ1D_SL6D_SSL6D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00429",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "2d4f90cd9e195b3457f254ecad8eed721c18b4020ccba9efaa2705e6d9480ea0",
+  "bytes": 2443131
+ },
+ {
+  "title": "P2 & P3 Panelboard Kit BBKB32 For Branch Mounting of BL & BQD Breakers (scanned; read visually)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1078-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_12-A-1078-01_BBKB32.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_12-A-1078-01_BBKB32.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00430",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5f9500fabe15e3ff710d62dae9f98b6c76dad359b1f9cf04bae73ea30ecf4ead",
+  "bytes": 1158046
+ },
+ {
+  "title": "P2 & P3 Panelboard Kit BBKED32 For Branch Mounting of ED Breakers (scanned; read visually)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1079-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_12-A-1079-01_BBKED32.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_12-A-1079-01_BBKED32.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00431",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "8bd8ea170491afe3ef964c96073e36c34a9a7d8ee72ed2400c7f89b72b20e03e",
+  "bytes": 1176842
+ },
+ {
+  "title": "P3 Panelboard Kit BBKQ2 For Branch Mounting of QJ Breakers (scanned; read visually)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1081-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_12-A-1081-01_BBKQ2.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_12-A-1081-01_BBKQ2.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00432",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "b112520ffe4f67de0e5509087a30d7b3cf61fd477391ea68724a0dffe5c5a8b6",
+  "bytes": 945692
+ },
+ {
+  "title": "P3 Panelboard Kit BBKEB32 For Branch Mounting of EB Breakers (scanned; read visually)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1093-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_12-A-1093-01_BBKEB32.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_12-A-1093-01_BBKEB32.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00433",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "7b3341bee8a694970ca16f831ab8be531545409ac7dd432f3b06dc292adb652f",
+  "bytes": 1338114
+ },
+ {
+  "title": "CAT. NO. SCE - CED6 breaker mounting, S4 copper branch bus (drawing 15-B-2012-00 / BOM 15-B-2012-05 Rev 4)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1200-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1200-01_SCE.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1200-01_SCE.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00434",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "807698d1f6fc51c6700b5db772fdf179e5932a334381431f70afc5fca111c8c6",
+  "bytes": 330563
+ },
+ {
+  "title": "CAT. NO. SF6 - F6 frame mounting S4 copper branch bus (drawing 15-B-2014-00 Rev 4 / BOM 15-B-2014-03 Rev 7)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1202-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1202-01_SF6.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1202-01_SF6.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00435",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e973e288cc71fb92e8e9b7e2255f75fa3c9f866c4585925632cb1f01a636330f",
+  "bytes": 123562
+ },
+ {
+  "title": "CAT. NO. SCF - 225 A CLF breaker, S4 copper branch bus (drawing 15-B-2016-00 Rev 2 'CLF main/branch kit SPP (shallow)' / BOM 15-B-2016-03 Rev 5)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1204-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1204-01_SCF.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1204-01_SCF.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00436",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "3ff9b5ac20d828d28ceaa28f6d312f4b3071e85f7fe02e204c06c6b81323e839",
+  "bytes": 321340
+ },
+ {
+  "title": "CAT. NO. SCJ - CJD6 (CLJ, CJD6) breaker mounting, S4 copper branch bus (drawing 12-B-2002-00 Rev 6 / BOM 12-B-2002-03 Rev 4)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1208-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1208-01_SCJ.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1208-01_SCJ.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00437",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "f3b0c390869c75c397f830f9517ea3f1b7d432ffd2cd9f60c6707a3a682fadec",
+  "bytes": 117921
+ },
+ {
+  "title": "CAT. NO. SCL - CLD6 (CLL, CLD) breaker mounting, S4 copper branch bus (drawing 12-B-2006-00 Rev 7 / BOM 12-B-2006-03 Rev 7)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1212-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1212-01_SCL.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1212-01_SCL.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00438",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "9b6e7961d80bbaaebd45661ea9a826443bb232f875a8ce210aaab1437f68e057",
+  "bytes": 117649
+ },
+ {
+  "title": "CAT. NO. SSCL - SCLD6 breaker mounting, S4 copper branch bus (drawing 12-B-2013-00 Rev 4 / BOM 12-B-2013-03 Rev 7)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1213-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1213-01_SSCL.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1213-01_SSCL.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00439",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "77cc19f70a304d586e497cf9ea330c0c99e90370ccc3e1f934f7ca63fa59c22f",
+  "bytes": 113874
+ },
+ {
+  "title": "CAT. NO. SF6D - FD6 frame mounting S4/S5 copper branch bus (drawing 11-5098-00 Rev 6 / BOM 11-5098-03 Rev 9)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1218-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1218-01_SF6D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1218-01_SF6D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00440",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "ac42c77ff6c8aa8bb991310c515c319d57aa53bacea5e9a1f407ade3644215c2",
+  "bytes": 134281
+ },
+ {
+  "title": "CAT. NO. SCFD - CFD6 branch breaker mounting S4/S5 copper bus (drawing 11-5383-00 Rev 5 / BOM 11-5383-02 Rev 8)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1220-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1220-01_SCFD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1220-01_SCFD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00441",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "ff497782ea8438aa42215df8237ba5b6ef82a3722e37a6ca444374bd3cde8c91",
+  "bytes": 397105
+ },
+ {
+  "title": "CAT. NO. SCJD - drawing 12-5719 Rev 10 'CJD frame mount Series 6 - branch'",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1225-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1225-01_SCJD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1225-01_SCJD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00442",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5b84eb28499f4e1e5e4236d7d47f533b6d2ae76ac5edc5b93a5ad82e525736e3",
+  "bytes": 137423
+ },
+ {
+  "title": "CAT. NO. SSCLD - drawing 12-5772 Rev 8 'SCLD frame mount Series 6 - branch'",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1230-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1230-01_SSCLD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1230-01_SSCLD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00443",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "66aba4b9729b11d1222ce8775acdb44ca17e91d2ccf5b8ee5c0f613c6d452d9a",
+  "bytes": 139706
+ },
+ {
+  "title": "CAT. NO. SCLD - drawing 12-5720 Rev 11 'CLD frame mount Series 6 - branch' (-01 = 6CLL1, -02 = SCLD)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1229-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_12-5720-02_SCLD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_12-5720-02_SCLD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00444",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "bd5a6ae019ccdc0368fd775ef9b24878cd867baedbecb53ca2c0bec5f193773e",
+  "bytes": 135603
+ },
+ {
+  "title": "CAT. NO. SCED - CED6 branch breaker mounting S5 copper branch bus (drawing 11-5068-00 Rev 2 / BOM 11-5068-06 Rev 3)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1216-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-5068-01_SCED.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-5068-01_SCED.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00445",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "7de8b8d4f58d9654ef25fc0add6b3668fd8670b9a7a7ec6d458bd8b6bbd1985e",
+  "bytes": 340827
+ },
+ {
+  "title": "Switchboard (SB1, SB2, SB3) / Power Panel Kit (P4, P5) SFG, SFGD for Branch Mounting Type VL FG Frame Breakers (scanned; read visually)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1024-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-B-1024-01_SFG_SFGD.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-B-1024-01_SFG_SFGD.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00446",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "e367e60ffc5d815b9a7780636a42512098a833c4b908327aa5d8a0e4f2e4bc3e",
+  "bytes": 696012
+ },
+ {
+  "title": "EB Deadfront Filler EBF1 installation instruction card (drawing 11-D-1017)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-D-1017-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_EBF1_11-d-1017.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_EBF1_11-d-1017.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00447",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5eec04f7cc6db33d2a88a2c0edf8db33709877b8186d3875ef5de25c1edb74e8",
+  "bytes": 126213
+ },
+ {
+  "title": "P3 Bonding Kit P3BK1 instruction card (drawing 11-D-1007)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-D-1007-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_P3BK1_11-d-1007.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_P3BK1_11-d-1007.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00448",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0de5f7841c8b0d8a5a62bfaa71fe514bcc34aa926bd40ea5cd7bc8c89a7136a1",
+  "bytes": 62300
+ },
+ {
+  "title": "Mounting and Leveling Kit IMK1 instruction card",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1002-01 Rev. 4",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LP_IMK1_11-a-1002.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_LP_IMK1_11-a-1002.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00449",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "0a3965307c3d2f2999ccfc220a672b0f599e08c264c01b7b82b339b209b3912b",
+  "bytes": 65409
+ },
+ {
+  "title": "BK1A Bonding Kit for P1-250 & P1-400 instruction card",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1096-01 Rev. 02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1096-01_BLK1A_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1096-01_BLK1A_Instructions.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00450",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5d24f22fb9da7382234180656ccaadb68f5edb6e952664f40c8fdfcd7436788c",
+  "bytes": 22531
+ },
+ {
+  "title": "P2 Panelboard Kit DFK1 For Dead Front Coverage of 1in Pole Breaker Modules",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1082-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_12-A-1082-01_DFK1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/SIE_IS_12-A-1082-01_DFK1.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00451",
+  "mfr": "GEA",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "ebf22b1d92646fe213e82a54174ba113410dc41cba2f0da8a8d90a8068f50173",
+  "bytes": 277019
+ },
+ {
+  "title": "P2 & P3 Panelboard Kit DFFP3 For Dead Front Coverage of a 3 in Unallocated Branch Space",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1083-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_12-A-1083-01_DFFP3.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/SIE_IS_12-A-1083-01_DFFP3.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00452",
+  "mfr": "GEA",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "6b5d5b5c4c85875d482601c95f7ff81ecfe0980b466e4e61f084088ded5f30dd",
+  "bytes": 307485
+ },
+ {
+  "title": "P2 & P3 Panelboard Kit DFFP6 For Dead Front Coverage of a 6 in Unallocated Branch Space",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "12-A-1084-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_12-A-1084-01_DFFP6.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/SIE_IS_12-A-1084-01_DFFP6.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00453",
+  "mfr": "GEA",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "5072faaff8da5ca913101bce89ee24fc706b892dc6ebf1a121dc76fb5ed8b4f4",
+  "bytes": 301937
+ },
+ {
+  "title": "CAT. NO. F602 Vacu-Break mounting F1 branch kit, 2.5 in & 5 in high twin units (drawing 11-B-2000-00 Rev 3 / BOM 11-B-2000-02 Rev 6) for SPP/FPP/S4/F1/P4 (shallow box)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1001-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-B-1001-01_F602.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-B-1001-01_F602.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00454",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "86f1dad821dcea0d800437b85ef0e45ca471363f840f37aa479c280950752277",
+  "bytes": 71946
+ },
+ {
+  "title": "CAT. NO. F657 Vacu-Break mounting F1 branch kit, 7.5 in high twin units (drawing 11-B-2001-00 Rev 3 / BOM 11-B-2001-02 Rev 6) for SPP/FPP/S4/F1/P4 (shallow box)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1002-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-B-1002-01_F657.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-B-1002-01_F657.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00455",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "1e929e4ea36d3334fb05823a202dc99ed2e628494ec16d89eeaa65318e302506",
+  "bytes": 73723
+ },
+ {
+  "title": "CAT. NO. F671 Vacu-Break mounting F1 branch kit, 7.5 in & 10 in high single units (10 in unit) (drawing 11-B-2002-00 Rev 2 / BOM 11-B-2002-04 Rev 7) for SPP/FPP/S4/F1/P4 (shallow box)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-B-1004-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-B-1004-01_F671.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-B-1004-01_F671.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00456",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "da23b428c534345d809d8817932fa3428635056ef87ff277ae9666e8d60b0940",
+  "bytes": 67224
+ },
+ {
+  "title": "CAT. NO. F602D Vacu-Break mounting kit for 2.5 in high twin units (30A) mounted in SPP/FPP/S5/F2/P5 panelboards (deep box)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1239-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1239-01_F602D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1239-01_F602D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00457",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "4dcc29b7f36bbf5b3fa4ec7d4aa416cb10a8c92a21c9ac038d9c965bfafd72a5",
+  "bytes": 474706
+ },
+ {
+  "title": "CAT. NO. F657D Vacu-Break mounting kit for 5 in and 7.5 in high twin units (30, 60, 100A) mounted in SPP/FPP/S5/F2/P5 panelboards (deep box)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1240-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1240-01_F657D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1240-01_F657D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00458",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "32d84750dbf73c44764afdefe20a679a32e956fcc99070dc991f4f337303fbf1",
+  "bytes": 610595
+ },
+ {
+  "title": "CAT. NO. F671D Vacu-Break mounting kit for 7.5 in and 10 in high single units (200A) mounted in SPP/FPP/S5/F2/P5 panelboards (deep box)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "31-1242-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_31-1242-01_F671D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_31-1242-01_F671D.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00459",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "19141e44815dc4fc49171d566fd46fcb8c3f61d468863ae75122155ca5442d56",
+  "bytes": 635664
+ },
+ {
+  "title": "Installation Instructions for TPS3 09 in Lighting Panelboards Type P1",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "#8177 (12.09.09)",
+  "date": "2009-12",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/TPS3_09_P1_Installation.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/TPS3_09_P1_Installation.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00460",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "bfc4626d7b4083d22c81384484821e723b2bf683edaf42c9cce8ce5f73e4e528",
+  "bytes": 259285
+ },
+ {
+  "title": "LPJSPDNUT01 J-type speed nut replacement kit",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "11-A-1176-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1176-01_LPJSPDNUT01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1176-01_LPJSPDNUT01.pdf",
+  "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document.",
+  "id": "SRC-00461",
+  "mfr": "SIE",
+  "batches": [
+   "B0010-docs-eaton-siemens"
+  ],
+  "sha256": "83aa5ac9f6ba1ca36f066c7e780d1e8fbed54b6af4aa31e6ffe4e9baf6ba6120",
+  "bytes": 179252
  }
 ]

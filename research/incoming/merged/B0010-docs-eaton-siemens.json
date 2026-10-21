@@ -36193,7 +36193,32 @@
    "detail": "Eaton web SKU pages state 'Amperage Rating 140A max' for KPRL3ABA*/KPRL3AGB*/KPRL3AFD* while catalogue holds RP01400001E-derived 100 A/150 A device limits. Resolve with kit label/IL.",
    "doc_numbers": [],
    "urls": []
+  },
+  {
+   "priority": 1,
+   "topic": "Siemens instruction-sheet bucket (remaining sheets)",
+   "detail": "Public S3 bucket dcc-data-extract 'Compas/Instruction Sheet Quick Guide' holds ~1,290 Siemens SIE_IS_* sheets; this batch processed panelboard/switchboard kit sheets only. Not yet processed: MCCB terminal/lug kits (TA*/TC* lug sheets, e.g. SIE_IS_JD-LD_Distribution-Lug, SIE_IS_FD_Compression-Lug), Vacu-Break/HCP switch kits, PowerMod/meter-stack kits (reppartsspdfax: GMBC1/2, MMCVR1, MMBMT1, MMSCK1, MMPK11/13), MG1/SMND/NG1D image sheets, F672/F6162D fusible kits.",
+   "doc_numbers": [],
+   "urls": [
+    "https://s3.amazonaws.com/dcc-data-extract?list-type=2&prefix=new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS"
+   ]
+  },
+  {
+   "priority": 2,
+   "topic": "Siemens US SPEEDFAX Section 12 switchboard branch kit table",
+   "detail": "Locate SPEEDFAX (2017-2021) Section 12 switchboard 'distribution section branch mounting kits' page (SB1/SB2/SB3, CDP6/FC) for US catalog numbers and breaker compatibility; distributordatasolutions 2021q3/q4 documents host Section 11 - try sibling document hashes for Section 12.",
+   "doc_numbers": [],
+   "urls": []
+  },
+  {
+   "priority": 2,
+   "topic": "Eaton cooperindustries.com mirror",
+   "detail": "cooperindustries.com mirrors eaton.com DAM and skuPage URLs (www.eaton.com times out from container). Use it for Eaton switchboard ILs (e.g. Pow-R-Line C/i branch device instructions, IL 29C101H breaker leaflets) and for current RP01400001E.",
+   "doc_numbers": [],
+   "urls": [
+    "http://cooperindustries.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/pow-r-line-switchboard-manual-im01500001e.pdf"
+   ]
   }
  ],
- "log": "In progress.\n"
+ "log": "B0010 depth pass (Eaton + Siemens documentation), 2026-10-21.\n\nEATON. www.eaton.com times out from the container and web.archive.org is blocked, but the Eaton-owned host cooperindustries.com serves the same /content/dam/eaton/... paths and /us/en-us/skuPage.<cat>.html pages. Through it I got: IM01500001E Pow-R-Line switchboards manual (May 2021) with the bus-joint torque table (App. A Table 2, p.20) and busway tie-bar torque; MN015002EN Pow-R-Line XD; IL01417001E and PUB50895 (P1R/P2R retrofit panelboards: torque tables, minimum enclosures, #10-32 mounting 24 in-lb); E3A1071 RevG Pow-R-Line 3FQS fusible panelboard (full replacement-parts list, new 2A19xx kits); design guides DG014001EN/DG014003EN (Table 22.1-1 service entrance barrier kits incl. new PRLSEBBAB/PD4/PD5); IL014069EN (main handle heights). I scraped Eaton SKU pages for all 334 KB/KL/KPRL/KCDP/KFDP/PRLSEB/1C966/BR catalogue numbers. 82 exist (KPRL3*, KPRL4*, PRLSEB*, BR) and give UPCs, 'Used with', catalog notes (box width requirements, 'DATE DELETED 01/27/1997' for KPRL3AED3) and logistics dimensions/weights. These are recorded as package_data only, never as component dimensions. Every KB*, KL*, KCDP*, KFDP* and 1C96608/2C11642/1C96609 SKU page returns 404. No per-kit Eaton instruction leaflet (KB/KL/KPRL/KCDP) exists publicly: Google-style searches, Elliott/Crescent/USESI listings and Eaton's DAM all came up empty, and kit ILs ship only in the box. The KPRL3A* SKU pages say '140A max', which conflicts with the RP01400001E-derived 100 A device limits in the catalogue (lead). The ManualsLib SPX0361126 project O&M (585 pp) is readable page by page with WebFetch (curl/manualzz 403). Its p.413 is breaker IL 29C101H (EHD/FD drilling plan, terminal torques), which is not a kit document.\n\nSIEMENS. The key find is a public distributor S3 bucket (s3.amazonaws.com/dcc-data-extract, prefix 'new-delta/asset/Compas/daily/Compas/Instruction Sheet Quick Guide/') listing about 1,290 SIE_IS_* Siemens kit instruction sheets. I downloaded the 219 panelboard/switchboard kit sheets (plus TPS3/LPJSPDNUT/reppartsspdfax) and extracted text with pdftotext. About 50 are scanned images, which I read visually: SBL/SBLBD, 6JJ61/SJ1D/6SJL1/SSJ1D/6LL61/SL6D/SSL6D/6SLL1, BBKB32/BBKED32/BBKQ2/BBKEB32, SCE/SF6/SCF/SCJ/SCL/SSCL/SF6D/SCFD/SCJD/SSCLD/SCLD/SCED, 6E62/6F62/6JJ62/6CLE2/6CLF1, DFK1/DFFP3/DFFP6/EBF1/P3BK1/IMK1/BK1A, F602/F657/F671. Results: per-kit doc numbers (11-A-11xx, 11-B-10xx, 12-A-10xx, 31-12xx, 15-A-10xx), complete kit BOMs with Siemens piece numbers (drawing BOMs for Series 5/6 and S4/S5 copper branch bus kits), hardware sizes with torque per item, bus-drilling and Z-rail hole patterns (0.228 in tapped section-bus holes, 1-1/4 in offsets, unit-space heights), and the Revised P1 hardware tightening torque label 11-D-1030-01 (P1-250/P1-400). SB1/SB2/SB3 applicability is now stated by the OEM per kit (SDG/SDGD, SFG/SFGD, SJG/SJG1D/SLG/SLGD, SJG2D, the Series 5/6 6xxx kits, S3VA5x kits). The SPEEDFAX 2017 p.11-48 P3 kits page (revised 05/15/18) corroborates BBK*/DFK1/DFFP*/EGK family names (EGK = Al, ECGK = Cu, IGK/ICGK insulated) and adds NBK3-NBK8 and 24WDxx boxes.\n\nNOT FOUND / GAPS: The US SPEEDFAX Section 12 switchboard page 12-32 (SB branch kit table) was not located online; the catalogue's SB kit list still rests on the Canadian Section 11 catalogue. The deep-box Vacu-Break kits F602D/F657D/F671D have only header text (their drawings were not read). The MG1/SMND/NG1D and 11-B-1015 image sheets were not read. Eaton PRLC/PRL i branch-device mounting (connector) kit catalog numbers were not found, and IM01500001E defers to labels and component ILs. No Eaton kit hole patterns or strap dimensions were obtained.\n\nCAUTIONS: The scanned drawing BOM column assignments (-01/-02 between 6JJ62/SJ2D, 6CLJ1/SCJD, 6SCL1/SSCLD and 6CLL1/SCLD) were read from low-resolution scans; the claims carry a 'verify' note. The Eaton SKU logistics dimensions are packaging data.\n"
 }

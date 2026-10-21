@@ -1507,5 +1507,88 @@
   "urls": [],
   "status": "open",
   "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0116",
+  "priority": 2,
+  "topic": "Eaton KB/KL/KCDP/KFDP/1C96608 kit instruction leaflets not public",
+  "detail": "No Eaton instruction leaflet or SKU page exists online for KB* vertical main breaker kits, KL* lug kits, KCDP*, KFDP* or 1C96608/2C11642/1C96609 branch assemblies (skuPage 404 on Eaton mirror). Kit ILs ship in the box: obtain physical kits or Eaton satellite-plant copies to capture strap dimensions/torques.",
+  "doc_numbers": [],
+  "urls": [
+   "http://cooperindustries.com/us/en-us/skuPage.KB13AFT.html"
+  ],
+  "status": "open",
+  "batch": "B0010-docs-eaton-siemens"
+ },
+ {
+  "id": "LEAD-0117",
+  "priority": 2,
+  "topic": "Eaton SPX0361126 project O&M manual (585 pp) on ManualsLib",
+  "detail": "ManualsLib manual 1538842 'Eaton Pow-R-Line SPX0361126' compiles IM01500001E (2011), Pow-R-Line panelboard renewal parts (Feb 2009) and switchboard unit data incl. 'Circuit Breaker Mounting Bolt Drilling Plan' (p.413) and 'Branch Devices' (p.363). Curl/manualzz blocked (403); WebFetch works page by page.",
+  "doc_numbers": [
+   "SPX0361126"
+  ],
+  "urls": [
+   "https://www.manualslib.com/manual/1538842/Eaton-Pow-R-Line-Spx0361126.html?page=413"
+  ],
+  "status": "open",
+  "batch": "B0010-docs-eaton-siemens"
+ },
+ {
+  "id": "LEAD-0118",
+  "priority": 3,
+  "topic": "Eaton 3FQS labels 3A1063/3A1064/3A1066",
+  "detail": "Fastener torque values for 3FQS live on agency label 3A1064 (not reproduced in E3A1071). Field photo of label needed.",
+  "doc_numbers": [
+   "3A1064",
+   "E3A1064"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0010-docs-eaton-siemens"
+ },
+ {
+  "id": "LEAD-0119",
+  "priority": 3,
+  "topic": "KPRL3A* '140A max' vs RP01400001E 100 A",
+  "detail": "Eaton web SKU pages state 'Amperage Rating 140A max' for KPRL3ABA*/KPRL3AGB*/KPRL3AFD* while catalogue holds RP01400001E-derived 100 A/150 A device limits. Resolve with kit label/IL.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0010-docs-eaton-siemens"
+ },
+ {
+  "id": "LEAD-0120",
+  "priority": 1,
+  "topic": "Siemens instruction-sheet bucket (remaining sheets)",
+  "detail": "Public S3 bucket dcc-data-extract 'Compas/Instruction Sheet Quick Guide' holds ~1,290 Siemens SIE_IS_* sheets; this batch processed panelboard/switchboard kit sheets only. Not yet processed: MCCB terminal/lug kits (TA*/TC* lug sheets, e.g. SIE_IS_JD-LD_Distribution-Lug, SIE_IS_FD_Compression-Lug), Vacu-Break/HCP switch kits, PowerMod/meter-stack kits (reppartsspdfax: GMBC1/2, MMCVR1, MMBMT1, MMSCK1, MMPK11/13), MG1/SMND/NG1D image sheets, F672/F6162D fusible kits.",
+  "doc_numbers": [],
+  "urls": [
+   "https://s3.amazonaws.com/dcc-data-extract?list-type=2&prefix=new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS"
+  ],
+  "status": "open",
+  "batch": "B0010-docs-eaton-siemens"
+ },
+ {
+  "id": "LEAD-0121",
+  "priority": 2,
+  "topic": "Siemens US SPEEDFAX Section 12 switchboard branch kit table",
+  "detail": "Locate SPEEDFAX (2017-2021) Section 12 switchboard 'distribution section branch mounting kits' page (SB1/SB2/SB3, CDP6/FC) for US catalog numbers and breaker compatibility; distributordatasolutions 2021q3/q4 documents host Section 11 - try sibling document hashes for Section 12.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0010-docs-eaton-siemens"
+ },
+ {
+  "id": "LEAD-0122",
+  "priority": 2,
+  "topic": "Eaton cooperindustries.com mirror",
+  "detail": "cooperindustries.com mirrors eaton.com DAM and skuPage URLs (www.eaton.com times out from container). Use it for Eaton switchboard ILs (e.g. Pow-R-Line C/i branch device instructions, IL 29C101H breaker leaflets) and for current RP01400001E.",
+  "doc_numbers": [],
+  "urls": [
+   "http://cooperindustries.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/pow-r-line-switchboard-manual-im01500001e.pdf"
+  ],
+  "status": "open",
+  "batch": "B0010-docs-eaton-siemens"
  }
 ]

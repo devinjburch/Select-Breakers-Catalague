@@ -84,6 +84,9 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Still blocked (productinfo.se.com 403). Schneider STEP-model pages (se.com/us/en/download/document/<CF...>UMS-03) are readable by WebFetch and give interior titles, e.g. CF16KF63C = 1600A 63H double-row centre-feed copper; could be used to decode the CF nomenclature for all OEM interiors.  
   Docs: 2700CT1601, 80235-597-09, CF16KF63C117UMS-03  
   URLs: https://www.se.com/us/en/download/document/CF16KF63C117UMS-03
+* **LEAD-0120 — Siemens instruction-sheet bucket (remaining sheets)** (B0010-docs-eaton-siemens)  
+  Public S3 bucket dcc-data-extract 'Compas/Instruction Sheet Quick Guide' holds ~1,290 Siemens SIE_IS_* sheets; this batch processed panelboard/switchboard kit sheets only. Not yet processed: MCCB terminal/lug kits (TA*/TC* lug sheets, e.g. SIE_IS_JD-LD_Distribution-Lug, SIE_IS_FD_Compression-Lug), Vacu-Break/HCP switch kits, PowerMod/meter-stack kits (reppartsspdfax: GMBC1/2, MMCVR1, MMBMT1, MMSCK1, MMPK11/13), MG1/SMND/NG1D image sheets, F672/F6162D fusible kits.  
+  URLs: https://s3.amazonaws.com/dcc-data-extract?list-type=2&prefix=new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS
 
 ## Priority 2
 
@@ -230,6 +233,18 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0112 — Tmax XT Spectra retrofit kit (SRFB/SRFN) installation instructions** (B0011-docs-ge-squared)  
   No instruction document number found; empower lists SRFB kits only inside breaker cross-reference entries (e.g. Tmax27292). Need kit contents, strap part numbers and torques.  
   URLs: https://empower.abb.com/ecatalog/ec/EN_NA/p/Tmax27292
+* **LEAD-0116 — Eaton KB/KL/KCDP/KFDP/1C96608 kit instruction leaflets not public** (B0010-docs-eaton-siemens)  
+  No Eaton instruction leaflet or SKU page exists online for KB* vertical main breaker kits, KL* lug kits, KCDP*, KFDP* or 1C96608/2C11642/1C96609 branch assemblies (skuPage 404 on Eaton mirror). Kit ILs ship in the box: obtain physical kits or Eaton satellite-plant copies to capture strap dimensions/torques.  
+  URLs: http://cooperindustries.com/us/en-us/skuPage.KB13AFT.html
+* **LEAD-0117 — Eaton SPX0361126 project O&M manual (585 pp) on ManualsLib** (B0010-docs-eaton-siemens)  
+  ManualsLib manual 1538842 'Eaton Pow-R-Line SPX0361126' compiles IM01500001E (2011), Pow-R-Line panelboard renewal parts (Feb 2009) and switchboard unit data incl. 'Circuit Breaker Mounting Bolt Drilling Plan' (p.413) and 'Branch Devices' (p.363). Curl/manualzz blocked (403); WebFetch works page by page.  
+  Docs: SPX0361126  
+  URLs: https://www.manualslib.com/manual/1538842/Eaton-Pow-R-Line-Spx0361126.html?page=413
+* **LEAD-0121 — Siemens US SPEEDFAX Section 12 switchboard branch kit table** (B0010-docs-eaton-siemens)  
+  Locate SPEEDFAX (2017-2021) Section 12 switchboard 'distribution section branch mounting kits' page (SB1/SB2/SB3, CDP6/FC) for US catalog numbers and breaker compatibility; distributordatasolutions 2021q3/q4 documents host Section 11 - try sibling document hashes for Section 12.
+* **LEAD-0122 — Eaton cooperindustries.com mirror** (B0010-docs-eaton-siemens)  
+  cooperindustries.com mirrors eaton.com DAM and skuPage URLs (www.eaton.com times out from container). Use it for Eaton switchboard ILs (e.g. Pow-R-Line C/i branch device instructions, IL 29C101H breaker leaflets) and for current RP01400001E.  
+  URLs: http://cooperindustries.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/pow-r-line-switchboard-manual-im01500001e.pdf
 
 ## Priority 3
 
@@ -350,6 +365,11 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0115 — Square D QMQB switches** (B0011-docs-ge-squared)  
   80043-055-13 p.41 names "QMQB Main and Branch (available in Canada only)" - contradicts B0004 note that QMQB is probably not a real designation; research Canadian QMQB fusible switch units.  
   Docs: 80043-055-13
+* **LEAD-0118 — Eaton 3FQS labels 3A1063/3A1064/3A1066** (B0010-docs-eaton-siemens)  
+  Fastener torque values for 3FQS live on agency label 3A1064 (not reproduced in E3A1071). Field photo of label needed.  
+  Docs: 3A1064, E3A1064
+* **LEAD-0119 — KPRL3A* '140A max' vs RP01400001E 100 A** (B0010-docs-eaton-siemens)  
+  Eaton web SKU pages state 'Amperage Rating 140A max' for KPRL3ABA*/KPRL3AGB*/KPRL3AFD* while catalogue holds RP01400001E-derived 100 A/150 A device limits. Resolve with kit label/IL.
 
 ## Priority 4
 

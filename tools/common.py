@@ -22,7 +22,7 @@ MANUFACTURERS = {
 CLAIM_FIELDS = [
     "oem_part_number", "alt_part_numbers", "description", "application", "location",
     "breaker_compat", "frame", "poles", "voltage", "ampacity", "kit_contents",
-    "material", "finish", "dimensions", "hole_pattern", "fasteners", "torque",
+    "wire_range", "material", "finish", "dimensions", "hole_pattern", "fasteners", "torque",
     "install_doc", "status", "replacement", "aftermarket", "id_features",
 ]
 FIELD_LABELS = {
@@ -36,7 +36,9 @@ FIELD_LABELS = {
     "aftermarket": "Aftermarket / reproduction", "id_features": "Identification features",
     "era": "Era of manufacture", "successor": "Successor", "voltage_rating": "Voltage rating",
     "main_ampacity": "Main ampacity", "branch_breakers": "Branch breakers accepted",
-    "mounting": "Mounting", "amps": "Ampere range", "interrupting": "Interrupting ratings",
+    "mounting": "Mounting", "wire_range": "Wire range", "package_data": "Package data (not part dims)",
+    "listing": "Listing / approvals", "install_requirements": "Installation requirements",
+    "install_constraint": "Installation constraint", "requires": "Requires (stated)", "amps": "Ampere range", "interrupting": "Interrupting ratings",
 }
 
 

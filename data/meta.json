@@ -1,10 +1,10 @@
 {
  "counters": {
-  "SRC": 309,
-  "FAM-EAT": 38,
+  "SRC": 461,
+  "FAM-EAT": 41,
   "BRK-EAT": 67,
-  "EDH-EAT": 803,
-  "LEAD": 115,
+  "EDH-EAT": 901,
+  "LEAD": 122,
   "FAM-SQD": 14,
   "BRK-SQD": 43,
   "EDH-SQD": 577,
@@ -13,7 +13,7 @@
   "EDH-GEA": 610,
   "FAM-SIE": 14,
   "BRK-SIE": 33,
-  "EDH-SIE": 332,
+  "EDH-SIE": 442,
   "FAM-FPE": 7,
   "FAM-ZIN": 2,
   "FAM-OTH": 4,
@@ -199,6 +199,22 @@
     "leads_new": 9,
     "docs_filed": 38,
     "batch": "B0011-docs-ge-squared"
+   }
+  },
+  {
+   "batch_id": "B0010-docs-eaton-siemens",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0010-docs-eaton-siemens.json",
+   "stats": {
+    "sources_new": 152,
+    "families_new": 3,
+    "breakers_new": 0,
+    "parts_new": 208,
+    "parts_updated": 252,
+    "leads_new": 7,
+    "docs_filed": 151,
+    "batch": "B0010-docs-eaton-siemens"
    }
   }
  ],
