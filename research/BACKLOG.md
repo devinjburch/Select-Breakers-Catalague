@@ -98,6 +98,9 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0146 — Identify 'PCS' maker of Breaker King aftermarket panelboard kits** (B0016-aftermarket-retrofit)  
   Breaker King labels many kits '(PCS) Aftermarket Assembly' / 'Provided as PCS Brand Aftermarket Kit' with PCS kit numbers (NEF1K, FD3K, ED4K, SED1K, ED65K ...). Identify PCS, obtain drawings/material specs and any test/listing basis. Remaining Breaker King pages not captured: Westinghouse page 1 items BCDPFW/BCDPJW/BCDPKW/BCDPKLW (no OEM xref), GE A-Series II 'unspecified/specified space' kits (BASPP...) without OEM xref.  
   URLs: https://www.breakerking.com/catalog/index.php?main_page=index&cPath=4_187
+* **LEAD-0162 — ABB library direct-download route (search.abb.com/library/Download.aspx?DocumentID=<ABB doc ID>)** (B0017-ge-abb-deep-dive)  
+  search.abb.com redirects to signed library.e.abb.com URLs and works from this container even though electrification.us.abb.com and library.e.abb.com direct links fail (503/403). Requires the ABB document ID (e.g. 9AKK108467A9254 for GET-8032C, 1TQC173000E00xx/Z00xx ReliaGear lighting kits, 1SQC9000xxM0201 neXT instructions). Find the IDs for BuyLog Section 11 (2021/2022), GE DEH-0xx/DEH-4xxxx Spectra kit leaflets and GEH-5588/5630 via search-result metadata, then download.  
+  URLs: https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A9254&LanguageCode=en&DocumentPartId=&Action=Launch
 
 ## Priority 2
 
@@ -303,6 +306,15 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Docs: CA08100003E
 * **LEAD-0155 — GE A-Series THQB/TEY back-fed main retainer** (B0018-breaker-installation-accessories)  
   No GE retaining kit found in BuyLog Sections 6/11. Search GE A-Series instruction DEH-series for back-fed main hold-down.
+* **LEAD-0163 — Spectra bolt-on/plug-in kits for Record Plus FB/FC/FG - DEH-41123/41124/41125 (FB), DEH-40402/40425 (FC), DEH-40419/40420/40426/41047 (FG)** (B0017-ge-abb-deep-dive)  
+  Instruction numbers taken from BuyLog Sec 6 Rev 1/19 frame publication lists (pp.6-71, 6-75, 6-85 approx.). Not on manualsdir.com GE Industrial Solutions listing (695 manuals crawled) and not found by web search; would give AMC/AMCB...FB/FD/FG kit contents and torques.  
+  Docs: DEH-41123, DEH-41124, DEH-41125, DEH-40402, DEH-40425, DEH-40419, DEH-40420, DEH-40426, DEH-41047
+* **LEAD-0164 — GEH-5588 / GEH-5630 (Type AML main lug and feed-thru lug kits) still not found** (B0017-ge-abb-deep-dive)  
+  Not in manualsdir GE listing; ABB library ID unknown; DocumentID=GEH5588/GEH-5588 returns 404 on search.abb.com.  
+  Docs: GEH-5588, GEH-5630
+* **LEAD-0165 — GE plug-in mounting base instructions GEH-4610 / GEH-4342 / GEH-5655 and back-connected stud GEJ-3609/3635/3619, GEH-5665** (B0017-ge-abb-deep-dive)  
+  Would give stud dimensions, drilling plans and torque for TE/TF/TJ/TK..PD bases and TMP/SMP plates (BuyLog says drawings are available for customers fabricating their own plates).  
+  Docs: GEH-4610, GEH-4342, GEH-5655, GEJ-3609, GEJ-3635, GEJ-3619, GEH-5665
 
 ## Priority 3
 
@@ -482,6 +494,18 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0159 — Eaton Power Defense PDG2/PDG3 handle padlock and lockoff kits** (B0018-breaker-installation-accessories)  
   Panelboard Mod 16 lists lockoffs for PDG2xF/xG, PDD2, PDG3xG, PDG4xG but no catalog numbers were extracted; pull Power Defense accessory tables (CA08100005E Tab 27 / PDG accessory guide).  
   Docs: CA08100005E
+* **LEAD-0166 — ABB LCM notices on Spectra bolt-on/plug-in panelboards and SBO mounting kits (2022, 2023-08)** (B0017-ge-abb-deep-dive)  
+  Search snippets of new.abb.com LCM pages state Spectra Bolt-On panelboards Limited H1 2022 / Obsolete H2 2022 and that Spectra breaker mounting kits for SBO panelboards and switchboard distribution sections were phased out (Tmax XT mounting kits fill the need). Pages return 503 to curl/WebFetch; capture text and dates to update status claims for AMCB*/AHKB*/AMC* kits.  
+  URLs: https://new.abb.com/low-voltage/service/service-for-low-voltage-products/news1/lcm-update-2023-08 https://new.abb.com/low-voltage/service/service-for-low-voltage-products/news1/lcm-update-2022
+* **LEAD-0167 — AV-3 Access Switchboard DET-138 and AV-Line GEA-7931** (B0017-ge-abb-deep-dive)  
+  GET-8032C reference list names "AV3 Access Switchboard DET-138". Try ABB library ID search / archive for DET-138 and GEA-7931 to obtain AV-Line / AV-3 branch kit data (THLCDPK and TB*SPK/DPK suffix kits are noted as also used in switchboards in BuyLog 2008 p.9-117).  
+  Docs: DET-138, GEA-7931
+* **LEAD-0168 — ReliaGear neXT kit catalog numbers in figures** (B0017-ge-abb-deep-dive)  
+  1SQC9000xxM0201 neXT instruction sheets (dual main lugs, IP20 main lug barrier/HMR rail kit, grounds & neutral, door handle replacement, bulk pack) show kit contents only as lettered images; catalog numbers for these kits were not found in text. Need BuyLog Sec 11 2021+ neXT tables.  
+  Docs: 1SQC900009M0201, 1SQC900024M0201, 1SQC900020M0201, 1SQC900023M0201, 1SQC900003M0201
+* **LEAD-0169 — ADS load base 331A1519/331A1545 group differentiation** (B0017-ge-abb-deep-dive)  
+  2008 BuyLog p.9-111 lists several groups with identical ratings (e.g. 200 A 2-pole G13/G15/G17/G21) without fuse class or switch style; obtain GEH-5576 or ABB eCatalog/legacy price list to map each group to the ADS switch catalog number.  
+  Docs: GEH-5576
 
 ## Priority 4
 
@@ -521,4 +545,6 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Docs: CA08101001E
 * **LEAD-0161 — Square D EDPA/EDPAF vs HPAFD** (B0018-breaker-installation-accessories)  
   HPAFD is the OEM-listed EDB/EGB/EJB padlock attachment (Class 0515 bulletin); EDPA/EDPAF appear only in distributor listings. Confirm relationship.
+* **LEAD-0170 — SCP Plus and CCB/QMR legacy items absent from ABB eCatalog** (B0017-ge-abb-deep-dive)  
+  Most SCP Plus (ACT/ACS HK/FPK), CCB box/front (DASW/DACB/CBA), QMR THFP switches and 2008-only CCB kits returned not-found on empower (only TB8SPK, SFCARE, 331A1543G1 listed). Confirm availability via ABB Services (Houston equipment plant noted for SCP+ fillers in 2008).
 

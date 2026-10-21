@@ -5138,8 +5138,8 @@
   "name": "Spectra Series Type SCP Plus panelboards",
   "code": "SCP-PLUS",
   "aliases": [
-   "SCP+",
-   "SCP"
+   "SCP",
+   "SCP+"
   ],
   "brand_markings": [
    "GE"
@@ -5445,13 +5445,43 @@
      "basis": "oem_spec",
      "batch": "B0011-docs-ge-squared"
     }
+   ],
+   "torque": [
+    {
+     "value": "Breaker mounting screws 35-40 lb-in (3.9-4.5 N-m); dual main mechanical lugs to pads 200 lb-in (23 N-m); main lug barrier screws 30-35 lb-in; IP20 barrier HMR rail kit 50-60 lb-in, barrier/brackets 35-40 lb-in",
+     "conf": "A",
+     "src": [
+      "SRC-00672",
+      "SRC-00674",
+      "SRC-00675"
+     ],
+     "page": "various",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "breaker_mounting": [
+    {
+     "value": "XT1/XT2/XT4 and XT5/XT6/XT7 breakers carry mounting brackets with clearance holes and screwdriver slots for insertion into/removal from the bus stack; legacy IF-series frames also accommodated; 2 mounting screws per breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00672"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
    ]
   },
   "source_ids": [
    "SRC-00158",
    "SRC-00161",
    "SRC-00427",
-   "SRC-00428"
+   "SRC-00428",
+   "SRC-00671",
+   "SRC-00672",
+   "SRC-00674",
+   "SRC-00675"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -5825,6 +5855,219 @@
    "SRC-00436"
   ],
   "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "FAM-GEA-013",
+  "mfr": "GEA",
+  "name": "Spectra Series Switchboards (group-mounted Class 1; plug-in Spectra distribution panels)",
+  "code": "SPECTRA-SB",
+  "aliases": [
+   "Spectra Series Switchboard",
+   "Spectra switchboard",
+   "Spectra Series Plug-in Switchboards",
+   "SWPS Pro-Stock"
+  ],
+  "brand_markings": [
+   "GE",
+   "ABB"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "GE Spectra Series group-mounted switchboards (Plainville CT) use Spectra plug-in distribution panel interiors in which branch breakers mount on AMC plug-in modules; fusible branch units can be field-substituted with circuit breaker units. Pro-Stock program numbers SWPS<amps><M|L|D><C|A><T|B>N1[EPM] (DEA-623). Spectra panelboard renewal parts tables list switchboard section widths 35/40/45 in alongside panel box widths 27-31/36-40/44 in (APP fillers, FE covers), indicating shared hardware.",
+  "overview_notes": [],
+  "claims": {
+   "construction": [
+    {
+     "value": "Group-mounted sections use a panel-mount arrangement similar or identical to distribution panels; Spectra plug-in modules have spring-reinforced jaws gripping interior bus; expansion kit (handle, base plate, cover plate, load base, switch) converts empty side of a double-branch ADS unit; fillers mount at side of modules or between side trims (1X = 1.375 in)",
+     "conf": "A",
+     "src": [
+      "SRC-00661"
+     ],
+     "page": "pp.9-10, 14",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "related_docs": [
+    {
+     "value": "Reference publications: AV3 Access Switchboard DET-138; Powerpanel GET-7006; Integrated Switchboards DEA-373A; Commercial Metering DEA-340; Jiffy II DEA-344; PCU DET-104; PowerBreak II GET-8052",
+     "conf": "A",
+     "src": [
+      "SRC-00661"
+     ],
+     "page": "p.80",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "era": [
+    {
+     "value": "GET-8032C catalog dated 02/2013 (marked \"GE legacy document\"); phased out by ABB 2021: no new quotes after May 20 2021, no orders after Aug 12 2021, no shipments after Dec 9 2021",
+     "conf": "A",
+     "src": [
+      "SRC-00661",
+      "SRC-00662"
+     ],
+     "page": "LCM pp.1-3",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (ABB LCM). Replacement: ReliaGear SB switchboards; Tmax XT retrofit kits for Spectra bolt-on panelboards/switchboards (single mount 250/600/1200 A, dual mount 150/250/400 A) offered for field replacement",
+     "conf": "A",
+     "src": [
+      "SRC-00662"
+     ],
+     "page": "pp.1-2",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "successor": [
+    {
+     "value": "ReliaGear SB Switchboards (also replaces Spectra Series Integrated Switchboard and Pro-Stock Spectra Plug-in Switchboards)",
+     "conf": "A",
+     "src": [
+      "SRC-00662"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Pro-Stock program: 1200, 1600, 2000 A main bus, copper or aluminum; 65 kA bracing; 3P4W 480Y/277 or 208Y/120 V",
+     "conf": "A",
+     "src": [
+      "SRC-00649"
+     ],
+     "page": "pp.2-3",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "{'value': 'Distribution sections use Spectra plug-in panel (C/B feeders only) with the same AMC...FP plug-in circuit breaker mounting modules as Spectra power panelboards (THQB/THHQB, TEY, FB, TEB/TED/THED/SE, TQD, SF, FG, SG, SK) in 27-44 in box-width ranges', 'conf': 'A', 'src': ['sdea623'], 'page': 'p.4 tables', 'basis': 'oem_spec'}; {'value': 'Class 1 group-mounted mains/feeders to 1200 A; branch devices in Spectra Plug-In or Bolt-On construction; ADS fusible switches in plug-in only. Bolt-on branch sizing: double 100 A THQB/THHQB/TEY/TEB/FC/FB 3X; 150 A TED/THED/SE 3X; 225 A TQD/THQD 3X; 250 A SF/FE 3X; 400-600 A SG/FG 4X (40 in min width); single SF/FE 3X, SG/FG 4X, SKHA/SKLA 6X (40 in), SKPA 6X (45 in); +1X for breakers with side-exit accessory wiring', 'conf': 'A', 'src': ['sget8032'], 'page': 'pp.14, 20 (Section 4)', 'basis': 'oem_spec'}",
+     "conf": "D",
+     "src": [],
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00650",
+   "SRC-00649",
+   "SRC-00651",
+   "SRC-00661",
+   "SRC-00662"
+  ],
+  "created_batch": "B0017-ge-abb-deep-dive"
+ },
+ {
+  "id": "FAM-GEA-014",
+  "mfr": "GEA",
+  "name": "ReliaGear SB low voltage switchboards",
+  "code": "RG-SB",
+  "aliases": [
+   "ReliaGear SB",
+   "RGSB"
+  ],
+  "brand_markings": [
+   "ABB",
+   "ReliaGear"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "ABB successor to GE Spectra switchboards. Plug-in Tmax XT branch breakers mount anywhere in the bus stack; supplied hardware is medium-carbon steel (1/4-20 4 lb-ft, 5/16-18 9, 3/8-16 16, 1/2-13 39 (35 with 2 1/4 in Belleville), 5/8-16 80 lb-ft per IOMM Table 1). No field-kit catalog numbers found in the design guide.",
+  "overview_notes": [],
+  "claims": {
+   "torque": [
+    {
+     "value": "Supplied hardware torques (Table 1): 1/4-20 4 lb-ft; 5/16-18 9 lb-ft; 3/8-16 16 lb-ft; 1/2-13 39 lb-ft (35 lb-ft with 2 1/4 in Belleville washer); 5/8-16 80 lb-ft. Use flat and lock washers; no washers under carriage bolt heads",
+     "conf": "A",
+     "src": [
+      "SRC-00663"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "era": [
+    {
+     "value": "Introduced c.2020 (Electrical Wholesaler Top 10 New Product Picks Sept 2020); replaced Spectra Series switchboards 2021",
+     "conf": "A",
+     "src": [
+      "SRC-00662"
+     ],
+     "page": "p.2",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current (ABB)",
+     "conf": "B",
+     "src": [
+      "SRC-00662"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "Tmax XT plug-in spring-loaded circuit breakers in IP20 finger-safe bus stack; SACE Emax 2 drawout mains",
+     "conf": "A",
+     "src": [
+      "SRC-00662",
+      "SRC-00663"
+     ],
+     "page": "LCM p.2; IOMM",
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00662",
+   "SRC-00663",
+   "SRC-00664"
+  ],
+  "created_batch": "B0017-ge-abb-deep-dive"
+ },
+ {
+  "id": "FAM-GEA-015",
+  "mfr": "GEA",
+  "name": "ReliaGear lighting panelboards (Types RQ, RE, RL, RS, RD; AD interiors)",
+  "code": "RG-LIGHTING",
+  "aliases": [
+   "ReliaGear lighting panelboard",
+   "ReliaGear LP",
+   "ReliaGear RQ",
+   "ReliaGear RE",
+   "ReliaGear RL",
+   "ReliaGear RD"
+  ],
+  "brand_markings": [
+   "ABB",
+   "ReliaGear",
+   "GE"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "ABB successor to GE A-Series lighting panelboards (AQ/RQ, AE/RE, AS/RS per ASPSERENT instructions). Accepts Q-line/FB and ABB Tmax XT1/XT2/XT4 and A2 breakers via ASP...3P mounting hardware kits (spools/Z-straps, insulated bracket, phase barriers). Kit catalog prefix ASP carried over from A-Series.",
+  "overview_notes": [],
+  "claims": {},
+  "source_ids": [
+   "SRC-00665",
+   "SRC-00666",
+   "SRC-00667",
+   "SRC-00669"
+  ],
+  "created_batch": "B0017-ge-abb-deep-dive"
  },
  {
   "id": "FAM-OTH-001",

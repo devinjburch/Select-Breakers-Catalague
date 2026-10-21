@@ -1,16 +1,16 @@
 {
  "counters": {
-  "SRC": 647,
+  "SRC": 675,
   "FAM-EAT": 41,
   "BRK-EAT": 68,
   "EDH-EAT": 1335,
-  "LEAD": 161,
+  "LEAD": 170,
   "FAM-SQD": 15,
   "BRK-SQD": 43,
   "EDH-SQD": 969,
-  "FAM-GEA": 12,
-  "BRK-GEA": 31,
-  "EDH-GEA": 696,
+  "FAM-GEA": 15,
+  "BRK-GEA": 33,
+  "EDH-GEA": 1060,
   "FAM-SIE": 15,
   "BRK-SIE": 33,
   "EDH-SIE": 819,
@@ -295,6 +295,22 @@
     "leads_new": 9,
     "docs_filed": 0,
     "batch": "B0018-breaker-installation-accessories"
+   }
+  },
+  {
+   "batch_id": "B0017-ge-abb-deep-dive",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0017-ge-abb-deep-dive.json",
+   "stats": {
+    "sources_new": 28,
+    "families_new": 3,
+    "breakers_new": 2,
+    "parts_new": 364,
+    "parts_updated": 71,
+    "leads_new": 9,
+    "docs_filed": 28,
+    "batch": "B0017-ge-abb-deep-dive"
    }
   }
  ],

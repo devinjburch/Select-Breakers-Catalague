@@ -107,6 +107,8 @@ BRK-GEA-028,GEA,Record Plus FG 600,FG600,,FG 600,,100-600 A,,,
 BRK-GEA-029,GEA,GE TQ / TQL / TQC / TQB / TBQ lighting breakers,TBQ; TQ; TQB; TQC; TQL,"TQL: plug-in, quick-make quick-break, thermal-magnetic (first plug-in QMQB breaker per Trumbull 1951-52); TQ in NLAB (formerly NTQ)",,,"Standard ratings 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100 A (GEG-13610B); TQL 15-50 A 1-pole and common-trip 2/3-pole (1957)",,,NLAB
 BRK-GEA-030,GEA,GE / Trumbull Type AT and ATB breakers,AT; ATB,,,,"AT 15-50 A branch in NAB/ABH; mains 50 A AT, 100 A ATB, 200 A AT in NLAB",,,NHB; NLAB
 BRK-GEA-031,GEA,GE TB1 / TB4 / TB6 / TB8 breakers (CCB / AV),TB1; TB4; TB6; TB8,"Bolted with DPK (twin) / SPK (single) strap kits in CCB, QMR and AV1/AV2",,,,,,CCB-QMR; AV-LINE
+BRK-GEA-032,GEA,ABB SACE Tmax XT (XT1/XT2/XT4/XT5/XT6/XT7),Tmax XT; XT1; XT2; XT4; XT5; XT6; XT7,,,,,,,
+BRK-GEA-033,GEA,ABB A2 (Formula A2) molded case breaker,A2,,,,,,,
 BRK-OTH-001,OTH,Wadsworth A / B series,A15NI; A360; B1515,plug-in (assumed),,,15-90 A,120/240 V (3-pole versions exist),Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,WADSWORTH
 BRK-OTH-002,OTH,Connecticut Electric UBIF (UBI replacement for FPE Stab-Lok NA/NC/NB),UBIF; UBI-F; Unique Breakers Inc UBIF,"Plug-in for use in Federal Pacific load centers (NA thick, NC thin series); bolt-on NB variants (UBIF...NB) referenced by resellers",,,1-pole 15-50 A; 2-pole 15-70 A (per 2005 sheet),"120 V (1P), 120/240 V (2P)","current (aftermarket, newly manufactured)",
 BRK-OTH-003,OTH,Connecticut Electric UBIP (UBI replacement for Pushmatic),UBIP; Unique Breakers Inc UBIP,Bolt-on for use in Pushmatic and Bulldog load centers,,,"1-pole 15-30 A; 2-pole 15-100 A; twin 15/15, 15/20, 20/20",,,PUSHMATIC

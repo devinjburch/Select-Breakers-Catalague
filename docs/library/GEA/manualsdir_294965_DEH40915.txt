@@ -1,0 +1,537 @@
+TITLE: GE Industrial Solutions Record Plus Plug-In Bases: FC100 User Manual | 6 pages
+URL: https://www.manualsdir.com/manuals/294965/ge-industrial-solutions-record-plus-plug-in-bases-fc100.html
+--- page 1 ---
+manual-view__content__page__code" >
+ DEH40915 Installation Instructions 
+ g 
+ Figure 1. FC100 breaker mounted on Plug-In Base with 
+ Secondary Disconnect and Mounting Plate 
+ Record Plus 
+ ™ 
+ Molded Case Circuit Breaker 
+ Accessories 
+ Plug In Base 
+ Congratulations and thank you for choosing the 
+ Record Plus 
+ TM 
+ family of 
+ current-limiting c 
+ ircuit 
+ breakers. 
+ This UL-listed 
+ Plug-In Mounting Plate 
+ accessory kit is 
+ suitable for use with the 
+ FC100 
+ circuit breaker series 
+ as illustrated in Figure 1. 
+ Record Plus™ 
+ circuit breakers are designed with a 
+ full line of integrated accessories. All units use the 
+latest in integrated modular circuit breaker 
+technology for flexibility in application and 
+maximizing the product’s utilization and 
+capabilities. 
+ All 
+ Record Plus™ 
+ circuit breakers 
+ and the 
+ accessories 
+ are listed by Underwriters Laboratories 
+ to the UL489 standard and the CSA Standard C22.2, 
+No. 5. These circuit breakers are certified to 
+IEC60947-2. 
+ These accessories are also for use with our MAG- 
+BREAK® instantaneous trip-only circuit breakers, 
+which meet the same standards and are UL- 
+recognized components for use in motor 
+applications. They can also be used with our molded 
+case switches, which are listed per Underwriters 
+Laboratories to the UL489 standard. 
+ Record Plus™ 
+ circuit breakers and their accessories 
+ are designed and manufactured to exceed our global 
+customers’ high standards for reliability and quality. 
+ Warning: 
+ DANGER of Electrical shock or injury. Ensure 
+ ALL electrical power supplies are "OFF” before installing 
+ or removing any devices. The breaker, trip unit or 
+accessories MUST ONLY be installed and serviced by 
+ QUALIFIED personnel, see NEMA publication AB4. 
+ Caution: 
+ This product is NOT suitable for use 
+ in equipment not specifically design to accept 
+it. Contact equipment manufacturer for 
+possible equipment modifications. 
+ Avertissement 
+ : 
+ Danger contre les risques 
+ d'électrocutions. S'assurer avant toutes 
+manipulations du disjoncteur que les différentes 
+sources d'alimentation sont en position «OFF». Les 
+disjoncteurs, unités de protection ou accessoires 
+doivent être installés par des personnes qualifiées et 
+habilitées. Lira NEMA publication AB4. 
+ Important: 
+ Cet appareil nedoit pas etre 
+ employe dans un equipement non 
+specialement adapte a cet effet. Contactez le 
+constructeur concernant les possibles 
+modifications a apporter a l'equipemen 
+ Share 
+ Pages: 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ Download 
+ Complain 
+ wrong Brand 
+ wrong Model 
+ non readable 
+ <div class="
+--- page 2 ---
+manual-view__content__page__code" >
+ Product Description 
+ Plug-in bases provide the user with another option for 
+ quick change of breaker and switch assemblies without 
+ disturbing power connections. Two plug-in bases (one 
+ for each terminal end) are required for each protective 
+ device. 
+ Figure 2. Different Orientations of Strap. 
+ Step 1- Unpack and inspect 
+ Unpack the Plug-In and inspect it for any shipping 
+damage (insure the breaker accessory has the proper 
+ampere, voltage ratings, wiring routing and 
+operation for the application. In addition, attach 
+appropriate labels to side of the breaker if internal 
+ accessories have been installed.). 
+ Item Description Qty 
+ PLUGIN BASE 
+ 1 
+ SCREW # 10-32 X 0.625 INCH 
+ 3 
+ 2 Lock 
+ Washer 
+ 5 
+ 3 
+ WASHER 
+ 5 
+ 4 
+ MALE PLUG 
+ 3 
+ 5 
+ SCREW # 10-24x1.75 INCH 
+ 2 
+ 6 
+ PLUG-IN BASE ASM 
+ 1 
+ 7 
+ NUT # 10-24 
+ 2 
+ 8 
+ * MOUNTING PLATE (Optional) 
+ 1 
+ *SECONDARY DISCONNECT KIT (Optional) (FCDSD) 
+ 9 
+ SECONDARY DISCONNECT 
+ BOTTOM HALF (FCDSDP) 
+ 1 
+ 10 
+ BREAKER ADAPTOR ASM (FCDSDB) 
+ 1 
+ Table 1: List of parts in the Plug-In base kit. 
+ * Items to be ordered separately. 
+ Each plug-in base assembly contains the mounting 
+ hardware necessary to mount the base to either end of 
+ the circuit breaker. Electrical spacing between adjacent 
+ terminals is provided by alternate Long-Short-Long 
+ (LSL) or Short-Long-Short (SLS) terminal assemblies. 
+These instructions describe the installation procedure 
+ for the plug-in accessory on 
+ Record Plus™ 
+ FC100 
+ circuit breakers, as shown in Figure 1. 
+The complete kits are available in the following catalog 
+number variants: 
+ • Catalog number FCDDF1 provides LSL Horizontal 
+ Strap plug-in base. 
+ • Catalog number FCDDF2 provides SLS Horizontal 
+ Strap plug-in base. 
+ • Catalog number FCDDF3 provides LSL Vertical 
+ Strap plug-in base. 
+ • Catalog number FCDDF4 provides SLS Vertical 
+ Strap plug-in base. 
+ The parts supplied with this kit are listed in Table 1. 
+ Vertical Studs 
+ FCDDF3 (LSL) 
+FCDDF4 (SLS) 
+ Horizontal Studs 
+FCDDF1 (LSL) 
+FCDDF4 (SLS) 
+ [1] 
+ [10] 
+ [3] 
+ [2] 
+ [4] 
+ [5] 
+ [9] 
+ [6] 
+ Figure 3.Plugin Base Kit 
+ [7] 
+ [8] 
+ Share 
+ Pages: 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ Download 
+ Complain 
+ wrong Brand 
+ wrong Model 
+ non readable 
+ <div class="
+--- page 3 ---
+manual-view__content__page__code" >
+ Step 2- Installation 
+ 1. Remove the lugs from breaker (if installed), as 
+ illustrated in Figure 4. 
+ 2. Replace each lug with male plug (4) and fasten them 
+ to breaker terminal with # 10-32 X 0.625” screw [1] 
+and lock washer [2] and flat washer [3], as illustrated 
+in Figure 5. Tighten the screws to 27 - 32 in-lb. 
+ [14] 
+ 3. Fasten the Secondary Disconnect breaker adaptor 
+ (FCDSDB) [10] to the breaker base with #4-40 X 
+0.312” screw provided in kit, as illustrated in Figure 6. 
+Tighten the screws to 5 - 6 in-lb. 
+ 4. Mount plug-in base (6) with #10-24x1.75” screw [5], 
+ nut [7], lock washer [2] and washer [3] to proper 
+support*, using the dimension shown in the table 
+and drawing for location of boltholes, as illustrated in 
+Figures 8 & 9. Tighten the screws to 23 - 28 in-lb. 
+ 5. 
+ Fasten the Secondary Disconnect Base (FCDSDP) [9] 
+to proper support or Mounting plate [8] with thread 
+cutting screw #8-32X0.375” provided in kit, as 
+illustrated in Figure 7. Tighten the screws 16 to 20 in- 
+lb. 
+ Figure 4. Remove the lugs from breaker. 
+ Figure 5. Assemble Male Plugs to Breaker terminals. 
+ [4] 
+ [1] 
+ [3] 
+ [2] 
+ NOTE: Use # 8-32 X 2.875” long screws to mount FC100 
+circuit breaker. If mounting screws other than those 
+provided are used, threads must be class 2 and free of 
+burs and deformation. 
+*Optional Mounting plate [8], available and used for 
+dead front panel construction, can also be used as 
+“templates” in mounting plugin bases. 
+ [9] FCDSDP 
+ Figure 7.Assemble Plugin Base and Secondary 
+ Disconnect Bottom Holder on Mounting plate. 
+ [6] FCDDF1 
+ FCDDF2 
+ FCDDF3 
+ FCDDF4 
+ Figure 6.Assemble the Secondary Disconnect 
+ Breaker Adaptor to Breaker. 
+ [10] FCDSDB 
+ [8] 
+ Share 
+ Pages: 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ Download 
+ Complain 
+ wrong Brand 
+ wrong Model 
+ non readable 
+ <div class="
+--- page 4 ---
+manual-view__content__page__code" >
+ 2.36 
+ [60. 
+ 0] 
+ Z 
+ X 
+ 2.2 
+ [56] 
+ W 
+ 1.1 
+ [28. 
+ 0] 
+ V 
+ 0.94 
+ [24] 
+ U 
+ 4.98 
+ [126 
+ .6] 
+ T 
+ 5.23 
+ [132 
+ .8] 
+ S 
+ 8.27 
+ [210 
+ ] 
+ R 
+ 3.54 
+ [89. 
+ 8] 
+ P 
+ #8- 
+ 32 
+ TAP 
+ N 
+ 0.18 
+ 7 
+ [4.7 
+ 5] 
+ M 
+ 0.28 
+ [7.2] 
+ L 
+ 0.59 
+ [15] 
+ K 
+ 0.87 
+ [22] 
+ J 
+ 0.51 
+ [13] 
+ G 
+ 5.54 
+ [140 
+ .8] 
+ F 
+ 3.61 
+ [91. 
+ 8] 
+ E 
+ 3.75 
+ [95. 
+ 26] 
+ D 
+ 1.64 
+ [41. 
+ 6] 
+ AM 
+ P 
+ 100 
+ 100 
+ 100 
+ 100 
+ POLE 
+ 3 
+ 3 
+ 3 
+ 3 
+ C 
+ Lon 
+ g 
+ (L 
+ ) 
+ Shor 
+ t 
+ (S 
+ ) 
+ Lon 
+ g 
+ (L 
+ ) 
+ Shor 
+ t 
+ (S 
+ ) 
+ B 
+ Shor 
+ t 
+ (S 
+ ) 
+ Lon 
+ g 
+ (L 
+ ) 
+ Shor 
+ t 
+ (S 
+ ) 
+ Lon 
+ g 
+ (L 
+ ) 
+ STU 
+ D 
+ A 
+ SSEM 
+ B 
+ L 
+ Y 
+ A 
+ Lon 
+ g 
+ (L 
+ ) 
+ Shor 
+ t 
+ (S 
+ ) 
+ Lon 
+ g 
+ (L 
+ ) 
+ Shor 
+ t 
+ (S 
+ ) 
+ BRE 
+ AKE 
+ R 
+ TYPE 
+ FC 
+ 100 
+ FCDDF1 
+ FCDDF2 
+ FCDDF3 
+ FCDDF4 
+ P 
+ LUG – 
+ IN BAS 
+ E OU 
+ TLINE 
+ DIME 
+ NS 
+ IONS 
+ Horizontal 
+ St 
+ ud 
+ Vert 
+ ica 
+ l 
+ Stud 
+ PROVISION FOR 
+ SECONDARY 
+ DISCO 
+ NNE 
+ C 
+ T 
+ N 
+ OTE: 
+ H 
+ ORIZONTA 
+ L STUDS AS SHOWN. 
+ F 
+ OR VE 
+ RTI 
+ C 
+ AL ST 
+ UDS 
+ , ROTATE 
+ C 
+ U ST 
+ UDS 
+ 90 
+ 0 
+ ,OTHERWI 
+ SE SAM 
+ E 
+ A 
+ S HORIZO 
+ NTAL. 
+ Figure 8. Outline view of completed 
+ Plug-In installation. 
+ (4)”P” BKR MTG HOLES 
+ Table 2. Plug-In mounting Dimensions 
+ Share 
+ Pages: 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ Download 
+ Complain 
+ wrong Brand 
+ wrong Model 
+ non readable 
+ <div class="
+--- page 5 ---
+manual-view__content__page__code" >
+ PROVIDE THIS CUT OUT 
+IF SECONDARY DISCONNECT 
+IS USED 
+ Figure9.Drilling Plan for Mounting Panel 
+ Figure 10.Breaker installation. 
+ [14] 
+ Step 3- Operation 
+ 1. With breaker in OFF position, install breaker 
+ by aligning male plugs with tulip connection 
+and pressing firmly in place, as illustrated in 
+Figure 10. 
+ 2. Connect the Secondary disconnect wires to 
+ the internal accessories mounted in the 
+breaker. 
+ 3. Install the breaker on plug-in base as per 
+ FC100 breaker installation instruction 
+[DEH40463]. 
+Figure 8 is the outline view of completed 
+installations with dimensions. Figure 9 illustrates 
+the drilling plan for mounting panel. 
+ Share 
+ Pages: 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ Download 
+ Complain 
+ wrong Brand 
+ wrong Model 
+ non readable 
+ <div class="
+--- page 6 ---
+manual-view__content__page__code" >
+ These instructions do not cover all details or variations in equipment nor do they provide for every possible 
+ contingency that may be met in connection with installation, operation, or maintenance. Should further 
+ information be desired or should particular problems arise that are not covered sufficiently for the purchaser’s 
+ purposes, the matter should be referred to the GE Company. The circuit breaker is a sealed unit that contains no 
+ user-serviceable parts. Tampering with the seal will void the warranty. 
+ g 
+ GE Consumer & Industrial 
+ U 
+ ________________________________________________________ 
+ General Electric Company 
+ 41 Woodford Ave., Plainville, CT 06062 
+ www.geindustrial.com 
+ DEH40915 R03 1204 
+ © 2004 General Electric Company 
+ Share 
+ Pages: 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ 6 
+ Download 
+ Complain 
+ wrong Brand 
+ wrong Model 
+ non readable 
+ <div class="

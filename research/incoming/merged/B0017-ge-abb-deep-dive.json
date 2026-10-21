@@ -15,7 +15,8 @@
    "local_file": "docs/library/GEA/GE_SEFFMI_Catalog.pdf",
    "notes": "pp. 6-29 (TQL/THQC mounting), 6-77 (FC plug-in/hardware), 6-82 (FE screw kit), 6-88 (FG hardware), 6-99 (MOM screw kits), 6-101 (mounting screw kits), 6-105 (plug-in bases). Footnote superscripts fused into part numbers in text extraction.",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "s312",
@@ -28,7 +29,8 @@
    "local_file": "docs/library/GEA/USESI_14306_catalog.pdf",
    "notes": "pp. 3-28, 3-99, 3-103, 3-110, 3-117 (MOM/TDR screw kits), 3-119 (mounting screw kits), 3-123 (plug-in bases; includes TB1/TB4/TB6/TB8 and K1200 rows dropped in 2019).",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "s613",
@@ -40,7 +42,8 @@
    "type": "oem_catalog",
    "local_file": "docs/library/GEA/USESI_107433_catalog_1.pdf",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "semp",
@@ -51,7 +54,8 @@
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/empower_b17.json",
    "notes": "Saved description/UPC/GO schedule/stock status per catalog number; a not-found page means the number is not listed in the current eCatalog (does not by itself prove discontinuation).",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sdeh40915",
@@ -64,7 +68,8 @@
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294965_DEH40915.txt",
    "notes": "Text rendering of 6-page instruction on manualsdir.com",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sdea623",
@@ -77,7 +82,8 @@
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/USESI_14463_brochure.pdf",
    "notes": "8-page brochure; tables \"Circuit Breaker Mounting Modules Plug-In Spectra 3-pole / 2-pole\" (filler plate only kit and complete kit numbers by breaker frame, X height and box width). Distributor-hosted (USESI) copy of OEM document.",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sbl08",
@@ -90,7 +96,8 @@
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/USESI_14463_catalog.pdf",
    "notes": "120 pp. Renewal parts pp. 9-101 to 9-118 incl. ADS load bases, lug kits, SCP Plus boxes/fronts/hardware (9-115), CCB/QMR straps, boxes, fronts, fillers, THFP fusible switches (9-116 to 9-118). Footnote numerals fused into part numbers in text extraction.",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sdeh41271",
@@ -102,7 +109,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294895_DEH41271.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5548",
@@ -114,7 +122,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294748_GEH5548.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5550",
@@ -126,7 +135,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_295151_GEH5550.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5597",
@@ -138,7 +148,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294757_GEH5597.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5581",
@@ -150,7 +161,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294850_GEH5581.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5547",
@@ -162,7 +174,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294779_GEH5547.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5582",
@@ -174,7 +187,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294762_GEH5582.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5889",
@@ -186,7 +200,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_295260_GEH5889.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5925",
@@ -198,7 +213,8 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294730_GEH5925.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
   },
   {
    "key": "sgeh5926",
@@ -210,7 +226,218 @@
    "type": "oem_instruction",
    "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/manualsdir_294879_GEH5926.txt",
    "accessed": "2026-10-21",
-   "access_status": "ok"
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "sget8032",
+   "title": "Spectra Series Switchboards (catalog/application guide) [GE legacy document]",
+   "publisher": "ABB (GE legacy)",
+   "doc_number": "GET-8032C (ABB ID 9AKK108467A9254)",
+   "date": "2013-02",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A9254&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_catalog",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/9AKK108467A9254_GET-8032C_Spectra_Switchboard.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com. Sections 4 (sizing incl. branch device X heights, plug-in vs bolt-on), Reference Publications p.80 (AV3 Access Switchboard DET-138).",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "slcm",
+   "title": "Product Life Cycle Announcement - Spectra Switchboards",
+   "publisher": "ABB",
+   "doc_number": "1SXU900299G0201",
+   "date": "2021-04-01",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SXU900299G0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_bulletin",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1SXU900299G0201_Life_Cycle_Announcement_Spectra_Switchboards_April_2021.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "srgsbiom",
+   "title": "ReliaGear SB Low Voltage Switchboards - Installation, Operations and Maintenance Manual",
+   "publisher": "ABB",
+   "doc_number": "1VAL088301-MB Rev B",
+   "date": "",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1VAL088301-MB&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1VAL088301-MB_RevB_ReliaGearSB_IOMM.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "srgsbcat",
+   "title": "ReliaGear SB Switchboard EXcelerate Catalog / Design Guide",
+   "publisher": "ABB",
+   "doc_number": "1SQC088005C0201 Rev C",
+   "date": "",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC088005C0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_catalog",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1SQC088005C0201_RevC_ReliaGear_SB_Switchboard_EXcelerate_Catalog.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com. Configurator-style design guide; no renewal kit numbers found.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "srg48",
+   "title": "ReliaGear lighting panelboards - Mounting hardware kit for FB and XT2 circuit breakers",
+   "publisher": "ABB",
+   "doc_number": "1TQC173000E0048",
+   "date": "2022-02",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000E0048&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1TQC173000E0048.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "srg24",
+   "title": "ReliaGear lighting panelboards - Mounting hardware kit for A2, XT1 and XT4 circuit breakers",
+   "publisher": "ABB",
+   "doc_number": "1TQC173000Z0024",
+   "date": "",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000Z0024&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1TQC173000Z0024.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "srg22",
+   "title": "ReliaGear Lighting Panelboards - Interior Mounting Kits",
+   "publisher": "ABB",
+   "doc_number": "1TQC173000Z0022 / DEH41056",
+   "date": "2020-03",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000Z0022&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1TQC173000Z0022_DEH41056_ReliaGear_InteriorMtingKits_v1.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "srg23",
+   "title": "ReliaGear lighting panelboards - Lock Kits",
+   "publisher": "ABB",
+   "doc_number": "1TQC173000Z0023",
+   "date": "2024-12",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000Z0023&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1TQC173000Z0023.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "srg32",
+   "title": "ASPSERENT - ReliaGear Lighting Panelboard Service Entrance Field Conversion Kit",
+   "publisher": "ABB (GE legacy)",
+   "doc_number": "1TQC173000E0032 / GEH6518",
+   "date": "2025-01",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000E0032&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1TQC173000E0032.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "srg23g",
+   "title": "Insulated Equipment Ground Kit Cat. No. EGS12/EGC12 for ReliaGear Lighting Panelboard Type RQ, RL and RE",
+   "publisher": "ABB (GE legacy)",
+   "doc_number": "1TQC173000E0023 / GEH5037",
+   "date": "2024-04",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000E0023&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1TQC173000E0023.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "snx15",
+   "title": "ReliaGear neXT Panelboard - Replacement Part Instructions",
+   "publisher": "ABB",
+   "doc_number": "1SQC900015M0201",
+   "date": "2025",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900015M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1SQC900015M0201.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "snx28",
+   "title": "ReliaGear neXT - Breaker Installation & Removal Instruction Sheet",
+   "publisher": "ABB",
+   "doc_number": "1SQC900028M0201",
+   "date": "",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900028M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1SQC900028M0201.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "snx29",
+   "title": "ReliaGear neXT - Retrofit Bracket Kit (RGRPIFRK) Instruction Sheet",
+   "publisher": "ABB",
+   "doc_number": "1SQC900029M0201",
+   "date": "2025",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900029M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1SQC900029M0201.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "snx09",
+   "title": "ReliaGear neXT - Dual Main Lugs",
+   "publisher": "ABB",
+   "doc_number": "1SQC900009M0201",
+   "date": "",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900009M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1SQC900009M0201.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
+  },
+  {
+   "key": "snx24",
+   "title": "ReliaGear neXT - IP20 Main Lug Barrier Installation Instructions",
+   "publisher": "ABB",
+   "doc_number": "1SQC900024M0201",
+   "date": "",
+   "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900024M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+   "type": "oem_instruction",
+   "local_file": "docs/library/_incoming/B0017-ge-abb-deep-dive/1SQC900024M0201.pdf",
+   "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "mfr": "GEA"
   }
  ],
  "families": [
@@ -238,22 +465,23 @@
    ],
    "equipment_type": "switchboard",
    "era": {
-    "value": "Catalog GET-8032C dated 02/2013; Pro-Stock brochure DEA-623 dated 11/2015; ABB lists it as \"Spectra Series Switchboard - Previous Generation\" with a life-cycle announcement 1SXU900299G0201 (04/01/2021)",
-    "conf": "B",
+    "value": "GET-8032C catalog dated 02/2013 (marked \"GE legacy document\"); phased out by ABB 2021: no new quotes after May 20 2021, no orders after Aug 12 2021, no shipments after Dec 9 2021",
+    "conf": "A",
     "src": [
-     "sdea623"
+     "sget8032",
+     "slcm"
     ],
-    "basis": "oem_spec",
-    "note": "GET-8032C and life-cycle notice seen only in search-result metadata (library.e.abb.com 403)"
+    "page": "LCM pp.1-3",
+    "basis": "oem_spec"
    },
    "status": {
-    "value": "Previous generation (ABB); life-cycle announcement 04/2021",
-    "conf": "C",
+    "value": "Obsolete (ABB LCM). Replacement: ReliaGear SB switchboards; Tmax XT retrofit kits for Spectra bolt-on panelboards/switchboards (single mount 250/600/1200 A, dual mount 150/250/400 A) offered for field replacement",
+    "conf": "A",
     "src": [
-     "sdea623"
+     "slcm"
     ],
-    "basis": "inference",
-    "note": "from ABB web listing title in search results; notice not read"
+    "page": "pp.1-2",
+    "basis": "oem_spec"
    },
    "main_ampacity": {
     "value": "Pro-Stock program: 1200, 1600, 2000 A main bus, copper or aluminum; 65 kA bracing; 3P4W 480Y/277 or 208Y/120 V",
@@ -264,21 +492,63 @@
     "page": "pp.2-3",
     "basis": "oem_spec"
    },
-   "branch_breakers": {
-    "value": "Distribution sections use Spectra plug-in panel (C/B feeders only) with the same AMC...FP plug-in circuit breaker mounting modules as Spectra power panelboards (THQB/THHQB, TEY, FB, TEB/TED/THED/SE, TQD, SF, FG, SG, SK) in 27-44 in box-width ranges",
-    "conf": "A",
-    "src": [
-     "sdea623"
-    ],
-    "page": "p.4 tables",
-    "basis": "oem_spec"
-   },
+   "branch_breakers": [
+    {
+     "value": "Distribution sections use Spectra plug-in panel (C/B feeders only) with the same AMC...FP plug-in circuit breaker mounting modules as Spectra power panelboards (THQB/THHQB, TEY, FB, TEB/TED/THED/SE, TQD, SF, FG, SG, SK) in 27-44 in box-width ranges",
+     "conf": "A",
+     "src": [
+      "sdea623"
+     ],
+     "page": "p.4 tables",
+     "basis": "oem_spec"
+    },
+    {
+     "value": "Class 1 group-mounted mains/feeders to 1200 A; branch devices in Spectra Plug-In or Bolt-On construction; ADS fusible switches in plug-in only. Bolt-on branch sizing: double 100 A THQB/THHQB/TEY/TEB/FC/FB 3X; 150 A TED/THED/SE 3X; 225 A TQD/THQD 3X; 250 A SF/FE 3X; 400-600 A SG/FG 4X (40 in min width); single SF/FE 3X, SG/FG 4X, SKHA/SKLA 6X (40 in), SKPA 6X (45 in); +1X for breakers with side-exit accessory wiring",
+     "conf": "A",
+     "src": [
+      "sget8032"
+     ],
+     "page": "pp.14, 20 (Section 4)",
+     "basis": "oem_spec"
+    }
+   ],
    "overview": "GE Spectra Series group-mounted switchboards (Plainville CT) use Spectra plug-in distribution panel interiors in which branch breakers mount on AMC plug-in modules; fusible branch units can be field-substituted with circuit breaker units. Pro-Stock program numbers SWPS<amps><M|L|D><C|A><T|B>N1[EPM] (DEA-623). Spectra panelboard renewal parts tables list switchboard section widths 35/40/45 in alongside panel box widths 27-31/36-40/44 in (APP fillers, FE covers), indicating shared hardware.",
    "source_keys": [
-    "sdea623",
     "sbl08",
-    "sdeh41271"
-   ]
+    "sdea623",
+    "sdeh41271",
+    "sget8032",
+    "slcm"
+   ],
+   "successor": {
+    "value": "ReliaGear SB Switchboards (also replaces Spectra Series Integrated Switchboard and Pro-Stock Spectra Plug-in Switchboards)",
+    "conf": "A",
+    "src": [
+     "slcm"
+    ],
+    "page": "p.1",
+    "basis": "oem_spec"
+   },
+   "claims": {
+    "construction": {
+     "value": "Group-mounted sections use a panel-mount arrangement similar or identical to distribution panels; Spectra plug-in modules have spring-reinforced jaws gripping interior bus; expansion kit (handle, base plate, cover plate, load base, switch) converts empty side of a double-branch ADS unit; fillers mount at side of modules or between side trims (1X = 1.375 in)",
+     "conf": "A",
+     "src": [
+      "sget8032"
+     ],
+     "page": "pp.9-10, 14",
+     "basis": "oem_spec"
+    },
+    "related_docs": {
+     "value": "Reference publications: AV3 Access Switchboard DET-138; Powerpanel GET-7006; Integrated Switchboards DEA-373A; Commercial Metering DEA-340; Jiffy II DEA-344; PCU DET-104; PowerBreak II GET-8052",
+     "conf": "A",
+     "src": [
+      "sget8032"
+     ],
+     "page": "p.80",
+     "basis": "oem_spec"
+    }
+   }
   },
   {
    "key": "fSCP",
@@ -293,6 +563,134 @@
    "name": "Type CCB and QMR power panelboards (legacy; listed under Spectra Series Power renewal parts)",
    "code": "CCB-QMR",
    "equipment_type": "panelboard"
+  },
+  {
+   "key": "fRGSB",
+   "mfr": "GEA",
+   "brand_markings": [
+    "ABB",
+    "ReliaGear"
+   ],
+   "name": "ReliaGear SB low voltage switchboards",
+   "code": "RG-SB",
+   "aliases": [
+    "ReliaGear SB",
+    "RGSB"
+   ],
+   "equipment_type": "switchboard",
+   "era": {
+    "value": "Introduced c.2020 (Electrical Wholesaler Top 10 New Product Picks Sept 2020); replaced Spectra Series switchboards 2021",
+    "conf": "A",
+    "src": [
+     "slcm"
+    ],
+    "page": "p.2",
+    "basis": "oem_spec"
+   },
+   "status": {
+    "value": "Current (ABB)",
+    "conf": "B",
+    "src": [
+     "slcm"
+    ],
+    "basis": "oem_spec"
+   },
+   "branch_breakers": {
+    "value": "Tmax XT plug-in spring-loaded circuit breakers in IP20 finger-safe bus stack; SACE Emax 2 drawout mains",
+    "conf": "A",
+    "src": [
+     "slcm",
+     "srgsbiom"
+    ],
+    "page": "LCM p.2; IOMM",
+    "basis": "oem_spec"
+   },
+   "overview": "ABB successor to GE Spectra switchboards. Plug-in Tmax XT branch breakers mount anywhere in the bus stack; supplied hardware is medium-carbon steel (1/4-20 4 lb-ft, 5/16-18 9, 3/8-16 16, 1/2-13 39 (35 with 2 1/4 in Belleville), 5/8-16 80 lb-ft per IOMM Table 1). No field-kit catalog numbers found in the design guide.",
+   "claims": {
+    "torque": {
+     "value": "Supplied hardware torques (Table 1): 1/4-20 4 lb-ft; 5/16-18 9 lb-ft; 3/8-16 16 lb-ft; 1/2-13 39 lb-ft (35 lb-ft with 2 1/4 in Belleville washer); 5/8-16 80 lb-ft. Use flat and lock washers; no washers under carriage bolt heads",
+     "conf": "A",
+     "src": [
+      "srgsbiom"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    }
+   },
+   "source_keys": [
+    "slcm",
+    "srgsbiom",
+    "srgsbcat"
+   ]
+  },
+  {
+   "key": "fRGLP",
+   "mfr": "GEA",
+   "brand_markings": [
+    "ABB",
+    "ReliaGear",
+    "GE"
+   ],
+   "name": "ReliaGear lighting panelboards (Types RQ, RE, RL, RS, RD; AD interiors)",
+   "code": "RG-LIGHTING",
+   "aliases": [
+    "ReliaGear lighting panelboard",
+    "ReliaGear LP",
+    "ReliaGear RQ",
+    "ReliaGear RE",
+    "ReliaGear RL",
+    "ReliaGear RD"
+   ],
+   "equipment_type": "panelboard",
+   "overview": "ABB successor to GE A-Series lighting panelboards (AQ/RQ, AE/RE, AS/RS per ASPSERENT instructions). Accepts Q-line/FB and ABB Tmax XT1/XT2/XT4 and A2 breakers via ASP...3P mounting hardware kits (spools/Z-straps, insulated bracket, phase barriers). Kit catalog prefix ASP carried over from A-Series.",
+   "source_keys": [
+    "srg48",
+    "srg24",
+    "srg22",
+    "srg32"
+   ]
+  },
+  {
+   "key": "fA",
+   "mfr": "GEA",
+   "name": "A-Series Lighting Panelboards (Types AL, AQ, AE/AS, AD / AD Plus, Lighting Control Panel, Pro-Stock AQU/AEU)",
+   "code": "A-SERIES",
+   "equipment_type": "panelboard"
+  },
+  {
+   "key": "fNX",
+   "mfr": "GEA",
+   "name": "ReliaGear neXT Power Panelboards",
+   "code": "RG-NEXT",
+   "equipment_type": "panelboard",
+   "claims": {
+    "torque": {
+     "value": "Breaker mounting screws 35-40 lb-in (3.9-4.5 N-m); dual main mechanical lugs to pads 200 lb-in (23 N-m); main lug barrier screws 30-35 lb-in; IP20 barrier HMR rail kit 50-60 lb-in, barrier/brackets 35-40 lb-in",
+     "conf": "A",
+     "src": [
+      "snx28",
+      "snx09",
+      "snx24"
+     ],
+     "page": "various",
+     "basis": "oem_spec"
+    },
+    "breaker_mounting": {
+     "value": "XT1/XT2/XT4 and XT5/XT6/XT7 breakers carry mounting brackets with clearance holes and screwdriver slots for insertion into/removal from the bus stack; legacy IF-series frames also accommodated; 2 mounting screws per breaker",
+     "conf": "A",
+     "src": [
+      "snx28"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "source_keys": [
+    "snx28",
+    "snx09",
+    "snx24",
+    "snx15"
+   ]
   }
  ],
  "breakers": [
@@ -484,6 +882,49 @@
    "used_in_family_keys": [],
    "claims": {},
    "source_keys": []
+  },
+  {
+   "key": "bXT",
+   "mfr": "GEA",
+   "name": "ABB SACE Tmax XT (XT1/XT2/XT4/XT5/XT6/XT7)",
+   "aliases": [
+    "Tmax XT",
+    "XT1",
+    "XT2",
+    "XT4",
+    "XT5",
+    "XT6",
+    "XT7"
+   ],
+   "used_in_family_keys": [],
+   "claims": {
+    "note": {
+     "value": "ABB molded case breakers used in ReliaGear lighting/neXT panelboards and ReliaGear SB switchboards",
+     "conf": "A",
+     "src": [
+      "srg24",
+      "snx28"
+     ],
+     "basis": "oem_spec"
+    }
+   },
+   "source_keys": [
+    "srg24",
+    "snx28"
+   ]
+  },
+  {
+   "key": "bA2",
+   "mfr": "GEA",
+   "name": "ABB A2 (Formula A2) molded case breaker",
+   "aliases": [
+    "A2"
+   ],
+   "used_in_family_keys": [],
+   "claims": {},
+   "source_keys": [
+    "srg24"
+   ]
   }
  ],
  "parts": [
@@ -15803,7 +16244,7 @@
    "mfr": "GEA",
    "brand_marking": "GE",
    "oem_part_number": "331A1543G1",
-   "title": "GE Spectra ADS switch replacement load base kit 331A1543G1",
+   "title": "GE Spectra ADS switch handle kit 331A1543G1 (400-1200 A)",
    "component_type": "other",
    "family_keys": [
     "fSPP",
@@ -15820,24 +16261,26 @@
      "page": "9-111",
      "basis": "oem_spec"
     },
-    "description": {
-     "value": "Replacement load base kit for Spectra ADS fusible switch (includes load base, clips and lugs) - 400-1200 A, 240 V & 600 V",
-     "conf": "A",
-     "src": [
-      "sbl08"
-     ],
-     "page": "9-111 \"Mounting Hardware Plug-In or Bolt-On Spectra ADS Switch Replacement Load Base Kits\"",
-     "basis": "oem_spec"
-    },
-    "kit_contents": {
-     "value": "Load base, clips and lugs",
-     "conf": "A",
-     "src": [
-      "sbl08"
-     ],
-     "page": "9-111",
-     "basis": "oem_spec"
-    },
+    "description": [
+     {
+      "value": "ABB eCatalog: \"HANDLE KIT 400-1200 AMP\" (UPC 783164011630)",
+      "conf": "A",
+      "src": [
+       "semp"
+      ],
+      "basis": "oem_spec"
+     },
+     {
+      "value": "Listed (400-1200 A, no pole/voltage given) at the foot of the 2008 \"ADS Switch Replacement Load Base Kits\" table",
+      "conf": "A",
+      "src": [
+       "sbl08"
+      ],
+      "page": "9-111",
+      "basis": "oem_spec",
+      "note": "row placement suggests load base, but ABB description and GEH-5553 (Handle Replacement: 400-1200 Ampere Switches) indicate a handle kit"
+     }
+    ],
     "ampacity": {
      "value": "400-1200 A",
      "conf": "A",
@@ -15845,6 +16288,23 @@
       "sbl08"
      ],
      "page": "9-111",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "GEH-5553 Handle Replacement: 400-1200 Ampere Switches",
+     "conf": "B",
+     "src": [
+      "sbl08"
+     ],
+     "page": "9-118",
+     "basis": "inference"
+    },
+    "status": {
+     "value": "Listed in ABB eCatalog (2026-10-21)",
+     "conf": "A",
+     "src": [
+      "semp"
+     ],
      "basis": "oem_spec"
     }
    },
@@ -15855,10 +16315,11 @@
     "material"
    ],
    "questions": [
-    "Several 331A1519/331A1545 groups share the same rating (e.g. G9/G18, G11/G19, G1/G5 prices); the distinguishing switch type (fuse class H/J/T, old/new style) is not stated in the 2008 table."
+    "BuyLog 2008 places 331A1543G1 in the load-base table; ABB eCatalog calls it a handle kit - confirm."
    ],
    "source_keys": [
-    "sbl08"
+    "sbl08",
+    "semp"
    ]
   },
   {
@@ -22238,13 +22699,31 @@
      "page": "9-116 fn.1",
      "basis": "oem_spec"
     },
-    "description": {
-     "value": "Additional insulators; must be ordered (GO-148F) if mounting hardware exists when installing SF2DPK (SFH/SFL 225 A max) in CCB panel",
+    "description": [
+     {
+      "value": "ABB eCatalog: \"SF FRAME REPLCMT PART KITGROUP MTD\" (UPC 783164172348); category Spectra Power - Merchand. Old Style Pwr Pk Units",
+      "conf": "A",
+      "src": [
+       "semp"
+      ],
+      "basis": "oem_spec"
+     },
+     {
+      "value": "Additional insulators; must be ordered (GO-148F) if mounting hardware exists when installing SF2DPK (SFH/SFL 225 A max) in CCB panel",
+      "conf": "A",
+      "src": [
+       "sbl08"
+      ],
+      "page": "9-116 footnote 1",
+      "basis": "oem_spec"
+     }
+    ],
+    "status": {
+     "value": "Listed in ABB eCatalog (2026-10-21)",
      "conf": "A",
      "src": [
-      "sbl08"
+      "semp"
      ],
-     "page": "9-116 footnote 1",
      "basis": "oem_spec"
     }
    },
@@ -22256,7 +22735,8 @@
    ],
    "questions": [],
    "source_keys": [
-    "sbl08"
+    "sbl08",
+    "semp"
    ]
   },
   {
@@ -22558,13 +23038,32 @@
      ],
      "page": "9-116",
      "basis": "oem_spec"
+    },
+    "description": [
+     {
+      "value": "ABB eCatalog: \"MOUNTG HARDWRE/CCB PANELBRD-SINGLE\" (UPC 783164209235); Spectra Power - Merchand. Old Style Pwr Pk Units",
+      "conf": "A",
+      "src": [
+       "semp"
+      ],
+      "basis": "oem_spec"
+     }
+    ],
+    "status": {
+     "value": "Listed in ABB eCatalog (2026-10-21)",
+     "conf": "A",
+     "src": [
+      "semp"
+     ],
+     "basis": "oem_spec"
     }
    },
    "requires_part_keys": [],
    "unknowns": [],
    "questions": [],
    "source_keys": [
-    "sbl08"
+    "sbl08",
+    "semp"
    ]
   },
   {
@@ -27772,8 +28271,1112 @@
    "source_keys": [
     "sbl08"
    ]
+  },
+  {
+   "key": "p_31018103569A001",
+   "mfr": "GEA",
+   "brand_marking": "ABB",
+   "oem_part_number": "31018103569A001",
+   "title": "ReliaGear SB breaker compartment dead front cover 31018103569A001",
+   "component_type": "deadfront",
+   "family_keys": [
+    "fRGSB"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "31018103569A001",
+     "conf": "A",
+     "src": [
+      "srgsbiom"
+     ],
+     "page": "breaker removal section (p.~26)",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Optional dead front cover for SACE Emax 2.2, 4.2 and 6.2 compartments - prevents access when the breaker is removed",
+     "conf": "A",
+     "src": [
+      "srgsbiom"
+     ],
+     "page": "p.~26",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srgsbiom"
+   ]
+  },
+  {
+   "key": "p_3100323960A001",
+   "mfr": "GEA",
+   "brand_marking": "ABB",
+   "oem_part_number": "3100323960A001",
+   "title": "ReliaGear SB breaker compartment dead front cover 3100323960A001",
+   "component_type": "deadfront",
+   "family_keys": [
+    "fRGSB"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "3100323960A001",
+     "conf": "A",
+     "src": [
+      "srgsbiom"
+     ],
+     "page": "breaker removal section (p.~26)",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Optional dead front cover for SACE Emax 1.2 compartment - prevents access when the breaker is removed",
+     "conf": "A",
+     "src": [
+      "srgsbiom"
+     ],
+     "page": "p.~26",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srgsbiom"
+   ]
+  },
+  {
+   "key": "p_ASPXT23P",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPXT23P",
+   "title": "ReliaGear lighting panel mounting kit ASPXT23P (XT2 3-pole)",
+   "component_type": "breaker-mounting-kit",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [
+    "bXT"
+   ],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPXT23P",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Mounting hardware kit for three-pole XT2 breaker in ReliaGear lighting panelboard (spools on ON-side terminals into plastic base; insulated mounting bracket on OFF side)",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "XT2 left/center/right spools 30014873564P10, 30014876551P19, 30014877432P20 (1 each); #10-32 x 1/2 recessed flat head screw N84P16008B6 (3); XT2 left/center/right covers 30019791975P2/P3/P4; #10-24 x 3/8 hex socket head screw 30021425143P1 (3); XT2 mounting bracket 30020170827P1; bracket insulation 30020170828P1; #6-32 x 3 3/4 pan head screw 30023310084P1 (2); load phase barrier 1SDA075914R1 (2); line phase barrier 30021918602P1 (2); #10-32 x 3/8 thread rolling screw N722P16006B6 (2)",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "Breaker to bracket #6-32 screws 9-11 in-lb; spools to breaker terminals 27-33 in-lb; #10-32 bracket screws 40-44 in-lb; #10-24 self-rolling screws 40-50 in-lb",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "breaker_compat": {
+     "value": "ABB Tmax XT2 3-pole",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "ABB 1TQC173000E0048",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [
+    "Spool part numbers in 1TQC173000E0048 Table 1 (30014873564P10/30014876551P19/30014877432P20) are identical to the A2 Z-strap/bracket/insulation numbers in 1TQC173000Z0024 Table 1 - one table is likely a copy error."
+   ],
+   "source_keys": [
+    "srg48"
+   ]
+  },
+  {
+   "key": "p_ASPFBRD3P",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPFBRD3P",
+   "title": "ReliaGear lighting panel mounting kit ASPFBRD3P (FB 3-pole)",
+   "component_type": "breaker-mounting-kit",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [
+    "bFB"
+   ],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPFBRD3P",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Mounting hardware kit for three phases of FB breaker in ReliaGear lighting panelboard",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "FB spool 10093207P2 (3); #10-32 x 1.88 in pan head screw 10093208P1 (3); FB cover 30019791975P1 (3); FB 3X mounting bracket 30022471264P1 (1); #10-32 x 3/8 thread rolling screw N722P16006B6 (2); cup washer 254V644P1 (4); #8-32 x 2-7/8 screw N80P15046B6 (4)",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "Bracket #10-32 screws 40-44 in-lb; #8-32 breaker screw 20 in-lb; #10-32 x 1.88 screws to strap 40-50 in-lb",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "breaker_compat": {
+     "value": "Record Plus FB 3-pole",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "ABB 1TQC173000E0048",
+     "conf": "A",
+     "src": [
+      "srg48"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srg48"
+   ]
+  },
+  {
+   "key": "p_ASPA23P",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPA23P",
+   "title": "ReliaGear lighting panel mounting kit ASPA23P (A2 3-pole, 225 A)",
+   "component_type": "breaker-mounting-kit",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [
+    "bA2"
+   ],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPA23P",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Mounting hardware kit for three-pole A2 breaker in ReliaGear lighting panelboard (Z-straps)",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "A2 Z-strap 225 A 30014873564P10 (3); mounting bracket A2 30014876551P19 (1); bracket insulation A2 30014877432P20 (1); M4x55 hex socket head cap screw L15P12055B70 (2); M8 narrow flat washer L400P10B33 (3); M8 helical spring lock washer L401P27B70 (3); M8x25 hex socket button head screw L16P17025B70 (3); thread rolling screw and washer 1/4-20 x 7/8 in 315A7034P3 (3); screw #10-32 x 1/4 in N722P16004B6 (2); phase barrier 80 mm 2 pcs 1SDA066192R1 (1); A2 low terminal cover 1SDA066183R1 (1)",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "M4 breaker-to-bracket screws 9-11 lb-in; Z-strap M8 screws to breaker terminal 64-78 lb-in; #10-32 bracket screws 27-36 lb-in; thread-rolling screws 42 lb-in",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "breaker_compat": {
+     "value": "ABB A2 3-pole (225 A Z-strap)",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 1",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "ABB 1TQC173000Z0024",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srg24"
+   ]
+  },
+  {
+   "key": "p_ASPXT13P",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPXT13P",
+   "title": "ReliaGear lighting panel mounting kit ASPXT13P (XT1 3-pole)",
+   "component_type": "breaker-mounting-kit",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [
+    "bXT"
+   ],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPXT13P",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Mounting hardware kit for three-pole XT1 breaker in ReliaGear lighting panelboard",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "Mounting bracket XT1 30014876551P1 (1); bracket insulation XT1 30014877432P1 (1); M4 socket head cap screw L15EP12065B70 (1); narrow flat washer #10 N402P9B6 (3); lock washer #10 N405P39B6 (3); hex head screw 10-24 x 3/8 N170P17006B70 (3); screw #10-32 x 1/4 N722P16004B6 (2); phase barrier 25 mm 4 pcs 1SDA066192R1 (1) [item 1 not legible in text extraction]",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "M4 screw 9-11 lb-in; #10-32 bracket screws 27-33 lb-in; #10-24 x 3/8 screws to spools 42 lb-in",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "breaker_compat": {
+     "value": "ABB Tmax XT1 3-pole",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 2",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "ABB 1TQC173000Z0024",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [
+    "Table 2 item 1 (probably XT1 spool) missing from text extraction; also phase barrier number 1SDA066192R1 is printed for both 80 mm (A2) and 25 mm (XT1) barriers - verify."
+   ],
+   "source_keys": [
+    "srg24"
+   ]
+  },
+  {
+   "key": "p_ASPXT43P",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPXT43P",
+   "title": "ReliaGear lighting panel mounting kit ASPXT43P (XT4 3-pole, 250 A)",
+   "component_type": "breaker-mounting-kit",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [
+    "bXT"
+   ],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPXT43P",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 3",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Mounting hardware kit for three-pole XT4 breaker in ReliaGear lighting panelboard",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 3",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "XT4 rectangular spool 250 A 30014876527P2 (3); mounting bracket XT4 30014876551P2 (1); bracket insulation XT4 30014877432P2 (1); hex socket head screw 6-32 x 3 in N170P13048B70 (2); flat washer 1/4 N402P41B6 (3); lock washer 1/4 N405P41B6 (3); hex socket head screw 1/4-20 x 5/8 N170P21010B70 (3); thread-rolling screw and washer 1/4-20 x 7/8 315A7034P6 (3); screw #10-32 x 1/4 N722P16004B6 (2); phase barrier 25 mm 4 pcs 1SDA075914R1 (1)",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 3",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "See 1TQC173000Z0024 XT4 steps (figures 5-6); not fully legible in text extraction",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 3",
+     "basis": "oem_spec"
+    },
+    "breaker_compat": {
+     "value": "ABB Tmax XT4 3-pole (250 A spool)",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "Table 3",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "ABB 1TQC173000Z0024",
+     "conf": "A",
+     "src": [
+      "srg24"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srg24"
+   ]
+  },
+  {
+   "key": "p_ASPAQLEBKT",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPAQLEBKT",
+   "title": "ReliaGear / A-Series interior center support bracket kit ASPAQLEBKT",
+   "component_type": "mounting-bracket",
+   "family_keys": [
+    "fRGLP",
+    "fA"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPAQLEBKT",
+     "conf": "A",
+     "src": [
+      "srg22"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Center support brackets field-installed to an RQ/RE/RL interior in 64 in and 76 in high ReliaGear enclosures where the interior has bowed outward from the back of the enclosure due to excessive breaker or cable weight",
+     "conf": "A",
+     "src": [
+      "srg22"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "Bracket(s) and two #10-32 screws",
+     "conf": "B",
+     "src": [
+      "srg22"
+     ],
+     "page": "p.1 step 6",
+     "basis": "oem_spec",
+     "note": "\"#10 x 32\" as printed"
+    },
+    "fasteners": {
+     "value": "Two 0.173 in diameter holes drilled in enclosure center (position A) if not present; bracket fastened with two #10-32 screws",
+     "conf": "A",
+     "src": [
+      "srg22"
+     ],
+     "page": "p.1, Fig. 3",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "1TQC173000Z0022 / DEH41056 (MAR2020)",
+     "conf": "A",
+     "src": [
+      "srg22"
+     ],
+     "page": "p.4",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srg22"
+   ]
+  },
+  {
+   "key": "p_ASPQTRT",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPQTRT",
+   "title": "ReliaGear lighting panelboard t-handle quarter-turn lock kit ASPQTRT",
+   "component_type": "hardware-kit",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPQTRT",
+     "conf": "A",
+     "src": [
+      "srg23"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "T-handle quarter-turn lock kit for ReliaGear lighting panelboard fronts",
+     "conf": "A",
+     "src": [
+      "srg23"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "T-handle quarter-turn 4600311519P1 (2); shim 30019169881P1 (2); cam latch E5-6006 (2); keys 569B737P5 (2)",
+     "conf": "A",
+     "src": [
+      "srg23"
+     ],
+     "page": "Table 1/2",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "Mounting nut 88 lb-in; M6 cam screw 55 lb-in",
+     "conf": "A",
+     "src": [
+      "srg23"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srg23"
+   ]
+  },
+  {
+   "key": "p_ASPQTRK",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPQTRK",
+   "title": "ReliaGear lighting panelboard flush cylinder quarter-turn lock kit ASPQTRK",
+   "component_type": "hardware-kit",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPQTRK",
+     "conf": "A",
+     "src": [
+      "srg23"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Flush cylinder quarter-turn lock kit for ReliaGear lighting panelboard fronts",
+     "conf": "A",
+     "src": [
+      "srg23"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "Cylinder quarter-turn 4600311522P1 (2); shim 30019169881P1 (2); cam latch E5-6006 (2); keys 569B737P5 (2)",
+     "conf": "A",
+     "src": [
+      "srg23"
+     ],
+     "page": "Table 1/2",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "Mounting nut 88 lb-in; M6 cam screw 55 lb-in",
+     "conf": "A",
+     "src": [
+      "srg23"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srg23"
+   ]
+  },
+  {
+   "key": "p_ASPSERENT",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "ASPSERENT",
+   "title": "ReliaGear / A-Series service entrance field conversion kit ASPSERENT",
+   "component_type": "hardware-kit",
+   "family_keys": [
+    "fRGLP",
+    "fA"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "ASPSERENT",
+     "conf": "A",
+     "src": [
+      "srg32"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Service entrance field conversion kit for AQ/RQ, AE/RE and AS/RS panelboards with bolt-in breakers: one-way screws in branch line straps (all phases) and labels to convert main-lug-only panels (six-disconnect rule) where allowed by code",
+     "conf": "A",
+     "src": [
+      "srg32"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "One-way screws #10-32 192A6976P99 (18); \"Do Not Remove\" labels 192A7029P700 (18); service entrance label 315A7219P1 (1); service disconnect label 569B806P5 (1)",
+     "conf": "A",
+     "src": [
+      "srg32"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "1TQC173000E0032 / GEH6518 (Jan 2025)",
+     "conf": "A",
+     "src": [
+      "srg32"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions"
+   ],
+   "questions": [],
+   "source_keys": [
+    "srg32"
+   ]
+  },
+  {
+   "key": "p_EGC12",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "EGC12",
+   "title": "Insulated equipment ground kit EGC12 (ReliaGear RQ/RL/RE)",
+   "component_type": "ground-bar",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "EGC12",
+     "conf": "A",
+     "src": [
+      "srg23g"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Insulated equipment ground kit (Cat. No. EGS12/EGC12) for ReliaGear lighting panelboard types RQ, RL, RE; barrier placed first, kit mounted in backwall holes with two #10 thread-forming screws; identification label adjacent to ground bar barrier",
+     "conf": "A",
+     "src": [
+      "srg23g"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "1TQC173000E0023 / GEH5037 (APR 2024)",
+     "conf": "A",
+     "src": [
+      "srg23g"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "circuits",
+    "wire range",
+    "dimensions"
+   ],
+   "questions": [
+    "Difference between EGS12 and EGC12 not stated."
+   ],
+   "source_keys": [
+    "srg23g"
+   ]
+  },
+  {
+   "key": "p_EGS12",
+   "mfr": "GEA",
+   "brand_marking": "ABB / GE",
+   "oem_part_number": "EGS12",
+   "title": "Insulated equipment ground kit EGS12 (ReliaGear RQ/RL/RE)",
+   "component_type": "ground-bar",
+   "family_keys": [
+    "fRGLP"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "EGS12",
+     "conf": "A",
+     "src": [
+      "srg23g"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "application": {
+     "value": "Insulated equipment ground kit for ReliaGear lighting panelboard types RQ, RL, RE (instruction covers EGS12/EGC12)",
+     "conf": "A",
+     "src": [
+      "srg23g"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "install_doc": {
+     "value": "1TQC173000E0023 / GEH5037",
+     "conf": "A",
+     "src": [
+      "srg23g"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [],
+   "questions": [],
+   "source_keys": [
+    "srg23g"
+   ]
+  },
+  {
+   "key": "p_RGRPIFRK",
+   "mfr": "GEA",
+   "brand_marking": "ABB",
+   "oem_part_number": "RGRPIFRK",
+   "title": "ReliaGear neXT retrofit bracket kit RGRPIFRK (XT5/XT6/XT7)",
+   "component_type": "breaker-mounting-kit",
+   "family_keys": [
+    "fNX"
+   ],
+   "breaker_keys": [
+    "bXT"
+   ],
+   "claims": {
+    "oem_part_number": {
+     "value": "RGRPIFRK",
+     "conf": "A",
+     "src": [
+      "snx29"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Retrofit bracket kit for XT5, XT6 and XT7 breaker frames in ReliaGear neXT panelboards; bracket positioned on frame centred with breaker per layout drawing, fits rear slot of breaker mounting bracket and is used with a screwdriver to push/pull breaker into/out of bus stack; bracket remains in panel",
+     "conf": "A",
+     "src": [
+      "snx29"
+     ],
+     "page": "pp.1-5",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "Retrofit bracket (5); mounting screws (5)",
+     "conf": "A",
+     "src": [
+      "snx29"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "Breaker mounting screws 35-40 lb-in (3.9-4.5 N-m)",
+     "conf": "A",
+     "src": [
+      "snx29"
+     ],
+     "page": "p.4",
+     "basis": "oem_spec"
+    },
+    "breaker_compat": {
+     "value": "ABB Tmax XT5, XT6, XT7",
+     "conf": "A",
+     "src": [
+      "snx29"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions",
+    "material"
+   ],
+   "questions": [],
+   "source_keys": [
+    "snx29"
+   ]
+  },
+  {
+   "key": "p_RGRPDPIN",
+   "mfr": "GEA",
+   "brand_marking": "ABB",
+   "oem_part_number": "RGRPDPIN",
+   "title": "ReliaGear neXT replacement kit RGRPDPIN",
+   "component_type": "fastener",
+   "family_keys": [
+    "fNX"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "RGRPDPIN",
+     "conf": "A",
+     "src": [
+      "snx15"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Replacement door pins for gutter door hinges (kit; 6X)",
+     "conf": "A",
+     "src": [
+      "snx15"
+     ],
+     "page": "p.1-2",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "6X",
+     "conf": "A",
+     "src": [
+      "snx15"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions"
+   ],
+   "questions": [],
+   "source_keys": [
+    "snx15"
+   ]
+  },
+  {
+   "key": "p_RGRPTSCR",
+   "mfr": "GEA",
+   "brand_marking": "ABB",
+   "oem_part_number": "RGRPTSCR",
+   "title": "ReliaGear neXT replacement kit RGRPTSCR",
+   "component_type": "fastener",
+   "family_keys": [
+    "fNX"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "RGRPTSCR",
+     "conf": "A",
+     "src": [
+      "snx15"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "description": {
+     "value": "Replacement thread-forming screws (kit; 10X): 1.25 in long for fronts, breakers and panel-mounted accessories; 3/8 in long for all other connections",
+     "conf": "A",
+     "src": [
+      "snx15"
+     ],
+     "page": "p.1-2",
+     "basis": "oem_spec"
+    },
+    "kit_contents": {
+     "value": "10X",
+     "conf": "A",
+     "src": [
+      "snx15"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec"
+    },
+    "torque": {
+     "value": "50-60 lb-in for connections to enclosure or gutter doors; 35-40 lb-in for all other connections",
+     "conf": "A",
+     "src": [
+      "snx15"
+     ],
+     "page": "p.2",
+     "basis": "oem_spec"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [
+    "dimensions"
+   ],
+   "questions": [],
+   "source_keys": [
+    "snx15"
+   ]
   }
  ],
- "leads": [],
- "log": ""
+ "leads": [
+  {
+   "priority": 1,
+   "topic": "ABB library direct-download route (search.abb.com/library/Download.aspx?DocumentID=<ABB doc ID>)",
+   "detail": "search.abb.com redirects to signed library.e.abb.com URLs and works from this container even though electrification.us.abb.com and library.e.abb.com direct links fail (503/403). Requires the ABB document ID (e.g. 9AKK108467A9254 for GET-8032C, 1TQC173000E00xx/Z00xx ReliaGear lighting kits, 1SQC9000xxM0201 neXT instructions). Find the IDs for BuyLog Section 11 (2021/2022), GE DEH-0xx/DEH-4xxxx Spectra kit leaflets and GEH-5588/5630 via search-result metadata, then download.",
+   "doc_numbers": [],
+   "urls": [
+    "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A9254&LanguageCode=en&DocumentPartId=&Action=Launch"
+   ]
+  },
+  {
+   "priority": 2,
+   "topic": "Spectra bolt-on/plug-in kits for Record Plus FB/FC/FG - DEH-41123/41124/41125 (FB), DEH-40402/40425 (FC), DEH-40419/40420/40426/41047 (FG)",
+   "detail": "Instruction numbers taken from BuyLog Sec 6 Rev 1/19 frame publication lists (pp.6-71, 6-75, 6-85 approx.). Not on manualsdir.com GE Industrial Solutions listing (695 manuals crawled) and not found by web search; would give AMC/AMCB...FB/FD/FG kit contents and torques.",
+   "doc_numbers": [
+    "DEH-41123",
+    "DEH-41124",
+    "DEH-41125",
+    "DEH-40402",
+    "DEH-40425",
+    "DEH-40419",
+    "DEH-40420",
+    "DEH-40426",
+    "DEH-41047"
+   ],
+   "urls": []
+  },
+  {
+   "priority": 2,
+   "topic": "GEH-5588 / GEH-5630 (Type AML main lug and feed-thru lug kits) still not found",
+   "detail": "Not in manualsdir GE listing; ABB library ID unknown; DocumentID=GEH5588/GEH-5588 returns 404 on search.abb.com.",
+   "doc_numbers": [
+    "GEH-5588",
+    "GEH-5630"
+   ],
+   "urls": []
+  },
+  {
+   "priority": 2,
+   "topic": "GE plug-in mounting base instructions GEH-4610 / GEH-4342 / GEH-5655 and back-connected stud GEJ-3609/3635/3619, GEH-5665",
+   "detail": "Would give stud dimensions, drilling plans and torque for TE/TF/TJ/TK..PD bases and TMP/SMP plates (BuyLog says drawings are available for customers fabricating their own plates).",
+   "doc_numbers": [
+    "GEH-4610",
+    "GEH-4342",
+    "GEH-5655",
+    "GEJ-3609",
+    "GEJ-3635",
+    "GEJ-3619",
+    "GEH-5665"
+   ],
+   "urls": []
+  },
+  {
+   "priority": 3,
+   "topic": "ABB LCM notices on Spectra bolt-on/plug-in panelboards and SBO mounting kits (2022, 2023-08)",
+   "detail": "Search snippets of new.abb.com LCM pages state Spectra Bolt-On panelboards Limited H1 2022 / Obsolete H2 2022 and that Spectra breaker mounting kits for SBO panelboards and switchboard distribution sections were phased out (Tmax XT mounting kits fill the need). Pages return 503 to curl/WebFetch; capture text and dates to update status claims for AMCB*/AHKB*/AMC* kits.",
+   "doc_numbers": [],
+   "urls": [
+    "https://new.abb.com/low-voltage/service/service-for-low-voltage-products/news1/lcm-update-2023-08",
+    "https://new.abb.com/low-voltage/service/service-for-low-voltage-products/news1/lcm-update-2022"
+   ]
+  },
+  {
+   "priority": 3,
+   "topic": "AV-3 Access Switchboard DET-138 and AV-Line GEA-7931",
+   "detail": "GET-8032C reference list names \"AV3 Access Switchboard DET-138\". Try ABB library ID search / archive for DET-138 and GEA-7931 to obtain AV-Line / AV-3 branch kit data (THLCDPK and TB*SPK/DPK suffix kits are noted as also used in switchboards in BuyLog 2008 p.9-117).",
+   "doc_numbers": [
+    "DET-138",
+    "GEA-7931"
+   ],
+   "urls": []
+  },
+  {
+   "priority": 3,
+   "topic": "ReliaGear neXT kit catalog numbers in figures",
+   "detail": "1SQC9000xxM0201 neXT instruction sheets (dual main lugs, IP20 main lug barrier/HMR rail kit, grounds & neutral, door handle replacement, bulk pack) show kit contents only as lettered images; catalog numbers for these kits were not found in text. Need BuyLog Sec 11 2021+ neXT tables.",
+   "doc_numbers": [
+    "1SQC900009M0201",
+    "1SQC900024M0201",
+    "1SQC900020M0201",
+    "1SQC900023M0201",
+    "1SQC900003M0201"
+   ],
+   "urls": []
+  },
+  {
+   "priority": 3,
+   "topic": "ADS load base 331A1519/331A1545 group differentiation",
+   "detail": "2008 BuyLog p.9-111 lists several groups with identical ratings (e.g. 200 A 2-pole G13/G15/G17/G21) without fuse class or switch style; obtain GEH-5576 or ABB eCatalog/legacy price list to map each group to the ADS switch catalog number.",
+   "doc_numbers": [
+    "GEH-5576"
+   ],
+   "urls": []
+  },
+  {
+   "priority": 4,
+   "topic": "SCP Plus and CCB/QMR legacy items absent from ABB eCatalog",
+   "detail": "Most SCP Plus (ACT/ACS HK/FPK), CCB box/front (DASW/DACB/CBA), QMR THFP switches and 2008-only CCB kits returned not-found on empower (only TB8SPK, SFCARE, 331A1543G1 listed). Confirm availability via ABB Services (Houston equipment plant noted for SCP+ fillers in 2008).",
+   "doc_numbers": [],
+   "urls": []
+  }
+ ],
+ "log": "Sources mined: (1) GE BuyLog Sec 6 Rev 1/19 and Sec 3 Rev 9/12 (already in library) for the deferred breaker mounting hardware: screw kits SEMSK/SFGMSK/SFMSK/SKMSK, 343L162/343L184 screws, cup washer, TEY3B (printed TEY3B1 with footnote), TQBSI, MOM/TDR screw kits 343L564Gx/SGMSKMOM, plug-in bases TE/TF/TJ/TK..PD/PC and SGPC, optional mounting plates TMP1-7/SMP3, TQL plug-in bases, THQC plates/clips; Record Plus FC plug-in kits FCDDF1-4 (+DEH40915 instruction from manualsdir), FC/FE/FG screw kits. 2012-only rows (THLC screws, K1200/TB plug-in rows, TMP5-7, FEMSK2-4) flagged as dropped by 2019. (2) Found a 2008 GE BuyLog Section 9 Panelboards (USESI_14463_catalog) with renewal pages 9-101..9-118: ADS load bases 331A1519/1545 (LEAD-0043), AMK/AMKP/KLP lug kits, AFPML covers, SCP Plus boxes/fronts/hardware/filler kits, CCB/QMR kits dropped before 2013, THFP fusible switches, CCB boxes/fronts. Table note: CCB/QMR DPK/SPK suffix hardware also applies to switchboards. (3) Spectra switchboards: DEA-623 Pro-Stock brochure (USESI_14463_brochure) shows switchboard distribution sections use the same AMC..FP plug-in modules and AFP fillers; FE breaker covers 10083889P19-P30 for 35/40/45 in switchboards (DEH41271); GET-8032C catalog and the 2021 LCM announcement obtained via search.abb.com/library/Download.aspx (works where electrification.us.abb.com and library.e.abb.com fail). (4) manualsdir.com brand listing crawled (695 GE Industrial Solutions manuals, /brands/ge-industrial-solutions/193.html) - fetched Spectra fusible switch / expansion kit / endwall / drip cover / neutral kit leaflets; Spectra Record Plus FB/FC/FG kit DEHs and GEH-5588/5630 are NOT on manualsdir. Endwall kit (GEH5925) and drip-resistant cover (GEH5926) leaflets give contents but no catalog numbers (not catalogued). TNK100/200/400 neutral kits are safety-switch items (out of scope). (5) ReliaGear: lighting panel kits ASPXT23P/ASPFBRD3P/ASPA23P/ASPXT13P/ASPXT43P with full parts lists, ASPAQLEBKT, ASPQTRT/ASPQTRK, ASPSERENT, EGS12/EGC12; neXT RGRPIFRK, RGRPDPIN, RGRPTSCR and torques; ReliaGear SB IOMM (hardware torques, Emax 2 dead front covers). ABB eCatalog (empower) checked for ~330 numbers: most Section 6 plug-in/screw items and all Record Plus hardware not listed; 331A1543G1 is a 400-1200 A HANDLE KIT per ABB (BuyLog 2008 row placement suggested load base) - recorded as conflict; 565B837G1 described by ABB as \"CROSS BAR & MECHANISM\" vs BuyLog TQL plug-in base. Failed: electrification.us.abb.com (all URLs 000/503), library.e.abb.com direct (403), new.abb.com LCM pages (503), archive.org search for GE panel renewal parts (nothing relevant), NLAB/NHB/AV-Line surplus drawing numbers (no hits). Footnote superscripts fused into numbers were resolved (TEY3B1, TQBSI7, TQCFMP11-41, AMC6FJFP1, AMC6GBFP2, AML3x00SFP1, SF2DPK1,2, TB1SPK3, TKL12SPK4 etc.) and recorded as alias alt numbers."
 }

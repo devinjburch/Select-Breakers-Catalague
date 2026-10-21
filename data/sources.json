@@ -3425,7 +3425,8 @@
   "mfr": "GEA",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens",
-   "B0018-breaker-installation-accessories"
+   "B0018-breaker-installation-accessories",
+   "B0017-ge-abb-deep-dive"
   ],
   "sha256": "ef6ebb0807dd06684af7a794aa89fdc042a788f1186884af48e0ddd8aabc78b7",
   "bytes": 2306782
@@ -3444,7 +3445,8 @@
   "id": "SRC-00199",
   "mfr": "GEA",
   "batches": [
-   "B0008-breaker-terminal-kits-ge-siemens"
+   "B0008-breaker-terminal-kits-ge-siemens",
+   "B0017-ge-abb-deep-dive"
   ],
   "sha256": "17b935df3acb259da28aa672bc1403b68c6ec89d014aebf263203bdd1678304b",
   "bytes": 8481400
@@ -3464,7 +3466,8 @@
   "mfr": "GEA",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens",
-   "B0018-breaker-installation-accessories"
+   "B0018-breaker-installation-accessories",
+   "B0017-ge-abb-deep-dive"
   ],
   "sha256": "8250df997ca9b0e2c9feff2bd98e868ce2f5827f2aceecada1b9e775ff571c50",
   "bytes": 1864492
@@ -7564,7 +7567,8 @@
   "id": "SRC-00426",
   "mfr": "GEA",
   "batches": [
-   "B0011-docs-ge-squared"
+   "B0011-docs-ge-squared",
+   "B0017-ge-abb-deep-dive"
   ],
   "sha256": "8513c2caa5926ae8153d6a09b3e647b042a7c8ef25151db6bb751fcff4b85095",
   "bytes": 259260
@@ -11542,5 +11546,527 @@
   ],
   "sha256": "d4ad23bde568075872193cfb59b3e34bd4810b3e7178f8a84ac4b63bb755ffc8",
   "bytes": 2090547
+ },
+ {
+  "title": "Record Plus Molded Case Circuit Breaker Accessories - Plug In Base (FC100)",
+  "publisher": "GE",
+  "doc_number": "DEH40915 R03",
+  "date": "2004-12",
+  "url": "https://www.manualsdir.com/manuals/294965/ge-industrial-solutions-record-plus-plug-in-bases-fc100.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294965_DEH40915.txt",
+  "notes": "Text rendering of 6-page instruction on manualsdir.com",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00648",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "89104e145c62a224f36ca94b37c7a14daf002e8d55db2f85fb7ed7928323e078",
+  "bytes": 10217
+ },
+ {
+  "title": "Spectra Series Plug-in Switchboards - Pro-Stock Program",
+  "publisher": "GE Industrial Solutions",
+  "doc_number": "DEA-623",
+  "date": "2015-11",
+  "url": "https://assets.usesi.com/product-media/brochures/USESI_14463_brochure.pdf",
+  "type": "oem_catalog",
+  "local_file": "docs/library/GEA/USESI_14463_brochure.pdf",
+  "notes": "8-page brochure; tables \"Circuit Breaker Mounting Modules Plug-In Spectra 3-pole / 2-pole\" (filler plate only kit and complete kit numbers by breaker frame, X height and box width). Distributor-hosted (USESI) copy of OEM document.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00649",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "23d0e8221a5add8a2111e4542f3e84b299ac52f5c1bbd9e9d1528f5ab7d29831",
+  "bytes": 886788
+ },
+ {
+  "title": "BuyLog Catalog Section 9: Panelboards (A-Series, Spectra Series, SCP Plus, CCB/QMR renewal parts) with list prices",
+  "publisher": "GE Consumer & Industrial",
+  "doc_number": "BuyLog Section 9, Rev. 1/08",
+  "date": "2008-01",
+  "url": "https://assets.usesi.com/product-media/catalogs/USESI_14463_catalog.pdf",
+  "type": "oem_catalog",
+  "local_file": "docs/library/GEA/USESI_14463_catalog.pdf",
+  "notes": "120 pp. Renewal parts pp. 9-101 to 9-118 incl. ADS load bases, lug kits, SCP Plus boxes/fronts/hardware (9-115), CCB/QMR straps, boxes, fronts, fillers, THFP fusible switches (9-116 to 9-118). Footnote numerals fused into part numbers in text extraction.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00650",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "44ea5ad0822357fd80ca7f5b630a881eafa6cbd019708ad1196b5d5f2fd74322",
+  "bytes": 1050770
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breaker Cover (Record Plus FE frames)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH41271 R01",
+  "date": "2002",
+  "url": "https://www.manualsdir.com/manuals/294895/ge-industrial-solutions-spectra-power-panelboard-record-plus-fe-breaker-cover-kit.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294895_DEH41271.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00651",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "bac69ceeefdf8582f47369d03f8f8019be71a8faedc11160cce1c67695ee66d9",
+  "bytes": 4989
+ },
+ {
+  "title": "Spectra Series Power Panelboards 30-200 Ampere Fusible Switch",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5548 R02",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/294748/ge-industrial-solutions-spectra-series-power-panelboards-30200-ampere-fusible-switch.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294748_GEH5548.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00652",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "1cfdcb3d143a81083a69e17f48b702c3ff2e672dc0889628bc36088ee0fbb651",
+  "bytes": 3975
+ },
+ {
+  "title": "Spectra Series Power Panelboards 400-600 Ampere Fusible Switch",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5550 R04",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/295151/ge-industrial-solutions-spectra-series-power-panelboards-400600-ampere-fusible-switch.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_295151_GEH5550.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00653",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "d64325d8db3bd0656dc125e8b071183f57bd82b410ce2a2933a8117d52e4a634",
+  "bytes": 2891
+ },
+ {
+  "title": "Spectra Series Power Panelboards 800 & 1200 Ampere Fusible Switch",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5597 R04",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/294757/ge-industrial-solutions-spectra-series-power-panelboards-800-1200-ampere-fusible-switch.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294757_GEH5597.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00654",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "cd56d0641e178b8524534806417b1f206778d3d94559e99d204d79c430f05ca2",
+  "bytes": 3901
+ },
+ {
+  "title": "Spectra Series Power Panelboards 60 A/600 V, 100 A/240 V, 100 A/600 V Expansion Kits for Type ADS Fusible Switch Units",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5581 R03",
+  "date": "2001-06",
+  "url": "https://www.manualsdir.com/manuals/294850/ge-industrial-solutions-spectra-series-power-panelboards-60-a_600-v-100-a_240-v-100-a_600.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294850_GEH5581.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00655",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "28574c6869a388f205a378f57c6ed5912bf1cf098e97702920f83b01ba79eb97",
+  "bytes": 4315
+ },
+ {
+  "title": "Spectra Series Fusible Switch Units 30/60 Ampere Expansion Kit",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5547 R02",
+  "date": "2001-05",
+  "url": "https://www.manualsdir.com/manuals/294779/ge-industrial-solutions-spectra-series-power-panelboards-3060-ampere-expansion-kit.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294779_GEH5547.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00656",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "82d663abf636b15c175d6d3e2aea4bd2f9a36cbee175db6921f02df930dcbc08",
+  "bytes": 3663
+ },
+ {
+  "title": "Spectra Series Fusible Switch Units 200 Ampere Expansion Kit (J and T Fuses)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5582 R02",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/294762/ge-industrial-solutions-spectra-series-fusible-switch-units-j-t.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294762_GEH5582.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00657",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "c96e5a506d22d9a2e45fb34ccfe5650a0127a32a3211834830ce8949d45f40d1",
+  "bytes": 3932
+ },
+ {
+  "title": "Spectra Series Fusible Switch Units 200 Ampere Expansion Kit (H, K and R Fuses)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5889 R02",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/295260/ge-industrial-solutions-spectra-series-fusible-switch-units-h-k-r.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_295260_GEH5889.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00658",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "18fd40a4e7f91c860fd16ecc648fa91eba6c24b04933917cd9fb04578fc5b515",
+  "bytes": 3792
+ },
+ {
+  "title": "Spectra Series Power Panelboards Endwall Kit",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5925 R02",
+  "date": "2001-10",
+  "url": "https://www.manualsdir.com/manuals/294730/ge-industrial-solutions-spectra-series-power-panelboards-endwall-kit.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294730_GEH5925.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00659",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "9f968893de463eb7ee73d4776e58caee26c2f880e5f4fb174489f0a4ecac8e9b",
+  "bytes": 2228
+ },
+ {
+  "title": "Spectra Series Power Panelboards Drip-Resistant Cover",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5926 R02",
+  "date": "2001-10",
+  "url": "https://www.manualsdir.com/manuals/294879/ge-industrial-solutions-spectra-series-power-panelboards-drip-resistant-cover.html",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/manualsdir_294879_GEH5926.txt",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00660",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "d4610138a8cb7af4d330624d2772ba6e92e78a7ca2d1e62972384a29e726d963",
+  "bytes": 2014
+ },
+ {
+  "title": "Spectra Series Switchboards (catalog/application guide) [GE legacy document]",
+  "publisher": "ABB (GE legacy)",
+  "doc_number": "GET-8032C (ABB ID 9AKK108467A9254)",
+  "date": "2013-02",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A9254&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_catalog",
+  "local_file": "docs/library/GEA/9AKK108467A9254_GET-8032C_Spectra_Switchboard.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com. Sections 4 (sizing incl. branch device X heights, plug-in vs bolt-on), Reference Publications p.80 (AV3 Access Switchboard DET-138).",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00661",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "b1110cae08c79eeab61272e002095ddb1ac769cd76817d00ab2ba07acddd461e",
+  "bytes": 2408021
+ },
+ {
+  "title": "Product Life Cycle Announcement - Spectra Switchboards",
+  "publisher": "ABB",
+  "doc_number": "1SXU900299G0201",
+  "date": "2021-04-01",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SXU900299G0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_bulletin",
+  "local_file": "docs/library/GEA/1SXU900299G0201_Life_Cycle_Announcement_Spectra_Switchboards_April_2021.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00662",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "9d660a061f173f94ae3d1719d42ae6ba399c6914386c54bdca62722cda74b9fd",
+  "bytes": 275897
+ },
+ {
+  "title": "ReliaGear SB Low Voltage Switchboards - Installation, Operations and Maintenance Manual",
+  "publisher": "ABB",
+  "doc_number": "1VAL088301-MB Rev B",
+  "date": "",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1VAL088301-MB&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1VAL088301-MB_RevB_ReliaGearSB_IOMM.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00663",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "9c2d8f589a9df45043187dacd986f2f66932e61e4adaafec20d6f0fe02bf4bef",
+  "bytes": 10321243
+ },
+ {
+  "title": "ReliaGear SB Switchboard EXcelerate Catalog / Design Guide",
+  "publisher": "ABB",
+  "doc_number": "1SQC088005C0201 Rev C",
+  "date": "",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC088005C0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_catalog",
+  "local_file": "docs/library/GEA/1SQC088005C0201_RevC_ReliaGear_SB_Switchboard_EXcelerate_Catalog.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com. Configurator-style design guide; no renewal kit numbers found.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00664",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "f7404eb9885557f81e490859f456d5632a379afebc4fbf60781fed71491c6475",
+  "bytes": 8928573
+ },
+ {
+  "title": "ReliaGear lighting panelboards - Mounting hardware kit for FB and XT2 circuit breakers",
+  "publisher": "ABB",
+  "doc_number": "1TQC173000E0048",
+  "date": "2022-02",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000E0048&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1TQC173000E0048.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00665",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "1d4b6ef995f912a0551d351d81abdefce75b91fca8139194fa3d99e7ce8fd9e9",
+  "bytes": 813785
+ },
+ {
+  "title": "ReliaGear lighting panelboards - Mounting hardware kit for A2, XT1 and XT4 circuit breakers",
+  "publisher": "ABB",
+  "doc_number": "1TQC173000Z0024",
+  "date": "",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000Z0024&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1TQC173000Z0024.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00666",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "2fcd74042e657a8ec8d8c93ec80ce6a6f1b5a4bb2e31c477d0b8af35bd9b233a",
+  "bytes": 597132
+ },
+ {
+  "title": "ReliaGear Lighting Panelboards - Interior Mounting Kits",
+  "publisher": "ABB",
+  "doc_number": "1TQC173000Z0022 / DEH41056",
+  "date": "2020-03",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000Z0022&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1TQC173000Z0022_DEH41056_ReliaGear_InteriorMtingKits_v1.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00667",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "41e2506bf7cf809e192301d28d5034902b5e56215e4b3bab25cc2de4553c7c10",
+  "bytes": 165415
+ },
+ {
+  "title": "ReliaGear lighting panelboards - Lock Kits",
+  "publisher": "ABB",
+  "doc_number": "1TQC173000Z0023",
+  "date": "2024-12",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000Z0023&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1TQC173000Z0023.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00668",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "a143a454de0ca7052cf9212b9c2198d7b4d3e635e1168aa10b56a94b94dacd0b",
+  "bytes": 188031
+ },
+ {
+  "title": "ASPSERENT - ReliaGear Lighting Panelboard Service Entrance Field Conversion Kit",
+  "publisher": "ABB (GE legacy)",
+  "doc_number": "1TQC173000E0032 / GEH6518",
+  "date": "2025-01",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000E0032&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1TQC173000E0032.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00669",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "871820560a71e8605597788f6d9162bb8029788279da796363e5477e4fc89683",
+  "bytes": 104112
+ },
+ {
+  "title": "Insulated Equipment Ground Kit Cat. No. EGS12/EGC12 for ReliaGear Lighting Panelboard Type RQ, RL and RE",
+  "publisher": "ABB (GE legacy)",
+  "doc_number": "1TQC173000E0023 / GEH5037",
+  "date": "2024-04",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1TQC173000E0023&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1TQC173000E0023.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00670",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "3ba7a5e3d009052bc2ee555efeb0ffb8fc68d14e5836915714b4d52c15b97f8b",
+  "bytes": 111132
+ },
+ {
+  "title": "ReliaGear neXT Panelboard - Replacement Part Instructions",
+  "publisher": "ABB",
+  "doc_number": "1SQC900015M0201",
+  "date": "2025",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900015M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1SQC900015M0201.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00671",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "e42a8f665c3b40c9e03968ee0c0808769f2d8e87a3f4d20cfe352eb9b69dd312",
+  "bytes": 5841655
+ },
+ {
+  "title": "ReliaGear neXT - Breaker Installation & Removal Instruction Sheet",
+  "publisher": "ABB",
+  "doc_number": "1SQC900028M0201",
+  "date": "",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900028M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1SQC900028M0201.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00672",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "f1779cb1b2c27f7ed4a219be35628b77ce1d1e66d08946ed0eefa8fa9c389fe1",
+  "bytes": 16421100
+ },
+ {
+  "title": "ReliaGear neXT - Retrofit Bracket Kit (RGRPIFRK) Instruction Sheet",
+  "publisher": "ABB",
+  "doc_number": "1SQC900029M0201",
+  "date": "2025",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900029M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1SQC900029M0201.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00673",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "88ff31d582901809de05e129d4abd11947faee1333d542f8d1ab6a0ba4362441",
+  "bytes": 22361514
+ },
+ {
+  "title": "ReliaGear neXT - Dual Main Lugs",
+  "publisher": "ABB",
+  "doc_number": "1SQC900009M0201",
+  "date": "",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900009M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1SQC900009M0201.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00674",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "6efe74e81a6ffe5b163e6f6f6967ae53effba098c3670faee7a2ea07d034fa1d",
+  "bytes": 9156990
+ },
+ {
+  "title": "ReliaGear neXT - IP20 Main Lug Barrier Installation Instructions",
+  "publisher": "ABB",
+  "doc_number": "1SQC900024M0201",
+  "date": "",
+  "url": "https://search.abb.com/library/Download.aspx?DocumentID=1SQC900024M0201&LanguageCode=en&DocumentPartId=&Action=Launch",
+  "type": "oem_instruction",
+  "local_file": "docs/library/GEA/1SQC900024M0201.pdf",
+  "notes": "Downloaded via search.abb.com library redirect to library.e.abb.com.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "mfr": "GEA",
+  "id": "SRC-00675",
+  "batches": [
+   "B0017-ge-abb-deep-dive"
+  ],
+  "sha256": "39f58897179138dd4ab72730d4ef00bcaf27e279b5001a6c67f1d2e00b906c44",
+  "bytes": 9076181
  }
 ]

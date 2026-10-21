@@ -6558,6 +6558,54 @@
   "created_batch": "B0012-archival-legacy-panelboards"
  },
  {
+  "id": "BRK-GEA-032",
+  "mfr": "GEA",
+  "name": "ABB SACE Tmax XT (XT1/XT2/XT4/XT5/XT6/XT7)",
+  "aliases": [
+   "Tmax XT",
+   "XT1",
+   "XT2",
+   "XT4",
+   "XT5",
+   "XT6",
+   "XT7"
+  ],
+  "claims": {
+   "note": [
+    {
+     "value": "ABB molded case breakers used in ReliaGear lighting/neXT panelboards and ReliaGear SB switchboards",
+     "conf": "A",
+     "src": [
+      "SRC-00666",
+      "SRC-00672"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0017-ge-abb-deep-dive"
+    }
+   ]
+  },
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00666",
+   "SRC-00672"
+  ],
+  "created_batch": "B0017-ge-abb-deep-dive"
+ },
+ {
+  "id": "BRK-GEA-033",
+  "mfr": "GEA",
+  "name": "ABB A2 (Formula A2) molded case breaker",
+  "aliases": [
+   "A2"
+  ],
+  "claims": {},
+  "family_ids": [],
+  "source_ids": [
+   "SRC-00666"
+  ],
+  "created_batch": "B0017-ge-abb-deep-dive"
+ },
+ {
   "id": "BRK-OTH-001",
   "mfr": "OTH",
   "name": "Wadsworth A / B series",
