@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Generate the Master Catalogue PDF from the canonical data store.
 
-Two-pass build: pass 1 records the page of every anchor (parts, families, breakers,
-sources); pass 2 renders indexes with page numbers. Output: catalogue/EDH_Master_Catalogue.pdf
+Anchors record the page of every part, family, breaker and source; index page numbers
+(PageRef) are drawn from that map, and multiBuild repeats until the map is stable. Output: catalogue/EDH_Master_Catalogue.pdf
 """
 import subprocess
 from collections import defaultdict
@@ -77,6 +77,51 @@ class Anchor(Flowable):
         c.bookmarkPage(self.key)
         if self.outline:
             c.addOutlineEntry(self.outline, self.key, level=self.level, closed=self.level > 0)
+
+
+class PageRef(Flowable):
+    """Table-cell page number resolved at draw time from the anchor page map."""
+
+    def __init__(self, key, pagemap):
+        super().__init__()
+        self.key, self.pagemap = key, pagemap
+
+    def wrap(self, aw, ah):
+        return min(aw, 0.4 * inch), 9
+
+    def draw(self):
+        self.canv.setFont("Helvetica", 7.4)
+        n = self.pagemap.get(self.key)
+        self.canv.drawString(0, 1, str(n) if n else "—")
+
+
+class PageMapWatcher(Flowable):
+    """Indexing flowable: keeps multiBuild running until anchor pages stop moving."""
+
+    def __init__(self, pagemap):
+        super().__init__()
+        self.pagemap, self.snapshot = pagemap, None
+
+    def isIndexing(self):
+        return 1
+
+    def beforeBuild(self):
+        self.snapshot = dict(self.pagemap)
+
+    def afterBuild(self):
+        pass
+
+    def notify(self, kind, stuff):
+        pass
+
+    def isSatisfied(self):
+        return self.snapshot == self.pagemap
+
+    def wrap(self, *a):
+        return 0, 0
+
+    def draw(self):
+        pass
 
 
 class Doc(BaseDocTemplate):
@@ -214,8 +259,7 @@ class Catalogue:
 
     # ---------- link helpers
     def pg(self, key):
-        n = self.pm.get(key)
-        return str(n) if n else "—"
+        return PageRef(key, self.pm)
 
     def link(self, key, text):
         return f'<a href="#{key}" color="#1b2a3a">{e(text)}</a>'
@@ -366,7 +410,7 @@ class Catalogue:
             for p in sorted(idf, key=lambda x: (x["mfr"], x["component_type"], x["oem_part_number"])):
                 c = best(p["claims"]["id_features"])
                 rows.append([P(self.link(p["id"], p["id"])), P(e(p["oem_part_number"])),
-                             P(f"{e(c['value'])} {badge(c['conf'])}"), P(self.pg(p["id"]))])
+                             P(f"{e(c['value'])} {badge(c['conf'])}"), self.pg(p["id"])])
             story.append(tbl(rows, [1.15 * inch, 1.2 * inch, 4.25 * inch, 0.4 * inch]))
         story.append(PageBreak())
 
@@ -392,13 +436,29 @@ class Catalogue:
                 st, era = best(f["claims"].get("status")), best(f["claims"].get("era"))
                 rows.append([P(self.link(f["id"], f"{f.get('code') or ''} {f['name']}".strip())),
                              P(e(f["equipment_type"])), P(e(st["value"]) if st else "unknown"),
-                             P(e(era["value"]) if era else "—"), P(str(n)), P(self.pg(f["id"]))])
+                             P(e(era["value"]) if era else "—"), P(str(n)), self.pg(f["id"])])
             story.append(tbl(rows, [2.4 * inch, 0.9 * inch, 1.3 * inch, 1.5 * inch, 0.5 * inch, 0.4 * inch]))
             sub = 1
             for f in fams:
                 self.family_sheet(story, f, f"{no}.{sub}", parts_by_mfr[code])
                 sub += 1
-            orphans = [p for p in parts_by_mfr[code] if not p["family_ids"]]
+            brk_parts = [p for p in parts_by_mfr[code] if not p["family_ids"] and p["breaker_ids"]]
+            if brk_parts:
+                story += heading(f"{no}.{sub}  Breaker-mounted terminal kits and accessories", H2, 1,
+                                 f"mfr-{code}-brk", self.pm)
+                story.append(Paragraph("Hardware that mounts on the breaker rather than in a specific panel family "
+                                       "(lugs, terminal kits, shields, barriers, rear studs), grouped by the first "
+                                       "breaker family it is documented for.", SMALL))
+                byb = defaultdict(list)
+                for p in brk_parts:
+                    byb[p["breaker_ids"][0]].append(p)
+                for bid in sorted(byb, key=lambda b: self.brks[b]["name"] if b in self.brks else b):
+                    nm = self.brks[bid]["name"] if bid in self.brks else bid
+                    story.append(CondPageBreak(1.5 * inch))
+                    story += heading(f"Breaker family {nm}", H2, 2, f"{code}-brkgrp-{bid}", self.pm)
+                    self.part_group(story, byb[bid])
+                sub += 1
+            orphans = [p for p in parts_by_mfr[code] if not p["family_ids"] and not p["breaker_ids"]]
             if orphans:
                 story += heading(f"{no}.{sub}  General / family not yet assigned", H2, 1, f"mfr-{code}-gen", self.pm)
                 self.part_group(story, orphans)
@@ -468,7 +528,7 @@ class Catalogue:
         other = [p for p in mparts if f["id"] in p["family_ids"] and self.primary_family.get(p["id"]) != f["id"]]
         if other:
             story.append(Paragraph("<b>Also fits this family (entry printed elsewhere):</b> " + ", ".join(
-                f"{self.link(p['id'], p['oem_part_number'] or p['id'])} (p.{self.pg(p['id'])})" for p in other), TINY))
+                self.link(p['id'], p['oem_part_number'] or p['id']) for p in other), TINY))
         if own:
             self.part_group(story, own)
 
@@ -571,7 +631,7 @@ class Catalogue:
                 items.append((norm_pn(c["value"]), c, p))
         for _, c, p in sorted(items, key=lambda x: x[0]):
             rows.append([P(f"<b>{e(c['value'])}</b>"), P(e(c.get("relation", "alternate"))), P(e(p["oem_part_number"])),
-                         P(self.link(p["id"], p["id"])), P(badge(c["conf"])), P(self.pg(p["id"]))])
+                         P(self.link(p["id"], p["id"])), P(badge(c["conf"])), self.pg(p["id"])])
         story.append(tbl(rows, [1.7 * inch, 1.2 * inch, 1.7 * inch, 1.3 * inch, 0.4 * inch, 0.5 * inch]) if items
                      else Paragraph("No alternate numbers recorded yet.", BODY))
         story += heading(f"{no}.2  Replacement and successor statements", H2, 1, "xref-repl", self.pm)
@@ -605,7 +665,7 @@ class Catalogue:
             np_ = sum(1 for p in self.d["parts"] if p["mfr"] == code)
             if nf or np_:
                 rows.append([P(f"<b>{code}</b>"), P(self.link(f"mfr-{code}", name)), P(e(lineage)), P(str(nf)),
-                             P(str(np_)), P(self.pg(f"mfr-{code}"))])
+                             P(str(np_)), self.pg(f"mfr-{code}")])
         story.append(tbl(rows, [0.5 * inch, 1.7 * inch, 3.3 * inch, 0.6 * inch, 0.5 * inch, 0.4 * inch]))
         # family index (incl. aliases)
         story += heading(f"{no}.2  Equipment family index (including aliases)", H2, 1, "idx-fam", self.pm)
@@ -617,7 +677,7 @@ class Catalogue:
         rows = [[P("Name / alias", HDR), P("Family", HDR), P("Mfr", HDR), P("Type", HDR), P("ID", HDR), P("Pg", HDR)]]
         for _, nm, f in sorted(items, key=lambda x: x[0]):
             rows.append([P(f"<b>{e(nm)}</b>"), P(self.link(f["id"], f["name"])), P(f["mfr"]), P(e(f["equipment_type"])),
-                         P(e(f["id"])), P(self.pg(f["id"]))])
+                         P(e(f["id"])), self.pg(f["id"])])
         story.append(tbl(rows, [1.6 * inch, 2.4 * inch, 0.5 * inch, 0.9 * inch, 1.1 * inch, 0.5 * inch]))
         # part-number index
         story += heading(f"{no}.3  Part-number index (primary and alternate numbers)", H2, 1, "idx-pn", self.pm)
@@ -633,7 +693,7 @@ class Catalogue:
                  P("Pg", HDR)]]
         for _, pn, rel, p in sorted(items, key=lambda x: x[0]):
             rows.append([P(f"<b>{e(pn)}</b>"), P(e(rel)), P(p["mfr"]), P(e(p["title"][:80])),
-                         P(self.link(p["id"], p["id"])), P(self.pg(p["id"]))])
+                         P(self.link(p["id"], p["id"])), self.pg(p["id"])])
         story.append(tbl(rows, [1.35 * inch, 0.8 * inch, 0.4 * inch, 2.95 * inch, 1.05 * inch, 0.45 * inch]))
         # breaker compatibility index
         story += heading(f"{no}.4  Breaker compatibility index", H2, 1, "idx-brk", self.pm)
@@ -648,7 +708,7 @@ class Catalogue:
                 rows.append([P(f"<b>{self.link(b['id'], b['name'])}</b> ({b['mfr']})"),
                              P(self.link(p["id"], p["oem_part_number"] or p["id"])), P(e(p["component_type"])),
                              P(e(", ".join(self.fam_label(f) for f in p["family_ids"]))),
-                             P(badge(bc["conf"]) if bc else "—"), P(self.pg(p["id"]))])
+                             P(badge(bc["conf"]) if bc else "—"), self.pg(p["id"])])
         story.append(tbl(rows, [1.5 * inch, 1.4 * inch, 1.3 * inch, 1.9 * inch, 0.4 * inch, 0.5 * inch]))
         # component type index
         story += heading(f"{no}.5  Component-type index", H2, 1, "idx-ct", self.pm)
@@ -658,7 +718,7 @@ class Catalogue:
             groups[p["component_type"]].append(p)
         for ct in [c for c in COMPONENT_ORDER if c in groups] + sorted(c for c in groups if c not in COMPONENT_ORDER):
             rows.append([P(f"<b>{e(ct)}</b>"), P(", ".join(
-                f"{self.link(p['id'], p['oem_part_number'] or p['id'])} ({p['mfr']}, {self.pg(p['id'])})"
+                f"{self.link(p['id'], p['oem_part_number'] or p['id'])} ({p['mfr']})"
                 for p in sorted(groups[ct], key=lambda x: (x["mfr"], norm_pn(x["oem_part_number"])))))])
         story.append(tbl(rows, [1.5 * inch, 5.5 * inch]))
         # ampere / poles quick index
@@ -670,7 +730,7 @@ class Catalogue:
             if a or po:
                 rows.append([P(self.link(p["id"], p["id"])), P(e(p["oem_part_number"])),
                              P(e(a["value"]) if a else "—"), P(e(po["value"]) if po else "—"),
-                             P(e(v["value"]) if v else "—"), P(self.pg(p["id"]))])
+                             P(e(v["value"]) if v else "—"), self.pg(p["id"])])
         story.append(tbl(rows, [1.1 * inch, 1.3 * inch, 2.0 * inch, 0.8 * inch, 1.3 * inch, 0.5 * inch]))
         # dimensions / hole pattern index
         dims = [p for p in self.d["parts"] if p["claims"].get("dimensions") or p["claims"].get("hole_pattern")]
@@ -681,7 +741,7 @@ class Catalogue:
                 dm, hp = best(p["claims"].get("dimensions")), best(p["claims"].get("hole_pattern"))
                 rows.append([P(self.link(p["id"], p["id"])), P(e(p["oem_part_number"])),
                              P((e(dm["value"]) + " " + badge(dm["conf"])) if dm else "—"),
-                             P((e(hp["value"]) + " " + badge(hp["conf"])) if hp else "—"), P(self.pg(p["id"]))])
+                             P((e(hp["value"]) + " " + badge(hp["conf"])) if hp else "—"), self.pg(p["id"])])
             story.append(tbl(rows, [1.1 * inch, 1.2 * inch, 2.4 * inch, 1.9 * inch, 0.4 * inch]))
         else:
             story.append(Paragraph("No dimensional data recorded yet. Dimensions are a principal research gap; "
@@ -793,7 +853,7 @@ def git_commit():
 
 def build(data, pagemap, meta):
     cat = Catalogue(data, pagemap)
-    story = []
+    story = [PageMapWatcher(pagemap)]
     cat.front(story, meta)
     cat.how_to_use(story)
     cat.ident_guide(story)
@@ -817,10 +877,7 @@ def main():
             "parts": len(data["parts"]), "families": len(data["families"]), "breakers": len(data["breakers"]),
             "sources": len(data["sources"]), "docs": sum(1 for s in data["sources"] if s.get("local_file")),
             "leads": sum(1 for l in data["leads"] if l["status"] == "open"), "mfrs": mfrs}
-    pagemap = {}
-    build(data, pagemap, meta)              # pass 1: collect anchor pages
-    pm2 = dict(pagemap)
-    build(data, pm2, meta)                  # pass 2: indexes carry page numbers
+    build(data, {}, meta)
     print(f"wrote {OUT} ({OUT.stat().st_size // 1024} KB)")
 
 

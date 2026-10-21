@@ -31,6 +31,17 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   April 2021 edition replaced these numbers with KPRL4X12/X22/X32/LC and 42C80xx covers (same table rows). Distributor text says 4178B06H01 is for panels built before April 2019 and 42C8083H01 after - implies a chassis change, so old and new are probably NOT interchangeable. Confirm with Eaton Sumter aftermarket (803-481-6677) or a December 2020 edition of RP01400001E.  
   Docs: RP01400001E  
   URLs: https://rexelusa.com/p/120408/eaton/panel-board-prl3a-cover-filler-plate-1p-for-f-frame-breakers/786685467672/4178b06h01
+* **LEAD-0043 — 2700CT1601 OEM QED-2 I-Line interiors catalog** (B0004-squared-switchboards)  
+  Contains single/double-row OEM interior selection tables (CF... numbers), likely end closures, splice/main lug kits. Blocked by Akamai (productinfo.se.com, download.se.com 403). Try a distributor mirror (media.distributordatasolutions.com), Rexel/Graybar spec-sheet links, or a browser session.  
+  Docs: 2700CT1601  
+  URLs: https://www.productinfo.schneider-electric.com/power_style_qed_2/2700ct1601-oem-qed-2-switchboard-i-linetm-interiors-catalog/English/2700CT1601.pdf
+* **LEAD-0044 — QED-2 instruction bulletin 80043-055-16 (2024) and -13 (2018)** (B0004-squared-switchboards)  
+  Handling, assembly, splice (through-bus) and torque data for QED-2; likely gives splice plate hardware and torque values. Blocked.  
+  Docs: 80043-055-16, 80043-055-13  
+  URLs: https://www.productinfo.schneider-electric.com/power_style_qed_2/80043-055-power-style-qed-2-switchboards-instruction-bulletin/English/80043-055-016_en.pdf
+* **LEAD-0045 — OEM interiors IB 80235-597-09** (B0004-squared-switchboards)  
+  Schneider FAQ cites IB 80235-597-09 for single/double-row OEM I-Line interiors.  
+  Docs: 80235-597-09
 
 ## Priority 2
 
@@ -84,6 +95,30 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0036 — Pow-R-Xpress PRL4X branch fillers PRXP4PD34FILL, PRXP4PD2FILL1 and P44X25** (B0001-eaton-prl-panelboards)  
   Distributor-only numbers for PRL4X fillers and PRL4 4X blank cover (P44X25). Relationship to OEM 6554C0x not established.  
   URLs: https://www.elliottelectric.com/Media/P44X25-CHS https://www.gexpro.com/p/2925374/eaton/prl4x-pd2-1-pole-filler/786689814915/prxp4pd2fill1
+* **LEAD-0046 — Data Bulletin 0600DB1004 I-Line plug-on connection design** (B0004-squared-switchboards)  
+  Jaw design, bolt-on clamp details, I-Line busway/switchgear connections.  
+  Docs: 0600DB1004  
+  URLs: https://www.se.com/us/en/download/document/0600DB1004
+* **LEAD-0047 — Current 2700CT1101 (v02, 2025-12, 140 MB) and 2110CT9701 v2.1 (2025-02)** (B0004-squared-switchboards)  
+  Newer revisions may add QED-2 Series 2 changes (QMB 63 in. only) and accessory tables. Only 2012 and 2019 editions retrieved.  
+  Docs: 2700CT1101, 2110CT9701  
+  URLs: https://www.se.com/us/en/download/document/2110CT9701
+* **LEAD-0048 — Legacy QMB replacement attachment 'QMB Replacements.pdf' and Supplemental Digest** (B0004-squared-switchboards)  
+  Several se.com FAQs reference an attached QMB Replacements.pdf and the Supplemental Digest for QMB3400LA/QMB3300LA and EX/LEX extension kits. Would give full legacy cross-reference table.  
+  URLs: https://www.se.com/us/en/faqs/FA123288 https://www.se.com/us/en/faqs/FA87289
+* **LEAD-0049 — Unverified FAQs FA123288, FA87289, FA99653** (B0004-squared-switchboards)  
+  QMB3640, QMB303T and QMB306T replacement answers seen only in search summaries (rate-limited 403). Re-fetch to upgrade s36 claims to A.  
+  Docs: FA123288, FA87289, FA99653
+* **LEAD-0056 — GE TCAL28 / TCAL38 / TCAL39 / TCAL51 / TCAL62 not found** (B0008-breaker-terminal-kits-ge-siemens)  
+  These numbers appear in the batch scope but are not in the GE BuyLog 2008 excerpt or the 2012, 2013 or 2019 lug tables. TCAL28 may be confused with TCAL28PD1/PD3 (SF power distribution lugs). Older GE lug numbers (TCAL2x/3x for the 1980s-90s TF/TJ lines) may appear in GEP-1100 / GET-xxxx renewal catalogs or older BuyLog editions (pre-2008).  
+  Docs: GEP-1100
+* **LEAD-0057 — GE footnote digits fused into part numbers** (B0008-breaker-terminal-kits-ge-siemens)  
+  The pdftotext extraction of GE BuyLog runs footnote superscripts into part numbers (TCAL1212 = TCAL121 + fn2, TCAL811 = TCAL81 + fn1, TCLK3652 = TCLK365 + fn2, SKLVK6 = SKLVK + fn6, etc.). Base numbers were reconciled across the 2012 and 2019 editions (different footnote numbering). TCAL122, TCALK2122/3122, TCAL91, TCALK291/391, TCAL131 and 789A448G3 are inferred bases (conf B/C). Check them against distributor or ABB product pages.  
+  Docs: BuyLog Section 6 Rev 1/19, BuyLog Section 3 Rev 9/12
+* **LEAD-0058 — Siemens QJ2 / pre-Sentron ITE lug kits** (B0008-breaker-terminal-kits-ge-siemens)  
+  SPEEDFAX 2017/2021 no longer lists QJ2, so the only QJ2 lug found is TA1Q300 (distributor). Old ITE numbers such as TA1D/3TA1D/TA1E/TA1F/TA1G/TA2DS/TA3J6500/TA2P400 were not found in the 2017 tables. Search older SPEEDFAX editions (e.g. SPEEDFAX 2004-2011, Section 7) and ITE 'Breaker Lug Selection' leaflets.  
+  Docs: SPEEDFAX 2011 Section 7  
+  URLs: https://media.distributordatasolutions.com/springfieldts/2018q4/e0ee4273acd983d79661d7d52bf9db41374e924f.pdf
 
 ## Priority 3
 
@@ -136,6 +171,26 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0041 — PRL4 retrofit kit catalog strings** (B0001-eaton-prl-panelboards)  
   Retrofit kits are built as KPRL4 + breaker catalog + T/S (e.g. KPRL4KD3400S; Xpert: KPRL4XPG33400S) and KPRL4 + switch catalog (e.g. KPRL4FDPWT3633R); individual catalog numbers not enumerated - not recorded as part records.  
   Docs: RP01400001E
+* **LEAD-0050 — QW1BL / QW3BL obsolete legacy fillers** (B0004-squared-switchboards)  
+  OEM says obsolete, fabricate locally - remanufacture opportunity. Need physical sample for dimensions/hole pattern.
+* **LEAD-0051 — I-Line plug-in units 45123-680-01 (busway) and panelboard install 80043-309-20** (B0004-squared-switchboards)  
+  May provide I-Line jaw torque/lubrication and mounting details.  
+  Docs: 45123-680-01, 80043-309-20  
+  URLs: https://se.com/us/en/download/document/80043-309-20
+* **LEAD-0052 — QMB circuit breaker unit catalog numbers (twin H-frame, single J/L)** (B0004-squared-switchboards)  
+  4620CT9601 text lists ratings and lug kits but not the CB unit catalog numbers (only legacy QMB3400LA / QMB3300LA found). Check Digest Section for QMB.  
+  Docs: 4620CT9601
+* **LEAD-0053 — QMB 'TD' and 'T' suffix units (QMB322TD, QMB323TD, QMB362T, QMB362T1)** (B0004-squared-switchboards)  
+  Distributor and FAQ numbers differ from current 'TW' numbering; determine whether TD = legacy-interior version.
+* **LEAD-0059 — GE install docs for lugs / shields** (B0008-breaker-terminal-kits-ge-siemens)  
+  The E150 reference list cites GEJ-3609 (back-connected studs) and GEH-4610 (plug-in mounting base). The lug kit instruction GEH/DEH numbers were not found; download them from library.e.abb.com.  
+  Docs: GEJ-3609, GEH-4610, GEH-4342, DEH-41556
+* **LEAD-0060 — GE breaker mounting screw kits and plug-in bases not recorded** (B0008-breaker-terminal-kits-ge-siemens)  
+  BuyLog p. 6-101 lists mounting screw kits SEMSK1-4, SFGMSK1/2, SFMSK1/2, SKMSK1/2, mounting bases 343L162G1/G7/G11, 343L184G18 and cup washer 254V644P1. P. 6-105 lists plug-in mounting bases (TE12PD1/2, TE13PD1/2, TF22/23PD, TJ42/43PD1A, TJ62/63PD1A, SGPC1/2/7, TK83/103/123PD1A) and mounting plates TMP1-4/SMP3. None of these are recorded in this batch; capture them in a breaker-mounting batch.  
+  Docs: BuyLog 6-101, BuyLog 6-105
+* **LEAD-0061 — Siemens plug-in assemblies/tulips and VL (DG/FG/JG/MG/NG) lugs not recorded** (B0008-breaker-terminal-kits-ge-siemens)  
+  SPEEDFAX p. 7-165 lists plug-in assemblies PC2637/PC2638/PC2657/PC2658, PC4753/4754, PC5777/5778, PC5660/5661, PC5662/5663, PC5664/5666, PCCJD/PCCLD, mounting plates PL2616/2617/4762/4763/5796/5797/5680/9698/9699 and tulip assemblies TCE3/TCF3/TCJ3/TCL3/TCM3/TCN3. VL-series lugs (3TA1DG30, 3TC1DG30, 3TA3DG02, 3TA6DG04, 3TA3FG20, 3TA1JG750, 3TA2JG250, 3TA2MG750, 3TA3MG500, 3TA3NG750, 3TA4NG500...) are on p. 7-175 onward. None are recorded here.  
+  Docs: SPEEDFAX 7-165, SPEEDFAX 7-175
 
 ## Priority 4
 
@@ -146,4 +201,11 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0042 — Boxes, trims, EZ Box/EZ Trim, Type 12/3R enclosures, side gutter covers, door-in-door kits** (B0001-eaton-prl-panelboards)  
   Not recorded as parts in this batch (scope = mounting hardware). Tables available: s1 p.31 side gutter covers 6555C20H01-6555C28H01; s1 p.36 EZB/EZT 42C1999/42C4255/42C4258/42C4261/42C4264; s1 p.37-38 VWPB/LWPT, LDD...STW/FTW, mounting channels 8708C82G02-G08, RPCB/DPC; s4 p.10-11 DD2457K..DD4490K, EZ flanges 42C1993H01, 42C1995Hxx, 42C1987/42C1988Gxx, EZ anti-lift 1A85195H01; s5 pp.3-9 YS20xx boxes, LT/LTT trims, column boxes 114D939Gxx, 6726D69Gxx.  
   Docs: RP01400001E, RP01414001E, RP01400002E
+* **LEAD-0054 — QED-2 through-bus splice plates, end closures, main lug kits** (B0004-squared-switchboards)  
+  No orderable catalog numbers found; FAQs say parts ordered by switchboard factory order (FO) number. Busbar connection kit '36967' seen on distributor page - unverified relevance.  
+  URLs: https://www.standardelectricsupply.com/2250993-Square-D-Schneider-Electric-36967
+* **LEAD-0055 — Legacy Power-Style QED (QED-1, QED-3, QED-4, QED-2/S) and Model 6 MCC connections** (B0004-squared-switchboards)  
+  Only names found (2700CT1101 p. 9; FA116225 mentions QED-1). No legacy QED catalogs retrieved.
+* **LEAD-0062 — Siemens 3TC1QR250 vs 3TC1QR2520** (B0008-breaker-terminal-kits-ge-siemens)  
+  P. 7-40 prints 3TC1QR250 and p. 7-155 prints 3TC1QR2520. Resolve with a distributor listing.
 

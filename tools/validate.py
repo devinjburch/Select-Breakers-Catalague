@@ -62,7 +62,7 @@ def main():
                 errors.append(f"{p['id']}: dangling requires {x}")
         if p.get("oem_part_number"):
             primary[(p["mfr"], norm_pn(p["oem_part_number"]))].append(p["id"])
-        if not p["family_ids"]:
+        if not p["family_ids"] and not p["breaker_ids"]:
             warns.append(f"{p['id']} ({p.get('oem_part_number')}): no equipment family assigned")
         if not p["claims"]:
             warns.append(f"{p['id']}: no claims")
