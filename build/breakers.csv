@@ -83,7 +83,7 @@ BRK-GEA-005,GEA,TEB / TED / THED / TED4 / TED6,E-frame; EB,bolt-on,,,15-150 A,,,
 BRK-GEA-006,GEA,Spectra SE (SEDA/SEHA/SELA/SEPA),SE-frame; Spectra RMS E,bolt-on / module,,,up to 150 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP
 BRK-GEA-007,GEA,Spectra SF (SFHA/SFLA/SFPA),SF-frame,bolt-on / module,,,70-250 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; CCB-QMR
 BRK-GEA-008,GEA,Spectra SG (SGDA/SGHA/SGLA/SGPA),SG-frame,bolt-on / module,,,125-600 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; SCP-PLUS
-BRK-GEA-009,GEA,Spectra SK (SKHA/SKLA/SKPA),SK-frame; K,single-mounted / center-mounted,,,800-1200 A,,,A-SERIES; SPECTRA-PP; SCP-PLUS; CCB-QMR
+BRK-GEA-009,GEA,Spectra SK (SKHA/SKLA/SKPA),K; SK-frame,single-mounted / center-mounted,,,800-1200 A,,,A-SERIES; SPECTRA-PP; SCP-PLUS; CCB-QMR
 BRK-GEA-010,GEA,Record Plus FB (FBV/FBN/FBH/FBL),FB,bolt-on,,,15-100 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; RG-NEXT
 BRK-GEA-011,GEA,Record Plus FC (FCS/FCV/FCN/FCH/FCL),FC; FD,bolt-on / module,,,up to 100 A,,,SPECTRA-PP
 BRK-GEA-012,GEA,Record Plus FG (FGV/FGN/FGH/FGL/FGP),FG,bolt-on / module,,,up to 600 A,,,SPECTRA-PP

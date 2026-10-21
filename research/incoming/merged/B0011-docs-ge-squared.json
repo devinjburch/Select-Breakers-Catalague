@@ -1189,8 +1189,7 @@
    ],
    "unknowns": [
     "material",
-    "finish",
-    "dimensions"
+    "finish"
    ],
    "questions": [],
    "source_keys": [
@@ -1251,15 +1250,27 @@
      "basis": "oem_spec",
      "page": "empower page AMCB6EBFP"
     },
-    "replacement": {
-     "value": "empower (ABB) lists AMCB6EBFP as \"REPLCE BY AMCB6EB + AFP3SED\"",
-     "conf": "A",
-     "src": [
-      "g33"
-     ],
-     "basis": "oem_spec",
-     "page": "empower page AMCB6EBFP"
-    },
+    "replacement": [
+     {
+      "value": "empower (ABB) lists AMCB6EBFP as \"REPLCE BY AMCB6EB + AFP3SED\"",
+      "conf": "A",
+      "src": [
+       "g33"
+      ],
+      "basis": "oem_spec",
+      "page": "empower page AMCB6EBFP"
+     },
+     {
+      "value": "ABB Tmax XT retrofit kit SRFB6XT1FPX (or SRFB6XT1FPK with Kirk lock provision) for Tmax XT1, 125 A breakers; breaker ordered separately; legacy Spectra breaker frames E/F/G/K served",
+      "conf": "A",
+      "src": [
+       "g34"
+      ],
+      "basis": "oem_spec",
+      "page": "guide p.28 retrofit table",
+      "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit"
+     }
+    ],
     "status": {
      "value": "superseded - ABB empower description reads \"REPLCE BY AMCB6EB + AFP3SED\"",
      "conf": "A",
@@ -1284,7 +1295,8 @@
    "questions": [],
    "source_keys": [
     "g1",
-    "g33"
+    "g33",
+    "g34"
    ]
   },
   {
@@ -1992,15 +2004,27 @@
      "basis": "oem_spec",
      "page": "empower page AMCB6FJFP"
     },
-    "replacement": {
-     "value": "empower (ABB) lists AMCB6FJFP as \"REPLACED BY AMCB6FJ + AFP3SFD\"",
-     "conf": "A",
-     "src": [
-      "g33"
-     ],
-     "basis": "oem_spec",
-     "page": "empower page AMCB6FJFP"
-    },
+    "replacement": [
+     {
+      "value": "empower (ABB) lists AMCB6FJFP as \"REPLACED BY AMCB6FJ + AFP3SFD\"",
+      "conf": "A",
+      "src": [
+       "g33"
+      ],
+      "basis": "oem_spec",
+      "page": "empower page AMCB6FJFP"
+     },
+     {
+      "value": "ABB Tmax XT retrofit kit SRFB6XT4FPX (or SRFB6XT4FPK with Kirk lock provision) for Tmax XT4, 250 A breakers; breaker ordered separately; legacy Spectra breaker frames E/F/G/K served",
+      "conf": "A",
+      "src": [
+       "g34"
+      ],
+      "basis": "oem_spec",
+      "page": "guide p.28 retrofit table",
+      "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit"
+     }
+    ],
     "status": {
      "value": "superseded - ABB empower description reads \"REPLACED BY AMCB6FJ + AFP3SFD\"",
      "conf": "A",
@@ -2025,7 +2049,8 @@
    "questions": [],
    "source_keys": [
     "g2",
-    "g33"
+    "g33",
+    "g34"
    ]
   },
   {
@@ -2079,6 +2104,16 @@
      ],
      "basis": "oem_spec",
      "page": "empower page AMCB3FJFP"
+    },
+    "replacement": {
+     "value": "ABB Tmax XT retrofit kit SRFB3XT4FPX (or SRFB3XT4FPK with Kirk lock provision) for Tmax XT4, 250 A breakers; breaker ordered separately; legacy Spectra breaker frames E/F/G/K served",
+     "conf": "A",
+     "src": [
+      "g34"
+     ],
+     "basis": "oem_spec",
+     "page": "guide p.28 retrofit table",
+     "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit"
     }
    },
    "requires_part_keys": [],
@@ -2086,7 +2121,8 @@
    "questions": [],
    "source_keys": [
     "g2",
-    "g33"
+    "g33",
+    "g34"
    ]
   },
   {
@@ -2561,8 +2597,7 @@
    ],
    "unknowns": [
     "material",
-    "finish",
-    "dimensions"
+    "finish"
    ],
    "questions": [],
    "source_keys": [
@@ -2714,8 +2749,7 @@
    ],
    "unknowns": [
     "material",
-    "finish",
-    "dimensions"
+    "finish"
    ],
    "questions": [],
    "source_keys": [
@@ -2792,6 +2826,16 @@
      ],
      "basis": "oem_spec",
      "page": "empower page AMCB3GMFP"
+    },
+    "replacement": {
+     "value": "ABB Tmax XT retrofit kit SRFB3XT5MFPX (or SRFB3XT5MFPK with Kirk lock provision) for Tmax XT5, 600 A breakers; breaker ordered separately; legacy Spectra breaker frames E/F/G/K served",
+     "conf": "A",
+     "src": [
+      "g34"
+     ],
+     "basis": "oem_spec",
+     "page": "guide p.28 retrofit table",
+     "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit"
     }
    },
    "requires_part_keys": [],
@@ -2799,7 +2843,8 @@
    "questions": [],
    "source_keys": [
     "g3",
-    "g33"
+    "g33",
+    "g34"
    ]
   },
   {
@@ -2991,8 +3036,7 @@
    ],
    "unknowns": [
     "material",
-    "finish",
-    "dimensions"
+    "finish"
    ],
    "questions": [],
    "source_keys": [
@@ -3141,8 +3185,7 @@
    ],
    "unknowns": [
     "material",
-    "finish",
-    "dimensions"
+    "finish"
    ],
    "questions": [],
    "source_keys": [
@@ -3200,15 +3243,27 @@
      "basis": "oem_spec",
      "page": "empower page AMCB6GBFP"
     },
-    "replacement": {
-     "value": "empower (ABB) lists AMCB6GBFP as \"REPLCE BY AMCB6GB + AFP4SGD\"",
-     "conf": "A",
-     "src": [
-      "g33"
-     ],
-     "basis": "oem_spec",
-     "page": "empower page AMCB6GBFP"
-    },
+    "replacement": [
+     {
+      "value": "empower (ABB) lists AMCB6GBFP as \"REPLCE BY AMCB6GB + AFP4SGD\"",
+      "conf": "A",
+      "src": [
+       "g33"
+      ],
+      "basis": "oem_spec",
+      "page": "empower page AMCB6GBFP"
+     },
+     {
+      "value": "ABB Tmax XT retrofit kit SRFB6XT5BFPX (or SRFB6XT5BFPK with Kirk lock provision) for Tmax XT5, 600 A breakers; breaker ordered separately; legacy Spectra breaker frames E/F/G/K served",
+      "conf": "A",
+      "src": [
+       "g34"
+      ],
+      "basis": "oem_spec",
+      "page": "guide p.28 retrofit table",
+      "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit"
+     }
+    ],
     "status": {
      "value": "superseded - ABB empower description reads \"REPLCE BY AMCB6GB + AFP4SGD\"",
      "conf": "A",
@@ -3233,7 +3288,8 @@
    "questions": [],
    "source_keys": [
     "g6",
-    "g33"
+    "g33",
+    "g34"
    ]
   },
   {
@@ -3572,6 +3628,16 @@
      ],
      "basis": "oem_spec",
      "page": "DEH061"
+    },
+    "replacement": {
+     "value": "ABB Tmax XT retrofit kit SRFB3XT7MFPX (or SRFB3XT7MFPK with Kirk lock provision) for Tmax XT7, 1200 A breakers; breaker ordered separately; legacy Spectra breaker frames E/F/G/K served",
+     "conf": "A",
+     "src": [
+      "g34"
+     ],
+     "basis": "oem_spec",
+     "page": "guide p.28 retrofit table",
+     "note": "retrofit replaces breaker and mounting hardware together; not a like-for-like strap kit"
     }
    },
    "requires_part_keys": [],
@@ -3579,7 +3645,8 @@
    "questions": [],
    "source_keys": [
     "g4",
-    "g33"
+    "g33",
+    "g34"
    ]
   },
   {
@@ -23267,6 +23334,113 @@
    ]
   }
  ],
- "leads": [],
- "log": "PARTIAL - GE portion written; Square D pending.\n"
+ "leads": [
+  {
+   "priority": 1,
+   "topic": "QED-2 IB 80043-055 torque tables (exact row pairing)",
+   "detail": "Section 9 tables (printed pp.51-52 of -13; pp.53-54 of -12) read only through ManualsLib text rendering; hardware-type to torque pairing ambiguous. Get the PDF (productinfo.se.com / download.se.com 403; Scribd copy 881634201 JS-only) and re-transcribe Tables 6-8; also capture through-bus splice bolt size/grade (shipping-split instructions) and Qwik-Flange busway hardware.",
+   "doc_numbers": [
+    "80043-055-12",
+    "80043-055-13",
+    "80043-055-16"
+   ],
+   "urls": [
+    "https://www.manualslib.com/manual/1766524/Square-Qed-2.html",
+    "https://www.scribd.com/document/881634201/80043-055-16"
+   ]
+  },
+  {
+   "priority": 1,
+   "topic": "2700CT1601 OEM QED-2 I-Line interiors catalog and IB 80235-597-09",
+   "detail": "Still blocked (productinfo.se.com 403). Schneider STEP-model pages (se.com/us/en/download/document/<CF...>UMS-03) are readable by WebFetch and give interior titles, e.g. CF16KF63C = 1600A 63H double-row centre-feed copper; could be used to decode the CF nomenclature for all OEM interiors.",
+   "doc_numbers": [
+    "2700CT1601",
+    "80235-597-09",
+    "CF16KF63C117UMS-03"
+   ],
+   "urls": [
+    "https://www.se.com/us/en/download/document/CF16KF63C117UMS-03"
+   ]
+  },
+  {
+   "priority": 2,
+   "topic": "I-Line plug-on data bulletin 0600DB1004 and SL250/SL800M5/SL1200P5-P7 instruction bulletins",
+   "detail": "0600DB1004 (12/2010) blocked on se.com. SL400 IB 48040-651-03 found via graybar.com (Salsify CDN) - same route likely works for SL250/SL800M5/SL1200Px product pages on graybar.com (search page is JS; need product page URLs). docs.steinerelectric.com hosts Schneider instruction sheets (e.g. Schneider_Electric_HCM18736MP_Instruction_Sheet.pdf) but its TLS certificate is expired (not fetched).",
+   "doc_numbers": [
+    "0600DB1004",
+    "48040-651-03"
+   ],
+   "urls": [
+    "https://graybar.com/sub-feed-lug-kit/p/88243518"
+   ]
+  },
+  {
+   "priority": 2,
+   "topic": "I-Line HCM/HCR-U neutral bonding straps 80043-446-06, 80121-082-02, 80010-600-01, hardware kit BBV57291",
+   "detail": "Seen only in search-result summaries of se.com FAQs FA225933/FA117902/FA339459 (403 on fetch). Would add neutral bonding strap part numbers for HCR-U with/without neutral CT.",
+   "doc_numbers": [
+    "80043-446-06",
+    "80121-082-02",
+    "80010-600-01",
+    "BBV57291"
+   ],
+   "urls": [
+    "https://www.se.com/us/en/download/document/80043-446-06"
+   ]
+  },
+  {
+   "priority": 2,
+   "topic": "Current ABB BuyLog Section 11 Panelboards (2021/2022, ReliaGear neXT, \"Spectra (obsoleted) bolt-on panelboard mounting hardware\" p.11-63)",
+   "detail": "electrification.us.abb.com PDF: curl HTTP/2 INTERNAL_ERROR / empty reply, WebFetch 503. pdf4pro.com has a text preview (TOC confirms p.11-63 Spectra obsoleted bolt-on hardware) but download is 403. ABB quick-selector guide (simplebooklet) gives the retrofit-kit table; product-number columns of its Spectra renewal tables are images.",
+   "doc_numbers": [],
+   "urls": [
+    "https://electrification.us.abb.com/catalog/buylog/11_BuyLog_Panelboards.pdf",
+    "https://pdf4pro.com/view/panelboards-buylog-section-11-abb-789fc0.html"
+   ]
+  },
+  {
+   "priority": 2,
+   "topic": "Tmax XT Spectra retrofit kit (SRFB/SRFN) installation instructions",
+   "detail": "No instruction document number found; empower lists SRFB kits only inside breaker cross-reference entries (e.g. Tmax27292). Need kit contents, strap part numbers and torques.",
+   "doc_numbers": [],
+   "urls": [
+    "https://empower.abb.com/ecatalog/ec/EN_NA/p/Tmax27292"
+   ]
+  },
+  {
+   "priority": 3,
+   "topic": "GE DEH/GEH Spectra instructions still missing",
+   "detail": "Not on manualsdir: DEH-063/064/066 (FB/FC/FG bolt-on kits AMCB*FB, *FDB, *FGB/FGM, AMCB3LB), GEH-5592 (SKPA top cover), GEH-6501 ANKT and GEH-5683 GF neutral (no catalog numbers), DEH-043 (?), GEH-5588/5630 main lug kits. manualmachine.com still 403.",
+   "doc_numbers": [
+    "DEH063",
+    "DEH064",
+    "DEH066",
+    "GEH5592",
+    "GEH5588",
+    "GEH5630"
+   ],
+   "urls": [
+    "https://www.manualsdir.com/brands/ge-industrial-solutions/193.html"
+   ]
+  },
+  {
+   "priority": 3,
+   "topic": "AFP4SGC vs AFP4SGD",
+   "detail": "GEH5673 R03 names filler kit AFP4SGC for AMC4GB/AMC6GB modules; BuyLog lists AFP4SGD (dual SG). Confirm whether AFP4SGC exists.",
+   "doc_numbers": [
+    "GEH5673"
+   ],
+   "urls": []
+  },
+  {
+   "priority": 3,
+   "topic": "Square D QMQB switches",
+   "detail": "80043-055-13 p.41 names \"QMQB Main and Branch (available in Canada only)\" - contradicts B0004 note that QMQB is probably not a real designation; research Canadian QMQB fusible switch units.",
+   "doc_numbers": [
+    "80043-055-13"
+   ],
+   "urls": []
+  }
+ ],
+ "log": "B0011-docs-ge-squared (2026-10-21). Session was interrupted once by a container restart; the scratch text extracts were lost and re-fetched into docs/library/_incoming/B0011-docs-ge-squared/manualsdir_text/ (persistent).\nGE / ABB (main result): manualsdir.com (curl works) hosts text renderings of ~57 GE Spectra / A-Series instruction leaflets. Scraped all pages of every Spectra/A-Series item listed on the GE Industrial Solutions category page. Transcribed: bolt-on strap kits DEH047 (AMCB6EB/4SE/4EB), DEH059 (AMCB6FJ/3FJ/2FJ/4FJ), DEH060 (AMCB2GM/3GM, with GE piece part numbers 252B3618G13-15 straps, 252B3576P1 bracket, 10083041P1 cover, fasteners), DEH40129 (AMCB4GB/6GB, 252B3618G10/G11, 252B3575P1, 208C2291P1), DEH061 (AMCB2KM/3KM, 275 in-lb terminal nuts), DEH062 (AMCB4EY/6EY with B-phase isolator); hardware kits GEH5913 (AHKE1..AHKQ1 screws/torques; table columns partly merged in text); plug-in module instructions GEH5623/5624/5625/5626/5643/5673/5674/5677 (torques, filler-kit mapping, new numbers AMC6EL, AFP4SED, AFP3ELD, AFP4SFD/S, AFP6TJS/TJD, AFP3QBD, AFP4SGC); breaker covers DEH042/DEH044/DEH045 (cover supports 208C1850P3-P6 and 37 cover numbers 208C4262Gxx by breaker, mounting, X height and box width); GEH5629 (AFP6SKS: lug covers 455C592P1/P2, end fillers 252B1768G1/G2); DEH40392 pieces; DEH070/DEH071 AMB main lug kits (31 numbers, lug drawing 252B3638 G1-G10, GEA2-750, bus torque 200-250 in-lb, hole alignment); GEH5583 APP, GEH5590 AFP switch fillers, GEH5586 AEG, GEH5585 ANK, GEH5589 APN/APNB interiors (family claim), GEH5598 APN49/APN99 markers, GEH5930 ADF deadfront hardware, DEH40471 ATHMEGNDN.\nFP kits: instructions are written for base numbers (AMCB6FJ etc.); claims on the existing FP records are marked conf B (inference) and cite empower \"REPLACED BY <base> + <AFP kit>\" / \"CONSISTS OF\" texts.\nABB empower (curl works): fetched ~300 catalog pages; ~100 returned product data (descriptions, UPC, Box/Front Height, REPLACED BY texts). Status claims added only where empower states replacement. Missing pages are not treated as obsolescence.\nABB quick selector guide (simplebooklet text view): Tmax XT Retrofit Kits for Spectra panelboards (SRFB..FPX/FPK x12, SRFN..GF x5) with legacy-kit mapping; \"Spectra, TED, FE and FG breakers are obsolete\"; ReliaGear neXT X-space data and XT1 brackets SR1XBF/SR2XBF/SR5XBF; neXT renewal nomenclature (NEFB, TEYA, SR spacers). FE-frame (FES/FEV/FEN/FEH/FEL) Spectra bolt-on kits appear in the guide but their numbers are in images.\nBlocked: ABB BuyLog 11 PDF (HTTP/2 INTERNAL_ERROR/503; pdf4pro download 403), manualmachine.com (403), library.e.abb.com not tried further.\nSquare D: download.schneider-electric.com (worked for B0003) and productinfo.se.com now return 403; se.com FAQs became 403 after two WebFetch calls. QED-2 IB 80043-055-13 read through ManualsLib viewer pages (WebFetch only): section joining (six 3/8-16 x 1 in bolts), base channel 0.75 in holes, U-shaped through-bus splice orientation, ground-bus splice 1/4-20 thread-forming 100 lb-in, lug torque table by socket size, bus hardware torque table (pairing ambiguous -> conf B), maintenance compounds SWLUB / PJC7201 / S48899, QMQB mentioned. Found SL400 IB 48040-651-03 (2025 and 2006 editions, the latter also SL800/SL800FT/SL1200) via graybar Salsify CDN and S33930 IB 48049-250-01 via DDS (lug kits AL1200R53K/CU1200R53K with 450/180 lb-in). Not obtained: 2700CT1601, 80235-597-09, 0600DB1004, 80043-055-16 PDF, SL250/SL800M5/SL1200P* IBs; NQ/NF kit IBs were already covered by B0003 so not repeated.\nCounts: 312 part records (300 GE/ABB, 12 Square D); 133 add evidence to existing catalogue numbers, 179 are new (GE piece parts, 208C4262 covers, base strap kits without FP, AMB lug kits, Tmax XT retrofit kits, SQD SL800FT/SL1200/lug kits/compounds). Note: new base-kit records (AMCB6EB, AMCB3GM, ...) equal the 'alias' alt numbers recorded on the existing FP records in B0005 - validate.py will warn about alt/primary collision; this is intended (base kit and FP kit are separately orderable per empower)."
 }

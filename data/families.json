@@ -4579,19 +4579,19 @@
   "name": "Spectra Series Power Panelboards (Plug-In interior type APN; Bolt-On interior type APNB)",
   "code": "SPECTRA-PP",
   "aliases": [
-   "Spectra",
-   "Spectra Series",
-   "SpectraRMS",
    "APN",
    "APNB",
+   "Spectra",
    "Spectra Bolt-On (SBO)",
-   "Spectra Plug-In"
+   "Spectra Plug-In",
+   "Spectra Series",
+   "SpectraRMS"
   ],
   "brand_markings": [
+   "ABB",
    "GE",
-   "General Electric",
    "GE Industrial Solutions",
-   "ABB"
+   "General Electric"
   ],
   "equipment_type": "panelboard",
   "overview": "GE's power distribution panelboard. Two interior styles: APN plug-in (breakers bolt to AMC circuit breaker mounting modules that latch onto the interior rail and clip onto the bus; ADS fusible switch modules) and APNB bolt-on (breakers bolt to copper straps AMCB kits fastened with carriage bolts/antiturn clips to the vertical bus). Vertical space measured in X units (1X = 1-3/8 in). Box widths 27/31/36/40/44 in, APB boxes and APF fronts, AML main-lug modules, ANK/ANKN neutral kits, AEG ground kits. NOTE on 'APN': in GE nomenclature APN is the Spectra plug-in interior type code (APNB = bolt-on), while APN48/APN84/APN126 (A-Series) and APN49/APN99 (Spectra) are permanent circuit-number tab kits; no 'A-Series power panel' code APN was found.",
@@ -4646,6 +4646,16 @@
     }
    ],
    "status": [
+    {
+     "value": "ABB guide: \"Please note that Spectra, TED, FE, and FG breakers are obsolete\"; Spectra bolt-on additions are served by Tmax XT retrofit kits (SRFB...)",
+     "conf": "A",
+     "src": [
+      "SRC-00302"
+     ],
+     "page": "guide pp.27-32",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    },
     {
      "value": "Listed as current in 2014 BuyLog; a 2021/2022 ABB BuyLog TOC reportedly labels Spectra bolt-on mounting hardware 'obsoleted'",
      "conf": "C",
@@ -4705,6 +4715,31 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "install_doc": [
+    {
+     "value": "GEH5589 R07: APN/APNB interiors mount on four 3/8 in interior mounting studs on the APB enclosure back wall, secured with wing nuts and washers; line end of interior toward LINE end of box; deadfront ends fastened to mounting posts with 1/4-20 hex-head screws 50-60 in-lb (27-44 in wide panels use 1/4-turn fasteners between end fillers and side plates)",
+     "conf": "A",
+     "src": [
+      "SRC-00285"
+     ],
+     "page": "pp.1-2",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "reference_dimension": [
+    {
+     "value": "Bolt-on (APNB) straps and AMB lug kits mount on the side of the interior where the distance from the nearest vertical bus face to the inner face of the bus-support rail is 2.75 in; 1X = 1.38 in (1-3/8 in) vertical space",
+     "conf": "A",
+     "src": [
+      "SRC-00272",
+      "SRC-00293"
+     ],
+     "page": "DEH047 p.1; DEH070 p.1",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
    ]
   },
   "source_ids": [
@@ -4712,7 +4747,9 @@
    "SRC-00086",
    "SRC-00087",
    "SRC-00088",
-   "SRC-00089"
+   "SRC-00089",
+   "SRC-00285",
+   "SRC-00302"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -4950,8 +4987,8 @@
   "name": "ReliaGear neXT Power Panelboards",
   "code": "RG-NEXT",
   "aliases": [
-   "ReliaGear neXT",
-   "ReliaGear OEM neXT"
+   "ReliaGear OEM neXT",
+   "ReliaGear neXT"
   ],
   "brand_markings": [
    "ABB",
@@ -4993,11 +5030,49 @@
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
     }
+   ],
+   "dimensions": [
+    {
+     "value": "One X-space for ReliaGear neXT = 1.385 in; standard interior heights 16X, 24X, 32X, 40X; interiors double sided; enclosure widths 30 in (center), 40 in (offset), 45 in (offset or center)",
+     "conf": "A",
+     "src": [
+      "SRC-00302"
+     ],
+     "page": "guide p.20",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "material": [
+    {
+     "value": "Interiors: tin- and silver-plated aluminum (heat rated) or tin- and silver-plated copper (heat rated or 1000 A/sq in density rated)",
+     "conf": "A",
+     "src": [
+      "SRC-00302"
+     ],
+     "page": "guide p.20",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "x_space": [
+    {
+     "value": "Single XT1 3X; two XT1 5X; five XT1 11X; XT4 3X; XT5 4X; XT6 6X; XT7 6X; FB/TEY 1P 1X, 2P 2X; SPD 10X; RELT 3X; AMP1 main meter 4X",
+     "conf": "A",
+     "src": [
+      "SRC-00302"
+     ],
+     "page": "guide p.21",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
    ]
   },
   "source_ids": [
    "SRC-00090",
-   "SRC-00093"
+   "SRC-00093",
+   "SRC-00302",
+   "SRC-00303"
   ],
   "created_batch": "B0005-ge-abb"
  },
@@ -6399,15 +6474,15 @@
   "name": "Power-Style QED-2 Switchboard",
   "code": "QED-2",
   "aliases": [
-   "QED2",
-   "QED 2",
    "Power-Style QED-2",
+   "QED 2",
    "QED-2 Series 2",
-   "QED-2/S"
+   "QED-2/S",
+   "QED2"
   ],
   "brand_markings": [
-   "Square D",
-   "Schneider Electric"
+   "Schneider Electric",
+   "Square D"
   ],
   "equipment_type": "switchboard",
   "overview": "Free-standing UL 891 low-voltage switchboard, 91.5 in. high with base channels, front or front-and-rear accessible, NEMA 1 or 3R. Distribution is by group-mounted I-Line plug-on breaker sections (interiors up to 3000 A single-row / 2000 A double-row) or QMB/QMJ fusible switch sections, plus individually mounted PowerPact M/P/R, Masterpact NW or Bolt-Loc BP mains/feeders. Adding sections later requires the through-bus construction with splice-plate extensions; through bus sits at top, middle or bottom at 19.5, 27.5 or 36.0 in. from the front.",
@@ -6567,6 +6642,44 @@
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
     }
+   ],
+   "install_doc": [
+    {
+     "value": "80043-055-13 Section 4: indoor shipping sections joined with six 3/8-16 x 1 in bolts (provided) through existing holes in front and rear vertical corner channels; formed base channels with 0.75 in (19 mm) clearance holes in each corner (anchor hardware not furnished); through-bus splice connectors and hardware shipped with each shipping split, torqued per Section 9; on bus mounted front and rear of an insulating tube the U-shaped copper splice connector is centred on the tube with its slot pointing DOWN (Fig.14); ground bus splice with 1/4-20 thread-forming hardware (supplied) torqued to 100 lb-in (11 N-m)",
+     "conf": "B",
+     "src": [
+      "SRC-00304"
+     ],
+     "page": "printed pp.17, 24-25 (viewer 19, 26-27)",
+     "basis": "oem_spec",
+     "note": "read through ManualsLib text rendering",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "torque": [
+    {
+     "value": "Section 9 (printed p.51) Table 6 Incoming, branch and neutral lugs by socket size across flats: 1/4 in 180 lb-in (20 N-m); 5/16 in 250 lb-in (28 N-m); 3/8 in 340 lb-in (38 N-m); 1/2 in 450 lb-in (51 N-m); lugs so marked require 620 lb-in (70 N-m). Printed p.52 bus/hardware tables: 1/4 in 50-75 lb-in (6-8 N-m); 5/16 in 80-125 (9-14); 3/8 in 175-225 (20-25); 1/2 in 250-350 (28-40); one 1/2 in hardware row 720-840 lb-in (81-95 N-m); square-head (tee) bolt and (2) conical-washer tables by across-flats size (e.g. 0.87 in 250-280 lb-in; 1.00 in 130-150 lb-in; 1.25 in 450-550 lb-in; 0.90 in 145-160 lb-in)",
+     "conf": "B",
+     "src": [
+      "SRC-00304"
+     ],
+     "page": "printed pp.51-52 (viewer 53-54)",
+     "basis": "oem_spec",
+     "note": "Row-to-hardware pairing (carriage bolt / hex bolt / Keps nut / conical washer) not legible in text rendering; FAQ FA272134 points to pp.53-54 of 80043-055-12 for the same tables",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "maintenance": [
+    {
+     "value": "Bus bar joints need no maintenance and must not be retightened after pre-energizing checkout; do not sand or remove plating on bus, splice bars or lugs (replace damaged parts); clean with Lectra-Clean (CRC); switch blade/jaw grease BG20 (Dow Corning) cat. SWLUB for Bolt-Loc, QMB, QMJ and QMQB (Canada only) switches; I-Line plug-on connections electric joint compound PJC7201; Masterpact drawout connections compound S48899 only",
+     "conf": "B",
+     "src": [
+      "SRC-00304"
+     ],
+     "page": "printed p.41 (viewer 43)",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
    ]
   },
   "source_ids": [
@@ -6575,7 +6688,8 @@
    "SRC-00049",
    "SRC-00051",
    "SRC-00057",
-   "SRC-00058"
+   "SRC-00058",
+   "SRC-00304"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
@@ -6900,7 +7014,9 @@
    "SRC-00178",
    "SRC-00180",
    "SRC-00181",
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00305",
+   "SRC-00306"
   ],
   "created_batch": "B0004-squared-switchboards"
  },

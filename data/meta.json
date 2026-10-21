@@ -1,16 +1,16 @@
 {
  "counters": {
-  "SRC": 271,
+  "SRC": 309,
   "FAM-EAT": 38,
   "BRK-EAT": 67,
   "EDH-EAT": 803,
-  "LEAD": 106,
+  "LEAD": 115,
   "FAM-SQD": 14,
   "BRK-SQD": 43,
-  "EDH-SQD": 570,
+  "EDH-SQD": 577,
   "FAM-GEA": 12,
   "BRK-GEA": 31,
-  "EDH-GEA": 438,
+  "EDH-GEA": 610,
   "FAM-SIE": 14,
   "BRK-SIE": 33,
   "EDH-SIE": 332,
@@ -183,6 +183,22 @@
     "leads_new": 12,
     "docs_filed": 0,
     "batch": "B0012-archival-legacy-panelboards"
+   }
+  },
+  {
+   "batch_id": "B0011-docs-ge-squared",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0011-docs-ge-squared.json",
+   "stats": {
+    "sources_new": 38,
+    "families_new": 0,
+    "breakers_new": 0,
+    "parts_new": 179,
+    "parts_updated": 133,
+    "leads_new": 9,
+    "docs_filed": 38,
+    "batch": "B0011-docs-ge-squared"
    }
   }
  ],

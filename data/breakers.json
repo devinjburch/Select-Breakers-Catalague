@@ -5545,8 +5545,8 @@
   "mfr": "GEA",
   "name": "Spectra SK (SKHA/SKLA/SKPA)",
   "aliases": [
-   "SK-frame",
-   "K"
+   "K",
+   "SK-frame"
   ],
   "claims": {
    "mounting": [

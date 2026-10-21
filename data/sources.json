@@ -1402,8 +1402,12 @@
   "id": "SRC-00087",
   "mfr": "GEA",
   "batches": [
-   "B0005-ge-abb"
-  ]
+   "B0005-ge-abb",
+   "B0011-docs-ge-squared"
+  ],
+  "local_file": "docs/library/GEA/294735.txt",
+  "sha256": "f67917e173b3d08943d70f7d87c88ff8638e398ae92fb2a6764bcaa5b78bff70",
+  "bytes": 3768
  },
  {
   "title": "Spectra Series Power Panelboards - Circuit Breaker Cover Kit, Catalog Number AMCB6TEDL",
@@ -1417,8 +1421,13 @@
   "id": "SRC-00088",
   "mfr": "GEA",
   "batches": [
-   "B0005-ge-abb"
-  ]
+   "B0005-ge-abb",
+   "B0011-docs-ge-squared"
+  ],
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295049.txt",
+  "sha256": "40fe59bd31605191327ab53ea900266455a92824fd8321ce96a099ca5dfb0837",
+  "bytes": 3692
  },
  {
   "title": "Spectra Series Power Panelboards - Equipment Grounds Catalog Numbers AEG47 and AEG47S",
@@ -4509,6 +4518,722 @@
   "mfr": "SIE",
   "batches": [
    "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Bolt-On Circuit Breaker Kits, Catalog Numbers AMCB6EB, AMCB4SE, AMCB4EB",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH047 R02",
+  "date": "2001-04",
+  "url": "https://www.manualsdir.com/manuals/295375/ge-industrial-solutions-spectra-series-power-panelboards-amcb6eb-amcb4se-amcb4eb.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295375.txt",
+  "id": "SRC-00272",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "71c35f86a837c699c2e09a5817b794ba2056805a1100caf6aabdc737ffa2aca2",
+  "bytes": 6400
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Bolt-On Circuit Breaker Kits AMCB6FJ, AMCB3FJ, AMCB2FJ, AMCB4FJ",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH059 R02",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/295228/ge-industrial-solutions-spectra-series-power-panelboards-amcb6fj-amcb3fj-amcb2fj-and-amcb4fj.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (6 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295228.txt",
+  "id": "SRC-00273",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "547580203a34aa1d8afba9f1421df37348296ca78fe346b175d9a13eb4729b9a",
+  "bytes": 10196
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Bolt-On Circuit Breaker Kits AMCB3GM and AMCB2GM",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH060 R04",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/295227/ge-industrial-solutions-spectra-series-power-panelboards-amcb2gm-and-amcb3gm.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (8 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295227.txt",
+  "id": "SRC-00274",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "3b6a4b659b1c2bee4e6815875fd812c0b71127ed9f78da4db552f8c59f7fded7",
+  "bytes": 15631
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Bolt-On Circuit Breaker Kits AMCB3KM and AMCB2KM",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH061 R02",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/295149/ge-industrial-solutions-spectra-series-power-panelboards-amcb2km-and-amcb3km.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295149.txt",
+  "id": "SRC-00275",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "e678d9f192b0c3c5b00d5459d1b95341bf7fd9c9f59d3edea786bdafd19bd31e",
+  "bytes": 4648
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Bolt-On Circuit Breaker Kits AMCB6EY and AMCB4EY",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH062 R02",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/295168/ge-industrial-solutions-spectra-series-power-panelboards-amcb4ey-and-amcb6ey.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295168.txt",
+  "id": "SRC-00276",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "4dd34498c5322130958e43ffc0e6869b2713aa5955418cd9fbf538f17ab77e7b",
+  "bytes": 6532
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Bolt-On Circuit Breaker Kits AMCB6GB and AMCB4GB",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH40129 R03",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/295503/ge-industrial-solutions-spectra-series-power-panelboards-amcb4gb-and-amcb6gb.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (6 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295503.txt",
+  "id": "SRC-00277",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "5e6a61f734b53a3f37fcd37b070c41119848296ed87fef465147410074d93aa4",
+  "bytes": 9299
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breaker Mounting Hardware Kits (AHKE1, AHKEL1, AHKF1, AHKG1, AHKJ1, AHKLB1, AHKQ1)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5913 R02",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/295175/ge-industrial-solutions-spectra-series-power-panelboards-circuit-breaker-mounting-hardware-kits.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. Table 1 columns (line-end screw/torque, load-end screw/torque) are run together in the text rendering; some torque cells appear merged.",
+  "local_file": "docs/library/GEA/295175.txt",
+  "id": "SRC-00278",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "eb51dd697174e08f29c2168269bdebd271a3adf218c97d0b7bbb732fdacab7e5",
+  "bytes": 3603
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Filler Plate Kit AFP6SKS",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5629 R05",
+  "date": "2001-08",
+  "url": "https://www.manualsdir.com/manuals/295080/ge-industrial-solutions-spectra-series-power-panelboards-afp6sks.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295080.txt",
+  "id": "SRC-00279",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "e944ef0750e379ae42d21c4a344b99096f14cd91f95739bde3f3fb64aa9b6d43",
+  "bytes": 2529
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breaker Cover Plate (TEY, THQB, THHQB)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH044 R02",
+  "date": "2001-08",
+  "url": "https://www.manualsdir.com/manuals/295327/ge-industrial-solutions-spectra-series-power-panelboards-circuit-breaker-cover-plate.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295327.txt",
+  "id": "SRC-00280",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "dfd97e679153e17313c8bab7e044a19426ce9e0941b4d16755f2b0ea4193aa9c",
+  "bytes": 3457
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breaker Cover (SE, SF, TE, TF, TQ, TEL)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH042 R03",
+  "date": "2001",
+  "url": "https://www.manualsdir.com/manuals/294860/ge-industrial-solutions-spectra-series-power-panelboards-se-sf-te-tf-tq-and-tel.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. Back page with date code not rendered.",
+  "local_file": "docs/library/GEA/294860.txt",
+  "id": "SRC-00281",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "051580c9eb0ae5fa5c6338051eb3c6470c4715c23e5e72cf48aa0a9311796e70",
+  "bytes": 5434
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breaker Cover (SGDA, SGHA, SGLA, SGPA)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH045 R05",
+  "date": "2001-08",
+  "url": "https://www.manualsdir.com/manuals/294801/ge-industrial-solutions-spectra-series-power-panelboards-sgda-sgha-sgla-and-sgpa.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/294801.txt",
+  "id": "SRC-00282",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "dfc778d3670d6074b705a821f6672655ec4d50d2c3383765ee311fdc781196bf",
+  "bytes": 3239
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Type AFP Filler Plates",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5590 R03",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/295586/ge-industrial-solutions-spectra-series-power-panelboards-afp-filler-plates.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (1 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295586.txt",
+  "id": "SRC-00283",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "9760794a91c0c06ca51c929ed3061019a603883912462a9ab2fc3b4e2886aa39",
+  "bytes": 2280
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Type APP Filler Plates",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5583 R03",
+  "date": "2001-03",
+  "url": "https://www.manualsdir.com/manuals/295532/ge-industrial-solutions-spectra-series-power-panelboards-app-filler-plates.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295532.txt",
+  "id": "SRC-00284",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "72de297a23ff35ec50418ead3178eefdeb424bed9dc4a33f3b06f0459ca36f38",
+  "bytes": 3012
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Type APN and APNB Panelboard Interiors into Type APB Panelboard Enclosures",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5589 R07",
+  "date": "2001-05",
+  "url": "https://www.manualsdir.com/manuals/295071/ge-industrial-solutions-spectra-series-power-panelboards-apn-and-apnb.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295071.txt",
+  "id": "SRC-00285",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "4f7beb462c495c3e12f86cc6101da7fd2c6f809f1e23697dff5cb12fc5790f0b",
+  "bytes": 5191
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC6FJ, AMC4FJ, AMC3FJ, AMC2FJ, AMC6FLS, AMC3FLS, AMC2FLS, AMC4FLS)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5626 R04",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/295056/ge-industrial-solutions-spectra-series-power-panelboards-amc2fj-amc6fls-amc3fls-amc2fls.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295056.txt",
+  "id": "SRC-00286",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "40663c76683d913c98cacd8ceb63b305dc7a5ca45b3f16e4c99007b614177a0b",
+  "bytes": 5296
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC3KM, AMC2KM)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5623 R04",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/295161/ge-industrial-solutions-spectra-series-power-panelboards-amc3km-and-amc2km.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295161.txt",
+  "id": "SRC-00287",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "9f82e52a4027052488929a2128c4ac8e3309a57841bac94f0891b7f94fd413bc",
+  "bytes": 8109
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC4GB, AMC6GB)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5673 R03",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/295270/ge-industrial-solutions-spectra-series-power-panelboards-amc4gb-and-amc6gb.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295270.txt",
+  "id": "SRC-00288",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "a86f11925f8c41301f4a96ad0f3467a27a80873e458d1f478011fa6d7444b6b6",
+  "bytes": 5140
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC6JK, AMC4JK, AMC3JK, AMC2JK)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5624 R03",
+  "date": "2001-10",
+  "url": "https://www.manualsdir.com/manuals/295363/ge-industrial-solutions-spectra-series-power-panelboards-amc6jk-amc4jk-acm3jk-and-amc2jk.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295363.txt",
+  "id": "SRC-00289",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "1795524724c208c126504f69e6a55555b377840638f3f6d8cfda036258c29ea3",
+  "bytes": 5463
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC6EY, AMC6QB)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5677 R03",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/295477/ge-industrial-solutions-spectra-series-power-panelboards-amc6ey-and-amc6qb.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295477.txt",
+  "id": "SRC-00290",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "906d42f8043516530c31d1d69edeb4a9158b234d11b95de3b6f7c1788b7c09c9",
+  "bytes": 3014
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC6QD, AMC4QD)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5643 R03",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/295509/ge-industrial-solutions-spectra-series-power-panelboards-amc6qd-and-amc4qd.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295509.txt",
+  "id": "SRC-00291",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "84469022479f269396bc3b5860db1bc39b7b2464444711833a5163bb17bf4805",
+  "bytes": 4139
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC6EB, AMC4EB, AMC6EL, AMC6EBS, AMC4EBS, AMC4SE)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5625 R04",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/295561/ge-industrial-solutions-spectra-series-power-panelboards-amc6ebs-amc4ebs-and-amc4se.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295561.txt",
+  "id": "SRC-00292",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "a6bea9c52ec73a6c931c945a6d40ddd3231b72316e0d7d870d24ee94de0e4909",
+  "bytes": 4482
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Type AMB Main Lug Kit",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH070 R02",
+  "date": "2001",
+  "url": "https://www.manualsdir.com/manuals/294898/ge-industrial-solutions-spectra-series-power-panelboards-amb-main-lug-kit.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. Back page with date code not rendered.",
+  "local_file": "docs/library/GEA/294898.txt",
+  "id": "SRC-00293",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "bbaaa97087237575e0d6cafe744c013564f3c2b5cede8c914f2ac20f8a5e5a2c",
+  "bytes": 4628
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Bolt-On Main Lug Kits (AMB...N/CA/DCA)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH071 R02",
+  "date": "2001-10",
+  "url": "https://www.manualsdir.com/manuals/294936/ge-industrial-solutions-spectra-series-power-panelboards-bolt-on-main-lug-kits.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/294936.txt",
+  "id": "SRC-00294",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "167d46c94027acf98e6184410d6d2b48a6b2552a8cb946371aa828851e4981ac",
+  "bytes": 4638
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Type ANK Neutrals (Model 2)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5585 R05",
+  "date": "2001-04",
+  "url": "https://www.manualsdir.com/manuals/295538/ge-industrial-solutions-spectra-series-power-panelboards-ank-neutrals-model-2.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295538.txt",
+  "id": "SRC-00295",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "9b352fa9346738b06e243339ab47f19254056cbeb6162366233c4fbb18bae905",
+  "bytes": 4258
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Equipment Grounds, Types AEG 10, 21, 21S, 31S",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5586 R02",
+  "date": "2001-04",
+  "url": "https://www.manualsdir.com/manuals/295598/ge-industrial-solutions-spectra-series-power-panelboards-aeg-10-21-21s-31s.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295598.txt",
+  "id": "SRC-00296",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "6f62a46661526b387cfbac8f56bf038cec3f28fe5e3955589fab00fdb2985cdc",
+  "bytes": 2284
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Neutral and Ground Wire Kit for TVSS, Catalog Number ATHMEGNDN",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "DEH40471 R02",
+  "date": "2001-10",
+  "url": "https://www.manualsdir.com/manuals/295027/ge-industrial-solutions-spectra-series-power-panelboards-athmegndn.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295027.txt",
+  "id": "SRC-00297",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "52eb8852c183ad3aab91717bdafa833fb3a997ab8ed152c27e4659fe96df39ca",
+  "bytes": 4175
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Type ADF Dead Fronts & Type APF Door Fronts",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5930 R04",
+  "date": "2001",
+  "url": "https://www.manualsdir.com/manuals/295209/ge-industrial-solutions-spectra-series-adf-dead-fronts-type-apf-door-fronts.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295209.txt",
+  "id": "SRC-00298",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "ee7e2618562d2fa3b29d823aec9042130aba3f33a0f813165c417cee00016d17",
+  "bytes": 5138
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Permanent Circuit Markers (APN49, APN99)",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5598 R02",
+  "date": "2001-05",
+  "url": "https://www.manualsdir.com/manuals/295347/ge-industrial-solutions-spectra-series-power-panelboards-permanent-circuit-markers.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (2 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/295347.txt",
+  "id": "SRC-00299",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "8b8e1a9ad6a96168769460c0d610018c3e7305c31f97422c54f2c43ac94368a5",
+  "bytes": 2994
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Ground Fault Neutral, 1200 A Maximum",
+  "publisher": "GE Industrial Systems (General Electric Company)",
+  "doc_number": "GEH5683 R02",
+  "date": "2001-10",
+  "url": "https://www.manualsdir.com/manuals/294946/ge-industrial-solutions-spectra-series-power-panelboards-ground-fault-neutral-1200-a-maximum.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pp.); figures not legible in text mode. ",
+  "local_file": "docs/library/GEA/294946.txt",
+  "id": "SRC-00300",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "0315428e0149cbe119ca5121449d2078f8340a23fd7d8efe0b1c7aed6e4b94b0",
+  "bytes": 3934
+ },
+ {
+  "title": "ABB empower e-catalog product pages (Spectra Series / A-Series accessories and parts)",
+  "publisher": "ABB",
+  "doc_number": null,
+  "date": "2026-10",
+  "url": "https://empower.abb.com/ecatalog/ec/EN_NA/p/<catalog number>",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Per-part pages fetched by curl 2026-10-21 (e.g. https://empower.abb.com/ecatalog/ec/EN_NA/p/AMCB6FJFP). Description/UPC/spec text stored in empower_ge.json. Absence of a page is NOT evidence of obsolescence (about 200 of 300 numbers returned no product block).",
+  "local_file": "docs/library/GEA/empower_ge.json",
+  "id": "SRC-00301",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "8513c2caa5926ae8153d6a09b3e647b042a7c8ef25151db6bb751fcff4b85095",
+  "bytes": 259260
+ },
+ {
+  "title": "ABB Quick Selector Guide - Small Projects (distributor edition, Viking Electric) - incl. Tmax XT Retrofit Kits for Spectra Panelboards, ReliaGear neXT renewal parts, Spectra renewal parts",
+  "publisher": "ABB",
+  "doc_number": null,
+  "date": null,
+  "url": "https://simplebooklet.com/unnamedsimplebooklet1310?textonly=1",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "ABB-authored guide republished by distributor on simplebooklet (text-only view). Undated (contains GIZ-1345E 9/19 page). Product number columns of the Spectra renewal-part tables (pp.31-32) are images/missing in text view.",
+  "local_file": "docs/library/GEA/sb_unnamedsimplebooklet1310.txt",
+  "id": "SRC-00302",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "482e3c971e1b85063ee62c43370898fc27a1914a75828f4ff08173d7fc101d93",
+  "bytes": 233973
+ },
+ {
+  "title": "ReliaGear neXT power panelboards - typical layouts / X-space brochure",
+  "publisher": "ABB",
+  "doc_number": null,
+  "date": null,
+  "url": "https://simplebooklet.com/abbreliagearnexttypicals?textonly=1",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text-only flip book view.",
+  "local_file": "docs/library/GEA/sb_abbreliagearnexttypicals.txt",
+  "id": "SRC-00303",
+  "mfr": "GEA",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "0df863948187bffce552a3ca18149f2e7586127b163299ce197b4f3f6075deb8",
+  "bytes": 16664
+ },
+ {
+  "title": "Power-Style QED-2 Switchboards Instruction Bulletin (English section, (c)1988-2018)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-055-13",
+  "date": "2018-03",
+  "url": "https://www.manualslib.com/manual/1766524/Square-Qed-2.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read page-by-page via ManualsLib viewer (WebFetch; direct curl blocked by Cloudflare). Viewer page = printed page + 2. Table cell pairing in Section 9 is partly ambiguous in the text rendering. OEM hosts (productinfo.se.com, download.se.com, download.schneider-electric.com) returned 403 for 80043-055-13/-16.",
+  "id": "SRC-00304",
+  "mfr": "SQD",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ]
+ },
+ {
+  "title": "S33930 Sub-feed Lugs Instruction Bulletin",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "48049-250-01",
+  "date": "2001-05",
+  "url": "https://media.distributordatasolutions.com/schneider_synd_rework/2024q1/documents/e02de0c618489b3ef1b26c3339d7910be3202941.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "ECN K512, Cedar Rapids; DistributorDataSolutions mirror.",
+  "local_file": "docs/library/SQD/48049-250-01_S33930.pdf",
+  "id": "SRC-00305",
+  "mfr": "SQD",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "2b29d329f2207be3e0c136b2d5511a579583c968690042e1b3716c73b55e1baf",
+  "bytes": 2027768
+ },
+ {
+  "title": "SL400 Sub-feed Lugs Installation Instruction Bulletin",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "48040-651-03 Rev. 01",
+  "date": "2025-09",
+  "url": "https://images.salsify.com/image/upload/s--vVhIL9Pf--/0cf478d3b3df8a5337f5f8fbda83bb6e1052aaed.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Linked from graybar.com product page 88243518 (Salsify CDN). Replaces 48040-651-03 ECN 266C 05/2006.",
+  "local_file": "docs/library/SQD/48040-651-03_Rev01_2025.pdf",
+  "id": "SRC-00306",
+  "mfr": "SQD",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "3f5e60174afafae5ec148bdcde7498a77ba17078ac21088bbf523d76ac9deee8",
+  "bytes": 841435
+ },
+ {
+  "title": "SL400, SL800, SL800FT and SL1200 Sub-feed Lugs Instruction Bulletin",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "48040-651-03",
+  "date": "2006-05",
+  "url": "https://images.salsify.com/image/upload/s--ER73lPOC--/0326786488e6051f5e5b759829da584e174fd205.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Older edition covering SL400/SL800/SL800FT/SL1200 (figures only; strip-length table p.3).",
+  "local_file": "docs/library/SQD/48040-651-03_2006.pdf",
+  "id": "SRC-00307",
+  "mfr": "SQD",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "fc567bbdd5b9f5d470775685c51c842c55a01e819195bd5a16aab35d39ec47f8",
+  "bytes": 475568
+ },
+ {
+  "title": "Product data sheet SL400 - Panelboard accessory, I-Line, lug kit, subfeed, 400A, 6 in",
+  "publisher": "Schneider Electric",
+  "doc_number": null,
+  "date": "2026-06",
+  "url": "https://images.salsify.com/image/upload/s---BbixrkA--/15ab86f3244aabf9d3a65fe8fc69b8a59c7955a7.pdf",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/SL400_datasheet.pdf",
+  "id": "SRC-00308",
+  "mfr": "SQD",
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "sha256": "b4970d492c4c1c315c88f7b44919ecd6b287514ad9161047391d5ba7608f1783",
+  "bytes": 210484
+ },
+ {
+  "title": "Square D CF16KF63C STEP model page \"1600A 63H DR I-LINE CENTER FEED COPPER BUS OEM QED2 INTERIOR\"",
+  "publisher": "Schneider Electric",
+  "doc_number": "CF16KF63C117UMS-03",
+  "date": "2017-03-10",
+  "url": "https://www.se.com/us/en/download/document/CF16KF63C117UMS-03",
+  "type": "oem_drawing",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Only the document-page metadata was readable (WebFetch); STEP file not downloaded.",
+  "id": "SRC-00309",
+  "mfr": "SQD",
+  "batches": [
+   "B0011-docs-ge-squared"
   ]
  }
 ]

@@ -76,6 +76,14 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Borrow/view the scanned pages to confirm part-number-to-row mapping for bus supports and lugs, and capture remaining rows (blank filler 1X, screw assembly use, any interior/bus parts).  
   Docs: GEJ-3006A, GEG-13610B  
   URLs: https://archive.org/details/General_Electric_Circuit_Breaker_Panelboard_GEJ_3006A_
+* **LEAD-0107 — QED-2 IB 80043-055 torque tables (exact row pairing)** (B0011-docs-ge-squared)  
+  Section 9 tables (printed pp.51-52 of -13; pp.53-54 of -12) read only through ManualsLib text rendering; hardware-type to torque pairing ambiguous. Get the PDF (productinfo.se.com / download.se.com 403; Scribd copy 881634201 JS-only) and re-transcribe Tables 6-8; also capture through-bus splice bolt size/grade (shipping-split instructions) and Qwik-Flange busway hardware.  
+  Docs: 80043-055-12, 80043-055-13, 80043-055-16  
+  URLs: https://www.manualslib.com/manual/1766524/Square-Qed-2.html https://www.scribd.com/document/881634201/80043-055-16
+* **LEAD-0108 — 2700CT1601 OEM QED-2 I-Line interiors catalog and IB 80235-597-09** (B0011-docs-ge-squared)  
+  Still blocked (productinfo.se.com 403). Schneider STEP-model pages (se.com/us/en/download/document/<CF...>UMS-03) are readable by WebFetch and give interior titles, e.g. CF16KF63C = 1600A 63H double-row centre-feed copper; could be used to decode the CF nomenclature for all OEM interiors.  
+  Docs: 2700CT1601, 80235-597-09, CF16KF63C117UMS-03  
+  URLs: https://www.se.com/us/en/download/document/CF16KF63C117UMS-03
 
 ## Priority 2
 
@@ -208,6 +216,20 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Only panelboard index/accessory pages were mined. Pages 56-83 contain full NQO/NQOB/NA1B/NH1B/I-Line/QMB interior, box and front catalog numbers (e.g. HCN-0936-1M interiors, MTX cable ducts, QMB-1832-2 interior) and the Q1/QO breaker tables; Section 600 breaker catalog referenced.  
   Docs: Digest 152  
   URLs: https://archive.org/details/squareddigest152
+* **LEAD-0109 — I-Line plug-on data bulletin 0600DB1004 and SL250/SL800M5/SL1200P5-P7 instruction bulletins** (B0011-docs-ge-squared)  
+  0600DB1004 (12/2010) blocked on se.com. SL400 IB 48040-651-03 found via graybar.com (Salsify CDN) - same route likely works for SL250/SL800M5/SL1200Px product pages on graybar.com (search page is JS; need product page URLs). docs.steinerelectric.com hosts Schneider instruction sheets (e.g. Schneider_Electric_HCM18736MP_Instruction_Sheet.pdf) but its TLS certificate is expired (not fetched).  
+  Docs: 0600DB1004, 48040-651-03  
+  URLs: https://graybar.com/sub-feed-lug-kit/p/88243518
+* **LEAD-0110 — I-Line HCM/HCR-U neutral bonding straps 80043-446-06, 80121-082-02, 80010-600-01, hardware kit BBV57291** (B0011-docs-ge-squared)  
+  Seen only in search-result summaries of se.com FAQs FA225933/FA117902/FA339459 (403 on fetch). Would add neutral bonding strap part numbers for HCR-U with/without neutral CT.  
+  Docs: 80043-446-06, 80121-082-02, 80010-600-01, BBV57291  
+  URLs: https://www.se.com/us/en/download/document/80043-446-06
+* **LEAD-0111 — Current ABB BuyLog Section 11 Panelboards (2021/2022, ReliaGear neXT, "Spectra (obsoleted) bolt-on panelboard mounting hardware" p.11-63)** (B0011-docs-ge-squared)  
+  electrification.us.abb.com PDF: curl HTTP/2 INTERNAL_ERROR / empty reply, WebFetch 503. pdf4pro.com has a text preview (TOC confirms p.11-63 Spectra obsoleted bolt-on hardware) but download is 403. ABB quick-selector guide (simplebooklet) gives the retrofit-kit table; product-number columns of its Spectra renewal tables are images.  
+  URLs: https://electrification.us.abb.com/catalog/buylog/11_BuyLog_Panelboards.pdf https://pdf4pro.com/view/panelboards-buylog-section-11-abb-789fc0.html
+* **LEAD-0112 — Tmax XT Spectra retrofit kit (SRFB/SRFN) installation instructions** (B0011-docs-ge-squared)  
+  No instruction document number found; empower lists SRFB kits only inside breaker cross-reference entries (e.g. Tmax27292). Need kit contents, strap part numbers and torques.  
+  URLs: https://empower.abb.com/ecatalog/ec/EN_NA/p/Tmax27292
 
 ## Priority 3
 
@@ -318,6 +340,16 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0104 — McLaughlin Electric Supply House catalogs (1950/1951) on archive.org** (B0012-archival-legacy-panelboards)  
   Full text available (McLaughlinElectricSupplyHouse, McLaughlin_201806); contain Trumbull distribution panelboards (Converti-Fuse, NTPR) with box/gutter dimensions - not yet mined in detail.  
   URLs: https://archive.org/details/McLaughlinElectricSupplyHouse
+* **LEAD-0113 — GE DEH/GEH Spectra instructions still missing** (B0011-docs-ge-squared)  
+  Not on manualsdir: DEH-063/064/066 (FB/FC/FG bolt-on kits AMCB*FB, *FDB, *FGB/FGM, AMCB3LB), GEH-5592 (SKPA top cover), GEH-6501 ANKT and GEH-5683 GF neutral (no catalog numbers), DEH-043 (?), GEH-5588/5630 main lug kits. manualmachine.com still 403.  
+  Docs: DEH063, DEH064, DEH066, GEH5592, GEH5588, GEH5630  
+  URLs: https://www.manualsdir.com/brands/ge-industrial-solutions/193.html
+* **LEAD-0114 — AFP4SGC vs AFP4SGD** (B0011-docs-ge-squared)  
+  GEH5673 R03 names filler kit AFP4SGC for AMC4GB/AMC6GB modules; BuyLog lists AFP4SGD (dual SG). Confirm whether AFP4SGC exists.  
+  Docs: GEH5673
+* **LEAD-0115 — Square D QMQB switches** (B0011-docs-ge-squared)  
+  80043-055-13 p.41 names "QMQB Main and Branch (available in Canada only)" - contradicts B0004 note that QMQB is probably not a real designation; research Canadian QMQB fusible switch units.  
+  Docs: 80043-055-13
 
 ## Priority 4
 

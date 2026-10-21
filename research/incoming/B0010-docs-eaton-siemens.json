@@ -121,6 +121,19 @@
    "notes": "Eaton-generated product specification PDF (c) 2024 Eaton, distributor hosted."
   },
   {
+   "key": "es10",
+   "title": "Instruction Leaflet IL014069EN Pow-R-Line 1X/2X/3X Installation reference for tall interiors (Effective February 2024)",
+   "publisher": "Eaton",
+   "doc_number": "IL014069EN",
+   "date": "2024-02",
+   "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/eaton-pow-r-line-1x2x3x-installation-reference-for-tall-interiors-il014069en-en-us.pdf",
+   "type": "oem_instruction",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "local_file": "docs/library/_incoming/B0010-docs-eaton-siemens/eaton-pow-r-line-1x2x3x-installation-reference-for-tall-interiors-il014069en-en-us.pdf",
+   "notes": "Downloaded via cooperindustries.com mirror."
+  },
+  {
    "key": "sf1148",
    "title": "Siemens SPEEDFAX 2017 Product Catalog p. 11-48 'Type P3 Panelboard Kits and Accessories Selection' (revised 05/15/18)",
    "publisher": "Siemens Industry, Inc.",
@@ -1951,6 +1964,32 @@
    "access_status": "ok",
    "local_file": "docs/library/_incoming/B0010-docs-eaton-siemens/SIE_IS_Panelboard_31-1242-01_F671D.pdf",
    "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document."
+  },
+  {
+   "key": "ssTPS3",
+   "title": "Installation Instructions for TPS3 09 in Lighting Panelboards Type P1",
+   "publisher": "Siemens Industry, Inc.",
+   "doc_number": "#8177 (12.09.09)",
+   "date": "2009-12",
+   "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/TPS3_09_P1_Installation.pdf",
+   "type": "oem_instruction",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "local_file": "docs/library/_incoming/B0010-docs-eaton-siemens/TPS3_09_P1_Installation.pdf",
+   "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document."
+  },
+  {
+   "key": "ss1176",
+   "title": "LPJSPDNUT01 J-type speed nut replacement kit",
+   "publisher": "Siemens Industry, Inc.",
+   "doc_number": "11-A-1176-01 Rev. 00",
+   "date": "",
+   "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1176-01_LPJSPDNUT01.pdf",
+   "type": "oem_instruction",
+   "accessed": "2026-10-21",
+   "access_status": "ok",
+   "local_file": "docs/library/_incoming/B0010-docs-eaton-siemens/SIE_IS_11-A-1176-01_LPJSPDNUT01.pdf",
+   "notes": "Siemens kit instruction sheet (SIE_IS_* file) hosted in a public distributor content bucket (dcc-data-extract, Compas 'Instruction Sheet Quick Guide' folder); original Siemens document."
   }
  ],
  "families": [
@@ -2214,6 +2253,78 @@
    "overview": "",
    "claims": {},
    "source_keys": []
+  },
+  {
+   "key": "fxPRL1X",
+   "mfr": "EAT",
+   "name": "Pow-R-Line Xpert 1X",
+   "code": "PRL1X",
+   "aliases": [],
+   "equipment_type": "panelboard",
+   "overview": "",
+   "claims": {
+    "main_handle_location": {
+     "value": "PRL1X/2X Power Defense frame 2 main: handle centerline to top of box D = 10.06 in (100 A max) / 11.06 in (225 A max); PD frame 3 400 A: 20.426 in (500 kcmil lugs) / 23.426 in (750 kcmil); PD frame 3 600 A: 20.488 / 23.488 in; box example EZB2090R = 90 in; NEC 6 ft 7 in (79 in) max handle height",
+     "conf": "A",
+     "src": [
+      "es10"
+     ],
+     "basis": "oem_spec",
+     "page": "pp. 2-6, Figures 1-5",
+     "note": "Dimensions are estimates to be verified by installer (per leaflet)"
+    }
+   },
+   "source_keys": [
+    "es10"
+   ]
+  },
+  {
+   "key": "fxPRL2X",
+   "mfr": "EAT",
+   "name": "Pow-R-Line Xpert 2X",
+   "code": "PRL2X",
+   "aliases": [],
+   "equipment_type": "panelboard",
+   "overview": "",
+   "claims": {
+    "main_handle_location": {
+     "value": "As PRL1X: PD2 main D = 10.06 in (100 A) / 11.06 in (225 A); PD3 400 A D = 20.426 / 23.426 in; PD3 600 A D = 20.488 / 23.488 in",
+     "conf": "A",
+     "src": [
+      "es10"
+     ],
+     "basis": "oem_spec",
+     "page": "pp. 2-6, Figures 1-5",
+     "note": "Dimensions are estimates to be verified by installer (per leaflet)"
+    }
+   },
+   "source_keys": [
+    "es10"
+   ]
+  },
+  {
+   "key": "fxPRL3X",
+   "mfr": "EAT",
+   "name": "Pow-R-Line Xpert 3X",
+   "code": "PRL3X",
+   "aliases": [],
+   "equipment_type": "panelboard",
+   "overview": "",
+   "claims": {
+    "main_handle_location": {
+     "value": "PRL3X PD frame 2 main: D = 10.901 in (100 A max) / 15.026 in (225 A max); PD frame 3 400 A: 19.962 in (500 kcmil) / 24.087 in (750 kcmil)",
+     "conf": "A",
+     "src": [
+      "es10"
+     ],
+     "basis": "oem_spec",
+     "page": "pp. 2-6, Figures 1-5",
+     "note": "Dimensions are estimates to be verified by installer (per leaflet)"
+    }
+   },
+   "source_keys": [
+    "es10"
+   ]
   },
   {
    "key": "fCDP6",
@@ -35920,6 +36031,128 @@
    "questions": [],
    "source_keys": [
     "sf1148"
+   ]
+  },
+  {
+   "key": "p459",
+   "mfr": "SIE",
+   "oem_part_number": "TPS3 09",
+   "title": "TPS3 09 SPD module kit for Type P1 lighting panelboard (250 A max P1)",
+   "component_type": "spd-kit",
+   "family_keys": [
+    "fP1",
+    "fRP1"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "TPS3 09",
+     "conf": "A",
+     "src": [
+      "ssTPS3"
+     ],
+     "basis": "oem_spec",
+     "page": "single page"
+    },
+    "kit_contents": {
+     "value": "1 TPS3 09 SPD; 8 #10-32 x 1/2 slotted hex thread-forming screws; 1 bracket TPS3 09 P1 (right); 1 bracket TPS3 09 P1 (left); 1 20 A 3-pole breaker; 1 SPD (TVSS) label; 1 plastic cover plate",
+     "conf": "A",
+     "src": [
+      "ssTPS3"
+     ],
+     "basis": "oem_spec",
+     "page": "single page"
+    },
+    "fasteners": {
+     "value": "Brackets to TPS3 09 with 4 #10-32 screws; TPS with brackets to P1 rails with 4 #10-32 screws; leads to 20 A 3-pole breaker and neutral; ground lead ring terminal to chassis ground",
+     "conf": "A",
+     "src": [
+      "ssTPS3"
+     ],
+     "basis": "oem_spec",
+     "page": "single page"
+    },
+    "application": {
+     "value": "Do not perform dielectric tests with TPS unit installed",
+     "conf": "A",
+     "src": [
+      "ssTPS3"
+     ],
+     "basis": "oem_spec",
+     "page": "single page"
+    },
+    "install_doc": {
+     "value": "Siemens instruction sheet #8177 (12.09.09): Installation Instructions for TPS3 09 in Lighting Panelboards Type P1",
+     "conf": "A",
+     "src": [
+      "ssTPS3"
+     ],
+     "basis": "oem_spec",
+     "page": "single page"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [],
+   "questions": [],
+   "source_keys": [
+    "ssTPS3"
+   ]
+  },
+  {
+   "key": "p460",
+   "mfr": "SIE",
+   "oem_part_number": "LPJSPDNUT01",
+   "title": "Panelboard trim J-type speed nut kit (25)",
+   "component_type": "fastener",
+   "family_keys": [
+    "fRP1",
+    "fP2",
+    "fP3"
+   ],
+   "breaker_keys": [],
+   "claims": {
+    "oem_part_number": {
+     "value": "LPJSPDNUT01",
+     "conf": "A",
+     "src": [
+      "ss1176"
+     ],
+     "basis": "oem_spec",
+     "page": "single sheet"
+    },
+    "kit_contents": {
+     "value": "25 J-type speed nuts, Siemens piece no. 11-A-1820-01",
+     "conf": "A",
+     "src": [
+      "ss1176"
+     ],
+     "basis": "oem_spec",
+     "page": "single sheet"
+    },
+    "location": {
+     "value": "Edge of deadfront or enclosure flange, depending on front/trim style",
+     "conf": "A",
+     "src": [
+      "ss1176"
+     ],
+     "basis": "oem_spec",
+     "page": "single sheet"
+    },
+    "install_doc": {
+     "value": "Siemens instruction sheet 11-A-1176-01 Rev. 00: LPJSPDNUT01 J-type speed nut replacement kit",
+     "conf": "A",
+     "src": [
+      "ss1176"
+     ],
+     "basis": "oem_spec",
+     "page": "single sheet"
+    }
+   },
+   "requires_part_keys": [],
+   "unknowns": [],
+   "questions": [],
+   "source_keys": [
+    "ss1176"
    ]
   }
  ],

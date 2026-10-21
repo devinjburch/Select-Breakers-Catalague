@@ -19161,6 +19161,16 @@
      "batch": "B0003-squared-panelboards"
     },
     {
+     "value": "Bar length 6.0 in (152 mm); destination HCP 86.0 in x 42.008 in and HCP-SU 86.0 in x 26.0 in panelboards; package 14.7 x 7.5 x 6.8 in, 10.05 lb",
+     "conf": "A",
+     "src": [
+      "SRC-00308"
+     ],
+     "page": "data sheet p.1",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    },
+    {
      "value": "Occupies 6 in. of mounting space",
      "conf": "C",
      "src": [
@@ -19215,6 +19225,43 @@
      "relation": "alias",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "install_doc": [
+    {
+     "value": "48040-651-03 Rev.01 (09/2025): sub-feed lug placed on I-Line pan with hold-down tabs fully inserted in pan slots, jaw end pushed against bus; racked onto bus with two long-shank screwdrivers (upper and bottom slots) until jaws fully engage and the retaining screw aligns with pan locking holes; retaining screws (A) tightened fully without bending the mounting bracket; lug cover (B) removed for cabling and reinstalled",
+     "conf": "A",
+     "src": [
+      "SRC-00306"
+     ],
+     "page": "pp.2-4",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "fasteners": [
+    {
+     "value": "Do not adjust jaws; do not remove joint compound; if necessary use Square D joint compound PJC7201; tools: torque wrench with Torx and hex bits",
+     "conf": "A",
+     "src": [
+      "SRC-00306"
+     ],
+     "page": "p.2",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "torque": [
+    {
+     "value": "Wire size and conductor torque per faceplate label / optional lug instructions (not tabulated in IB); strip length 1-3/8 in (35 mm)",
+     "conf": "A",
+     "src": [
+      "SRC-00306",
+      "SRC-00307"
+     ],
+     "page": "48040-651-03 p.4; 2006 ed. p.3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
    ]
   },
   "requires": [],
@@ -19225,8 +19272,7 @@
    "hole_pattern",
    "kit_contents",
    "material",
-   "mounting height (except SL400)",
-   "torque"
+   "mounting height (except SL400)"
   ],
   "questions": [],
   "source_ids": [
@@ -19234,12 +19280,16 @@
    "SRC-00050",
    "SRC-00056",
    "SRC-00177",
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00306",
+   "SRC-00307",
+   "SRC-00308"
   ],
   "batches": [
    "B0004-squared-switchboards",
    "B0003-squared-panelboards",
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0011-docs-ge-squared"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -20112,28 +20162,66 @@
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
     }
+   ],
+   "install_doc": [
+    {
+     "value": "48049-250-01 (05/2001): place on I-Line pan with jaws pushed against bus; rack onto bus with long-shank screwdrivers alternately in top and bottom slots until jaws fully engage; tighten four screws (A) firmly without bending mounting bracket; Do not adjust jaws; do not remove joint compound; if necessary use Square D joint compound PJC7201",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "pp.1-2",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "torque": [
+    {
+     "value": "Optional lugs AL1200R53K / CU1200R53K: (4) #3/0-600 kcmil (Al/Cu resp. Cu), strip 1-3/16 in (30 mm), wire binding screw 450 lb-in (50 N-m), lug mounting screw 180 lb-in (20 N-m)",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "p.3 Lug Information table",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Field-installable lug kits AL1200R53K (Al/Cu) or CU1200R53K (Cu) listed for S33930",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "p.3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
    ]
   },
-  "requires": [],
+  "requires": [
+   "EDH-SQD-00573"
+  ],
   "unknowns": [
    "aftermarket",
    "finish",
    "hole_pattern",
-   "kit_contents",
    "material",
-   "mounting height (except SL400)",
-   "torque"
+   "mounting height (except SL400)"
   ],
   "questions": [],
   "source_ids": [
    "SRC-00027",
    "SRC-00050",
    "SRC-00056",
-   "SRC-00177"
+   "SRC-00177",
+   "SRC-00305"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0011-docs-ge-squared"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -20312,7 +20400,8 @@
      "conf": "A",
      "src": [
       "SRC-00050",
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00307"
      ],
      "basis": "oem_spec",
      "note": "Listed in FAQ FAQ000269509 (via search summary); 2019 catalog lists SL800M5 only - SL800 may be predecessor",
@@ -20341,6 +20430,16 @@
      "page": "Digest 152 (1970) p.73",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "I-Line plug-on sub-feed lug (covered by 48040-651-03, 05/2006 edition)",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
     }
    ],
    "status": [
@@ -20377,6 +20476,30 @@
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "install_doc": [
+    {
+     "value": "48040-651-03 (05/2006); racked onto I-Line bus like SL400; Do not adjust jaws; do not remove joint compound; if necessary use Square D joint compound PJC7201",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "pp.1-3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "torque": [
+    {
+     "value": "Conductor strip length 1-3/8 in (35 mm); conductor torque per faceplate label",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "p.3 strip-length table",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
    ]
   },
   "requires": [],
@@ -20390,11 +20513,13 @@
   "questions": [],
   "source_ids": [
    "SRC-00050",
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00307"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0011-docs-ge-squared"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -54633,6 +54758,18 @@
      "page": "p. 13",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Square D electric joint compound for I-Line plug-on connections (sub-feed lug jaws; QED-2 bus plug-on connections)",
+     "conf": "A",
+     "src": [
+      "SRC-00305",
+      "SRC-00306",
+      "SRC-00304"
+     ],
+     "page": "48049-250-01 p.1; 48040-651-03 p.2; 80043-055-13 p.41",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
     }
    ],
    "status": [
@@ -54644,6 +54781,20 @@
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "PJC7201",
+     "conf": "A",
+     "src": [
+      "SRC-00305",
+      "SRC-00306"
+     ],
+     "page": "p.1-2",
+     "basis": "oem_spec",
+     "relation": "alias",
+     "batch": "B0011-docs-ge-squared"
     }
    ]
   },
@@ -54657,10 +54808,14 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00181"
+   "SRC-00181",
+   "SRC-00304",
+   "SRC-00305",
+   "SRC-00306"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0011-docs-ge-squared"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65624,6 +65779,449 @@
   ],
   "batches": [
    "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00571",
+  "mfr": "SQD",
+  "brand_marking": "",
+  "oem_part_number": "SL800FT",
+  "title": "I-Line plug-on sub-feed lug SL800FT",
+  "component_type": "sub-feed-lug-kit",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SL800FT",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "48040-651-03 (2006) p.1",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "description": [
+    {
+     "value": "I-Line plug-on sub-feed lug, 800 A, \"FT\" variant (meaning not stated - possibly feed-through)",
+     "conf": "C",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec",
+     "note": "FT meaning inferred",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "48040-651-03 (05/2006); racked onto I-Line bus like SL400; Do not adjust jaws; do not remove joint compound; if necessary use Square D joint compound PJC7201",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "pp.1-3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "torque": [
+    {
+     "value": "Conductor strip length 1-3/8 in (35 mm); conductor torque per faceplate label",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "p.3 strip-length table",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "status",
+   "wire range"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00307"
+  ],
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00572",
+  "mfr": "SQD",
+  "brand_marking": "",
+  "oem_part_number": "SL1200",
+  "title": "I-Line plug-on sub-feed lug SL1200",
+  "component_type": "sub-feed-lug-kit",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SL1200",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "48040-651-03 (2006) p.1",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "description": [
+    {
+     "value": "I-Line plug-on sub-feed lug (covered by 48040-651-03, 05/2006 edition)",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "p.1",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "48040-651-03 (05/2006); racked onto I-Line bus like SL400; Do not adjust jaws; do not remove joint compound; if necessary use Square D joint compound PJC7201",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "pp.1-3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "torque": [
+    {
+     "value": "Conductor strip length 1-1/8 in (29 mm); conductor torque per faceplate label",
+     "conf": "A",
+     "src": [
+      "SRC-00307"
+     ],
+     "page": "p.3 strip-length table",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "status",
+   "wire range"
+  ],
+  "questions": [
+   "Is SL1200 (2006) the predecessor of SL1200P5/P6/P7?"
+  ],
+  "source_ids": [
+   "SRC-00307"
+  ],
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00573",
+  "mfr": "SQD",
+  "brand_marking": "",
+  "oem_part_number": "AL1200R53K",
+  "title": "Square D lug kit AL1200R53K (S33930 / R-frame)",
+  "component_type": "lug-kit",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "AL1200R53K",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "p.3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lug kit for S33930 sub-feed lugs: (4) #3/0-600 kcmil (98-300 mm2) Al/Cu per lug",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "p.3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "torque": [
+    {
+     "value": "Wire binding screw 450 lb-in (50 N-m); lug mounting screw 180 lb-in (20 N-m); strip length 1-3/16 in (30 mm)",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "p.3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "kit_contents (lug count)"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00305"
+  ],
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00574",
+  "mfr": "SQD",
+  "brand_marking": "",
+  "oem_part_number": "CU1200R53K",
+  "title": "Square D lug kit CU1200R53K (S33930 / R-frame)",
+  "component_type": "lug-kit",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CU1200R53K",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "p.3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lug kit for S33930 sub-feed lugs: (4) #3/0-600 kcmil (98-300 mm2) Cu per lug",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "p.3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "torque": [
+    {
+     "value": "Wire binding screw 450 lb-in (50 N-m); lug mounting screw 180 lb-in (20 N-m); strip length 1-3/16 in (30 mm)",
+     "conf": "A",
+     "src": [
+      "SRC-00305"
+     ],
+     "page": "p.3",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "kit_contents (lug count)"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00305"
+  ],
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00575",
+  "mfr": "SQD",
+  "brand_marking": "",
+  "oem_part_number": "SWLUB",
+  "title": "Square D maintenance compound SWLUB",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SQD-001"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SWLUB",
+     "conf": "B",
+     "src": [
+      "SRC-00304"
+     ],
+     "page": "printed p.41",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "description": [
+    {
+     "value": "BG20 High Performance Synthetic Grease (Dow Corning) for switch blade/jaw components rated 600 V and below (Bolt-Loc, QMB, QMJ, QMQB)",
+     "conf": "B",
+     "src": [
+      "SRC-00304"
+     ],
+     "page": "printed p.41",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [],
+  "questions": [],
+  "source_ids": [
+   "SRC-00304"
+  ],
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00576",
+  "mfr": "SQD",
+  "brand_marking": "",
+  "oem_part_number": "S48899",
+  "title": "Square D maintenance compound S48899",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SQD-001"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "S48899",
+     "conf": "B",
+     "src": [
+      "SRC-00304"
+     ],
+     "page": "printed p.41",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "description": [
+    {
+     "value": "Electric joint compound for Masterpact drawout connections (only compound permitted there)",
+     "conf": "B",
+     "src": [
+      "SRC-00304"
+     ],
+     "page": "printed p.41",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [],
+  "questions": [],
+  "source_ids": [
+   "SRC-00304"
+  ],
+  "batches": [
+   "B0011-docs-ge-squared"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00577",
+  "mfr": "SQD",
+  "brand_marking": "",
+  "oem_part_number": "CF16KF63C",
+  "title": "OEM QED-2 I-Line interior CF16KF63C",
+  "component_type": "interior",
+  "family_ids": [
+   "FAM-SQD-001"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CF16KF63C",
+     "conf": "A",
+     "src": [
+      "SRC-00309"
+     ],
+     "page": "document page",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "description": [
+    {
+     "value": "Schneider title: \"1600A 63H DR I-LINE CENTER FEED COPPER BUS OEM QED2 INTERIOR\" (63 in height, double row, centre feed, copper bus)",
+     "conf": "A",
+     "src": [
+      "SRC-00309"
+     ],
+     "page": "document page",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "3D STEP model CF16KF63C117UMS-03 (cf16kf63c.stp, 10 Mar 2017); IB 80235-597-09 (OEM interiors) not retrieved",
+     "conf": "A",
+     "src": [
+      "SRC-00309"
+     ],
+     "page": "document page",
+     "basis": "oem_spec",
+     "batch": "B0011-docs-ge-squared"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "breaker spaces",
+   "dimensions"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00309"
+  ],
+  "batches": [
+   "B0011-docs-ge-squared"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

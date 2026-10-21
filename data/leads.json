@@ -1374,5 +1374,138 @@
   ],
   "status": "open",
   "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0107",
+  "priority": 1,
+  "topic": "QED-2 IB 80043-055 torque tables (exact row pairing)",
+  "detail": "Section 9 tables (printed pp.51-52 of -13; pp.53-54 of -12) read only through ManualsLib text rendering; hardware-type to torque pairing ambiguous. Get the PDF (productinfo.se.com / download.se.com 403; Scribd copy 881634201 JS-only) and re-transcribe Tables 6-8; also capture through-bus splice bolt size/grade (shipping-split instructions) and Qwik-Flange busway hardware.",
+  "doc_numbers": [
+   "80043-055-12",
+   "80043-055-13",
+   "80043-055-16"
+  ],
+  "urls": [
+   "https://www.manualslib.com/manual/1766524/Square-Qed-2.html",
+   "https://www.scribd.com/document/881634201/80043-055-16"
+  ],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0108",
+  "priority": 1,
+  "topic": "2700CT1601 OEM QED-2 I-Line interiors catalog and IB 80235-597-09",
+  "detail": "Still blocked (productinfo.se.com 403). Schneider STEP-model pages (se.com/us/en/download/document/<CF...>UMS-03) are readable by WebFetch and give interior titles, e.g. CF16KF63C = 1600A 63H double-row centre-feed copper; could be used to decode the CF nomenclature for all OEM interiors.",
+  "doc_numbers": [
+   "2700CT1601",
+   "80235-597-09",
+   "CF16KF63C117UMS-03"
+  ],
+  "urls": [
+   "https://www.se.com/us/en/download/document/CF16KF63C117UMS-03"
+  ],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0109",
+  "priority": 2,
+  "topic": "I-Line plug-on data bulletin 0600DB1004 and SL250/SL800M5/SL1200P5-P7 instruction bulletins",
+  "detail": "0600DB1004 (12/2010) blocked on se.com. SL400 IB 48040-651-03 found via graybar.com (Salsify CDN) - same route likely works for SL250/SL800M5/SL1200Px product pages on graybar.com (search page is JS; need product page URLs). docs.steinerelectric.com hosts Schneider instruction sheets (e.g. Schneider_Electric_HCM18736MP_Instruction_Sheet.pdf) but its TLS certificate is expired (not fetched).",
+  "doc_numbers": [
+   "0600DB1004",
+   "48040-651-03"
+  ],
+  "urls": [
+   "https://graybar.com/sub-feed-lug-kit/p/88243518"
+  ],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0110",
+  "priority": 2,
+  "topic": "I-Line HCM/HCR-U neutral bonding straps 80043-446-06, 80121-082-02, 80010-600-01, hardware kit BBV57291",
+  "detail": "Seen only in search-result summaries of se.com FAQs FA225933/FA117902/FA339459 (403 on fetch). Would add neutral bonding strap part numbers for HCR-U with/without neutral CT.",
+  "doc_numbers": [
+   "80043-446-06",
+   "80121-082-02",
+   "80010-600-01",
+   "BBV57291"
+  ],
+  "urls": [
+   "https://www.se.com/us/en/download/document/80043-446-06"
+  ],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0111",
+  "priority": 2,
+  "topic": "Current ABB BuyLog Section 11 Panelboards (2021/2022, ReliaGear neXT, \"Spectra (obsoleted) bolt-on panelboard mounting hardware\" p.11-63)",
+  "detail": "electrification.us.abb.com PDF: curl HTTP/2 INTERNAL_ERROR / empty reply, WebFetch 503. pdf4pro.com has a text preview (TOC confirms p.11-63 Spectra obsoleted bolt-on hardware) but download is 403. ABB quick-selector guide (simplebooklet) gives the retrofit-kit table; product-number columns of its Spectra renewal tables are images.",
+  "doc_numbers": [],
+  "urls": [
+   "https://electrification.us.abb.com/catalog/buylog/11_BuyLog_Panelboards.pdf",
+   "https://pdf4pro.com/view/panelboards-buylog-section-11-abb-789fc0.html"
+  ],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0112",
+  "priority": 2,
+  "topic": "Tmax XT Spectra retrofit kit (SRFB/SRFN) installation instructions",
+  "detail": "No instruction document number found; empower lists SRFB kits only inside breaker cross-reference entries (e.g. Tmax27292). Need kit contents, strap part numbers and torques.",
+  "doc_numbers": [],
+  "urls": [
+   "https://empower.abb.com/ecatalog/ec/EN_NA/p/Tmax27292"
+  ],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0113",
+  "priority": 3,
+  "topic": "GE DEH/GEH Spectra instructions still missing",
+  "detail": "Not on manualsdir: DEH-063/064/066 (FB/FC/FG bolt-on kits AMCB*FB, *FDB, *FGB/FGM, AMCB3LB), GEH-5592 (SKPA top cover), GEH-6501 ANKT and GEH-5683 GF neutral (no catalog numbers), DEH-043 (?), GEH-5588/5630 main lug kits. manualmachine.com still 403.",
+  "doc_numbers": [
+   "DEH063",
+   "DEH064",
+   "DEH066",
+   "GEH5592",
+   "GEH5588",
+   "GEH5630"
+  ],
+  "urls": [
+   "https://www.manualsdir.com/brands/ge-industrial-solutions/193.html"
+  ],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0114",
+  "priority": 3,
+  "topic": "AFP4SGC vs AFP4SGD",
+  "detail": "GEH5673 R03 names filler kit AFP4SGC for AMC4GB/AMC6GB modules; BuyLog lists AFP4SGD (dual SG). Confirm whether AFP4SGC exists.",
+  "doc_numbers": [
+   "GEH5673"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
+ },
+ {
+  "id": "LEAD-0115",
+  "priority": 3,
+  "topic": "Square D QMQB switches",
+  "detail": "80043-055-13 p.41 names \"QMQB Main and Branch (available in Canada only)\" - contradicts B0004 note that QMQB is probably not a real designation; research Canadian QMQB fusible switch units.",
+  "doc_numbers": [
+   "80043-055-13"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0011-docs-ge-squared"
  }
 ]
