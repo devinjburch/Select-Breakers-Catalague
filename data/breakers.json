@@ -1,1 +1,3209 @@
-[]
+[
+ {
+  "id": "BRK-EAT-001",
+  "mfr": "EAT",
+  "name": "EB",
+  "aliases": [
+   "Westinghouse EB"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 6.00 x D 3.38 in (3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C EHD; CDP retrofit kit KCDPEHD; same X space",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "Still manufactured as a 'replacement circuit breaker' for exact replacement (frame listed obsolete; see cross-reference)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10 note 1",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-011"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-002",
+  "mfr": "EAT",
+  "name": "EHB",
+  "aliases": [
+   "Westinghouse EHB"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 6.00 x D 3.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C EHD (KCDPEHD)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "Replacement circuit breaker still manufactured; frame obsolete",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-011"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-003",
+  "mfr": "EAT",
+  "name": "FB",
+  "aliases": [
+   "Westinghouse FB"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 6.00 x D 3.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C FDB (KCDPFDB); PRL4B replacement FDB",
+     "conf": "A",
+     "src": [
+      "SRC-00039",
+      "SRC-00038"
+     ],
+     "page": "RP01400002E p. 13 Table 18; V12-T4-4",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-150 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "Replacement circuit breaker still manufactured; frame obsolete",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10, p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-011",
+   "FAM-EAT-002"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-004",
+  "mfr": "EAT",
+  "name": "HFB",
+  "aliases": [
+   "Westinghouse HFB"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 6.00 x D 3.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C FD (KCDPFD)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-150 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "Replacement circuit breaker still manufactured",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-011"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-005",
+  "mfr": "EAT",
+  "name": "KA",
+  "aliases": [
+   "HKA",
+   "Westinghouse KA"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 5.50 x H 10.13 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "KA -> KD (KCDPKD); HKA -> HKD (KCDPHKD)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "70-225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11 note 2",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-006",
+  "mfr": "EAT",
+  "name": "KB",
+  "aliases": [
+   "HKB",
+   "Westinghouse KB"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 10.00 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C JD (KCDPJD)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "70-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-007",
+  "mfr": "EAT",
+  "name": "JA",
+  "aliases": [
+   "Westinghouse JA"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 5.50 x H 10.13 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C KDB (KCDPKDB); when upgrading JA to Series C K-frame in panelboard, order TAD3 spacer kit",
+     "conf": "A",
+     "src": [
+      "SRC-00039",
+      "SRC-00038"
+     ],
+     "page": "RP01400002E p. 13 Table 18; Vol12 Tab 3 JA note",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "70-225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-008",
+  "mfr": "EAT",
+  "name": "JB",
+  "aliases": [
+   "Westinghouse JB"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 10.00 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C JDB (KCDPJDB)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "70-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-009",
+  "mfr": "EAT",
+  "name": "DA",
+  "aliases": [
+   "Westinghouse DA"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 5.50 x H 10.13 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C DK (KCDPDK)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "250-400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-010",
+  "mfr": "EAT",
+  "name": "LA",
+  "aliases": [
+   "HLA",
+   "LAB",
+   "Westinghouse LA"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 8.25 x H 10.75 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C LD (KCDPLD); LAB -> LDB",
+     "conf": "A",
+     "src": [
+      "SRC-00039",
+      "SRC-00038"
+     ],
+     "page": "RP01400002E p. 13 Table 18; V12-T4-4",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "250-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame (HLA still in panelboard-only list)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-011",
+  "mfr": "EAT",
+  "name": "LB",
+  "aliases": [
+   "LBB",
+   "HLB",
+   "Westinghouse LB"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 5.50 x H 10.13 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "LB/HLB -> KD (KCDPKD); LBB -> KDB (KCDPKDB); Series C K-family requires TAD3 adapter kit when mounting on existing LB connectors",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18 and note",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "LB 70-400 A; LBB/HLB 125-400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-012",
+  "mfr": "EAT",
+  "name": "LC",
+  "aliases": [
+   "HLC",
+   "Westinghouse LC"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 8.25 x H 10.75 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C LD (KCDPLD)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "300-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "replacement breaker still manufactured (LC obsolete per note 2)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-013",
+  "mfr": "EAT",
+  "name": "MA",
+  "aliases": [
+   "HMA",
+   "Westinghouse MA"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 8.25 x H 16.00 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C MDL (KCDPMDL)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "125-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "MA obsolete; HMA replacement breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-014",
+  "mfr": "EAT",
+  "name": "MC",
+  "aliases": [
+   "HMC",
+   "MCC",
+   "Westinghouse MC"
+  ],
+  "claims": {
+   "replacement": [
+    {
+     "value": "Series C MDL (KCDPMDL)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "400-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-015",
+  "mfr": "EAT",
+  "name": "NB",
+  "aliases": [
+   "HNB",
+   "Westinghouse NB"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 8.25 x H 16.00 x D 5.50 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Series C ND (KCDPND)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "700-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-016",
+  "mfr": "EAT",
+  "name": "NC",
+  "aliases": [
+   "HNC",
+   "Westinghouse NC"
+  ],
+  "claims": {
+   "replacement": [
+    {
+     "value": "Series C ND (KCDPND)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "box_depth": [
+    {
+     "value": "In MP40 panels only NC/HNC require 11.38 in deep box (standard 10.50 in)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-12 note 3",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "600-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "RP01400002E p. 13 Table 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete frame",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-017",
+  "mfr": "EAT",
+  "name": "E",
+  "aliases": [
+   "EA",
+   "EH",
+   "Westinghouse E-frame"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "E/EA: W 4.13 x H 6.00 x D 3.38 in; EH: W 4.13 x H 6.50 x D 3.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Panelboard-only replacement breakers RE/REA (obsolete) -> REH (3-pole only)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-81",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "out of production; last manufactured 1974",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-013"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-018",
+  "mfr": "EAT",
+  "name": "F",
+  "aliases": [
+   "FA",
+   "HF",
+   "HFA",
+   "Westinghouse F-frame"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "F/HF: W 4.13 x H 9.38 x D 4.06 in; FA/HFA: W 4.13 x H 6.50 x D 3.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "RHF (F/HF), RHFA (FA/HFA), three-pole only",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-81; V12-T4-4",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "out of production; last manufactured 1974",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-013"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-019",
+  "mfr": "EAT",
+  "name": "EHD",
+  "aliases": [],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 6.00 x D 3.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "1P 277 V 14 kA; 2/3P 240 V 18 kA, 480 V 14 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "frame": [
+    {
+     "value": "100 A frame (E-frame Series C)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-001",
+   "FAM-EAT-014",
+   "FAM-EAT-010"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-020",
+  "mfr": "EAT",
+  "name": "FD",
+  "aliases": [
+   "FDB",
+   "HFD",
+   "FDC",
+   "FD-frame"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 6.00 x D 3.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "FDB 480 V 14 kA; FD 25 kA; HFD 65 kA; FDC 100 kA at 480 V",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "frame": [
+    {
+     "value": "225 A F-frame Series C (FDB 15-225, FD/HFD/FDC 15-225)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-001",
+   "FAM-EAT-014",
+   "FAM-EAT-010"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-021",
+  "mfr": "EAT",
+  "name": "ED",
+  "aliases": [
+   "EDH",
+   "EDC",
+   "EDB",
+   "EDS"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 6.00 x D 3.38 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "100-225 A (EDC 15-225 A); 240 V max",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-001",
+   "FAM-EAT-014",
+   "FAM-EAT-010"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-022",
+  "mfr": "EAT",
+  "name": "CA",
+  "aliases": [
+   "CAH",
+   "HCA"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 6.50 x D 2.69 in; frame obsolete",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "100-225 A, 240 V; not recommended for motor loads",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-010",
+   "FAM-EAT-014"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-023",
+  "mfr": "EAT",
+  "name": "JD",
+  "aliases": [
+   "JDB",
+   "HJD",
+   "JDC"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 4.13 x H 10.00 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "70-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-001",
+   "FAM-EAT-014"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-024",
+  "mfr": "EAT",
+  "name": "KD",
+  "aliases": [
+   "DK",
+   "KDB",
+   "HKD",
+   "KDC",
+   "CKD",
+   "CHKD"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 5.50 x H 10.13 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "adapter": [
+    {
+     "value": "Requires TAD3 adapter/spacer kit when mounted onto existing LB-frame connectors or when upgrading HLB/LBB/JA in a panelboard",
+     "conf": "A",
+     "src": [
+      "SRC-00039",
+      "SRC-00038"
+     ],
+     "page": "RP01400002E p. 13; V12-T3-11 note 1",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "KD/KDB/HKD/KDC 100-400 A; DK 250-400 A 240 V",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-001",
+   "FAM-EAT-014"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-025",
+  "mfr": "EAT",
+  "name": "LD",
+  "aliases": [
+   "HLD",
+   "LDC",
+   "LDB",
+   "CLD"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 8.25 x H 10.75 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "300-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-001",
+   "FAM-EAT-014"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-026",
+  "mfr": "EAT",
+  "name": "MDL",
+  "aliases": [
+   "HMDL",
+   "CMDL"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 8.25 x H 16.00 x D 4.06 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "300-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-001",
+   "FAM-EAT-014"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-027",
+  "mfr": "EAT",
+  "name": "ND",
+  "aliases": [
+   "HND",
+   "NDC",
+   "CND"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 8.25 x H 16.00 x D 5.50 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "600-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-001",
+   "FAM-EAT-014"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-028",
+  "mfr": "EAT",
+  "name": "RD",
+  "aliases": [
+   "RG"
+  ],
+  "claims": {
+   "dimensions_3p": [
+    {
+     "value": "W 15.50 x H 16.00 x D 9.75 in",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "RD replaces PC, PCC and PB breakers for 2000 and 2500 A only",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12 note 1",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "amps": [
+    {
+     "value": "1600/2000/2500 A",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T3-12",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002"
+  ],
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-029",
+  "mfr": "EAT",
+  "name": "Tri-Pac",
+  "aliases": [
+   "FB-P",
+   "LA-P",
+   "NB-P",
+   "TRI-PAC"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "FB-P 15-100 A; LA-P 70-400 A; NB-P 300-800 A; 200 kA at 600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11 Table 15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-007",
+   "FAM-EAT-014"
+  ],
+  "source_ids": [
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-030",
+  "mfr": "EAT",
+  "name": "BAB",
+  "aliases": [
+   "QBHW",
+   "HQP",
+   "QPHW",
+   "BA",
+   "QBH",
+   "QBGF",
+   "QBHGF"
+  ],
+  "claims": {
+   "replacement": [
+    {
+     "value": "B10B/W10B/NQB BA -> BAB; NPLAB/NQP/Q10P/W10P QP -> HQP; W22B/Q22B QBH -> QBHW; W22P/Q22P QPH -> QPHW",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "mounting": [
+    {
+     "value": "Bolt-on 1 in per pole; mounted on PRL1/PRL3 subchassis; KPRL1BAB connectors mount up to 12 poles",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 3",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-009",
+   "FAM-EAT-010",
+   "FAM-EAT-012"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-031",
+  "mfr": "EAT",
+  "name": "GB",
+  "aliases": [
+   "GHB",
+   "GHBS"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolt-on; PRL2 subchassis via KPRL2GHB; GB/GHB cannot be mixed on same subchassis as BAB/QBH",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 3; V12-T4-16 note 3",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-009",
+   "FAM-EAT-010"
+  ],
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-EAT-032",
+  "mfr": "EAT",
+  "name": "BR",
+  "aliases": [
+   "BW",
+   "BWH",
+   "BD",
+   "BQ",
+   "BQC"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "1 in plug-on Type BR loadcenter breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00046"
+     ],
+     "page": "p. V12-T5-14",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-015"
+  ],
+  "source_ids": [
+   "SRC-00046"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "BRK-GEA-001",
+  "mfr": "GEA",
+  "name": "THQB / THHQB / TXQB",
+  "aliases": [
+   "Q-line bolt-on",
+   "QB"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on (A-Series AQ; Spectra double-branch)",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A, 1-3P",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002",
+   "FAM-GEA-004"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-002",
+  "mfr": "GEA",
+  "name": "THQL / THHQL / TXQL",
+  "aliases": [
+   "Q-line plug-in"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "plug-in (A-Series AL)",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-003",
+  "mfr": "GEA",
+  "name": "TEY / TEYF / TEYD / TEYH / TEYL",
+  "aliases": [
+   "E-frame TEY",
+   "EY"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on (AE/AEP; Spectra double-branch; ReliaGear neXT)",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A (110/125 A TEYD/H/L in AS)",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002",
+   "FAM-GEA-004",
+   "FAM-GEA-008"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-004",
+  "mfr": "GEA",
+  "name": "TQD / THQD",
+  "aliases": [
+   "Q-frame QD"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on via strap kits / branch bases",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "100-225 A, 2-3P",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002",
+   "FAM-GEA-004",
+   "FAM-GEA-006"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-005",
+  "mfr": "GEA",
+  "name": "TEB / TED / THED / TED4 / TED6",
+  "aliases": [
+   "E-frame",
+   "EB"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-150 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002",
+   "FAM-GEA-004",
+   "FAM-GEA-006",
+   "FAM-GEA-007"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-006",
+  "mfr": "GEA",
+  "name": "Spectra SE (SEDA/SEHA/SELA/SEPA)",
+  "aliases": [
+   "SE-frame",
+   "Spectra RMS E"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on / module",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "up to 150 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002",
+   "FAM-GEA-004"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-007",
+  "mfr": "GEA",
+  "name": "Spectra SF (SFHA/SFLA/SFPA)",
+  "aliases": [
+   "SF-frame"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on / module",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "70-250 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002",
+   "FAM-GEA-004",
+   "FAM-GEA-006"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-008",
+  "mfr": "GEA",
+  "name": "Spectra SG (SGDA/SGHA/SGLA/SGPA)",
+  "aliases": [
+   "SG-frame"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on / module",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "125-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002",
+   "FAM-GEA-004",
+   "FAM-GEA-005"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-009",
+  "mfr": "GEA",
+  "name": "Spectra SK (SKHA/SKLA/SKPA)",
+  "aliases": [
+   "SK-frame",
+   "K"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "single-mounted / center-mounted",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "800-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-004",
+   "FAM-GEA-005",
+   "FAM-GEA-006"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-010",
+  "mfr": "GEA",
+  "name": "Record Plus FB (FBV/FBN/FBH/FBL)",
+  "aliases": [
+   "FB"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002",
+   "FAM-GEA-004",
+   "FAM-GEA-008"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-011",
+  "mfr": "GEA",
+  "name": "Record Plus FC (FCS/FCV/FCN/FCH/FCL)",
+  "aliases": [
+   "FC",
+   "FD"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on / module",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "up to 100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-012",
+  "mfr": "GEA",
+  "name": "Record Plus FG (FGV/FGN/FGH/FGL/FGP)",
+  "aliases": [
+   "FG"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on / module",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "up to 600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-013",
+  "mfr": "GEA",
+  "name": "TFJ / TFK / THFK / TFL",
+  "aliases": [
+   "F-frame",
+   "FJ"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on / module",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "up to 225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-004",
+   "FAM-GEA-006"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-014",
+  "mfr": "GEA",
+  "name": "TJD / TJJ / TJK / THJK",
+  "aliases": [
+   "J-frame",
+   "JK"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on / module",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "250-600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-004",
+   "FAM-GEA-005",
+   "FAM-GEA-006"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-GEA-015",
+  "mfr": "GEA",
+  "name": "TKM / THKM",
+  "aliases": [
+   "K-frame",
+   "KM"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "single-mounted",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "amps": [
+    {
+     "value": "800-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-7",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-006"
+  ],
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "BRK-SIE-001",
+  "mfr": "SIE",
+  "name": "BL",
+  "aliases": [
+   "BL",
+   "BLH",
+   "HBL",
+   "BLF",
+   "BLE",
+   "BAF",
+   "BT twin (B1515/B2020)"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "frame": [
+    {
+     "value": "1in per pole bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100A",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "120/240V",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "BL 10kA, BLH 22kA, HBL 65kA",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-003",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-002",
+  "mfr": "SIE",
+  "name": "BQD",
+  "aliases": [
+   "BQD",
+   "BQD6"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "bolt-on, 1in per pole",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-100A",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "480Y/277V",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "14kA @480Y/277V, 65kA @240V",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-003",
+  "mfr": "SIE",
+  "name": "GB (NGB/HGB/LGB) and GB2 (NGB2/HGB2/LGB2); 'xGB'",
+  "aliases": [
+   "xGB",
+   "NGB",
+   "HGB",
+   "LGB",
+   "xGB2",
+   "NGB2",
+   "HGB2",
+   "LGB2"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "15-125A",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "480Y/277V; 600Y/347V 14kA",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "NGB 25kA, HGB 35kA, LGB 65kA @480Y/277V; 100kA @240V",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-007",
+   "FAM-SIE-008"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-004",
+  "mfr": "SIE",
+  "name": "3VA41",
+  "aliases": [
+   "3VA41"
+  ],
+  "claims": {
+   "frame": [
+    {
+     "value": "1in per pole (1-pole 1in wide; 2P 2in; 3P 3in)",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "pp.11-18, 11-19",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "amps": [
+    {
+     "value": "15-125A",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-18",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "interrupting": [
+    {
+     "value": "SEAB/MEAB/HEAB: 25/35/65kA @277V-480Y/277V",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "pp.11-18, 11-19",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-005",
+  "mfr": "SIE",
+  "name": "ED (ED2/ED4/ED6/HED4/HHED6) and CED6",
+  "aliases": [
+   "ED2",
+   "ED4",
+   "ED6",
+   "HED4",
+   "HED6",
+   "HHED6",
+   "CED6",
+   "E2",
+   "E4",
+   "E6",
+   "HE4",
+   "HE6"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "15-125A",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-94",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-003",
+   "FAM-SIE-005",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009",
+   "FAM-SIE-010"
+  ],
+  "source_ids": [
+   "SRC-00001",
+   "SRC-00003"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-006",
+  "mfr": "SIE",
+  "name": "QJ2 / QJH2 / QJ2-H / HQJ2H",
+  "aliases": [
+   "QJ2",
+   "QJH2",
+   "QJ2-H",
+   "HQJ2H"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "60-225A",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p.10-18",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; replaced by QR (QJ kits not available, use QR)",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-53",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-010"
+  ],
+  "source_ids": [
+   "SRC-00004",
+   "SRC-00001",
+   "SRC-00003"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-007",
+  "mfr": "SIE",
+  "name": "QR2 / QRH2 / HQR2 / HQR2H",
+  "aliases": [
+   "QR",
+   "QR2",
+   "QRH2",
+   "HQR2",
+   "HQR2H"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "100-225A (QR rated 250A frame but limited to 225A in panelboard)",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "pp.11-94, 11-96",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "240V max",
+     "conf": "A",
+     "src": [
+      "SRC-00006"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-008",
+  "mfr": "SIE",
+  "name": "FD family (FXD6, FD6, HFXD6, HFD6, HHFXD6, HHFD6, CFD6)",
+  "aliases": [
+   "FXD6",
+   "FD6",
+   "HFD6",
+   "HFXD6",
+   "HHFD6",
+   "HHFXD6",
+   "CFD6"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "70-250A",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-94",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009",
+   "FAM-SIE-010"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-009",
+  "mfr": "SIE",
+  "name": "JD family (JXD2, JXD6, JD6, HJD6, HJXD6, HHJD6, CJD6, SJD6, SHJD6, SCJD6)",
+  "aliases": [
+   "JXD2",
+   "JXD6",
+   "JD6",
+   "HJD6",
+   "HJXD6",
+   "HHJXD6",
+   "CJD6",
+   "SJD6",
+   "SHJD6",
+   "SCJD6"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "200-400A",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-95",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009",
+   "FAM-SIE-010"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-010",
+  "mfr": "SIE",
+  "name": "LD family (LXD6, LD6, HLD6, HHLD6, CLD6, SLD6, SHLD6, SCLD6)",
+  "aliases": [
+   "LXD6",
+   "LD6",
+   "HLD6",
+   "HLXD6",
+   "HHLD6",
+   "CLD6",
+   "SLD6",
+   "SHLD6",
+   "SCLD6"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "250-600A",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-95",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009",
+   "FAM-SIE-010"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-011",
+  "mfr": "SIE",
+  "name": "MD / ND family (MXD6, MD6, HMD6, CMD6, SMD6, NXD6, ND6, HND6, CND6, SND6) and LMD6",
+  "aliases": [
+   "MXD6",
+   "MD6",
+   "HMD6",
+   "CMD6",
+   "SMD6",
+   "SHMD6",
+   "SCMD6",
+   "NXD6",
+   "ND6",
+   "HND6",
+   "CND6",
+   "SND6",
+   "SHND6",
+   "SCND6",
+   "LMD6",
+   "HLMD6"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "MD to 800A, ND to 1200A",
+     "conf": "B",
+     "src": [
+      "SRC-00001"
+     ],
+     "basis": "inference",
+     "note": "Frame ratings from strap kit table max-amp column",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-008",
+   "FAM-SIE-009",
+   "FAM-SIE-010"
+  ],
+  "source_ids": [
+   "SRC-00001",
+   "SRC-00003"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-012",
+  "mfr": "SIE",
+  "name": "3VA5/3VA6 (3VA52, 3VA53, 3VA54, 3VA55, 3VA57, 3VA61, 3VA62, 3VA63, 3VA64, 3VA65, 3VA66, 3VA67)",
+  "aliases": [
+   "3VA52",
+   "3VA53",
+   "3VA54",
+   "3VA61",
+   "3VA62",
+   "3VA63",
+   "3VA64"
+  ],
+  "claims": {},
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-009"
+  ],
+  "source_ids": [
+   "SRC-00001",
+   "SRC-00002"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-013",
+  "mfr": "SIE",
+  "name": "Sentron VL (DG, FG, JG, LG, MG, NG)",
+  "aliases": [
+   "DG",
+   "FG",
+   "JG",
+   "LG",
+   "MG",
+   "NG",
+   "NF/HF/LF",
+   "NJ/HJ/LJ",
+   "NL/HL/LL",
+   "NM/HM/LM"
+  ],
+  "claims": {},
+  "family_ids": [
+   "FAM-SIE-007",
+   "FAM-SIE-008"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-014",
+  "mfr": "SIE",
+  "name": "NEB / HEB",
+  "aliases": [
+   "NEB",
+   "HEB"
+  ],
+  "claims": {
+   "status": [
+    {
+     "value": "legacy (replacement parts only)",
+     "conf": "B",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-53",
+     "basis": "inference",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-006",
+   "FAM-SIE-007",
+   "FAM-SIE-008"
+  ],
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "BRK-SIE-015",
+  "mfr": "SIE",
+  "name": "BQ / BQH / HBQ (bolt-on, legacy)",
+  "aliases": [
+   "BQ",
+   "BQH",
+   "HBQ",
+   "HB"
+  ],
+  "claims": {
+   "status": [
+    {
+     "value": "unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00001"
+     ],
+     "basis": "inference",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-010",
+   "FAM-SIE-009"
+  ],
+  "source_ids": [
+   "SRC-00003",
+   "SRC-00002"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ }
+]

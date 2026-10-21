@@ -1,0 +1,63 @@
+breaker_id,mfr,name,aliases,mounting,frame,poles,amps,voltage,status,families
+BRK-EAT-001,EAT,EB,Westinghouse EB,,,,15-100 A,,Still manufactured as a 'replacement circuit breaker' for exact replacement (frame listed obsolete; see cross-reference),CDP; WEB
+BRK-EAT-002,EAT,EHB,Westinghouse EHB,,,,15-100 A,,Replacement circuit breaker still manufactured; frame obsolete,CDP; WEB
+BRK-EAT-003,EAT,FB,Westinghouse FB,,,,15-150 A,,Replacement circuit breaker still manufactured; frame obsolete,CDP; WEB; WF/WRP
+BRK-EAT-004,EAT,HFB,Westinghouse HFB,,,,15-150 A,,Replacement circuit breaker still manufactured,CDP; WEB
+BRK-EAT-005,EAT,KA,HKA; Westinghouse KA,,,,70-225 A,,obsolete frame,CDP
+BRK-EAT-006,EAT,KB,HKB; Westinghouse KB,,,,70-250 A,,obsolete frame,CDP
+BRK-EAT-007,EAT,JA,Westinghouse JA,,,,70-225 A,,obsolete frame,CDP
+BRK-EAT-008,EAT,JB,Westinghouse JB,,,,70-250 A,,obsolete frame,CDP
+BRK-EAT-009,EAT,DA,Westinghouse DA,,,,250-400 A,,obsolete frame,CDP
+BRK-EAT-010,EAT,LA,HLA; LAB; Westinghouse LA,,,,250-600 A,,obsolete frame (HLA still in panelboard-only list),CDP
+BRK-EAT-011,EAT,LB,LBB; HLB; Westinghouse LB,,,,LB 70-400 A; LBB/HLB 125-400 A,,obsolete frame,CDP
+BRK-EAT-012,EAT,LC,HLC; Westinghouse LC,,,,300-600 A,,replacement breaker still manufactured (LC obsolete per note 2),CDP
+BRK-EAT-013,EAT,MA,HMA; Westinghouse MA,,,,125-800 A,,MA obsolete; HMA replacement breaker,CDP
+BRK-EAT-014,EAT,MC,HMC; MCC; Westinghouse MC,,,,400-800 A,,obsolete frame,CDP
+BRK-EAT-015,EAT,NB,HNB; Westinghouse NB,,,,700-1200 A,,obsolete frame,CDP
+BRK-EAT-016,EAT,NC,HNC; Westinghouse NC,,,,600-1200 A,,obsolete frame,CDP
+BRK-EAT-017,EAT,E,EA; EH; Westinghouse E-frame,,,,,,out of production; last manufactured 1974,CDP; NAB
+BRK-EAT-018,EAT,F,FA; HF; HFA; Westinghouse F-frame,,,,,,out of production; last manufactured 1974,CDP; NAB
+BRK-EAT-019,EAT,EHD,,,100 A frame (E-frame Series C),,15-100 A,,,CDP; PRLC; PRL4; PRL3
+BRK-EAT-020,EAT,FD,FDB; HFD; FDC; FD-frame,,"225 A F-frame Series C (FDB 15-225, FD/HFD/FDC 15-225)",,,,,CDP; PRLC; PRL4; PRL3
+BRK-EAT-021,EAT,ED,EDH; EDC; EDB; EDS,,,,100-225 A (EDC 15-225 A); 240 V max,,,CDP; PRLC; PRL4; PRL3
+BRK-EAT-022,EAT,CA,CAH; HCA,,,,"100-225 A, 240 V; not recommended for motor loads",,,CDP; PRL3; PRL4
+BRK-EAT-023,EAT,JD,JDB; HJD; JDC,,,,70-250 A,,,CDP; PRLC; PRL4
+BRK-EAT-024,EAT,KD,DK; KDB; HKD; KDC; CKD; CHKD,,,,KD/KDB/HKD/KDC 100-400 A; DK 250-400 A 240 V,,,CDP; PRLC; PRL4
+BRK-EAT-025,EAT,LD,HLD; LDC; LDB; CLD,,,,300-600 A,,,CDP; PRLC; PRL4
+BRK-EAT-026,EAT,MDL,HMDL; CMDL,,,,300-800 A,,,CDP; PRLC; PRL4
+BRK-EAT-027,EAT,ND,HND; NDC; CND,,,,600-1200 A,,,CDP; PRLC; PRL4
+BRK-EAT-028,EAT,RD,RG,,,,1600/2000/2500 A,,,PRLC; WF/WRP
+BRK-EAT-029,EAT,Tri-Pac,FB-P; LA-P; NB-P; TRI-PAC,,,,FB-P 15-100 A; LA-P 70-400 A; NB-P 300-800 A; 200 kA at 600 V,,,CDP; PRL4
+BRK-EAT-030,EAT,BAB,QBHW; HQP; QPHW; BA; QBH; QBGF; QBHGF,Bolt-on 1 in per pole; mounted on PRL1/PRL3 subchassis; KPRL1BAB connectors mount up to 12 poles,,,,,,PRL1/PRL2; PRL3; NLAB
+BRK-EAT-031,EAT,GB,GHB; GHBS,Bolt-on; PRL2 subchassis via KPRL2GHB; GB/GHB cannot be mixed on same subchassis as BAB/QBH,,,,,,PRL1/PRL2; PRL3
+BRK-EAT-032,EAT,BR,BW; BWH; BD; BQ; BQC,1 in plug-on Type BR loadcenter breakers,,,,,,BR
+BRK-GEA-001,GEA,THQB / THHQB / TXQB,Q-line bolt-on; QB,bolt-on (A-Series AQ; Spectra double-branch),,,"15-100 A, 1-3P",,,A-SERIES; A-SERIES-PWR; SPECTRA-PP
+BRK-GEA-002,GEA,THQL / THHQL / TXQL,Q-line plug-in,plug-in (A-Series AL),,,15-100 A,,,A-SERIES
+BRK-GEA-003,GEA,TEY / TEYF / TEYD / TEYH / TEYL,E-frame TEY; EY,bolt-on (AE/AEP; Spectra double-branch; ReliaGear neXT),,,15-100 A (110/125 A TEYD/H/L in AS),,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; RG-NEXT
+BRK-GEA-004,GEA,TQD / THQD,Q-frame QD,bolt-on via strap kits / branch bases,,,"100-225 A, 2-3P",,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; CCB-QMR
+BRK-GEA-005,GEA,TEB / TED / THED / TED4 / TED6,E-frame; EB,bolt-on,,,15-150 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; CCB-QMR; NHB
+BRK-GEA-006,GEA,Spectra SE (SEDA/SEHA/SELA/SEPA),SE-frame; Spectra RMS E,bolt-on / module,,,up to 150 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP
+BRK-GEA-007,GEA,Spectra SF (SFHA/SFLA/SFPA),SF-frame,bolt-on / module,,,70-250 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; CCB-QMR
+BRK-GEA-008,GEA,Spectra SG (SGDA/SGHA/SGLA/SGPA),SG-frame,bolt-on / module,,,125-600 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; SCP-PLUS
+BRK-GEA-009,GEA,Spectra SK (SKHA/SKLA/SKPA),SK-frame; K,single-mounted / center-mounted,,,800-1200 A,,,A-SERIES; SPECTRA-PP; SCP-PLUS; CCB-QMR
+BRK-GEA-010,GEA,Record Plus FB (FBV/FBN/FBH/FBL),FB,bolt-on,,,15-100 A,,,A-SERIES; A-SERIES-PWR; SPECTRA-PP; RG-NEXT
+BRK-GEA-011,GEA,Record Plus FC (FCS/FCV/FCN/FCH/FCL),FC; FD,bolt-on / module,,,up to 100 A,,,SPECTRA-PP
+BRK-GEA-012,GEA,Record Plus FG (FGV/FGN/FGH/FGL/FGP),FG,bolt-on / module,,,up to 600 A,,,SPECTRA-PP
+BRK-GEA-013,GEA,TFJ / TFK / THFK / TFL,F-frame; FJ,bolt-on / module,,,up to 225 A,,,A-SERIES; SPECTRA-PP; CCB-QMR
+BRK-GEA-014,GEA,TJD / TJJ / TJK / THJK,J-frame; JK,bolt-on / module,,,250-600 A,,,A-SERIES; SPECTRA-PP; SCP-PLUS; CCB-QMR
+BRK-GEA-015,GEA,TKM / THKM,K-frame; KM,single-mounted,,,800-1200 A,,,SPECTRA-PP; CCB-QMR
+BRK-SIE-001,SIE,BL,BL; BLH; HBL; BLF; BLE; BAF; BT twin (B1515/B2020),bolt-on,1in per pole bolt-on,,15-100A,120/240V,,RP1; P1; S1/S2; P2; P3; P4; P5; SB
+BRK-SIE-002,SIE,BQD,BQD; BQD6,"bolt-on, 1in per pole",,,15-100A,480Y/277V,,RP1; P1; P2; P3; P4; P5; SB
+BRK-SIE-003,SIE,GB (NGB/HGB/LGB) and GB2 (NGB2/HGB2/LGB2); 'xGB',xGB; NGB; HGB; LGB; xGB2; NGB2; HGB2; LGB2,,,,15-125A,480Y/277V; 600Y/347V 14kA,,RP1; P2; P3; P4; P5
+BRK-SIE-004,SIE,3VA41,3VA41,,1in per pole (1-pole 1in wide; 2P 2in; 3P 3in),,15-125A,,,RP1; P2; P3; P4; P5; SB
+BRK-SIE-005,SIE,ED (ED2/ED4/ED6/HED4/HHED6) and CED6,ED2; ED4; ED6; HED4; HED6; HHED6; CED6; E2; E4; E6; HE4; HE6,,,,15-125A,,,RP1; P1; S1/S2; P2; P4; P5; SB; CDP6
+BRK-SIE-006,SIE,QJ2 / QJH2 / QJ2-H / HQJ2H,QJ2; QJH2; QJ2-H; HQJ2H,,,,60-225A,,"discontinued; replaced by QR (QJ kits not available, use QR)",P1; P2; P3; CDP6
+BRK-SIE-007,SIE,QR2 / QRH2 / HQR2 / HQR2H,QR; QR2; QRH2; HQR2; HQR2H,,,,100-225A (QR rated 250A frame but limited to 225A in panelboard),240V max,,RP1; P1; P2; P3; P4; P5; SB
+BRK-SIE-008,SIE,"FD family (FXD6, FD6, HFXD6, HFD6, HHFXD6, HHFD6, CFD6)",FXD6; FD6; HFD6; HFXD6; HHFD6; HHFXD6; CFD6,,,,70-250A,,,RP1; P1; S1/S2; P4; P5; SB; CDP6
+BRK-SIE-009,SIE,"JD family (JXD2, JXD6, JD6, HJD6, HJXD6, HHJD6, CJD6, SJD6, SHJD6, SCJD6)",JXD2; JXD6; JD6; HJD6; HJXD6; HHJXD6; CJD6; SJD6; SHJD6; SCJD6,,,,200-400A,,,RP1; P1; S1/S2; P4; P5; SB; CDP6
+BRK-SIE-010,SIE,"LD family (LXD6, LD6, HLD6, HHLD6, CLD6, SLD6, SHLD6, SCLD6)",LXD6; LD6; HLD6; HLXD6; HHLD6; CLD6; SLD6; SHLD6; SCLD6,,,,250-600A,,,P4; P5; SB; CDP6
+BRK-SIE-011,SIE,"MD / ND family (MXD6, MD6, HMD6, CMD6, SMD6, NXD6, ND6, HND6, CND6, SND6) and LMD6",MXD6; MD6; HMD6; CMD6; SMD6; SHMD6; SCMD6; NXD6; ND6; HND6; CND6; SND6; SHND6; SCND6; LMD6; HLMD6,,,,"MD to 800A, ND to 1200A",,,P5; SB; CDP6
+BRK-SIE-012,SIE,"3VA5/3VA6 (3VA52, 3VA53, 3VA54, 3VA55, 3VA57, 3VA61, 3VA62, 3VA63, 3VA64, 3VA65, 3VA66, 3VA67)",3VA52; 3VA53; 3VA54; 3VA61; 3VA62; 3VA63; 3VA64,,,,,,,RP1; P2; P3; P4; P5; SB
+BRK-SIE-013,SIE,"Sentron VL (DG, FG, JG, LG, MG, NG)",DG; FG; JG; LG; MG; NG; NF/HF/LF; NJ/HJ/LJ; NL/HL/LL; NM/HM/LM,,,,,,,P4; P5
+BRK-SIE-014,SIE,NEB / HEB,NEB; HEB,,,,,,legacy (replacement parts only),P3; P4; P5
+BRK-SIE-015,SIE,"BQ / BQH / HBQ (bolt-on, legacy)",BQ; BQH; HBQ; HB,,,,,,unknown,CDP6; SB

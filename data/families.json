@@ -1,1 +1,2408 @@
-[]
+[
+ {
+  "id": "FAM-EAT-001",
+  "mfr": "EAT",
+  "name": "Pow-R-Line C switchboard",
+  "code": "PRLC",
+  "aliases": [
+   "Pow-R-Line C",
+   "POW-R-LINE C",
+   "PRL-C",
+   "Pow-R-Line C switchboard",
+   "Type 1 Pow-R-Line C"
+  ],
+  "brand_markings": [
+   "Westinghouse",
+   "Cutler-Hammer",
+   "Eaton"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Eaton (originally Westinghouse) Class II service-distribution switchboard, UL 891 / NEMA PB-2, front- or rear-access, with individually mounted mains and group-mounted feeder chassis. Evolved from the Westinghouse WF/WRP St. Louis switchboard when the design moved to Sumter SC and Visalia CA in 1988 with the introduction of Series C breakers. Distribution chassis are laid out in X units (1X = 1-3/8 in) on 38X or 50X vertical panel space in 36 in or 45 in wide structures; device X requirements (EHD 1-3X, FD 2-3X, JD 3X, KD 4X, LD/MDL/ND 6X) parallel the PRL4 panelboard chassis. Vol 12 states breaker provisions 'are available for all ratings of the Pow-R-Line C designs including all parts required to complete the cell', but no PRLC-specific provision kit catalog numbers were found in public documents (factory/Sumter quoted).",
+  "overview_notes": [],
+  "claims": {
+   "x_unit": [
+    {
+     "value": "1X = 1-3/8 in (34.9 mm) in PRLC distribution layout",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.1-12 Fig 21.1-9",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "distribution_chassis": [
+    {
+     "value": "Distribution sections use 38X or 50X vertical panel space for devices (90 in high structures), widths 36 or 45 in",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.1-11 Fig 21.1-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "device_x_space": [
+    {
+     "value": "Fig 21.1-9 (36 in structure): EHD 100 A 1P 1X / 2P 2X / 3P 3X; FDB/FD/HFD/FDC 150 A 1-3P 1-3X; EDB/EDS/ED/EDH/EDC & FD/HFD/FDC 225 A 2P 2X 3P 3X; JD/HJD/JDC 250 A 3X; DK/KD/HKD/KDC/CKD/CHKD 400 A 4X; ELKD earth leakage 4X; LGE/LGH/LGC/LGU 600 A 4X; LD/HLD/LDC/CLD 600 A 6X; FB-P 3X; NHH/LA-P 6X; MDL/HMDL/CMDL 800 A 6X; NG/NGH/NGC 1200 A 6X. 45 in structure: twin DK/KD/HKD/KDC 4X, NB-P 6X, NG 6X. Breaker-to-fusible transition 1X; SPD 7X or 10X; customer metering 11X",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.1-12 Fig 21.1-9",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_lug_space": [
+    {
+     "value": "Main lugs only: 400/600 A 10X (2-#2-500) or 16X on 50X chassis (2-#250-750); 800 A 10X/16X; 1200-2000 A 12X/16X (38X chassis values 10-12X)",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.1-11 Table 21.1-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "renewal_parts": [
+    {
+     "value": "Eaton offers match-and-lineup PRLC structures, new breakers, breaker provisions/connectors 'available for all ratings of the Pow-R-Line C designs including all parts required to complete the cell', and switchboard structure parts",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "bus_torque": [
+    {
+     "value": "Pow-R-Line CS (Canadian derivative) manual gives busbar torque #10 30 lb-in, 1/4 in 65, 5/16 in 130, 3/8 in 240, 1/2 in 600 lb-in; 70 lb-ft when two Belleville washers per bolt. Not verified for PRLC (IM01500001E not obtained)",
+     "conf": "C",
+     "src": [
+      "SRC-00047"
+     ],
+     "page": "p. 17 Appendix A Table 2",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_kit_relationship_to_prl4": [
+    {
+     "value": "A surplus listing titles the PRL4 connector kit KPRL4KDS as 'Pow-R-Line C'; the PRLC distribution X-space table matches PRL4 kit space requirements. Not OEM-confirmed that PRL4 KPRL4 kits are listed for PRLC switchboard chassis",
+     "conf": "D",
+     "src": [
+      "SRC-00049",
+      "SRC-00043",
+      "SRC-00041"
+     ],
+     "basis": "inference",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "era": [
+    {
+     "value": "Introduced late 1980s (1988) by Westinghouse as successor to WF/WRP; built in Sumter SC and Visalia CA; current Eaton product",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5 (Chronology)",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "current (listed in April 2018 consulting guide)",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.0-8",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "240-480-600 Vac, 250 Vdc (2018 guide); 208-600 V (Vol 12 rating table)",
+     "conf": "A",
+     "src": [
+      "SRC-00043",
+      "SRC-00038"
+     ],
+     "page": "p. 21.0-9 Table 21.0-2; p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Mains 400-6000 A; switchboard bus 600-6000 A (Vol 12)",
+     "conf": "A",
+     "src": [
+      "SRC-00043",
+      "SRC-00038"
+     ],
+     "page": "p. 21.0-9 Table 21.0-2; p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "Group-mounted feeders: bolt-on molded case breakers 15-1200 A (Table 21.0-2 lists bolt-on fixed MCCB 15-2500 A), drawout MCCB 70-1200 A, fusible switches 30-1200 A. Uses Series C MCCBs (EHD, FD/HFD/FDC, ED, JD, DK/KD/HKD/KDC, LD/HLD/LDC, MDL/HMDL, NG/ND, LG, etc.)",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "pp. 21.0-8, 21.0-9, 21.1-12 Fig 21.1-9",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00043",
+   "SRC-00047",
+   "SRC-00049",
+   "SRC-00051"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-002",
+  "mfr": "EAT",
+  "name": "Westinghouse WF/WRP switchboard",
+  "code": "WF/WRP",
+  "aliases": [
+   "WF",
+   "WRP",
+   "Type WF",
+   "Type WRP",
+   "WF/WRP switchboard"
+  ],
+  "brand_markings": [
+   "Westinghouse"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Westinghouse St. Louis Class II switchboard. Type WF = front access (rear flush), Type WRP = rear access (front and rear flush). Feeders were panel-mounted molded-case breakers or FDP fusible switches — the same device family used in CDP/FDP panelboards. Eaton's Sumter aftermarket center offers 'retrofit kits for WF and WRP distribution sections' and 'connector kits for WF and WRP distribution sections' (RP01400002E p.20), and Vol 12 says provisions/connectors are available for most ratings of WF/WRP; no catalog numbers published.",
+  "overview_notes": [],
+  "claims": {
+   "aftermarket": [
+    {
+     "value": "Sumter Plant Aftermarket Center offers retrofit kits and connector kits for WF and WRP distribution sections",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 20",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "era": [
+    {
+     "value": "Introduced 1955 by Westinghouse, St. Louis MO; design transferred 1988 to Sumter SC and Visalia CA as Pow-R-Line C",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (superseded by Pow-R-Line C)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "successor": [
+    {
+     "value": "Pow-R-Line C switchboard (new PRLC match/lineup structures can connect to existing WF/WRP)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "120-600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5 ratings table",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Switchboard bus 600-4000 A; protective devices 15-4000 A; 10-200 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "Group (panel)-mounted molded-case breakers or FDP fusible switches as feeders; mains DS, SPB, bolted pressure switch (CBC) or MCCB",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "pp. V12-T15-2, V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-003",
+  "mfr": "EAT",
+  "name": "Cutler-Hammer Type ES switchboard",
+  "code": "ES",
+  "aliases": [
+   "ES switchboard",
+   "Type ES"
+  ],
+  "brand_markings": [
+   "Cutler-Hammer"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Cutler-Hammer branded service distribution switchboard using Westinghouse molded-case breakers under the 1960s supply agreement. Existing ES lineups can be extended with new Pow-R-Line C structures through a transition section.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "Introduced 1991 by Cutler-Hammer as replacement for their version of WF/WRP; Mullenbach (1962) heritage; used exclusively Westinghouse MCCBs",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (Vol 12 lists as legacy; new PRLC can connect via transition section)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "120-600 V",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "ES switchboard bus 600-4000 A; devices 15-4000 A; 10-200 kA",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-5",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-004",
+  "mfr": "EAT",
+  "name": "Pow-R-Line i switchboard",
+  "code": "PRLi",
+  "aliases": [
+   "Pow-R-Line i",
+   "PRL i",
+   "Pow-R-Line I"
+  ],
+  "brand_markings": [
+   "Cutler-Hammer",
+   "Eaton"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Rear-access, front- and rear-aligned UL 891 switchboard with individually compartmentalized feeder devices (not group-mounted). Included here for lineage; branch hardware is device-specific compartments rather than group-mounted connector kits.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "Evolved in 1991 from Asheville 'Pow-R-I' (itself from WRI); built in Sumter SC",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T15-2",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "current (2018 consulting guide)",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.0-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "4000 A main bus maximum",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.0-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "Individually compartmentalized feeders: MCCB 15-1200 A compartmentalized, fusible switches 100-1200 A, Magnum SB/DS, NRX",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.0-11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00043"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-005",
+  "mfr": "EAT",
+  "name": "Pow-R-Line CS switchboard",
+  "code": "PRLCS",
+  "aliases": [
+   "Pow-R-Line CS",
+   "PRL CS"
+  ],
+  "brand_markings": [
+   "Eaton"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Eaton Canada switchboard line documented by instruction manual IB015002EN (Nov 2021). Manual gives bus-joint torque table (Appendix A). No branch kit catalog numbers found.",
+  "overview_notes": [],
+  "claims": {
+   "bus_torque": [
+    {
+     "value": "Busbar connections: #10 30 lb-in; 1/4 in 65 lb-in; 5/16 in 130 lb-in; 3/8 in 240 lb-in; 1/2 in 600 lb-in; with two Belleville washers per bolt (convex side up) torque to 70 lb-ft",
+     "conf": "A",
+     "src": [
+      "SRC-00047"
+     ],
+     "page": "p. 17 Appendix A Table 2",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "current (Canadian market; manual IB015002EN effective Nov 2021)",
+     "conf": "B",
+     "src": [
+      "SRC-00047"
+     ],
+     "page": "cover",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00047"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-006",
+  "mfr": "EAT",
+  "name": "Integrated Facility System switchboard",
+  "code": "IFS",
+  "aliases": [
+   "Integrated Facility Switchboard",
+   "IFS switchboard"
+  ],
+  "brand_markings": [
+   "Eaton"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Free-standing front-access UL 891 switchboard that integrates standard panelboards, dry-type transformers and other equipment in 'cells'; used with Type 1 Pow-R-Line C switchboard sections.",
+  "overview_notes": [],
+  "claims": {
+   "relationship": [
+    {
+     "value": "Used with Type 1 Pow-R-Line C switchboard sections; mains/feeders selected from Section 21.1 (PRLC)",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.6-1",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "current (2018 consulting guide)",
+     "conf": "A",
+     "src": [
+      "SRC-00043"
+     ],
+     "page": "p. 21.6-1",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00043"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-007",
+  "mfr": "EAT",
+  "name": "Westinghouse CDP / HCDP panelboard",
+  "code": "CDP",
+  "aliases": [
+   "CDP",
+   "HCDP",
+   "CDP/HCDP",
+   "Westinghouse CDP"
+  ],
+  "brand_markings": [
+   "Westinghouse",
+   "Cutler-Hammer"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Westinghouse distribution (circuit-breaker) panelboard on a chassis with vertical phase busbars at 3.50 in centers and mounting rails 19.50 in apart; X unit = 1.38 in. Boxes 30, 38, 42, 48 and 50 in wide; neutral in side gutter. Branch breakers mount on breaker mounting brackets with copper connectors to the chassis bus; unused space closed by filler covers (KCDP_X). Sumter supplies KCDP connector kits (connectors+brackets+covers+hardware), KCDP retrofit kits (breaker + connector kit) and -H hardware-only kits. Older 'LB' style connectors accept Series C K-frame with TAD3 adapter.",
+  "overview_notes": [],
+  "claims": {
+   "x_unit": [
+    {
+     "value": "One X = 1.38 in (35.1 mm) of panel height; blank fillers required for unused X space",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-9",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "bus_geometry": [
+    {
+     "value": "Vertical busbars 1.38 in typ, phase centers 3.50 in, mounting rails 19.50 in (applies to CDP and FDP chassis)",
+     "conf": "A",
+     "src": [
+      "SRC-00039",
+      "SRC-00038"
+     ],
+     "page": "RP01400002E p. 17 Fig. 2; V12-T4-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "box_widths": [
+    {
+     "value": "CDP and FDP standard widths 30.00, 38.00, 42.00, 48.00 and 50.00 in; neutral located in side gutter",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 2",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "layout": [
+    {
+     "value": "Main lug top gutter 7-1/2 in; main lug section 5X 225 A, 7X 250-400 A, 9X 600 A, 12X/13X 800-1600 A; thru-feed lugs 10X 225 A, 13X 250-400 A, 17X 600-800 A; 30 in box branch: 1P EB/EHB/HFB 1X, 2P EB/EHB/FB 2X, 3P 3X, CA/CAH 2X-3X, JB/KB/HKB 3X (5 in), DA/LB/LBB/HLB 4X, LA/LC/HLC 6X, MC/HMC/NC/HNC/LCL 6X (48 in box)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-9",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "breaker_mix_rule": [
+    {
+     "value": "Only breakers of the same frame size can be installed across from each other (same horizontal plane); KD breakers can be mounted across from LB breakers if a TAD3 line side adapter is used",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7 notes 4,6",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "single_pole_note": [
+    {
+     "value": "When only one EB, EHB or HFB single-pole breaker is required with other frame size breakers, the space required changes from 1X to 2X",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-9 note 1",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "renewal_doc": [
+    {
+     "value": "Renewal parts data RP01400002E; pricing PL01400002E",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "pp. V12-T4-9, V12-T4-23",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "subchassis_note": [
+    {
+     "value": "If the CDP panelboard has a subchassis lighting panel, contact Sumter Plant Aftermarket Center (803-481-6677) for breaker selection",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 11",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "era": [
+    {
+     "value": "Westinghouse power panelboard; with FDP, encompassed most Westinghouse MCCBs for more than 34 years (to 1988 redesign); Cutler-Hammer also built CDP under supply agreement",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "pp. V12-T4-2, V12-T4-3",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; replacement panelboard type PRL4B; parts and kits from Sumter Aftermarket Center",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "pp. V12-T4-4, V12-T4-7, V12-T4-9",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "successor": [
+    {
+     "value": "PRL4B (Pow-R-Line 4B)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "1600 A maximum",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-9",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "Westinghouse E, EA, EH, F, FA (pre-1974), EB, EHB, FB, HFB, CA, JA/KA/HKA, JB/KB/HKB, DA, LA/HLA/LAB, LB/LBB/HLB, LC/HLC, MA/HMA, MC/HMC, NB/HNB, NC/HNC, Tri-Pac FB-P/LA-P/NB-P, LCL; Series C upgrades EHD, FDB, FD, HFD, FDC, ED, JD, DK, KD, LD, MDL, ND",
+     "conf": "A",
+     "src": [
+      "SRC-00038",
+      "SRC-00039"
+     ],
+     "page": "p. V12-T4-7; RP01400002E pp. 12-14",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039",
+   "SRC-00040"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-008",
+  "mfr": "EAT",
+  "name": "Westinghouse FDP fusible panelboard",
+  "code": "FDP",
+  "aliases": [
+   "FDP",
+   "Westinghouse FDP"
+  ],
+  "brand_markings": [
+   "Westinghouse"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Westinghouse fusible distribution panelboard sharing CDP chassis geometry (3.50 in phase centers, 19.50 in rails). FDPW/FDPB switch connector kits fit only 3.50 in bus spacing; if bus spacing is 4.25 in no parts are available. Circuit breakers can be added to an FDP via a 'picture frame' transition (+2X).",
+  "overview_notes": [],
+  "claims": {
+   "bus_spacing_limit": [
+    {
+     "value": "Vertical bus bars must be 3.50 in center-line phase to phase; if 4.25 in, switches will not fit and no parts are available",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 17",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "breaker_in_fdp": [
+    {
+     "value": "To install circuit breakers in an FDP panel a 'picture frame' is required; add 2X to breaker size for the transition (contact Sumter)",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "layout": [
+    {
+     "value": "Main lug section 5X 225 A, 8X 250-400 A, 9X 600 A, 12X 800-1600 A; switches 30/60/100 A 4X, 100 A 600 V 5X, 200 A 6X, 400/600 A 11X, 800/1200 A 16X horizontal or 21X vertical",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; replacement panelboard type PRL4F",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "successor": [
+    {
+     "value": "PRL4F",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "1600 A maximum",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-10",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "FDP fusible switches 30-1200 A; current replacements FDPW (30-100 A twin, 400-1200 A) and FDPB (200 A) switches via KFDP connector/retrofit kits",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "pp. 17-18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-009",
+  "mfr": "EAT",
+  "name": "Westinghouse Pow-R-Line 1 / Pow-R-Line 2 panelboard (vintage)",
+  "code": "PRL1/PRL2",
+  "aliases": [
+   "PRL1",
+   "PRL2",
+   "Pow-R-Line 1",
+   "Pow-R-Line 2",
+   "PRL1-LX"
+  ],
+  "brand_markings": [
+   "Westinghouse"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Vintage Westinghouse lighting (PRL1) and 480Y/277 V (PRL2) panelboards, 20 in wide boxes, neutral at top. Replacement connector kits KPRL1BAB / KPRL2GHB mount up to 12 poles.",
+  "overview_notes": [],
+  "claims": {
+   "box_width": [
+    {
+     "value": "Standard width 20.00 in; box depth 5.75 in",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "pp. 2-3",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "era": [
+    {
+     "value": "Westinghouse panelboards manufactured after 1988 (1988 redesign for Series C)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "pp. V12-T4-2, V12-T4-8",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; replaced by PRL1a / PRL2a",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-8",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "600 A maximum",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-15",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "PRL1: BAB, QBHW, HQP, QPHW; PRL2: GB, GHB, GHBS",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-8",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-010",
+  "mfr": "EAT",
+  "name": "Westinghouse Pow-R-Line 3 panelboard (vintage)",
+  "code": "PRL3",
+  "aliases": [
+   "PRL3",
+   "Pow-R-Line 3",
+   "PRL3-LX"
+  ],
+  "brand_markings": [
+   "Westinghouse"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Vintage Westinghouse power panelboard with lighting subchassis and vertical-bus branch area, 20 in wide. KPRL3FD/KPRL3ED/KPRL3CA connector kits; the PRL3 kits also fit WEB, WCA, WEHB, WFB and HWFB panelboards.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "discontinued; replaced by PRL3a",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-8",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "600 A maximum (400 A max bus rating for subchassis)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-16",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "BAB/QBH subchassis, GB/GHB, EHD, FDB, FD, HFD, FDC, ED, CA/CAH/HCA; mains up to JD, KD, LC/LA, LCL, LA-P",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "pp. V12-T4-8, V12-T4-16",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-011",
+  "mfr": "EAT",
+  "name": "Westinghouse WEB/WCA/WEHB/WFB/HWFB panelboards",
+  "code": "WEB",
+  "aliases": [
+   "WEB",
+   "WCA",
+   "WEHB",
+   "WFB",
+   "HWFB",
+   "WGB",
+   "WGHB"
+  ],
+  "brand_markings": [
+   "Westinghouse"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Westinghouse 1937-1988 era panelboards named for their branch breaker (E-frame, CA, F-frame, G-frame). PRL3 connector kits (KPRL3FD, KPRL3ED, KPRL3CA) fit WEB, WCA, WEHB, WFB and HWFB.",
+  "overview_notes": [],
+  "claims": {
+   "kit_fit": [
+    {
+     "value": "The PRL3 connector kits will fit the following panelboards: WEB, WCA, WEHB, WFB, and HWFB",
+     "conf": "A",
+     "src": [
+      "SRC-00039"
+     ],
+     "page": "p. 7 note",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; replacement panelboard type PRL3a (WGB/WGHB -> PRL2a)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "WEB: EB (-> EB, EHD); WEHB: EHB; WFB: FB (-> FB, FDB); WCA: CA; WGB: GB; WGHB: GHB",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00039"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-012",
+  "mfr": "EAT",
+  "name": "Westinghouse NLAB lighting panelboard",
+  "code": "NLAB",
+  "aliases": [
+   "NLAB",
+   "NLAB-LX",
+   "NLAB-AB",
+   "NLAB-ABH",
+   "NPLAB",
+   "NQB",
+   "NQP",
+   "NQC"
+  ],
+  "brand_markings": [
+   "Westinghouse"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Westinghouse plug-in/bolt-on lighting panelboards for Quicklag-type Q breakers. Vol 12 flags 'connectors not available' for this group; replacement is a new PRL1a/PRL3a interior. CDP/FDP/NQB trim clamp 414A380G02 still applies to NQB.",
+  "overview_notes": [],
+  "claims": {
+   "connectors": [
+    {
+     "value": "Connectors not available (note 2) for NLAB, NLAB-LX, NLAB-AB, NLAB-ABH, NPLAB, NQB, NQC, NQP",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "era": [
+    {
+     "value": "Westinghouse panelboards manufactured between 1937 and 1988",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; connectors not available; replace panelboard with PRL1a (NLAB, NPLAB, NQB, NQP, NQC), PRL1aLX (NLAB-LX), PRL3a (NLAB-AB/ABH)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "NLAB: QC; NPLAB/NQP: QP (new breaker HQP); NQB: BA (new BAB); NQC: QC",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-013",
+  "mfr": "EAT",
+  "name": "Westinghouse NAB / NA1B / NH1B / NDP / NEB panelboards",
+  "code": "NAB",
+  "aliases": [
+   "NAB",
+   "NA1B",
+   "NH1B",
+   "NHB",
+   "NDP",
+   "NHDP",
+   "NEB",
+   "NHEB",
+   "ABH",
+   "A2B"
+  ],
+  "brand_markings": [
+   "Westinghouse"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Westinghouse 1937-1988 lighting/appliance and distribution panelboards using E-family plug/bolt breakers. Branch breakers replaced by 'panelboard only' R-prefix breakers (REH, RHF, RHFA) supplied with mounting hardware; connector kits not available. The scope term 'NHB' is not used in Vol 12; nearest OEM designations are NH1B and NHEB.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "discontinued; connectors not available; replacement panelboard PRL3a (NAB, NA1B, NDP, NEB, NHDP, NHEB, ABH) or PRL2a (NH1B); panelboard-only replacement breaker REH/RHFA",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "E, EA, EAH, EH, FA, E-277 (replacement breaker REH; RHFA for FA)",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-014",
+  "mfr": "EAT",
+  "name": "Pow-R-Line 4 panelboard (PRL4B / PRL4F)",
+  "code": "PRL4",
+  "aliases": [
+   "PRL4B",
+   "PRL4F",
+   "Pow-R-Line 4",
+   "PRL4",
+   "PRL4X",
+   "Pow-R-Line 4B"
+  ],
+  "brand_markings": [
+   "Westinghouse",
+   "Cutler-Hammer",
+   "Eaton"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Westinghouse-origin power distribution panelboard (24, 36, 44 in box widths) that replaced CDP (PRL4B) and FDP (PRL4F). Its KPRL4 breaker connector kits (copper connectors, brackets, covers, hardware) are the most completely documented group-mount kits for Series C FD/JD/KD/LD/MDL/ND frames; included here because the same device X-spacing is used in Pow-R-Line C switchboard distribution chassis.",
+  "overview_notes": [],
+  "claims": {
+   "box_widths": [
+    {
+     "value": "PRL4 standard widths 24.00, 36.00 and 44.00 in",
+     "conf": "A",
+     "src": [
+      "SRC-00041"
+     ],
+     "page": "p. 2",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "era": [
+    {
+     "value": "PRL4B/F introduced October 1987 (originally a Westinghouse product)",
+     "conf": "A",
+     "src": [
+      "SRC-00041",
+      "SRC-00038"
+     ],
+     "page": "RP01400001E (2017) p. 2 Table 1; V12-T4-18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "current (PRL4X / Pow-R-Line Xpert naming in 2022 RP01400001E)",
+     "conf": "A",
+     "src": [
+      "SRC-00042"
+     ],
+     "page": "p. 32",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "1200 A maximum",
+     "conf": "A",
+     "src": [
+      "SRC-00038"
+     ],
+     "page": "p. V12-T4-18",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00038",
+   "SRC-00041",
+   "SRC-00042"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-EAT-015",
+  "mfr": "EAT",
+  "name": "Type BR loadcenter",
+  "code": "BR",
+  "aliases": [
+   "BR",
+   "Type BR",
+   "Bryant BR",
+   "Challenger BR"
+  ],
+  "brand_markings": [
+   "Westinghouse",
+   "Bryant",
+   "Challenger",
+   "Cutler-Hammer",
+   "Eaton"
+  ],
+  "equipment_type": "loadcenter",
+  "overview": "1-in-per-pole plug-on residential/light-commercial loadcenter family with Westinghouse/Bryant/Challenger lineage. Vol 12 Tab 5 lists replacement main/subfeed lug blocks, filler plates, interlocks and handle accessories.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "Made by Westinghouse's Bryant subsidiary, Bridgeport CT, until 1989 (Westinghouse and Bryant nameplates); Westinghouse bought Challenger Electric 1988, redesigned the product and moved production to Jackson MS; from 1995 Eaton moved all loadcenter production to Lincoln IL",
+     "conf": "A",
+     "src": [
+      "SRC-00046"
+     ],
+     "page": "p. V12-T5-2",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ],
+   "status": [
+    {
+     "value": "current (Eaton Type BR)",
+     "conf": "A",
+     "src": [
+      "SRC-00046"
+     ],
+     "page": "p. V12-T5-2",
+     "basis": "oem_spec",
+     "batch": "B0002-eaton-switchboards-legacy"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00046"
+  ],
+  "created_batch": "B0002-eaton-switchboards-legacy"
+ },
+ {
+  "id": "FAM-GEA-001",
+  "mfr": "GEA",
+  "name": "A-Series Lighting Panelboards (Types AL, AQ, AE/AS, AD / AD Plus, Lighting Control Panel, Pro-Stock AQU/AEU)",
+  "code": "A-SERIES",
+  "aliases": [
+   "A Series",
+   "A-Series II",
+   "AQ",
+   "AE",
+   "AS",
+   "AL",
+   "AD",
+   "AD Plus",
+   "AQF",
+   "AEF",
+   "Pro-Stock"
+  ],
+  "brand_markings": [
+   "GE",
+   "General Electric",
+   "GE Industrial Solutions",
+   "ABB"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "GE's lighting/appliance panelboard platform. Symmetrical 20 in wide x 5.81 in deep galvanized boxes with removable endwalls, branch-bus direct connection and captive branch hardware. Type letter indicates breaker family: AL = plug-in Q-line, AQ = bolt-on Q-line (THQB), AE = bolt-on E-frame (TEY) 480Y/277 V, AD = 600 V TED/SE/FB. Pro-Stock unassembled interiors (AQU/AEU) are completed with MB main breaker kits, ML main lug kits and NK neutral kits. Pages in the 2014 BuyLog are headed 'A-Series II' on the column-panel kit page.",
+  "overview_notes": [],
+  "claims": {
+   "dimensions": [
+    {
+     "value": "Box width 20 in, depth 5.81 in; lengths 25.5-88.5 in",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "seismic": [
+    {
+     "value": "IBC Zone 3/4 and CBC Zone 4 certified",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-3",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "status": [
+    {
+     "value": "current as of BuyLog 07/2014",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-1",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "AL/AQ 240 Vac max; AE/AS 480Y/277 Vac, 125/250 Vdc; AD 600 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-6",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Main lug 125-800 A (AD 150-800 A); main breaker up to 800 A (SK)",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4, 11-5, 11-6",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "AL plug-in THQL/THHQL/TXQL; AQ bolt-on THQB/THHQB/TXQB; AE bolt-on TEY/TEYF/TEYD/TEYH/TEYL; AD bolt-on TED/THED/SE/FB; subfeeds TQD/THQD (AQ) or TED/TFJ/SE/SF (AE/AD)",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-4 to 11-6",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00016",
+   "SRC-00017"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-GEA-002",
+  "mfr": "GEA",
+  "name": "A-Series Power Panelboards / A-Series II Power Panel (Types AQP, AEP, ADP; 'Type P & N')",
+  "code": "A-SERIES-PWR",
+  "aliases": [
+   "AQP",
+   "AEP",
+   "ADP",
+   "A-Series II Powerpanel",
+   "AD/AE/AQ Type P & N Power Panel"
+  ],
+  "brand_markings": [
+   "GE",
+   "GE Industrial Solutions",
+   "ABB"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Power-panel version of the A-Series: 30 in wide x 8 in deep box, single-piece deadfront (no filler plates needed per catalog), up to 600 A branch device, staggered center-mounted SF/SG breakers. Field breaker kits ASPP6xxxx (DEH40150-DEH40158) are installed into 'Un-Specified Space' on the interior, bolting branch bases/straps to the main bus next to the crossbar and replacing a blank shield insert on the deadfront with a breaker-specific filler plate.",
+  "overview_notes": [],
+  "claims": {
+   "dimensions": [
+    {
+     "value": "Width 30 in, depth 8 in; lengths 25.5-88.5 in",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-22",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "status": [
+    {
+     "value": "current as of BuyLog 07/2014",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-21",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Mains 125-800 A SG/SK breakers; main lug 600-800 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-22",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "AQP: QB 15-100 A, double branch TQD/SE, center-mounted SF/SG. AEP: TEY/TEYF, double branch TED/SE, center SF/SG. ADP: FB, THED, double branch TED/SE, center SF/SG",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-22",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00016",
+   "SRC-00018",
+   "SRC-00019",
+   "SRC-00020",
+   "SRC-00021",
+   "SRC-00022",
+   "SRC-00023",
+   "SRC-00024",
+   "SRC-00025",
+   "SRC-00026"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-GEA-003",
+  "mfr": "GEA",
+  "name": "A-Series Column Panelboards (ALC, AQC, AEC)",
+  "code": "A-SERIES-COL",
+  "aliases": [
+   "ALC",
+   "AQC",
+   "AEC"
+  ],
+  "brand_markings": [
+   "GE"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Narrow column-type A-Series panels (8.62 in wide x 5.81 in deep). ALC plug-in Q-line, AQC bolt-on THQB, AEC bolt-on TEY 15-80 A.",
+  "overview_notes": [],
+  "claims": {
+   "dimensions": [
+    {
+     "value": "Width 8.62 in, depth 5.81 in; lengths 37.5-76.5 in",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-9",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Main lug 125-225 A; mains THQB/THHQB/TEY/SE 100 A, TQD/THQD/SF 225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-9",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-GEA-004",
+  "mfr": "GEA",
+  "name": "Spectra Series Power Panelboards (Plug-In interior type APN; Bolt-On interior type APNB)",
+  "code": "SPECTRA-PP",
+  "aliases": [
+   "Spectra",
+   "Spectra Series",
+   "SpectraRMS",
+   "APN",
+   "APNB",
+   "Spectra Bolt-On (SBO)",
+   "Spectra Plug-In"
+  ],
+  "brand_markings": [
+   "GE",
+   "General Electric",
+   "GE Industrial Solutions",
+   "ABB"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "GE's power distribution panelboard. Two interior styles: APN plug-in (breakers bolt to AMC circuit breaker mounting modules that latch onto the interior rail and clip onto the bus; ADS fusible switch modules) and APNB bolt-on (breakers bolt to copper straps AMCB kits fastened with carriage bolts/antiturn clips to the vertical bus). Vertical space measured in X units (1X = 1-3/8 in). Box widths 27/31/36/40/44 in, APB boxes and APF fronts, AML main-lug modules, ANK/ANKN neutral kits, AEG ground kits. NOTE on 'APN': in GE nomenclature APN is the Spectra plug-in interior type code (APNB = bolt-on), while APN48/APN84/APN126 (A-Series) and APN49/APN99 (Spectra) are permanent circuit-number tab kits; no 'A-Series power panel' code APN was found.",
+  "overview_notes": [],
+  "claims": {
+   "x_unit": [
+    {
+     "value": "1X = 1 3/8 in vertical panel space",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-40 note",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "box_widths": [
+    {
+     "value": "27, 31, 36, 40, 44 in",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-34, 11-35",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "apn_meaning": [
+    {
+     "value": "APN = Panelboard Interior Type (plug-in); APNB = Panelboard Interior Type bolt-on; structure APN<X-height><amps>U[B4]",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-37",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "plug_in_vs_bolt_on": [
+    {
+     "value": "Main lug kits bolt directly to interior bus bars (either APN Plug-In Style or APNB Bolt-On Style)",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-28",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "status": [
+    {
+     "value": "Listed as current in 2014 BuyLog; a 2021/2022 ABB BuyLog TOC reportedly labels Spectra bolt-on mounting hardware 'obsoleted'",
+     "conf": "C",
+     "src": [
+      "SRC-00016",
+      "SRC-00034"
+     ],
+     "basis": "inference",
+     "note": "Obsolescence wording seen only in a search-engine summary of the blocked ABB BuyLog.",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "successor": [
+    {
+     "value": "ReliaGear neXT power panelboards (ABB) - inferred from ABB BuyLog placing 'Retrofit kit for Spectra panelboards' alongside ReliaGear neXT",
+     "conf": "D",
+     "src": [
+      "SRC-00034",
+      "SRC-00031"
+     ],
+     "basis": "inference",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "600 Vac / 250 Vdc max",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-24",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Main bus 250-1200 A Cu or Al; mains up to 1200 A lugs, breaker (SF/SG/SK/FG) or fusible switch",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-24",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "Double-branch SE, SF, SG, FG, FB, TEY, TEB, TQD (and THQB); center-mounted SK; plug-in version also ADS fusible switches 30-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-24",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00016",
+   "SRC-00027",
+   "SRC-00028",
+   "SRC-00029",
+   "SRC-00030"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-GEA-005",
+  "mfr": "GEA",
+  "name": "Spectra Series Type SCP Plus panelboards",
+  "code": "SCP-PLUS",
+  "aliases": [
+   "SCP+",
+   "SCP"
+  ],
+  "brand_markings": [
+   "GE"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Spectra-family power panel variant with its own ACB boxes (31 and 40 in wide x 11.5 in deep), ACF fronts, ACTMK/ACSMK mounting hardware kits (hardware + straps), ACTFPK/ACSFPK filler kits and ACTHK/ACSHK single-breaker hardware. Filler plates for SCP+ are to be ordered from the Houston equipment plant.",
+  "overview_notes": [],
+  "claims": {
+   "box": [
+    {
+     "value": "ACB31xxxx 31 in W x 11.5 in D; ACB40xxxx 40 in W x 11.5 in D; X heights 15-42",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-48",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-GEA-006",
+  "mfr": "GEA",
+  "name": "Type CCB and QMR power panelboards (legacy; listed under Spectra Series Power renewal parts)",
+  "code": "CCB-QMR",
+  "aliases": [
+   "CCB",
+   "QMR",
+   "CDP?"
+  ],
+  "brand_markings": [
+   "GE",
+   "General Electric"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Older GE power panelboards. Breakers mount with copper strap kits suffixed DPK (dual/twin mount) or SPK (single mount) usable on Cu or Al main bus; device product number + suffix ordered as a unit. Replacement CCB fronts CBAxxxxS/F and boxes DASW/DACB; filler plates CCBFPx/QMRFPx. QMR used THFP fusible switches. CDP is named in the batch scope but no CDP-specific data was found.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "Renewal parts still listed 2014; QMR fusible switches 'Limited availability. Obsolete when inventory depleted.'",
+     "conf": "A",
+     "src": [
+      "SRC-00016"
+     ],
+     "page": "p.11-49 to 11-51",
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00016"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-GEA-007",
+  "mfr": "GEA",
+  "name": "NAB / NHB bolt-on panelboards (legacy)",
+  "code": "NHB",
+  "aliases": [
+   "NAB",
+   "NHB",
+   "NLAB?"
+  ],
+  "brand_markings": [
+   "General Electric"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Legacy GE bolt-on panelboard line. Only distributor evidence found (NHB150PK twin-mount hardware). No OEM document for NHB or NLAB located in this batch.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "discontinued (legacy); hardware sold as new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00032"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "E-frame bolt-on TEB/TED/TEC/THED and SEDA (per distributor)",
+     "conf": "C",
+     "src": [
+      "SRC-00032"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00032",
+   "SRC-00033"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-GEA-008",
+  "mfr": "GEA",
+  "name": "ReliaGear neXT Power Panelboards",
+  "code": "RG-NEXT",
+  "aliases": [
+   "ReliaGear neXT",
+   "ReliaGear OEM neXT"
+  ],
+  "brand_markings": [
+   "ABB",
+   "GE"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "ABB's post-2018 power panelboard (doc 1SXU900191B0201, 2022). ABB states there is a single catalog number for all circuit breaker installation kits; that number was not found in accessible sources.",
+  "overview_notes": [],
+  "claims": {
+   "voltage_rating": [
+    {
+     "value": "up to 600 Vac 3ph3w / 600Y/347 V",
+     "conf": "A",
+     "src": [
+      "SRC-00031"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Bus 250-1200 A Cu or Al; MLO, MCB (vertical or horizontal) or feed-through lug pads",
+     "conf": "A",
+     "src": [
+      "SRC-00031"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "Tmax XT1/XT4/XT5/XT6/XT7, Record Plus FB (FBV/FBN/FBH/FBL), TEY (TEYD/TEYH/TEYL); 15-1200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00031"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00031",
+   "SRC-00034"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-GEA-009",
+  "mfr": "GEA",
+  "name": "AV-Line switchboards (legacy)",
+  "code": "AV-LINE",
+  "aliases": [
+   "AV Line",
+   "AV-Line"
+  ],
+  "brand_markings": [
+   "General Electric"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Legacy GE distribution switchboard; only surplus listings (800-1600 A, 208Y/120 to 480Y/277 V, Power Break mains) were found. No OEM document located.",
+  "overview_notes": [],
+  "claims": {
+   "ratings": [
+    {
+     "value": "Surplus units listed at 800, 1200, 1600 A; 120/208 and 480 V 3ph4w",
+     "conf": "C",
+     "src": [
+      "SRC-00037"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0005-ge-abb"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00037"
+  ],
+  "created_batch": "B0005-ge-abb"
+ },
+ {
+  "id": "FAM-SIE-001",
+  "mfr": "SIE",
+  "name": "Type P1 (Revised P1)",
+  "code": "RP1",
+  "aliases": [
+   "Revised P1",
+   "New Revised P1",
+   "NextGen P1",
+   "P1...T",
+   "P1...N"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Siemens 20in wide x 5.75in deep bolt-on lighting/appliance panelboard, 250A or 400A bus, split (cross-bussed) neutral at both ends of an open-ended bus. Field-convertible mains: main lug kits (MLK*) or horizontal main/subfeed strap kits (MBK*) through 250A, vertical 400A main. Catalog numbers end in T (feed-thru/subfeed space) or N (non-feed-thru, 6in shorter box). Revised P1 kits are not interchangeable with original P1, S1/S2 or SE panels.",
+  "overview_notes": [],
+  "claims": {
+   "branch_connection_limit": [
+    {
+     "value": "All configurations allow 125A per connection max (250A per pair); 18-circuit 250A Revised P1 limited to 100A per connection (200A per pair) with BL/BQD/xGB across from each other",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-12 footnote",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "era": [
+    {
+     "value": "Introduced 2015 per SpeedFax p.11-7 note ('Revised P1 was introduced in 2015'); p.11-11 table header says 'Revised P1 introduced 2014'",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "pp.11-7, 11-11",
+     "basis": "oem_spec",
+     "note": "OEM document is internally inconsistent (2014 vs 2015)",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-11",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "voltage_rating": [
+    {
+     "value": "240V AC max for P1A/P1X; 480Y/277V for P1E/P18; 600Y/347V limited (factory only)",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "pp.11-7, 11-24",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "250A or 400A bus; 400A max mains",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "pp.11-7, 11-24",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "BL/BLH/HBL, BQD, BT twin (P1A/P1X/P1E); xGB (NGB/HGB/LGB) and 3VA41 (P18 interiors only)",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "pp.11-7, 11-16",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00001",
+   "SRC-00005",
+   "SRC-00008"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-002",
+  "mfr": "SIE",
+  "name": "Type P1 (original)",
+  "code": "P1",
+  "aliases": [
+   "Original P1",
+   "P1 (pre-2014/2015)"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Original Siemens P1 lighting panelboard (pre-revision), 20in wide x 5.75in deep, main lug or main/subfeed strap kits through 400A. Subfeed space standard. Catalog numbers like Revised P1 but without the T suffix, up to 42 circuits. Kits for original P1 (MBKBL1, MBKED3, MBKQR3, MLKA3 etc.) are strap-only (breakers not included) and also fit 250A-max S1/S2 panels.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "Pre-2014/2015 (replaced by Revised P1); listed in SPEEDFAX 2007-2008",
+     "conf": "A",
+     "src": [
+      "SRC-00001",
+      "SRC-00004"
+     ],
+     "page": "s1 p.11-7, s4 p.10-17",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (kits still offered)",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-15",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "successor": [
+    {
+     "value": "Revised P1 (RP1)",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-7",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "BL, BLH, HBL, BQD, NGB/HGB/LGB",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p.10-18",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00001",
+   "SRC-00004"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-003",
+  "mfr": "SIE",
+  "name": "Type S1 / S2 lighting panelboards",
+  "code": "S1/S2",
+  "aliases": [
+   "S1",
+   "S2",
+   "Sentron S1",
+   "Sentron S2"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Earlier Siemens (Sentron-era) bolt-on lighting panelboards preceding P1/P2. SpeedFax states that all original P1 kits for 250A-and-below panels work in 250A-max S1/S2 panels; 400/600A S1/S2 use the SMBK* strap kits. Revised P1 kits will not work in S1/S2.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "discontinued; some kits available",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "pp.11-15, 11-20",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "successor": [
+    {
+     "value": "P1 / P2",
+     "conf": "C",
+     "src": [
+      "SRC-00001"
+     ],
+     "basis": "inference",
+     "note": "Implied by SpeedFax grouping; not stated explicitly",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-004",
+  "mfr": "SIE",
+  "name": "Type SE panelboard",
+  "code": "SE",
+  "aliases": [
+   "SE panels"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Legacy Siemens panelboard type grouped with S1/S2 in SpeedFax replacement tables. SMBK* strap kits fit all SE panels; only AL 250A MLO kits (MLKA1/MLKA3) available for SE. Construction details unknown.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "discontinued",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-15",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-005",
+  "mfr": "SIE",
+  "name": "Type P2 panelboard",
+  "code": "P2",
+  "aliases": [
+   "P2"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Siemens bolt-on lighting/distribution panelboard with unit-space construction; branch devices installed via field strap kits (BBK*) in 3in or 6in increments; deadfront uses center strips (DFK*) and blank plates (DFFP3/DFFP6).",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-42",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "branch_breakers": [
+    {
+     "value": "BL/BQD, xGB/3VA41, ED, GB2, QR, 3VA52/61/62 via strap kits",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-53",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00001",
+   "SRC-00006"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-006",
+  "mfr": "SIE",
+  "name": "Type P3 panelboard",
+  "code": "P3",
+  "aliases": [
+   "P3"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Siemens 24in wide x 7.75in deep lighting/distribution panelboard sized like a lighting panel; unit-space construction with twin-mount strap kits (BBKB32 etc.), QJ/QR twin kits and 3VA52 twin kits (max 6 large-frame breakers in unit space).",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-58",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00001",
+   "SRC-00006"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-007",
+  "mfr": "SIE",
+  "name": "Type P4 / S4 / Sentron SPP (10in deep) power panelboard",
+  "code": "P4",
+  "aliases": [
+   "S4",
+   "SPP",
+   "Sentron SPP shallow",
+   "F1",
+   "FPP (10in)"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Siemens 10in-deep distribution (power) panelboard. Branch circuit breakers mount in unit space on 'Connecting Strap Kits' (S* series, e.g. SBL, SE6, SQR, SF6, SJ1, SL6) supplied without breaker; fusible branches use F6xx kits. Same strap kit family serves Type S4 and Sentron SPP shallow panels.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-89",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Branch devices to 800A (MG1) per strap kit table",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-96",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-008",
+  "mfr": "SIE",
+  "name": "Type P5 / S5 / Sentron SPP deep (12.75in deep) power panelboard",
+  "code": "P5",
+  "aliases": [
+   "S5",
+   "SPP deep",
+   "Sentron Deep",
+   "F2",
+   "FPP deep"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "panelboard",
+  "overview": "Siemens 12.75in-deep distribution panelboard. Branch connecting strap kits carry a 'D' suffix (SBLBD, SE6D, SF6D, SJ1D, SMND...). SpeedFax footnote: these kits also fit Types FCI, FCII, SB1 and SB2 switchboards.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-103",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "main_ampacity": [
+    {
+     "value": "Branch devices to 1200A (NG1D/SMND)",
+     "conf": "A",
+     "src": [
+      "SRC-00001"
+     ],
+     "page": "p.11-110",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00001"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-009",
+  "mfr": "SIE",
+  "name": "Type SB1 / SB2 / SB3 distribution switchboards",
+  "code": "SB",
+  "aliases": [
+   "SB1",
+   "SB2",
+   "SB3",
+   "SB4 (blank plates only)"
+  ],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Siemens front-accessible distribution switchboards. Branch MCCBs mount in distribution sections via 'Connection Strap Kits' (same D-suffix kits as P5: SBLBD, SE6D, SF6D, SJ1D, SMND etc. plus S3VA*TD kits), unit space covered with 6FPB blank plates.",
+  "overview_notes": [],
+  "claims": {
+   "status": [
+    {
+     "value": "current",
+     "conf": "A",
+     "src": [
+      "SRC-00002"
+     ],
+     "page": "p.11-2",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00002",
+   "SRC-00001",
+   "SRC-00003"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ },
+ {
+  "id": "FAM-SIE-010",
+  "mfr": "SIE",
+  "name": "Series 5 / Series 6 CDP, VB5/VB6 panelboards and FC20 / FCI / FCII switchboards (ITE / Siemens-Allis heritage)",
+  "code": "CDP6",
+  "aliases": [
+   "CDP-5",
+   "CDP-6",
+   "CDP6",
+   "SPP6",
+   "VB-5",
+   "VB-6",
+   "FC20",
+   "FC-20",
+   "FCI",
+   "FC-I",
+   "FCII",
+   "FC-II",
+   "FCRS",
+   "Class II"
+  ],
+  "brand_markings": [
+   "ITE",
+   "Gould ITE",
+   "Siemens-Allis",
+   "Siemens"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Legacy distribution panelboard and switchboard lines served by the Series 6 connecting strap kits (6E62, 6F62, 6JJ62, 6LL61...) and 6FPB blank plates. 2005 Siemens price list states these kits fit 'switchboards manufactured since 1974'. Equipment lineage (ITE/Gould-ITE/Siemens-Allis) for each type not confirmed in OEM documents in this batch.",
+  "overview_notes": [],
+  "claims": {
+   "era": [
+    {
+     "value": "Strap kits fit switchboards manufactured since 1974",
+     "conf": "A",
+     "src": [
+      "SRC-00003"
+     ],
+     "page": "p.8-13",
+     "basis": "oem_spec",
+     "batch": "B0006-siemens-ite"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued equipment; strap kits still catalogued (Canada)",
+     "conf": "B",
+     "src": [
+      "SRC-00002"
+     ],
+     "page": "p.11-15",
+     "basis": "oem_spec",
+     "note": "Equipment status inferred from absence in current US SpeedFax",
+     "batch": "B0006-siemens-ite"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00003",
+   "SRC-00001",
+   "SRC-00002"
+  ],
+  "created_batch": "B0006-siemens-ite"
+ }
+]

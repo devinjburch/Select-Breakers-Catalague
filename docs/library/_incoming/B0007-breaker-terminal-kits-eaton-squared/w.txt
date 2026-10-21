@@ -1,0 +1,793 @@
+    2.3                               Molded Case Circuit Breakers
+                                      Series C
+
+
+
+    Product Selection
+2
+    Types LD, HLD and LDC Thermal-Magnetic Circuit Breakers with Interchangeable Trip Units
+2                                      Standard Interrupting        High Interrupting           Ultra High Interrupting
+                                       Capacity                     Capacity                    Capacity Current Limiting
+2                                      600 Vac Rated
+                                       35 kAIC at 480 Vac
+                                                                    600 Vac Rated
+                                                                    65 kAIC at 480 Vac
+                                                                                                600 Vac Rated
+                                                                                                100 kAIC at 480 Vac
+                                                                                                                             Thermal-Magnetic
+                                                                                                                             Trip Unit Only
+
+2   Maximum
+                                       Factory Assembled
+                                       Circuit Consisting of        Factory Assembled            Factory Assembled Circuit   For Use with Standard
+                                                                                                                                                     Standard Terminals Only
+
+    Continuous                         Frame, Trip Unit and         Circuit Consisting of Frame, Consisting of Frame,        or High or Ultra High   See Page V4-T2-203 for
+2   Ampere
+    Rating
+                                       Terminals
+                                       Catalog
+                                                                    Trip Unit and Terminals
+                                                                    Catalog
+                                                                                                 Trip Unit and Terminals
+                                                                                                Catalog
+                                                                                                                             Interrupting Frames
+                                                                                                                             Catalog
+                                                                                                                                                     Optional Terminals
+                                                                                                                                                     Catalog
+
+2
+    at 40 °C 1                         Number                       Number                      Number                       Number                  Number
+    Two-Pole
+
+2   300                                LD2300                       HLD2300                     LDC2300                      LT2300T                 TA602LD 2
+    350                                LD2350                       HLD2350                     LDC2350                      LT2350T                 TA602LD 2
+2   400                                LD2400                       HLD2400                     LDC2400                      LT2400T                 TA602LD 2
+    450                                LD2450                       HLD2450                     LDC2450                      LT2450T                 TA602LD 2
+2   500                                LD2500                       HLD2500                     LDC2500                      LT2500T                 TA602LD 2
+
+2   600                                LD2600                       HLD2600                     LDC2600                      LT2600T                 2TA603LDK 3
+    Three-Pole
+
+2   300                                LD3300                       HLD3300                     LDC3300                      LT3300T                 TA602LD 2
+    350                                LD3350                       HLD3350                     LDC3350                      LT3350T                 TA602LD 2
+2   400                                LD3400                       HLD3400                     LDC3400                      LT3400T                 TA602LD 2
+
+2
+    450                                LD3450                       HLD3450                     LDC3450                      LT3450T                 TA602LD 2
+    500                                LD3500                       HLD3500                     LDC3500                      LT3500T                 TA602LD 2
+
+2   600                                LD3600                       HLD3600                     LDC3600                      LT3600T                 3TA603LDK 3
+    Four-Pole 4
+2   300                                LD4300                       HLD4300                     LDC4300                      LT4300T                 TA602LD 2
+    350                                LD4350                       HLD4350                     LDC4350                      LT4350T                 TA602LD 2
+2   400                                LD4400                       HLD4400                     LDC4400                      LT4400T                 TA602LD 2
+
+2   450
+    500
+                                       LD4450
+                                       LD4500
+                                                                    HLD4450
+                                                                    HLD4500
+                                                                                                LDC4450
+                                                                                                LDC4500
+                                                                                                                             LT4450T
+                                                                                                                             LT4500T
+                                                                                                                                                     TA602LD 2
+                                                                                                                                                     TA602LD 2
+
+2   600                                LD4600                       HLD4600                     LDC4600                      LT4600T                 4TA603LDK 3
+
+
+2
+    Types LD, HLD and LDC Thermal-Magnetic Circuit Breakers—Frame Only
+2                                                                                              Ultra High Interrupting
+    Standard Interrupting                        High Interrupting Capacity                    Capacity Current Limiting
+
+2   Capacity 600 Vac Rated
+    35 kAIC at 480 Vac
+                                                 600 Vac Rated
+                                                 65 kAIC at 480 Vac
+                                                                                               600 Vac Rated
+                                                                                               100 kAIC at 480 Vac
+    Catalog                                      Catalog                                       Catalog
+2   Number                                       Number                                        Number
+    Two-Pole
+2   LD2600F                                      HLD2600F                                      LDC2600F
+
+2   Three-Pole
+    LD3600F                                      HLD3600F                                      LDC3600F
+
+2   Four-Pole
+    LD4600F                                      HLD4600F                                      LDC4600F
+2   Notes
+    1 Magnetic trip range 5–10 times continuous ampere rating.
+
+2   2 Individually packed.
+    3 Terminal kits contain one terminal for each pole and one terminal cover.
+
+2   4 Neutral is in right pole.
+
+
+
+
+2
+2
+    V4-T2-188                Volume 4—Circuit Protection CA08100005E—October 2015 www.eaton.com
+    2.3                  Molded Case Circuit Breakers
+                         Series C
+
+
+
+    Type LDB Thermal-Magnetic Circuit Breakers with                     Molded Case Switches
+2   Non-Interchangeable Trip Units 1                                    Eaton’s molded case                                components and are of the
+                                                                        switches are used as                               high instantaneous automatic
+2
+                    600 Vac Rated, 250 Vdc
+                    Complete Circuit Breaker                            compact switches in                                type. Molded case switches
+                    Without Line and           With Standard Line and   applications requiring high                        are listed in accordance with
+2   Maximum
+    Continuous      Load Terminals             Load Terminals Only      current switching capabilities.                    Underwriters Laboratories
+    Ampere          Catalog                    Catalog                  Molded case switches are                           Standard UL 489.
+2   Rating          Number                     Number                   constructed of circuit breaker
+    Two-Pole
+2   300             LDB2300W                   LDB2300
+                                                                        Molded Case Switches
+    350             LDB2350W                   LDB2350
+2   400             LDB2400W                   LDB2400
+                                                                                                   600 Vac Maximum, 250 Vdc
+                                                                                                   Circuit Breaker Only
+                                                                                                                                   Standard Terminals Only
+                                                                        Maximum
+2   450             LDB2450W                   LDB2450                  Continuous
+                                                                        Ampere
+                                                                                                   without Line and Load
+                                                                                                   Terminals
+                                                                                                                                   See Page V4-T2-203 for
+                                                                                                                                   Optional Terminals
+    500             LDB2500W                   LDB2500
+                                                                        Rating                     Catalog                         Catalog
+2   600             LDB2600W                   LDB2600                  at 40 °C                   Number                          Number
+    Three-Pole                                                          Two-Pole
+2   300             LDB3300W                   LDB3300                  600                        LD2600WK                        2TA603LDK
+
+2
+    350             LDB3350W                   LDB3350                  600                        LDB2600WK 1                     2TA603LDK
+    400             LDB3400W                   LDB3400                  600                        HLD2600WK                       2TA603LDK
+
+2   450             LDB3450W                   LDB3450                  Three-Pole
+    500             LDB3500W                   LDB3500                  600                        LD3600WK                        3TA603LDK
+2   600             LDB3600W                   LDB3600                  600                        LDB3600WK 1                     3TA603LDK
+                                                                        600                        HLD3600WK                       3TA603LDK
+2                                                                       Four-Pole
+
+2                                                                       600                        LD4600WK                        4TA603LDK
+                                                                        600                        LDB4600WK 1                     4TA603LDK
+
+2                                                                       600                        HLD4600WK                       4TA603LDK
+
+
+2
+                                                                        Notes
+                                                                        1 Factory sealed—suitable for reverse feed application.
+
+                                                                        Molded case switch will trip above 6000 amperes.
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+    V4-T2-190      Volume 4—Circuit Protection CA08100005E—October 2015 www.eaton.com
+                                                                                         Molded Case Circuit Breakers
+                                                                                                                                             Series C
+                                                                                                                                                                         2.3
+Accessories Selection Guide and Ordering Information
+                                                                                                                                                                                         2
+Line and Load Terminals                             L-Frame circuit breaker line                       breaker before installation of          Ordering Information
+Eaton’s line and load                               and load terminals are                             the conductors. (Applies to all         L-Frame circuit breakers use              2
+terminals provide wire                              shipped separately for field                       styles.) The circuit breaker            Cu/AI terminals as standard.
+connecting capabilities for                         installation.                                      line/load terminal conductors
+                                                                                                       are positioned in the
+                                                                                                                                               When optional copper                      2
+specific ranges of continuous                       The wire connecting terminal                                                               terminals are required, order
+current ratings and wire
+types. All terminals comply
+                                                    is secured with two pan-
+                                                                                                       conducting holes in the wire
+                                                                                                       connecting terminal and are
+                                                                                                                                               by catalog Number. Specify if
+                                                                                                                                               factory installation is required.
+                                                                                                                                                                                         2
+                                                    head, slotted screws and                           secured with recessed socket
+with Underwriters
+Laboratories Standards UL
+                                                    lockwashers that can be
+                                                    checked for the correct
+                                                                                                       screws that are tightened to                                                      2
+486A and UL 486B and CSA                                                                               the correct torque loading
+Standard C22.2 No. 65M.
+                                                    torque loading or retightened
+                                                    from the front of the circuit
+                                                                                                       from the front of the circuit                                                     2
+Unless otherwise specified,                                                                            breaker.
+                                                                                                                                                                                         2
+Terminals
+TA401LD or TA603LD                                                                                                                                                                       2
+Terminal (Step-Type
+Terminal Requires
+Terminal Cover and                               Pan-Head Screws
+                                                                                                          Pan-Head Screws and
+                                                                                                          Lockwashers (Installed                                                         2
+Warning Label.                                   and Lockwashers        TA450LD or TA602LD or             before Cable Clamping
+See Inset.)                                                             T602LD Terminal                   Screws)                                                                        2
+                                                                                                                                                        Terminal Cover
+                                                                                                                                                                                         2
+                                                                                                                                                                                         2
+                                                                                                                                                                                         2
+                                                                                                                                                                                         2
+
+                                                                                                                                                             Warning Label
+                                                                                                                                                                                         2
+                                                                                                                                                             Retainer                    2
+                                                                                                                                                             Screws
+                                                                                                                                                                                         2
+                                                                                 Circuit Breaker
+                                                                                 Line Terminal Cover                                                                                     2
+                                                                                                                                                                                         2
+Line and Load Terminals
+                                                                                                                                                         Terminals with
+                                                                                                                                                                                         2
+                                                                                                                                                                                         2
+Maximum                Terminal                           AWG Wire                                              Terminal                                 Control Wire Termination
+Breaker                Body                 Wire          Range/Number                  Metric Wire                                Catalog               Catalog
+Amperes                Material             Type          of Conductors                 Range mm2               Poles              Number                Number
+Standard Cu/AI Pressure Terminals                                                                                                                                                        2
+400
+400
+                       Aluminum
+                       Aluminum
+                                            Cu/AI
+                                            Cu/AI
+                                                          4/0–600 (1)
+                                                          4/0–600 (1)
+                                                                                        120–300
+                                                                                        120–300
+                                                                                                                Two-pole kit 1
+                                                                                                                Three-pole kit 1
+                                                                                                                                   2TA401LDK
+                                                                                                                                   3TA401LDK
+                                                                                                                                                         —
+                                                                                                                                                         —
+                                                                                                                                                                                         2
+400                    Aluminum             Cu/AI         4/0–600 (1)                   120–300                 Four-pole kit 1    4TA401LDK             —                               2
+                                                                                                                2
+450                    Aluminum             Cu/AI         4–4/0 (2)                     25–95                                      TA450LD               —
+500                    Aluminum             Cu/AI         3/0–350 (2)                   95–150                  2
+                                                                                                                                   TA602LD               TA602LDCW                       2
+600                    Aluminum             Cu/AI         400–500 (2)                   185–240                 Two-pole kit 1     2TA603LDK             2TA603LDKCW
+600                    Aluminum             Cu/AI         400–500 (2)                   185–240                 Three-pole kit 1   3TA603LDK             3TA603LDKCW
+                                                                                                                                                                                         2
+600                    Aluminum             Cu/AI         400–500 (2)                   185–240                 Four-pole kit 1    4TA603LDK             4TA603LDKCW
+                                                                                                                                                                                         2
+Optional Copper and Cu/AI Pressure Type Terminals
+600                    Copper               Cu            250–350 (2)                   120–250                 2
+                                                                                                                                   T602LD                T602LDCW                        2
+                                                                                                                                                                                         2
+Notes
+1 Terminal kits contain one terminal for each pole and one terminal cover.
+2 Individually packed.
+
+                                                                                                                                                                                         2
+                                                                             Volume 4—Circuit Protection CA08100005E—October 2015 www.eaton.com                              V4-T2-203
+    2.4                    Molded Case Circuit Breakers
+                           Definite Purpose
+
+
+
+    Features
+2
+    Base Mounting Hardware            Base Mounting Hardware
+2   English base mounting                                             Catalog Number
+    hardware is included with
+2
+                                      Frame                           English                         Metric
+    GP frame only. For all other
+                                      GP                              Included                        —
+    frames, order base mounting
+2   hardware separately as per
+    the table to the right.
+                                      FP
+                                      KP
+                                                                      BMH1
+                                                                      BMH3
+                                                                                                      BMH1M
+                                                                                                      BMH3M
+
+2                                     LP
+                                      MP
+                                                                      BMH4
+                                                                      BMH5
+                                                                                                      BMH4M
+                                                                                                      BMH5M
+
+2                                     Note: Base mounting hardware, is included with GP-Frame breakers.
+                                      A separate catalog number is not required.
+
+2   Line and Load Terminals           Line and Load Termination
+2   Both line and load terminals
+    are included with GP-Frame        Breaker
+                                                    Termination
+                                                    Type
+                                                                       Awg Wire
+                                                                       Range
+                                                                                        Metric Wire
+                                                                                        Range (mm)
+                                                                                                          Wire
+                                                                                                          Type
+                                                                                                                     Bolt Size
+                                                                                                                     English
+                                                                                                                                  Bolt Size
+                                                                                                                                  Metric
+                                                                                                                                               Torque
+                                                                                                                                               Lb–In
+                                                                                                                                                            Torque
+                                                                                                                                                            Nm
+                                                                                                                                                                      Catalog
+                                                                                                                                                                      Number
+    Definite Purpose breakers.
+2   For all other frames, add “L”
+                                      GP            Wire               #14–1/0          2.5–50            Cu only    —            —            45           5.1       Included
+
+    for line and load terminals
+2   to be included or “W” for
+                                      Optional Line and Load Terminals
+    no terminals.
+2                                                          Maximum                 Awg Wire                Wire                  Catalog
+                                                                                                                                                        Catalog Number
+                                                                                                                                                        with Control Wire
+                                      Breaker              Amperes                 Range                   Type                  Number                 Termination
+2                                     FP                   100                     #14–#10                 Cu/Al                 3T100FB 1              —
+
+2                                                          100
+                                                           100
+                                                                                   #8
+                                                                                   #6–#4
+                                                                                                           Cu/Al
+                                                                                                           Cu/Al
+                                                                                                                                 3T100FB 1
+                                                                                                                                 3T100FB 1
+                                                                                                                                                        —
+                                                                                                                                                        —
+
+2                                                          100
+                                                           200
+                                                                                   #3–4/0
+                                                                                   #3–4/0
+                                                                                                           Cu/Al
+                                                                                                           Cu only
+                                                                                                                                 3T100FB 1
+                                                                                                                                 3T150FB 1
+                                                                                                                                                        —
+                                                                                                                                                        —
+
+2                                                          225                     #4–4/0                  Cu/Al                 3TA225FB 1             —
+                                                           225                     #6–300                  Cu/Al                 3TA225FDK 1            —
+
+2                                     KP                   400                     250–500 (1)             Cu/Al                 TA350K                 —
+                                                           400                     3/0–250 (2)             Cu/Al                 3TA400K 1              3TA400KCW
+2                                     LP                   500                     250–350 (2)             Cu/Al                 TA602LD                TA602LDCW
+                                                           600                     400–500 (2)             Cu/Al                 3TA603LDK 1            3TA603LDKCW
+2                                     MP                   800                     3/0–400 (3)             Cu/Al                 TA800MA2               TA800MA2CWT
+                                                           800                     500–750 (2)             Cu/Al                 TA801MA                TA801MACWT
+2                                     Note
+    Accessories                       1 Package of three terminals.
+
+2                                     End Cap Accessory Kit
+    End Cap Accessory Kit
+2   End caps for line and load
+    conductor termination are
+2   optional with each breaker.
+    End caps secure the
+    conductor with a ring-type
+2   connector. The kit includes
+    one end cap, three cap
+2   screws, three nuts and three
+    lock washers.
+2   Series C Accessories
+2   For internal accessories, see
+    Page V4-T2-273.
+
+2   For external accessories, see
+    Page V4-T2-304.
+2
+2
+2
+    V4-T2-334        Volume 4—Circuit Protection CA08100005E—October 2015 www.eaton.com
+                                                              Molded Case Circuit Breakers
+                                                                                                      Specialty Breakers
+                                                                                                                                                 2.6
+Accessories Selection Guide and Ordering Information                 Options and Accessories
+                                                                                                                                                                2
+Enclosures
+                                                                                                                                                                2
+                                                                     Standard Terminals
+Type 1 General Purpose           as a main disconnect and
+                                                                     Breaker      Max. Amp        AWG Wire                   Metric Wire       Catalog
+                                 protective device for feeder                                                                Range mm2
+                                                                                                                                                                2
+●   Surface or flush mounting                                        Frame        Rating          Range                                        Number
+                                 circuits. Ratings through
+●   15–1200 ampere range         1200 amperes are listed by          FG           100             14–1/0                     2.5–50            3T100FB 1
+●   600 Vac, 500 Vdc             Underwriters Laboratories as
+                                 suitable for service entrance
+                                                                     FG           150             4–4/0                      25–95             3TA225FD 1
+                                                                                                                                                                2
+Type 1 enclosed breakers                                             JG           250             4–350 kcmil                25–185            TA250KB
+are designed for use in
+                                 application.
+                                                                     KG           350             250–500 kcmil              120–240           TA350K           2
+commercial buildings,            Type 12 Dustproof Surface           KG           400             3/0–250 kcmil (2)          95–120            3TA400K 1
+apartment buildings and
+other areas where a general
+                                 Mounting
+                                                                     LG           600             250–500 kcmil (2)          120–240           3TA603LDK        2
+                                 ●   No knockouts or other
+purpose enclosure is
+applicable. The breaker is           openings
+                                                                     NG
+                                                                     NG
+                                                                                  700
+                                                                                  1000
+                                                                                                  1–500 kcmil (2)
+                                                                                                  3/0–400 kcmil (3)
+                                                                                                                             50–300
+                                                                                                                             95–185
+                                                                                                                                               TA700NB1
+                                                                                                                                               TA1000NB1
+                                                                                                                                                                2
+front operable and is capable    ●   15–1200 ampere range
+of being padlocked in either     ●   600 Vac, 500 Vdc                NG           1200            4/0–500 kcmil (4)          120–300           TA1200NB1        2
+the ON or OFF position.
+Ratings through 1200             The Type 12 enclosure is
+                                 designed in line with               Neutral Kits, Insulated and Groundable                                                     2
+amperes are listed with
+                                 specifications for special
+Underwriters Laboratories as
+approved for service entrance    industry applications where
+                                                                     Max. Enclosure
+                                                                     Rating (Amperes)
+                                                                                             Main Lug Number
+                                                                                             Size Cu/Al
+                                                                                                                             Ground Lug
+                                                                                                                             Size Cu/Al
+                                                                                                                                               Catalog
+                                                                                                                                               Number           2
+                                 unusually severe conditions
+application. Both surface and
+                                                                                                                                                                2
+                                                                     100                     (1) 14–1/0                      (1) 14–1/0        INK100
+flush mounted enclosures are     involving oil, coolant, dust and
+                                                                     250                     (1) 6–350 kcmil                 (1) 4–300 kcmil   INK250
+available.                       other foreign materials exist
+
+Type 3R Rainproof Surface
+                                 in the operating atmosphere.
+                                 The handle padlocks in the
+                                                                     400                     (1) 4–750 kcmil or
+                                                                                             (2) 1/0–250 kcmil
+                                                                                                                             (1) 4–300 kcmil   INK400
+                                                                                                                                                                2
+Mounting                         OFF position and the cover is
+                                 interlocked with the handle
+                                                                     600                     (2) 250–500 kcmil               (1) 4–300 kcmil   INK600
+                                                                                                                                                                2
+●   Interchangeable hubs                                             1200                    (3) 1/0 to 750 kcmil or         (1) 6–250 kcmil   INK1200
+                                 mechanism to prevent
+    (through 400 amperes)        opening the cover with the
+                                                                                             (4) 1/0 to 750 kcmil
+                                                                                                                                                                2
+●   15–1200 ampere range         circuit breaker in the ON
+●   600 Vac, 500 Vdc             position. Ratings through           Internal Accessories                                                                       2
+                                 1200 amperes are listed by
+This general purpose outdoor
+service center employs a
+                                 Underwriters Laboratories as
+                                 suitable for service entrance
+                                                                     Auxiliary Switch 2                                                                         2
+circuit breaker inside a                                                                              1A-1B                                    2A-2B
+weatherproof sheet steel
+                                 application.
+                                                                     Breaker        Factory           Field Kit                  Factory       Field Kit        2
+breaker enclosure to serve                                           Frame          Mounted           Catalog Number             Mounted       Catalog Number
+                                                                     FG 3           A06               A1X1PK                     A13           A2X1RPK          2
+Enclosure Selection Data                                             JG             A06               A1X2PK                     A13           A2X2PK
+Breaker                                                              KG             A06               A1X3PK                     A13           A2X3PK
+                                                                                                                                                                2
+Frame               Enclosure           Catalog
+Amperes             Type Class          Number
+                                                                     LG             A06               A1X4PK                     A13           A2X4PK
+                                                                                                                                                                2
+                                                                     NG             A06               A1X5PK                     A13           A2X5PK
+FG                  Type 1              SFDN225
+15–225
+                    Type 3R             RFDN225                                                                                                                 2
+                                                                     Shunt Trip 2
+JG
+                    Type 12
+                    Type 1
+                                        JFDN225
+                                        SJDN250                      Breaker                                           Factory                 Field Kit        2
+                                                                     Frame                   Rating                    Mounted                 Catalog Number
+                                                                                                                                                                2
+175–250
+                    Type 3R             RJDN250
+                                                                     FG 3                    12–24 Vdc                 S02                     SNT1LP03K
+                    Type 12             JJDN250
+KG                  Type 1              SKDN400
+                                                                     JG
+                                                                     KG
+                                                                                             12–24 Vdc
+                                                                                             12–24 Vdc
+                                                                                                                       S42
+                                                                                                                       S42
+                                                                                                                                               SNT2P04K
+                                                                                                                                               SNT3P04K
+                                                                                                                                                                2
+300–400
+                                                                                                                                                                2
+                    Type 3R             RKDN400
+                                                                     LG                      12–24 Vdc                 S02                     SNT4LP03K
+                    Type 12             JKDN400
+                                                                     NG                      12–24 Vdc                 S02                     SNT5LP03K
+LG
+450–600
+                    Type 1              SLDN600
+                                                                     Notes
+                                                                                                                                                                2
+                    Type 3R             RLDN600
+                                                                     1 Package of three terminals.
+                    Type 12             JLDN600                      2 Other accessories are available. Same as standard frame breakers.                        2
+                                                                     3 Field installation on the FG Frame is not UL listed.
+NG                  Type 1              SNDN1200
+700–1200
+                    Type 3R             RNDN1200                                                                                                                2
+                                                                                                                                                                2
+                    Type 12             JNDN1200
+
+
+
+                                                                                                                                                                2
+                                                   Volume 4—Circuit Protection CA08100005E—October 2015 www.eaton.com                               V4-T2-345
+    2.6                 Molded Case Circuit Breakers
+                        Specialty Breakers
+
+
+
+                 Type LGHDC DC Circuit Breakers—
+2                Three-Pole High Interrupting Capacity 65 kAIC at 600 Vdc
+
+2                Maximum                                         Complete                        Circuit Breaker            Thermal-Magnetic             Standard
+                 Continuous                                      Breaker                         Frame Only 1               Trip Unit                    Terminals
+                 Ampere Rating                                   Catalog                         Catalog                    Catalog                      Catalog
+2                at 40 °C                                        Number                          Number                     Number                       Number
+                 250                                             LGHDC3250FAG                    LGHDC3630NN                LT3250FA                     TA350LK
+2                300                                             LGHDC3300FAG                    LGHDC3630NN                LT3300FA                     TA350LK
+
+2
+                 350                                             LGHDC3350FAG                    LGHDC3630NN                LT3350FA                     TA350LK
+                 400                                             LGHDC3400FAG                    LGHDC3630NN                LT3400FA                     TA350LK
+
+2                500                                             LGHDC3500FAG                    LGHDC3630NN                LT4500FA                     3TA632LK 2
+                 600                                             LGHDC3600FAG                    LGHDC3630NN                LT3600FA                     3TA632LK 2
+2
+2   HLDDC        Type HLDDC DC Circuit Breakers—
+                 Three-Pole High Interrupting Capacity 35 kAIC at 600 Vdc
+2                Maximum                                         Circuit Breaker
+                                                                 Frame Only 1
+                                                                                                             Thermal-Magnetic
+                                                                                                             Trip Unit
+                                                                                                                                               Standard
+                                                                                                                                               Terminals
+                 Continuous
+2                Ampere Rating
+                 at 40 °C
+                                                                 Catalog
+                                                                 Number
+                                                                                                             Catalog
+                                                                                                             Number
+                                                                                                                                               Catalog
+                                                                                                                                               Number
+
+2                300
+                 350
+                                                                 HLDDC3600F
+                                                                 HLDDC3600F
+                                                                                                             LT3300T
+                                                                                                             LT3350T
+                                                                                                                                               TA602LD
+                                                                                                                                               TA602LD
+
+2                400                                             HLDDC3600F                                  LT3400T                           TA602LD
+                 450                                             HLDDC3600F                                  LT3450T                           TA602LD
+2                500                                             HLDDC3600F                                  LT3500T                           TA602LD
+                 600                                             HLDDC3600F                                  LT3600T                           3TA603LDK 2
+2
+2                Type HLDDC DC Circuit Breakers—
+                 Two-Pole High Interrupting Capacity 50 kAIC at 250 Vdc 34
+2                Maximum                                                           Complete
+                 Continuous                                                        Breaker
+2                Ampere Rating                                                     Catalog
+                 at 40 °C                                                          Number
+
+2                600                                                               HLDDC20600
+                 700                                                               HLDDC20700
+2                800                                                               HLDDC20800
+
+2                900
+                 1000
+                                                                                   HLDDC20900
+                                                                                   HLDDC21000
+
+2                1200                                                              HLDDC21200
+
+                 Notes
+2                1 For complete breaker, order individual frame, trip unit and terminals for field installation.
+                 2 Three-pole kit.
+
+2                3 Includes breaker frame, trip unit and terminals.
+                 4 Four-pole breaker with two poles wired in parallel.
+
+
+2
+2
+2
+2
+2
+2
+2
+    V4-T2-354   Volume 4—Circuit Protection CA08100005E—October 2015 www.eaton.com
+    2.6                               Molded Case Circuit Breakers
+                                      Specialty Breakers
+
+
+
+    DC Breaker Terminal Wire Ranges
+2   Breaker                    Maximum Breaker         Terminal Body                   AWG Wire Range/           Metric Wire       Number of              Standard Terminal
+    Frame                      Ampacity                Material      Wire Type         Number of Conductors      Range mm2         Terminals Included     Catalog Number
+2   EGEDC, EGSDC, EGHDC        100                     Aluminum          Cu/Al         14–1/0                    2.5–50            3                      3TA125EF
+
+2   HFDDC                      20
+                               100
+                                                       Steel
+                                                       Steel
+                                                                         Cu/Al
+                                                                         Cu/Al
+                                                                                       14–10 (1)
+                                                                                       14–1/0 (1)
+                                                                                                                 2.5–4 (1)
+                                                                                                                 2.5–50 (1)
+                                                                                                                                   3
+                                                                                                                                   3
+                                                                                                                                                          3T20FB
+                                                                                                                                                          3T100FB
+
+2   JGEDC, JGSDC, JGHDC
+                               225
+                               250
+                                                       Aluminum
+                                                       Stainless steel
+                                                                         Cu/Al
+                                                                         Cu
+                                                                                       4–4/0 (1)
+                                                                                       4–350 (1)
+                                                                                                                 25–95 (1)
+                                                                                                                 25–185 (1)
+                                                                                                                                   3
+                                                                                                                                   1
+                                                                                                                                                          3TA225FD
+                                                                                                                                                          T250FJ
+
+2   HJDDC
+    HKDDC
+                               250
+                               225
+                                                       Aluminum
+                                                       Aluminum
+                                                                         Cu/Al
+                                                                         Cu/Al
+                                                                                       4–350 kcmil (1)
+                                                                                       3–350 kcmil (1)
+                                                                                                                 25–185 (1)
+                                                                                                                 35–185 (1)
+                                                                                                                                   1
+                                                                                                                                   1
+                                                                                                                                                          TA250KB
+                                                                                                                                                          TA300K
+
+2                              350                     Aluminum          Cu/Al         250–500 kcmil (1)         120–240 (1)       1                      TA350K
+                               400                     Aluminum          Cu/Al         3/0–250 kcmil (2)         95–120 (1)        3                      3TA400K
+2   LGEDC, LGSDC, LGHDC        400                     Aluminum          Cu/Al         2–500 (1)                 35–240 (1)        1                      TA350LK
+                               630                     Aluminum          Cu/Al         2–500 kcmil (2)           35–240 (2)        1                      TA632L
+2                              630                     Aluminum          Cu/Al         2–500 kcmil (2)           35–240 (2)        3                      3TA632LK
+    HLDDC                      500                     Aluminum          Cu/Al         3/0–350 kcmil (2)         95–150 (2)        1                      TA602LD
+2                              600                     Aluminum          Cu/Al         400–500 kcmil (2)         185–240 (2)       3                      3TA603LDK
+    HMDLDC                     600                     Aluminum          Cu/Al         1–500 kcmil (2)           —                 1                      TA700MA1
+2                              800                     Aluminum          Cu/Al         3/0–400 kcmil (3)         —                 1                      TA800MA2
+    NBDC                       700                     Aluminum          Cu/Al         3/0–400 kcmil (3)         95–185 (3)        1                      TA1000NB1
+2                              800                     Aluminum          Cu/Al         3/0–400 kcmil (3)         95–185 (3)        1                      TA1000NB1
+                               900                     Aluminum          Cu/Al         3/0–400 kcmil (3)         95–185 (3)        1                      TA1000NB1
+2                              1000                    Aluminum          Cu/Al         3/0–400 kcmil (3)         95–185 (3)        1                      TA1000NB1
+
+2
+                               1200                    Aluminum          Cu/Al         4/0–500 kcmil (4)         120–240 (4)       1                      TA1200NB1
+
+    Note: RGHDC breakers include six rear connectors as standard.
+2
+    Molded Case Switches
+2   Eaton’s DC molded case switches are used in applications requiring a compact, high-capacity disconnect. They are UL 489 listed and
+    have automatic high instantaneous current protection. These devices do not provide overload protection.
+2   Molded Case Switches
+
+2   Maximum
+    Continuous
+                                                                                                              With Line and Load Terminals      Without Line and Load Terminals
+
+    Ampere Rating                        Interrupting Capacity                   Poles in                     Catalog                           Catalog
+2   at 40 °C                             (Volts DC)                              Series                       Number                            Number
+
+    600 Vdc Maximum
+2   100                                  42                                      3                            HFDDC3100KL                       HFDDC3100KW
+    150                                  42                                      3                            HFDDC3150KL                       HFDDC3150KW
+2   225                                  42                                      3                            HFDDC3225KL                       HFDDC3225KW
+
+2
+    250                                  65                                      3                            JGKDC3250KSG                      JGKDC3250KSW
+    250                                  42                                      3                            HJDDC3250K                        HJDDC3250KW
+
+2   400                                  35
+                                         65
+                                                                                 3
+                                                                                 3
+                                                                                                              HKDDC3400K
+                                                                                                              LGKDC3400KSG
+                                                                                                                                                HKDDC3400KW
+                                                                                                                                                LGKDC3400KSW
+
+2   600                                  65
+                                         35
+                                                                                 3
+                                                                                 3
+                                                                                                              LGKDC3630KSG
+                                                                                                              HLDDC3600K
+                                                                                                                                                LGKDC3630KSW
+                                                                                                                                                HLDDC3600WK
+
+2   800                                  35                                      3                            HMDLDC3800K                       HMDLDC3800WK
+    500 Vdc Maximum
+2   100                                  65                                      3                            EGK3100KSG                        EGK3100KSW
+    250 Vdc Maximum
+2   100                                  50                                      2                            HFDDC2100KL                       HFDDC2100KW
+    150                                  50                                      2                            HFDDC2150KL                       HFDDC2150KW
+2   225                                  50                                      2                            HFDDC2225KL                       HFDDC2225KW
+                                                                                 1
+    1200                                 50                                                                   HLDDC21200K 1                     HLDDC21200WK 1
+2   Note
+
+2
+    1 Four-pole frame with two-pole connected in parallel.
+
+
+
+
+2
+    V4-T2-356                Volume 4—Circuit Protection CA08100005E—October 2015 www.eaton.com
+

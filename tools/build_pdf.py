@@ -177,7 +177,7 @@ def heading(text, style, level, key=None, pagemap=None):
 
 
 def tbl(rows, widths, header=True, zebra=True, font=None):
-    t = Table(rows, colWidths=widths, repeatRows=1 if header else 0)
+    t = Table(rows, colWidths=widths, repeatRows=1 if header else 0, hAlign="LEFT")
     st = [("GRID", (0, 0), (-1, -1), 0.35, RULE), ("VALIGN", (0, 0), (-1, -1), "TOP"),
           ("LEFTPADDING", (0, 0), (-1, -1), 3), ("RIGHTPADDING", (0, 0), (-1, -1), 3),
           ("TOPPADDING", (0, 0), (-1, -1), 1.8), ("BOTTOMPADDING", (0, 0), (-1, -1), 1.8)]
@@ -408,9 +408,19 @@ class Catalogue:
 
     def claims_table(self, claims, fields):
         rows = []
+        prev = None
         for fld in fields:
             lst = claims.get(fld) or []
             for i, c in enumerate(lst):
+                cite = (tuple(c["src"]), c.get("page", ""), c.get("basis", ""))
+                if cite == prev and c["src"]:
+                    lab = FIELD_LABELS.get(fld, fld) if i == 0 else ""
+                    note = f' <font size="6.3" color="#5a6875">({e(c["note"])})</font>' if c.get("note") else ""
+                    rel = f' <font size="6.3" color="#5a6875">[{e(c["relation"])}]</font>' if c.get("relation") else ""
+                    rows.append([P(f"<b>{e(lab)}</b>" if lab else ""), P(e(c["value"]) + rel + note), P(badge(c["conf"])),
+                                 P('<font color="#5a6875">same as above</font>', TINY)])
+                    continue
+                prev = cite
                 lab = FIELD_LABELS.get(fld, fld) if i == 0 else ""
                 extra = []
                 if c.get("relation"):
@@ -476,11 +486,11 @@ class Catalogue:
                 bc, st = best(p["claims"].get("breaker_compat")), best(p["claims"].get("status"))
                 rows.append([P(self.link(p["id"], p["id"])), P(f"<b>{e(p['oem_part_number'])}</b>"),
                              P(e(p["title"])), P(e(bc["value"][:70]) + " " + badge(bc["conf"]) if bc else "—"),
-                             P(e(st["value"]) if st else "unknown")])
-            story.append(tbl(rows, [1.05 * inch, 1.15 * inch, 2.6 * inch, 1.45 * inch, 0.75 * inch]))
+                             P(e(st["value"][:60]) if st else "unknown", TINY)])
+            story.append(tbl(rows, [1.05 * inch, 1.1 * inch, 2.55 * inch, 1.4 * inch, 1.2 * inch]))
             story.append(Spacer(1, 4))
             for p in sorted(groups[ct], key=lambda x: norm_pn(x["oem_part_number"])):
-                story.append(self.part_entry(p))
+                story.extend(self.part_entry(p))
 
     def part_entry(self, p):
         out = [Anchor(p["id"], self.pm)]
@@ -490,7 +500,7 @@ class Catalogue:
                        P(f'<font color="white">{e(p.get("brand_marking") or MANUFACTURERS[p["mfr"]][0])}</font>', CELL),
                        P(f'<font color="white">{e(p["component_type"])}</font>', CELL),
                        P(f'<font color="white"><b>{e(st["value"].upper()[:22]) if st else "STATUS UNKNOWN"}</b></font>', CELL)]],
-                     colWidths=[1.1 * inch, 2.0 * inch, 1.5 * inch, 1.4 * inch, 1.0 * inch])
+                     colWidths=[1.15 * inch, 2.1 * inch, 1.5 * inch, 1.45 * inch, 1.1 * inch], hAlign="LEFT")
         head.setStyle(TableStyle([("BACKGROUND", (0, 0), (-1, -1), NAVY), ("BACKGROUND", (-1, 0), (-1, 0), ACCENT),
                                   ("VALIGN", (0, 0), (-1, -1), "MIDDLE"), ("TOPPADDING", (0, 0), (-1, -1), 2.5),
                                   ("BOTTOMPADDING", (0, 0), (-1, -1), 2.5)]))
@@ -518,13 +528,13 @@ class Catalogue:
                          P(""), P("")])
         for q in p.get("questions", []):
             rows.append([P("<b>Open question</b>"), P(f"<i>{e(q)}</i>"), P(""), P("")])
-        t = Table(rows or [[P("No claims recorded")]], colWidths=[1.4 * inch, 4.3 * inch, 0.35 * inch, 0.95 * inch])
+        t = Table(rows or [[P("No claims recorded")]], colWidths=[1.4 * inch, 4.4 * inch, 0.35 * inch, 1.15 * inch], hAlign="LEFT")
         t.setStyle(TableStyle([("GRID", (0, 0), (-1, -1), 0.3, RULE), ("VALIGN", (0, 0), (-1, -1), "TOP"),
                                ("TOPPADDING", (0, 0), (-1, -1), 1.5), ("BOTTOMPADDING", (0, 0), (-1, -1), 1.5),
                                ("LEFTPADDING", (0, 0), (-1, -1), 3), ("BACKGROUND", (0, 0), (0, -1), SHADE)]))
         out.append(t)
         out.append(Spacer(1, 7))
-        return KeepTogether(out) if len(rows) < 16 else _Group(out)
+        return [KeepTogether(out)] if len(rows) < 16 else out
 
     # ---------- registers & indexes
     def breaker_register(self, story, no):
@@ -543,7 +553,7 @@ class Catalogue:
                 rows.append([P("<b>Used in</b>"), P(", ".join(self.link(f, self.fam_label(f)) for f in b["family_ids"])),
                              P(""), P("")])
             if rows:
-                t = Table(rows, colWidths=[1.4 * inch, 4.3 * inch, 0.35 * inch, 0.95 * inch])
+                t = Table(rows, colWidths=[1.4 * inch, 4.4 * inch, 0.35 * inch, 1.15 * inch], hAlign="LEFT")
                 t.setStyle(TableStyle([("GRID", (0, 0), (-1, -1), 0.3, RULE), ("VALIGN", (0, 0), (-1, -1), "TOP"),
                                        ("BACKGROUND", (0, 0), (0, -1), SHADE)]))
                 blk.append(t)

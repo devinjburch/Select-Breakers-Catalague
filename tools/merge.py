@@ -150,7 +150,7 @@ def merge_batch(store, path, warnings):
         warnings.append(f"{batch}: already merged, skipping")
         return None
     stats = {"sources_new": 0, "families_new": 0, "breakers_new": 0, "parts_new": 0,
-             "parts_updated": 0, "leads_new": 0, "docs_filed": 0}
+             "parts_updated": 0, "leads_new": 0, "docs_filed": 0, "batch": batch}
 
     # ---- sources
     srcmap = {}
@@ -365,9 +365,18 @@ def main():
             print(f"  ... {len(warnings) - 200} more warnings")
         if stats is not None:
             shutil.move(str(path), MERGED / path.name)
-            inc = ROOT / "docs" / "library" / "_incoming" / path.stem
-            if inc.exists() and not any(inc.rglob("*")):
-                inc.rmdir()
+            inc = ROOT / "docs" / "library" / "_incoming" / (stats.get("batch") or path.stem)
+            if inc.exists():
+                # derived text extractions are discarded; unreferenced originals are kept for review
+                for f in sorted(inc.rglob("*")):
+                    if f.is_file() and f.suffix.lower() == ".txt":
+                        f.unlink()
+                    elif f.is_file():
+                        dest = LIB / "_unlinked" / inc.name / f.name
+                        dest.parent.mkdir(parents=True, exist_ok=True)
+                        shutil.move(str(f), dest)
+                        print(f"  NOTE unreferenced document kept at {dest.relative_to(ROOT)}")
+                shutil.rmtree(inc, ignore_errors=True)
     store.save()
 
 

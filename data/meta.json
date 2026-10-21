@@ -1,1 +1,66 @@
-{"counters": {}, "batches": [], "edition": "0.1"}
+{
+ "counters": {
+  "SRC": 51,
+  "FAM-SIE": 10,
+  "BRK-SIE": 15,
+  "EDH-SIE": 244,
+  "LEAD": 29,
+  "FAM-GEA": 9,
+  "BRK-GEA": 15,
+  "EDH-GEA": 280,
+  "FAM-EAT": 15,
+  "BRK-EAT": 32,
+  "EDH-EAT": 127
+ },
+ "batches": [
+  {
+   "batch_id": "B0006-siemens-ite",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0006-siemens-ite.json",
+   "stats": {
+    "sources_new": 15,
+    "families_new": 10,
+    "breakers_new": 15,
+    "parts_new": 244,
+    "parts_updated": 0,
+    "leads_new": 9,
+    "docs_filed": 10,
+    "batch": "B0006-siemens-ite"
+   }
+  },
+  {
+   "batch_id": "B0005-ge-abb",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0005-ge-abb.json",
+   "stats": {
+    "sources_new": 22,
+    "families_new": 9,
+    "breakers_new": 15,
+    "parts_new": 280,
+    "parts_updated": 0,
+    "leads_new": 9,
+    "docs_filed": 11,
+    "batch": "B0005-ge-abb"
+   }
+  },
+  {
+   "batch_id": "B0002-eaton-switchboards-legacy",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0002-eaton-switchboards-legacy.json",
+   "stats": {
+    "sources_new": 14,
+    "families_new": 15,
+    "breakers_new": 32,
+    "parts_new": 127,
+    "parts_updated": 0,
+    "leads_new": 11,
+    "docs_filed": 9,
+    "batch": "B0002-eaton-switchboards-legacy"
+   }
+  }
+ ],
+ "edition": "0.1"
+}
