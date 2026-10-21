@@ -6897,6 +6897,38 @@
   "created_batch": "B0012-archival-legacy-panelboards"
  },
  {
+  "id": "FAM-SIE-015",
+  "mfr": "SIE",
+  "name": "Super Blue Pennant / Blue Pennant stock service entrance switchboards",
+  "code": "SBP",
+  "aliases": [],
+  "brand_markings": [
+   "Siemens"
+  ],
+  "equipment_type": "switchboard",
+  "overview": "Siemens stock service-entrance switchboards (Blue Pennant / Super Blue Pennant): EUSERC utility metering compartment plus main Vacu-Break fusible switch (400-1200 A) or molded-case breaker main, optional distribution panel kits (PQ/PE/PF), subfeed kits (PSFFJ6/PSFJL6) and PUG/WPUG underground pull sections with PLL lug landing kits.",
+  "overview_notes": [],
+  "claims": {
+   "main_ampacity": [
+    {
+     "value": "400-1200 A (connector table 400/600/800/1000/1200 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00633"
+     ],
+     "page": "pp.13-11..13-17",
+     "basis": "oem_spec",
+     "batch": "B0014-siemens-instruction-sheets"
+    }
+   ]
+  },
+  "source_ids": [
+   "SRC-00633",
+   "SRC-00621"
+  ],
+  "created_batch": "B0014-siemens-instruction-sheets"
+ },
+ {
   "id": "FAM-SQD-001",
   "mfr": "SQD",
   "name": "Power-Style QED-2 Switchboard",

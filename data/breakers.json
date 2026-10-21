@@ -7031,14 +7031,14 @@
   "mfr": "SIE",
   "name": "GB (NGB/HGB/LGB) and GB2 (NGB2/HGB2/LGB2); 'xGB'",
   "aliases": [
-   "xGB",
-   "NGB",
    "HGB",
-   "LGB",
-   "xGB2",
-   "NGB2",
    "HGB2",
-   "LGB2"
+   "LGB",
+   "LGB2",
+   "NGB",
+   "NGB2",
+   "xGB",
+   "xGB2"
   ],
   "claims": {
    "amps": [
@@ -7505,8 +7505,8 @@
    "JG",
    "LG",
    "MG",
-   "NG",
    "NF/HF/LF",
+   "NG",
    "NJ/HJ/LJ",
    "NL/HL/LL",
    "NM/HM/LM"
@@ -7628,8 +7628,8 @@
   "name": "BQD / CQD (incl. BQD6, CQD6)",
   "aliases": [
    "BQD",
-   "CQD",
    "BQD6",
+   "CQD",
    "CQD6"
   ],
   "claims": {
@@ -7669,9 +7669,9 @@
   "mfr": "SIE",
   "name": "NGG / HGG / LGG (G-frame bolt-on/lug)",
   "aliases": [
-   "NGG",
    "HGG",
-   "LGG"
+   "LGG",
+   "NGG"
   ],
   "claims": {
    "amps": [
@@ -7698,11 +7698,11 @@
   "mfr": "SIE",
   "name": "QR2 / QRH2 / HQR2 (250A frame)",
   "aliases": [
-   "QR2",
-   "QRH2",
    "HQR2",
+   "HQR2H",
+   "QR2",
    "QR2H",
-   "HQR2H"
+   "QRH2"
   ],
   "claims": {
    "amps": [
@@ -7741,10 +7741,10 @@
   "mfr": "SIE",
   "name": "QJ2 / QJH2 / QJ2H / HQJ2H (225A frame)",
   "aliases": [
+   "HQJ2H",
    "QJ2",
-   "QJH2",
    "QJ2H",
-   "HQJ2H"
+   "QJH2"
   ],
   "claims": {
    "amps": [
@@ -7771,13 +7771,13 @@
   "mfr": "SIE",
   "name": "Sentron ED (ED2, ED4, ED6, HED4, HHED6, CED6)",
   "aliases": [
+   "CED6",
+   "ED",
    "ED2",
    "ED4",
    "ED6",
    "HED4",
-   "HHED6",
-   "CED6",
-   "ED"
+   "HHED6"
   ],
   "claims": {
    "amps": [
@@ -7804,13 +7804,13 @@
   "mfr": "SIE",
   "name": "Sentron FD (FD6-A, FXD6-A, HFD6, HHFD6, CFD6)",
   "aliases": [
+   "CFD6",
    "FD6",
    "FXD6",
    "HFD6",
    "HFXD6",
    "HHFD6",
-   "HHFXD6",
-   "CFD6"
+   "HHFXD6"
   ],
   "claims": {
    "amps": [
@@ -7837,17 +7837,17 @@
   "mfr": "SIE",
   "name": "Sentron JD (JD6, JXD2, JXD6, HJD6, HHJD6, SJD6-B, CJD6)",
   "aliases": [
+   "CJD6",
+   "HHJD6",
+   "HHJXD6",
+   "HJD6",
+   "HJXD6",
    "JD6",
    "JXD2",
    "JXD6",
-   "HJD6",
-   "HJXD6",
-   "HHJD6",
-   "HHJXD6",
-   "SJD6-B",
-   "SHJD6-B",
    "SCJD6-B",
-   "CJD6"
+   "SHJD6-B",
+   "SJD6-B"
   ],
   "claims": {
    "amps": [
@@ -7874,16 +7874,16 @@
   "mfr": "SIE",
   "name": "Sentron LD (LD6, LXD6, HLD6, HHLD6, SLD6-B, CLD6)",
   "aliases": [
-   "LD6",
-   "LXD6",
-   "HLD6",
-   "HLXD6",
+   "CLD6",
    "HHLD6",
    "HHLXD6",
-   "SLD6-B",
-   "SHLD6-B",
+   "HLD6",
+   "HLXD6",
+   "LD6",
+   "LXD6",
    "SCLD6-B",
-   "CLD6"
+   "SHLD6-B",
+   "SLD6-B"
   ],
   "claims": {
    "amps": [
@@ -7910,10 +7910,10 @@
   "mfr": "SIE",
   "name": "Sentron LMD (LMD6, LMXD6, HLMD6, HLMXD6)",
   "aliases": [
-   "LMD6",
-   "LMXD6",
    "HLMD6",
-   "HLMXD6"
+   "HLMXD6",
+   "LMD6",
+   "LMXD6"
   ],
   "claims": {
    "amps": [
@@ -7940,14 +7940,14 @@
   "mfr": "SIE",
   "name": "Sentron MD (MD6, MXD6, HMD6, HMXD6, SMD6-B, CMD6)",
   "aliases": [
-   "MD6",
-   "MXD6",
+   "CMD6",
    "HMD6",
    "HMXD6",
-   "SMD6-B",
-   "SHMD6-B",
+   "MD6",
+   "MXD6",
    "SCMD6-B",
-   "CMD6"
+   "SHMD6-B",
+   "SMD6-B"
   ],
   "claims": {
    "amps": [
@@ -7974,14 +7974,14 @@
   "mfr": "SIE",
   "name": "Sentron ND (ND6, NXD6, HND6, HNXD6, SND6-B, CND6)",
   "aliases": [
-   "ND6",
-   "NXD6",
+   "CND6",
    "HND6",
    "HNXD6",
-   "SND6-B",
+   "ND6",
+   "NXD6",
+   "SCND6-B",
    "SHND6-B",
-   "CND6",
-   "SCND6-B"
+   "SND6-B"
   ],
   "claims": {
    "amps": [
@@ -8008,13 +8008,13 @@
   "mfr": "SIE",
   "name": "Sentron PD (PD6, PXD6, HPD6, HPXD6, SPD6-B, CPD6)",
   "aliases": [
-   "PD6",
-   "PXD6",
+   "CPD6",
    "HPD6",
    "HPXD6",
-   "SPD6-B",
+   "PD6",
+   "PXD6",
    "SHPD6-B",
-   "CPD6"
+   "SPD6-B"
   ],
   "claims": {
    "amps": [
@@ -8041,10 +8041,10 @@
   "mfr": "SIE",
   "name": "Sentron RD (RD6, RXD6, HRD6, HRXD6)",
   "aliases": [
-   "RD6",
-   "RXD6",
    "HRD6",
-   "HRXD6"
+   "HRXD6",
+   "RD6",
+   "RXD6"
   ],
   "claims": {
    "amps": [

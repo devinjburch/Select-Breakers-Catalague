@@ -8932,5 +8932,2361 @@
   "batches": [
    "B0015-squared-legacy-and-unmined"
   ]
+ },
+ {
+  "title": "P1-250 Panelboard Kit MBKQJ1A & MBKQJ3A QJ Main/Subfeed Breaker Instructions (also P1-400 subfeed; Revised P1 only)",
+  "publisher": "Siemens",
+  "doc_number": "11-A-1112-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1112-01_MBKQJxA_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1112-01_MBKQJxA_Instructions.pdf",
+  "id": "SRC-00510",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "28abdb594ce946bc951e1b38274f67eb2931184d4b18b0651f77ef739a54fdac",
+  "bytes": 771125
+ },
+ {
+  "title": "P1-250 Panelboard Kit MBKQR1A & MBKQR3A for 225A MAX QR Main/Subfeed Breaker Installation Instructions (Revised P1 only)",
+  "publisher": "Siemens",
+  "doc_number": "11-A-1130-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1130-01_MBKQRxA.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Same document also published as SIE_IS_MBKQR1A_MBKQR3A.pdf",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1130-01_MBKQRxA.pdf",
+  "id": "SRC-00511",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "ee7d8824d662651774328d7340eeef15ab662b3c6de27baef5008901acb5176b",
+  "bytes": 2760202
+ },
+ {
+  "title": "400A OEM Chassis Installation Instructions (Revised P1 panelboard configurations only)",
+  "publisher": "Siemens",
+  "doc_number": "11-A-1118-01 Rev. 01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1118-01_400A_OEM_Chassis_Instructions.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1118-01_400A_OEM_Chassis_Instructions.pdf",
+  "id": "SRC-00512",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "b08677348d65305f40d40bdfc5d7d73e6453826a9342b10a71e93ef9ac9fcdbe",
+  "bytes": 361922
+ },
+ {
+  "title": "DFFPED01 / DFFPFD01 / DFFPQJ01 / DFFPQJ02 replacement filler plates for Siemens lighting panels",
+  "publisher": "Siemens",
+  "doc_number": "11-A-1181-01 Rev. 00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_11-A-1181-01_DFFP_ED_FD_QJ.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_11-A-1181-01_DFFP_ED_FD_QJ.pdf",
+  "id": "SRC-00513",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "9e978c2cdd4855864d4215c35e3eda4469738dbaceb2965d14e86121c3ef48f9",
+  "bytes": 240599
+ },
+ {
+  "title": "Instructions for drain holes in Type 3R/12 enclosures (WP260/275/290/860/875/890)",
+  "publisher": "Siemens",
+  "doc_number": "11-A-1062-01 Rev. 1 (label 11-1100-01 Rev. 6)",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-A-1062-01_WP260-275-290-860-875-890.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-A-1062-01_WP260-275-290-860-875-890.pdf",
+  "id": "SRC-00514",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "30a6fb906ce0c9085b0b0b5338c0654641b29a83aed1e6dac65b6c72b003ebf5",
+  "bytes": 24429
+ },
+ {
+  "title": "Panelboard Box Installation Instructions (flush installations, 1-piece / 4-piece trim)",
+  "publisher": "Siemens",
+  "doc_number": "11-B-1010-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-B-1010-01_PB.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-B-1010-01_PB.pdf",
+  "id": "SRC-00515",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "fa0f32ce819c417fe54886f502e4ec4bcc4eb4201314f11c2119566679d50c1c",
+  "bytes": 205919
+ },
+ {
+  "title": "P1 / P2 / P3 Series Panelboard Box Installation for Seismic-Rated Panelboards",
+  "publisher": "Siemens",
+  "doc_number": "12-A-1066-01 Rev. 03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SeismicPanelboard_P1-2-3.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_SeismicPanelboard_P1-2-3.pdf",
+  "id": "SRC-00516",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "0323a18f172c293cd60c46ec5a1edf435427aceb3111f9eade4faab63763c588",
+  "bytes": 159930
+ },
+ {
+  "title": "CAT. NO. 6CLE2 instruction sheet: drawing 11-5068-00 Rev 2 'CED6 Breaker Mounting Series 6 Branch Bus', BOM 11-5068-05 Rev 3, Series 5 adaptor kit 11-5570-01",
+  "publisher": "Siemens",
+  "doc_number": "31-1153-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6CLE2.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned drawing sheet; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_6CLE2.pdf",
+  "id": "SRC-00517",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "abefec30cad0f036e1d6213b5459a96194a045430f73e88758f4467537637526",
+  "bytes": 401946
+ },
+ {
+  "title": "CAT. NO. 6CLF1 instruction sheet: drawing 11-5383-00 Rev 5 'CFD6 Breaker Mounting Series 6 Branch Bus', BOM 11-5383-03 Rev 5, Series 5 adaptor kit 11-5570-02",
+  "publisher": "Siemens",
+  "doc_number": "31-1154-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6CLF1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_6CLF1.pdf",
+  "id": "SRC-00518",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "6e145b0cce2bd54ae763e368ce48a84ff0e96fbf41c5b5c93b08be96ad60bdee",
+  "bytes": 432521
+ },
+ {
+  "title": "CAT. NO. 6CLJ1 instruction sheet: drawing 12-5719 Rev 10 'CJD frame mount Series 6 - branch' + Series 5 adaptor kit 11-5570-02",
+  "publisher": "Siemens",
+  "doc_number": "31-1187-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6CLJ1_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned drawing; read visually. Same drawing's -02 assembly is used on strap kit SCJD (-02)",
+  "local_file": "docs/library/SIE/SIE_IS_6CLJ1_old.pdf",
+  "id": "SRC-00519",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "ededff514f42d1b5b65640e0ab3b3cc5786ba5e3fc81e057fd3c80afed77629a",
+  "bytes": 348169
+ },
+ {
+  "title": "CAT. NO. 6CLL1 instruction sheet: drawing 12-5720 Rev 11 'CLD frame mount Series 6 - branch' + Series 5 adaptor kit 11-5570-02",
+  "publisher": "Siemens",
+  "doc_number": "31-1189-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6CLL1_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned drawing; read visually. Same drawing's -02 assembly is used on strap kit SCLD (-02)",
+  "local_file": "docs/library/SIE/SIE_IS_6CLL1_old.pdf",
+  "id": "SRC-00520",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "58aa2b80d7dec734da1505db24cb855544e8db9aab77648474226599146bea05",
+  "bytes": 339499
+ },
+ {
+  "title": "CAT. NO. 6SCJ1 instruction sheet: drawing 12-5771 Rev 8 'SCJD frame mount Series 6 - branch' + Series 5 adaptor kit 11-5570-02",
+  "publisher": "Siemens",
+  "doc_number": "31-1194-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6SCJ1_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned drawing; read visually. Same drawing's -02 assembly is used on strap kit SSCJD (-02)",
+  "local_file": "docs/library/SIE/SIE_IS_6SCJ1_old.pdf",
+  "id": "SRC-00521",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "c1a1a4199e5c7c770a5a3615b6d026bacda3f7145014fb8893c42cff684fb4c1",
+  "bytes": 334689
+ },
+ {
+  "title": "CAT. NO. 6SCL1 instruction sheet: drawing 12-5772 Rev 8 'SCLD frame mount Series 6 - branch' + Series 5 adaptor kit 11-5570-02",
+  "publisher": "Siemens",
+  "doc_number": "31-1195-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6SCL1_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned drawing; read visually. Same drawing's -02 assembly is used on strap kit SSCLD (-02)",
+  "local_file": "docs/library/SIE/SIE_IS_6SCL1_old.pdf",
+  "id": "SRC-00522",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "991133fcbd62d64f7686adecddf95b7e717ed49bb5b511a9196127c2d7e0273c",
+  "bytes": 337418
+ },
+ {
+  "title": "CAT. NO. SSCJD instruction sheet (drawing 12-5771 Rev 8, -02 assembly)",
+  "publisher": "Siemens",
+  "doc_number": "31-1226-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SSCJD_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_SSCJD_old.pdf",
+  "id": "SRC-00523",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "0b46283ee5ffc3573cd5caa807e667628829752faed75de72ddbbfe49a441e6f",
+  "bytes": 219494
+ },
+ {
+  "title": "CAT. NO. SJ2D instruction sheet (drawing 12-5721 Rev 11 'JD frame twin mounting Series 6 branch', -02 assembly)",
+  "publisher": "Siemens",
+  "doc_number": "31-1223-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SJ2D_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually; also SIE_IS_Panelboard_31-1223-01_SJ2D.pdf",
+  "local_file": "docs/library/SIE/SIE_IS_SJ2D_old.pdf",
+  "id": "SRC-00524",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "dea343531855feebe0ed9d0971ddb9c39c320af614cd487c13b37c39f6900bf4",
+  "bytes": 205898
+ },
+ {
+  "title": "CAT. NO. SSCJ instruction sheet: drawing 12-B-2012-00 Rev 4 'SCJD6 mounting branch bus', BOM 12-B-2012-03 Rev 5 'SCJD6 branch breaker S4 mounting - copper bus'",
+  "publisher": "Siemens",
+  "doc_number": "31-1209-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SSCJ_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually; duplicate file SIE_IS_Panelboard_31-1209-01_SSCJ.pdf",
+  "local_file": "docs/library/SIE/SIE_IS_SSCJ_old.pdf",
+  "id": "SRC-00525",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "847033a642e6b2c291ee9902962ec89b1d6706d88a9a1292d5c77600d81307d3",
+  "bytes": 188740
+ },
+ {
+  "title": "CAT. NO. VB6150 instruction sheet: drawing 11-5075-00 Rev 3 'Vacu-Break Mounting Series 6 Branch Bus Kit 15in Single Unit', BOM 11-5075-02 Rev 4",
+  "publisher": "Siemens",
+  "doc_number": "31-1159-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_VB6150_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_VB6150_old.pdf",
+  "id": "SRC-00526",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "729bac1e58c88710ff485977a5a61b484c2f0c70db4b9edf234d6ad2ef212b3a",
+  "bytes": 380511
+ },
+ {
+  "title": "CAT. NO. VB657 instruction sheet: drawing 11-5073-00 Rev 7 'Vacu-Break Mounting Series 6 Branch Bus Kit 5in & 7.500in Twin Unit', BOM 11-5073-03 Rev 4",
+  "publisher": "Siemens",
+  "doc_number": "31-1157-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_VB657_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_VB657_old.pdf",
+  "id": "SRC-00527",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "abeae285757e14e912897209b8526d43c3dbff8a776cc8d6c6048569ad30f6a3",
+  "bytes": 436611
+ },
+ {
+  "title": "CAT. NO. VB671 instruction sheet: drawing 11-5074-00 Rev 5 'Vacu-Break Mounting Series 6 Branch Bus Kit 7.500 & 10.000 Single Unit', BOM 11-5074-04 Rev 4 'Vacu-Break mounting 200A Series 6 copper branch bus'",
+  "publisher": "Siemens",
+  "doc_number": "31-1158-01 Rev. 3",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_VB671_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually; also SIE_IS_VB671-InstDims.pdf (image)",
+  "local_file": "docs/library/SIE/SIE_IS_VB671_old.pdf",
+  "id": "SRC-00528",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "c6c2ae217682d3963fb1d42343274a49ce8a30230a9aeb61b3d4881de09f1922",
+  "bytes": 463026
+ },
+ {
+  "title": "Series 5, Series 6, FC-I and FC-II Distribution VB610 Twin 200A Vacu-Break Mounting Kit Installation Instructions",
+  "publisher": "Siemens",
+  "doc_number": "12-B-2018-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_VB610.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_VB610.pdf",
+  "id": "SRC-00529",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "c9c53990e9f8704a20abe56073c7ab700dd8121fc7cda3214269b16d152c15cc",
+  "bytes": 1023709
+ },
+ {
+  "title": "F1 10in Deep FPP F672 Twin 200A Vacu-Break Mounting Kit Installation Instructions",
+  "publisher": "Siemens",
+  "doc_number": "12-B-2016-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_F672.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; duplicate SIE_IS_Panelboard_12-B-2016-01_F672.pdf",
+  "local_file": "docs/library/SIE/SIE_IS_F672.pdf",
+  "id": "SRC-00530",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "8a6cd15ae5dea000a86fe548b67a911da6b30b457b6b3bcffb9276e0a921825b",
+  "bytes": 138107
+ },
+ {
+  "title": "F2 12.75in Deep FPP F672D Twin 200A Vacu-Break Mounting Kit Installation Instructions",
+  "publisher": "Siemens",
+  "doc_number": "12-B-2017-01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_F672D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; doc number from duplicate filename SIE_IS_Panelboard_12-B-2017-01_F672D.pdf",
+  "local_file": "docs/library/SIE/SIE_IS_F672D.pdf",
+  "id": "SRC-00531",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "35fe73e6bb4e165200d977c2421c2b22ee2552825bb55492396884e5cff43f86",
+  "bytes": 168125
+ },
+ {
+  "title": "CAT. NO. F6150D instruction sheet: drawing 11-B-2007-00 Rev 2 'Vacu-Break mounting F2 branch bus kit 15in single unit', BOM 11-B-2007-02 Rev 3",
+  "publisher": "Siemens",
+  "doc_number": "31-1243-01 Rev. 2",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_F6150D_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_F6150D_old.pdf",
+  "id": "SRC-00532",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "c659364e378c9c4a23b9ede265df3d2650c80909dcf96f07b72bd4d927b15e34",
+  "bytes": 453551
+ },
+ {
+  "title": "Panel Kit 800/1200A Sentron HCP Switch Catalog No. F6162D Installation Instructions",
+  "publisher": "Siemens",
+  "doc_number": "12-B-2108-01 Rev. 0 (p.2 Rev. 1)",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_12-B-2108-01_F6162D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_12-B-2108-01_F6162D.pdf",
+  "id": "SRC-00533",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "53ff0736103acc9bb4787782e11135367129a26715bffbade3fd7ab922244e2b",
+  "bytes": 434858
+ },
+ {
+  "title": "Cat. No. F6162D connection strap kit - Horizontal Mount Drawing / Group Mounting Assembly (Horizontal Mount Only)",
+  "publisher": "Siemens",
+  "doc_number": "",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_F6162_old.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Vector drawing whose text layer uses a reversed-codepoint font (decoded: char = 0x120 - code); no document number visible",
+  "local_file": "docs/library/SIE/SIE_IS_F6162_old.pdf",
+  "id": "SRC-00534",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "cf1bf622b0b593ca44f651dc4fa2d63f908d4cb3bfdb64f372683e72765bd4fa",
+  "bytes": 120441
+ },
+ {
+  "title": "Power Panel Kit (P5) SMSKHCP for Main Mounting Type SENTRON HCP Switch Installation Instructions",
+  "publisher": "Siemens",
+  "doc_number": "11-D-1023-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SMSKHCPP.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_SMSKHCPP.pdf",
+  "id": "SRC-00535",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "18e0334b4ccc4466957afe28207097ddfb1b3193750663d9938eb8805017f4a8",
+  "bytes": 1583431
+ },
+ {
+  "title": "Switchboard/Powerpanel Kit SQJD/6QJ2/SQJ for Branch Mounting Type QJ Breakers Installation Instructions",
+  "publisher": "Siemens",
+  "doc_number": "11-B-1011-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_6QJ2.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually; same document as SIE_IS_SQJ_SQJD.pdf",
+  "local_file": "docs/library/SIE/SIE_IS_6QJ2.pdf",
+  "id": "SRC-00536",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "122f405febdcbc7780ce04dbb88b1eb0222d5b95e2b0a29ee4289ac7d3b18791",
+  "bytes": 700858
+ },
+ {
+  "title": "Switchboard/Powerpanel Kit SMND for Branch Mounting Type MD/ND Breakers Installation Instructions",
+  "publisher": "Siemens",
+  "doc_number": "11-B-1017-01 Rev. 0",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-B-1017-01_SMND_SSMND.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned (pages rotated); read visually. Companion file SIE_IS_SMND_SSMND.pdf is a corrupt PDF (no renderable content).",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-B-1017-01_SMND_SSMND.pdf",
+  "id": "SRC-00537",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "0b06a575727adc6fbaa26a2bfc9d1808e5d1b9be7b4e3fba791f7744e3aa33ce",
+  "bytes": 1579996
+ },
+ {
+  "title": "Switchboard/Power Panel Kit NG1D for Branch Mounting Type VL N Frame Breakers Installation Instructions",
+  "publisher": "Siemens",
+  "doc_number": "11-B-1018-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NG1D.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Also SIE_IS_Panelboard_11-B-1018-01_NG1D.pdf (image version)",
+  "local_file": "docs/library/SIE/SIE_IS_NG1D.pdf",
+  "id": "SRC-00538",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "cd367f1c08d1624db27ea906669340364020b988d0b0bdb577770da5860aa609",
+  "bytes": 1155013
+ },
+ {
+  "title": "Distribution Panel Kit SJ1/SSJ1/SL6/SSL6 for Branch Mounting Type JD/SJD/LD/SLD Breakers Installation Instructions (shallow panelboards)",
+  "publisher": "Siemens",
+  "doc_number": "11-B-1015-01 Rev. 1",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Panelboard_11-B-1015-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned (rotated pages); read visually; same document as SIE_IS_SSJ1_SJ1_SL6_SSL6P.pdf",
+  "local_file": "docs/library/SIE/SIE_IS_Panelboard_11-B-1015-01.pdf",
+  "id": "SRC-00539",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "fb0580a07883b72f4b4fafa69422efd803ce6982286f9d934682deeb21d3e2d9",
+  "bytes": 1364847
+ },
+ {
+  "title": "TA1E6125 Lug Kit instructions (E, ED, EF & EM frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 64900A02",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_110-125A-Li-Lo-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_110-125A-Li-Lo-Term.pdf",
+  "id": "SRC-00540",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "c01c386eb363c5713d2ecc81af50b166894a60fb5a87069a91cb4bedcf126862",
+  "bytes": 10075
+ },
+ {
+  "title": "SA1-E025 Wire Grip Kit instructions (E, EF, ED & EM frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 73937A02",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_15-25A-LiLo-End-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_15-25A-LiLo-End-Term.pdf",
+  "id": "SRC-00541",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "abcae5c2c680340ac73cc29eb0bd605bfabb4b708d958393efa9f2982e34d751",
+  "bytes": 26013
+ },
+ {
+  "title": "LD1-E060 Load Side Lug Kit instructions (I-T-E E, ED & EF)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 62992A01",
+  "date": "1987",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_1P-30-60A-Load-End-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_1P-30-60A-Load-End-Term.pdf",
+  "id": "SRC-00542",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "ff9a15536077be414f714e28be5d4252815f47c544a3e4a8d9a49d9a7b58ffbb",
+  "bytes": 12167
+ },
+ {
+  "title": "LN1-E100 Lug Kit (30-100 A) instructions (E, ED & EF frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 73935A01",
+  "date": "1987",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_30-100A-LiLo-End-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_30-100A-LiLo-End-Term.pdf",
+  "id": "SRC-00543",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "3f47c101f447ddcf750f9a40b13a70efae2cde99a69cde855f8eed816ccd018f",
+  "bytes": 66935
+ },
+ {
+  "title": "LD1-E100 Load Side Lug Kit instructions (I-T-E E, ED & EF)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 61538A01",
+  "date": "1987",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_70-100A-LoadEnd-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_70-100A-LoadEnd-Term.pdf",
+  "id": "SRC-00544",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "95477b6fd66f698e1e6e4731eb07a58c7d5eb54797a9ddcd1e836f82b43a13ff",
+  "bytes": 12183
+ },
+ {
+  "title": "CCE 125 compression lug instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 82689A01",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_Compression-lug.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_Compression-lug.pdf",
+  "id": "SRC-00545",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "3108b6442775a056e335e322ea2d876af1dd58af982a9cb6c772bfa6c5b7d226",
+  "bytes": 22221
+ },
+ {
+  "title": "MSE6-100 Breaker Mounting Screws instructions (E & ED frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 62843A01",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_Mounting-screw-kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_Mounting-screw-kit.pdf",
+  "id": "SRC-00546",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "3145a6eb42dc2982050f4e49af676cba68d72bd8d0f670481915059f89fd3551",
+  "bytes": 14717
+ },
+ {
+  "title": "Instruction Sheet for Rear Connecting Stud for E-Frame Breaker (RS2641, RS2642, RS2643, RS2644)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 59624A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_Rear-Connecting-Stud.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_Rear-Connecting-Stud.pdf",
+  "id": "SRC-00547",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "b6fcc6e6487c8ee16462ed9f49a4321bc11b34ca5fb84b7bf26f918fb24f34a3",
+  "bytes": 20733
+ },
+ {
+  "title": "Plug-in mounting assemblies and adapters for 'E' & 'CLE' frame breakers (PC2637, PC2638, PC2657, PC2658, PM2657, PM2658)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 60303A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_Plug-in-mount-assemb.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_Plug-in-mount-assemb.pdf",
+  "id": "SRC-00548",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "3e53447620ca02b5a5bb6f1780740730c48d4189da58dd07cb4b4d058df5ed28",
+  "bytes": 38129
+ },
+ {
+  "title": "Replacement plug-in adapters for 'E' & 'CLE' frame breakers (TCE2, TCE3)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 410901A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_Replace-Plug-in-Studs.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ED_Replace-Plug-in-Studs.pdf",
+  "id": "SRC-00549",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "9d51470efe6594e14ef1e18cda06b3369b7375a2d841fe63099119b6f2ee58ea",
+  "bytes": 76575
+ },
+ {
+  "title": "TA6FD04 Special Purpose Wire Connector instructions (FD frame Sentron)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 411755A00",
+  "date": "2003",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FD_Distribution-Lug.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_FD_Distribution-Lug.pdf",
+  "id": "SRC-00550",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "dcc9bc459d5eac5ebbd3a2cbed84484659d319c2aa13eaf6b1941687b163f5f4",
+  "bytes": 506183
+ },
+ {
+  "title": "TA1FD350A Wire Grip Kit instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 410211A05",
+  "date": "2010",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FD_Li-Lo-Term-Conn-AL.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_FD_Li-Lo-Term-Conn-AL.pdf",
+  "id": "SRC-00551",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "dbaedb594383f1b6c9e271db5e37e8cd8015abb88fcfa4bfae2e03b89b2b66e6",
+  "bytes": 138937
+ },
+ {
+  "title": "TC1FD350 Wire Grip Kit instructions (F, FD, FF & FM frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 410211B03",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FD_LiLo-Term-Conn-CU.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_FD_LiLo-Term-Conn-CU.pdf",
+  "id": "SRC-00552",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "1664899b66478a6fdab7e165ceb0a60e7810fade5d16acf4b1404af683620f0f",
+  "bytes": 9771
+ },
+ {
+  "title": "MSF6-50 Breaker Mounting Screws instructions (FD and FM frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 62980B02",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FD_Mounting-Screw-Kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_FD_Mounting-Screw-Kit.pdf",
+  "id": "SRC-00553",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "3d5c6aba1a9e4831475980f3edc4d25d69b071b57b4aaa7f9e82d08b48d1c706",
+  "bytes": 16516
+ },
+ {
+  "title": "Instructions for Installation of Circuit Breaker Rear Connecting Studs RS4755 and RS4756 (I-T-E F, FD, FF)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 60171A00",
+  "date": "1989",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FD_Rear-Connecting-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_FD_Rear-Connecting-Term.pdf",
+  "id": "SRC-00554",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "716252844af85d2c4fa4a167bfcfec4a48b65fe42d96dc491ae94c22ec89f9e5",
+  "bytes": 74581
+ },
+ {
+  "title": "CCF 250 compression lug instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 82691A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FD_Compression-Lug.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_FD_Compression-Lug.pdf",
+  "id": "SRC-00555",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "a43d703704804187023825c6e10778bb1ed8c8df52303a9c95138194f80f3e6f",
+  "bytes": 22067
+ },
+ {
+  "title": "Plug-in mounting assemblies for F, FD, FM and FF frame (PC4753, PC4754, PM4754)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 60121A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FD_Plug-in-Mount-Kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_FD_Plug-in-Mount-Kit.pdf",
+  "id": "SRC-00556",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "9d392ee7e69634c382658dac12f57bb53454c1777e7fc3fcde46eca0f430fd23",
+  "bytes": 43149
+ },
+ {
+  "title": "Replacement plug-in tulip adapters TCF2 / TCF3 for FD frame",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 410902A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FD_Plug-in-Tulip-Assembly.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_FD_Plug-in-Tulip-Assembly.pdf",
+  "id": "SRC-00557",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "f6c2ed120818859c99c519d256f1343cbd0cce88cbd63b5e3fb076242cd57050",
+  "bytes": 94284
+ },
+ {
+  "title": "TA6JD20 Distribution Lug Kit instructions (JD, LD, JXD, LXD, JM, LM)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 411776A00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LD_Distribution-Lug.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LD_Distribution-Lug.pdf",
+  "id": "SRC-00558",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "fd26ce48c14224265ec79ed2ec89306b413de9c6c39b2c10fe7887a16bee99fb",
+  "bytes": 356658
+ },
+ {
+  "title": "TA2-J6500T10 two-cavity connector with voltage tap instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 69991A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LD_2Cavity-Lug-withVT.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/GEA/SIE_IS_JD-LD_2Cavity-Lug-withVT.pdf",
+  "id": "SRC-00559",
+  "mfr": "GEA",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "2122cbc860f7d3207b6198c3eb420d5dd9d5c8682e1fd6bf3c7e00e71d772753",
+  "bytes": 245598
+ },
+ {
+  "title": "MSJ6 Mounting Kit instructions (I-T-E JXD, LXD, JM and LM)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 66456A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LD_MountingScrew-Kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LD_MountingScrew-Kit.pdf",
+  "id": "SRC-00560",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "92a6bc11083a48578a5420c9f34f418f490af26a58b564b88bddf9c3eff7ebc2",
+  "bytes": 48974
+ },
+ {
+  "title": "TA1-L6750 connector instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 63306C02",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LM_1Cavity-Al-Connect.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LM_1Cavity-Al-Connect.pdf",
+  "id": "SRC-00561",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "fde7630522188c13b11ae00fb9c6a4ac301aa6ee6cd1af72c4f09cad97b4c300",
+  "bytes": 12677
+ },
+ {
+  "title": "TC1-J6600 connector instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 63306B02",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LM_1Cavity-Cu-Connect.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LM_1Cavity-Cu-Connect.pdf",
+  "id": "SRC-00562",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "335de50a2a435b0740dd00dc56bb3e0518be94ee6e07f1f3149b711d5f1be52c",
+  "bytes": 11597
+ },
+ {
+  "title": "TA2-J6500 Wire Grip Kit instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 69796A04",
+  "date": "2010",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LM_2Cavity-Al-Connect.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LM_2Cavity-Al-Connect.pdf",
+  "id": "SRC-00563",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "1636a22ee5dcec071d304305b44e5fa7904fe7a74a82bbc05999ef9aabe51e20",
+  "bytes": 73458
+ },
+ {
+  "title": "TC2-J6500 connector instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 63306A02",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LM_2Cavity-Cu-Connect.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LM_2Cavity-Cu-Connect.pdf",
+  "id": "SRC-00564",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "1b920492fc092290af9c91bfbd50228258578fb6e0c076df20c95c31ff413bff",
+  "bytes": 12811
+ },
+ {
+  "title": "CCL 600 compression connector instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 82692A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LM_Compression-Conn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LM_Compression-Conn.pdf",
+  "id": "SRC-00565",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "f75c5e83800ddbf091630098b51b9cf5c2719e20a2cd21c44995f66dc4916541",
+  "bytes": 23405
+ },
+ {
+  "title": "Rear Connecting Studs Cat. No. RS5773, RS5774, RS5783, RS5784 instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 61442A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LD_RearConnect-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LD_RearConnect-Term.pdf",
+  "id": "SRC-00566",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "52c2f969db3139962340ffe77224778ce5e741578da532bee1b5a79ae8f5ce4f",
+  "bytes": 44080
+ },
+ {
+  "title": "Plug in Adapters Cat. No. PC5777, PC5778, PC5660 and PC5661 instructions (JD/LD frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 61423A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LD-Fr_Plug-in-Mount-Kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LD-Fr_Plug-in-Mount-Kit.pdf",
+  "id": "SRC-00567",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "dfe71cf6a11428a25b270da7cd0e0b8723db4aa2a3cea73a958638f6cf8aed25",
+  "bytes": 128309
+ },
+ {
+  "title": "TCJ2, TCJ3 Plug-In Adapters instructions (JD/LD/JF/LF)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 410903A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JD-LD_Plugin-Replace-Stud.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_JD-LD_Plugin-Replace-Stud.pdf",
+  "id": "SRC-00568",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "164da74d8f1665af1ada9ae89f67f095cca74776ed66ead271110fa31a26e26a",
+  "bytes": 77675
+ },
+ {
+  "title": "Rear Connecting Studs Cat. No. RS5787, RS5788 instructions (LMD frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 800818A01",
+  "date": "1994",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LMD_Rear-Connect-Stud.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_LMD_Rear-Connect-Stud.pdf",
+  "id": "SRC-00569",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "294a33733762c9d7ecb3317cb9c11d1848c1a3d444653d6fd59cc570a9c6597b",
+  "bytes": 58412
+ },
+ {
+  "title": "Panelboard Connector Straps Cat. No. CS3637R, CS3638R, CS3639R instructions (MD & ND frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 77942 Rev. 0P",
+  "date": "1989",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD-ND_PanelBoard-Straps.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD-ND_PanelBoard-Straps.pdf",
+  "id": "SRC-00570",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "5bba84e6d0196beb73f2b2001fe8153defc726ba67c09d976768724362b82d40",
+  "bytes": 84513
+ },
+ {
+  "title": "Pressure Wire Connectors (TA2K500, TA3K350, TC2K500, TC3K350, TA3K500, TA2N750) instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 99460A04",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD-ND_Al-CU-Terminal-Lugs.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD-ND_Al-CU-Terminal-Lugs.pdf",
+  "id": "SRC-00571",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "ee00a1c698e097fbb494e8ff3770e7d00787fc7467bd88a980e0c3e523ea6213",
+  "bytes": 27156
+ },
+ {
+  "title": "Pressure Wire Connectors for MD, ND, MF, NF, MM & NM (TA4P8500, TA4N8500, TA2K8750, TA2N8750, TA3P8750, TA3N8750, TA4H500)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 83439A04",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD-ND_Pressure-Connect.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD-ND_Pressure-Connect.pdf",
+  "id": "SRC-00572",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "4560e3a7d75c7b314f65f7ee486b3296e6f6cc49736d3b2c63872e4a533816b8",
+  "bytes": 24647
+ },
+ {
+  "title": "Wire Connector Shield #NDTS instructions (MD, ND, MM & NM)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 83445A00",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD-ND_Term-End-Shield.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD-ND_Term-End-Shield.pdf",
+  "id": "SRC-00573",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "e5388f022b7fe793419f3e11c06000fdd1792c0024580233e74fe0e9c26c260b",
+  "bytes": 17901
+ },
+ {
+  "title": "Rear connecting straps Cat. No. RS5785 & RS5786 instructions (I-T-E MD, ND, MF & NF)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 77933A00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD-ND_Rear-Connect-Straps.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD-ND_Rear-Connect-Straps.pdf",
+  "id": "SRC-00574",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "3e7631cc82826acf925d97a10fa897f353be79f76f6f9c87f50e8dd825c1949a",
+  "bytes": 98095
+ },
+ {
+  "title": "CCM800 Series A, CCM800K2, CCM800K3 compression connector instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 82693A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD_Compression-Connect.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD_Compression-Connect.pdf",
+  "id": "SRC-00575",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "a0f04334ae8c18a6770205bd343cca3ce54c467ccecf96261b5547512c254263",
+  "bytes": 42586
+ },
+ {
+  "title": "Plug-in Adaptors Cat. No. PC5664, PC5665, PC5666, PC5667 and PM5666 (MD, ND, MF, MM, NM & NF)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 76682A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD-ND_Plug-in-Assembly.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD-ND_Plug-in-Assembly.pdf",
+  "id": "SRC-00576",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "d50430968b420ca4686badca2fd216613c0d6d7859c4a51228f9187367b160fd",
+  "bytes": 267637
+ },
+ {
+  "title": "Plug-in Adaptors Cat. No. PC5662, PC5663 and PM5663 (MD, MM & MF frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 760777A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD_Plugin-Assembly.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD_Plugin-Assembly.pdf",
+  "id": "SRC-00577",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "63071e991417509720f4dd007d4ee4a27159d12e02eb7ffafe48e955472c1b34",
+  "bytes": 333455
+ },
+ {
+  "title": "TCM2, TCM3 Plug-In Adapters instructions (MD, MM & MF frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 410904A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MD_Plugin-Replace-Stud.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MD_Plugin-Replace-Stud.pdf",
+  "id": "SRC-00578",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "68b65217c2d8b6a9548c9da45acb268bb2f40bd0b47ac4b8323f084e866342e5",
+  "bytes": 56970
+ },
+ {
+  "title": "TCN2, TCN3 Plug-In Adapters instructions (MD, ND, MM, NM, MF & NF)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 410905A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ND_Plugin-Replace-Stud.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_ND_Plugin-Replace-Stud.pdf",
+  "id": "SRC-00579",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "5296bd0d82b9540777deb3cf30efba46565d657039a3a0944c19cc98833afa86",
+  "bytes": 59432
+ },
+ {
+  "title": "Cat. No. TC5R600 Pressure Wire Connector instructions (I-T-E PD, PM, RD)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 83614A01",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_PD-RD_5Cavity-CU-WireConn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_PD-RD_5Cavity-CU-WireConn.pdf",
+  "id": "SRC-00580",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "dc5aae72c4c19ff5b8fa77b29b99738e443ecae30fb8719b2d220cc0958b87b1",
+  "bytes": 15230
+ },
+ {
+  "title": "Cat. No. TA6R600 Pressure Wire Connector instructions (PD, PM, RD)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 83623A02",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_PD-RD_6Cavity-AL-WireConn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_PD-RD_6Cavity-AL-WireConn.pdf",
+  "id": "SRC-00581",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "d3b8a07f92d766bd34ef041a0bf5aa19d47f57a2fa1beb12669c7ff305f1a0f9",
+  "bytes": 16488
+ },
+ {
+  "title": "Connect-All Mounting Block Assemblies Cat. No. MB9301 (PD), MBR9302 (RD), MM9301 and MM9302 (PM) instructions",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 73632A00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_PD-RD_MountingBlock-Assem.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_PD-RD_MountingBlock-Assem.pdf",
+  "id": "SRC-00582",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "56fc4577aa7d28d17c6472235eeb34d8814d321c45d11cb13f9a12d509ca9b89",
+  "bytes": 52904
+ },
+ {
+  "title": "Wire Connector Shield #PRDBS1 instructions (PD frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 411757A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_PD_Term-End-Shield.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_PD_Term-End-Shield.pdf",
+  "id": "SRC-00583",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "2884f014fbf7123416731b764abefcf6bdbe556c31594ae2c3c4b7e2a559b566",
+  "bytes": 135725
+ },
+ {
+  "title": "Cat. No. TA1Q300 terminal lug instructions (QJ, QJ2, QJH2)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 61936A01",
+  "date": "1988",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_QJ-1Cavity-AL-Terminal-Lug.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_QJ-1Cavity-AL-Terminal-Lug.pdf",
+  "id": "SRC-00584",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "04b3629069f083ee2df4189e5715751e1585c0fbc2efaeb164579201c7d71f2c",
+  "bytes": 26206
+ },
+ {
+  "title": "CCQ250 compression lugs instructions (Frame QR)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 814533A",
+  "date": "2015",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_CCQ250_CompressionLugs.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_CCQ250_CompressionLugs.pdf",
+  "id": "SRC-00585",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "25f451ee5f7bd837679ad041e240ac23e95df4223cc8c0db0ef1d138803612f3",
+  "bytes": 458151
+ },
+ {
+  "title": "3TA1QR300 / 3TC1QR250 / TA1QR300 / TC1QR250 Wire Connector instructions (Frame QR)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 814532A",
+  "date": "2015",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_QR_WireConnector.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_QR_WireConnector.pdf",
+  "id": "SRC-00586",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "cb2ca5ebae2e0d0cbcf9156f27c5d9fe7f4722a82c013d979545cd4948717b23",
+  "bytes": 378038
+ },
+ {
+  "title": "MSQR3 Mounting Screw Kit instructions (QR)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 814517A",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MountingScrew_QR_MSQR3.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MountingScrew_QR_MSQR3.pdf",
+  "id": "SRC-00587",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "238fc7d38fa4ef8ee7dae65e5d2396794b4299af8295164ac19be0eec2e246f6",
+  "bytes": 267712
+ },
+ {
+  "title": "Screw Mounting Kit CQDSMK for CQD breakers",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 800496G00 Rev. 5P",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_CQD_Mounting-Screw-Kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_CQD_Mounting-Screw-Kit.pdf",
+  "id": "SRC-00588",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "0dd3729303fe7d4bcd572b526873bb3f50af9f88b38301ddf6162dafc318de64",
+  "bytes": 12835
+ },
+ {
+  "title": "Face Mounting Bracket kits CQDFMB1 / CQDFMB2 / CQDFMB3 for CQD circuit breakers",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 800496D00 / 800496E00 / 800496F00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_CQD-1pole-FaceMountingPlate.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Also SIE_IS_CQD-2Pole-FaceMountingPlate.pdf and SIE_IS_CQD-3pole-FaceMountingPlate.pdf; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_CQD-1pole-FaceMountingPlate.pdf",
+  "id": "SRC-00589",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "ee59ab716df4729fdaac1f280dd59bdbb1727f40fe66aca75d6260f6d8e6aa06",
+  "bytes": 26086
+ },
+ {
+  "title": "Face mounting plate FMPG1 / FMPG2 / FMPG3 for NGG & CQD",
+  "publisher": "Siemens",
+  "doc_number": "",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_CQD-NGG_Face-Mount-Plate.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually (doc no. not legible at preview resolution)",
+  "local_file": "docs/library/SIE/SIE_IS_CQD-NGG_Face-Mount-Plate.pdf",
+  "id": "SRC-00590",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "b452574c0e9562723a8e79b208b5d127e14f04e179c23d54efcefd179d52aa2b",
+  "bytes": 220401
+ },
+ {
+  "title": "NGG mounting kit (4) #6-32 UNC screws",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 806632A01 Rev. 1P",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NGG_Mounting-Screw-Kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_NGG_Mounting-Screw-Kit.pdf",
+  "id": "SRC-00591",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "2c151a35decf5f437c3a0acce772a1a6d3883eb78be603eb7c8a6587f0e03192",
+  "bytes": 175853
+ },
+ {
+  "title": "TA6GG04 power distribution connector instructions (Frame NGG)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 809802A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NGG_PowerDistrib-Conn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_NGG_PowerDistrib-Conn.pdf",
+  "id": "SRC-00592",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "4fca1dd011be4d2ff65d03185d3d71e6470a79a17367baf2b69e810d40efdb37",
+  "bytes": 230504
+ },
+ {
+  "title": "3TC1Q1 Lug Kit (for use with NGG)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 806633A01 Rev. 1P",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MCCB_NGG_3TC1Q1.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_MCCB_NGG_3TC1Q1.pdf",
+  "id": "SRC-00593",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "efc6ed5710b891be06522c2012fba07d18542eb3be5a030216f801e35ce51957",
+  "bytes": 231194
+ },
+ {
+  "title": "TSSG3A terminal end shield, 3-pole (CQD / NGG / NGB)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806579A01",
+  "date": "2006",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_CQD-NGG-NGB_TerminalEndShield.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_CQD-NGG-NGB_TerminalEndShield.pdf",
+  "id": "SRC-00594",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "8047bf158f6236a74c587d4df8f84158aa6a77a9b14d72e35f3552c2ada97f65",
+  "bytes": 202208
+ },
+ {
+  "title": "Interphase Barrier for Frame CG, DG, FG (3VL9300-8CE01 / IPBF4 3VL9300-8CE41)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806886A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_CG-FG_Interphase-Barrier.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_CG-FG_Interphase-Barrier.pdf",
+  "id": "SRC-00595",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "4112e75f3339d84ca193f1faec145a54f9d7dbd663a1116ede71b1d33bac72d7",
+  "bytes": 213987
+ },
+ {
+  "title": "Interphase Barrier for Frame JG, LG, MG (3VL9600-8CE01 / IPBM4 3VL9600-8CE41)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806887A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JG-MG_Interphase-Barrier.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_JG-MG_Interphase-Barrier.pdf",
+  "id": "SRC-00596",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "8a6772343182613f822bdf298454ea648531f724d4c36fdd9b8decabcdc041a5",
+  "bytes": 196850
+ },
+ {
+  "title": "Interphase Barrier for Frame NG, PG (3VL9800-8CE01 / IPBP4 3VL9800-8CE41)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806888A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NG-PG_Interphase-Barrier.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_NG-PG_Interphase-Barrier.pdf",
+  "id": "SRC-00597",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "c3a38a2af1d6a60ead0fbc076be18f492f90a30e51f28b045cb4ab99313b170a",
+  "bytes": 134229
+ },
+ {
+  "title": "Terminal Covers for Frame CG, DG, FG (TSLF3/TSLF4, 3VL9300-8CB31/41)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806883A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_CG-FG_Terminal-cover.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_CG-FG_Terminal-cover.pdf",
+  "id": "SRC-00598",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "3d05692f25b70b7e15a0c717cb0e80671e363776653ff3e3206dc70295619094",
+  "bytes": 397953
+ },
+ {
+  "title": "Terminal Shield for Frame JG-MG (TSLL/TSSL/TSLM/TSSM)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806884A04",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JG-MG_Terminal-cover.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_JG-MG_Terminal-cover.pdf",
+  "id": "SRC-00599",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "de05b7e230862c24b6991da64fd9a6efe8f12593d890902764268cf7dac6735d",
+  "bytes": 1711907
+ },
+ {
+  "title": "Rear Studs / Rear Terminals for Frame DG, FG",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806866A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_DG-FG_Rear-Conn-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_DG-FG_Rear-Conn-Term.pdf",
+  "id": "SRC-00600",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "15d4e5f5b71a3f6097a4e28ff81e0e4fa4540f9f1e092fce1fc92c46ef67f889",
+  "bytes": 383610
+ },
+ {
+  "title": "Rear Terminals for Frame JG, LG",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806867A03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JG-LG_Rear-Conn-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_JG-LG_Rear-Conn-Term.pdf",
+  "id": "SRC-00601",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "96f442b36550cbbe5f9579be25a93397d0621d95b389adcf2cc404594a96b757",
+  "bytes": 759376
+ },
+ {
+  "title": "Rear Terminals for Frame MG, NG",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806869A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MG-NG_Rear-Conn-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_MG-NG_Rear-Conn-Term.pdf",
+  "id": "SRC-00602",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "8a9082f10318f4a48370e93f420dd76274519192629ed89bab978eedbf8aec0b",
+  "bytes": 527809
+ },
+ {
+  "title": "Rear Terminals for Frame NG",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806870A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NG_Rear-Conn-Term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_NG_Rear-Conn-Term.pdf",
+  "id": "SRC-00603",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "138d7da5e7499ce2c75251ef21948f54a9f6d67b534b22df3c640806725aac42",
+  "bytes": 415177
+ },
+ {
+  "title": "Front Busbar Connection for Frame DG, FG, JG, LG (FBCD/FBCF/FBCJ/FBCL)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806863A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_DG-LG_Front-Bus-Bar-Conn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_DG-LG_Front-Bus-Bar-Conn.pdf",
+  "id": "SRC-00604",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "6cdec10b8672852a9212e13d3898c1a2edc5817512bcb568f7fbb89c641f45fe",
+  "bytes": 970577
+ },
+ {
+  "title": "Power Distribution Connectors for Frame DG, FG (TA3DG02, TA6DG04, TA3FG20, TA6FG04)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806940A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_DG-FG_Power-Distrib-Conn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_DG-FG_Power-Distrib-Conn.pdf",
+  "id": "SRC-00605",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "b54234a5df16b38ebf0d3f950a89c5011678ab284b510d39a8c746b0a84ad6c9",
+  "bytes": 338601
+ },
+ {
+  "title": "Power Distribution Connectors for Frame JG (TA6JG20, TA12JG04)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806941A03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JG_Power-Distrib-Conn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_JG_Power-Distrib-Conn.pdf",
+  "id": "SRC-00606",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "92e7cad3ac1a1593f8be9dea8fddac6c3027799018f0c902883a60f5716031fe",
+  "bytes": 452802
+ },
+ {
+  "title": "Wrap-around terminals for Frame DG (TW1DG20, TA1DG30, TC1DG30 families)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806871A03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_DG_Wrap-around-term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_DG_Wrap-around-term.pdf",
+  "id": "SRC-00607",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "0300c8d411ee70f1f078f0ed1e1615ab6509bc020e9c6f1a643ac38b2ef2da23",
+  "bytes": 213144
+ },
+ {
+  "title": "Wrap-around terminals / lugs for Frame FG (TW1FG350, TAW1FG350, TCW1FG350)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806872A03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_FG_Wrap-around-term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_FG_Wrap-around-term.pdf",
+  "id": "SRC-00608",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "1a917d76fb971928e1464837dfb00290ee24c18e30e6def0a111959c591f8e14",
+  "bytes": 134186
+ },
+ {
+  "title": "Wrap-around terminals for Frame JG (TW1JG600)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. ",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JG_Wrap-around-term.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_JG_Wrap-around-term.pdf",
+  "id": "SRC-00609",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "d9ce4678e842c82c53cc9485018f87ac30f1d4f847748b5d16faf1248445019b",
+  "bytes": 221063
+ },
+ {
+  "title": "Wrap-around terminal for CG (3TW1CG20, 3TA1CG30)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. ",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_WRAP-TERMINAL.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_WRAP-TERMINAL.pdf",
+  "id": "SRC-00610",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "32623c25c0686fb6345abfd1f3008534a6768d4e468814e5123801519ac83d11",
+  "bytes": 316436
+ },
+ {
+  "title": "Terminal Al/Cu connectors for Frame NG (TA3NG750, TA4NG500 families)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806877A04",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NG_Terminal-AL-CU-Conn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_NG_Terminal-AL-CU-Conn.pdf",
+  "id": "SRC-00611",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "b51210be8e9aacfe30e5439259e367f2c2cf2423d1e474b3eefca29c9fc8aec2",
+  "bytes": 1475884
+ },
+ {
+  "title": "Compression lugs for Frame NG (12CLN500 3VL9750-4TM31)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806856A03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NG_Compression-lugs.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_NG_Compression-lugs.pdf",
+  "id": "SRC-00612",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "0ca84cc49243d9b6e2dd5b3c1d05352c1df2b85f45fd8e2a2416ef5fe678a37f",
+  "bytes": 923357
+ },
+ {
+  "title": "Breaker Mounting Base for Frame PG (MBPG1600, MBPG1601, TA4P750)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806952A02",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_PG_Brkr-Mounting-Base.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_PG_Brkr-Mounting-Base.pdf",
+  "id": "SRC-00613",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "1184370b0509698ee990323a80c2991242b1ec4a828d30dc34752ae3a659fa78",
+  "bytes": 513194
+ },
+ {
+  "title": "Lug Mounting Assembly / Terminal Al connector for Frame PG (LMAP1600, TA6PG750)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806951A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_PG_Lug-MountingAssemb.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_PG_Lug-MountingAssemb.pdf",
+  "id": "SRC-00614",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "7197ff4bb4cf86e2f103a57d66ecc601498cb19dad1862ce195aa334a55e169a",
+  "bytes": 700101
+ },
+ {
+  "title": "Terminal Al connector for Frame PG (TA6PG750, 3TA6PG750, LMAP1600)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806875A03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_PG_Terminal-AL-Conn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_PG_Terminal-AL-Conn.pdf",
+  "id": "SRC-00615",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "b3c989b02005d976b86dbf940362315268a10ceef5da75881cd1dfad9c501f6b",
+  "bytes": 288017
+ },
+ {
+  "title": "Mounting Screw Kit MSKM4 3VL9600-8SB41 for MG-PG",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806903A03",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MG-PG_Mounting-Screw-Kit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_MG-PG_Mounting-Screw-Kit.pdf",
+  "id": "SRC-00616",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "a6620b5187cfefbd50479a199fb104cd7b1d5e08470e15795ad1119a95911ceb",
+  "bytes": 248506
+ },
+ {
+  "title": "Plug-in Mounting Base for Frame DG, FG (PCBD*/PCBF*/PCXD*/PCXF*)",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806847A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_DG-FG_Plug-in-mount.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_DG-FG_Plug-in-mount.pdf",
+  "id": "SRC-00617",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "bb3120e4b7ce114b3df03b3d8acaaafc7efb2285dd0c08123c42abc7d75276fb",
+  "bytes": 1354096
+ },
+ {
+  "title": "Plug-in Mounting Base for Frame JG, LG",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806848A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_JG-LG_Plug-in-mount.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_JG-LG_Plug-in-mount.pdf",
+  "id": "SRC-00618",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "ad525b29f83c766684dbd13535008b6635b3ae5ac470f77b309cc2b34c943c84",
+  "bytes": 1053294
+ },
+ {
+  "title": "Plug-in Mounting Base for Frame MG",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806890A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_MG_Plug-in-mount.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_MG_Plug-in-mount.pdf",
+  "id": "SRC-00619",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "4293fd89b1c9ed15760035c89f05d3761e59959de0322dbbed04d984b96f593f",
+  "bytes": 927768
+ },
+ {
+  "title": "Plug-in Mounting Base for Frame NG",
+  "publisher": "Siemens",
+  "doc_number": "I.L. No. 806846A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NG_Plug-in-mount.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Siemens/SEA multilingual accessory instruction for Sentron VL breakers; US catalog no. shown with 3VL MLFB",
+  "local_file": "docs/library/SIE/SIE_IS_NG_Plug-in-mount.pdf",
+  "id": "SRC-00620",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "83adc3c7ba3036785615865cd46c2e59f73c1bf30277063100f049a19d1ab518",
+  "bytes": 808933
+ },
+ {
+  "title": "Blue Pennant Switchboard Installation Instructions - Lug Landing Kit Catalog No. PLL44, PLL46 and PLL48",
+  "publisher": "Siemens",
+  "doc_number": "12-C-1010-01 Rev. 6",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_Blue_Pennant_Lug_12-C-1010-01.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_Blue_Pennant_Lug_12-C-1010-01.pdf",
+  "id": "SRC-00621",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "bbba2e7083cbf3fda72deb809873458aa130df3f65dfcb8525b5f976bc24299e",
+  "bytes": 135475
+ },
+ {
+  "title": "TA6ED06 Distribution Lug Kit instructions (E, ED & EM frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 411777A01",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ED_Distribution-lug.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_ED_Distribution-lug.pdf",
+  "id": "SRC-00622",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "073ddd493a94cd22062b863cb72d464dd78dd2734d7f41e4ae9b2bfaa3eb3ce0",
+  "bytes": 61012
+ },
+ {
+  "title": "CCN1200 Series A, CCN1200K2, CCN1200K3 compression lug instructions (ND frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 82694A00",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_ND_CompressionConnectors.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_ND_CompressionConnectors.pdf",
+  "id": "SRC-00623",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "9193c7c48a973c6cd8e71019b9c70374909200a586f88d67c24f37cf64ef1bc4",
+  "bytes": 181816
+ },
+ {
+  "title": "Cat. No. TA5P600, TA4P750 Pressure Wire Connectors (PD and PM frame)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 110871A02",
+  "date": "2000",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_PD_4Cavity-AL-WireConn.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_PD_4Cavity-AL-WireConn.pdf",
+  "id": "SRC-00624",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "beeb2302f3721d25e4bd81282e5f1bad4bd1ff05d530ed5b8dca0ff2ed4fe10a",
+  "bytes": 47281
+ },
+ {
+  "title": "Cat. No. TCIQ250 connector instructions (QJ, QJ2, QJH2, QJ2-H, HQJ2H)",
+  "publisher": "Siemens",
+  "doc_number": "Pc. No. 62152A00",
+  "date": "1986",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_QJ_1Cavity-CU-Terminal-Lug.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned hand-lettered sheet; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_QJ_1Cavity-CU-Terminal-Lug.pdf",
+  "id": "SRC-00625",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "47774333bd5d57efd5e4fa2206b6a8cb0cd0019a2b3b611eca61e30a3b3d0b8b",
+  "bytes": 74787
+ },
+ {
+  "title": "CCQ 225 compression lug instructions (QJ2, QJH2, QJ2-H)",
+  "publisher": "Siemens",
+  "doc_number": "",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_QJ_Compression-Lug.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Scanned; read visually",
+  "local_file": "docs/library/SIE/SIE_IS_QJ_Compression-Lug.pdf",
+  "id": "SRC-00626",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "ddc7d66e91e65a0b028b416d3ad9022b76d07ef080d36d10e78580f17049c3d8",
+  "bytes": 101471
+ },
+ {
+  "title": "Power Mod Modular Metering Lug Kits LK12500 and LK32500 installation instructions",
+  "publisher": "Siemens",
+  "doc_number": "P/N 48100004 0101 Rev.B",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LK12500-LK32500.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_LK12500-LK32500.pdf",
+  "id": "SRC-00627",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "b075e6d42c06b598401a4c73a0837e9d90db4eefb448826e46fed1241a398285",
+  "bytes": 202293
+ },
+ {
+  "title": "Power Mod Modular Metering Lug Kits LK11750 and LK31750 installation instructions",
+  "publisher": "Siemens",
+  "doc_number": "P/N 48100007 0101 Rev.B",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LK11750-LK31750.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_LK11750-LK31750.pdf",
+  "id": "SRC-00628",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "1c0b7e01aa42725c76390185db2bd3e9e28b60eb325f40abb6547ebc3bba2b9f",
+  "bytes": 200460
+ },
+ {
+  "title": "Power Mod Modular Metering Lug Kits LK13500 and LK33500 installation instructions",
+  "publisher": "Siemens",
+  "doc_number": "P/N 48100005 0101 Rev.B",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LK13500-LK33500.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_LK13500-LK33500.pdf",
+  "id": "SRC-00629",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "82a58bd1d09264f06af701bbf2770bc663d80c745dc735e977834d4a25e862fb",
+  "bytes": 209016
+ },
+ {
+  "title": "Power Mod Modular Metering Lug Kits LK13750 and LK33750 installation instructions",
+  "publisher": "Siemens",
+  "doc_number": "P/N 48100008 0101 Rev.B",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LK13750-LK33750.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_LK13750-LK33750.pdf",
+  "id": "SRC-00630",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "f3920fc752a4c0ceb9152dd3b1b06abd0109e26d95197fba5a0795e988e99728",
+  "bytes": 216876
+ },
+ {
+  "title": "Power Mod Modular Metering Lug Kits LK14500 and LK34500 installation instructions",
+  "publisher": "Siemens",
+  "doc_number": "P/N 48100006 0101 Rev.B",
+  "date": "",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_LK14500-LK34500.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_LK14500-LK34500.pdf",
+  "id": "SRC-00631",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "bb59a709e836133906609fd56953352114e7d75fc3026c3d05b34dd7778f0495",
+  "bytes": 216015
+ },
+ {
+  "title": "Installation Instructions for Power Mod Modular Metering Lug Kits (LK1xxxxN2 / LK3xxxxN2 table)",
+  "publisher": "Siemens",
+  "doc_number": "P/N 48100001 0101 Rev.B",
+  "date": "2009",
+  "url": "https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_NEMALugKit.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SIE/SIE_IS_NEMALugKit.pdf",
+  "id": "SRC-00632",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "df75317cbb9d0a40e6def306f464121b49e44f5b0a124e1b98ef7f8ae3e7f3ab",
+  "bytes": 200379
+ },
+ {
+  "title": "SPEEDFAX 2011 Product Catalog, Section 13 Switchboards - Stock Service Entrance Switchboards (Super Blue Pennant) and Switchboard Replacement Parts and Modification Kits, pp.13-11 to 13-20 (distributor extract)",
+  "publisher": "Siemens",
+  "doc_number": "SPEEDFAX 2011 pp.13-11..13-20",
+  "date": "2011",
+  "url": "https://assets.usesi.com/product-media/catalogs/USESI_93254_catalog.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "10-page extract of SPEEDFAX 2011 Section 13 hosted by US Electrical Services (USESI_93254_catalog.pdf). p.13-20 is the 'Connection Strap Kits' table referenced by SPEEDFAX Sec.11 as 'page 12-32' in other editions.",
+  "local_file": "docs/library/SIE/USESI_93254_catalog.pdf",
+  "id": "SRC-00633",
+  "mfr": "SIE",
+  "batches": [
+   "B0014-siemens-instruction-sheets"
+  ],
+  "sha256": "b2bf085b33bffeebae90cc4d72c5b3f6337163634a7262d0b35f9980a2238f5c",
+  "bytes": 633015
  }
 ]

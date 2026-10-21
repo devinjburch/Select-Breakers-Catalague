@@ -269,6 +269,17 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0132 — NQ fingersafe IB 80043-831-01 and drip-hood IB 80043-401-03** (B0015-squared-legacy-and-unmined)  
   All fingersafe replacement-part bulletins (80043-817/818/820/822/826-01) defer removal/installation of trim and deadfront to 80043-831-01; I-Line drip hood kits HCT2DH* reference 80043-401-03. Neither downloaded yet (download.schneider-electric.com/files?p_Doc_Ref=<n> works with browser UA).  
   Docs: 80043-831-01, 80043-401-03
+* **LEAD-0137 — Siemens 6CLE2C / 6CLF1C ('C' suffix) strap kit variants** (B0014-siemens-instruction-sheets)  
+  Lumen (Canada) lists 6CLE2C (125 A CED6 twin) and 6CLF1C (250 A CFD6 single) besides 6CLE2/6CLF1. Relationship (Canadian/copper variant? supersession?) unknown; no OEM document found.  
+  URLs: https://www.lumen.ca/en/products/20-power-distribution/08-panelboards/01-main-breaker-kits/p-U0lFNkNMRTJD-sie6cle2c-siemens-6cle2c-switchboards-branch-breaker-mounting-kit-copper-3-ph-600-v-125-a
+* **LEAD-0138 — BNK2 instruction 12-A-1085-01 missing from bucket** (B0014-siemens-instruction-sheets)  
+  SIE_IS_BNK2_12-A-1085-1.pdf in dcc-data-extract is a stored SharePoint error page (HTML), not the PDF. Find another copy (distributor sites, Siemens SIOS).  
+  Docs: 12-A-1085-01  
+  URLs: https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_BNK2_12-A-1085-1.pdf
+* **LEAD-0141 — SPEEDFAX 2011 Section 13 remaining pages** (B0014-siemens-instruction-sheets)  
+  USESI_93254_catalog.pdf holds only pp.13-11..13-20 of SPEEDFAX 2011 Section 13 (Switchboards). The rest (SB1/SB2/SB3 main and branch device tables, SMM metering) not found; search assets.usesi.com product-media catalogs for adjacent USESI_932xx files.  
+  Docs: SPEEDFAX 2011 Section 13  
+  URLs: https://assets.usesi.com/product-media/catalogs/USESI_93254_catalog.pdf
 
 ## Priority 3
 
@@ -410,6 +421,22 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0135 — NQRPLMB2HJ and other NQ/NF deadfront replacement kits** (B0015-squared-legacy-and-unmined)  
   NQRPLMB2HJ seen only in search summary of blocked se.com FAQ. Likely a family NQRPLMB2Q, NFRPLMB... exists; confirm via se.com product pages or Digest Sec.9 replacement-parts table.  
   URLs: https://www.se.com/us/en/faqs/FAQ000259238/
+* **LEAD-0139 — SIE_IS_SMND_SSMND.pdf is corrupt; SSMND kit contents unconfirmed** (B0014-siemens-instruction-sheets)  
+  The bucket copy cannot be rendered. SMND contents were taken from 11-B-1017-01 (image file). SSMND (SMD/SND solid-state) kit list not confirmed; SPEEDFAX 2011 p.13-20 lists SSMND 10in single 800/1200 A.  
+  Docs: 11-B-1017-01  
+  URLs: https://s3.amazonaws.com/dcc-data-extract/new-delta/asset/Compas/daily/Compas/Instruction%20Sheet%20Quick%20Guide/SIE_IS_SMND_SSMND.pdf
+* **LEAD-0140 — VL (DG-PG) accessory sheets: per-fastener torque mapping** (B0014-siemens-instruction-sheets)  
+  VL accessory instruction sheets (I.L. 8068xx) print several torque values inside figures; this batch recorded them as 'printed values'. Read figures visually to assign torques per fastener; also US cat. nos. for 3VL9300-8CE01 / 3VL9600-8CE01 / 3VL9800-8CE01 (3-pole interphase barriers) and CG-FG TSS covers (3VL9300-8CB31/41) not legible in text layer.  
+  Docs: 806886A02, 806883A02, 806866A01, 806863A02
+* **LEAD-0142 — SMSKHCP vs SMSKHCPP catalog number** (B0014-siemens-instruction-sheets)  
+  Bucket file SIE_IS_SMSKHCPP.pdf; document 11-D-1023-01 title reads 'SMSKHCP for Main Mounting Type SENTRON HCP SWITCH'. Confirm the orderable number in SPEEDFAX P5 tables.  
+  Docs: 11-D-1023-01
+* **LEAD-0143 — No TPS3/TPS4 SPD, SMM connecting-kit or ITE-era instruction sheets in bucket** (B0014-siemens-instruction-sheets)  
+  The dcc-data-extract SIE_IS_* listing (1,274 keys) contains no TPS3/TPS4 integral SPD kit sheets, no SMM*MK connecting kit sheets and no ITE/Siemens-Allis era kit sheets beyond the Series 5/6 drawings (11-5068, 11-5383, 12-5719..12-5772, 11-5073..11-5075, 11-5570). Siemens-Allis/ITE literature remains a gap (see LEAD-0047/0103).
+* **LEAD-0145 — PQ/PE/PF Super Blue Pennant distribution panel kit table alignment** (B0014-siemens-instruction-sheets)  
+  Voltage rows in the extracted SPEEDFAX 2011 p.13-16 table may be offset; verify against PDF before relying on voltage per catalog number.  
+  Docs: SPEEDFAX 2011 p.13-16  
+  URLs: https://assets.usesi.com/product-media/catalogs/USESI_93254_catalog.pdf
 
 ## Priority 4
 
@@ -442,4 +469,6 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0136 — Physical dimensions of legacy fronts (NQC-xxTF, MSC, MDC, LX, HC-26xx-C, MHC) for remanufacture** (B0015-squared-legacy-and-unmined)  
   Catalogs give box sizes only. Need PBA drawings (PBA600, PBA603WP, PBA604, PBA711, PBA555 referenced in Digest Sec.9 footnotes) or field measurement.  
   Docs: PBA600, PBA603WP, PBA604, PBA711, PBA555
+* **LEAD-0144 — Unprocessed out-of-scope sheets in bucket** (B0014-siemens-instruction-sheets)  
+  Load-center (EC*, LoadCenter_*, EQBreaker, MBK150A-225A EQ8693/8695/8696 main breaker kit, MainBreaker*, QJ main breaker inversion P/N 48100025, Renovation Interior kit 48100108), Power Mod / Uni-Pak meter-stack (PowerMod_*, WPK*, UNIPAK_*, ECRLK250 riser panel lug kit), WL power breaker, 3VA, safety switch (HF/HN/LBR/CFS/VBII, ReplacentLine HFB67/HFB68/HNB678) and AFCI/GFCI sheets were not processed.
 

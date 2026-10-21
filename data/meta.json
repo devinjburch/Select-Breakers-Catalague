@@ -1,19 +1,19 @@
 {
  "counters": {
-  "SRC": 509,
+  "SRC": 633,
   "FAM-EAT": 41,
   "BRK-EAT": 68,
   "EDH-EAT": 919,
-  "LEAD": 136,
+  "LEAD": 145,
   "FAM-SQD": 15,
   "BRK-SQD": 43,
   "EDH-SQD": 922,
   "FAM-GEA": 12,
   "BRK-GEA": 31,
   "EDH-GEA": 612,
-  "FAM-SIE": 14,
+  "FAM-SIE": 15,
   "BRK-SIE": 33,
-  "EDH-SIE": 446,
+  "EDH-SIE": 752,
   "FAM-FPE": 7,
   "FAM-ZIN": 2,
   "FAM-OTH": 5,
@@ -247,6 +247,22 @@
     "leads_new": 6,
     "docs_filed": 18,
     "batch": "B0015-squared-legacy-and-unmined"
+   }
+  },
+  {
+   "batch_id": "B0014-siemens-instruction-sheets",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0014-siemens-instruction-sheets.json",
+   "stats": {
+    "sources_new": 124,
+    "families_new": 1,
+    "breakers_new": 0,
+    "parts_new": 306,
+    "parts_updated": 123,
+    "leads_new": 9,
+    "docs_filed": 124,
+    "batch": "B0014-siemens-instruction-sheets"
    }
   }
  ],
