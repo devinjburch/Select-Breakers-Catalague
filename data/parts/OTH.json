@@ -1,0 +1,70 @@
+[
+ {
+  "id": "EDH-OTH-00001",
+  "mfr": "OTH",
+  "brand_marking": "Frank Adam",
+  "oem_part_number": "CU-NFJ",
+  "title": "Frank Adam hardware kit CU-NFJ (copper, for NFJ breakers? - inferred)",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-OTH-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CU-NFJ",
+     "conf": "C",
+     "src": [
+      "SRC-00168"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Frank Adam hardware kit CU-NFJ (copper, for NFJ breakers? - inferred)",
+     "conf": "C",
+     "src": [
+      "SRC-00168"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00168"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00168"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ }
+]

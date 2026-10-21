@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude research subagent (Claude Code), OEM catalog table extraction
 * Scope: Breaker-mounted terminal/connection hardware (lugs, lug kits, lug covers, line/terminal shields, end barriers, control-wire kits, power distribution lugs, rear-connection studs) for GE/ABB (Q-Line TQD, E150 TEB/TED/THED, F225, J400/J600 TJJ/TJK, K1200 TKM/TKMA, Spectra RMS SE/SF/SG/SK, Record Plus FB/FC/FE/FG) and Siemens/ITE (BQ/BQD, NGG, QR2, QJ2, Sentron ED/FD/JD/LD/LMD/MD/ND/PD/RD).
-* Merge stats: {'sources_new': 8, 'families_new': 0, 'breakers_new': 16, 'parts_new': 184, 'parts_updated': 0, 'leads_new': 7, 'docs_filed': 7, 'batch': 'B0008-breaker-terminal-kits-ge-siemens'}
+* Merge stats: {'sources_new': 8, 'families_new': 0, 'breakers_new': 27, 'parts_new': 184, 'parts_updated': 0, 'leads_new': 7, 'docs_filed': 0, 'batch': 'B0008-breaker-terminal-kits-ge-siemens'}
 
 ## Narrative
 

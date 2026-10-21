@@ -121,7 +121,8 @@ Omit claim fields with no evidence (list them in `unknowns`).
 `branch-connector-kit, main-breaker-kit, main-lug-kit, sub-feed-lug-kit, through-feed-lug-kit,
 lug, lug-kit, connector-strap, busbar, bus-assembly, neutral-assembly, ground-bar, interior,
 mounting-bracket, mounting-rail, standoff, insulator, barrier, deadfront, filler-plate, trim,
-box/enclosure, hardware-kit, fastener, breaker-accessory, handle-lock, padlock-attachment,
+box/enclosure, hardware-kit, fastener, breaker-accessory, terminal-shield, rear-stud, switch-unit, fuse-kit,
+handle-lock, padlock-attachment,
 breaker-mounting-kit, conversion-kit, spd-kit, meter-kit, other`
 
 ## Lead

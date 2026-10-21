@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research agent (Opus) - web + PDF extraction session
 * Scope: Siemens / ITE / Gould panelboards and switchboards: P1 (original & Revised), S1/S2/SE legacy, P2, P3, P4/S4/SPP, P5/S5, SB1/SB2/SB3, Series 5/6 CDP/VB/FC20/FCI/FCII. Branch strap/connector kits, main/subfeed strap kits, main & feed-thru lug kits, neutral kits, filler/blank plates, deadfront parts, SEB barriers, provision hardware.
-* Merge stats: {'sources_new': 15, 'families_new': 10, 'breakers_new': 15, 'parts_new': 244, 'parts_updated': 0, 'leads_new': 9, 'docs_filed': 10, 'batch': 'B0006-siemens-ite'}
+* Merge stats: {'sources_new': 15, 'families_new': 10, 'breakers_new': 15, 'parts_new': 244, 'parts_updated': 0, 'leads_new': 9, 'docs_filed': 0, 'batch': 'B0006-siemens-ite'}
 
 ## Narrative
 

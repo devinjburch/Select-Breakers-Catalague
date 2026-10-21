@@ -1,0 +1,4844 @@
+[
+ {
+  "id": "EDH-FPE-00001",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KCDP1C",
+  "title": "FPE CDP twin bus-connection kit, NE/NEF frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KCDP1C",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE CDP twin bus-connection kit, NE/NEF frame",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Two NE/NEF frame breakers (Breaker King); 'twin mount ... single hole bus Federal Pacific CDP panel board' (Superbreakers); 600 V tag",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KCDP-1C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "NEF1K (PCS aftermarket; Breaker King SKU BCDPNEF10FPE)",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "note": "aftermarket assembly; not OEM",
+     "relation": "equivalent",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Bus connection hardware: screws, brackets and a deadfront cover plate, with safety/installation instructions (stated by Breaker King for its aftermarket equivalents; Superbreakers states 'screws, brackets, a panel cover and other accessories' for OEM-numbered kits)",
+     "conf": "C",
+     "src": [
+      "SRC-00139",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A max (per NEF1K listing)",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00138",
+   "SRC-00140",
+   "SRC-00141",
+   "SRC-00147"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00002",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KCDP2C",
+  "title": "FPE CDP twin bus-connection kit, NEJ/HEJ frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KCDP2C",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE CDP twin bus-connection kit, NEJ/HEJ frame",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Two NEJ/HEJ frame breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KCDP-2C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "NEJ1K (PCS aftermarket; Breaker King SKU BCDPNEJFPE)",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "equivalent",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Bus connection hardware: screws, brackets and a deadfront cover plate, with safety/installation instructions (stated by Breaker King for its aftermarket equivalents; Superbreakers states 'screws, brackets, a panel cover and other accessories' for OEM-numbered kits)",
+     "conf": "C",
+     "src": [
+      "SRC-00139",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A max (per NEJ1K listing)",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00138",
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00003",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KCDP3C",
+  "title": "FPE CDP twin bus-connection kit, NFJ/HFJ frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KCDP3C",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE CDP twin bus-connection kit, NFJ/HFJ frame",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Two NFJ/HFJ frame breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KCDP-3C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "NFJ1K (PCS aftermarket; Breaker King SKU BCDPNFJFPE)",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "equivalent",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Bus connection hardware: screws, brackets and a deadfront cover plate, with safety/installation instructions (stated by Breaker King for its aftermarket equivalents; Superbreakers states 'screws, brackets, a panel cover and other accessories' for OEM-numbered kits)",
+     "conf": "C",
+     "src": [
+      "SRC-00139",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A max (per NFJ1K listing)",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00138",
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00004",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KCDP4C",
+  "title": "FPE CDP twin bus-connection kit, NJL/HJL frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-006"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KCDP4C",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00139",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE CDP twin bus-connection kit, NJL/HJL frame",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00139",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00139",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Two NJL/HJL frame breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00139",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00139",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00138",
+      "SRC-00139",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KCDP-4C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "NJL1K (PCS aftermarket; Breaker King SKU BCDPNJLFPE)",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00139",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "equivalent",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Bus connection hardware: screws, brackets and a deadfront cover plate, with safety/installation instructions (stated by Breaker King for its aftermarket equivalents; Superbreakers states 'screws, brackets, a panel cover and other accessories' for OEM-numbered kits)",
+     "conf": "C",
+     "src": [
+      "SRC-00139",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A max (per NJL1K listing)",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Shipping weight 7 lb (aftermarket NJL1K equivalent)",
+     "conf": "C",
+     "src": [
+      "SRC-00139"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00138",
+   "SRC-00139",
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00005",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KCDP5C",
+  "title": "FPE CDP link kit, NM/NN frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KCDP5C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE CDP link kit, NM/NN frame",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NM and NN breaker/switch frames in CDP panel ('CDP LINK KIT NM NN BREAKERS')",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KCDP-5C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A (Superbreakers tag - doubtful for NM/NN frames)",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "note": "Rating looks inconsistent with 400-1200 A NM/NN frames",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Is KCDP5C single- or twin-mount? NM frames are typically single-mount."
+  ],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00006",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KCDP-1A",
+  "title": "FPE twin mounting kit for NE/NEF frames in NA1B/NH1B panels",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-005"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KCDP-1A",
+     "conf": "C",
+     "src": [
+      "SRC-00142"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE twin mounting kit for NE/NEF frames in NA1B/NH1B panels",
+     "conf": "C",
+     "src": [
+      "SRC-00142"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00142"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "(2) 3-pole NE/NEF frame breakers in NH1B / NA1B type panels (label)",
+     "conf": "C",
+     "src": [
+      "SRC-00142"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00142"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00142"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "id_features": [
+    {
+     "value": "Label text includes 'J25 (HM1)' and 'LA25037' (meaning unknown)",
+     "conf": "C",
+     "src": [
+      "SRC-00142"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Shipping package 4 x 3 x 3 in, 1 lb (listing; not part dimensions)",
+     "conf": "C",
+     "src": [
+      "SRC-00142"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Is KCDP-1A an earlier revision of KCDP1C or a distinct NA1B/NH1B kit? Same as relectric NAIB-NEF?"
+  ],
+  "source_ids": [
+   "SRC-00142"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00007",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KBDP1C",
+  "title": "FPE BDP twin bus-connection kit, NE/NEF/HEG frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KBDP1C",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE BDP twin bus-connection kit, NE/NEF/HEG frame",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Two NE/NEF/HEG frame breakers; 'three pole and twin mount'",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KBDP-1C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "NEF3K (PCS aftermarket assembly; Breaker King SKU BBDPNEF10FPE)",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "equivalent",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Bus connection hardware: screws, brackets and a deadfront cover plate, with safety/installation instructions (stated by Breaker King for its aftermarket equivalents; Superbreakers states 'screws, brackets, a panel cover and other accessories' for OEM-numbered kits)",
+     "conf": "C",
+     "src": [
+      "SRC-00139",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "240 V (Superbreakers)",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "note": "Conflicts with 600 V class of family; NEF breakers are 480 V",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00141",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00138",
+   "SRC-00140",
+   "SRC-00141",
+   "SRC-00147"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00008",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KBDP2C",
+  "title": "FPE BDP twin bus-connection kit, NEJ/NEJH/HEJ frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KBDP2C",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE BDP twin bus-connection kit, NEJ/NEJH/HEJ frame",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NEJ, NEJH, HEJ frames",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KBDP-2C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "NEJ3K (PCS aftermarket; Breaker King SKU BBDPNEJFPE)",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "equivalent",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Bus connection hardware: screws, brackets and a deadfront cover plate, with safety/installation instructions (stated by Breaker King for its aftermarket equivalents; Superbreakers states 'screws, brackets, a panel cover and other accessories' for OEM-numbered kits)",
+     "conf": "C",
+     "src": [
+      "SRC-00139",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00141",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00138",
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00009",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KBDP3C",
+  "title": "FPE BDP twin bus-connection kit (frame not stated; probably NFJ/HFJ)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KBDP3C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE BDP twin bus-connection kit (frame not stated; probably NFJ/HFJ)",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Twin mount into BDP (double hole bus); frame not stated by source",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KBDP-3C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "NFJ3K (PCS aftermarket, 225 A max) - probable equivalent by numbering pattern",
+     "conf": "D",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "equivalent",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Confirm KBDP3C is the NFJ/HFJ kit (pattern 1=NE,2=NEJ,3=NFJ,4=NJL,5=NM)."
+  ],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00010",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KBDP4C",
+  "title": "FPE BDP twin bus-connection kit, NJL/HJL frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-006"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KBDP4C",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE BDP twin bus-connection kit, NJL/HJL frame",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Two NJL/HJL frame breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00138",
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KBDP-4C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "NJL3K (PCS aftermarket; Breaker King SKU BBDPNJLFPE)",
+     "conf": "C",
+     "src": [
+      "SRC-00138",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "equivalent",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Bus connection hardware: screws, brackets and a deadfront cover plate, with safety/installation instructions (stated by Breaker King for its aftermarket equivalents; Superbreakers states 'screws, brackets, a panel cover and other accessories' for OEM-numbered kits)",
+     "conf": "C",
+     "src": [
+      "SRC-00139",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A max (per NJL3K)",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00138",
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00011",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KBDP5C",
+  "title": "FPE BDP mounting kit, NM/HNM frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KBDP5C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE BDP mounting kit, NM/HNM frame",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NM and HNM breaker types",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00012",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "NDPNEJ",
+  "title": "FPE NDP twin mounting strap kit, NEJ/NEJH/HEJ",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-004"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NDPNEJ",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00143"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE NDP twin mounting strap kit, NEJ/NEJH/HEJ",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00143"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00143"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NEJ, NEJH, HEJ frames, dual/twin branch mounting",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00143"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00143"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00143"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "material": [
+    {
+     "value": "copper",
+     "conf": "C",
+     "src": [
+      "SRC-00143"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00143"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V max",
+     "conf": "C",
+     "src": [
+      "SRC-00143"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "torque"
+  ],
+  "questions": [
+   "relectric spec table lists Panel Type 'CDP' for NDPNEJ while description says NDP - clarify."
+  ],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00143"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00013",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "NDPNE",
+  "title": "FPE NDP twin mounting strap kit, NE/NEF",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-004"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NDPNE",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE NDP twin mounting strap kit, NE/NEF",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NE frame breakers, dual/twin branch mounting (relectric description duplicates NEJ text)",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A / 240 V per search snippet of relectric NDPNE page",
+     "conf": "D",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00014",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "NAIB-NEF",
+  "title": "FPE NE/NEF twin kit for NA1B panel",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-FPE-005"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NAIB-NEF",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE NE/NEF twin kit for NA1B panel",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NE/NEF twin kit for NA1B panel",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Same item as KCDP-1A?"
+  ],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00015",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDP2C",
+  "title": "FPE FDP link/strap kit KFDP2C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDP2C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDP2C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KFDP-2C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00016",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDP3C",
+  "title": "FPE FDP link/strap kit KFDP3C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDP3C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDP3C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KFDP-3C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00017",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDP4C",
+  "title": "FPE FDP link/strap kit KFDP4C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDP4C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDP4C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards (200 A, 600 V; single branch mounting; for QMQB R-style panelboard switches)",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KFDP-4C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "200 A, 600 V; single branch mounting; for QMQB R-style panelboard switches",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141",
+      "SRC-00147"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141",
+   "SRC-00147"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00018",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDP46C",
+  "title": "FPE FDP link/strap kit KFDP46C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDP46C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDP46C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards (400 A, 600 V)",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "KFDP-46C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "relation": "alias",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A, 600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00019",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDP66C",
+  "title": "FPE FDP link/strap kit KFDP66C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDP66C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDP66C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards (600 A, 600 V)",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A, 600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00020",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDP7C",
+  "title": "FPE FDP link/strap kit KFDP7C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDP7C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDP7C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards (1200 A, 600 V)",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "1200 A, 600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00021",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDPD16C",
+  "title": "FPE FDP link/strap kit KFDPD16C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDPD16C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDPD16C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards (100 A, 600 V)",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A, 600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00022",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDPS16C",
+  "title": "FPE FDP link/strap kit KFDPS16C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDPS16C",
+     "conf": "C",
+     "src": [
+      "SRC-00141",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDPS16C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "FPE FDP link kit for QMQB (relectric listing)",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards (100 A, 600 V)",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "QMQB",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141",
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    },
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A, 600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified",
+   "Same as KFDPS16C?"
+  ],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00023",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDPD26C",
+  "title": "FPE FDP link/strap kit KFDPD26C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDPD26C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDPD26C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00024",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDPS26C",
+  "title": "FPE FDP link/strap kit KFDPS26C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDPS26C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDPS26C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00025",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDPV7C",
+  "title": "FPE FDP link/strap kit KFDPV7C for QMQB switch units",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDPV7C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link/strap kit KFDPV7C for QMQB switch units",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB fusible panelboard switches in FDP panelboards (1200 A, 600 V)",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "FDP interior: connects QMQB switch line side to vertical bus",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "1200 A, 600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Meaning of D/S/V infix (double/single/vertical?) and numeric suffix (1=100A, 2=200A, 46=400A, 66=600A, 7=1200A?) unverified"
+  ],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00026",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KFDP-5C",
+  "title": "FPE FDP link kit (QMQB4036R into BDP switchgear)",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003",
+   "FAM-FPE-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KFDP-5C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE FDP link kit (QMQB4036R into BDP switchgear)",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "'QMQB4036R INTO BDP SWITCHGEAR' (relectric) - i.e., QMQB 400 A 600 V switch mounted in BDP",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard interior, bolted to vertical bus; mounts two breakers side by side (twin) for CDP/BDP/NDP types",
+     "conf": "D",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00027",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KQB3C",
+  "title": "FPE QMQB switch strap/link kit KQB3C",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KQB3C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE QMQB switch strap/link kit KQB3C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "15-100 A, 600 V, dual/twin branch mounting, panelboard switch strap kit; relectric 'QMQB LINK KIT; 60A' (KQB3C) vs 'QMQB LINK KIT; 200A' (KQB-3C) - conflicting",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMQB/FDP panelboard interior",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00028",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KQB4C",
+  "title": "FPE QMQB switch strap/link kit KQB4C",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KQB4C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE QMQB switch strap/link kit KQB4C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB link kit; 200 A (relectric KQB-4C)",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMQB/FDP panelboard interior",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00029",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KQB46C",
+  "title": "FPE QMQB switch strap/link kit KQB46C",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KQB46C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE QMQB switch strap/link kit KQB46C",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB link kit",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMQB/FDP panelboard interior",
+     "conf": "D",
+     "src": [
+      "SRC-00140",
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140",
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00030",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KQB66C",
+  "title": "FPE QMQB switch strap/link kit KQB66C",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KQB66C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE QMQB switch strap/link kit KQB66C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB strap kit",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMQB/FDP panelboard interior",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00031",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KQB86C",
+  "title": "FPE QMQB switch strap/link kit KQB86C",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KQB86C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE QMQB switch strap/link kit KQB86C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "700-800 A, 600 V QMQB panel board switch strap kit",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMQB/FDP panelboard interior",
+     "conf": "D",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00032",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KQB-D26C",
+  "title": "FPE QMQB switch strap/link kit KQB-D26C",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KQB-D26C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE QMQB switch strap/link kit KQB-D26C",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB strap kit",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMQB/FDP panelboard interior",
+     "conf": "D",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00033",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "PK103T",
+  "title": "FPE QMQB switch strap/link kit PK103T",
+  "component_type": "connector-strap",
+  "family_ids": [
+   "FAM-FPE-003"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PK103T",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "FPE QMQB switch strap/link kit PK103T",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QMQB strap kit",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued (OEM); traded as new-surplus/aftermarket",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMQB/FDP panelboard interior",
+     "conf": "D",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "inference",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00034",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "KNA1B1C",
+  "title": "FPE NA1B panelboard lug kit",
+  "component_type": "main-lug-kit",
+  "family_ids": [
+   "FAM-FPE-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "KNA1B1C",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lug kit (Superbreakers: 'used for molded case circuit breaker'); tagged Lugs; numbering suggests NA1B panel kit",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque",
+   "wire range"
+  ],
+  "questions": [
+   "Is KNA1B1C a main lug kit for NA1B panels or a breaker lug kit?"
+  ],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00035",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "NM34",
+  "title": "Lug for FPE type NM breaker, (1) #1/0-600 kcmil, 125-300 A",
+  "component_type": "lug-kit",
+  "family_ids": [
+   "FAM-FPE-007",
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NM34",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lug for FPE type NM breaker, (1) #1/0-600 kcmil, 125-300 A",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "breaker terminal lugs",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00036",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "NM36",
+  "title": "Lug for FPE type NM breaker, (2) 3/0-600 kcmil, 350-600 A",
+  "component_type": "lug-kit",
+  "family_ids": [
+   "FAM-FPE-007",
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NM36",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lug for FPE type NM breaker, (2) 3/0-600 kcmil, 350-600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "breaker terminal lugs",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00037",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "NM38",
+  "title": "Lug for FPE type NM breaker, (3) 250-500 kcmil, 700-800 A",
+  "component_type": "lug-kit",
+  "family_ids": [
+   "FAM-FPE-007",
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NM38",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lug for FPE type NM breaker, (3) 250-500 kcmil, 700-800 A",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "breaker terminal lugs",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00038",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "N32",
+  "title": "Lug kit for NN breaker",
+  "component_type": "lug-kit",
+  "family_ids": [
+   "FAM-FPE-007",
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "N32",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lug kit for NN breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "breaker terminal lugs",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00039",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "RP211002",
+  "title": "FPE handle extension for NM 800/1000 A breakers",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-FPE-007"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RP211002",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Circuit breaker handle extension used for NM 800 A and 1000 A breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00040",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "RP212001",
+  "title": "FPE handle kit for NP frame",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-FPE-007"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "RP212001",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle kit used for NP frame molded case circuit breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00041",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "1LOK",
+  "title": "FPE handle lock for 1-pole NA/NB breakers",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-FPE-005",
+   "FAM-FPE-006"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-002",
+   "BRK-FPE-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "1LOK",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock 15-50 A for 1-pole NA and NB circuit breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "available as new (listing)",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00042",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "NCFS",
+  "title": "FPE filler plate for thin NC breaker space",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-FPE-005"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NCFS",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Load center filler plate used for thin type NC circuit breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00141"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00141"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-FPE-00043",
+  "mfr": "FPE",
+  "brand_marking": "",
+  "oem_part_number": "NFHARDWARE",
+  "title": "NF frame custom panel hardware (dealer item)",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-FPE-001"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-005"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "'NF FRAME CUSTOM PANEL HARDWARE' - dealer-assigned item, not an OEM number",
+     "conf": "C",
+     "src": [
+      "SRC-00140"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00140"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ }
+]

@@ -184,6 +184,13 @@ def merge_batch(store, path, warnings):
         lf = rec.get("local_file")
         if lf and "_incoming" in lf:
             src_path = ROOT / lf
+            if not src_path.exists():
+                # re-merge of an archived batch: the file was already filed in the library
+                filed = sorted(LIB.glob(f"*/{Path(lf).name}"))
+                if filed:
+                    rec["local_file"] = str(filed[0].relative_to(ROOT))
+                    rec["sha256"] = sha256(filed[0])
+                    rec["bytes"] = filed[0].stat().st_size
             if src_path.exists():
                 dest_dir = LIB / rec.get("mfr", "OTH")
                 dest_dir.mkdir(parents=True, exist_ok=True)
@@ -197,7 +204,7 @@ def merge_batch(store, path, warnings):
                 rec["sha256"] = digest
                 rec["bytes"] = dest.stat().st_size
                 stats["docs_filed"] += 1
-            else:
+            elif "_incoming" in rec.get("local_file", ""):
                 warnings.append(f"{batch}: local_file missing {lf}")
                 rec.pop("local_file", None)
 
@@ -253,9 +260,10 @@ def merge_batch(store, path, warnings):
     brkmap = {}
     for x in b.get("breakers", []):
         mfr = x.get("mfr", "OTH")
-        names = {norm_pn(n) for n in [x.get("name")] + as_list(x.get("aliases")) if n}
+        # breaker families match on exact name only: alias sets overlap between frame groupings
+        # (e.g. "F-frame" vs "EHD/FD") and alias matching merged distinct frames
         hit = next((e for e in store.breakers if e["mfr"] == mfr and
-                    names & {norm_pn(n) for n in [e["name"]] + e.get("aliases", [])}), None)
+                    norm_pn(e["name"]) == norm_pn(x.get("name"))), None)
         where = f"{batch}.breaker.{x.get('key')}"
         cl = claims_block(x.get("claims"), srcmap, batch, warnings, where)
         for fld in ("mounting", "frame", "poles", "amps", "voltage", "interrupting", "status"):
@@ -358,7 +366,10 @@ def merge_batch(store, path, warnings):
 
 
 def main():
-    files = [Path(a) for a in sys.argv[1:]] or sorted(INCOMING.glob("*.json"))
+    args = sys.argv[1:]
+    if not args:
+        sys.exit("usage: merge.py <batch.json ...> | --all   (only merge batches whose researcher has finished)")
+    files = sorted(INCOMING.glob("*.json")) if args == ["--all"] else [Path(a) for a in args]
     store = Store()
     MERGED.mkdir(parents=True, exist_ok=True)
     for path in files:

@@ -34,7 +34,7 @@ COMPONENT_ORDER = [
     "branch-connector-kit", "breaker-mounting-kit", "connector-strap", "busbar", "bus-assembly",
     "neutral-assembly", "ground-bar", "interior", "mounting-bracket", "mounting-rail", "standoff",
     "insulator", "barrier", "deadfront", "filler-plate", "trim", "box/enclosure", "hardware-kit", "fastener",
-    "conversion-kit", "spd-kit", "meter-kit", "breaker-accessory", "handle-lock", "padlock-attachment", "other"]
+    "conversion-kit", "spd-kit", "meter-kit", "switch-unit", "fuse-kit", "breaker-accessory", "terminal-shield", "rear-stud", "handle-lock", "padlock-attachment", "other"]
 
 ss = getSampleStyleSheet()
 BASE = ParagraphStyle("base", parent=ss["Normal"], fontName="Helvetica", fontSize=8.2, leading=10.2)

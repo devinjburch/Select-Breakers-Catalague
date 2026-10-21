@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research subagent (claude-opus-5-5), session B0005
 * Scope: GE / ABB distribution equipment: A-Series (AL/AQ/AE/AS/AD, column, Pro-Stock), A-Series II / A-Series Power Panel (AQP/AEP/ADP), Spectra Series power panelboards (APN plug-in / APNB bolt-on), SCP Plus, CCB/QMR, legacy NHB, ReliaGear neXT, AV-Line; branch/main breaker mounting kits, filler plates, main lug, neutral, ground and renewal parts.
-* Merge stats: {'sources_new': 22, 'families_new': 9, 'breakers_new': 15, 'parts_new': 280, 'parts_updated': 0, 'leads_new': 9, 'docs_filed': 11, 'batch': 'B0005-ge-abb'}
+* Merge stats: {'sources_new': 22, 'families_new': 9, 'breakers_new': 15, 'parts_new': 280, 'parts_updated': 0, 'leads_new': 9, 'docs_filed': 0, 'batch': 'B0005-ge-abb'}
 
 ## Narrative
 

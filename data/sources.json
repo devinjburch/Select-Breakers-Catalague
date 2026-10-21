@@ -1,891 +1,5 @@
 [
  {
-  "title": "SPEEDFAX Product Catalog - Section 11 Panelboards",
-  "publisher": "Siemens Industry, Inc.",
-  "doc_number": "SPEEDFAX Section 11 (last modified 06/24/21)",
-  "date": "2021-06",
-  "url": "https://media.distributordatasolutions.com/siemenscomplete/2021q3/documents/4c3c521171b400657d1e4257e047beee1a99295b.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/speedfax_sec11_2021q3.pdf",
-  "notes": "132 pages. Distributor-hosted (DDS syndication) copy of OEM PDF. Key pages: 11-7 (UPB coding), 11-13/11-14 (Revised P1 kits), 11-15 (Original P1 / S1-S2-SE kits), 11-20..11-23 (spare parts, filler chart), 11-53/11-54 (P2/P3 spare parts), 11-66/11-67 (P3 kits), 11-96 (P4 strap kits), 11-110 (P5 strap kits). Individual pages carry their own 'Revised on' dates (2019-2021).",
-  "id": "SRC-00001",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "bbaafb6a24764dc148bf8420f07cb32db6b60d241ae29233707f75954f363679",
-  "bytes": 6252869
- },
- {
-  "title": "Siemens Canada Power Product Catalogue - Section 11 Switchboards (SB1, SB2, SB3, SMP, FCI/FCII, IPS)",
-  "publisher": "Siemens Canada Limited",
-  "doc_number": "Power Product Catalogue Section 11",
-  "date": "2025-05",
-  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ac958a69-a1ee-45e7-95f6-152fe9153d31/s11-switchboards.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/s11-switchboards.pdf",
-  "notes": "PDF metadata creation 2025-05-30. p.11-5: SB1/SB2/SB3 connection strap kit table; p.11-14: S3VA52PR/S3VA53PR provision kits, nut keeper kits, 6FPB blank plates; p.11-15: CSA SMP/Series 6 strap kits (6BL2C, 6E62, 6F62, 6JJ62, 6M61C, 6N61C etc.).",
-  "id": "SRC-00002",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "cbe61c8b250d8d3fc186943c1c8806764e2a8b970ddca633079d3e596fbeef2f",
-  "bytes": 1155696
- },
- {
-  "title": "2005 Electrical Distribution Products price list - Switchboard Replacement and Modification Kits",
-  "publisher": "Siemens Energy & Automation",
-  "doc_number": "Discount Schedule A, page 8-13",
-  "date": "2005",
-  "url": "https://assets.usesi.com/product-media/brochures/USESI_93250_brochure.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/USESI_93250_brochure.pdf",
-  "notes": "Single catalog page hosted by distributor (USESI). Strap kits 'for Series 5 or 6 CDP Circuit Breaker Panelboards or FC20, FCI, FCII, CDP-6, VB-6, SB1, SB2, and SB3 Switchboards ... for switchboards manufactured since 1974'. Includes list prices (2005).",
-  "id": "SRC-00003",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "605a39bdfaa4bceafd003c379f54c3e319b46e284bce12f3726dc139e9f780bd",
-  "bytes": 44326
- },
- {
-  "title": "SPEEDFAX 2007-2008 Product Catalog - Section 10 Panelboards, Type P1 pages 10-17 to 10-22",
-  "publisher": "Siemens Power Distribution & Control",
-  "doc_number": "SPEEDFAX 2007-2008 pp.10-17..10-22",
-  "date": "2007",
-  "url": "https://www.nooutage.com/pdf/Siemens-PanelboardsP1.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/Siemens-PanelboardsP1.pdf",
-  "notes": "Original (pre-revision) P1 pages; lists P1 branch breakers BL/BLH/HBL/BQD/NGB, subfeed QJ2/ED4/FXD6. No kit tables on these pages.",
-  "id": "SRC-00004",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "98c4820d63c4a010efd69ebd307e7e869680b6eb82b513af94c136e7dd236469",
-  "bytes": 251347
- },
- {
-  "title": "Type P1 Panelboard data sheet (SIE_CS_P1)",
-  "publisher": "Siemens Industry, Inc.",
-  "doc_number": "SIE_CS_P1 / Siemens SIOS 109799956",
-  "date": "2021-10",
-  "url": "https://cache.industry.siemens.com/dl/files/956/109799956/att_1147894/v1/SIE_CS_P1.pdf",
-  "type": "oem_bulletin",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/SIE_CS_P1.pdf",
-  "notes": "(c) 10.2021. Revised P1 specification + main strap kit list; states 'Revised P1 kits cannot be used with original P1'.",
-  "id": "SRC-00005",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "6b8bdea35612248d20a3a06765e6539776dd83ac6176e51d83c317c28d7cf040",
-  "bytes": 508643
- },
- {
-  "title": "Type P3 Panelboard data sheet (distributor-hosted, file 30WD80V.pdf)",
-  "publisher": "Siemens Industry, Inc.",
-  "doc_number": "",
-  "date": "2021",
-  "url": "https://michaelsforms.eastus2.cloudapp.azure.com/prod_image/30WD80V.pdf",
-  "type": "oem_bulletin",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/30WD80V.pdf",
-  "notes": "Lists P2/P3 branch unit-space strap kits BBKB32, BBKVA4P2P3, BBKQR2, BBKVA5262S (sic; SpeedFax spells BBKVA5262P2S), BBKVA52P3T; strap kit for 1in frame breakers uses 3in unit space.",
-  "id": "SRC-00006",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "3120a36b9120b3993155311580900c659d24c5f04ef7fb5d6d00f9e3c8f1998a",
-  "bytes": 497099
- },
- {
-  "title": "New Revised Type P1 Kits and Accessories (flyer; distributor file MBKQR3150HA.pdf)",
-  "publisher": "Siemens Industry, Inc.",
-  "doc_number": "",
-  "date": "c.2015-2019",
-  "url": "https://michaelsforms.eastus2.cloudapp.azure.com/prod_image/MBKQR3150HA.pdf",
-  "type": "oem_bulletin",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/MBKQR3150HA.pdf",
-  "notes": "Earlier (pre-April-2020 neutral update) Revised P1 kit list: MBK..A breaker kits, CNLK30A/42A/54A, LNLK30A/42A/54A, 2NLK..A, 42NLK..A, MBKDFA back-fed label kit, DFFP1.",
-  "id": "SRC-00007",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "7b6ac864e29e82beac5701520e979ad7df50d4b588e3ac17fa2d06237662323e",
-  "bytes": 3807998
- },
- {
-  "title": "NextGen P1 panelboard brochure (Siemens Canada)",
-  "publisher": "Siemens Canada Limited",
-  "doc_number": "SI-LP-1633",
-  "date": "unknown (c.2020)",
-  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f264c377-e970-40b2-b60d-155bc2e52f40/ca-si-lv-en-NextGen-P1-brochure-SI-LP-1633.pdf",
-  "type": "oem_bulletin",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/NextGen-P1-brochure-SI-LP-1633.pdf",
-  "notes": "Canadian Revised P1 kit table; references MBKBFA back-fed main label kit and Canadian kit numbers (e.g. MBKQR12225A, MBKFD33250A, MBKJD33400A).",
-  "id": "SRC-00008",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "0fc012483dd64a140b6df883a8ec19bd0bd7af122771445dff7c25ca2a11f9fb",
-  "bytes": 2555093
- },
- {
-  "title": "Data sheet US2:MBKBFA - KIT P1 BL/BQD/NGB BACK FED MAIN BREAKER",
-  "publisher": "Siemens",
-  "doc_number": "US2:MBKBFA",
-  "date": "2021-01-06",
-  "url": "https://res.cloudinary.com/wholesale-plumbing/image/upload/Documents2/Siemens_MBKBFA_Specification_Sheet.pdf",
-  "type": "oem_web",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/Siemens_MBKBFA_Specification_Sheet.pdf",
-  "notes": "Minimal data sheet (title + 'Field installable kit').",
-  "id": "SRC-00009",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "08269a6a87685e30ad3b35f19e2120bd99173c898f0f90cf395ce4935558e3fa",
-  "bytes": 191413
- },
- {
-  "title": "Panelboards Selection and Application Guide",
-  "publisher": "Siemens Industry, Inc.",
-  "doc_number": "SIE Selection And Application Guide Panelboards (SIOS 109792056)",
-  "date": "2016",
-  "url": "https://cache.industry.siemens.com/dl/files/056/109792056/att_1049678/v1/SIE_Selection_And_Application_Guide_Panelboards.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/SIE/SIE_Selection_And_Application_Guide_Panelboards.pdf",
-  "notes": "(c) 2016. Only cross-checked by part-number grep in this batch (BBKB32, BBKED32, BBKNB32, BBKQR1, BBKQR2, BBKQRP1FK, BBKQRP2FK, DFFP3, DFFP6, LNLK30A/42A/54A, SEB kits, SF6/SF6D, SJ1/SJ1D, SE6/SE6D, SQR/SQRC/SQRD, 6FPB01..10). Not fully mined.",
-  "id": "SRC-00010",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ],
-  "sha256": "47e39f0402341cab07e73eb4c194579631247473f95ea77a460efd78dacaa96b",
-  "bytes": 2043534
- },
- {
-  "title": "Lumen (Canada) product listing - Siemens 6BL2C switchboards breaker mounting kit copper 3 ph 240 V 100 A",
-  "publisher": "Lumen",
-  "doc_number": "",
-  "date": "",
-  "url": "https://lumen.ca/en/products/20-power-distribution/08-panelboards/01-main-breaker-kits/p-U0lFNkJMMkM=-sie6bl2c-siemens-6bl2c-switchboards-breaker-mounting-kit-copper-3-ph-240-v-100-a",
-  "type": "distributor",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Seen via search summary only; breaker list varies between distributors (BL/BLH/HBL/BQD/BQD6 vs BQ/BQH/HB).",
-  "id": "SRC-00011",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ]
- },
- {
-  "title": "Distributor listings for Siemens SBL (sydist.com SIEM-SBL-50631; superbreakers.com/products/sbl; steinerelectric 'BL BKR MTG KIT FOR P4/S4/SPP PNLBD')",
-  "publisher": "various",
-  "doc_number": "",
-  "date": "",
-  "url": "https://www.sydist.com/Product/SIEM-SBL-50631",
-  "type": "distributor",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Search-summary only. Distributor descriptions are inconsistent (one wrongly calls it a padlock kit / QR frame); SpeedFax p.11-96 is authoritative.",
-  "id": "SRC-00012",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ]
- },
- {
-  "title": "Crescent Electric listing - QF3 Load Center Filler Plate (sub no. 12-1800-01), for QP/BQ/ED2/EQL/SEQ/EQG",
-  "publisher": "Crescent Electric Supply",
-  "doc_number": "",
-  "date": "",
-  "url": "https://crescentelectric.com/product/47056/qpbqed2-filler-plate-sub-no-12-1800-01",
-  "type": "distributor",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Search-summary only.",
-  "id": "SRC-00013",
-  "mfr": "OTH",
-  "batches": [
-   "B0006-siemens-ite"
-  ]
- },
- {
-  "title": "Mike Holt forum thread - Gould panels and switchboards",
-  "publisher": "Mike Holt Enterprises forum",
-  "doc_number": "",
-  "date": "",
-  "url": "https://forums.mikeholt.com/goto/post?id=1425085",
-  "type": "forum",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Anecdotal: ITE/Gould lineage, Bulldog Pushmatic not supported by Siemens.",
-  "id": "SRC-00014",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ]
- },
- {
-  "title": "Franklin Empire listing - Siemens 6F62 Connecting Strap Kit, For Use With SPP/FPP/S5/F2 Panelboards, 600 VAC, 70 to 250 A, Copper, 5 in H",
-  "publisher": "Franklin Empire",
-  "doc_number": "",
-  "date": "",
-  "url": "https://franklinempire.com/en/6f62-4114-6f62.html",
-  "type": "distributor",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Search-summary only.",
-  "id": "SRC-00015",
-  "mfr": "SIE",
-  "batches": [
-   "B0006-siemens-ite"
-  ]
- },
- {
-  "title": "BuyLog Catalog Section 11: Panelboards (A-Series Panelboards; Spectra Series Panelboards; Renewal Parts)",
-  "publisher": "GE Industrial Solutions",
-  "doc_number": "BuyLog Section 11 (pages Rev. 11/13; section updated 07/2014)",
-  "date": "2014-07",
-  "url": "https://assets.usesi.com/product-media/catalogs/USESI_18438_catalog.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/USESI_18438_catalog.pdf",
-  "notes": "52-page OEM PDF (PDF title 'GE BuyLog - Section 11: Panelboards') mirrored by distributor US Electrical Services (USESI). OEM original URL https://electrification.us.abb.com/catalog/buylog/GE%20Products%20BuyLog%202019/11_GE%20Products%20BuyLog_Panelboards.pdf returned HTTP/2 INTERNAL_ERROR / 503 from this container. Text extracted to buylog11.txt.",
-  "id": "SRC-00016",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "7108f24981e13c76d0324ca990244cfbab4d2fb588915424297e90acd6b550d7",
-  "bytes": 2981905
- },
- {
-  "title": "GE BuyLog page 11-10: A-Series II Panelboards Column - Field Installed Kits/Replacement Parts",
-  "publisher": "GE Industrial Solutions",
-  "doc_number": "BuyLog p.11-10 Rev. 11/13",
-  "date": "2013-11",
-  "url": "https://assets.usesi.com/product-media/specification-sheets/USESI_49199_specification_sheets.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/USESI_49199_specification_sheets.pdf",
-  "notes": "Single-page extract of BuyLog p.11-10 mirrored by USESI; heading reads 'A-Series II Panelboards'.",
-  "id": "SRC-00017",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "cd2a491e9a19eedfe777da2a8decb8e8c7cb87c5db5797fe6adfd6f576b2823d",
-  "bytes": 81795
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - SG Three-Phase Circuit Breaker Kits",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40150 Rev.No.03",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/rYlgoZ/DEH40150rev03.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40150rev03.pdf",
-  "notes": "Distributor mirror (Carbon Controls). Original yodify mirror links now 404.",
-  "id": "SRC-00018",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "52acc21fc82053ad5bf67f16d56d85629cc8b1d561b93927bab5d882e13d8179",
-  "bytes": 145568
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - SF Three-Phase Circuit Breaker Kits",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40151 Rev.No.02",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/vYA1QZ/DEH40151.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40151.pdf",
-  "id": "SRC-00019",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "8c1fa2a79dcb3b2012592f661a18396d4a125b1d98e2590654f612adeb10d9c8",
-  "bytes": 293800
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - TQD Three-Phase Circuit Breaker Kits",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40152 Rev.No.02",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/BnbG3Z/DEH40152.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40152.pdf",
-  "notes": "Same file also mirrored at https://cdn.lsicloud.net/kendall/Resources/AD/GE_ASPP6QD6D_Manual.pdf",
-  "id": "SRC-00020",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "f3c57f26ddd2ef1e40bb3b164af34de1675429c26093c35941e730137df9efa0",
-  "bytes": 207819
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - SE/TED Three-Phase Circuit Breaker Kits",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40153 Rev.No.02",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/lYWwVZ/DEH40153.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40153.pdf",
-  "id": "SRC-00021",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "2e9b4771a15b0c2f23bbda5304ce6fcdc9f4ce8f5c4c2bd28aced64edd9b436e",
-  "bytes": 225421
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Panel - THQB Three-Phase Circuit Breaker Kits (12-pole)",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40154 Rev.No.02",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/LeQrBZ/DEH40154.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40154.pdf",
-  "id": "SRC-00022",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "a6b8733a376a1012bf11e1fab2f934aa6c560ec856f5c5a7c8a585413be9778a",
-  "bytes": 216997
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - TEY Three-Phase Circuit Breaker Kits (12-pole)",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40155 Rev.No.02",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/YjVDgZ/DEH40155.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40155.pdf",
-  "id": "SRC-00023",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "ee209db699f9707f66225f76118bdba208900f2f9932e17540c3004c2b460f5a",
-  "bytes": 224830
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - FB Three-Phase Circuit Breaker Kits",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40156 Rev.No.01",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/KOrvrZ/DEH40156.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40156.pdf",
-  "notes": "Also rendered as text at https://www.manualsdir.com/manuals/295079/ge-industrial-solutions-a-series-ii-panelboards-fb.html",
-  "id": "SRC-00024",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "f98bdcabb9449e9cd696d03b05e7c403012399365b13b815ef8d8ae69390b902",
-  "bytes": 198455
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - TEY Three-Phase Circuit Breaker Kits (6-pole)",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40157 Rev.No.01",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/AelGOZ/DEH40157.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40157.pdf",
-  "id": "SRC-00025",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "c55f83de208b70a641d11906e13a6e23ed3ae99a3ed046256c7e9485c4d2159c",
-  "bytes": 224755
- },
- {
-  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Panel - THQB Three-Phase Circuit Breaker Kits (6-pole)",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40158 Rev.No.01",
-  "date": "unknown",
-  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/mDAggZ/DEH40158.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/GEA/DEH40158.pdf",
-  "id": "SRC-00026",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ],
-  "sha256": "6721cccbe679b031b6398f469b0c3f3031667ee362e396fb2972de296e243a8b",
-  "bytes": 215385
- },
- {
-  "title": "Spectra Series Power Panelboards - Bolt-On Circuit Breaker Kits (AMCB6QD, AMCB4QD)",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH065 R02",
-  "date": "2001-09",
-  "url": "https://www.manualsdir.com/manuals/295540/ge-industrial-solutions-spectra-series-power-panelboards-amcb4qd-and-amcb6qd.html",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Text rendering on manualsdir.com (4 pages); footer 'DEH065 R02 0901 (c) 2001 General Electric Company'. Table 1 quantities not captured in the text rendering.",
-  "id": "SRC-00027",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC2GM, AMC3GM)",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "GEH5674 R03",
-  "date": "2001-07",
-  "url": "https://www.manualsdir.com/manuals/294735/ge-industrial-solutions-spectra-series-power-panelboards-amc2gm-and-amc3gm.html",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Footer 'GEH5674 R03 0701'.",
-  "id": "SRC-00028",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "Spectra Series Power Panelboards - Circuit Breaker Cover Kit, Catalog Number AMCB6TEDL",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH40392 R01",
-  "date": "2001-04",
-  "url": "https://www.manualsdir.com/manuals/295049/ge-industrial-solutions-spectra-series-power-panelboards.html",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "id": "SRC-00029",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "Spectra Series Power Panelboards - Equipment Grounds Catalog Numbers AEG47 and AEG47S",
-  "publisher": "GE Industrial Systems",
-  "doc_number": "DEH212 R02",
-  "date": "2001-04",
-  "url": "https://www.manualsdir.com/manuals/294723/ge-industrial-solutions-spectra-series-power-panelboards-aeg47-and-aeg47s.html",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "id": "SRC-00030",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "ReliaGear neXT Power Panelboards (brochure)",
-  "publisher": "ABB",
-  "doc_number": "1SXU900191B0201",
-  "date": "2022-01",
-  "url": "https://simplebooklet.com/abbreliagearnextpanelboards?textonly=1",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Read via simplebooklet text-only rendering; no kit catalog numbers present.",
-  "id": "SRC-00031",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "NHB150PK General Electric / GE Mounting Hardware (product page)",
-  "publisher": "Relectric",
-  "url": "https://www.relectric.com/nhb150pk",
-  "type": "surplus",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "id": "SRC-00032",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "General Electric NHB150PK Twin Mount Mounting Hardware (product page)",
-  "publisher": "SuperBreakers",
-  "url": "https://www.superbreakers.com/collections/mounting-kits-panels-accessories/products/general-electric-nhb150pk-mounting-hardware",
-  "type": "surplus",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Content seen only via search-engine summary; page not fetched directly.",
-  "id": "SRC-00033",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "BuyLog Section 11 Panelboards (ABB, 2021/2022 edition incl. ReliaGear neXT and 'Spectra (obsoleted)' bolt-on mounting hardware)",
-  "publisher": "ABB",
-  "url": "https://electrification.us.abb.com/catalog/buylog/11_BuyLog_Panelboards.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "blocked",
-  "notes": "curl: empty reply; WebFetch: HTTP 503. Contents known only from search-engine summary (TOC mentions ReliaGear neXT nomenclature and 'Spectra (obsoleted) bolt-on panelboard mounting hardware'; 'Retrofit kit for Spectra panelboards').",
-  "id": "SRC-00034",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "GE Industrial Solutions manuals on manualmachine.com (DEH061 AMCB3KM/AMCB2KM; DEH042 cover supports SE/SF/TE/TF/TQ/TEL; GEH5589 APN/APNB interiors; AMCB4GB/AMCB6GB; AMCB2GM/AMCB3GM; A-Series II TQD)",
-  "publisher": "manualmachine.com (mirror of GE documents)",
-  "url": "https://manualmachine.com/ge/amcb3km/12960805-user-manual/",
-  "type": "archive",
-  "accessed": "2026-10-21",
-  "access_status": "blocked",
-  "notes": "HTTP 403 to both curl and WebFetch. Existence/titles known only from search results.",
-  "id": "SRC-00035",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "TQ2DPK GE product page",
-  "publisher": "Stanion Wholesale Electric",
-  "url": "https://www.stanion.com/Product/tq2dpkge",
-  "type": "distributor",
-  "accessed": "2026-10-21",
-  "access_status": "404",
-  "notes": "Description known only from search-engine summary; direct fetch returned 404.",
-  "id": "SRC-00036",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "Surplus Record listings: General Electric AV-Line switchboards (800/1200/1600 A)",
-  "publisher": "Surplus Record",
-  "url": "https://surplusrecord.com/listing/1600-amp-general-electric-av-line-switchboard-480-volts-3ph-4w-10-breaker-power-break-dist-main-1086962/",
-  "type": "surplus",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Seen via search-engine summary only.",
-  "id": "SRC-00037",
-  "mfr": "GEA",
-  "batches": [
-   "B0005-ge-abb"
-  ]
- },
- {
-  "title": "Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions",
-  "publisher": "Eaton",
-  "doc_number": "CA08100014E",
-  "date": "2018-06",
-  "url": "https://www.revereelectric.com/ASSETS/DOCUMENTS/ITEMS/EN/EATON_1MMMSB_Catalog.pdf",
-  "type": "oem_renewal_parts",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/Vol12_CA08100014E_revereelectric_EATON_1MMMSB_Catalog.pdf",
-  "notes": "Full 734-page Volume 12 hosted by distributor Revere Electric (mirror of OEM PDF). Tabs carry mixed dates: Tab 4 Panelboards dated June 2018; Tab 3 MCCB, Tab 5 Loadcenters and Tab 15 Distribution Switchboards dated October 2016. Key pages: V12-T4-1..T4-23 (panelboards: replacement charts, CDP/FDP/PRL layouts, renewal-parts doc index), V12-T15-1..T15-6 (switchboards incl. WF/WRP, ES, Pow-R-Line C history), V12-T3-10..T3-12 (Westinghouse breaker dimensions, last-manufactured dates), V12-T3-80..87 (panelboard-only replacement breakers RE/REH/RHF...). Eaton-hosted tab copy: https://www.eaton.com/content/dam/eaton/support/poweredge/aftermarket/vol12-tab04.pdf (eaton.com fetch failed from container).",
-  "id": "SRC-00038",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ],
-  "sha256": "804f07a93a258ef30d2756c490399f96e1d03039258a63b53dd173966b145e66",
-  "bytes": 17848506
- },
- {
-  "title": "Renewal Parts RP01400002E — Vintage Westinghouse panelboards (PRL1-LX, PRL1/PRL2, PRL3, CDP/HCDP, FDP)",
-  "publisher": "Eaton",
-  "doc_number": "RP01400002E",
-  "date": "2013-02",
-  "url": "https://www.farnell.com/datasheets/2307937.pdf",
-  "type": "oem_renewal_parts",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/RP01400002E_2013_farnell.pdf",
-  "notes": "20 pages, Publication No. RP01400002E / Z13209, effective February 2013, supersedes April 2009. Distributor (Farnell) mirror of OEM PDF. Contains CDP connector kits (Table 19 p.14), CDP retrofit kits (Tables 16-18 pp.12-13), FDP connector/retrofit kits (Tables 20-21 pp.17-18), PRL1/2/3 replacement connectors, neutral/ground bars, trim locks and clamps. Pricing in PL01400002E (not found).",
-  "id": "SRC-00039",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ],
-  "sha256": "cf8369c75f58ae1f62f727c09258f31bdd35426b37d8cdb822d12f5ed97777c1",
-  "bytes": 914143
- },
- {
-  "title": "Renewal Parts RP01400002E — Vintage Westinghouse panelboards (April 2009 edition)",
-  "publisher": "Eaton",
-  "doc_number": "RP01400002E (2009)",
-  "date": "2009-04",
-  "url": "https://assets.usesi.com/product-media/brochures/USESI_501159_brochure.pdf",
-  "type": "oem_renewal_parts",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/RP01400002E_2009_usesi.pdf",
-  "notes": "Earlier edition hosted by distributor US Electrical Services. Kit catalog numbers identical to 2013 edition except the hardware-only example: 2009 shows 'KCDPFD100H', 2013 shows 'KCDPFB100-H'.",
-  "id": "SRC-00040",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ],
-  "sha256": "d2eb25b066f2935438e5eabb99c8666ae2efb5b1baa0762bf81c29301feebcb1",
-  "bytes": 645579
- },
- {
-  "title": "Renewal Parts RP01400001E — Current Eaton panelboards (PRL1a, PRL2a, PRL3a, PRL4B, PRL4F, PRL5P)",
-  "publisher": "Eaton",
-  "doc_number": "RP01400001E (2017)",
-  "date": "2017-10",
-  "url": "https://www.elliottelectric.com/Media/5155C62H01-CHS-2-1-SpecificationSheet.pdf",
-  "type": "oem_renewal_parts",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/RP01400001E_2017_elliott.pdf",
-  "notes": "36 pages, effective October 2017, supersedes February 2009. Distributor (Elliott Electric) mirror. PRL4 breaker connector kits Table 37 p.24, fusible connector kits Table 38 p.25, retrofit kits Tables 39-40 p.26, PRL4 blank covers Table 36 p.24.",
-  "id": "SRC-00041",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ],
-  "sha256": "100308f91343c823674ab0a9197e7c2be7e35821326bec18b4a9656929b185b3",
-  "bytes": 1500439
- },
- {
-  "title": "Renewal Parts RP01400001E — Pow-R-Line Xpert and legacy panelboards",
-  "publisher": "Eaton",
-  "doc_number": "RP01400001E",
-  "date": "2022-05",
-  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/pow-r-line-renewal-parts-rp01400001e.pdf",
-  "type": "oem_renewal_parts",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/rp01400001e_2022_cl.pdf",
-  "notes": "40 pages, effective May 2022, supersedes April 2021. eaton.com URL timed out from container; identical file path retrieved from Eaton Chile mirror http://www.eatontransmisiones.cl/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/pow-r-line-renewal-parts-rp01400001e.pdf . PRL4X/PRL4 breaker connector kits Tables 46-47 pp.32-33 (new KPRL4X.. numbers), fusible kits Table 48 p.34.",
-  "id": "SRC-00042",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy",
-   "B0001-eaton-prl-panelboards"
-  ],
-  "sha256": "5a86bf6b03b1306235c35bdef2571d6ad317e5ef330b7dd1f4f6461de59b5c0c",
-  "bytes": 1829594
- },
- {
-  "title": "Switchboards—Low Voltage (Consulting Application Guide Tab 21)",
-  "publisher": "Eaton",
-  "doc_number": "CA08104001E Tab 21 (TB01500003E)",
-  "date": "2018-04",
-  "url": "https://assets.usesi.com/product-media/catalogs/USESI_515260_catalog.pdf",
-  "type": "oem_catalog",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/USESI_515260_catalog_CA08104001E_Tab21.pdf",
-  "notes": "Distributor-hosted copy of Eaton Consulting Application Guide Section 21 (April 2018). Pow-R-Line C description p.21.0-8/21.0-9, Pow-R-Line i p.21.0-11, PRLC distribution layout guide with device X-space Figure 21.1-9 p.21.1-12, main lug space Table 21.1-11 p.21.1-11, Integrated Facility System p.21.6-1.",
-  "id": "SRC-00043",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ],
-  "sha256": "3461e7871033ef5a6fbf094596197c78ed4ccbc93c19f452c819a83167d8ab77",
-  "bytes": 9964374
- },
- {
-  "title": "Eaton product specifications — KPRL4KDS",
-  "publisher": "Eaton",
-  "doc_number": "KPRL4KDS spec sheet",
-  "date": "",
-  "url": "https://www.elliottelectric.com/Media/KPRL4KDS-CHD-1021-3-Attachment.pdf",
-  "type": "oem_web",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/KPRL4KDS-specsheet.pdf",
-  "notes": "Eaton-generated product specification sheet (distributor-hosted). UPC 782114795996; 25.5 x 9.3 x 3.2 in; 9.25 lb; UL Listed.",
-  "id": "SRC-00044",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ],
-  "sha256": "bdca1eb450817630fab87dc19543fa33ed65a073a15e580bc2d2124e9e35dab8",
-  "bytes": 48548
- },
- {
-  "title": "Eaton product specifications — KPRL4KDT",
-  "publisher": "Eaton",
-  "doc_number": "KPRL4KDT spec sheet",
-  "date": "",
-  "url": "https://www.elliottelectric.com/Media/KPRL4KDT-CHD-1021-3-Attachment.pdf",
-  "type": "oem_web",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/KPRL4KDT-specsheet.pdf",
-  "notes": "Eaton-generated product specification sheet (distributor-hosted). UPC 782114796412; 9.85 lb; 'UL 67'; '44-inch box width required'. Listed dimensions 9 x 2 x 3.2 in look like packaging/data error.",
-  "id": "SRC-00045",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ],
-  "sha256": "519405767f5c3da216710cc56d4a07796eea48010849e61d97366e598edef99b",
-  "bytes": 45523
- },
- {
-  "title": "Volume 12 Tab 5 Loadcenters (BR Renovation and CH Loadcenters) excerpt",
-  "publisher": "Eaton",
-  "doc_number": "CA08100014E Tab 5",
-  "date": "2016-10",
-  "url": "https://media.suthlbr.com/images/downloads/vendor/18446/EATON_102581945_Catalog.pdf",
-  "type": "oem_renewal_parts",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "local_file": "docs/library/EAT/Vol12_Tab5_2016_suthlbr_EATON_102581945_Catalog.pdf",
-  "notes": "30-page excerpt; BR history (Bryant, Bridgeport CT; Challenger 1988; Jackson MS; Lincoln IL) p.V12-T5-2; BR replacement parts pp.V12-T5-14..16.",
-  "id": "SRC-00046",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ],
-  "sha256": "fd690b9736fac055386b6aff81cab729f2a907497f11de4205c633d72596844a",
-  "bytes": 403503
- },
- {
-  "title": "Eaton Pow-R-Line CS switchboards instruction manual",
-  "publisher": "Eaton",
-  "doc_number": "IB015002EN",
-  "date": "2021-11",
-  "url": "https://www.manualslib.com/manual/2585212/Eaton-Pow-R-Line-Cs.html",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Read via ManualsLib web view (pages 3, 8, 17). Eaton-hosted PDF https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/canada/eaton-pow-r-line-cs-switchboards-instruction-manual-ib015002en-ca.pdf could not be downloaded (timeout). Appendix A Table 2 busbar torque p.17.",
-  "id": "SRC-00047",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ]
- },
- {
-  "title": "Pow-R-Line switchboards instruction manual",
-  "publisher": "Eaton",
-  "doc_number": "IM01500001E",
-  "date": "2021-05",
-  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/pow-r-line-switchboard-manual-im01500001e.pdf",
-  "type": "oem_instruction",
-  "accessed": "2026-10-21",
-  "access_status": "blocked",
-  "notes": "Download from eaton.com and eaton.com.cn failed (timeout). Known only from search snippet (effective May 2021, supersedes Feb 2020).",
-  "id": "SRC-00048",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ]
- },
- {
-  "title": "eBay listing: EATON KPRL4KDS POW-R-LINE C einzelne Montage Panelboard Stecker Kit 400A 3P",
-  "publisher": "eBay seller (surplus)",
-  "doc_number": "",
-  "date": "",
-  "url": "https://www.ebay.de/itm/187106607578",
-  "type": "surplus",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Seen only as search-result title/snippet; page not opened. Listing title associates KPRL4KDS with 'Pow-R-Line C'.",
-  "id": "SRC-00049",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ]
- },
- {
-  "title": "Distributor listings for Eaton PRL4 connector kits (Crescent Electric, Rexel, Platt, Elliott, Gexpro, Dixon)",
-  "publisher": "various distributors",
-  "doc_number": "",
-  "date": "",
-  "url": "https://crescentelectric.com/product/57375/eaton-panelboard-connector-kit-copper-connectors-mounting-brackets-covers-hardware-and-instructions-for-ehd-fd-fdb-hfd-fdc-breakers-three-phase-three-pole-225a",
-  "type": "distributor",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Seen as search snippets: KPRL4FD described 'for EHD, FD, FDB, HFD, FDC breakers three-phase three-pole 225A'; Elliott marks KPRL4FD inactive; Dixon lists KPRL4LFD3 'CON KIT FD+LFD PRL4'; Gexpro lists KPRL4MC as single-mount kit for MDL/HMDL; Crescent lists KPRL4ND 'PRL4 connector kit for ND/HND breakers'.",
-  "id": "SRC-00050",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ]
- },
- {
-  "title": "Surplus Record listing: Westinghouse Pow-R-Line C 4000 A 240 V 3PH3W 2-section switchboard",
-  "publisher": "Surplus Record",
-  "doc_number": "",
-  "date": "",
-  "url": "https://surplusrecord.com/listing/westinghouse-pow-r-line-c-4000-amp-240v-3ph3w-2-section-switchboard-367548/",
-  "type": "surplus",
-  "accessed": "2026-10-21",
-  "access_status": "ok",
-  "notes": "Search snippet only: 'PROVISIONS FOR (2) KD, (4) LD, (2) ND, 3 POLE CIRCUIT BREAKERS' — shows Westinghouse-branded PRLC with Series C group-mounted provisions.",
-  "id": "SRC-00051",
-  "mfr": "EAT",
-  "batches": [
-   "B0002-eaton-switchboards-legacy"
-  ]
- },
- {
   "title": "Renewal Parts RP01400001E - Pow-R-Line Xpert and legacy (PRL1X, PRL2X, PRL3X, PRL4X, PRL1a, PRL2a, PRL3a, PRL4)",
   "publisher": "Eaton",
   "doc_number": "RP01400001E (Z25020)",
@@ -896,7 +10,7 @@
   "access_status": "ok",
   "local_file": "docs/library/EAT/pow-r-line-1.pdf",
   "notes": "Effective April 2021, supersedes December 2020. 40 pp. Mirror hosted on eatonarabia.com (Eaton distributor site). Primary source for kit tables.",
-  "id": "SRC-00052",
+  "id": "SRC-00001",
   "mfr": "EAT",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -915,13 +29,33 @@
   "access_status": "ok",
   "local_file": "docs/library/EAT/USESI_426974_catalog.pdf",
   "notes": "Effective February 2009; supersedes RP.38F.01.T.E pages 1-48 dated February 2000. 44 pp. Distributor-hosted (US Electrical Services) copy of OEM PDF. Contains older PRL4 kit numbers (KPRL4FD etc.) and PRL5P section.",
-  "id": "SRC-00053",
+  "id": "SRC-00002",
   "mfr": "EAT",
   "batches": [
    "B0001-eaton-prl-panelboards"
   ],
   "sha256": "c67fc8f64fa204d099bbe3751c2673c797c3da49b69bb36825a2016a9bceb65f",
   "bytes": 855357
+ },
+ {
+  "title": "Renewal Parts RP01400001E - Current Eaton panelboards",
+  "publisher": "Eaton",
+  "doc_number": "RP01400001E",
+  "date": "2017-10",
+  "url": "https://elliottelectric.com/Media/5155C62H01-CHS",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Effective October 2017, supersedes February 2009. Served by Elliott Electric as the spec sheet for 5155C62H01. Used to bracket when part numbers changed (still lists KPRL4FD, 4180B03, 4176B68, 4178B06H01).",
+  "id": "SRC-00003",
+  "mfr": "EAT",
+  "batches": [
+   "B0001-eaton-prl-panelboards",
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "local_file": "docs/library/EAT/rp01400001e_2022_cl.pdf",
+  "sha256": "5a86bf6b03b1306235c35bdef2571d6ad317e5ef330b7dd1f4f6461de59b5c0c",
+  "bytes": 1829594
  },
  {
   "title": "Panelboard Renewal Parts Supplement, Renewal Parts Data RP01414001E",
@@ -934,7 +68,7 @@
   "access_status": "ok",
   "local_file": "docs/library/EAT/USESI_196328_catalog.pdf",
   "notes": "Effective January 2011. 16 pp. Identical content also at https://assets.usesi.com/product-media/brochures/USESI_426974_brochure.pdf (saved as USESI_426974_brochure.pdf). Includes PRL3a blank cover widths, PRL4 blank cover widths, PRL4 connector kits (KPRL4LD/MD/ND/45XS) and Pow-R-Kit order form.",
-  "id": "SRC-00054",
+  "id": "SRC-00004",
   "mfr": "EAT",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -953,7 +87,7 @@
   "access_status": "ok",
   "local_file": "docs/library/EAT/RP01400002E_novapart_mirror.pdf",
   "notes": "Effective February 2013, supersedes April 2009. 20 pp. Mirror on novapart.co (landing page https://novapart.co/datasheet/farnell:2192454/ contains promotional text aimed at AI assistants - ignored).",
-  "id": "SRC-00055",
+  "id": "SRC-00005",
   "mfr": "EAT",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -972,7 +106,7 @@
   "access_status": "ok",
   "local_file": "docs/library/EAT/panelboard-and-lighting-control.pdf",
   "notes": "135 pp. Pow-R-Line Xpert (PRL1X/2X/3X/3E/4X/4DX/4F) selection guide p. V2-T3-2, panelboard selection guide p. V2-T3-11, terminal tables V2-T3-12/13.",
-  "id": "SRC-00056",
+  "id": "SRC-00006",
   "mfr": "EAT",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -991,7 +125,7 @@
   "access_status": "ok",
   "local_file": "docs/library/EAT/eaton-panelboard-cag-tb01400003e-tab-22.pdf",
   "notes": "84 pp, January 2018 sheets. Table 22.0-2 selection guide p. 22.0-5; PRL1a p. 22.1-1; PRL2a p. 22.2-1; PRL3a p. 22.3-1/22.3-2; PRL3E p. 22.3-5; PRL4 p. 22.4-1/22.4-2.",
-  "id": "SRC-00057",
+  "id": "SRC-00007",
   "mfr": "EAT",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -1009,7 +143,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Spec: Type Filler Plate; Length 4.220 in.",
-  "id": "SRC-00058",
+  "id": "SRC-00008",
   "mfr": "OTH",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -1025,7 +159,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "UPC 786685467672; description says 'for panels built PRIOR to April 2019'; color black; 1 pole.",
-  "id": "SRC-00059",
+  "id": "SRC-00009",
   "mfr": "OTH",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -1041,7 +175,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "UPC 782114795941; 225 A; 3-phase; product type 'PRL4 Conn Kit Twin MTD 3P E/F-FRM BKR'; package dims 9.0 x 1.5 x 3.0 in; listed weight 17 lb (as given); UL 67; shown in stock.",
-  "id": "SRC-00060",
+  "id": "SRC-00010",
   "mfr": "OTH",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -1057,7 +191,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "UPC 786689814915; Pow-R-Xpress (unassembled PRL4X) context.",
-  "id": "SRC-00061",
+  "id": "SRC-00011",
   "mfr": "OTH",
   "batches": [
    "B0001-eaton-prl-panelboards"
@@ -1074,13 +208,245 @@
   "access_status": "ok",
   "local_file": "docs/library/OTH/P41X25-ETN_elliott_spec.pdf",
   "notes": "Description 'Eaton, PRL4- 1X Blank Cover'; UPC 621037246102; 2.0 lb.",
-  "id": "SRC-00062",
+  "id": "SRC-00012",
   "mfr": "OTH",
   "batches": [
    "B0001-eaton-prl-panelboards"
   ],
   "sha256": "0499a41883fa125f62dbd83a2e057974b28e04b8c1aabad61a2a7a6329a11b41",
   "bytes": 60066
+ },
+ {
+  "title": "Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions",
+  "publisher": "Eaton",
+  "doc_number": "CA08100014E",
+  "date": "2018-06",
+  "url": "https://www.revereelectric.com/ASSETS/DOCUMENTS/ITEMS/EN/EATON_1MMMSB_Catalog.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/Vol12_CA08100014E_revereelectric_EATON_1MMMSB_Catalog.pdf",
+  "notes": "Full 734-page Volume 12 hosted by distributor Revere Electric (mirror of OEM PDF). Tabs carry mixed dates: Tab 4 Panelboards dated June 2018; Tab 3 MCCB, Tab 5 Loadcenters and Tab 15 Distribution Switchboards dated October 2016. Key pages: V12-T4-1..T4-23 (panelboards: replacement charts, CDP/FDP/PRL layouts, renewal-parts doc index), V12-T15-1..T15-6 (switchboards incl. WF/WRP, ES, Pow-R-Line C history), V12-T3-10..T3-12 (Westinghouse breaker dimensions, last-manufactured dates), V12-T3-80..87 (panelboard-only replacement breakers RE/REH/RHF...). Eaton-hosted tab copy: https://www.eaton.com/content/dam/eaton/support/poweredge/aftermarket/vol12-tab04.pdf (eaton.com fetch failed from container).",
+  "id": "SRC-00013",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "sha256": "804f07a93a258ef30d2756c490399f96e1d03039258a63b53dd173966b145e66",
+  "bytes": 17848506
+ },
+ {
+  "title": "Renewal Parts RP01400002E — Vintage Westinghouse panelboards (PRL1-LX, PRL1/PRL2, PRL3, CDP/HCDP, FDP)",
+  "publisher": "Eaton",
+  "doc_number": "RP01400002E",
+  "date": "2013-02",
+  "url": "https://www.farnell.com/datasheets/2307937.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/RP01400002E_2013_farnell.pdf",
+  "notes": "20 pages, Publication No. RP01400002E / Z13209, effective February 2013, supersedes April 2009. Distributor (Farnell) mirror of OEM PDF. Contains CDP connector kits (Table 19 p.14), CDP retrofit kits (Tables 16-18 pp.12-13), FDP connector/retrofit kits (Tables 20-21 pp.17-18), PRL1/2/3 replacement connectors, neutral/ground bars, trim locks and clamps. Pricing in PL01400002E (not found).",
+  "id": "SRC-00014",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "sha256": "cf8369c75f58ae1f62f727c09258f31bdd35426b37d8cdb822d12f5ed97777c1",
+  "bytes": 914143
+ },
+ {
+  "title": "Renewal Parts RP01400002E — Vintage Westinghouse panelboards (April 2009 edition)",
+  "publisher": "Eaton",
+  "doc_number": "RP01400002E (2009)",
+  "date": "2009-04",
+  "url": "https://assets.usesi.com/product-media/brochures/USESI_501159_brochure.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/RP01400002E_2009_usesi.pdf",
+  "notes": "Earlier edition hosted by distributor US Electrical Services. Kit catalog numbers identical to 2013 edition except the hardware-only example: 2009 shows 'KCDPFD100H', 2013 shows 'KCDPFB100-H'.",
+  "id": "SRC-00015",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "sha256": "d2eb25b066f2935438e5eabb99c8666ae2efb5b1baa0762bf81c29301feebcb1",
+  "bytes": 645579
+ },
+ {
+  "title": "Renewal Parts RP01400001E — Current Eaton panelboards (PRL1a, PRL2a, PRL3a, PRL4B, PRL4F, PRL5P)",
+  "publisher": "Eaton",
+  "doc_number": "RP01400001E (2017)",
+  "date": "2017-10",
+  "url": "https://www.elliottelectric.com/Media/5155C62H01-CHS-2-1-SpecificationSheet.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/RP01400001E_2017_elliott.pdf",
+  "notes": "36 pages, effective October 2017, supersedes February 2009. Distributor (Elliott Electric) mirror. PRL4 breaker connector kits Table 37 p.24, fusible connector kits Table 38 p.25, retrofit kits Tables 39-40 p.26, PRL4 blank covers Table 36 p.24.",
+  "id": "SRC-00016",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "sha256": "100308f91343c823674ab0a9197e7c2be7e35821326bec18b4a9656929b185b3",
+  "bytes": 1500439
+ },
+ {
+  "title": "Switchboards—Low Voltage (Consulting Application Guide Tab 21)",
+  "publisher": "Eaton",
+  "doc_number": "CA08104001E Tab 21 (TB01500003E)",
+  "date": "2018-04",
+  "url": "https://assets.usesi.com/product-media/catalogs/USESI_515260_catalog.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/USESI_515260_catalog_CA08104001E_Tab21.pdf",
+  "notes": "Distributor-hosted copy of Eaton Consulting Application Guide Section 21 (April 2018). Pow-R-Line C description p.21.0-8/21.0-9, Pow-R-Line i p.21.0-11, PRLC distribution layout guide with device X-space Figure 21.1-9 p.21.1-12, main lug space Table 21.1-11 p.21.1-11, Integrated Facility System p.21.6-1.",
+  "id": "SRC-00017",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "sha256": "3461e7871033ef5a6fbf094596197c78ed4ccbc93c19f452c819a83167d8ab77",
+  "bytes": 9964374
+ },
+ {
+  "title": "Eaton product specifications — KPRL4KDS",
+  "publisher": "Eaton",
+  "doc_number": "KPRL4KDS spec sheet",
+  "date": "",
+  "url": "https://www.elliottelectric.com/Media/KPRL4KDS-CHD-1021-3-Attachment.pdf",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/KPRL4KDS-specsheet.pdf",
+  "notes": "Eaton-generated product specification sheet (distributor-hosted). UPC 782114795996; 25.5 x 9.3 x 3.2 in; 9.25 lb; UL Listed.",
+  "id": "SRC-00018",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "sha256": "bdca1eb450817630fab87dc19543fa33ed65a073a15e580bc2d2124e9e35dab8",
+  "bytes": 48548
+ },
+ {
+  "title": "Eaton product specifications — KPRL4KDT",
+  "publisher": "Eaton",
+  "doc_number": "KPRL4KDT spec sheet",
+  "date": "",
+  "url": "https://www.elliottelectric.com/Media/KPRL4KDT-CHD-1021-3-Attachment.pdf",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/KPRL4KDT-specsheet.pdf",
+  "notes": "Eaton-generated product specification sheet (distributor-hosted). UPC 782114796412; 9.85 lb; 'UL 67'; '44-inch box width required'. Listed dimensions 9 x 2 x 3.2 in look like packaging/data error.",
+  "id": "SRC-00019",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "sha256": "519405767f5c3da216710cc56d4a07796eea48010849e61d97366e598edef99b",
+  "bytes": 45523
+ },
+ {
+  "title": "Volume 12 Tab 5 Loadcenters (BR Renovation and CH Loadcenters) excerpt",
+  "publisher": "Eaton",
+  "doc_number": "CA08100014E Tab 5",
+  "date": "2016-10",
+  "url": "https://media.suthlbr.com/images/downloads/vendor/18446/EATON_102581945_Catalog.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/Vol12_Tab5_2016_suthlbr_EATON_102581945_Catalog.pdf",
+  "notes": "30-page excerpt; BR history (Bryant, Bridgeport CT; Challenger 1988; Jackson MS; Lincoln IL) p.V12-T5-2; BR replacement parts pp.V12-T5-14..16.",
+  "id": "SRC-00020",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ],
+  "sha256": "fd690b9736fac055386b6aff81cab729f2a907497f11de4205c633d72596844a",
+  "bytes": 403503
+ },
+ {
+  "title": "Eaton Pow-R-Line CS switchboards instruction manual",
+  "publisher": "Eaton",
+  "doc_number": "IB015002EN",
+  "date": "2021-11",
+  "url": "https://www.manualslib.com/manual/2585212/Eaton-Pow-R-Line-Cs.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via ManualsLib web view (pages 3, 8, 17). Eaton-hosted PDF https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/canada/eaton-pow-r-line-cs-switchboards-instruction-manual-ib015002en-ca.pdf could not be downloaded (timeout). Appendix A Table 2 busbar torque p.17.",
+  "id": "SRC-00021",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ]
+ },
+ {
+  "title": "Pow-R-Line switchboards instruction manual",
+  "publisher": "Eaton",
+  "doc_number": "IM01500001E",
+  "date": "2021-05",
+  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/switchboards/pow-r-line-switchboard-manual-im01500001e.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Download from eaton.com and eaton.com.cn failed (timeout). Known only from search snippet (effective May 2021, supersedes Feb 2020).",
+  "id": "SRC-00022",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ]
+ },
+ {
+  "title": "eBay listing: EATON KPRL4KDS POW-R-LINE C einzelne Montage Panelboard Stecker Kit 400A 3P",
+  "publisher": "eBay seller (surplus)",
+  "doc_number": "",
+  "date": "",
+  "url": "https://www.ebay.de/itm/187106607578",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen only as search-result title/snippet; page not opened. Listing title associates KPRL4KDS with 'Pow-R-Line C'.",
+  "id": "SRC-00023",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ]
+ },
+ {
+  "title": "Distributor listings for Eaton PRL4 connector kits (Crescent Electric, Rexel, Platt, Elliott, Gexpro, Dixon)",
+  "publisher": "various distributors",
+  "doc_number": "",
+  "date": "",
+  "url": "https://crescentelectric.com/product/57375/eaton-panelboard-connector-kit-copper-connectors-mounting-brackets-covers-hardware-and-instructions-for-ehd-fd-fdb-hfd-fdc-breakers-three-phase-three-pole-225a",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen as search snippets: KPRL4FD described 'for EHD, FD, FDB, HFD, FDC breakers three-phase three-pole 225A'; Elliott marks KPRL4FD inactive; Dixon lists KPRL4LFD3 'CON KIT FD+LFD PRL4'; Gexpro lists KPRL4MC as single-mount kit for MDL/HMDL; Crescent lists KPRL4ND 'PRL4 connector kit for ND/HND breakers'.",
+  "id": "SRC-00024",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ]
+ },
+ {
+  "title": "Surplus Record listing: Westinghouse Pow-R-Line C 4000 A 240 V 3PH3W 2-section switchboard",
+  "publisher": "Surplus Record",
+  "doc_number": "",
+  "date": "",
+  "url": "https://surplusrecord.com/listing/westinghouse-pow-r-line-c-4000-amp-240v-3ph3w-2-section-switchboard-367548/",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Search snippet only: 'PROVISIONS FOR (2) KD, (4) LD, (2) ND, 3 POLE CIRCUIT BREAKERS' — shows Westinghouse-branded PRLC with Series C group-mounted provisions.",
+  "id": "SRC-00025",
+  "mfr": "EAT",
+  "batches": [
+   "B0002-eaton-switchboards-legacy"
+  ]
  },
  {
   "title": "Power-Style Low Voltage Switchboards: QED-2 and Speed-D Merchandised Service Section Switchboards Catalog (Class 2710, 2741, 2742)",
@@ -1093,7 +459,7 @@
   "access_status": "ok",
   "local_file": "docs/library/SQD/dds_3ec11.pdf",
   "notes": "Distributor-hosted (DistributorDataSolutions) copy of OEM PDF, 60 pp. A newer 2700CT1101 (v02, 2025-12, ~140 MB) exists on se.com but was not retrieved.",
-  "id": "SRC-00063",
+  "id": "SRC-00026",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1112,7 +478,7 @@
   "access_status": "ok",
   "local_file": "docs/library/SQD/dds_20ebda.pdf",
   "notes": "Distributor-hosted copy of OEM PDF, 24 pp. Current revision is v2.1 2025-02-18 (se.com, blocked).",
-  "id": "SRC-00064",
+  "id": "SRC-00027",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1131,7 +497,7 @@
   "access_status": "ok",
   "local_file": "docs/library/SQD/4620CT9601.pdf",
   "notes": "Retrieved via WebFetch (curl 403). se.com page says document is current but may reference obsolete products.",
-  "id": "SRC-00065",
+  "id": "SRC-00028",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1150,7 +516,7 @@
   "access_status": "ok",
   "local_file": "docs/library/SQD/dds_f4c97d.pdf",
   "notes": "Trilingual EN/ES/FR, 10 pp. States it applies to I-Line panelboards and QED2 switchboards manufactured after 2011.",
-  "id": "SRC-00066",
+  "id": "SRC-00029",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1168,7 +534,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "local_file": "docs/library/SQD/dds_55f131.pdf",
-  "id": "SRC-00067",
+  "id": "SRC-00030",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1184,7 +550,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00068",
+  "id": "SRC-00031",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1198,7 +564,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00069",
+  "id": "SRC-00032",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1213,7 +579,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Gives internal part numbers for HNM/HLN/HLW fillers and extensions; WebFetch summary (not verbatim).",
-  "id": "SRC-00070",
+  "id": "SRC-00033",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1227,7 +593,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00071",
+  "id": "SRC-00034",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1241,7 +607,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00072",
+  "id": "SRC-00035",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1255,7 +621,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00073",
+  "id": "SRC-00036",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1270,7 +636,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "References Data Bulletin 0600DB1004.",
-  "id": "SRC-00074",
+  "id": "SRC-00037",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1284,7 +650,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00075",
+  "id": "SRC-00038",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1298,7 +664,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00076",
+  "id": "SRC-00039",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1312,7 +678,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00077",
+  "id": "SRC-00040",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1326,7 +692,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00078",
+  "id": "SRC-00041",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1340,7 +706,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00079",
+  "id": "SRC-00042",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1354,7 +720,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00080",
+  "id": "SRC-00043",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1369,7 +735,7 @@
   "accessed": "2026-10-21",
   "access_status": "blocked",
   "notes": "403 on direct fetch; content (21427-20401, 1/4-20 x 1-1/4 self-tapping screw) seen only in search-engine snippet.",
-  "id": "SRC-00081",
+  "id": "SRC-00044",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1383,7 +749,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00082",
+  "id": "SRC-00045",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1397,7 +763,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00083",
+  "id": "SRC-00046",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1411,7 +777,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00084",
+  "id": "SRC-00047",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1425,7 +791,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00085",
+  "id": "SRC-00048",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1439,7 +805,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00086",
+  "id": "SRC-00049",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1454,7 +820,7 @@
   "accessed": "2026-10-21",
   "access_status": "blocked",
   "notes": "Content seen via search-engine summary only (direct fetch 403).",
-  "id": "SRC-00087",
+  "id": "SRC-00050",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1469,7 +835,7 @@
   "accessed": "2026-10-21",
   "access_status": "blocked",
   "notes": "Content seen via search-engine summaries only (direct fetch 403).",
-  "id": "SRC-00088",
+  "id": "SRC-00051",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1483,7 +849,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Seen via search summaries; Crescent lists QMB1BLW as discontinued.",
-  "id": "SRC-00089",
+  "id": "SRC-00052",
   "mfr": "OTH",
   "batches": [
    "B0004-squared-switchboards"
@@ -1497,7 +863,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Seen via search summaries. Note conflicting qty for HLW1BL (se.com product title says qty 5; distributors and FAQ FA112712 say kit of 3).",
-  "id": "SRC-00090",
+  "id": "SRC-00053",
   "mfr": "OTH",
   "batches": [
    "B0004-squared-switchboards"
@@ -1511,7 +877,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Seen via search summaries only.",
-  "id": "SRC-00091",
+  "id": "SRC-00054",
   "mfr": "OTH",
   "batches": [
    "B0004-squared-switchboards"
@@ -1525,7 +891,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Seen via search summaries.",
-  "id": "SRC-00092",
+  "id": "SRC-00055",
   "mfr": "OTH",
   "batches": [
    "B0004-squared-switchboards"
@@ -1539,7 +905,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Crescent title: 'I-Line, lug kit, subfeed, 400A, 6 in'.",
-  "id": "SRC-00093",
+  "id": "SRC-00056",
   "mfr": "OTH",
   "batches": [
    "B0004-squared-switchboards"
@@ -1555,7 +921,7 @@
   "accessed": "2026-10-21",
   "access_status": "blocked",
   "notes": "Akamai 403 via curl and WebFetch; download.se.com also 403. HIGH-VALUE: contains OEM interior selection tables.",
-  "id": "SRC-00094",
+  "id": "SRC-00057",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1570,7 +936,7 @@
   "type": "oem_instruction",
   "accessed": "2026-10-21",
   "access_status": "blocked",
-  "id": "SRC-00095",
+  "id": "SRC-00058",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1585,7 +951,7 @@
   "type": "oem_bulletin",
   "accessed": "2026-10-21",
   "access_status": "blocked",
-  "id": "SRC-00096",
+  "id": "SRC-00059",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1599,7 +965,7 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Anecdotal; seen via search summary.",
-  "id": "SRC-00097",
+  "id": "SRC-00060",
   "mfr": "OTH",
   "batches": [
    "B0004-squared-switchboards"
@@ -1614,7 +980,7 @@
   "accessed": "2026-10-21",
   "access_status": "blocked",
   "notes": "Direct fetch 403 (rate-limited); content seen only through search-engine summary - treat as C until verified.",
-  "id": "SRC-00098",
+  "id": "SRC-00061",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1628,7 +994,7 @@
   "type": "oem_renewal_parts",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00099",
+  "id": "SRC-00062",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1642,7 +1008,7 @@
   "type": "oem_renewal_parts",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00100",
+  "id": "SRC-00063",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1656,7 +1022,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00101",
+  "id": "SRC-00064",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1670,7 +1036,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00102",
+  "id": "SRC-00065",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1684,7 +1050,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00103",
+  "id": "SRC-00066",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1698,7 +1064,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00104",
+  "id": "SRC-00067",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1712,7 +1078,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00105",
+  "id": "SRC-00068",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1726,7 +1092,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00106",
+  "id": "SRC-00069",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1740,7 +1106,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00107",
+  "id": "SRC-00070",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1754,7 +1120,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00108",
+  "id": "SRC-00071",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1768,7 +1134,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00109",
+  "id": "SRC-00072",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1782,7 +1148,7 @@
   "type": "oem_web",
   "accessed": "2026-10-21",
   "access_status": "ok",
-  "id": "SRC-00110",
+  "id": "SRC-00073",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
@@ -1796,10 +1162,964 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Seen via search summary only.",
-  "id": "SRC-00111",
+  "id": "SRC-00074",
   "mfr": "SQD",
   "batches": [
    "B0004-squared-switchboards"
+  ]
+ },
+ {
+  "title": "BuyLog Catalog Section 11: Panelboards (A-Series Panelboards; Spectra Series Panelboards; Renewal Parts)",
+  "publisher": "GE Industrial Solutions",
+  "doc_number": "BuyLog Section 11 (pages Rev. 11/13; section updated 07/2014)",
+  "date": "2014-07",
+  "url": "https://assets.usesi.com/product-media/catalogs/USESI_18438_catalog.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/USESI_18438_catalog.pdf",
+  "notes": "52-page OEM PDF (PDF title 'GE BuyLog - Section 11: Panelboards') mirrored by distributor US Electrical Services (USESI). OEM original URL https://electrification.us.abb.com/catalog/buylog/GE%20Products%20BuyLog%202019/11_GE%20Products%20BuyLog_Panelboards.pdf returned HTTP/2 INTERNAL_ERROR / 503 from this container. Text extracted to buylog11.txt.",
+  "id": "SRC-00075",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "7108f24981e13c76d0324ca990244cfbab4d2fb588915424297e90acd6b550d7",
+  "bytes": 2981905
+ },
+ {
+  "title": "GE BuyLog page 11-10: A-Series II Panelboards Column - Field Installed Kits/Replacement Parts",
+  "publisher": "GE Industrial Solutions",
+  "doc_number": "BuyLog p.11-10 Rev. 11/13",
+  "date": "2013-11",
+  "url": "https://assets.usesi.com/product-media/specification-sheets/USESI_49199_specification_sheets.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/USESI_49199_specification_sheets.pdf",
+  "notes": "Single-page extract of BuyLog p.11-10 mirrored by USESI; heading reads 'A-Series II Panelboards'.",
+  "id": "SRC-00076",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "cd2a491e9a19eedfe777da2a8decb8e8c7cb87c5db5797fe6adfd6f576b2823d",
+  "bytes": 81795
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - SG Three-Phase Circuit Breaker Kits",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40150 Rev.No.03",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/rYlgoZ/DEH40150rev03.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40150rev03.pdf",
+  "notes": "Distributor mirror (Carbon Controls). Original yodify mirror links now 404.",
+  "id": "SRC-00077",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "52acc21fc82053ad5bf67f16d56d85629cc8b1d561b93927bab5d882e13d8179",
+  "bytes": 145568
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - SF Three-Phase Circuit Breaker Kits",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40151 Rev.No.02",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/vYA1QZ/DEH40151.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40151.pdf",
+  "id": "SRC-00078",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "8c1fa2a79dcb3b2012592f661a18396d4a125b1d98e2590654f612adeb10d9c8",
+  "bytes": 293800
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - TQD Three-Phase Circuit Breaker Kits",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40152 Rev.No.02",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/BnbG3Z/DEH40152.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40152.pdf",
+  "notes": "Same file also mirrored at https://cdn.lsicloud.net/kendall/Resources/AD/GE_ASPP6QD6D_Manual.pdf",
+  "id": "SRC-00079",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "f3c57f26ddd2ef1e40bb3b164af34de1675429c26093c35941e730137df9efa0",
+  "bytes": 207819
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - SE/TED Three-Phase Circuit Breaker Kits",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40153 Rev.No.02",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/lYWwVZ/DEH40153.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40153.pdf",
+  "id": "SRC-00080",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "2e9b4771a15b0c2f23bbda5304ce6fcdc9f4ce8f5c4c2bd28aced64edd9b436e",
+  "bytes": 225421
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Panel - THQB Three-Phase Circuit Breaker Kits (12-pole)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40154 Rev.No.02",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/LeQrBZ/DEH40154.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40154.pdf",
+  "id": "SRC-00081",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "a6b8733a376a1012bf11e1fab2f934aa6c560ec856f5c5a7c8a585413be9778a",
+  "bytes": 216997
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - TEY Three-Phase Circuit Breaker Kits (12-pole)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40155 Rev.No.02",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/YjVDgZ/DEH40155.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40155.pdf",
+  "id": "SRC-00082",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "ee209db699f9707f66225f76118bdba208900f2f9932e17540c3004c2b460f5a",
+  "bytes": 224830
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - FB Three-Phase Circuit Breaker Kits",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40156 Rev.No.01",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/KOrvrZ/DEH40156.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40156.pdf",
+  "notes": "Also rendered as text at https://www.manualsdir.com/manuals/295079/ge-industrial-solutions-a-series-ii-panelboards-fb.html",
+  "id": "SRC-00083",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "f98bdcabb9449e9cd696d03b05e7c403012399365b13b815ef8d8ae69390b902",
+  "bytes": 198455
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Power Panel - TEY Three-Phase Circuit Breaker Kits (6-pole)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40157 Rev.No.01",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/AelGOZ/DEH40157.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40157.pdf",
+  "id": "SRC-00084",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "c55f83de208b70a641d11906e13a6e23ed3ae99a3ed046256c7e9485c4d2159c",
+  "bytes": 224755
+ },
+ {
+  "title": "A-Series II Panelboards AD/AE/AQ Type P & N Panel - THQB Three-Phase Circuit Breaker Kits (6-pole)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40158 Rev.No.01",
+  "date": "unknown",
+  "url": "https://catalog.carboncontrolsltd.com/Documentation/Document/mDAggZ/DEH40158.pdf",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/GEA/DEH40158.pdf",
+  "id": "SRC-00085",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ],
+  "sha256": "6721cccbe679b031b6398f469b0c3f3031667ee362e396fb2972de296e243a8b",
+  "bytes": 215385
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Bolt-On Circuit Breaker Kits (AMCB6QD, AMCB4QD)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH065 R02",
+  "date": "2001-09",
+  "url": "https://www.manualsdir.com/manuals/295540/ge-industrial-solutions-spectra-series-power-panelboards-amcb4qd-and-amcb6qd.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Text rendering on manualsdir.com (4 pages); footer 'DEH065 R02 0901 (c) 2001 General Electric Company'. Table 1 quantities not captured in the text rendering.",
+  "id": "SRC-00086",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breakers and Modules (AMC2GM, AMC3GM)",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "GEH5674 R03",
+  "date": "2001-07",
+  "url": "https://www.manualsdir.com/manuals/294735/ge-industrial-solutions-spectra-series-power-panelboards-amc2gm-and-amc3gm.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Footer 'GEH5674 R03 0701'.",
+  "id": "SRC-00087",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Circuit Breaker Cover Kit, Catalog Number AMCB6TEDL",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH40392 R01",
+  "date": "2001-04",
+  "url": "https://www.manualsdir.com/manuals/295049/ge-industrial-solutions-spectra-series-power-panelboards.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00088",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "Spectra Series Power Panelboards - Equipment Grounds Catalog Numbers AEG47 and AEG47S",
+  "publisher": "GE Industrial Systems",
+  "doc_number": "DEH212 R02",
+  "date": "2001-04",
+  "url": "https://www.manualsdir.com/manuals/294723/ge-industrial-solutions-spectra-series-power-panelboards-aeg47-and-aeg47s.html",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00089",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "ReliaGear neXT Power Panelboards (brochure)",
+  "publisher": "ABB",
+  "doc_number": "1SXU900191B0201",
+  "date": "2022-01",
+  "url": "https://simplebooklet.com/abbreliagearnextpanelboards?textonly=1",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via simplebooklet text-only rendering; no kit catalog numbers present.",
+  "id": "SRC-00090",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "NHB150PK General Electric / GE Mounting Hardware (product page)",
+  "publisher": "Relectric",
+  "url": "https://www.relectric.com/nhb150pk",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00091",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "General Electric NHB150PK Twin Mount Mounting Hardware (product page)",
+  "publisher": "SuperBreakers",
+  "url": "https://www.superbreakers.com/collections/mounting-kits-panels-accessories/products/general-electric-nhb150pk-mounting-hardware",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Content seen only via search-engine summary; page not fetched directly.",
+  "id": "SRC-00092",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "BuyLog Section 11 Panelboards (ABB, 2021/2022 edition incl. ReliaGear neXT and 'Spectra (obsoleted)' bolt-on mounting hardware)",
+  "publisher": "ABB",
+  "url": "https://electrification.us.abb.com/catalog/buylog/11_BuyLog_Panelboards.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "curl: empty reply; WebFetch: HTTP 503. Contents known only from search-engine summary (TOC mentions ReliaGear neXT nomenclature and 'Spectra (obsoleted) bolt-on panelboard mounting hardware'; 'Retrofit kit for Spectra panelboards').",
+  "id": "SRC-00093",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "GE Industrial Solutions manuals on manualmachine.com (DEH061 AMCB3KM/AMCB2KM; DEH042 cover supports SE/SF/TE/TF/TQ/TEL; GEH5589 APN/APNB interiors; AMCB4GB/AMCB6GB; AMCB2GM/AMCB3GM; A-Series II TQD)",
+  "publisher": "manualmachine.com (mirror of GE documents)",
+  "url": "https://manualmachine.com/ge/amcb3km/12960805-user-manual/",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "HTTP 403 to both curl and WebFetch. Existence/titles known only from search results.",
+  "id": "SRC-00094",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "TQ2DPK GE product page",
+  "publisher": "Stanion Wholesale Electric",
+  "url": "https://www.stanion.com/Product/tq2dpkge",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "404",
+  "notes": "Description known only from search-engine summary; direct fetch returned 404.",
+  "id": "SRC-00095",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "Surplus Record listings: General Electric AV-Line switchboards (800/1200/1600 A)",
+  "publisher": "Surplus Record",
+  "url": "https://surplusrecord.com/listing/1600-amp-general-electric-av-line-switchboard-480-volts-3ph-4w-10-breaker-power-break-dist-main-1086962/",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via search-engine summary only.",
+  "id": "SRC-00096",
+  "mfr": "GEA",
+  "batches": [
+   "B0005-ge-abb"
+  ]
+ },
+ {
+  "title": "SPEEDFAX Product Catalog - Section 11 Panelboards",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "SPEEDFAX Section 11 (last modified 06/24/21)",
+  "date": "2021-06",
+  "url": "https://media.distributordatasolutions.com/siemenscomplete/2021q3/documents/4c3c521171b400657d1e4257e047beee1a99295b.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/speedfax_sec11_2021q3.pdf",
+  "notes": "132 pages. Distributor-hosted (DDS syndication) copy of OEM PDF. Key pages: 11-7 (UPB coding), 11-13/11-14 (Revised P1 kits), 11-15 (Original P1 / S1-S2-SE kits), 11-20..11-23 (spare parts, filler chart), 11-53/11-54 (P2/P3 spare parts), 11-66/11-67 (P3 kits), 11-96 (P4 strap kits), 11-110 (P5 strap kits). Individual pages carry their own 'Revised on' dates (2019-2021).",
+  "id": "SRC-00097",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "bbaafb6a24764dc148bf8420f07cb32db6b60d241ae29233707f75954f363679",
+  "bytes": 6252869
+ },
+ {
+  "title": "Siemens Canada Power Product Catalogue - Section 11 Switchboards (SB1, SB2, SB3, SMP, FCI/FCII, IPS)",
+  "publisher": "Siemens Canada Limited",
+  "doc_number": "Power Product Catalogue Section 11",
+  "date": "2025-05",
+  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:ac958a69-a1ee-45e7-95f6-152fe9153d31/s11-switchboards.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/s11-switchboards.pdf",
+  "notes": "PDF metadata creation 2025-05-30. p.11-5: SB1/SB2/SB3 connection strap kit table; p.11-14: S3VA52PR/S3VA53PR provision kits, nut keeper kits, 6FPB blank plates; p.11-15: CSA SMP/Series 6 strap kits (6BL2C, 6E62, 6F62, 6JJ62, 6M61C, 6N61C etc.).",
+  "id": "SRC-00098",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "cbe61c8b250d8d3fc186943c1c8806764e2a8b970ddca633079d3e596fbeef2f",
+  "bytes": 1155696
+ },
+ {
+  "title": "2005 Electrical Distribution Products price list - Switchboard Replacement and Modification Kits",
+  "publisher": "Siemens Energy & Automation",
+  "doc_number": "Discount Schedule A, page 8-13",
+  "date": "2005",
+  "url": "https://assets.usesi.com/product-media/brochures/USESI_93250_brochure.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/USESI_93250_brochure.pdf",
+  "notes": "Single catalog page hosted by distributor (USESI). Strap kits 'for Series 5 or 6 CDP Circuit Breaker Panelboards or FC20, FCI, FCII, CDP-6, VB-6, SB1, SB2, and SB3 Switchboards ... for switchboards manufactured since 1974'. Includes list prices (2005).",
+  "id": "SRC-00099",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "605a39bdfaa4bceafd003c379f54c3e319b46e284bce12f3726dc139e9f780bd",
+  "bytes": 44326
+ },
+ {
+  "title": "SPEEDFAX 2007-2008 Product Catalog - Section 10 Panelboards, Type P1 pages 10-17 to 10-22",
+  "publisher": "Siemens Power Distribution & Control",
+  "doc_number": "SPEEDFAX 2007-2008 pp.10-17..10-22",
+  "date": "2007",
+  "url": "https://www.nooutage.com/pdf/Siemens-PanelboardsP1.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/Siemens-PanelboardsP1.pdf",
+  "notes": "Original (pre-revision) P1 pages; lists P1 branch breakers BL/BLH/HBL/BQD/NGB, subfeed QJ2/ED4/FXD6. No kit tables on these pages.",
+  "id": "SRC-00100",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "98c4820d63c4a010efd69ebd307e7e869680b6eb82b513af94c136e7dd236469",
+  "bytes": 251347
+ },
+ {
+  "title": "Type P1 Panelboard data sheet (SIE_CS_P1)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "SIE_CS_P1 / Siemens SIOS 109799956",
+  "date": "2021-10",
+  "url": "https://cache.industry.siemens.com/dl/files/956/109799956/att_1147894/v1/SIE_CS_P1.pdf",
+  "type": "oem_bulletin",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_CS_P1.pdf",
+  "notes": "(c) 10.2021. Revised P1 specification + main strap kit list; states 'Revised P1 kits cannot be used with original P1'.",
+  "id": "SRC-00101",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "6b8bdea35612248d20a3a06765e6539776dd83ac6176e51d83c317c28d7cf040",
+  "bytes": 508643
+ },
+ {
+  "title": "Type P3 Panelboard data sheet (distributor-hosted, file 30WD80V.pdf)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "",
+  "date": "2021",
+  "url": "https://michaelsforms.eastus2.cloudapp.azure.com/prod_image/30WD80V.pdf",
+  "type": "oem_bulletin",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/30WD80V.pdf",
+  "notes": "Lists P2/P3 branch unit-space strap kits BBKB32, BBKVA4P2P3, BBKQR2, BBKVA5262S (sic; SpeedFax spells BBKVA5262P2S), BBKVA52P3T; strap kit for 1in frame breakers uses 3in unit space.",
+  "id": "SRC-00102",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "3120a36b9120b3993155311580900c659d24c5f04ef7fb5d6d00f9e3c8f1998a",
+  "bytes": 497099
+ },
+ {
+  "title": "New Revised Type P1 Kits and Accessories (flyer; distributor file MBKQR3150HA.pdf)",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "",
+  "date": "c.2015-2019",
+  "url": "https://michaelsforms.eastus2.cloudapp.azure.com/prod_image/MBKQR3150HA.pdf",
+  "type": "oem_bulletin",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/MBKQR3150HA.pdf",
+  "notes": "Earlier (pre-April-2020 neutral update) Revised P1 kit list: MBK..A breaker kits, CNLK30A/42A/54A, LNLK30A/42A/54A, 2NLK..A, 42NLK..A, MBKDFA back-fed label kit, DFFP1.",
+  "id": "SRC-00103",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "7b6ac864e29e82beac5701520e979ad7df50d4b588e3ac17fa2d06237662323e",
+  "bytes": 3807998
+ },
+ {
+  "title": "NextGen P1 panelboard brochure (Siemens Canada)",
+  "publisher": "Siemens Canada Limited",
+  "doc_number": "SI-LP-1633",
+  "date": "unknown (c.2020)",
+  "url": "https://assets.new.siemens.com/siemens/assets/api/uuid:f264c377-e970-40b2-b60d-155bc2e52f40/ca-si-lv-en-NextGen-P1-brochure-SI-LP-1633.pdf",
+  "type": "oem_bulletin",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/NextGen-P1-brochure-SI-LP-1633.pdf",
+  "notes": "Canadian Revised P1 kit table; references MBKBFA back-fed main label kit and Canadian kit numbers (e.g. MBKQR12225A, MBKFD33250A, MBKJD33400A).",
+  "id": "SRC-00104",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "0fc012483dd64a140b6df883a8ec19bd0bd7af122771445dff7c25ca2a11f9fb",
+  "bytes": 2555093
+ },
+ {
+  "title": "Data sheet US2:MBKBFA - KIT P1 BL/BQD/NGB BACK FED MAIN BREAKER",
+  "publisher": "Siemens",
+  "doc_number": "US2:MBKBFA",
+  "date": "2021-01-06",
+  "url": "https://res.cloudinary.com/wholesale-plumbing/image/upload/Documents2/Siemens_MBKBFA_Specification_Sheet.pdf",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/Siemens_MBKBFA_Specification_Sheet.pdf",
+  "notes": "Minimal data sheet (title + 'Field installable kit').",
+  "id": "SRC-00105",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "08269a6a87685e30ad3b35f19e2120bd99173c898f0f90cf395ce4935558e3fa",
+  "bytes": 191413
+ },
+ {
+  "title": "Panelboards Selection and Application Guide",
+  "publisher": "Siemens Industry, Inc.",
+  "doc_number": "SIE Selection And Application Guide Panelboards (SIOS 109792056)",
+  "date": "2016",
+  "url": "https://cache.industry.siemens.com/dl/files/056/109792056/att_1049678/v1/SIE_Selection_And_Application_Guide_Panelboards.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SIE/SIE_Selection_And_Application_Guide_Panelboards.pdf",
+  "notes": "(c) 2016. Only cross-checked by part-number grep in this batch (BBKB32, BBKED32, BBKNB32, BBKQR1, BBKQR2, BBKQRP1FK, BBKQRP2FK, DFFP3, DFFP6, LNLK30A/42A/54A, SEB kits, SF6/SF6D, SJ1/SJ1D, SE6/SE6D, SQR/SQRC/SQRD, 6FPB01..10). Not fully mined.",
+  "id": "SRC-00106",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ],
+  "sha256": "47e39f0402341cab07e73eb4c194579631247473f95ea77a460efd78dacaa96b",
+  "bytes": 2043534
+ },
+ {
+  "title": "Lumen (Canada) product listing - Siemens 6BL2C switchboards breaker mounting kit copper 3 ph 240 V 100 A",
+  "publisher": "Lumen",
+  "doc_number": "",
+  "date": "",
+  "url": "https://lumen.ca/en/products/20-power-distribution/08-panelboards/01-main-breaker-kits/p-U0lFNkJMMkM=-sie6bl2c-siemens-6bl2c-switchboards-breaker-mounting-kit-copper-3-ph-240-v-100-a",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via search summary only; breaker list varies between distributors (BL/BLH/HBL/BQD/BQD6 vs BQ/BQH/HB).",
+  "id": "SRC-00107",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ]
+ },
+ {
+  "title": "Distributor listings for Siemens SBL (sydist.com SIEM-SBL-50631; superbreakers.com/products/sbl; steinerelectric 'BL BKR MTG KIT FOR P4/S4/SPP PNLBD')",
+  "publisher": "various",
+  "doc_number": "",
+  "date": "",
+  "url": "https://www.sydist.com/Product/SIEM-SBL-50631",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Search-summary only. Distributor descriptions are inconsistent (one wrongly calls it a padlock kit / QR frame); SpeedFax p.11-96 is authoritative.",
+  "id": "SRC-00108",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ]
+ },
+ {
+  "title": "Crescent Electric listing - QF3 Load Center Filler Plate (sub no. 12-1800-01), for QP/BQ/ED2/EQL/SEQ/EQG",
+  "publisher": "Crescent Electric Supply",
+  "doc_number": "",
+  "date": "",
+  "url": "https://crescentelectric.com/product/47056/qpbqed2-filler-plate-sub-no-12-1800-01",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Search-summary only.",
+  "id": "SRC-00109",
+  "mfr": "OTH",
+  "batches": [
+   "B0006-siemens-ite"
+  ]
+ },
+ {
+  "title": "Mike Holt forum thread - Gould panels and switchboards",
+  "publisher": "Mike Holt Enterprises forum",
+  "doc_number": "",
+  "date": "",
+  "url": "https://forums.mikeholt.com/goto/post?id=1425085",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Anecdotal: ITE/Gould lineage, Bulldog Pushmatic not supported by Siemens.",
+  "id": "SRC-00110",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ]
+ },
+ {
+  "title": "Franklin Empire listing - Siemens 6F62 Connecting Strap Kit, For Use With SPP/FPP/S5/F2 Panelboards, 600 VAC, 70 to 250 A, Copper, 5 in H",
+  "publisher": "Franklin Empire",
+  "doc_number": "",
+  "date": "",
+  "url": "https://franklinempire.com/en/6f62-4114-6f62.html",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Search-summary only.",
+  "id": "SRC-00111",
+  "mfr": "SIE",
+  "batches": [
+   "B0006-siemens-ite"
+  ]
+ },
+ {
+  "title": "PowerPact H-, J-, and L-Frame Circuit Breakers Catalog",
+  "publisher": "Schneider Electric / Square D",
+  "doc_number": "0611CT1001 R01/13",
+  "date": "2013-01",
+  "url": "https://docs.rs-online.com/c13a/0900766b813b5fa7.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/0611CT1001_R01-13_rs-mirror.pdf",
+  "notes": "Distributor-hosted (RS Components) copy of OEM catalog. Section 9 'Circuit Breaker Mounting and Connections' pp.117-129: Tables 118-130 (rear connections, mechanical lug kits, control wire terminals, terminal nuts, PDCs, compression lugs, terminal shields). Superseded by 0611CT1001 v5.0 (2024-09-30) which could not be downloaded (se.com 403).",
+  "id": "SRC-00112",
+  "mfr": "SQD",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "4bacc3858f8620f9ae973670ffb3352e6c933155ec5e24bb1a4059e3ca03876b",
+  "bytes": 17243946
+ },
+ {
+  "title": "Product data sheet AL175JD - Circuit breaker accessory, PowerPacT J, lug kit, mechanical, 150A to 175A, aluminum, qty 3",
+  "publisher": "Schneider Electric",
+  "doc_number": "AL175JD data sheet",
+  "date": "unknown",
+  "url": "https://docs.rs-online.com/4ce1/A700000013719674.pdf",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/rs_A700000013719674.pdf",
+  "notes": "Distributor-hosted copy of Schneider product data sheet.",
+  "id": "SRC-00113",
+  "mfr": "SQD",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "04cbedb9ee1cb637ac30a19682409e2aef24c6031beeaa1ef46c0a220a065477",
+  "bytes": 221593
+ },
+ {
+  "title": "Square D Digest Section 3 - Molded Case Circuit Breakers and Enclosures (2012)",
+  "publisher": "Schneider Electric / Square D",
+  "doc_number": "Digest 176 Section 3 (Class 612)",
+  "date": "2012",
+  "url": "https://www.farnell.com/datasheets/1883762.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/farnell_1883762_SquareD_Digest_Sec3_2012.pdf",
+  "notes": "Farnell-hosted copy. Table 3.61/3.62 (control wire terminations, tapped PowerPact lugs) p.3-17; Table 3.71 termination clip p.3-20; Table 3.88 mechanical lug kits, 3.89 D-frame lugs, 3.90 terminal shields p.3-28; Table 3.91 compression lugs, 3.92/3.93 PDC p.3-29. Digest edition number inferred from 2012 copyright (not printed in extracted text).",
+  "id": "SRC-00114",
+  "mfr": "SQD",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "0b8663108d5f3421274214f849225fe995da49d2a98de0c8e3a20dd06e27dc6d",
+  "bytes": 1509914
+ },
+ {
+  "title": "Square D Digest Section 3 - Molded Case Circuit Breakers and Enclosures (2016)",
+  "publisher": "Schneider Electric / Square D",
+  "doc_number": "Digest Section 3 (Class 612, ref. catalog 0612CT0101)",
+  "date": "2016-09-24",
+  "url": "https://cdn.lsicloud.net/kendall/Resources/AD/Square_D_FA24020AB_Catalog.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/SQD/Square_D_FA24020AB_Catalog.pdf",
+  "notes": "Kendall Electric-hosted copy. Table 3.44/3.45 p.3-14; Table 3.69 p.3-25; Table 3.70 mechanical lug kits p.3-26; Table 3.71 compression lugs and 3.72 PDC p.3-27.",
+  "id": "SRC-00115",
+  "mfr": "SQD",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "d0bc64005cee7b513d3e11a83a6dc1d14ed7f268a7491f55f0ca30620c31f08f",
+  "bytes": 2236757
+ },
+ {
+  "title": "Molded Case Circuit Breakers (Tab 12) - Consulting Application Guide / catalog, November 2008",
+  "publisher": "Eaton (Cutler-Hammer)",
+  "doc_number": "CA08101001E",
+  "date": "2008-11",
+  "url": "https://files.kempstoncontrols.com/files/13de8777fba90a2d4f0dd1d8944292ca/JT3225FA.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/JT3225FA.pdf",
+  "notes": "Kempston Controls-hosted copy of full Eaton Tab 12 (pp.12-1..). Terminal tables: EG 12-19, JG 12-28, LG 12-37, NG 12-48, F 12-91, J 12-97, K 12-113, L 12-132, M 12-140, N 12-162, R 12-181; External accessories 12-243..12-261 (end caps, keeper nuts, plug nut, control wire kits, multiwire, terminal shields, end covers, interphase barriers, rear connecting studs, panelboard straps).",
+  "id": "SRC-00116",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "d376dd6785e3c6ad6708a2b8b319f2ea19f76ace7d9fe1c1174973740729e65e",
+  "bytes": 5075522
+ },
+ {
+  "title": "Series C Molded Case Circuit Breakers 70-250 Amperes J-Frame (pp.12-87..12-92), May 2008",
+  "publisher": "Eaton (Cutler-Hammer)",
+  "doc_number": "CA08101001E",
+  "date": "2008-05",
+  "url": "https://rexel-cdn.com/products/eaton-distribution-breakers-moldedcase-j-frame.pdf?i=46AAC28F-3990-44C5-A4CE-75139B8D2493",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/eaton-distribution-breakers-moldedcase-j-frame.pdf",
+  "notes": "Rexel-hosted excerpt. Table 12-163 J-frame line/load terminals p.12-91.",
+  "id": "SRC-00117",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "c6639234a5f23e281f9ea3c830f975f3ba784f5d1d90c841f4efd595b0e8da95",
+  "bytes": 67779
+ },
+ {
+  "title": "Volume 4 - Circuit Protection, Tab 2 Molded Case Circuit Breakers (excerpt pages V4-T2-188, 190, 203, 334, 345, 354, 356), October 2015",
+  "publisher": "Eaton",
+  "doc_number": "CA08100005E",
+  "date": "2015-10",
+  "url": "https://cdn.lsicloud.net/warshauers/Resources/EATCORE00136_V4T2_188_V4T2_190_V4T2_203_V4T2_334_V4T2_345_V4T2_354_V4T2_356.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/EATCORE00136_V4T2_188_V4T2_190_V4T2_203_V4T2_334_V4T2_345_V4T2_354_V4T2_356.pdf",
+  "notes": "Warshauer Electric-hosted excerpt. V4-T2-203 L-frame terminal table; V4-T2-334 definite purpose terminals; V4-T2-345 Series G enclosed terminals; V4-T2-356 DC breaker terminal wire ranges table.",
+  "id": "SRC-00118",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "5e3a8ebb0c2d0aa256ec5f79febfc6e2ab5a00d833975ddabcea1f9d2d5b81ab",
+  "bytes": 193859
+ },
+ {
+  "title": "Volume 4 - Circuit Protection, Series G EG-Frame pages V4-T2-16..V4-T2-27, April 2014",
+  "publisher": "Eaton",
+  "doc_number": "CA08100005E",
+  "date": "2014-04",
+  "url": "https://www.cmafh.com/images/Master%20PDFs/Eaton/Eaton%20MCCB/Eaton%20MCCB%20EG-Frame.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/Eaton_MCCB_EG-Frame.pdf",
+  "notes": "CMA/Flodyne-hosted excerpt. EG terminals V4-T2-23/24; control wire kit, interphase barriers, end covers, multiwire, terminal shields V4-T2-25.",
+  "id": "SRC-00119",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "cdd9caef2fe2e67b679a4f296dad4cede8fff2eafa526cbdd1784bd13692d1d9",
+  "bytes": 184809
+ },
+ {
+  "title": "Series C Molded Case Circuit Breakers 70-400 Amperes K-Frame p.12-98 (May 2008) - Types KD, HKD, KDC electronic",
+  "publisher": "Eaton (Cutler-Hammer)",
+  "doc_number": "CA08101001E (excerpt)",
+  "date": "2008-05",
+  "url": "https://assets.usesi.com/product-media/brochures/USESI_563623_brochure.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/USESI_563623_brochure.pdf",
+  "notes": "USESI-hosted single page; shows standard terminals per K-frame electronic rating plug (TA300K, TA350K, 3TA400K).",
+  "id": "SRC-00120",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "2725c076ec09d4abe0c47fbcfe3bc0181861052e7214a21a907d194a56500f93",
+  "bytes": 53908
+ },
+ {
+  "title": "Eaton product specifications 3TA150FB",
+  "publisher": "Eaton",
+  "doc_number": "3TA150FB spec sheet",
+  "date": "unknown",
+  "url": "https://www.elliottelectric.com/Media/3TA150FB-ETN-1021-3-Attachment.pdf",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/3TA150FB-ETN-1021-3-Attachment.pdf",
+  "notes": "Elliott Electric-hosted auto-generated Eaton spec sheet. Taxonomy field 'Frame J-K' appears to be a generic web-taxonomy value (contradicts catalog); treat frame field with caution.",
+  "id": "SRC-00121",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "343b5e0d74448f4aee7d2a588ae818bb34a0de96eca96ba6a2c1101e5d6f236b",
+  "bytes": 54246
+ },
+ {
+  "title": "Eaton Series G molded case circuit breaker accessories and terminals - 3TA632LK (pe.eaton.com spec)",
+  "publisher": "Eaton",
+  "doc_number": "ID-SPE-v2-3TA632LK",
+  "date": "unknown",
+  "url": "https://www.ideadigitalcontent.com/files/10964/ID-SPE-v2-3TA632LK.pdf",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "local_file": "docs/library/EAT/ID-SPE-v2-3TA632LK.pdf",
+  "id": "SRC-00122",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ],
+  "sha256": "e68fad720e059dfd685386e2147698f42d4a22b2dfaaa1c14e8309f431a2e0e8",
+  "bytes": 69749
+ },
+ {
+  "title": "Eaton Series-C Molded Case Circuit Breakers External Accessories (KM Parts web page)",
+  "publisher": "KM Parts (klocknermoeller.com)",
+  "doc_number": "",
+  "date": "unknown",
+  "url": "https://klocknermoeller.com/sc-externalaccessories-2/",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Reseller page reproducing a newer Eaton catalog's external-accessory tables; some values differ from 2008 OEM catalog (interphase barrier numbering, J-frame shield location).",
+  "id": "SRC-00123",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ]
+ },
+ {
+  "title": "Eaton Series-C F/K/L/M/N/R-frame pages (KM Parts web pages sc-f, sc-k, sc-m, sc-n, sc-r)",
+  "publisher": "KM Parts (klocknermoeller.com)",
+  "doc_number": "",
+  "date": "unknown",
+  "url": "https://klocknermoeller.com/sc-k/",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Reproduces Eaton terminal tables (newer edition than 2008). Also https://klocknermoeller.com/sc-f/, /sc-m/, /sc-n/, /sc-r/.",
+  "id": "SRC-00124",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ]
+ },
+ {
+  "title": "Can the AL400L61K3 lug be installed on the 400 amp or 600 amp Powerpact L frame breaker? (FAQ FA221892)",
+  "publisher": "Schneider Electric",
+  "doc_number": "FA221892",
+  "date": "unknown",
+  "url": "https://www.se.com/ca/en/faqs/FA221892/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Direct fetch blocked (se.com 403); content known only from web-search snippet: lug accepts (1) #2 AWG-500 kcmil Al or (1) #2 AWG-600 kcmil Cu, 3 lugs per kit, may be used as optional lug on 400/600 A L-frame subject to wire size/rating limits.",
+  "id": "SRC-00125",
+  "mfr": "SQD",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ]
+ },
+ {
+  "title": "Mechanical Lug Kits Installation Instructions (AL150HD, AL150HDS, CU150HD, AL175JD, AL250JD, CU250JD)",
+  "publisher": "Schneider Electric",
+  "doc_number": "48940-221-02 (v05, 2019-12)",
+  "date": "2019-12",
+  "url": "https://www.schneider-electric.us/en/download/document/48940-221-02/",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Download returned 403; existence and part list known from search snippet only.",
+  "id": "SRC-00126",
+  "mfr": "SQD",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ]
+ },
+ {
+  "title": "Volume 4 - Circuit Protection, Tab 2 Molded Case Circuit Breakers (current)",
+  "publisher": "Eaton",
+  "doc_number": "CA08100005E",
+  "date": "2026-04",
+  "url": "https://www.eaton.com/content/dam/eaton/products/electrical-circuit-protection/molded-case-circuit-breakers/mccb-catalog-v4-t2-ca08100005e.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "eaton.com returns empty reply/503 from this container (curl and WebFetch).",
+  "id": "SRC-00127",
+  "mfr": "EAT",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ]
+ },
+ {
+  "title": "Distributor listings AL800M23K / AL800P7K (Steiner Electric, Stoneway, Lakeland)",
+  "publisher": "various distributors",
+  "doc_number": "",
+  "date": "unknown",
+  "url": "https://steinerelectric.com/Product/Square-D-AL800M23K-Mechanical-Lug-KitFor-Use-With-PowerPact-M-and-P-Frame-800-A-Circuit-Breaker-390767",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via web-search result summaries only; also https://www.stoneway.com/product/206142/Shared.ContactForPricing.ContactLink (AL800P7K).",
+  "id": "SRC-00128",
+  "mfr": "OTH",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
+  ]
+ },
+ {
+  "title": "Distributor listings AL250KA (Stanion, Steiner, Stoneway)",
+  "publisher": "various distributors",
+  "doc_number": "",
+  "date": "unknown",
+  "url": "https://www.stanion.com/Product/al250kasqd",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Seen via web-search result summaries; listings state use with KA, KH, KI, KC frames, 4 AWG-350 kcmil.",
+  "id": "SRC-00129",
+  "mfr": "OTH",
+  "batches": [
+   "B0007-breaker-terminal-kits-eaton-squared"
   ]
  },
  {
@@ -1813,7 +2133,7 @@
   "access_status": "ok",
   "local_file": "docs/library/GEA/GE_SEFFMI_Catalog.pdf",
   "notes": "Distributor-hosted mirror of the OEM PDF, 106 pp. Key pages: 6-36/6-37 (TJJ/TJK lugs), 6-48 (SG600 lugs), 6-73/6-78/6-81/6-88 (Record Plus lugs), 6-101 (mounting hardware and studs), 6-102 (lugs, line shields, lug covers), 6-103 (Spectra lugs and covers), 6-104 (power distribution lugs). CAUTION: footnote superscripts are run into the part numbers in the extracted text (e.g. 'TCAL1212' = TCAL121 + footnote 2), so numbers were reconciled against the 2012 edition.",
-  "id": "SRC-00112",
+  "id": "SRC-00130",
   "mfr": "GEA",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens"
@@ -1832,7 +2152,7 @@
   "access_status": "ok",
   "local_file": "docs/library/GEA/USESI_107433_catalog_1.pdf",
   "notes": "Distributor mirror. Its lug tables carry the same part numbers as the Rev. 1/19 edition.",
-  "id": "SRC-00113",
+  "id": "SRC-00131",
   "mfr": "GEA",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens"
@@ -1851,7 +2171,7 @@
   "access_status": "ok",
   "local_file": "docs/library/GEA/USESI_14306_catalog.pdf",
   "notes": "Key pages: 3-120 (lugs and associated hardware, with footnotes 1-10), 3-121 (Spectra lugs), the TKMA tables (TCAL81/TCAL121) and the TJJ/TJK tables. Footnote numbers here differ from the 2019 edition, which made it possible to separate base part numbers from footnote digits. Lists the TCAL27, TCALK341, TCALK343, TCALK347 and TJLVK items that the 2013/2019 tables drop.",
-  "id": "SRC-00114",
+  "id": "SRC-00132",
   "mfr": "GEA",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens"
@@ -1870,7 +2190,7 @@
   "access_status": "ok",
   "local_file": "docs/library/GEA/W1003579.pdf",
   "notes": "Excerpt hosted by IPS. Mentions only TCAL81 and TCAL125. Used for corroboration.",
-  "id": "SRC-00115",
+  "id": "SRC-00133",
   "mfr": "GEA",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens"
@@ -1889,7 +2209,7 @@
   "access_status": "ok",
   "local_file": "docs/library/GEA/TCAL12_Catalogue.pdf",
   "notes": "Single-page extract (2013 pagination) of the general lug table hosted by a reseller. Its content matches 2019 p. 6-102.",
-  "id": "SRC-00116",
+  "id": "SRC-00134",
   "mfr": "GEA",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens"
@@ -1908,7 +2228,7 @@
   "access_status": "ok",
   "local_file": "docs/library/SIE/SF-17-Sect-07-ALL-web.pdf",
   "notes": "240 pp. Mirror (Coburn's). The OEM URL https://support.industry.siemens.com/cs/attachments/109983309/SF-17-Sect-07-ALL-web.pdf returned a 470-byte HTML stub to curl. Key pages: 7-39 (BQXD lugs, finger-safe shields), 7-40 (QR2 lugs), ED/FD/JD/LD/MD/ND/PD pages (lug notes), 7-153 (mechanical lugs, rev 06/30/19), 7-154 (aluminum body lugs, rev 05/31/18), 7-155 (optional Cu lugs, compression and distribution lugs, rev 11/30/19), 7-160 (terminal shields, rev 02/28/19), 7-165 (plug-in and rear-connecting studs, rev 09/30/20).",
-  "id": "SRC-00117",
+  "id": "SRC-00135",
   "mfr": "SIE",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens"
@@ -1927,7 +2247,7 @@
   "access_status": "ok",
   "local_file": "docs/library/SIE/W1003585.pdf",
   "notes": "242 pp. Later revision. Its set of TA/TC lug catalog numbers is identical to s6, so it was used only for corroboration and to show the parts were still listed in 2021.",
-  "id": "SRC-00118",
+  "id": "SRC-00136",
   "mfr": "SIE",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens"
@@ -1945,10 +2265,560 @@
   "accessed": "2026-10-21",
   "access_status": "ok",
   "notes": "Describes TA1Q300 as a 3-lug kit for QJ breakers, Al/Cu, single wire up to 300 kcmil. A search snippet from superbreakers.com (HTTP 429 when fetched) lists QJ2, QJH2, QJ2H and HQJ2H, 60-225 A.",
-  "id": "SRC-00119",
+  "id": "SRC-00137",
   "mfr": "GEA",
   "batches": [
    "B0008-breaker-terminal-kits-ge-siemens"
+  ]
+ },
+ {
+  "title": "Breaker Mounting Kits :: Federal Pacific Electric (category listing)",
+  "publisher": "Breaker King (distributor)",
+  "url": "https://www.breakerking.com/catalog/index.php?main_page=index&cPath=4_187_189",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Aftermarket FPE bus-connection kits with explicit 'replaces OEM K?DP?C' cross references (NEF1K/NEJ1K/NFJ1K/NJL1K/NEF3K/NEJ3K/NJL3K).",
+  "id": "SRC-00138",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Federal Pacific CDP [BCDPNJLFPE] product page",
+  "publisher": "Breaker King (distributor)",
+  "url": "https://www.breakerking.com/catalog/index.php?main_page=product_info&products_id=1938",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Kit contents statement: screws, brackets, deadfront cover plate, instructions; ship wt 7 lb.",
+  "id": "SRC-00139",
+  "mfr": "GEA",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Federal Pacific Breaker Parts & Accessories Catalog",
+  "publisher": "R&D Electric / relectric.com (surplus/recertifier)",
+  "url": "https://www.relectric.com/part-catalog/federal-pacific-circuit-breaker-parts-and-accessories",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "49 FPE accessory part numbers incl. KCDP-1C..5C, KBDP-1C..4C, KFDP-*, KQB-*, NDPNE/NDPNEJ, NAIB-NEF, NM lugs NM34/NM36/NM38, N32.",
+  "id": "SRC-00140",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Superbreakers Federal Pacific collection (Shopify products.json, 639 items)",
+  "publisher": "Superbreakers (distributor/recertifier)",
+  "url": "https://superbreakers.com/collections/federal-pacific",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Machine-read via /collections/federal-pacific/products.json?limit=250&page=1..3. Descriptions are partly marketing copy; ratings treated as max conf C.",
+  "id": "SRC-00141",
+  "mfr": "SIE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Federal Pacific KCDP-1A Kit (for NH/NA-Type Panel, NE/NEF Frame)",
+  "publisher": "Electrical Power and Control (surplus)",
+  "url": "https://electricalpowerandcontrol.com/product/federal-pacific-kcdp-1a-kit-for-nh-na-type-panel-ne-nef-frame",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Used kit; label text 'For NH1B/NA1B Type Panels', '(2) 3 Pole Breakers', 'J25 (HM1)', 'LA25037'.",
+  "id": "SRC-00142",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "NDPNEJ mounting hardware strap kit detail",
+  "publisher": "R&D Electric / relectric.com",
+  "url": "https://www.relectric.com/ndpnej",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "id": "SRC-00143",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Federal Pacific Electric panelboard connector kits",
+  "publisher": "Federal Pacific Equipment / Circuit Breaker Sales (fpeparts.com)",
+  "url": "https://fpeparts.com/pages/fpe-panelboard.html",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Successor-to-tooling site; lists kit families FDP, QMQB, NDP, NHDP, NAIB, NHIB, LDP, CDP, BDP (names only, no part numbers). States no residential Stab-Lok parts.",
+  "id": "SRC-00144",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "About Federal Pacific Electric Equipment (history)",
+  "publisher": "Federal Pacific Equipment / Circuit Breaker Sales (fpeparts.com)",
+  "url": "https://fpeparts.com/pages/history.html",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "id": "SRC-00145",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Federal Pacific Electric Corporation",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Federal_Pacific_Electric_Corporation",
+  "type": "other",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Cites 406 F.3d 577 and InspectApedia for 1986 split (ACBC breakers / Electro-Mechanical Corp non-breaker), 1993 ACBC->Schneider contract manufacture.",
+  "id": "SRC-00146",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Federal Pacific panelboard/kits: KBDP1C, KCDP1C, KFDP4C product pages",
+  "publisher": "Superbreakers",
+  "url": "https://superbreakers.com/products/federal-pacific-kbdp1c-mounting-hardware",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Individual product JSON read for KCDP1C, KBDP1C, KFDP4C.",
+  "id": "SRC-00147",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Retrofit kit for Federal Pacific (forum thread)",
+  "publisher": "Mike Holt Forums",
+  "url": "https://forums.mikeholt.com/threads/retrofit-kit-for-federal-pacific.53588/post-867625",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via search summary only (site returns 403 to fetch). Eaton/Square D custom retrofit interiors for existing FPE enclosures.",
+  "id": "SRC-00148",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ: replacement breakers for Federal Pacific switchboards/panelboards; NBLP panelboards take NB type breakers",
+  "publisher": "Schneider Electric",
+  "url": "https://www.se.com/nl/en/faqs/FAQ000278110/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "403 to fetch; content known only from search-result snippet: 'Schneider Electric does no longer offer replacement breakers for Federal pacific switchboard, panelboards' and 'The NBLP panelboards take NB type breakers'.",
+  "id": "SRC-00149",
+  "mfr": "SQD",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Federal Pioneer / Schneider Canada FAQ FA234570",
+  "publisher": "Schneider Electric Canada",
+  "url": "https://se.com/ca/en/faqs/FA234570/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "",
+  "id": "SRC-00150",
+  "mfr": "SQD",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Zinsco",
+  "publisher": "Wikipedia",
+  "url": "https://en.wikipedia.org/wiki/Zinsco",
+  "type": "other",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "History Frank Adam->Zinsmeyer->Zinsco (1943)->GTE-Sylvania (1973)->Challenger (1978/1981)->Westinghouse (1994 per article)->T&B molds; Connecticut Electric bus kits. Cites InterNACHI forum 2007.",
+  "id": "SRC-00151",
+  "mfr": "ZIN",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "GTE Sylvania Zinsco breaker & panel identification",
+  "publisher": "InspectAPedia",
+  "url": "https://inspectapedia.com/electric/GTE_Sylvania_Zinsco.htm",
+  "type": "other",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Reader-submitted panel labels: ML12(12-24)C, MLB20(..)C, MOB20(20-40)C, MT12MBB, MTMB20(20-40)F/S, 390-205-09; breaker types Q, QC, QCN, Q24, R38, RC38, HRGF, QFP; main lug blocks LK-15 (150A), LK-22 (225A).",
+  "id": "SRC-00152",
+  "mfr": "ZIN",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Superbreakers Zinsco + Sylvania collections (Shopify products.json)",
+  "publisher": "Superbreakers",
+  "url": "https://superbreakers.com/collections/zinsco",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "95 Zinsco + 48 Sylvania items; QSF fusible panelboard switches, QFP/QFL/QFB/QFBL mains, QB/QCB bolt-on, UBIZ cross refs.",
+  "id": "SRC-00153",
+  "mfr": "ZIN",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Zinsco 125-Amp Type RBK UBI Replacement Buss Bar Kit for Zinsco Load Centers UBIZRBK12",
+  "publisher": "The Home Depot (retailer)",
+  "url": "https://www.homedepot.com/p/Zinsco-125-Amp-Type-RBK-UBI-Replacement-Buss-Bar-Kit-for-Zinsco-Load-Centers-UBIZRBK12/100669974",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via search summary: '2 copper-plated buss bars, lugs, screws, insulators included'.",
+  "id": "SRC-00154",
+  "mfr": "ZIN",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Connecticut Electric UBIZ / UBIF / UBIP replacement breaker listings",
+  "publisher": "Dale Electric / Sonic Electric / Ace Hardware (retailers)",
+  "url": "https://dale-electric.com/products/UBIZ30",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "UBIZ (Zinsco Q-type), UBIF (FPE Stab-Lok NA/NC), UBIP (Pushmatic/Bulldog) 10kAIC ETL-listed replacement breakers; read via search summaries.",
+  "id": "SRC-00155",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Challenger / GTE / Zinsco ownership discussion",
+  "publisher": "Mike Holt Forums / InterNACHI forum",
+  "url": "https://forums.mikeholt.com/threads/challenger-brand-history.55618/post-924498",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Via search summary: Westinghouse acquired Challenger late 1980s (NACHI timeline says 1988); T&B took Zinsco/Challenger breaker lines.",
+  "id": "SRC-00156",
+  "mfr": "EAT",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Frank Adam Electrical Panels",
+  "publisher": "InspectAPedia",
+  "url": "https://inspectapedia.com/electric/Frank-Adam-Electrical-Panels.php",
+  "type": "other",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Model labels PULFUZSW, KLAMPSWFUZ; Zinsco-type QSF breakers/switches in some Frank Adam panelboards; Fuselok switch; era c.1900-1950 (to 1970).",
+  "id": "SRC-00157",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Trumbull Electric panel / GE-Trumbull discussions",
+  "publisher": "Mike Holt Forums / InterNACHI / ECN forums",
+  "url": "https://forum.nachi.org/t/trumbull-electric-panel/39581",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Label 'Trumbull Electric Mfg. Co. Plainville Conn. USA. A General Electric Organization'; GE/Trumbull breaker numbers same.",
+  "id": "SRC-00158",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Bulldog Pushmatic forum threads (3-phase Pushmatic, ITE/Siemens lineage)",
+  "publisher": "Mike Holt Forums",
+  "url": "https://forums.mikeholt.com/threads/bulldog-pushmatic.2562559/post-2688682",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "id": "SRC-00159",
+  "mfr": "SIE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "What is a Federal Pacific NE and NEF Circuit Breaker?",
+  "publisher": "JRL Electric Supply (dealer blog)",
+  "url": "https://jrlelectricsupplyinc.com/?p=12855",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Fetch returned 429; content from search summary: NE and NEF obsolete, same dimensions, fit same panels; NEF 2-3P rated 480 VAC / 250 VDC; voltage and AIC differ.",
+  "id": "SRC-00160",
+  "mfr": "FPE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Superbreakers Murray + Wadsworth collections (products.json)",
+  "publisher": "Superbreakers",
+  "url": "https://superbreakers.com/collections/murray",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "id": "SRC-00161",
+  "mfr": "SIE",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Eaton Electrical Launches New Options for Upgrading Existing Panelboards - Retrofit Kits (Type CH and BR) selection guide",
+  "publisher": "Eaton Electrical / Cutler-Hammer (mirror hosted by InspectAPedia on its FPE pages)",
+  "url": "https://inspectapedia.com/fpe/CHRetrofitGuide.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "10 pp. Undated (Eaton Electrical/Cutler-Hammer branding suggests c.2004-2008). Selection charts 1-11 give ~60 retrofit kit catalog numbers by box height, wire size, circuits, main type. Lincoln Flex Center 800-330-6479. Interiors 'UL recognized under UL67'. Mirror URL; original Eaton URL not known.",
+  "local_file": "docs/library/EAT/CHRetrofitGuide.pdf",
+  "id": "SRC-00162",
+  "mfr": "EAT",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "sha256": "27ee4a04e4efbeb2dad98d4691a55a3ea8ee59c6798f2a3e5e09b3ac44a5f83c",
+  "bytes": 592664
+ },
+ {
+  "title": "Eaton's retrofit panel assemblies are not UL listed (forum thread) and related threads",
+  "publisher": "Mike Holt Forums",
+  "url": "https://forums.mikeholt.com/threads/eaton%E2%80%99s-retrofit-panel-assemblies-are-not-ul-listed.122367/",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Via search summary: components listed but installed assembly in existing enclosure not; UL paths = interior listed for enclosure or field evaluation; claim that interiors not marked for the existing enclosure revert to 10 kA SCCR (unverified).",
+  "id": "SRC-00163",
+  "mfr": "EAT",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Zinsco Breaker Parts & Accessories Catalog",
+  "publisher": "R&D Electric / relectric.com",
+  "url": "https://www.relectric.com/part-catalog/zinsco-circuit-breaker-parts-and-accessories",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "12 items: DSLNEJT, DSLNET, DSLNFT, DSLNJT, DSLNM, DSLNMS, DSLQB, DSLQFB, QSF100DS, QSF200DS, QSF400DS, QSF600DS.",
+  "id": "SRC-00164",
+  "mfr": "ZIN",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Sylvania Breaker Parts & Accessories Catalog",
+  "publisher": "R&D Electric / relectric.com",
+  "url": "https://www.relectric.com/part-catalog/sylvania-circuit-breaker-parts-and-accessories",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "10 items: SEHT, SECT, SJD4T, SKM8S, FPENEFT, QSF100SS, QSF100SB, QSF200SB, QSF400SB, QSF400DS.",
+  "id": "SRC-00165",
+  "mfr": "ZIN",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Challenger Breaker Parts & Accessories Catalog",
+  "publisher": "R&D Electric / relectric.com",
+  "url": "https://www.relectric.com/part-catalog/challenger-circuit-breaker-parts-and-accessories",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "41 items: C?D?K twin/single mounting kits (CCA4K, CED3K, CED4K, CED4BK, CFD3K, CFD4K, CFD4BK, CJD4K, CJDS4K, CJDS4BK, CKD4K, CKDS4K, CKDS4BK, CLD4K, CLDS4BK, CMD4K, CND4K), KPRL4C*/KPRL4AC*/KPRL4BC*/KPRL3CF3 kits, CKT trip units, rating plugs. 'PM4a'/'PM4b' annotations.",
+  "id": "SRC-00166",
+  "mfr": "EAT",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Zinsco QFP2T Main Breaker Panelboard Mounting Hardware / Feet",
+  "publisher": "Electrical Power and Control (surplus)",
+  "url": "https://electricalpowerandcontrol.com/product/zinsco-qfp2t-main-breaker-panelboard-mounting-hardware-feet",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "id": "SRC-00167",
+  "mfr": "ZIN",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Frank Adams Breaker Parts & Accessories Catalog",
+  "publisher": "R&D Electric / relectric.com",
+  "url": "https://www.relectric.com/part-catalog/frank-adams-circuit-breaker-parts-and-accessories",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Single item CU-NFJ 'FAM; CU-NFJ; Hardware Kit'.",
+  "id": "SRC-00168",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Circuit breakers and old panelboard; will anything work? (UL Question Corner)",
+  "publisher": "IAEI Magazine / UL",
+  "url": "https://iaeimagazine.org/2010/march2010/circuit-breakers-and-old-panelboard-will-anything-work/",
+  "type": "other",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "UL guidance: only classified breakers (DIXF, 15-60 A, 120/240 V, panels <=225 A, <=10 kA) may substitute; otherwise use breakers named on panel marking.",
+  "date": "2010-03",
+  "id": "SRC-00169",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Pushmatic / Bulldog design history",
+  "publisher": "InspectAPedia",
+  "url": "https://inspectapedia.com/electric/Pushmatic_Design_History.php",
+  "type": "other",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Bulldog Electric Products Co. (Detroit); ITE (Gould) purchase stated 1976; Siemens c.1984; US 2,428,320 (1947) Platz panelboard with detachably mounted devices = Pushmatic panel; installed mainly 1950-1970.",
+  "id": "SRC-00170",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Murray / Crouse-Hinds / Siemens lineage (forum threads)",
+  "publisher": "Mike Holt Forums",
+  "url": "https://forums.mikeholt.com/threads/siemens-and-murray-interchangable.46702/post-737356",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Via search summary: Murray -> Crouse-Hinds (Cooper) late 1970s -> Siemens (c.1992, restored Murray name) -> Murray brand phase-out c.2019 (unverified).",
+  "id": "SRC-00171",
+  "mfr": "GEA",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Wadsworth breaker listings and forum discussion",
+  "publisher": "Bay Power / Mike Holt Forums",
+  "url": "https://www.baypower.com/wadsworth/circuit-breakers/wadsworth-a360-3-pole-60-amp-molded-case-circuit-breaker",
+  "type": "distributor",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Via search summary; Wadsworth A-series (e.g., A360 3P 60A, A320) and B-series (B1515) breakers; Superbreakers Wadsworth collection SKUs A15NI..A260NI, B1530NI, B3020NI.",
+  "id": "SRC-00172",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Kinney Panel (forum thread)",
+  "publisher": "Mike Holt Forums",
+  "url": "https://forums.mikeholt.com/threads/kinney-panel.104222/post-1650904",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Via search summary: Kinney 'still in Elgin, IL'; Eaton vintage products group may support breakers.",
+  "id": "SRC-00173",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Midwest Switchgear: Zinsco/Sylvania QSF fusible panelboard switch listings (QSFT1033B, QSF-4033)",
+  "publisher": "Midwest Switchgear Group (surplus)",
+  "url": "https://www.swgr.com/store/Fusible-Panelboard-Switch/product/QSFT1033B,27-6809.aspx",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Via search summary.",
+  "id": "SRC-00174",
+  "mfr": "ZIN",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Breaker parts & accessories: Mounting Hardware (listing page 12)",
+  "publisher": "R&D Electric / relectric.com",
+  "url": "https://www.relectric.com/circuit-breaker-parts-and-accessories/mounting-hardware?page=12",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Shows CMD4K (Challenger single 800 A 600 V, $568.70), SKM8S (Sylvania 800 A single kit), QSF100DS, QSF200SB, KQB-4C.",
+  "id": "SRC-00175",
+  "mfr": "GEA",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ]
+ },
+ {
+  "title": "Pushmatic - Bulldog panels & breakers",
+  "publisher": "InspectAPedia",
+  "url": "https://inspectapedia.com/electric/Pushmatic.php",
+  "type": "other",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "P1515 condensed-space dual 15 A will not fit older Gould ITE Pushmatic panels; 3-phase Pushmatic version reported (Rossi); Electri-Center name; Bulldog Electric Products Co., Detroit; US 1,982,289 (1934).",
+  "id": "SRC-00176",
+  "mfr": "OTH",
+  "batches": [
+   "B0009-legacy-other-manufacturers"
   ]
  }
 ]

@@ -1,51 +1,44 @@
 {
  "counters": {
-  "SRC": 119,
-  "FAM-SIE": 10,
-  "BRK-SIE": 18,
-  "EDH-SIE": 313,
-  "LEAD": 62,
-  "FAM-GEA": 9,
+  "SRC": 176,
+  "FAM-EAT": 28,
+  "BRK-EAT": 63,
+  "EDH-EAT": 788,
+  "LEAD": 83,
+  "FAM-SQD": 5,
+  "BRK-SQD": 27,
+  "EDH-SQD": 312,
+  "FAM-GEA": 10,
   "BRK-GEA": 28,
   "EDH-GEA": 395,
-  "FAM-EAT": 26,
-  "BRK-EAT": 38,
-  "EDH-EAT": 460,
-  "FAM-SQD": 5,
-  "BRK-SQD": 13,
-  "EDH-SQD": 176
+  "FAM-SIE": 12,
+  "BRK-SIE": 30,
+  "EDH-SIE": 313,
+  "FAM-FPE": 7,
+  "FAM-ZIN": 2,
+  "FAM-OTH": 4,
+  "BRK-FPE": 9,
+  "BRK-ZIN": 3,
+  "BRK-OTH": 1,
+  "EDH-FPE": 43,
+  "EDH-ZIN": 25,
+  "EDH-OTH": 1
  },
  "batches": [
   {
-   "batch_id": "B0006-siemens-ite",
+   "batch_id": "B0001-eaton-prl-panelboards",
    "date": "2026-10-21",
    "merged": "2026-10-21",
-   "file": "B0006-siemens-ite.json",
+   "file": "B0001-eaton-prl-panelboards.json",
    "stats": {
-    "sources_new": 15,
-    "families_new": 10,
-    "breakers_new": 15,
-    "parts_new": 244,
+    "sources_new": 12,
+    "families_new": 16,
+    "breakers_new": 19,
+    "parts_new": 422,
     "parts_updated": 0,
-    "leads_new": 9,
-    "docs_filed": 10,
-    "batch": "B0006-siemens-ite"
-   }
-  },
-  {
-   "batch_id": "B0005-ge-abb",
-   "date": "2026-10-21",
-   "merged": "2026-10-21",
-   "file": "B0005-ge-abb.json",
-   "stats": {
-    "sources_new": 22,
-    "families_new": 9,
-    "breakers_new": 15,
-    "parts_new": 280,
-    "parts_updated": 0,
-    "leads_new": 9,
-    "docs_filed": 11,
-    "batch": "B0005-ge-abb"
+    "leads_new": 13,
+    "docs_filed": 0,
+    "batch": "B0001-eaton-prl-panelboards"
    }
   },
   {
@@ -54,30 +47,14 @@
    "merged": "2026-10-21",
    "file": "B0002-eaton-switchboards-legacy.json",
    "stats": {
-    "sources_new": 14,
-    "families_new": 15,
+    "sources_new": 13,
+    "families_new": 10,
     "breakers_new": 32,
-    "parts_new": 127,
-    "parts_updated": 0,
-    "leads_new": 11,
-    "docs_filed": 9,
-    "batch": "B0002-eaton-switchboards-legacy"
-   }
-  },
-  {
-   "batch_id": "B0001-eaton-prl-panelboards",
-   "date": "2026-10-21",
-   "merged": "2026-10-21",
-   "file": "B0001-eaton-prl-panelboards.json",
-   "stats": {
-    "sources_new": 11,
-    "families_new": 11,
-    "breakers_new": 6,
-    "parts_new": 333,
+    "parts_new": 38,
     "parts_updated": 89,
-    "leads_new": 13,
-    "docs_filed": 7,
-    "batch": "B0001-eaton-prl-panelboards"
+    "leads_new": 11,
+    "docs_filed": 0,
+    "batch": "B0002-eaton-switchboards-legacy"
    }
   },
   {
@@ -92,8 +69,56 @@
     "parts_new": 176,
     "parts_updated": 1,
     "leads_new": 13,
-    "docs_filed": 5,
+    "docs_filed": 0,
     "batch": "B0004-squared-switchboards"
+   }
+  },
+  {
+   "batch_id": "B0005-ge-abb",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0005-ge-abb.json",
+   "stats": {
+    "sources_new": 22,
+    "families_new": 9,
+    "breakers_new": 15,
+    "parts_new": 280,
+    "parts_updated": 0,
+    "leads_new": 9,
+    "docs_filed": 0,
+    "batch": "B0005-ge-abb"
+   }
+  },
+  {
+   "batch_id": "B0006-siemens-ite",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0006-siemens-ite.json",
+   "stats": {
+    "sources_new": 15,
+    "families_new": 10,
+    "breakers_new": 15,
+    "parts_new": 244,
+    "parts_updated": 0,
+    "leads_new": 9,
+    "docs_filed": 0,
+    "batch": "B0006-siemens-ite"
+   }
+  },
+  {
+   "batch_id": "B0007-breaker-terminal-kits-eaton-squared",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0007-breaker-terminal-kits-eaton-squared.json",
+   "stats": {
+    "sources_new": 18,
+    "families_new": 0,
+    "breakers_new": 26,
+    "parts_new": 381,
+    "parts_updated": 8,
+    "leads_new": 7,
+    "docs_filed": 0,
+    "batch": "B0007-breaker-terminal-kits-eaton-squared"
    }
   },
   {
@@ -104,12 +129,28 @@
    "stats": {
     "sources_new": 8,
     "families_new": 0,
-    "breakers_new": 16,
+    "breakers_new": 27,
     "parts_new": 184,
     "parts_updated": 0,
     "leads_new": 7,
-    "docs_filed": 7,
+    "docs_filed": 0,
     "batch": "B0008-breaker-terminal-kits-ge-siemens"
+   }
+  },
+  {
+   "batch_id": "B0009-legacy-other-manufacturers",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0009-legacy-other-manufacturers.json",
+   "stats": {
+    "sources_new": 39,
+    "families_new": 18,
+    "breakers_new": 14,
+    "parts_new": 152,
+    "parts_updated": 1,
+    "leads_new": 14,
+    "docs_filed": 1,
+    "batch": "B0009-legacy-other-manufacturers"
    }
   }
  ],

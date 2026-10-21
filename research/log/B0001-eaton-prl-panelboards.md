@@ -3,7 +3,7 @@
 * Date: 2026-10-21
 * Researcher: Claude Code research subagent (claude-opus-5-5), session 2026-10-21
 * Scope: Eaton / Cutler-Hammer / Westinghouse Pow-R-Line panelboards PRL1a, PRL2a, PRL3a, PRL3E, PRL4 (4B/4F/4D), PRL1X/2X/3X/4X (Xpert), column LX types, PRL5P, Pow-R-Command, and vintage Westinghouse PRL1/PRL2/PRL3/CDP/FDP: family overviews, breaker compatibility, connector/lug/neutral/ground/SE/deadfront/filler renewal parts.
-* Merge stats: {'sources_new': 11, 'families_new': 11, 'breakers_new': 6, 'parts_new': 333, 'parts_updated': 89, 'leads_new': 13, 'docs_filed': 7, 'batch': 'B0001-eaton-prl-panelboards'}
+* Merge stats: {'sources_new': 12, 'families_new': 16, 'breakers_new': 19, 'parts_new': 422, 'parts_updated': 0, 'leads_new': 13, 'docs_filed': 0, 'batch': 'B0001-eaton-prl-panelboards'}
 
 ## Narrative
 

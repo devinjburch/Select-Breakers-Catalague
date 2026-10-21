@@ -1,0 +1,1901 @@
+[
+ {
+  "id": "EDH-ZIN-00001",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "QSF100DS",
+  "title": "Zinsco QSF switch kit 100 A, double slot, mounting hardware",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QSF100DS",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco QSF switch kit 100 A, double slot, mounting hardware",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (QSF fusible switch)",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00002",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "QSF200DS",
+  "title": "Zinsco QSF 200 A double slot mounting hardware",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QSF200DS",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco QSF 200 A double slot mounting hardware",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "200 A",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00003",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "QSF400DS",
+  "title": "Zinsco/Sylvania QSF 400 A switch kit, double slot",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QSF400DS",
+     "conf": "C",
+     "src": [
+      "SRC-00164",
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco/Sylvania QSF 400 A switch kit, double slot",
+     "conf": "C",
+     "src": [
+      "SRC-00164",
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164",
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00164",
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164",
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00004",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "QSF600DS",
+  "title": "Zinsco QSF 600 A double slot mounting hardware",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QSF600DS",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco QSF 600 A double slot mounting hardware",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00005",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "DSLQB",
+  "title": "Zinsco double slot breaker mounting hardware for QB",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "DSLQB",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco double slot breaker mounting hardware for QB",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00006",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "DSLQFB",
+  "title": "Zinsco double slot breaker mounting hardware for QFB",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "DSLQFB",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco double slot breaker mounting hardware for QFB",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00007",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "DSLNET",
+  "title": "Zinsco double slot twin mounting hardware for FPE NE breakers (inferred from name)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "DSLNET",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco double slot twin mounting hardware for FPE NE breakers (inferred from name)",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Confirm frame (NE/NEF) - description only repeats part number"
+  ],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00008",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "DSLNEJT",
+  "title": "Zinsco double slot twin mounting hardware, NEJ type",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "DSLNEJT",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco double slot twin mounting hardware, NEJ type",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00009",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "DSLNFT",
+  "title": "Zinsco double slot twin mounting hardware for FPE NF/NFJ (inferred from name)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-005"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "DSLNFT",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco double slot twin mounting hardware for FPE NF/NFJ (inferred from name)",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00010",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "DSLNJT",
+  "title": "Zinsco double slot twin mounting hardware for FPE NJ/NJL (inferred from name)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-006"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "DSLNJT",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco double slot twin mounting hardware for FPE NJ/NJL (inferred from name)",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00011",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "DSLNM",
+  "title": "Zinsco double slot mounting hardware for FPE NM (inferred from name)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "DSLNM",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco double slot mounting hardware for FPE NM (inferred from name)",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00012",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "DSLNMS",
+  "title": "Zinsco DSLNM mounting hardware (single?)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "DSLNMS",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco DSLNM mounting hardware (single?)",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00164"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Difference between DSLNM and DSLNMS (S=single?)"
+  ],
+  "source_ids": [
+   "SRC-00164"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00013",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "QSF100SS",
+  "title": "Sylvania QSF 100 A twin kit",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QSF100SS",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania QSF 100 A twin kit",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00014",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "QSF100SB",
+  "title": "Sylvania QSF single slot switch kit, split buss, 100 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QSF100SB",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania QSF single slot switch kit, split buss, 100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00015",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "QSF200SB",
+  "title": "Sylvania QSF single slot switch kit, split buss, 200 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QSF200SB",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania QSF single slot switch kit, split buss, 200 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "200 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00016",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "QSF400SB",
+  "title": "Sylvania QSF single slot switch kit, split buss (listed 200 A; number implies 400 A)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QSF400SB",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania QSF single slot switch kit, split buss (listed 200 A; number implies 400 A)",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "listed '200A' - probably 400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [
+   "Ampacity conflict 200 vs 400 A"
+  ],
+  "source_ids": [
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00017",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "SEHT",
+  "title": "Sylvania 100 A twin kit (for SE/SEH breakers, inferred)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SEHT",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania 100 A twin kit (for SE/SEH breakers, inferred)",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00018",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "SECT",
+  "title": "Sylvania 225 A twin kit (for SC? frame, inferred)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SECT",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania 225 A twin kit (for SC? frame, inferred)",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00019",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "SJD4T",
+  "title": "Sylvania 400 A twin kit (SJD frame)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SJD4T",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania 400 A twin kit (SJD frame)",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00020",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "SKM8S",
+  "title": "Sylvania 800 A single kit (SKM frame)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SKM8S",
+     "conf": "C",
+     "src": [
+      "SRC-00165",
+      "SRC-00175"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania 800 A single kit (SKM frame)",
+     "conf": "C",
+     "src": [
+      "SRC-00165",
+      "SRC-00175"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165",
+      "SRC-00175"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "800 A",
+     "conf": "C",
+     "src": [
+      "SRC-00165",
+      "SRC-00175"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00165",
+   "SRC-00175"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00021",
+  "mfr": "ZIN",
+  "brand_marking": "Sylvania",
+  "oem_part_number": "FPENEFT",
+  "title": "Sylvania twin mounting hardware for FPE NEF breaker",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-ZIN-002"
+  ],
+  "breaker_ids": [
+   "BRK-FPE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FPENEFT",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sylvania twin mounting hardware for FPE NEF breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00165"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00165"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00022",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "QFP2T",
+  "title": "Zinsco QFP 2-pole main breaker mounting hardware / feet (base)",
+  "component_type": "main-breaker-kit",
+  "family_ids": [
+   "FAM-ZIN-001"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QFP2T",
+     "conf": "C",
+     "src": [
+      "SRC-00167"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Zinsco QFP 2-pole main breaker mounting hardware / feet (base)",
+     "conf": "C",
+     "src": [
+      "SRC-00167"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; recertified/new-surplus",
+     "conf": "C",
+     "src": [
+      "SRC-00167"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "Listing package dims 4.25 x 4.5 x 1.125 in, 0.1 lb (may be item size)",
+     "conf": "C",
+     "src": [
+      "SRC-00167"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "2-pole QFP mains with offset/staggered lug or standard lug; listed for Zinsco, Sylvania, Westinghouse, Challenger panels",
+     "conf": "C",
+     "src": [
+      "SRC-00167"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "location": [
+    {
+     "value": "Under main breaker, mounting it to panel",
+     "conf": "C",
+     "src": [
+      "SRC-00167"
+     ],
+     "basis": "surplus",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "ampacity",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00167"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00023",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "LK-15",
+  "title": "Zinsco main lug block 150 A",
+  "component_type": "main-lug-kit",
+  "family_ids": [
+   "FAM-ZIN-001"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LK-15",
+     "conf": "C",
+     "src": [
+      "SRC-00152"
+     ],
+     "page": "reader-submitted panel label",
+     "basis": "photo",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Main lug block rated 150 A listed on Zinsco panel label alongside QFP24 main",
+     "conf": "C",
+     "src": [
+      "SRC-00152"
+     ],
+     "basis": "photo",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "150 A",
+     "conf": "C",
+     "src": [
+      "SRC-00152"
+     ],
+     "basis": "photo",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque",
+   "wire range"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00152"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00024",
+  "mfr": "ZIN",
+  "brand_marking": "",
+  "oem_part_number": "LK-22",
+  "title": "Zinsco main lug block 225 A",
+  "component_type": "main-lug-kit",
+  "family_ids": [
+   "FAM-ZIN-001"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LK-22",
+     "conf": "C",
+     "src": [
+      "SRC-00152"
+     ],
+     "page": "reader-submitted panel label",
+     "basis": "photo",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Main lug block rated 225 A listed on Zinsco panel label alongside QFP24 main",
+     "conf": "C",
+     "src": [
+      "SRC-00152"
+     ],
+     "basis": "photo",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00152"
+     ],
+     "basis": "photo",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "finish",
+   "hole_pattern",
+   "install_doc",
+   "material",
+   "torque",
+   "wire range"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00152"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-ZIN-00025",
+  "mfr": "ZIN",
+  "brand_marking": "Connecticut Electric / UBI",
+  "oem_part_number": "UBIZRBK12",
+  "title": "Connecticut Electric / UBI 125 A Type RBK replacement buss bar kit for Zinsco load centers",
+  "component_type": "bus-assembly",
+  "family_ids": [
+   "FAM-ZIN-001"
+  ],
+  "breaker_ids": [
+   "BRK-ZIN-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "UBIZRBK12 (aftermarket, Connecticut Electric)",
+     "conf": "C",
+     "src": [
+      "SRC-00154"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "description": [
+    {
+     "value": "Replacement buss bar kit: 2 copper-plated buss bars, lugs, screws, insulators; Wikipedia describes as tin-coated copper",
+     "conf": "C",
+     "src": [
+      "SRC-00154",
+      "SRC-00151"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "125 A",
+     "conf": "C",
+     "src": [
+      "SRC-00154"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "aftermarket": [
+    {
+     "value": "Aftermarket replacement - not Zinsco OEM; buyer review reports bars may need trimming to fit",
+     "conf": "C",
+     "src": [
+      "SRC-00154"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ],
+   "status": [
+    {
+     "value": "current (aftermarket)",
+     "conf": "C",
+     "src": [
+      "SRC-00154"
+     ],
+     "basis": "distributor",
+     "batch": "B0009-legacy-other-manufacturers"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "listing basis",
+   "torque"
+  ],
+  "questions": [
+   "Exact UL/ETL listing scope of UBIZRBK12 when installed in original Zinsco enclosures"
+  ],
+  "source_ids": [
+   "SRC-00154",
+   "SRC-00151"
+  ],
+  "batches": [
+   "B0009-legacy-other-manufacturers"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ }
+]
