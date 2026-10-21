@@ -101,6 +101,8 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0162 — ABB library direct-download route (search.abb.com/library/Download.aspx?DocumentID=<ABB doc ID>)** (B0017-ge-abb-deep-dive)  
   search.abb.com redirects to signed library.e.abb.com URLs and works from this container even though electrification.us.abb.com and library.e.abb.com direct links fail (503/403). Requires the ABB document ID (e.g. 9AKK108467A9254 for GET-8032C, 1TQC173000E00xx/Z00xx ReliaGear lighting kits, 1SQC9000xxM0201 neXT instructions). Find the IDs for BuyLog Section 11 (2021/2022), GE DEH-0xx/DEH-4xxxx Spectra kit leaflets and GEH-5588/5630 via search-result metadata, then download.  
   URLs: https://search.abb.com/library/Download.aspx?DocumentID=9AKK108467A9254&LanguageCode=en&DocumentPartId=&Action=Launch
+* **LEAD-0171 — Run quality audit AUDIT-001 of class-A claims** (session-1)  
+  Audit started in session 1 but was stopped before completion. Sample ~120 parts stratified by lineage; verify class-A claims against preserved PDFs; write research/audits/AUDIT-001.md and corrections JSON; apply fixes.
 
 ## Priority 2
 

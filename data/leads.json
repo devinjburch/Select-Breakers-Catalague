@@ -2226,5 +2226,15 @@
   "urls": [],
   "status": "open",
   "batch": "B0017-ge-abb-deep-dive"
+ },
+ {
+  "id": "LEAD-0171",
+  "priority": 1,
+  "topic": "Run quality audit AUDIT-001 of class-A claims",
+  "detail": "Audit started in session 1 but was stopped before completion. Sample ~120 parts stratified by lineage; verify class-A claims against preserved PDFs; write research/audits/AUDIT-001.md and corrections JSON; apply fixes.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "session-1"
  }
 ]

@@ -39,8 +39,42 @@ the researchers are in `research/log/<batch>.md`; generated statistics are in
 * A third-party mirror page (novapart) contained text addressed to AI assistants. The researcher
   ignored it; only the OEM PDF content was used.
 
-### In progress / next
-* B0003 Square D NQ/NF/I-Line panelboards, B0010 and B0011 (instruction-leaflet hunts for
-  dimensions and torque), B0012 (archival legacy lines).
-* Biggest systematic gap: dimensions, hole patterns, materials and torque. Renewal-parts guides
-  rarely give these, and kit instruction leaflets are the target. See BACKLOG priority 1.
+### Later batches (same session)
+| Batch | Scope |
+|---|---|
+| B0003 | Square D NQ/NQOD/NQO/NF/NEHB/I-Line panelboards; ~56 instruction bulletins with torques |
+| B0010 | Eaton switchboard manuals; 219 Siemens kit instruction sheets (contents, torques, hole patterns) |
+| B0011 | GE Spectra/A-Series instruction leaflets (manualsdir), ABB empower status, Square D QED-2 IB |
+| B0012 | Archival: Square D Digest 152 (1970), GE GEG-13610B, Eaton Vol 12 Tab 4 (pre-1994 C-H types) |
+| B0013 | Eaton RP01400003E (vintage C-H MP40/PB/PH/EE), PRL boxes/trims, product-page status checks |
+| B0014 | Siemens Series 5/6 (ITE heritage), revised P1, switchboard kits, VL accessories, SPEEDFAX 2011 Sec 13 |
+| B0015 | Square D obsolescent panelboards (2009 Digest Sec 13), boxes/trims, fingersafe parts, SurgeLoc |
+| B0016 | Aftermarket/retrofit: Connecticut Electric UBI, Breaker King, Eaton P1R/P2R, ABB Tmax XT retrofit |
+| B0017 | GE Spectra switchboards, breaker mounting hardware/plug-in bases, SCP Plus/CCB/ReliaGear parts |
+| B0018 | Breaker installation accessories (padlock/handle locks, ties, field kits) across four lineages |
+
+### Additional corrections
+* Source de-duplication by (publisher, doc number) merged different editions (RP01400001E 2017
+  and 2022). Fix: the key now includes the edition date. All batches were re-merged from the
+  archive; this is the ID baseline from this commit onward.
+* Parts whose primary family belongs to another lineage (aftermarket OTH items) were not printed.
+  They are now printed under that family.
+
+### Access routes that work (container, Oct 2026)
+* Eaton: `http://cooperindustries.com/content/dam/eaton/...` mirrors eaton.com paths (eaton.com times out).
+* Schneider: `download.schneider-electric.com/files?p_Doc_Ref=<doc>` with a browser User-Agent
+  (intermittently rate-limited / 403).
+* Siemens: public bucket s3.amazonaws.com/dcc-data-extract ("Instruction Sheet Quick Guide").
+* ABB: `search.abb.com/library/Download.aspx?DocumentID=<ABB id>`; GE leaflets on manualsdir.com.
+
+### Not finished / next session
+* **Quality audit AUDIT-001 was started and stopped before it reported.** Re-run it first
+  (LEAD added): sample about 120 parts and verify class-A claims against the preserved PDFs, watching
+  especially for footnote digits run into part numbers and column misalignment in extracted tables.
+* Validator: 241 warnings, mostly alternate/primary number collisions (supersession pairs) and
+  ampacity/pole conflicts between editions. Review them and record resolutions.
+* Biggest systematic gap: dimensions and hole patterns for Eaton and Square D kits. No public
+  leaflets exist for many Eaton kits, so field measurement of physical samples is needed
+  (basis `field_measurement`).
+* Not found anywhere public: Pow-R-Line C / Pow-R-Line i switchboard connector-kit numbers.
+
