@@ -9128,7 +9128,8 @@
   "title": "A-Series AQ/AL/AE rail bracket",
   "component_type": "mounting-bracket",
   "family_ids": [
-   "FAM-GEA-001"
+   "FAM-GEA-001",
+   "FAM-GEA-002"
   ],
   "breaker_ids": [],
   "claims": {
@@ -9154,6 +9155,16 @@
      "page": "p.11-20",
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
+    },
+    {
+     "value": "AQ/AL/AE rail bracket (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -9169,7 +9180,8 @@
    "SRC-00075"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -9182,7 +9194,8 @@
   "title": "A-Series AE front mounting kit",
   "component_type": "hardware-kit",
   "family_ids": [
-   "FAM-GEA-001"
+   "FAM-GEA-001",
+   "FAM-GEA-002"
   ],
   "breaker_ids": [],
   "claims": {
@@ -9208,6 +9221,16 @@
      "page": "p.11-20",
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
+    },
+    {
+     "value": "AE front mounting kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -9223,7 +9246,8 @@
    "SRC-00075"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -9236,7 +9260,8 @@
   "title": "A-Series AQ/AL front mounting kit",
   "component_type": "hardware-kit",
   "family_ids": [
-   "FAM-GEA-001"
+   "FAM-GEA-001",
+   "FAM-GEA-002"
   ],
   "breaker_ids": [],
   "claims": {
@@ -9262,6 +9287,16 @@
      "page": "p.11-20",
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
+    },
+    {
+     "value": "AQ/AL front mounting kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -9277,7 +9312,8 @@
    "SRC-00075"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -9290,7 +9326,8 @@
   "title": "A-Series AD front mounting kit",
   "component_type": "hardware-kit",
   "family_ids": [
-   "FAM-GEA-001"
+   "FAM-GEA-001",
+   "FAM-GEA-002"
   ],
   "breaker_ids": [],
   "claims": {
@@ -9316,6 +9353,16 @@
      "page": "p.11-20",
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
+    },
+    {
+     "value": "AD front mounting kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -9331,7 +9378,8 @@
    "SRC-00075"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -9373,6 +9421,16 @@
      "page": "p.11-20; p.11-10",
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
+    },
+    {
+     "value": "Permanent circuit number kit, Nos. 1-48.",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-10, A-Series Column - Field Installed Kits/Replacement Parts",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -9389,7 +9447,8 @@
    "SRC-00076"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -9431,6 +9490,16 @@
      "page": "p.11-20; p.11-10",
      "basis": "oem_spec",
      "batch": "B0005-ge-abb"
+    },
+    {
+     "value": "Permanent circuit number kit, Nos. 43-84.",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-10, A-Series Column - Field Installed Kits/Replacement Parts",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -9447,7 +9516,8 @@
    "SRC-00076"
   ],
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -49758,9 +49828,12 @@
   "title": "GE breaker handle locking device (non-padlocking) for TQB, TQC and TQL breakers, Model 5",
   "component_type": "handle-lock",
   "family_ids": [
+   "FAM-GEA-001",
    "FAM-GEA-011"
   ],
   "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002",
    "BRK-GEA-029"
   ],
   "claims": {
@@ -49774,6 +49847,16 @@
      "page": "GEG-13610B renewal parts list",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Handle lock - non padlocking. Kit includes (1) lock for 1-pole breaker and (1) lock for 2-pole breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -49796,6 +49879,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "TQB, TQC, TQL (Q-Line); listed in A-Series panelboard section for THQL, THHQL, THQB, THHQB",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "oem_part_number": [
@@ -49803,10 +49896,47 @@
      "value": "THL103",
      "conf": "A",
      "src": [
-      "SRC-00260"
+      "SRC-00260",
+      "SRC-00130"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "(1) lock for 1-pole breaker and (1) lock for 2-pole breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties, footnote 5",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -49818,10 +49948,14 @@
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00075",
+   "SRC-00130",
+   "SRC-00132",
    "SRC-00260"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -49834,6 +49968,7 @@
   "title": "GE breaker handle padlocking device for TQC breakers",
   "component_type": "padlock-attachment",
   "family_ids": [
+   "FAM-GEA-001",
    "FAM-GEA-011"
   ],
   "breaker_ids": [
@@ -49850,6 +49985,16 @@
      "page": "GEG-13610B renewal parts list",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Handle lock - padlocking, TQC.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -49872,6 +50017,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "TQC; for group-mounted panelboard construction only",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "oem_part_number": [
@@ -49879,10 +50034,35 @@
      "value": "TQPLD1",
      "conf": "A",
      "src": [
-      "SRC-00260"
+      "SRC-00260",
+      "SRC-00130"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -49894,10 +50074,13 @@
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00130",
+   "SRC-00132",
    "SRC-00260"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -49910,9 +50093,12 @@
   "title": "GE breaker handle padlocking device for TQB and TQL breakers, Model 3",
   "component_type": "padlock-attachment",
   "family_ids": [
+   "FAM-GEA-001",
    "FAM-GEA-011"
   ],
   "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002",
    "BRK-GEA-029"
   ],
   "claims": {
@@ -49926,6 +50112,16 @@
      "page": "GEG-13610B renewal parts list",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Handle lock - padlocking (single padlock).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -49948,6 +50144,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "TQB, TQL; panelboard section lists THQL, THHQL, TXQL, THQB, THHQB, TXQB",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "oem_part_number": [
@@ -49955,10 +50161,35 @@
      "value": "THP100",
      "conf": "A",
      "src": [
-      "SRC-00260"
+      "SRC-00260",
+      "SRC-00130"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -49970,10 +50201,14 @@
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00075",
+   "SRC-00130",
+   "SRC-00132",
    "SRC-00260"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -73328,6 +73563,6898 @@
   ],
   "batches": [
    "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00613",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "THQGFPLD1",
+  "title": "GE padlocking handle lock for single-pole Q-Line GF breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002",
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "THQGFPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock - padlocking, for TQB..GF, TQC..GF, TQL..GF ground-fault breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQB...GF, TQC...GF, TQL...GF; suitable for single-pole GF breakers only; for breakers used in group-mounted panelboard construction only",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00614",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQPL",
+  "title": "GE non-padlocking handle lock for THQP and Q-Line GF breakers",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002",
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQPL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock - non padlocking.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THQP; TQB...GF; TQC...GF; TQL...GF",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Row layout on p.6-30 places TQPL and THL103 on adjacent lines; Rev. 9/12 p.3-29 confirms TQPL ($5.50) is the GF / THQP non-padlocking lock - verify against an IL."
+  ],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00615",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQDPLD1",
+  "title": "GE padlocking device for TQD/THQD Q-Line 225 A breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQDPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock - padlocking, TQD.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQD (Q-Line 225 A); for breakers used in group-mounted panelboard construction only",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00616",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQPDLD2",
+  "title": "GE padlocking device for TQD, EUSERC approved (factory installed only)",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQPDLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock - padlocking, TQD; EUSERC approved - factory installed only.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQD",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "status": [
+    {
+     "value": "EUSERC approved - factory installed only (not a field kit)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties, footnote 1",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [
+   "Panelboard section p.11-30 lists TQDPLD2 (not TQPDLD2) as the EUSERC factory-installed TQD lock; which spelling is correct?"
+  ],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00617",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQDLPDL1",
+  "title": "GE padlocking device for TQDL breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQDLPDL1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock - padlocking, TQDL (listed Rev. 9/12, list price $17.75); not listed in Rev. 1/19 table.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQDL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "status": [
+    {
+     "value": "Listed in 2012 BuyLog; absent from 2019 BuyLog table (status unknown)",
+     "conf": "C",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 3-29 (Rev. 9/12)",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00618",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQPPL",
+  "title": "GE padlocking device for THQP breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQPPL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock - padlocking, THQP.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THQP (Q-Line half-size)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00619",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQHT1",
+  "title": "GE snap-on handle tie, trip indicating, Q-Line",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002",
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQHT1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Snap-on handle tie - trip indicating; for two single-pole breakers. Handle ties provide manual on-off capability only between one-pole devices (multi-pole breakers have internal common trip).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQB, TQC, TQL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Ties two single-pole breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties, footnote 6",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00620",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "THT104",
+  "title": "GE snap-on handle tie, solid, Q-Line",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002",
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "THT104",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Snap-on handle tie - solid; for two single-pole breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQB, TQC, TQL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Ties two single-pole breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties, footnote 6",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00621",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQ3HTK",
+  "title": "GE multiwire branch handle tie kit, three single-pole Q-Line breakers",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002",
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQ3HTK",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Multiwire branch breaker handle tie kit for three single-pole breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQB, TQC, TQL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "For three single-pole breakers - kit includes (10) pcs.",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 3-29 (Rev. 9/12), footnote 8",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00622",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQ4HTK",
+  "title": "GE multiwire branch handle tie kit, four single-pole Q-Line breakers",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-001",
+   "BRK-GEA-002",
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQ4HTK",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Multiwire branch breaker handle tie kit for four single-pole breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQB, TQC, TQL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Clamps on the breaker handle at the panelboard deadfront",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30 (Rev. 1/19), Q-Line Accessories: Handle Locking Devices & Handle Ties",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "For four single-pole breakers - kit includes (10) pcs.",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 3-29 (Rev. 9/12), footnote 9",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00623",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TQBS1",
+  "title": "GE breaker mounting screw for THQB bolt-on Q-Line breakers",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TQBS1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30, Breaker Mounting Screw Kit",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Breaker mounting screw kit for THQB. Price is per screw; packaged in quantities of 24; must be ordered in multiples of 24.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30, Breaker Mounting Screw Kit",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THQB",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30, Breaker Mounting Screw Kit",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30, Breaker Mounting Screw Kit",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Sold per screw, packaged in 24s",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30, footnote 3",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Secures bolt-on THQB breaker to the A-Series (AQ) interior",
+     "conf": "C",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-30",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00624",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEYXHT2",
+  "title": "GE TEYD/H/L 2-pole handle tie",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEYXHT2",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "TEYD/H/L 2-pole handle tie",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TEYD, TEYH, TEYL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table is headed \"Internal Accessories - Factory Installed Only\"; confirm the handle ties are field installable."
+  ],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00625",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEYXHT2K",
+  "title": "GE TEYD/H/L 2-pole handle tie, 10-pack",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEYXHT2K",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "TEYD/H/L 2-pole handle tie, 10-pack",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TEYD, TEYH, TEYL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table is headed \"Internal Accessories - Factory Installed Only\"; confirm the handle ties are field installable."
+  ],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00626",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEYXHT3",
+  "title": "GE TEYD/H/L 3-pole handle tie",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEYXHT3",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "TEYD/H/L 3-pole handle tie",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TEYD, TEYH, TEYL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table is headed \"Internal Accessories - Factory Installed Only\"; confirm the handle ties are field installable."
+  ],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00627",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEYXHT3K",
+  "title": "GE TEYD/H/L 3-pole handle tie, 10-pack",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEYXHT3K",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "TEYD/H/L 3-pole handle tie, 10-pack",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TEYD, TEYH, TEYL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table is headed \"Internal Accessories - Factory Installed Only\"; confirm the handle ties are field installable."
+  ],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00628",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEYXPLD1",
+  "title": "GE padlock device for TEYD/TEYH/TEYL",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEYXPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "TEYD/TEYH/TEYL padlock device.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TEYD, TEYH, TEYL",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-33, TEYD/TEYH/TEYL accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Relationship to TEYPLD1 (listed as TEY standard padlocking device p.6-100) unclear - successor or variant for D/H/L types?"
+  ],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00629",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEYPLD1",
+  "title": "GE standard padlocking device for TEY",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEYPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device. Suitable for breakers used in group-mounted panelboard construction only, except J600, K1200, SE150/SF250, SG600 and SK1200 which screw down to the face of the breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TEY",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00630",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEFPLD1",
+  "title": "GE standard padlocking device for E150 line, TB1",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEFPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device. Suitable for breakers used in group-mounted panelboard construction only, except J600, K1200, SE150/SF250, SG600 and SK1200 which screw down to the face of the breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "E150 line, TB1 (panelboard section: TED, TEL; TEB, TED, THED)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00631",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TFKPLD1",
+  "title": "GE standard padlocking device for F225 line",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TFKPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device. Suitable for breakers used in group-mounted panelboard construction only, except J600, K1200, SE150/SF250, SG600 and SK1200 which screw down to the face of the breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "F225 line (TFJ, TFL per panelboard section)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00632",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TJKPLD1",
+  "title": "GE standard padlocking device for J600 line",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TJKPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device. Suitable for breakers used in group-mounted panelboard construction only, except J600, K1200, SE150/SF250, SG600 and SK1200 which screw down to the face of the breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "J600 line",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00633",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TKMPLD1",
+  "title": "GE standard padlocking device for K1200 line",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-020"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TKMPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device. Suitable for breakers used in group-mounted panelboard construction only, except J600, K1200, SE150/SF250, SG600 and SK1200 which screw down to the face of the breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "K1200 line",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00634",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "SEPLD",
+  "title": "GE standard padlocking device for SE150, SF250",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-021",
+   "BRK-GEA-022"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SEPLD",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device. Suitable for breakers used in group-mounted panelboard construction only, except J600, K1200, SE150/SF250, SG600 and SK1200 which screw down to the face of the breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SE150, SF250 (padlockable ON or OFF)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00635",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "SGPLD",
+  "title": "GE standard padlocking device for SG600",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-023"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SGPLD",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device. Suitable for breakers used in group-mounted panelboard construction only, except J600, K1200, SE150/SF250, SG600 and SK1200 which screw down to the face of the breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SG600 (padlockable ON or OFF)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00636",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "SKPLD",
+  "title": "GE standard padlocking device for SK1200",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-024"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SKPLD",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device. Suitable for breakers used in group-mounted panelboard construction only, except J600, K1200, SE150/SF250, SG600 and SK1200 which screw down to the face of the breaker.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SK1200 (padlockable ON or OFF)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00637",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TLC1PLD1",
+  "title": "GE standard padlocking device for THLC1",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TLC1PLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12, External Accessories - Standard Padlocking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device for current-limiting THLC breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12, External Accessories - Standard Padlocking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THLC1",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12, External Accessories - Standard Padlocking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12, External Accessories - Standard Padlocking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "status": [
+    {
+     "value": "Listed Rev. 9/12; not listed in Rev. 1/19 table",
+     "conf": "C",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00638",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TLC4PLD1",
+  "title": "GE standard padlocking device for THLC2, THLC4, TLB4",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-018",
+   "BRK-GEA-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TLC4PLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12, External Accessories - Standard Padlocking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Standard padlocking device for current-limiting THLC breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12, External Accessories - Standard Padlocking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THLC2, THLC4, TLB4",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12, External Accessories - Standard Padlocking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12, External Accessories - Standard Padlocking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "status": [
+    {
+     "value": "Listed Rev. 9/12; not listed in Rev. 1/19 table",
+     "conf": "C",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "Section 3 Rev. 9/12",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00639",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEDPLD2",
+  "title": "GE EUSERC-approved padlocking device for E150",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEDPLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EUSERC-approved padlocking device (\"EUSERC Approved - Factory Installed Only\"; SE150/SF250 SEFPLD2 footnoted as field installable).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "E150",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00640",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "SEFPLD2",
+  "title": "GE EUSERC-approved padlocking device for SE150, SF250",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-021",
+   "BRK-GEA-022"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SEFPLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EUSERC-approved padlocking device (\"EUSERC Approved - Factory Installed Only\"; SE150/SF250 SEFPLD2 footnoted as field installable).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SE150, SF250 (field installable per footnote)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00641",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "SGPLD2",
+  "title": "GE EUSERC-approved padlocking device for SG600",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-023"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SGPLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EUSERC-approved padlocking device (\"EUSERC Approved - Factory Installed Only\"; SE150/SF250 SEFPLD2 footnoted as field installable).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SG600",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00642",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TJKPLD2",
+  "title": "GE EUSERC-approved padlocking device for J600",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TJKPLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EUSERC-approved padlocking device (\"EUSERC Approved - Factory Installed Only\"; SE150/SF250 SEFPLD2 footnoted as field installable).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "J600",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00643",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "SKPLD2",
+  "title": "GE EUSERC-approved padlocking device for SK1200",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-024"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SKPLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EUSERC-approved padlocking device (\"EUSERC Approved - Factory Installed Only\"; SE150/SF250 SEFPLD2 footnoted as field installable).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SK1200",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00644",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TLC1PLD2",
+  "title": "GE EUSERC-approved padlocking device for THLC1",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TLC1PLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EUSERC-approved padlocking device (\"EUSERC Approved - Factory Installed Only\"; SE150/SF250 SEFPLD2 footnoted as field installable).",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THLC1",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00645",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TLC4PLD2",
+  "title": "GE EUSERC-approved padlocking device for THLC2/4",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-018",
+   "BRK-GEA-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TLC4PLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EUSERC-approved padlocking device (\"EUSERC Approved - Factory Installed Only\"; SE150/SF250 SEFPLD2 footnoted as field installable).",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THLC2/4",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00132"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00646",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TEYLD1",
+  "title": "GE handle locking device (non-padlocking) for TEY",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TEYLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle locking device (non-padlocking).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TEY",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00647",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TLD3",
+  "title": "GE handle locking device (non-padlocking) for E150 line",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TLD3",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle locking device (non-padlocking).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "E150 line (TEB, TED, THED)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00648",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "TFKLD1",
+  "title": "GE handle locking device (non-padlocking) for F225 line",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TFKLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle locking device (non-padlocking).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "F225 line, THLC2, THLC4 (TFJ, TFL, TLB4 per panelboard section)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00649",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "SBD1",
+  "title": "GE handle locking device (non-padlocking) for SE150",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-021",
+   "BRK-GEA-022"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SBD1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle locking device (non-padlocking).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SE150, SF250",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075",
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00650",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "SKHDLEXT",
+  "title": "GE replacement handle extension for SK1200",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-024"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SKHDLEXT",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle extension - replacement, SK1200.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SK1200",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-100, External Accessories: Standard Padlocking Devices / Handle-Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00132",
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00651",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FB1PF",
+  "title": "GE padlock, fixed toggle, Record Plus FB 100",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FB1PF",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-73",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlock fixed toggle.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-73",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FB 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-73",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-73",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00652",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FB1PE",
+  "title": "GE padlock, EUSERC toggle, Record Plus FB 100",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FB1PE",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-73",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlock EUSERC toggle.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-73",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FB 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-73",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-73",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00653",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FC1PF",
+  "title": "GE padlock, fixed toggle, Record Plus FC 100",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FC1PF",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-77",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlock fixed toggle.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-77",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-77",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-77",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00654",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FC1PE",
+  "title": "GE padlock, EUSERC toggle, Record Plus FC 100",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FC1PE",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-77",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlock EUSERC toggle.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-77",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-77",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-77",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00655",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FE1PE",
+  "title": "GE EUSERC compliant padlock, Record Plus FE 250",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-027"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FE1PE",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-82",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EUSERC compliant padlock.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-82",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FE 250",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-82",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-82",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00656",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FEMSK1",
+  "title": "GE mounting screw kit (#10) for tapped holes, Record Plus FE 250",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-027"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FEMSK1",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-82",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Mounting screw kit (#10) for tapped holes.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-82",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FE 250",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-82",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-82",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00657",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FG1PE",
+  "title": "GE padlocking EUSERC toggle, Record Plus FG 600",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-028"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FG1PE",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-88",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking EUSERC toggle.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-88",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FG 600",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-88",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "p. 6-88",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00658",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FCPLD",
+  "title": "GE padlocking device (single padlock), FC frame",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FCPLD",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-30, Spectra Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (single padlock) for FCS, FCV, FCN, FCH, FCL, FCPF.",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-30, Spectra Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FCS, FCV, FCN, FCH, FCL, FCPF",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-30, Spectra Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-30, Spectra Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Relation to FC1PF / FC1PE in Section 6?"
+  ],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00659",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FGPLD",
+  "title": "GE padlocking device (single padlock), FG frame",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-004"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-028"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FGPLD",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-30, Spectra Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (single padlock) for FGV, FGN, FGH, FGL, FGP, FGPF.",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-30, Spectra Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FGV, FGN, FGH, FGL, FGP, FGPF",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-30, Spectra Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-30, Spectra Locking Devices",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00660",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FASHTBW",
+  "title": "GE Record Plus FB/FC shunt trip, 12 VDC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FASHTBW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip release, 12 VDC; UL listed for field installation; prewired with 36 in #18 AWG leads (black). One per 2- or 3-pole breaker (none in 1-pole FB).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "12 VDC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324 (wire lead colors)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00661",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FASHTDW",
+  "title": "GE Record Plus FB/FC shunt trip, 24 VAC/DC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FASHTDW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip release, 24 VAC/DC; UL listed for field installation; prewired with 36 in #18 AWG leads (black). One per 2- or 3-pole breaker (none in 1-pole FB).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "24 VAC/DC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324 (wire lead colors)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00662",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAUVRDW",
+  "title": "GE Record Plus FB/FC undervoltage release, 24 VAC/DC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAUVRDW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release, 24 VAC/DC; UL listed for field installation; prewired 36 in leads (blue). Shares mounting pocket with shunt trip.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "24 VAC/DC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00663",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FASHTFW",
+  "title": "GE Record Plus FB/FC shunt trip, 48 VAC/DC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FASHTFW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip release, 48 VAC/DC; UL listed for field installation; prewired with 36 in #18 AWG leads (black). One per 2- or 3-pole breaker (none in 1-pole FB).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "48 VAC/DC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324 (wire lead colors)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00664",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAUVRFW",
+  "title": "GE Record Plus FB/FC undervoltage release, 48 VAC/DC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAUVRFW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release, 48 VAC/DC; UL listed for field installation; prewired 36 in leads (blue). Shares mounting pocket with shunt trip.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "48 VAC/DC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00665",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FASHTJW",
+  "title": "GE Record Plus FB/FC shunt trip, 110-130 VAC/110-125 VDC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FASHTJW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip release, 110-130 VAC/110-125 VDC; UL listed for field installation; prewired with 36 in #18 AWG leads (black). One per 2- or 3-pole breaker (none in 1-pole FB).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "110-130 VAC/110-125 VDC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324 (wire lead colors)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00666",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAUVRJW",
+  "title": "GE Record Plus FB/FC undervoltage release, 110-130 VAC/110-125 VDC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAUVRJW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release, 110-130 VAC/110-125 VDC; UL listed for field installation; prewired 36 in leads (blue). Shares mounting pocket with shunt trip.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "110-130 VAC/110-125 VDC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00667",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FASHTKW",
+  "title": "GE Record Plus FB/FC shunt trip, 120 VAC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FASHTKW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip release, 120 VAC; UL listed for field installation; prewired with 36 in #18 AWG leads (black). One per 2- or 3-pole breaker (none in 1-pole FB).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "120 VAC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324 (wire lead colors)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00668",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FASHTNW",
+  "title": "GE Record Plus FB/FC shunt trip, 220/240 VAC, 250 VDC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FASHTNW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip release, 220/240 VAC, 250 VDC; UL listed for field installation; prewired with 36 in #18 AWG leads (black). One per 2- or 3-pole breaker (none in 1-pole FB).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "220/240 VAC, 250 VDC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324 (wire lead colors)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00669",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAUVRNW",
+  "title": "GE Record Plus FB/FC undervoltage release, 220/240 VAC, 250 VDC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAUVRNW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release, 220/240 VAC, 250 VDC; UL listed for field installation; prewired 36 in leads (blue). Shares mounting pocket with shunt trip.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "220/240 VAC, 250 VDC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00670",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FASHT7W",
+  "title": "GE Record Plus FB/FC shunt trip, 277 VAC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FASHT7W",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip release, 277 VAC; UL listed for field installation; prewired with 36 in #18 AWG leads (black). One per 2- or 3-pole breaker (none in 1-pole FB).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "277 VAC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324 (wire lead colors)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00671",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAUVR7W",
+  "title": "GE Record Plus FB/FC undervoltage release, 277 VAC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAUVR7W",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release, 277 VAC; UL listed for field installation; prewired 36 in leads (blue). Shares mounting pocket with shunt trip.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "277 VAC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00672",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FASHTUW",
+  "title": "GE Record Plus FB/FC shunt trip, 400/480 VAC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FASHTUW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip release, 400/480 VAC; UL listed for field installation; prewired with 36 in #18 AWG leads (black). One per 2- or 3-pole breaker (none in 1-pole FB).",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "400/480 VAC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324 (wire lead colors)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00673",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAUVRUW",
+  "title": "GE Record Plus FB/FC undervoltage release, 400/480 VAC",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAUVRUW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release, 400/480 VAC; UL listed for field installation; prewired 36 in leads (blue). Shares mounting pocket with shunt trip.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100, FC 100",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "400/480 VAC",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00674",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAS10LW",
+  "title": "GE Record Plus FB/FC auxiliary switch 1 no, left mount",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAS10LW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Auxiliary switch 1 NO, left mount; rated 5 A @ 277 VAC, 0.3 A @ 125 VDC (FB table; FC table states 5 A @ 240 VAC, 0.5 A @ 125 VDC); #16 AWG leads, 36 in, UL listed for field installation. FB 100: 3-pole only.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100 (3-pole), FC 100 (2/3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00675",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAS10RW",
+  "title": "GE Record Plus FB/FC auxiliary switch 1 no, right mount",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAS10RW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Auxiliary switch 1 NO, right mount; rated 5 A @ 277 VAC, 0.3 A @ 125 VDC (FB table; FC table states 5 A @ 240 VAC, 0.5 A @ 125 VDC); #16 AWG leads, 36 in, UL listed for field installation. FB 100: 3-pole only.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100 (3-pole), FC 100 (2/3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00676",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAS01LW",
+  "title": "GE Record Plus FB/FC auxiliary switch 1 nc, left mount",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAS01LW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Auxiliary switch 1 NC, left mount; rated 5 A @ 277 VAC, 0.3 A @ 125 VDC (FB table; FC table states 5 A @ 240 VAC, 0.5 A @ 125 VDC); #16 AWG leads, 36 in, UL listed for field installation. FB 100: 3-pole only.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100 (3-pole), FC 100 (2/3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00677",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FAS01RW",
+  "title": "GE Record Plus FB/FC auxiliary switch 1 nc, right mount",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FAS01RW",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Auxiliary switch 1 NC, right mount; rated 5 A @ 277 VAC, 0.3 A @ 125 VDC (FB table; FC table states 5 A @ 240 VAC, 0.5 A @ 125 VDC); #16 AWG leads, 36 in, UL listed for field installation. FB 100: 3-pole only.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100 (3-pole), FC 100 (2/3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00678",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FABAM10W",
+  "title": "GE Record Plus FB/FC bell alarm 1 no",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FABAM10W",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bell alarm 1 NO; rated 5 A @ 277 VAC, 0.3 A @ 125 VDC (FB table; FC table states 5 A @ 240 VAC, 0.5 A @ 125 VDC); #16 AWG leads, 36 in, UL listed for field installation. FB 100: 3-pole only.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100 (3-pole), FC 100 (2/3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00679",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "FABAM01W",
+  "title": "GE Record Plus FB/FC bell alarm 1 nc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-001"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-025",
+   "BRK-GEA-026"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FABAM01W",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Bell alarm 1 NC; rated 5 A @ 277 VAC, 0.3 A @ 125 VDC (FB table; FC table states 5 A @ 240 VAC, 0.5 A @ 125 VDC); #16 AWG leads, 36 in, UL listed for field installation. FB 100: 3-pole only.",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Record Plus FB 100 (3-pole), FC 100 (2/3-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "DEH-40324",
+     "conf": "A",
+     "src": [
+      "SRC-00130"
+     ],
+     "page": "pp. 6-72..6-73 (FB 100) and 6-77 (FC 100), Internal Accessories (UL Listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00130"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00680",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "139C5612P3",
+  "title": "GE A-Series directory card",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "139C5612P3",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Directory card (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00681",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "569B737P1",
+  "title": "GE A-Series replacement lock with standard key",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "569B737P1",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Replacement lock with standard key (black, with GE monogram) (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00682",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "569B737P2",
+  "title": "GE A-Series replacement lock with GE75 key",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "569B737P2",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Replacement lock with GE75 key (red, no GE monogram) (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00683",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "569B737P5",
+  "title": "GE additional keys for 569B737 lock",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "569B737P5",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Additional keys for above lock (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00684",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "569B806G1",
+  "title": "GE circuit numbering strip 1-48",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "569B806G1",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Circuit numbering strips 1-48 (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00685",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "569B806G2",
+  "title": "GE circuit numbering strip 49-84 (43-84)",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "569B806G2",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Circuit numbering strips 49-84 (p.11-10 column page lists 43-84) (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00686",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "569B806G3",
+  "title": "GE circuit numbering strip 85-126",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "569B806G3",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Circuit numbering strips 85-126 (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00687",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "139C5491G1",
+  "title": "GE metal directory card holder",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "139C5491G1",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Metal directory card holder (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00688",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "139C5491P4",
+  "title": "GE directory card holder",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "139C5491P4",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Directory card holder (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00689",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "NEMATRX",
+  "title": "GE NEMA 3R/12 tamper-proof Torx screw kit",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "NEMATRX",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "NEMA 3R/12 tamper proof Tork screw kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00690",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "ASPYALE47",
+  "title": "GE A-Series Yale lock kit",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ASPYALE47",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Yale lock kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00691",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "ASPCORBNTEU1",
+  "title": "GE A-Series Corbin lock kit",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ASPCORBNTEU1",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Corbin lock kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00692",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "139C5700G6",
+  "title": "GE front hinge-to-box mounting kit",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "139C5700G6",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Front hinge to box mounting kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00693",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "139C5700G11",
+  "title": "GE front extension mounting kit",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "139C5700G11",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Front extension mounting kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00694",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "ASPFLUSHADJ",
+  "title": "GE front flush adjust kit",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-GEA-001",
+   "FAM-GEA-002"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ASPFLUSHADJ",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Front flush adjust kit (A-Series field-installed kit / replacement part, order from factory).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-20, A-Series Accessories - Field Installed Kits/Replacement Parts (Panelboards Parts)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00695",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "139C5612P2",
+  "title": "GE A-Series column panelboard directory card",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "139C5612P2",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-10, A-Series Column - Field Installed Kits/Replacement Parts",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Directory card (column panelboard parts list).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-10, A-Series Column - Field Installed Kits/Replacement Parts",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00696",
+  "mfr": "GEA",
+  "brand_marking": "GE",
+  "oem_part_number": "ACHK",
+  "title": "GE safety catch for trough covers",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-GEA-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ACHK",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-10, A-Series Column - Field Installed Kits/Replacement Parts",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Safety catch for trough covers (standard on pull box).",
+     "conf": "A",
+     "src": [
+      "SRC-00075"
+     ],
+     "page": "p. 11-10, A-Series Column - Field Installed Kits/Replacement Parts",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00075"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

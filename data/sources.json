@@ -71,7 +71,8 @@
   "id": "SRC-00004",
   "mfr": "EAT",
   "batches": [
-   "B0001-eaton-prl-panelboards"
+   "B0001-eaton-prl-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "c0142c64096b4011b7d57708cc07897e2196156469574638365fdb2ed17f7672",
   "bytes": 656173
@@ -109,7 +110,8 @@
   "id": "SRC-00006",
   "mfr": "EAT",
   "batches": [
-   "B0001-eaton-prl-panelboards"
+   "B0001-eaton-prl-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "8ab080309c014a4b8496c9d83d9612a235d5df0fc8e59e887090dcbfcaf09ba0",
   "bytes": 4950927
@@ -1189,7 +1191,8 @@
   "id": "SRC-00075",
   "mfr": "GEA",
   "batches": [
-   "B0005-ge-abb"
+   "B0005-ge-abb",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "7108f24981e13c76d0324ca990244cfbab4d2fb588915424297e90acd6b550d7",
   "bytes": 2981905
@@ -1562,7 +1565,8 @@
   "id": "SRC-00097",
   "mfr": "SIE",
   "batches": [
-   "B0006-siemens-ite"
+   "B0006-siemens-ite",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "bbaafb6a24764dc148bf8420f07cb32db6b60d241ae29233707f75954f363679",
   "bytes": 6252869
@@ -1889,7 +1893,8 @@
   "id": "SRC-00115",
   "mfr": "SQD",
   "batches": [
-   "B0007-breaker-terminal-kits-eaton-squared"
+   "B0007-breaker-terminal-kits-eaton-squared",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "d0bc64005cee7b513d3e11a83a6dc1d14ed7f268a7491f55f0ca30620c31f08f",
   "bytes": 2236757
@@ -1908,7 +1913,8 @@
   "id": "SRC-00116",
   "mfr": "EAT",
   "batches": [
-   "B0007-breaker-terminal-kits-eaton-squared"
+   "B0007-breaker-terminal-kits-eaton-squared",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "d376dd6785e3c6ad6708a2b8b319f2ea19f76ace7d9fe1c1174973740729e65e",
   "bytes": 5075522
@@ -2152,7 +2158,8 @@
   "id": "SRC-00130",
   "mfr": "GEA",
   "batches": [
-   "B0008-breaker-terminal-kits-ge-siemens"
+   "B0008-breaker-terminal-kits-ge-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "ef6ebb0807dd06684af7a794aa89fdc042a788f1186884af48e0ddd8aabc78b7",
   "bytes": 2306782
@@ -2190,7 +2197,8 @@
   "id": "SRC-00132",
   "mfr": "GEA",
   "batches": [
-   "B0008-breaker-terminal-kits-ge-siemens"
+   "B0008-breaker-terminal-kits-ge-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "8250df997ca9b0e2c9feff2bd98e868ce2f5827f2aceecada1b9e775ff571c50",
   "bytes": 1864492
@@ -2247,7 +2255,8 @@
   "id": "SRC-00135",
   "mfr": "SIE",
   "batches": [
-   "B0008-breaker-terminal-kits-ge-siemens"
+   "B0008-breaker-terminal-kits-ge-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "sha256": "62c85a6c4c23447c1ec618ad501e87bb42359271299749707bf63a17ed06e3f6",
   "bytes": 10502629
@@ -11288,5 +11297,176 @@
   ],
   "sha256": "b2bf085b33bffeebae90cc4d72c5b3f6337163634a7262d0b35f9980a2238f5c",
   "bytes": 633015
+ },
+ {
+  "title": "Square D Digest, Section 1: Load Centers / QO Miniature Circuit Breakers (QO Accessories, Table 1.16)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "Digest Section 1 (dated 1/11/2024), Class 1130, ref. catalog 1100CT0501",
+  "date": "2024-01-11",
+  "url": "https://assets.gordonelectricsupply.com/datasheets/ts/SchneiderElectric-SquareD_80051_1_22_CAT.pdf",
+  "type": "oem_catalog",
+  "local_file": "docs/library/SQD/SchneiderElectric-SquareD_80051_1_22_CAT.pdf",
+  "notes": "Distributor-hosted copy (Gordon Electric Supply). QO accessories p.1-8.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00634",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "sha256": "60bbeb7941ece1c1f3683eb5c7d67d117abd39e5cf388ce1437f19d44d255f9c",
+  "bytes": 3718241
+ },
+ {
+  "title": "Square D Digest 2012, Section 1: Load Centers (with list prices)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "Digest Section 1 (2012)",
+  "date": "2012",
+  "url": "https://assets.usesi.com/product-media/catalogs/USESI_153895_catalog.pdf",
+  "type": "oem_catalog",
+  "notes": "Distributor-hosted (USESI). QO accessories table p.1-4 area with list prices; QO load center accessories Table 1.32 p.1-11 (retaining kits). Not saved locally (scratch only).",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00635",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ]
+ },
+ {
+  "title": "QO1PA Series 1, QOU1PA and HOM1PA Series 1 Handle Padlock Attachment",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "Instruction Bulletin 48840-159-01 Rev. 01",
+  "date": "2010-04",
+  "url": "https://media.distributordatasolutions.com/schneider_synd_rework/2024q1/documents/7d8535023054ee99707abffcb67347f3afd86f67.pdf",
+  "type": "oem_instruction",
+  "local_file": "docs/library/SQD/SQD_48840-159-01_QO1PA.pdf",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00636",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "sha256": "7f68aa99e1e5a11924f8bbe30b7972a09f38f391f9ac0db1397b49cb97bcade0",
+  "bytes": 87425
+ },
+ {
+  "title": "Fixed Padlock Attachment Kits S29371 and S37422 for PowerPact H- and J-Frame Circuit Breakers",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "Instruction Bulletin 48940-241-01 Rev. 01",
+  "date": "2010-03",
+  "url": "https://www.farnell.com/datasheets/1996007.pdf",
+  "type": "oem_instruction",
+  "local_file": "docs/library/SQD/SQD_48940-241-01_S29371_S37422.pdf",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00637",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "sha256": "26d62b0dce491fdd1aea0cb5946d4f899dd4cd28d471e6cd92737c441d104c42",
+  "bytes": 456111
+ },
+ {
+  "title": "480Y/277 Vac EDB, EGB and EJB Lighting Panelboard Circuit Breakers (Class 0515 data bulletin)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "Class 0515 bulletin",
+  "url": "https://assets.usesi.com/product-media/brochures/USESI_325159_brochure.pdf",
+  "type": "oem_bulletin",
+  "notes": "Handle Accessories table p.3 (HPAFD). Steven Engineering courtesy copy hosted by USESI.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00638",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ]
+ },
+ {
+  "title": "NQ Circuit Breaker Panelboards, Class 1640",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "Catalog 1640CT0801 R10/19",
+  "date": "2019-10",
+  "url": "https://www.wilsherco.com/wp-content/uploads/2020/03/1640CT0801.pdf",
+  "type": "oem_catalog",
+  "local_file": "docs/library/SQD/1640CT0801__c5ce6da8.pdf",
+  "notes": "Indoor Enclosure Accessories p.23 (PK4FL, PK5FL, LP9618); QO binding/connector screw torque Table 13/14 p.16",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00639",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "sha256": "c5ce6da85a2be89ab121b608627ed7304874c2f8ff5717415b7d5a97f83af273",
+  "bytes": 590700
+ },
+ {
+  "title": "NQOD Circuit Breaker Panelboards, Class 1630 (Application Data)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "Class 1630 catalog, 01/2005",
+  "date": "2005-01",
+  "url": "https://cdn.stevenengineering.com/wordpressprd/wp-content/uploads/2019/02/45PB-NQOD.pdf",
+  "type": "oem_catalog",
+  "local_file": "docs/library/SQD/45PB-NQOD.pdf",
+  "notes": "pp.4-5 enclosure accessories: PK4FL, PK5FL, LP9618, PK4NVL, LP9502 trim screws",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00640",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "sha256": "222a13a0bfaf99d77c52f79aaf0836078e801e3a0c6495a16aabe8997b24a113",
+  "bytes": 3045946
+ },
+ {
+  "title": "Schneider Electric product page / FAQ search snippets for S29370 and S29371 (se.com, blocked from container; seen via web search results)",
+  "publisher": "Schneider Electric",
+  "url": "https://www.se.com/us/en/product/S29371/circuit-breaker-accessory-powerpact-h-j-padlock-handle-fixed-lock-off-or-on/",
+  "type": "oem_web",
+  "access_status": "blocked",
+  "notes": "Content known only from search-engine snippets: S29371 discontinued, replaced by HJPA; S29370 removable lock-OFF-only for PowerPacT B/H/J/L.",
+  "accessed": "2026-10-21",
+  "id": "SRC-00641",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ]
+ },
+ {
+  "title": "Distributor listings for Square D EDPA / EDPAF padlock attachments (standardelectricsupply.com, penntoolco.com)",
+  "publisher": "various distributors",
+  "url": "https://www.standardelectricsupply.com/Catalog/All-Products/Distribution-Equipment/Circuit-Breakers?page=247",
+  "type": "distributor",
+  "notes": "Search-result snippets only.",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00642",
+  "mfr": "SQD",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ]
+ },
+ {
+  "title": "Volume 4 - Circuit Protection, Tab 1.1 Miniature Circuit Breakers and Supplementary Protectors (QUICKLAG accessories)",
+  "publisher": "Eaton",
+  "doc_number": "CA08100005E (September 2017)",
+  "date": "2017-09",
+  "url": "https://www.tobins.com.au/SupplierBrochures/eaton/Quicklag-Miniature-Circuit-Breakers.pdf",
+  "type": "oem_catalog",
+  "local_file": "docs/library/EAT/Quicklag-Miniature-Circuit-Breakers_CA08100005E_2017.pdf",
+  "notes": "Distributor-hosted (Tobins). Accessories pp. V4-T1-43..V4-T1-46. Same tables in Oct 2015 edition (Farnell copy https://www.farnell.com/datasheets/1995979.pdf, saved as CA08100005E_2015_V4T1_farnell.pdf).",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "id": "SRC-00643",
+  "mfr": "EAT",
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "sha256": "d4ad23bde568075872193cfb59b3e34bd4810b3e7178f8a84ac4b63bb755ffc8",
+  "bytes": 2090547
  }
 ]

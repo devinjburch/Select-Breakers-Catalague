@@ -15273,7 +15273,8 @@
   ],
   "batches": [
    "B0006-siemens-ite",
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64628,7 +64629,8 @@
   "title": "Revised P1 circuit numbering strip kit 1-60",
   "component_type": "other",
   "family_ids": [
-   "FAM-SIE-001"
+   "FAM-SIE-001",
+   "FAM-SIE-002"
   ],
   "breaker_ids": [],
   "claims": {
@@ -64637,7 +64639,8 @@
      "value": "NBK01A",
      "conf": "A",
      "src": [
-      "SRC-00421"
+      "SRC-00421",
+      "SRC-00097"
      ],
      "page": "single sheet",
      "basis": "oem_spec",
@@ -64654,6 +64657,16 @@
      "page": "single sheet",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Number strips 1-60, stick-on, P1 series (incl. 1/2 in spacing numbers for BT twins); replaces NBK03.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels; p. 11-35 Circuit Numbering",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "install_doc": [
@@ -64670,13 +64683,19 @@
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00421"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64689,7 +64708,8 @@
   "title": "Revised P1 circuit numbering strip kit 61-120",
   "component_type": "other",
   "family_ids": [
-   "FAM-SIE-001"
+   "FAM-SIE-001",
+   "FAM-SIE-002"
   ],
   "breaker_ids": [],
   "claims": {
@@ -64698,7 +64718,8 @@
      "value": "NBK02A",
      "conf": "A",
      "src": [
-      "SRC-00421"
+      "SRC-00421",
+      "SRC-00097"
      ],
      "page": "single sheet",
      "basis": "oem_spec",
@@ -64715,6 +64736,16 @@
      "page": "single sheet",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Number strips 61-120, stick-on, P1 series; replaces NBK04-05.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels; p. 11-35 Circuit Numbering",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "install_doc": [
@@ -64731,13 +64762,19 @@
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00421"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64750,7 +64787,8 @@
   "title": "Revised P1 circuit numbering strip kit 121-240",
   "component_type": "other",
   "family_ids": [
-   "FAM-SIE-001"
+   "FAM-SIE-001",
+   "FAM-SIE-002"
   ],
   "breaker_ids": [],
   "claims": {
@@ -64759,7 +64797,8 @@
      "value": "NBK03A",
      "conf": "A",
      "src": [
-      "SRC-00421"
+      "SRC-00421",
+      "SRC-00097"
      ],
      "page": "single sheet",
      "basis": "oem_spec",
@@ -64776,6 +64815,16 @@
      "page": "single sheet",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Number strips 121-240, stick-on, P1 series; replaces NBK06-08.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels; p. 11-35 Circuit Numbering",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "install_doc": [
@@ -64792,13 +64841,19 @@
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00421"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65644,7 +65699,8 @@
      "value": "NBK3",
      "conf": "A",
      "src": [
-      "SRC-00319"
+      "SRC-00319",
+      "SRC-00097"
      ],
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
@@ -65661,17 +65717,33 @@
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Circuit numbering, push-in type, numbers 1-42, for P2/P3 panelboards.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "p. 11-35, Circuit Numbering (P2 / P3 Push-in)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00319"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65694,7 +65766,8 @@
      "value": "NBK4",
      "conf": "A",
      "src": [
-      "SRC-00319"
+      "SRC-00319",
+      "SRC-00097"
      ],
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
@@ -65711,17 +65784,33 @@
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Circuit numbering, push-in type, numbers 43-84, for P2/P3 panelboards.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "p. 11-35, Circuit Numbering (P2 / P3 Push-in)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00319"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65744,7 +65833,8 @@
      "value": "NBK5",
      "conf": "A",
      "src": [
-      "SRC-00319"
+      "SRC-00319",
+      "SRC-00097"
      ],
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
@@ -65761,17 +65851,33 @@
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Circuit numbering, push-in type, numbers 85-126, for P2/P3 panelboards.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "p. 11-35, Circuit Numbering (P2 / P3 Push-in)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00319"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65794,7 +65900,8 @@
      "value": "NBK6",
      "conf": "A",
      "src": [
-      "SRC-00319"
+      "SRC-00319",
+      "SRC-00097"
      ],
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
@@ -65811,17 +65918,33 @@
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Circuit numbering, push-in type, numbers 127-168, for P2/P3 panelboards.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "p. 11-35, Circuit Numbering (P2 / P3 Push-in)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00319"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65844,7 +65967,8 @@
      "value": "NBK7",
      "conf": "A",
      "src": [
-      "SRC-00319"
+      "SRC-00319",
+      "SRC-00097"
      ],
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
@@ -65861,17 +65985,33 @@
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Circuit numbering, push-in type, numbers 169-210, for P2/P3 panelboards.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "p. 11-35, Circuit Numbering (P2 / P3 Push-in)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00319"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -65894,7 +66034,8 @@
      "value": "NBK8",
      "conf": "A",
      "src": [
-      "SRC-00319"
+      "SRC-00319",
+      "SRC-00097"
      ],
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
@@ -65911,17 +66052,33 @@
      "page": "p. 11-48 (revised 05/15/18)",
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
+    },
+    {
+     "value": "Circuit numbering, push-in type, numbers 211-252, for P2/P3 panelboards.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "p. 11-35, Circuit Numbering (P2 / P3 Push-in)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00319"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -66266,6 +66423,8 @@
   "component_type": "fastener",
   "family_ids": [
    "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-003",
    "FAM-SIE-005",
    "FAM-SIE-006"
   ],
@@ -66276,7 +66435,8 @@
      "value": "LPJSPDNUT01",
      "conf": "A",
      "src": [
-      "SRC-00461"
+      "SRC-00461",
+      "SRC-00097"
      ],
      "page": "single sheet",
      "basis": "oem_spec",
@@ -66318,16 +66478,34 @@
      "basis": "oem_spec",
      "batch": "B0010-docs-eaton-siemens"
     }
+   ],
+   "description": [
+    {
+     "value": "Replacement J-nuts (J-type speed nut) for lighting panel fronts and deadfronts, pack of 25.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
+   "SRC-00097",
    "SRC-00461"
   ],
   "batches": [
-   "B0010-docs-eaton-siemens"
+   "B0010-docs-eaton-siemens",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -92854,6 +93032,5787 @@
   ],
   "batches": [
    "B0014-siemens-instruction-sheets"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00753",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECPLD1",
+  "title": "Siemens Padlocking device for locking breaker in OFF position, 1P",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device for locking breaker in OFF position, 1P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, QAF2, QPF2, QE, QT-Duplex, BQ, BQXD; 1P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 3 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00754",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECPLD1R",
+  "title": "Siemens Padlocking device, red, 1P",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECPLD1R",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device, red, 1P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, QAF2, QPF, QE, QT-Duplex, BQ, BQXD; 1P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 3 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00755",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECPLD2",
+  "title": "Siemens Padlocking device, 2P",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECPLD2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device, 2P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, QAF2, QPF, QE, QT-Triplex & Quadplex, BQ, BQXD; 2P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 3 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00756",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECPLD2R",
+  "title": "Siemens Padlocking device, red, 2P",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECPLD2R",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device, red, 2P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, QAF2, QPF, QE, QT-Triplex & Quadplex, BQ, BQXD; 2P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 3 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00757",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECPLD3",
+  "title": "Siemens Padlocking device, 3P",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECPLD3",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device, 3P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, QAF2, QPF, QE, BQ; 3P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 1 piece",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00758",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECPLD3R",
+  "title": "Siemens Padlocking device, red, 3P (printed \"US2:ECPLD3R\")",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECPLD3R",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device, red, 3P (printed \"US2:ECPLD3R\").",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, QAF2, QPF, QE, BQ; 3P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 1 piece",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00759",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECQLD3",
+  "title": "Siemens Padlocking device listed under padlocking devices, 1P",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECQLD3",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device listed under padlocking devices, 1P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, BQ, BQXD; 1P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00760",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECQLD4",
+  "title": "Siemens Padlocking device for QT-Duplex breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECQLD4",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device for QT-Duplex breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QT-Duplex",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00761",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECQLN3",
+  "title": "Siemens Padlocking device for 150-225 A MBKA main breakers, QN, QNR",
+  "component_type": "padlock-attachment",
+  "family_ids": [],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECQLN3",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device for 150-225 A MBKA main breakers, QN, QNR.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "150-225 MBKA, QN, QNR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 1 piece",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00762",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECQTH4",
+  "title": "Siemens Device listed under Padlocking Device for (3) 1P breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECQTH4",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Device listed under Padlocking Device for (3) 1P breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, BQH; designed for (3) 1P breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 1 piece",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog lists ECQTH4 under Padlocking Device but \"designed for (3) 1P breakers\" and photo-grouped with padlocks - is it a 3-pole handle tie with padlock provision?"
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00763",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECQTH2",
+  "title": "Siemens Handle tie for (2) QT Duplex breakers",
+  "component_type": "handle-lock",
+  "family_ids": [],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECQTH2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle tie for (2) QT Duplex breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QT Duplex",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 25 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog table also prints ECQTH2/ECQTH3 under \"Handle Blocking Device\" (QP/BL/BQ 1P; QT-Duplex) - apparent typesetting error; photos caption ECQL1 and ECBX231M as handle blocking devices."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00764",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECQTH3",
+  "title": "Siemens Handle tie, 2P, Type QP/BL",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECQTH3",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle tie, 2P, Type QP/BL.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL; 2P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 50 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog table also prints ECQTH2/ECQTH3 under \"Handle Blocking Device\" (QP/BL/BQ 1P; QT-Duplex) - apparent typesetting error; photos caption ECQL1 and ECBX231M as handle blocking devices."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00765",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECBX231M",
+  "title": "Siemens Handle block",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECBX231M",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General) and p. 7-19/7-40",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle block.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General) and p. 7-19/7-40",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BL, BLF2, BAF2, BLE, QAF2, QPF2, QE (per pp. 7-19, 7-40)",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General) and p. 7-19/7-40",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General) and p. 7-19/7-40",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: not stated",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00766",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECQML12",
+  "title": "Siemens Mechanical interlock bracket for 1 in breakers",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECQML12",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Mechanical interlock bracket for 1 in breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, BQ; designed for 1 in breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00767",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "MB120",
+  "title": "Siemens BQ/BQH mounting clips, 1P",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "MB120",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ/BQH mounting clips, 1P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ, BQH; 1P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 20 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00768",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "FP9508",
+  "title": "Siemens BQ/BQH face mount plate, 1P",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FP9508",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ/BQH face mount plate, 1P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ, BQH; 1P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00769",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "FP9555",
+  "title": "Siemens BQ/BQH face mount plate, 2P",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FP9555",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ/BQH face mount plate, 2P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ, BQH; 2P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00770",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "FP9556",
+  "title": "Siemens BQ/BQH face mount plate, 3P",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FP9556",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ/BQH face mount plate, 3P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ, BQH; 3P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00771",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "SMB6R",
+  "title": "Siemens BQ mounting bracket 1P/2P/3P",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SMB6R",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ mounting bracket 1P/2P/3P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ; 1P, 2P, 3P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 6 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00772",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "TCH65K",
+  "title": "Siemens BQ mounting adapter",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "TCH65K",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ mounting adapter.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 500 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00773",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "BR2",
+  "title": "Siemens BQ/BQH/BQXD back mounting plate, 2P",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BR2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ/BQH/BQXD back mounting plate, 2P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ, BQH, BQXD; 2P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00774",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "BR3",
+  "title": "Siemens BQ/BQH/BQXD back mounting plate, 3P",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BR3",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ/BQH/BQXD back mounting plate, 3P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ, BQH, BQXD; 3P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00775",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "BR4",
+  "title": "Siemens BQ/BQH/BQXD back mounting plate, 4P",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BR4",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "BQ/BQH/BQXD back mounting plate, 4P.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type BQ, BQH, BQXD; 4P",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Standard package: 10 pieces",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface/enclosure mounting accessory for BQ - not panelboard interior hardware."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00776",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECQL1",
+  "title": "Siemens handle blocking device (per photo caption)",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-001",
+   "BRK-SIE-016"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECQL1",
+     "conf": "B",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-159 (photo caption under Handle Blocking Device)",
+     "basis": "oem_drawing",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle blocking device for holding breaker ON or OFF (not a lockout/tagout device); number taken from photo caption since table text prints ECQTH2/ECQTH3.",
+     "conf": "B",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-159 (photo caption under Handle Blocking Device)",
+     "basis": "oem_drawing",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Type QP, BL, BQ, BQXD 1P (inferred from table row)",
+     "conf": "C",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-159 (photo caption under Handle Blocking Device)",
+     "basis": "oem_drawing",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Verify ECQL1 against a Siemens price book."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00777",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECMBR1",
+  "title": "Siemens Main breaker retainer for EQ load centers",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECMBR1",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Main breaker retainer for EQ load centers; 1 piece.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "main",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Load-center item; listed for completeness of hold-down/retainer scope."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00778",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ECMBR2",
+  "title": "Siemens Main breaker retainer for Ultimate load centers (Ultimate load center main breakers)",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ECMBR2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Main breaker retainer for Ultimate load centers (Ultimate load center main breakers); 1 piece.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "main",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-158, Circuit Breaker Accessories (General)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Load-center item; listed for completeness of hold-down/retainer scope."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00779",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "BQDHT2",
+  "title": "Siemens Handle tie with padlock device for BQD, NGB, HGB, LGB",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BQDHT2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle tie with padlock device, 2 adjacent handles. Handle ties provide simultaneous switching of 2 or 3 adjacent handles; do not provide common trip.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, NGB, HGB, LGB",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00780",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "BQDHT3",
+  "title": "Siemens Handle tie with padlock device for BQD, NGB, HGB, LGB",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BQDHT3",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle tie with padlock device, 3 adjacent handles. Handle ties provide simultaneous switching of 2 or 3 adjacent handles; do not provide common trip.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, NGB, HGB, LGB",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00781",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "HPLQR",
+  "title": "Siemens Padlocking device (OFF) for All QR",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HPLQR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories; p. 7-41 QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (OFF), all QR. Padlocking devices are for locking breaker in OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories; p. 7-41 QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All QR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories; p. 7-41 QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories; p. 7-41 QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00782",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "BQDPLD",
+  "title": "Siemens Padlocking device (OFF) for All BQD, CQD, NGB, HGB, LGB",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BQDPLD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (OFF). Padlocking devices are for locking breaker in OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All BQD, CQD, NGB, HGB, LGB",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00783",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "HPLG",
+  "title": "Siemens Padlocking device (OFF) for NGG, HGG, LGG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HPLG",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (OFF). Padlocking devices are for locking breaker in OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NGG, HGG, LGG",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00784",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "ED2HPL",
+  "title": "Siemens Padlocking device (OFF) for All ED",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-021"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "ED2HPL",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (OFF), all ED. Padlocking devices are for locking breaker in OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All ED",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00785",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "FD6PL1",
+  "title": "Siemens Padlocking device (OFF) for All FD",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-022"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FD6PL1",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (OFF), all FD. Padlocking devices are for locking breaker in OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All FD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Photo caption reads \"FD6PLI\"; table reads FD6PL1."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00786",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "JD6HPL",
+  "title": "Siemens Padlocking device (OFF) for All JD, LD, LMD",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-023",
+   "BRK-SIE-024",
+   "BRK-SIE-025"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "JD6HPL",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (OFF). Padlocking devices are for locking breaker in OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All JD, LD, LMD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00787",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "MN6PLD",
+  "title": "Siemens Padlocking device (OFF) for All MD, ND, PD, RD",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-026",
+   "BRK-SIE-027",
+   "BRK-SIE-028",
+   "BRK-SIE-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "MN6PLD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlocking device (OFF). Padlocking devices are for locking breaker in OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All MD, ND, PD, RD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00788",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "HBLQR",
+  "title": "Siemens Handle blocking device for All QR",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HBLQR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories; p. 7-41 QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle blocking device, all QR. Handle blocking devices hold breaker ON or OFF; not a lockout/tagout device.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories; p. 7-41 QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All QR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories; p. 7-41 QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories; p. 7-41 QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00789",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "BQDHBD",
+  "title": "Siemens Handle blocking device for All BQD, CQD, GG, GB",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BQDHBD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle blocking device. Handle blocking devices hold breaker ON or OFF; not a lockout/tagout device.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All BQD, CQD, GG, GB",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00790",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "E2HBL",
+  "title": "Siemens Handle blocking device for All ED",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-021"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "E2HBL",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle blocking device, all ED. Handle blocking devices hold breaker ON or OFF; not a lockout/tagout device.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All ED",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00791",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "FD6HB1",
+  "title": "Siemens Handle blocking device for All FD",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-022"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FD6HB1",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle blocking device, all FD. Handle blocking devices hold breaker ON or OFF; not a lockout/tagout device.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All FD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00792",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "JD6HBL",
+  "title": "Siemens Handle blocking device for All JD, LD, LMD",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-023",
+   "BRK-SIE-024",
+   "BRK-SIE-025"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "JD6HBL",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle blocking device. Handle blocking devices hold breaker ON or OFF; not a lockout/tagout device.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All JD, LD, LMD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00793",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "MN6BL",
+  "title": "Siemens Handle blocking device for All MD, ND, PD, RD",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-026",
+   "BRK-SIE-027",
+   "BRK-SIE-028",
+   "BRK-SIE-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "MN6BL",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle blocking device. Handle blocking devices hold breaker ON or OFF; not a lockout/tagout device.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All MD, ND, PD, RD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00794",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "EX11",
+  "title": "Siemens Replacement handle extension (one shipped with breaker) for All MD, ND, PD, RD",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003",
+   "FAM-SIE-007",
+   "FAM-SIE-008",
+   "FAM-SIE-006"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-026",
+   "BRK-SIE-027",
+   "BRK-SIE-028",
+   "BRK-SIE-029"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "EX11",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Replacement handle extension (one shipped with breaker).",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "All MD, ND, PD, RD",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-205, Molded Case Circuit Breakers - External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00795",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "SBMIQR",
+  "title": "Siemens QR handle sliding-bar interlock",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SBMIQR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle sliding-bar interlock for QR.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR External Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00796",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST120",
+  "title": "Siemens CQD-series accessory module: Shunt trip 120 Vac",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST120",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 120 Vac; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00797",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST240",
+  "title": "Siemens CQD-series accessory module: Shunt trip 240 Vac (built to order)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST240",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 240 Vac (built to order); side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00798",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST277",
+  "title": "Siemens CQD-series accessory module: Shunt trip 277 Vac (built to order)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST277",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 277 Vac (built to order); side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00799",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST480",
+  "title": "Siemens CQD-series accessory module: Shunt trip 480 Vac (built to order)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST480",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 480 Vac (built to order); side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00800",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST600",
+  "title": "Siemens CQD-series accessory module: Shunt trip 600 Vac",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST600",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 600 Vac; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00801",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST12",
+  "title": "Siemens CQD-series accessory module: Shunt trip 12 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST12",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 12 Vdc; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00802",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST24",
+  "title": "Siemens CQD-series accessory module: Shunt trip 24 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST24",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 24 Vdc; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00803",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST48",
+  "title": "Siemens CQD-series accessory module: Shunt trip 48 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST48",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 48 Vdc; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00804",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST125",
+  "title": "Siemens CQD-series accessory module: Shunt trip 125 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST125",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 125 Vdc; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00805",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDA1",
+  "title": "Siemens CQD-series accessory module: Auxiliary switch 1A-1B, 240 Vac / 125 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDA1",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Auxiliary switch 1A-1B, 240 Vac / 125 Vdc; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00806",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDA2",
+  "title": "Siemens CQD-series accessory module: Auxiliary switch 2A-2B, 240 Vac / 125 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDA2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Auxiliary switch 2A-2B, 240 Vac / 125 Vdc; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00807",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDBA",
+  "title": "Siemens CQD-series accessory module: Alarm switch, 240 Vac / 125 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDBA",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Alarm switch, 240 Vac / 125 Vdc; side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00808",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDST120AAS",
+  "title": "Siemens CQD-series accessory module: Shunt trip 120 Vac + auxiliary switch combination (built to order)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDST120AAS",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 120 Vac + auxiliary switch combination (built to order); side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00809",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "CQDA1BA",
+  "title": "Siemens CQD-series accessory module: Alarm and auxiliary switch combination (built to order)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-017",
+   "BRK-SIE-003",
+   "BRK-SIE-018"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "CQDA1BA",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Alarm and auxiliary switch combination (built to order); side-mounted accessory module for BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2; adds 1-pole space for accessory.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQD, BQD6, CQD, CQD6, NGG, HGG, LGG, NGB, HGB, LGB, NGB2, HGB2, LGB2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-35, BQD/CQD/xGB/GG Accessories (each accessory adds a 1-pole space)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Catalog does not explicitly state field installability; confirm with installation instructions."
+  ],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00810",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "S01QR2",
+  "title": "Siemens QR shunt trip 120-240 Vac / 48 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "S01QR2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip, 120-240 Vac / 48 Vdc, inrush 2.0 A ac / 1.8 A dc (S01QR2A = with auxiliary switch).",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00811",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "S07QR2",
+  "title": "Siemens QR shunt trip 24 Vdc",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "S07QR2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip 24 Vdc, inrush 1.1 A (S07QR2A = with auxiliary switch).",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00812",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "A01QR2",
+  "title": "Siemens QR auxiliary switch 1A-1B",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "A01QR2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Auxiliary switch single 1A-1B, 250 Vac/125 Vdc, 5 A ac/0.5 A dc.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00813",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "A02QR2",
+  "title": "Siemens QR auxiliary switch 2A-2B",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-019"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "A02QR2",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Auxiliary switch double 2A-2B, 250 Vac/125 Vdc.",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QR",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00135"
+     ],
+     "page": "p. 7-41, QR Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00135"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00814",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "MCHK",
+  "title": "Siemens Metal card holder kit",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "MCHK",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Metal card holder kit, field installable (stick-on with double sided tape).",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00097"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00815",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "LPTS01",
+  "title": "Siemens Trim screw",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LPTS01",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Trim screw, lighting panel front, 0.547 in length, 1/4-20 machine screw thread, pack of 25 (kit pending at time of printing).",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00097"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00816",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "LPKEY01A",
+  "title": "Siemens Key B363A for standard panelboard lock series 11-1895-0x / FAS-Latch",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LPKEY01A",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Key B363A for standard panelboard lock series 11-1895-0x / FAS-Latch, pack of 4.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00097"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00817",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "LPKEY01B",
+  "title": "Siemens Key B363A for standard panelboard lock / FAS-Latch",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LPKEY01B",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Key B363A for standard panelboard lock / FAS-Latch, pack of 25.",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00097"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00818",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "LPLOCK03A",
+  "title": "Siemens FAS-Latch replacement lock kit with two B363A keys",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LPLOCK03A",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "FAS-Latch replacement lock kit with two B363A keys, for 10 gauge steel lighting panel Type 1 fronts (drawing 11-1895-63).",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00097"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00819",
+  "mfr": "SIE",
+  "brand_marking": "Siemens",
+  "oem_part_number": "LP3RHP01",
+  "title": "Siemens 3R/12 hinge pin 0.188 in dia. steel zinc plated",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-SIE-001",
+   "FAM-SIE-002",
+   "FAM-SIE-005",
+   "FAM-SIE-006",
+   "FAM-SIE-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LP3RHP01",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "3R/12 hinge pin 0.188 in dia. steel zinc plated, pack of 12 (kit pending).",
+     "conf": "A",
+     "src": [
+      "SRC-00097"
+     ],
+     "page": "pp. 11-19..11-20, Spare Parts Kits for Revised P1 Panels",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00097"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

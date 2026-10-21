@@ -63338,9 +63338,13 @@
   "title": "Square D handle tie for QO / QOB (two 1-pole to 2-pole individual trip)",
   "component_type": "breaker-accessory",
   "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
    "FAM-SQD-011"
   ],
   "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
    "BRK-SQD-040"
   ],
   "claims": {
@@ -63354,6 +63358,16 @@
      "page": "Digest 152 (1970) p.84",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Handle tie: converts any two adjacent 120/240 Vac 1P QO circuit breakers to independent trip 2P.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63372,10 +63386,35 @@
      "value": "QO-1HT",
      "conf": "A",
      "src": [
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00634"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Two adjacent 1P QO/QOB 120/240 Vac breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63387,10 +63426,13 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00634",
+   "SRC-00635"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63403,12 +63445,16 @@
   "title": "Square D handle lockoff for QO, Q1, A1 and Y1B breakers",
   "component_type": "handle-lock",
   "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-010",
    "FAM-SQD-011",
    "FAM-SQD-012",
-   "FAM-SQD-014",
-   "FAM-SQD-010"
+   "FAM-SQD-014"
   ],
   "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
    "BRK-SQD-040",
    "BRK-SQD-043"
   ],
@@ -63423,6 +63469,16 @@
      "page": "Digest 152 (1970) p.84",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Clamp for holding QO or Q1 either 1P, 2P or 3P circuit breaker handles in ON or OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63447,6 +63503,16 @@
      "basis": "oem_spec",
      "note": "Dealer Relectric lists HLO1 / HLO1-10 as padlock attachment (s10)",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "QO, Q1 1P/2P/3P",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "oem_part_number": [
@@ -63454,10 +63520,23 @@
      "value": "HLO-1",
      "conf": "A",
      "src": [
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00634"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63469,10 +63548,13 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00634",
+   "SRC-00635"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63485,9 +63567,13 @@
   "title": "Square D handle padlock attachment, 1-pole QO/QOB/Q1/Q1B/QFSB/HFSB",
   "component_type": "padlock-attachment",
   "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
    "FAM-SQD-011"
   ],
   "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
    "BRK-SQD-040"
   ],
   "claims": {
@@ -63501,6 +63587,16 @@
      "page": "Digest 152 (1970) p.84",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "For padlocking 1P QO circuit breaker in ON or OFF position - fixed attachment. Bail supplied in silver (1/4 in shackle) and black (5/16 in shackle) versions; if locked ON, does not prevent tripping.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63519,10 +63615,59 @@
      "value": "QO-1PA",
      "conf": "A",
      "src": [
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00634"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO/QOB 1P (bulletin also covers QOU1PA and HOM1PA Series 1)",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "Instruction Bulletin 48840-159-01 Rev. 01 (04/2010)",
+     "conf": "A",
+     "src": [
+      "SRC-00636"
+     ],
+     "page": "p. 1",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Bail (A): silver for 1/4 in (6.4 mm) shackles; black for 5/16 in (7.9 mm) shackles; attachment frame with tabs bent into slots at ON and OFF ends",
+     "conf": "A",
+     "src": [
+      "SRC-00636"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63534,10 +63679,14 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00634",
+   "SRC-00635",
+   "SRC-00636"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63550,9 +63699,13 @@
   "title": "Square D handle padlock attachment, 2/3-pole QO/QOB/Q1/Q1B",
   "component_type": "padlock-attachment",
   "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
    "FAM-SQD-011"
   ],
   "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
    "BRK-SQD-040"
   ],
   "claims": {
@@ -63566,6 +63719,16 @@
      "page": "Digest 152 (1970) p.84",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "For 2P and 3P QO and Q1 standard circuit breakers which require padlocking in either ON or OFF position - fixed attachment.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63584,10 +63747,35 @@
      "value": "QO-1PL",
      "conf": "A",
      "src": [
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00634"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO/QOB, Q1 2P and 3P",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63599,10 +63787,13 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00634",
+   "SRC-00635"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63678,10 +63869,14 @@
   "title": "Square D padlock attachment for FA and KA breakers",
   "component_type": "padlock-attachment",
   "family_ids": [
-   "FAM-SQD-014",
-   "FAM-SQD-004"
+   "FAM-SQD-004",
+   "FAM-SQD-009",
+   "FAM-SQD-014"
   ],
-  "breaker_ids": [],
+  "breaker_ids": [
+   "BRK-SQD-014",
+   "BRK-SQD-015"
+  ],
   "claims": {
    "description": [
     {
@@ -63693,6 +63888,16 @@
      "page": "Digest 152 (1970) p.84",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Handle padlock attachment (locks ON or OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63711,10 +63916,35 @@
      "value": "HPA-FK",
      "conf": "A",
      "src": [
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00115"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FA, FH 1/2/3-pole; FY Series 2 2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63724,12 +63954,16 @@
    "dimensions",
    "material"
   ],
-  "questions": [],
+  "questions": [
+   "Hyphenated forms HPA-FK / HPA-LM / HPA-FYQ from Digest 152 (1970) exist in catalogue - same parts."
+  ],
   "source_ids": [
+   "SRC-00115",
    "SRC-00270"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63742,10 +63976,13 @@
   "title": "Square D padlock attachment for Q2 and FY breakers",
   "component_type": "padlock-attachment",
   "family_ids": [
-   "FAM-SQD-014",
-   "FAM-SQD-004"
+   "FAM-SQD-004",
+   "FAM-SQD-009",
+   "FAM-SQD-014"
   ],
-  "breaker_ids": [],
+  "breaker_ids": [
+   "BRK-SQD-014"
+  ],
   "claims": {
    "description": [
     {
@@ -63757,6 +63994,16 @@
      "page": "Digest 152 (1970) p.84",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Handle padlock attachment (locks ON or OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63775,10 +64022,35 @@
      "value": "HPA-FYQ",
      "conf": "A",
      "src": [
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00115"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FY Series 1, 1-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63788,12 +64060,16 @@
    "dimensions",
    "material"
   ],
-  "questions": [],
+  "questions": [
+   "Hyphenated forms HPA-FK / HPA-LM / HPA-FYQ from Digest 152 (1970) exist in catalogue - same parts."
+  ],
   "source_ids": [
+   "SRC-00115",
    "SRC-00270"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63806,9 +64082,13 @@
   "title": "Square D padlock attachment for LA and MA (permanent trip) breakers",
   "component_type": "padlock-attachment",
   "family_ids": [
-   "FAM-SQD-004"
+   "FAM-SQD-004",
+   "FAM-SQD-009"
   ],
-  "breaker_ids": [],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
   "claims": {
    "description": [
     {
@@ -63820,6 +64100,16 @@
      "page": "Digest 152 (1970) p.84",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Handle padlock attachment (locks ON or OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63838,10 +64128,35 @@
      "value": "HPA-LM",
      "conf": "A",
      "src": [
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00115"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH, Q4 2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63851,12 +64166,16 @@
    "dimensions",
    "material"
   ],
-  "questions": [],
+  "questions": [
+   "Hyphenated forms HPA-FK / HPA-LM / HPA-FYQ from Digest 152 (1970) exist in catalogue - same parts."
+  ],
   "source_ids": [
+   "SRC-00115",
    "SRC-00270"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -64323,6 +64642,8 @@
   "title": "Square D flush lock for MONO-FLAT trims",
   "component_type": "other",
   "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
    "FAM-SQD-011",
    "FAM-SQD-012",
    "FAM-SQD-014"
@@ -64339,6 +64660,16 @@
      "page": "Digest 152 (1970) p.84",
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    },
+    {
+     "value": "Flush lock (standard) for NQ / NQOD trim doors; uses key NSR-251 (LP9618).",
+     "conf": "A",
+     "src": [
+      "SRC-00639"
+     ],
+     "page": "p. 23, Indoor Enclosure Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -64357,10 +64688,23 @@
      "value": "PK-4FL",
      "conf": "A",
      "src": [
-      "SRC-00270"
+      "SRC-00270",
+      "SRC-00639"
      ],
      "basis": "oem_spec",
      "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Trim front door",
+     "conf": "A",
+     "src": [
+      "SRC-00639"
+     ],
+     "page": "p. 23, Indoor Enclosure Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -64372,10 +64716,13 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00639",
+   "SRC-00640"
   ],
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -69513,8 +69860,9 @@
   "title": "Flush lock for 400 A NEHB main breaker fronts / telephone cabinet fronts 36 in+ wide",
   "component_type": "other",
   "family_ids": [
-   "FAM-SQD-010",
-   "FAM-SQD-006"
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-010"
   ],
   "breaker_ids": [],
   "claims": {
@@ -69527,6 +69875,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0015-squared-legacy-and-unmined"
+    },
+    {
+     "value": "Sliding vault lock (optional) for NQ / NQOD trim doors; key NSR-251.",
+     "conf": "A",
+     "src": [
+      "SRC-00639"
+     ],
+     "page": "p. 23, Indoor Enclosure Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -69546,22 +69904,43 @@
      "value": "PK5FL",
      "conf": "A",
      "src": [
-      "SRC-00504"
+      "SRC-00504",
+      "SRC-00639"
      ],
      "page": "13-7 Table 13.3",
      "basis": "oem_spec",
      "batch": "B0015-squared-legacy-and-unmined"
     }
+   ],
+   "location": [
+    {
+     "value": "Trim front door",
+     "conf": "A",
+     "src": [
+      "SRC-00639"
+     ],
+     "page": "p. 23, Indoor Enclosure Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
    ]
   },
   "requires": [],
-  "unknowns": [],
-  "questions": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [
+   "Existing catalogue record PK5FL describes it as flush lock for 400 A NEHB fronts / telephone cabinet fronts 36 in+ - same part used on several fronts?"
+  ],
   "source_ids": [
-   "SRC-00504"
+   "SRC-00504",
+   "SRC-00639",
+   "SRC-00640"
   ],
   "batches": [
-   "B0015-squared-legacy-and-unmined"
+   "B0015-squared-legacy-and-unmined",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -69649,8 +70028,8 @@
   "title": "Key NSR-251 for Square D panelboard locks",
   "component_type": "other",
   "family_ids": [
-   "FAM-SQD-007",
    "FAM-SQD-006",
+   "FAM-SQD-007",
    "FAM-SQD-009"
   ],
   "breaker_ids": [],
@@ -69664,6 +70043,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0015-squared-legacy-and-unmined"
+    },
+    {
+     "value": "Key NSR-251 for PK4FL flush lock / PK5FL sliding vault lock / Type 3R vault handle.",
+     "conf": "A",
+     "src": [
+      "SRC-00639"
+     ],
+     "page": "p. 23, Indoor Enclosure Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "oem_part_number": [
@@ -69671,7 +70060,8 @@
      "value": "LP9618",
      "conf": "A",
      "src": [
-      "SRC-00504"
+      "SRC-00504",
+      "SRC-00639"
      ],
      "page": "13-10 Table 13.2",
      "basis": "oem_spec",
@@ -69680,13 +70070,20 @@
    ]
   },
   "requires": [],
-  "unknowns": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
   "questions": [],
   "source_ids": [
-   "SRC-00504"
+   "SRC-00504",
+   "SRC-00639",
+   "SRC-00640"
   ],
   "batches": [
-   "B0015-squared-legacy-and-unmined"
+   "B0015-squared-legacy-and-unmined",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -92837,6 +93234,3883 @@
   ],
   "batches": [
    "B0015-squared-legacy-and-unmined"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00923",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QOTHT",
+  "title": "Square D QOT handle tie",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QOTHT",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle tie: converts any two adjacent 120/240 Vac 1P side-by-side QOT circuit breakers to independent trip 2P.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QOT tandem (side-by-side) 1P breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00924",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO3HT",
+  "title": "Square D QO 3-pole handle tie",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QO3HT",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle tie listed with QO1HT/QOTHT in Table 1.16 (three-breaker tie; exact description row ambiguous in extracted text).",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO 1P breakers (three adjacent) - inferred",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table text extraction does not give a separate description for QO3HT; confirm it ties three 1P QO breakers."
+  ],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00925",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO1LO",
+  "title": "Square D QO 1P handle clamp (lock-off/lock-on, non-padlocking)",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QO1LO",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle clamp for holding QO 1P handle in ON or OFF position.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO 1P (also listed for HOM 1P in Homeline accessories)",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00926",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QOHPL",
+  "title": "Square D QO 1P handle padlock attachment, loose",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QOHPL",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "For padlocking 1P QO circuit breaker in ON or OFF position - loose attachment.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO/QOB 1P",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "2024 text row for QOHPL also reads \"For padlocking 1P side-by-side QOT\" in one distributor summary; 2012 list shows QOHPL as loose 1P attachment ($9.90)."
+  ],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00927",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QOTHPA",
+  "title": "Square D QOT 1P side-by-side handle padlock attachment (obsolete)",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QOTHPA",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "For padlocking 1P side-by-side QOT circuit breaker in ON or OFF position. Marked OBS (obsolete) in 2024 Digest.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QOT tandem breakers",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "status": [
+    {
+     "value": "obsolete (OBS)",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00928",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "GFI2PA",
+  "title": "Square D 2P QO-GFI handle padlock attachment, fixed",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "GFI2PA",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "For padlocking 2P QO-GFI circuit breakers in either ON or OFF position, fixed attachment.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "2P QO-GFI",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00929",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO1HPL",
+  "title": "Square D QO 2P/3P handle padlock attachment, loose",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QO1HPL",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "For 2P and 3P QO and Q1 standard circuit breakers which require padlocking in either ON or OFF position - loose attachment.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO/QOB, Q1 2P and 3P",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00930",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO1PAF",
+  "title": "Square D QO 1P padlock attachment, OFF only, fixed",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QO1PAF",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "For padlocking 1P QO circuit breaker in OFF position only, fixed attachment (2012 list price $43.50).",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO 1P",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "2024 Table 1.16 text prints QOADV1PAF in the 1P-OFF-only row (and again for GFI/CAFI/DF/EPD) while the illustration is captioned QO1PAF - has QO1PAF been superseded by QOADV1PAF?"
+  ],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00931",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QOADV1PAF",
+  "title": "Square D QO 1P padlock attachment, OFF only, for QO-GFI/CAFI/DF/EPD",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QOADV1PAF",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "For padlocking 1P QO-GFI, QO-CAFI, QO-DF and QO-EPD circuit breakers in OFF position only, fixed attachment.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "1P QO-GFI, QO-CAFI, QO-DF, QO-EPD (also printed in 1P standard QO row of 2024 table)",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00932",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO2PAF",
+  "title": "Square D QO 2P/3P padlock attachment, OFF only, fixed",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QO2PAF",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "For padlocking 2P and 3P QO circuit breakers in OFF position only, fixed attachment.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO 2P/3P",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00933",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QOGFI2PAF",
+  "title": "Square D 2P QO-GFI/CAFI/EPD padlock attachment, OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QOGFI2PAF",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "For padlocking 2P QO-GFI, QO-CAFI and QO-EPD circuit breakers in OFF position only, fixed attachment.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "2P QO-GFI, QO-CAFI, QO-EPD",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00934",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO2DTI",
+  "title": "Square D QO mechanical interlock attachment (two 2P or 2P+1P side by side)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QO2DTI",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Mechanical interlock for interlocking the handles of two 2P or one 2P and one 1P QO and Q1 circuit breakers mounted side-by-side so only one can be ON at a time (not QOU).",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO, Q1 (not QOU)",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00935",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO2DTIM",
+  "title": "Square D QO2DTI interlock with retaining kits for back-fed breakers",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-007",
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QO2DTIM",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "QO2DTI mechanical interlock attachment with retaining kits for securing two adjacent back-fed circuit breakers in dual power supply applications; (2) 2P or (1) 2P + (1) 1P QO in QO816L100 load centers.",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO in QO816L100 load centers",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00634"
+     ],
+     "page": "p. 1-8, Table 1.16 Accessories for use with QO and QOB Miniature Circuit Breakers",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Is QO2DTIM listed for NQ/NQOD panelboard back-fed applications or load centers only?"
+  ],
+  "source_ids": [
+   "SRC-00634",
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00936",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK2MB",
+  "title": "Square D QO back-fed main breaker retaining kit PK2MB",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PK2MB",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Retaining kit: secures circuit breaker to interior when used as a back-fed main. For QO612L100F/S, RB, QO612L100DF/S, QO816L100F/S, RB, QO816L100DF/S and QO148L125GF/S, GRB load centers.",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "main",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO (plug-on) breakers used as back-fed mains in QO load centers",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "QO load center interior, at the back-fed main breaker position",
+     "conf": "C",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Load-center accessory: confirm whether any of these are listed for NQ/NQOD panelboards (NQ catalog states back-fed QOB mains in NQ are factory installed)."
+  ],
+  "source_ids": [
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00937",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK3MB",
+  "title": "Square D QO back-fed main breaker retaining kit PK3MB",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PK3MB",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Retaining kit: secures 3P circuit breaker without accessories to left side of interior when used as a back-fed main. For 3-phase load centers.",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "main",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO (plug-on) breakers used as back-fed mains in QO load centers",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "QO load center interior, at the back-fed main breaker position",
+     "conf": "C",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Load-center accessory: confirm whether any of these are listed for NQ/NQOD panelboards (NQ catalog states back-fed QOB mains in NQ are factory installed)."
+  ],
+  "source_ids": [
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00938",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK5RK",
+  "title": "Square D QO back-fed main breaker retaining kit PK5RK",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PK5RK",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Retaining kit: secures circuit breaker to interior when used as a back-fed main for 2P QO 150-200 A circuit breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "main",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO (plug-on) breakers used as back-fed mains in QO load centers",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "QO load center interior, at the back-fed main breaker position",
+     "conf": "C",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Load-center accessory: confirm whether any of these are listed for NQ/NQOD panelboards (NQ catalog states back-fed QOB mains in NQ are factory installed)."
+  ],
+  "source_ids": [
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00939",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK4MB2LA",
+  "title": "Square D QO back-fed main breaker retaining kit PK4MB2LA",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PK4MB2LA",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Retaining kit: secures ONE circuit breaker with or without electrical accessories to right side of interior when used as a back-fed main; 1-phase 100-125 A convertible main load centers, Series S01 and S02.",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "main",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO (plug-on) breakers used as back-fed mains in QO load centers",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "QO load center interior, at the back-fed main breaker position",
+     "conf": "C",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Load-center accessory: confirm whether any of these are listed for NQ/NQOD panelboards (NQ catalog states back-fed QOB mains in NQ are factory installed)."
+  ],
+  "source_ids": [
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00940",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK4MB2HA",
+  "title": "Square D QO back-fed main breaker retaining kit PK4MB2HA",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-SQD-028",
+   "BRK-SQD-029",
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PK4MB2HA",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Retaining kit: secures ONE circuit breaker with or without electrical accessories to right side of interior when used as a back-fed main; 1-phase 150-225 A convertible main load centers, Series S01 and S02.",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "main",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO (plug-on) breakers used as back-fed mains in QO load centers",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "QO load center interior, at the back-fed main breaker position",
+     "conf": "C",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Load-center accessory: confirm whether any of these are listed for NQ/NQOD panelboards (NQ catalog states back-fed QOB mains in NQ are factory installed)."
+  ],
+  "source_ids": [
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00941",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "FKHT",
+  "title": "Square D Handle tie for (2) FA breakers, 3-pole",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-014"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FKHT",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle tie for (2) FA breakers, 3-pole.",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "(2) FA",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00942",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LAHT",
+  "title": "Square D Handle tie for 2 LA or 2 Q4 breakers",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LAHT",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle tie for 2 LA or 2 Q4 breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "2 LA or 2 Q4, 2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00943",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "FY3HT",
+  "title": "Square D California Title 24 combination handle tie and lock off, (3) 1P FY",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-014"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FY3HT",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "California Title 24 combination handle tie and lock off, (3) 1P FY.",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "(3) 1P FY",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00944",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "FA3HT",
+  "title": "Square D California Title 24 combination handle tie and lock off, (3) 1P FA",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-014"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FA3HT",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "California Title 24 combination handle tie and lock off, (3) 1P FA.",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "(3) 1P FA",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00945",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "AHEXLI",
+  "title": "Square D Handle extension, Q4 2/3-pole",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "AHEXLI",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle extension, Q4 2/3-pole.",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Q4 2/3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00946",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HPAXLM",
+  "title": "Square D handle padlock attachment (locks ON or OFF) HPAXLM",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HPAXLM",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle padlock attachment (locks ON or OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH, Q4 2/3-pole (alternate listed with HPALM)",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-24, Table 3.64 Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Hyphenated forms HPA-FK / HPA-LM / HPA-FYQ from Digest 152 (1970) exist in catalogue - same parts."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00947",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA1CL",
+  "title": "Square D cylinder lock, field-installable, LA/LH/Q4",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA1CL",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-25, Table 3.68 Cylinder Lock",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Cylinder lock used to lock the circuit breaker in the OFF position; breaker cannot be reset when locked OFF. Field-installable only for LA, LAL, LH, LHL, Q4 (FA/FH use factory -CL suffix).",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-25, Table 3.68 Cylinder Lock",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LAL, LH, LHL, Q4",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-25, Table 3.68 Cylinder Lock",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-25, Table 3.68 Cylinder Lock",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00948",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11212",
+  "title": "Square D field-installable auxiliary switch 1A/1B, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11212",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "auxiliary switch 1A/1B. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00949",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11352",
+  "title": "Square D field-installable auxiliary switch 2A/2B, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11352",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "auxiliary switch 2A/2B. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00950",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11021",
+  "title": "Square D field-installable shunt trip 120/208/240 Vac, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11021",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "shunt trip 120/208/240 Vac. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00951",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11042",
+  "title": "Square D field-installable shunt trip 24 Vac, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11042",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "shunt trip 24 Vac. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00952",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11037",
+  "title": "Square D field-installable shunt trip 277/480 Vac, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11037",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "shunt trip 277/480 Vac. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00953",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11027",
+  "title": "Square D field-installable shunt trip 24 Vdc, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11027",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "shunt trip 24 Vdc. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00954",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11028",
+  "title": "Square D field-installable shunt trip 48 Vdc, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11028",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "shunt trip 48 Vdc. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00955",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11029",
+  "title": "Square D field-installable shunt trip 125 Vdc, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11029",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "shunt trip 125 Vdc. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00956",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11121",
+  "title": "Square D field-installable undervoltage trip 120 Vac, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11121",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "undervoltage trip 120 Vac. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00957",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA11124",
+  "title": "Square D field-installable undervoltage trip 240 Vac, LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA11124",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "undervoltage trip 240 Vac. Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "B",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [
+   "Catalog number constructed from the OEM LA1( ) + suffix rule; not printed verbatim - verify."
+  ],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00958",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LA1G",
+  "title": "Square D field-installable ground-fault shunt trip (obsolete GP Ground-Censor / add-on GF module use), LA/LH/Q4",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-016",
+   "BRK-SQD-017"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LA1G",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "ground-fault shunt trip (obsolete GP Ground-Censor / add-on GF module use). Field-installable accessory catalog number = LA1 + suffix from Table 3.60 (OEM example: LA11212). Field-installable on LA/LH/Q4 Series 4 or newer (not LA/LH top-feed MT); both accessory ports accept shunt trips, UVRs and aux switches; alarm switch factory only.",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LH (Series 4 or later), Q4",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00115"
+     ],
+     "page": "p. 3-23, Table 3.61 Field-Installable Accessories (suffix codes from Table 3.60 p. 3-22)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00115"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00959",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HPAFD",
+  "title": "Square D handle padlock attachment for EDB/EGB/EJB",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-030"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HPAFD",
+     "conf": "A",
+     "src": [
+      "SRC-00638"
+     ],
+     "page": "p. 3, Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle padlock attachment (locks ON or OFF) for EDB, EGB, EJB 480Y/277 Vac lighting panelboard breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00638"
+     ],
+     "page": "p. 3, Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "EDB, EGB, EJB",
+     "conf": "A",
+     "src": [
+      "SRC-00638"
+     ],
+     "page": "p. 3, Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00638"
+     ],
+     "page": "p. 3, Handle Accessories",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "EDPA",
+     "conf": "C",
+     "src": [
+      "SRC-00642"
+     ],
+     "page": "distributor listing",
+     "basis": "distributor",
+     "note": "Distributor-described fixed padlock attachment for ED/EG/EJ 1-3P; relationship to HPAFD unknown",
+     "relation": "equivalent",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00642",
+   "SRC-00638"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00960",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "EDPAF",
+  "title": "Square D fixed OFF padlock attachment for ED/EG/EJ (distributor listing)",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-009"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-030"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "EDPAF",
+     "conf": "C",
+     "src": [
+      "SRC-00642"
+     ],
+     "page": "distributor listing",
+     "basis": "distributor",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Fixed OFF padlock attachment for ED, EG, EJ circuit breakers (distributor description only).",
+     "conf": "C",
+     "src": [
+      "SRC-00642"
+     ],
+     "page": "distributor listing",
+     "basis": "distributor",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED, EG, EJ",
+     "conf": "C",
+     "src": [
+      "SRC-00642"
+     ],
+     "page": "distributor listing",
+     "basis": "distributor",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Not found in an OEM table yet."
+  ],
+  "source_ids": [
+   "SRC-00642"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00961",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "S29371",
+  "title": "Square D fixed padlock attachment, PowerPact H/J, lock ON or OFF",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-021",
+   "BRK-SQD-022"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "S29371",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Fixed padlock attachment kit; allows locking H- and J-frame breakers using up to three padlocks; locks ON (I) or OFF (O). Kit includes mounting screw; torque 10 lb-in (1.2 N-m), Pozidriv #2 or slotted screwdriver.",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "PowerPact H-frame and J-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "torque": [
+    {
+     "value": "10 lb-in (1.2 N-m)",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "Instruction Bulletin 48940-241-01 Rev. 01 (03/2010)",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "status": [
+    {
+     "value": "discontinued; replaced by HJPA",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "se.com product page (search snippet)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "HJPA",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "se.com product page (search snippet)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00637",
+   "SRC-00641"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00962",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "S37422",
+  "title": "Square D fixed padlock attachment, PowerPact H/J, lock OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-021",
+   "BRK-SQD-022"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "S37422",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Fixed padlock attachment kit, OFF (O) only; up to three padlocks; mounting screw torque 10 lb-in.",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "PowerPact H-frame and J-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "torque": [
+    {
+     "value": "10 lb-in (1.2 N-m)",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "Instruction Bulletin 48940-241-01 Rev. 01 (03/2010)",
+     "conf": "A",
+     "src": [
+      "SRC-00637"
+     ],
+     "page": "pp. 1-2",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00637"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00963",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "S29370",
+  "title": "Square D removable padlock handle device, lock OFF only, PowerPact B/H/J/L",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-021",
+   "BRK-SQD-022",
+   "BRK-SQD-023"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "S29370",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "se.com product page (search snippet)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Removable padlock attachment, lock OFF only; includes one removable padlock attachment device (per Schneider product page snippet).",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "se.com product page (search snippet)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "PowerPacT B/H/J/L",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "search snippet",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "se.com product page (search snippet)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00641"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00964",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HJPA",
+  "title": "Square D PowerPact H/J padlock attachment (replacement for S29371)",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-006",
+   "FAM-SQD-009",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-021",
+   "BRK-SQD-022"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HJPA",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "se.com product page (search snippet)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Named by Schneider as replacement for S29371 fixed lock ON/OFF padlock attachment.",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "se.com product page (search snippet)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "PowerPacT H/J (inferred from S29371 replacement)",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "search snippet",
+     "basis": "inference",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "C",
+     "src": [
+      "SRC-00641"
+     ],
+     "page": "se.com product page (search snippet)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Obtain OEM data sheet for HJPA."
+  ],
+  "source_ids": [
+   "SRC-00641"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00965",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK4NVL",
+  "title": "Square D vault handle with lock for Type 3R/5/12 panelboard enclosures",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SQD-007",
+   "FAM-SQD-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PK4NVL",
+     "conf": "A",
+     "src": [
+      "SRC-00640"
+     ],
+     "page": "p. 5, Type 3R, 5 and 12 Enclosures",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Vault handle with lock (uses NSR-251 key) for gasketed Type 3R, 5, 12 enclosure doors.",
+     "conf": "A",
+     "src": [
+      "SRC-00640"
+     ],
+     "page": "p. 5, Type 3R, 5 and 12 Enclosures",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00640"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00966",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LP9502",
+  "title": "Square D trim screws for 400-600 A panelboard fronts",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-SQD-007",
+   "FAM-SQD-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LP9502",
+     "conf": "A",
+     "src": [
+      "SRC-00640"
+     ],
+     "page": "p. 4, Enclosures",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Trim screws: fronts for 400-600 A interiors are vented and mount to the enclosure with trim screws (Catalog No. LP9502).",
+     "conf": "A",
+     "src": [
+      "SRC-00640"
+     ],
+     "page": "p. 4, Enclosures",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "location": [
+    {
+     "value": "Front-to-enclosure (MH box) for 400-600 A interiors",
+     "conf": "A",
+     "src": [
+      "SRC-00640"
+     ],
+     "page": "p. 4",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00640"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00967",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO1SE",
+  "title": "Square D QO load center cover sealing strap",
+  "component_type": "hardware-kit",
+  "family_ids": [],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QO1SE",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Cover sealing strap: provides means of sealing trim mounting screws on QO load center covers.",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00968",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "LSDL",
+  "title": "Square D replacement cover directory label",
+  "component_type": "other",
+  "family_ids": [],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LSDL",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Replacement cover directory label, 1 through 42 numbered universal, for load center covers.",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00969",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PSDS",
+  "title": "Square D circuit identification stickers for use on cover directory labels",
+  "component_type": "other",
+  "family_ids": [],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PSDS",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Circuit identification stickers for use on cover directory labels.",
+     "conf": "A",
+     "src": [
+      "SRC-00635"
+     ],
+     "page": "2012 Digest Section 1, Table 1.32 QO Load Center Accessories, p. 1-11",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00635"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

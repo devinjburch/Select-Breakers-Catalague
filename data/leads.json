@@ -1897,5 +1897,114 @@
   ],
   "status": "open",
   "batch": "B0014-siemens-instruction-sheets"
+ },
+ {
+  "id": "LEAD-0146",
+  "priority": 2,
+  "topic": "Square D NQ/NQOD back-fed QOB main hold-down",
+  "detail": "NQ catalog 1640CT0801 states 100 A QOB back-fed mains are factory assembled; no field retaining kit number found for NQ/NQOD (loadcenter PK2MB/PK3MB/PK5RK/PK4MB2xA found in Digest Section 1). Find Digest Section 9 NQ accessories table (0100CT2401-SEC-09, se.com blocked) or NQ instruction bulletin for retainer part.",
+  "doc_numbers": [
+   "0100CT2401-SEC-09",
+   "1640CT0801"
+  ],
+  "urls": [
+   "https://download.schneider-electric.com/files?p_Doc_Ref=0100CT2401-SEC-09"
+  ],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
+ },
+ {
+  "id": "LEAD-0147",
+  "priority": 2,
+  "topic": "Eaton PRL1a/1X back-fed BAB/QBHW main hold-down",
+  "detail": "No OEM hold-down/retainer kit number found for back-fed BAB/GHB mains in Pow-R-Line panels (loadcenter kits BJHDS / BREQS125CS / CH125RB seen only on distributor/retail listings). Check CA08100003E Tab 3 and PRL1X instruction leaflets.",
+  "doc_numbers": [
+   "CA08100003E"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
+ },
+ {
+  "id": "LEAD-0148",
+  "priority": 2,
+  "topic": "GE A-Series THQB/TEY back-fed main retainer",
+  "detail": "No GE retaining kit found in BuyLog Sections 6/11. Search GE A-Series instruction DEH-series for back-fed main hold-down.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
+ },
+ {
+  "id": "LEAD-0149",
+  "priority": 3,
+  "topic": "Square D PowerPact H/J/L handle padlocks (Digest Section 7)",
+  "detail": "Digest Section 7 (0100CT1501_SEC-07) hosted at iportal2.schneider-electric.com returned HTML (blocked). S29370, HJPA, L-frame padlock numbers (e.g. S29370 for B/H/J/L) known only from search snippets; get OEM table.",
+  "doc_numbers": [
+   "0100CT1501_SEC-07"
+  ],
+  "urls": [
+   "https://iportal2.schneider-electric.com/Contents/docs/0100CT1501_SEC-07.PDF"
+  ],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
+ },
+ {
+  "id": "LEAD-0150",
+  "priority": 3,
+  "topic": "Square D QO1PAF vs QOADV1PAF",
+  "detail": "2024 Digest Section 1 Table 1.16 prints QOADV1PAF in the standard 1P OFF-only row while photo caption shows QO1PAF; 2012 list shows QO1PAF ($43.50). Confirm supersession.",
+  "doc_numbers": [
+   "Digest Section 1 (2024)"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
+ },
+ {
+  "id": "LEAD-0151",
+  "priority": 3,
+  "topic": "Siemens ECQL1 / ECQTH2-ECQTH3 table error",
+  "detail": "SPEEDFAX Sect. 7 p.7-158 prints ECQTH2/ECQTH3 under both Handle Tie and Handle Blocking Device; photos caption ECQL1 and ECBX231M as handle blocking devices. Verify with Siemens price book.",
+  "doc_numbers": [
+   "SF-17-Sect-07"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
+ },
+ {
+  "id": "LEAD-0152",
+  "priority": 3,
+  "topic": "Eaton Power Defense PDG2/PDG3 handle padlock and lockoff kits",
+  "detail": "Panelboard Mod 16 lists lockoffs for PDG2xF/xG, PDD2, PDG3xG, PDG4xG but no catalog numbers were extracted; pull Power Defense accessory tables (CA08100005E Tab 27 / PDG accessory guide).",
+  "doc_numbers": [
+   "CA08100005E"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
+ },
+ {
+  "id": "LEAD-0153",
+  "priority": 4,
+  "topic": "Eaton Series C F/J/K remaining field kits",
+  "detail": "Only F-frame pigtail aux/shunt/UVR field kits recorded (Tables 12-397, 12-422, 12-438); J/K/L/N tables (12-399..12-443) remain to be extracted if needed.",
+  "doc_numbers": [
+   "CA08101001E"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
+ },
+ {
+  "id": "LEAD-0154",
+  "priority": 4,
+  "topic": "Square D EDPA/EDPAF vs HPAFD",
+  "detail": "HPAFD is the OEM-listed EDB/EGB/EJB padlock attachment (Class 0515 bulletin); EDPA/EDPAF appear only in distributor listings. Confirm relationship.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0018-breaker-installation-accessories"
  }
 ]

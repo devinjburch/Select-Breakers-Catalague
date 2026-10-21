@@ -5,10 +5,10 @@
   "name": "Pow-R-Line 1a",
   "code": "PRL1A",
   "aliases": [
-   "PRL1a",
+   "POW-R-LINE 1A",
    "PRL-1A",
-   "Pow-R-Line 1a",
-   "POW-R-LINE 1A"
+   "PRL1a",
+   "Pow-R-Line 1a"
   ],
   "brand_markings": [
    "Cutler-Hammer",
@@ -142,8 +142,8 @@
   "name": "Pow-R-Line 2a",
   "code": "PRL2A",
   "aliases": [
-   "PRL2a",
    "PRL-2A",
+   "PRL2a",
    "Pow-R-Line 2a"
   ],
   "brand_markings": [
@@ -4763,16 +4763,16 @@
   "name": "A-Series Power Panelboards / A-Series II Power Panel (Types AQP, AEP, ADP; 'Type P & N')",
   "code": "A-SERIES-PWR",
   "aliases": [
-   "AQP",
-   "AEP",
-   "ADP",
    "A-Series II Powerpanel",
-   "AD/AE/AQ Type P & N Power Panel"
+   "AD/AE/AQ Type P & N Power Panel",
+   "ADP",
+   "AEP",
+   "AQP"
   ],
   "brand_markings": [
+   "ABB",
    "GE",
-   "GE Industrial Solutions",
-   "ABB"
+   "GE Industrial Solutions"
   ],
   "equipment_type": "panelboard",
   "overview": "Power-panel version of the A-Series: 30 in wide x 8 in deep box, single-piece deadfront (no filler plates needed per catalog), up to 600 A branch device, staggered center-mounted SF/SG breakers. Field breaker kits ASPP6xxxx (DEH40150-DEH40158) are installed into 'Un-Specified Space' on the interior, bolting branch bases/straps to the main bus next to the crossbar and replacing a blank shield insert on the deadfront with a breaker-specific filler plate.",
@@ -4847,9 +4847,9 @@
   "name": "A-Series Column Panelboards (ALC, AQC, AEC)",
   "code": "A-SERIES-COL",
   "aliases": [
+   "AEC",
    "ALC",
-   "AQC",
-   "AEC"
+   "AQC"
   ],
   "brand_markings": [
    "GE"

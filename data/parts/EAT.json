@@ -63780,6 +63780,7 @@
   "component_type": "handle-lock",
   "family_ids": [
    "FAM-EAT-001",
+   "FAM-EAT-002",
    "FAM-EAT-003"
   ],
   "breaker_ids": [
@@ -63806,6 +63807,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0001-eaton-prl-panelboards"
+    },
+    {
+     "value": "BAB 1-pole lock off (non-padlockable); Pow-R-Kit max order qty 10.",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63817,6 +63828,18 @@
      ],
      "basis": "oem_spec",
      "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BAB 1-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63834,7 +63857,8 @@
    "SRC-00004"
   ],
   "batches": [
-   "B0001-eaton-prl-panelboards"
+   "B0001-eaton-prl-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -63848,6 +63872,7 @@
   "component_type": "handle-lock",
   "family_ids": [
    "FAM-EAT-001",
+   "FAM-EAT-002",
    "FAM-EAT-003"
   ],
   "breaker_ids": [
@@ -63874,6 +63899,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0001-eaton-prl-panelboards"
+    },
+    {
+     "value": "BAB 2- and 3-pole lock off (non-padlockable); Pow-R-Kit max order qty 5.",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ],
    "status": [
@@ -63885,6 +63920,18 @@
      ],
      "basis": "oem_spec",
      "batch": "B0001-eaton-prl-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BAB 2- and 3-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
     }
    ]
   },
@@ -63902,7 +63949,8 @@
    "SRC-00004"
   ],
   "batches": [
-   "B0001-eaton-prl-panelboards"
+   "B0001-eaton-prl-panelboards",
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -118443,6 +118491,7435 @@
   ],
   "batches": [
    "B0016-aftermarket-retrofit"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00920",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QL1NPL",
+  "title": "Eaton Handle lock, non-padlockable, QUICKLAG Type P, B, C single-pole",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QL1NPL",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock, non-padlockable, QUICKLAG Type P, B, C single-pole (locks ON or OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "non-padlockable, QUICKLAG Type P, B, C single-pole (locks ON or OFF)",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Order in multiples of 10",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00921",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QL23NPL",
+  "title": "Eaton Handle lock, non-padlockable, QUICKLAG Type P, B, C two- and three-pole",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QL23NPL",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock, non-padlockable, QUICKLAG Type P, B, C two- and three-pole (locks ON or OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "non-padlockable, QUICKLAG Type P, B, C two- and three-pole (locks ON or OFF)",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Order in multiples of 10",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00922",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QL1PL",
+  "title": "Eaton Handle lock, padlockable, QUICKLAG Type P, B, C single-pole",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QL1PL",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock, padlockable, QUICKLAG Type P, B, C single-pole (locks ON or OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "padlockable, QUICKLAG Type P, B, C single-pole (locks ON or OFF)",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Order in multiples of 10",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00923",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QL123PL",
+  "title": "Eaton Handle lock, padlockable, QUICKLAG Type P, B and ground fault single-, two- and three-pole",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QL123PL",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock, padlockable, QUICKLAG Type P, B and ground fault single-, two- and three-pole (locks ON or OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "padlockable, QUICKLAG Type P, B and ground fault single-, two- and three-pole (locks ON or OFF)",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Order in multiples of 10",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "QUICKLAG Type B = BAB/QBHW (bolt-on), Type P = HQP/QPHW (plug-on), Type C = QC cable-in/cable-out."
+  ],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00924",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QC123PL",
+  "title": "Eaton Handle lock, padlockable, QUICKLAG Type C single-, two- and three-pole",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QC123PL",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock, padlockable, QUICKLAG Type C single-, two- and three-pole.",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "padlockable, QUICKLAG Type C single-, two- and three-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Order in multiples of 10",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00925",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QL123PLOFF",
+  "title": "Eaton Handle lock, padlockable, QUICKLAG Type P, B single-, two- and three-pole",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QL123PLOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock, padlockable, QUICKLAG Type P, B single-, two- and three-pole (OFF only).",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "padlockable, QUICKLAG Type P, B single-, two- and three-pole (OFF only)",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Order in multiples of 10",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00926",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QC123PLOFF",
+  "title": "Eaton Handle lock, padlockable, QUICKLAG Type C single-, two- and three-pole",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QC123PLOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Handle lock, padlockable, QUICKLAG Type C single-, two- and three-pole (OFF only).",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "padlockable, QUICKLAG Type C single-, two- and three-pole (OFF only)",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Order in multiples of 10",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00927",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QL1HT",
+  "title": "Eaton QUICKLAG handle tie - single-pole",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QL1HT",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "QUICKLAG handle tie - single-pole.",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QUICKLAG",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Order in multiples of 100",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-43 Accessories (Handle Locks) / V4-T1-45 (Handle Tie)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00928",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QLLDTSA",
+  "title": "Eaton QUICKLAG terminal screw, terminal type 1",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QLLDTSA",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Spare terminal hardware: QUICKLAG terminal screw, terminal type 1 (lugs not included); order in multiples of 10.",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00929",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QLLDTSB",
+  "title": "Eaton QUICKLAG terminal screw, terminal type 2",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QLLDTSB",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Spare terminal hardware: QUICKLAG terminal screw, terminal type 2 (lugs not included); order in multiples of 10.",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00930",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QLLDTSC",
+  "title": "Eaton QUICKLAG terminal screw, terminal type 3",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QLLDTSC",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Spare terminal hardware: QUICKLAG terminal screw, terminal type 3 (lugs not included); order in multiples of 10.",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00931",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QLBHTSE",
+  "title": "Eaton QUICKLAG binding head terminal screw and clamp, terminal type 5",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QLBHTSE",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Spare terminal hardware: QUICKLAG binding head terminal screw and clamp, terminal type 5 (lugs not included); order in multiples of 10.",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00932",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "QLLNTSFG",
+  "title": "Eaton QUICKLAG terminal screw, terminal types 6 and 7",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-001",
+   "BRK-EAT-002"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "QLLNTSFG",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Spare terminal hardware: QUICKLAG terminal screw, terminal types 6 and 7 (lugs not included); order in multiples of 10.",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch",
+     "conf": "A",
+     "src": [
+      "SRC-00643"
+     ],
+     "page": "p. V4-T1-46, Spare Terminal Hardware Screws (Lugs not Included)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00643"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00933",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "70010RBB8G",
+  "title": "Eaton PRL1a/2a/3a breaker mounting screws (10-32 x .56 hex head)",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "70010RBB8G",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "PRL1a/2a/3a breaker mounting screws (10-32 x .56 hex head) (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00934",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "70030KBDBR",
+  "title": "Eaton PRL1a/2a/3a DF (deadfront) assembly screws (1/4-20 x .75 square rec.)",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "70030KBDBR",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "PRL1a/2a/3a DF (deadfront) assembly screws (1/4-20 x .75 square rec.) (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00935",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "70032SBB8D",
+  "title": "Eaton PRL1a/2a/3a DF mounting screws (10-32 x .38 hex head)",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "70032SBB8D",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "PRL1a/2a/3a DF mounting screws (10-32 x .38 hex head) (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00936",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "6725D41H30",
+  "title": "Eaton Directory card envelope",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "6725D41H30",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Directory card envelope (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00937",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "114B361H01",
+  "title": "Eaton Directory card",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "114B361H01",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Directory card (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00938",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "267P963H01",
+  "title": "Eaton Number tabs (1-42)",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "267P963H01",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Number tabs (1-42) (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00939",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "267P963H02",
+  "title": "Eaton Number tabs (43-84)",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "267P963H02",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Number tabs (43-84) (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00940",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "70010DCBCH",
+  "title": "Eaton PRL4/PRLC dead front cover screws (1/4-20 x .50)",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "70010DCBCH",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "PRL4/PRLC dead front cover screws (1/4-20 x .50) (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00941",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "1A84774H01",
+  "title": "Eaton PRLC switchboard cover screws (1/4-20 x 1.50)",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-017"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "1A84774H01",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "PRLC switchboard cover screws (1/4-20 x 1.50) (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00942",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "70210AL616",
+  "title": "Eaton EZ box 1/4-20 hex flange mounting nut",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "70210AL616",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EZ box 1/4-20 hex flange mounting nut (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00943",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "1A85195H01",
+  "title": "Eaton EZ Trim anti-lift slide bracket",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "1A85195H01",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EZ Trim anti-lift slide bracket (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00944",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "70010RBBB8P",
+  "title": "Eaton EZ Trim anti-lift slide bracket 10-32 screw",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-003"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "70010RBBB8P",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "EZ Trim anti-lift slide bracket 10-32 screw (Pow-R-Kit renewal part list, RP01414001E).",
+     "conf": "A",
+     "src": [
+      "SRC-00004"
+     ],
+     "page": "p. 12, Table 25 Pow-R-Kit Parts Order Form",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Part 70010RBBB8P printed with \"RBBB8P\" (vs 70010RBB8G) - verify spelling."
+  ],
+  "source_ids": [
+   "SRC-00004"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00945",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "1294C01H01",
+  "title": "Eaton lock dog (non-padlockable), G-frame GD/GHC/GHB/GMCP",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-059",
+   "BRK-EAT-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "1294C01H01",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Lock dog (non-padlockable) for G-frame GD/GHC/GHB/GMCP; 1 unit per package.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "GD, GHC, GHB, GMCP",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00946",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "1223C77G03",
+  "title": "Eaton padlockable handle device, G-frame GD/GHC/GHB (pkg 10)",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-059",
+   "BRK-EAT-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "1223C77G03",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable G-frame handle device; accepts .285 lock shank; padlockable in the OFF position only; 10 units per package.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "GD, GHC, GHB",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table lists G03 and G05 both as 10-unit packages - difference between G03 and G05 not stated."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00947",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "1223C77G05",
+  "title": "Eaton padlockable handle device, G-frame GD/GHC/GHB (pkg 10)",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-059",
+   "BRK-EAT-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "1223C77G05",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable G-frame handle device; accepts .285 lock shank; padlockable in the OFF position only; 10 units per package.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "GD, GHC, GHB",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table lists G03 and G05 both as 10-unit packages - difference between G03 and G05 not stated."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00948",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "1223C77G06",
+  "title": "Eaton padlockable handle device, G-frame GD/GHC/GHB (pkg 100)",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-059",
+   "BRK-EAT-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "1223C77G06",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable G-frame handle device; accepts .285 lock shank; padlockable in the OFF position only; 100 units per package.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "GD, GHC, GHB",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-475",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table lists G03 and G05 both as 10-unit packages - difference between G03 and G05 not stated."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00949",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "LKD1",
+  "title": "Eaton non-padlockable handle block, F-frame",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LKD1",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Non-padlockable handle block: secures breaker handle in ON or OFF; positioned over handle and secured by setscrew; trip-free.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "Field installation only; listed per UL File E7819",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00950",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "LKD3",
+  "title": "Eaton non-padlockable handle block, J, K-frame",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-006",
+   "BRK-EAT-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LKD3",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Non-padlockable handle block: secures breaker handle in ON or OFF; positioned over handle and secured by setscrew; trip-free.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C J, K-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "Field installation only; listed per UL File E7819",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00951",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "LKD4",
+  "title": "Eaton non-padlockable handle block, L, M, N-frame",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-008",
+   "BRK-EAT-010",
+   "BRK-EAT-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LKD4",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Non-padlockable handle block: secures breaker handle in ON or OFF; positioned over handle and secured by setscrew; trip-free.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C L, M, N-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-474",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "install_doc": [
+    {
+     "value": "Field installation only; listed per UL File E7819",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00952",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "GPHBOFF",
+  "title": "Eaton padlockable handle lock (handle block), G-frame",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-059",
+   "BRK-EAT-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "GPHBOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-476",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock positioned in the cover opening to prevent handle movement; accommodates one 5/16 in (8 mm) padlock.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-476",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C G-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-476",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-476",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00953",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PHB3",
+  "title": "Eaton padlockable handle lock (handle block), J, K-frame",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-006",
+   "BRK-EAT-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PHB3",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-476",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock positioned in the cover opening to prevent handle movement; accommodates one 5/16 in (8 mm) padlock.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-476",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C J, K-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-476",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices) Table 12-476",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00954",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PHL1",
+  "title": "Eaton padlockable handle lock hasp, F-frame 1-pole breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PHL1",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices); p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: F-frame 1-pole breakers (also Snap-on Padlockable Handle Lock Hasp, Table 12-477: snaps onto escutcheon with optional retaining screw, one padlock 1/4 in shackle; designed for 1-pole but usable on 1-4 pole).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices); p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices); p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-251, Tables 12-473..12-477 (Series C External Accessories, Handle Locking and Blocking Devices); p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00955",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK1",
+  "title": "Eaton padlockable handle lock hasp, F-frame 2-, 3-, 4-pole breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK1",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: F-frame 2-, 3-, 4-pole breakers.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00956",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK1LOFF",
+  "title": "Eaton padlockable handle lock hasp, F-frame, left side mounting, OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK1LOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: F-frame, left side mounting, OFF only.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00957",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK1ROFF",
+  "title": "Eaton padlockable handle lock hasp, F-frame, right side mounting, OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK1ROFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: F-frame, right side mounting, OFF only.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00958",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK3",
+  "title": "Eaton padlockable handle lock hasp, J-, K-frame 2-, 3-, 4-pole",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-006",
+   "BRK-EAT-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK3",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: J-, K-frame 2-, 3-, 4-pole.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C J, K-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00959",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK3LOFF",
+  "title": "Eaton padlockable handle lock hasp, J-, K-frame left side mounting, OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-006",
+   "BRK-EAT-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK3LOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: J-, K-frame left side mounting, OFF only.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C J, K-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00960",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK3ROFF",
+  "title": "Eaton padlockable handle lock hasp, J-, K-frame right side mounting, OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-006",
+   "BRK-EAT-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK3ROFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: J-, K-frame right side mounting, OFF only.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C J, K-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00961",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "HLK4",
+  "title": "Eaton padlockable handle lock hasp, L-frame side mounted / M-frame, lock ON or OFF",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-008",
+   "BRK-EAT-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HLK4",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: L-frame side mounted / M-frame, lock ON or OFF.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C L, M-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00962",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "HLK4LOFF",
+  "title": "Eaton padlockable handle lock hasp, L-/M-frame, lock OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-008",
+   "BRK-EAT-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HLK4LOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: L-/M-frame, lock OFF only (left-hand mount).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C L, M-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00963",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "HLK4S",
+  "title": "Eaton padlockable handle lock hasp, L-frame top mounted / M-frame vertical mounting, lock ON or OFF",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-008",
+   "BRK-EAT-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HLK4S",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: L-frame top mounted / M-frame vertical mounting, lock ON or OFF.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C L, M-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00964",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "HLK4SOFF",
+  "title": "Eaton padlockable handle lock hasp, L-frame top mounted / M-frame vertical, lock OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-008",
+   "BRK-EAT-010"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HLK4SOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: L-frame top mounted / M-frame vertical, lock OFF only.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C L, M-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00965",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK5",
+  "title": "Eaton padlockable handle lock hasp, N-frame side mounted",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-011",
+   "BRK-EAT-063"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK5",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: N-frame side mounted (also Series G NG padlockable hasp per Table 12-117).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C N-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00966",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK5S",
+  "title": "Eaton padlockable handle lock hasp, N-frame top mounted",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK5S",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: N-frame top mounted (ON/OFF).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C N-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00967",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "PLK5SOFF",
+  "title": "Eaton padlockable handle lock hasp, N-frame top mounted",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK5SOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: N-frame top mounted (OFF only).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C N-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00968",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "HLK6",
+  "title": "Eaton padlockable handle lock hasp, R-frame lock ON/OFF",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-058"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HLK6",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: R-frame lock ON/OFF.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C R-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00969",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "HLK6OFF",
+  "title": "Eaton padlockable handle lock hasp, R-frame lock OFF only",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-058"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "HLK6OFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp: mounts on breaker cover within trimline (cover predrilled both sides of handle); accommodates up to three padlocks with 1/4 in shackles; trip-free; listed UL E7819, field installation only. Application: R-frame lock OFF only.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C R-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-252, Table 12-478 Padlockable Handle Lock Hasp",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00970",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "EFHB",
+  "title": "Eaton Series G Non-padlockable handle block, EG",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-060"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "EFHB",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Non-padlockable handle block, EG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G EG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00971",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "EFPHB",
+  "title": "Eaton Series G Padlockable handle block, EG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-060"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "EFPHB",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle block, EG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G EG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00972",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "EFPHBOFF",
+  "title": "Eaton Series G Padlockable handle block OFF-only, EG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-060"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "EFPHBOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle block OFF-only, EG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G EG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00973",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "FJPHBOFF",
+  "title": "Eaton Series G Padlockable handle block OFF-only, JG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-061"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FJPHBOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle block OFF-only, JG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G JG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00974",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "LBHPOFF",
+  "title": "Eaton Series G Padlockable handle block OFF-only, LG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-062"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LBHPOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle block OFF-only, LG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G LG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00975",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "EFPHL",
+  "title": "Eaton Series G Padlockable handle lock hasp, EG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-060"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "EFPHL",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp, EG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G EG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00976",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "FJPHL",
+  "title": "Eaton Series G Padlockable handle lock hasp, JG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-061"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FJPHL",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp, JG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G JG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00977",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "LPHL",
+  "title": "Eaton Series G Padlockable handle lock hasp, LG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-062"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LPHL",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp, LG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G LG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00978",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "EFPHLOFF",
+  "title": "Eaton Series G Padlockable handle lock hasp OFF-only, EG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-060"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "EFPHLOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp OFF-only, EG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G EG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00979",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "FJPHLOFF",
+  "title": "Eaton Series G Padlockable handle lock hasp OFF-only, JG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-061"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "FJPHLOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp OFF-only, JG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G JG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00980",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "LPHLOFF",
+  "title": "Eaton Series G Padlockable handle lock hasp OFF-only, LG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-062"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "LPHLOFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp OFF-only, LG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G LG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00981",
+  "mfr": "EAT",
+  "brand_marking": "Eaton",
+  "oem_part_number": "PLK55OFF",
+  "title": "Eaton Series G Padlockable handle lock hasp OFF-only, NG",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005",
+   "FAM-EAT-001",
+   "FAM-EAT-002",
+   "FAM-EAT-006",
+   "FAM-EAT-007"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-063"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "PLK55OFF",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Padlockable handle lock hasp OFF-only, NG (field fit).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series G NG-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-64, Table 12-117 External Accessories (Series G), all \"Field\" fit type",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Table 12-117 lists LKD4 as NG non-padlockable handle block and HLK6/HLK6OFF for RG."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00982",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "A1X1PK",
+  "title": "Eaton F-frame 1A/1B auxiliary switch field kit",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "A1X1PK",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "1A/1B auxiliary switch field kit, pigtail leads, left or right pole. Not listed with UL for field installation; 18 AWG pigtail leads.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame (not 4-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00983",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "E1X1PK",
+  "title": "Eaton F-frame 1A/1B auxiliary switch field kit (low-level/electronic circuit rated 125 V max)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "E1X1PK",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "1A/1B auxiliary switch field kit (low-level/electronic circuit rated 125 V max), pigtail, left pole. Not listed with UL for field installation; 18 AWG pigtail leads.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame (not 4-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00984",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "A2X1LPK",
+  "title": "Eaton F-frame 2A/2B auxiliary switch field kit",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "A2X1LPK",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "2A/2B auxiliary switch field kit, pigtail, left pole. Not listed with UL for field installation; 18 AWG pigtail leads.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame (not 4-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00985",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "A2X1RPK",
+  "title": "Eaton F-frame 2A/2B auxiliary switch field kit",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "A2X1RPK",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "2A/2B auxiliary switch field kit, pigtail, right/neutral pole. Not listed with UL for field installation; 18 AWG pigtail leads.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame (not 4-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00986",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "A1X1LTK",
+  "title": "Eaton F-frame 1A/1B auxiliary switch field kit",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "A1X1LTK",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "1A/1B auxiliary switch field kit, terminal block, left pole. Not listed with UL for field installation; 18 AWG pigtail leads.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame (not 4-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00987",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "A1X1RTK",
+  "title": "Eaton F-frame 1A/1B auxiliary switch field kit",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "A1X1RTK",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "1A/1B auxiliary switch field kit, terminal block, right pole. Not listed with UL for field installation; 18 AWG pigtail leads.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame (not 4-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-397 F-Frame Auxiliary Switch - Field Installation Kits (pigtail leads; not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00988",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "A1X1RPKFDE",
+  "title": "Eaton F-frame 1A/1B auxiliary switch field kit for 3-pole F-frame with electronic trip unit",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "A1X1RPKFDE",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-398",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "1A/1B auxiliary switch field kit for 3-pole F-frame with electronic trip unit, right pole. Not listed with UL for field installation; 18 AWG pigtail leads.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-398",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame (not 4-pole)",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-398",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-224, Table 12-398",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00989",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "SNT1LP03K",
+  "title": "Eaton F-frame shunt trip field kit, 12-24 Vac or dc, left-pole, pigtail",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SNT1LP03K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip field installation kit, left-pole mounting, 12-24 Vac or dc, 18 AWG pigtail leads (terminal-block version SNT1LT03K). Not UL listed for field installation.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame and HMCP (F); not 4-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "12-24 Vac or dc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00990",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "SNT1LP08K",
+  "title": "Eaton F-frame shunt trip field kit, 48-127 Vac or 48-60 Vdc, left-pole, pigtail",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SNT1LP08K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip field installation kit, left-pole mounting, 48-127 Vac or 48-60 Vdc, 18 AWG pigtail leads (terminal-block version SNT1LT08K). Not UL listed for field installation.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame and HMCP (F); not 4-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "48-127 Vac or 48-60 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00991",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "SNT1LP12K",
+  "title": "Eaton F-frame shunt trip field kit, 208-380 Vac or 110-127 Vdc, left-pole, pigtail",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SNT1LP12K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip field installation kit, left-pole mounting, 208-380 Vac or 110-127 Vdc, 18 AWG pigtail leads (terminal-block version SNT1LT12K). Not UL listed for field installation.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame and HMCP (F); not 4-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "208-380 Vac or 110-127 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00992",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "SNT1LP18K",
+  "title": "Eaton F-frame shunt trip field kit, 415-600 Vac or 220-250 Vdc, left-pole, pigtail",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SNT1LP18K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip field installation kit, left-pole mounting, 415-600 Vac or 220-250 Vdc, 18 AWG pigtail leads (terminal-block version SNT1LT18K). Not UL listed for field installation.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame and HMCP (F); not 4-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "415-600 Vac or 220-250 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00993",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "SNT1RP03K",
+  "title": "Eaton F-frame shunt trip field kit, 12-24 Vac or dc, right/neutral-pole, pigtail",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SNT1RP03K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip field installation kit, right/neutral-pole mounting, 12-24 Vac or dc, 18 AWG pigtail leads (terminal-block version SNT1RT03K). Not UL listed for field installation.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame and HMCP (F); not 4-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "12-24 Vac or dc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00994",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "SNT1RP08K",
+  "title": "Eaton F-frame shunt trip field kit, 48-127 Vac or 48-60 Vdc, right/neutral-pole, pigtail",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SNT1RP08K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip field installation kit, right/neutral-pole mounting, 48-127 Vac or 48-60 Vdc, 18 AWG pigtail leads (terminal-block version SNT1RT08K). Not UL listed for field installation.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame and HMCP (F); not 4-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "48-127 Vac or 48-60 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00995",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "SNT1RP12K",
+  "title": "Eaton F-frame shunt trip field kit, 208-380 Vac or 110-127 Vdc, right/neutral-pole, pigtail",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SNT1RP12K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip field installation kit, right/neutral-pole mounting, 208-380 Vac or 110-127 Vdc, 18 AWG pigtail leads (terminal-block version SNT1RT12K). Not UL listed for field installation.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame and HMCP (F); not 4-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "208-380 Vac or 110-127 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00996",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "SNT1RP18K",
+  "title": "Eaton F-frame shunt trip field kit, 415-600 Vac or 220-250 Vdc, right/neutral-pole, pigtail",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "SNT1RP18K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Shunt trip field installation kit, right/neutral-pole mounting, 415-600 Vac or 220-250 Vdc, 18 AWG pigtail leads (terminal-block version SNT1RT18K). Not UL listed for field installation.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame and HMCP (F); not 4-pole",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "415-600 Vac or 220-250 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-228, Table 12-422 F-Frame and HMCP (F) Shunt Trip - Field Installation Kits (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00997",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "UVH1LP08K",
+  "title": "Eaton F-frame undervoltage release field kit, 110-127 Vac, left pole",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "UVH1LP08K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release mechanism field installation kit, pigtail leads, 110-127 Vac, left pole (terminal block version UVH1xT..K; HMCP version prefixed M).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "110-127 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00998",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "UVH1LP11K",
+  "title": "Eaton F-frame undervoltage release field kit, 208-240 Vac, left pole",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "UVH1LP11K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release mechanism field installation kit, pigtail leads, 208-240 Vac, left pole (terminal block version UVH1xT..K; HMCP version prefixed M).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "208-240 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00999",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "UVH1LP15K",
+  "title": "Eaton F-frame undervoltage release field kit, 380-480 Vac, left pole",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "UVH1LP15K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release mechanism field installation kit, pigtail leads, 380-480 Vac, left pole (terminal block version UVH1xT..K; HMCP version prefixed M).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "380-480 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01000",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "UVH1RP08K",
+  "title": "Eaton F-frame undervoltage release field kit, 110-127 Vac, right pole",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "UVH1RP08K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release mechanism field installation kit, pigtail leads, 110-127 Vac, right pole (terminal block version UVH1xT..K; HMCP version prefixed M).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "110-127 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01001",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "UVH1RP11K",
+  "title": "Eaton F-frame undervoltage release field kit, 208-240 Vac, right pole",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "UVH1RP11K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release mechanism field installation kit, pigtail leads, 208-240 Vac, right pole (terminal block version UVH1xT..K; HMCP version prefixed M).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "208-240 Vac",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01002",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "UVH1LP21K",
+  "title": "Eaton F-frame undervoltage release field kit, 24 Vdc, left pole",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-EAT-003",
+   "FAM-EAT-008",
+   "FAM-EAT-005"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "UVH1LP21K",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Undervoltage release mechanism field installation kit, pigtail leads, 24 Vdc, left pole (terminal block version UVH1xT..K; HMCP version prefixed M).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Series C F-frame",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "24 Vdc",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-236, Table 12-438 F-Frame Field Mounted Undervoltage Release Mechanism (not UL listed for field installation)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01003",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "624B375G23",
+  "title": "Eaton base mounting hardware, G-frame",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-059",
+   "BRK-EAT-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "624B375G23",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: G-frame mounting screw .138-32 x 2.63 in (std).",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01004",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "8703C80G05",
+  "title": "Eaton base mounting hardware, G-frame",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-059",
+   "BRK-EAT-003"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "8703C80G05",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: G-frame mounting screw .138-32 x 3.00 in.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01005",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "624B375G01",
+  "title": "Eaton base mounting hardware, F-frame 1-pole",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "624B375G01",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: F-frame 1-pole .164-32 x 3.188 in pan-head screws, lockwashers and clamps, individual.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01006",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "624B375G02",
+  "title": "Eaton base mounting hardware, F-frame 1-pole",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "624B375G02",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: F-frame 1-pole .164-32 x 3.188 in pan-head screws, lockwashers and clamps, group.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01007",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "4218B80G01",
+  "title": "Eaton base mounting hardware, F-frame 2-pole",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "4218B80G01",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: F-frame 2-pole .164-32 x 1.5 in pan-head screws and lockwashers.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01008",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "BMH1",
+  "title": "Eaton base mounting hardware, F-frame 3/4-pole",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-004"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BMH1",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: F-frame 3/4-pole .164-32 x 1.5 in pan-head screws and lockwashers.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01009",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "BMH2",
+  "title": "Eaton base mounting hardware, J-frame",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-006"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BMH2",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: J-frame .250-20 x 2.75 in pan-head screws and lockwashers.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01010",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "BMH3",
+  "title": "Eaton base mounting hardware, K-frame",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-007"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BMH3",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: K-frame .250-20 x 1.5 in pan-head screws and lockwashers.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01011",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "BMH4",
+  "title": "Eaton base mounting hardware, L-frame",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-008"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BMH4",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: L-frame .250-20 x 1.5 in filister-head screws, lockwashers, flat washers.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-01012",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "BMH5",
+  "title": "Eaton base mounting hardware, M/N-frame",
+  "component_type": "fastener",
+  "family_ids": [],
+  "breaker_ids": [
+   "BRK-EAT-010",
+   "BRK-EAT-011"
+  ],
+  "claims": {
+   "oem_part_number": [
+    {
+     "value": "BMH5",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "description": [
+    {
+     "value": "Base (surface) mounting hardware: M/N-frame .3125-18 x 1.25 in screws and lockwashers.",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ],
+   "application": [
+    {
+     "value": "accessory",
+     "conf": "A",
+     "src": [
+      "SRC-00116"
+     ],
+     "page": "p. 12-254, Tables 12-457/12-458 Base Mounting Hardware (surface mounting; supplied only on request)",
+     "basis": "oem_spec",
+     "batch": "B0018-breaker-installation-accessories"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material",
+   "status"
+  ],
+  "questions": [
+   "Surface-mounting hardware for individual/enclosed mounting; confirm whether used for panelboard (PRL3a/PRL4) breaker mounting."
+  ],
+  "source_ids": [
+   "SRC-00116"
+  ],
+  "batches": [
+   "B0018-breaker-installation-accessories"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

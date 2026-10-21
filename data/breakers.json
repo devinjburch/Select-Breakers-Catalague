@@ -6,18 +6,18 @@
   "aliases": [
    "BA",
    "BAB",
-   "QBH",
-   "QBHW",
-   "QBGF",
-   "QBHGF",
-   "QBGFEP",
-   "QBHGFEP",
+   "BAB-C",
+   "BAB-D",
    "BABRP",
    "BABRSP",
-   "BAB-D",
-   "BAB-C",
    "QBCAF",
-   "QBHCAF"
+   "QBGF",
+   "QBGFEP",
+   "QBH",
+   "QBHCAF",
+   "QBHGF",
+   "QBHGFEP",
+   "QBHW"
   ],
   "claims": {
    "mounting": [
@@ -104,8 +104,8 @@
   },
   "family_ids": [
    "FAM-EAT-001",
-   "FAM-EAT-006",
    "FAM-EAT-003",
+   "FAM-EAT-006",
    "FAM-EAT-008",
    "FAM-EAT-011"
   ],
@@ -120,12 +120,12 @@
   "name": "QUICKLAG plug-on (HQP/QPHW family)",
   "aliases": [
    "HQP",
-   "QPHW",
    "QHPX",
    "QPGF",
-   "QPHGF",
    "QPGFEP",
-   "QPHGFEP"
+   "QPHGF",
+   "QPHGFEP",
+   "QPHW"
   ],
   "claims": {
    "mounting": [
@@ -214,11 +214,11 @@
   "aliases": [
    "GB",
    "GHB",
-   "GHQ",
-   "GHBS",
-   "HGHB",
    "GHBGFEP",
-   "GHQRSP"
+   "GHBS",
+   "GHQ",
+   "GHQRSP",
+   "HGHB"
   ],
   "claims": {
    "mounting": [
@@ -292,8 +292,8 @@
   },
   "family_ids": [
    "FAM-EAT-002",
-   "FAM-EAT-007",
    "FAM-EAT-003",
+   "FAM-EAT-007",
    "FAM-EAT-008",
    "FAM-EAT-011"
   ],
@@ -308,15 +308,15 @@
   "name": "Series C F-frame (EHD/FDB/FD/HFD/FDC)",
   "aliases": [
    "EHD",
-   "FDB",
    "FD",
-   "HFD",
+   "FD/LFD",
+   "FDB",
    "FDC",
-   "FDE",
-   "HFDE",
    "FDCE",
-   "LFD",
-   "FD/LFD"
+   "FDE",
+   "HFD",
+   "HFDE",
+   "LFD"
   ],
   "claims": {
    "mounting": [
@@ -523,11 +523,11 @@
   "mfr": "EAT",
   "name": "Series C J-frame (JD/JDB/HJD/JDC)",
   "aliases": [
+   "HJD",
+   "HJDDC",
    "JD",
    "JDB",
-   "HJD",
-   "JDC",
-   "HJDDC"
+   "JDC"
   ],
   "claims": {
    "mounting": [
@@ -623,14 +623,14 @@
   "mfr": "EAT",
   "name": "Series C K-frame (DK/KD/KDB/HKD/KDC, CKD/CHKD 100%)",
   "aliases": [
+   "CHKD",
+   "CKD",
+   "CKDC",
    "DK",
+   "HKD",
    "KD",
    "KDB",
-   "HKD",
-   "KDC",
-   "CKD",
-   "CHKD",
-   "CKDC"
+   "KDC"
   ],
   "claims": {
    "mounting": [
@@ -726,18 +726,18 @@
   "mfr": "EAT",
   "name": "Series C L-frame (LD/LDB/HLD/LDC, CLD/CHLD/CLDC 100%, LC/HLC)",
   "aliases": [
+   "CHLD",
+   "CLD",
+   "CLDC",
+   "HLC",
+   "HLCC",
+   "HLD",
+   "LC",
+   "LCC",
+   "LCY",
    "LD",
    "LDB",
-   "HLD",
-   "LDC",
-   "CLD",
-   "CHLD",
-   "CLDC",
-   "LC",
-   "LCY",
-   "HLC",
-   "LCC",
-   "HLCC"
+   "LDC"
   ],
   "claims": {
    "mounting": [
@@ -932,19 +932,19 @@
   "mfr": "EAT",
   "name": "Series C M-frame (MDL/HMDL, CMDL/CHMDL; MC/HMC; MDS)",
   "aliases": [
-   "MDL",
-   "HMDL",
-   "CMDL",
    "CHMDL",
-   "MC",
-   "MCY",
+   "CMDL",
+   "HMA",
    "HMC",
-   "MCC",
    "HMCC",
-   "MDS",
-   "MDSC",
+   "HMDL",
    "MA",
-   "HMA"
+   "MC",
+   "MCC",
+   "MCY",
+   "MDL",
+   "MDS",
+   "MDSC"
   ],
   "claims": {
    "mounting": [
@@ -1038,21 +1038,21 @@
   "mfr": "EAT",
   "name": "Series C N-frame (ND/HND/NDC, CND/CHND/CNDC; NGS/NGH/NGC; NHH; NC/HNC)",
   "aliases": [
-   "ND",
-   "HND",
-   "NDC",
-   "CND",
    "CHND",
+   "CND",
    "CNDC",
-   "NGS",
-   "NGH",
-   "NGC",
-   "NHH",
+   "HNB",
+   "HNC",
+   "HND",
+   "NB",
    "NC",
    "NCY",
-   "HNC",
-   "NB",
-   "HNB"
+   "ND",
+   "NDC",
+   "NGC",
+   "NGH",
+   "NGS",
+   "NHH"
   ],
   "claims": {
    "mounting": [
@@ -4011,9 +4011,9 @@
   "name": "Series C G-Frame (GD/GHC/GHB)",
   "aliases": [
    "GD",
-   "GHC",
+   "GDB",
    "GHB",
-   "GDB"
+   "GHC"
   ],
   "claims": {
    "frame": [
@@ -4052,12 +4052,12 @@
   "mfr": "EAT",
   "name": "Series G EG-Frame (EGB/EGE/EGS/EGH/EGC)",
   "aliases": [
+   "EG",
    "EGB",
-   "EGE",
-   "EGS",
-   "EGH",
    "EGC",
-   "EG"
+   "EGE",
+   "EGH",
+   "EGS"
   ],
   "claims": {
    "frame": [
@@ -4096,11 +4096,11 @@
   "mfr": "EAT",
   "name": "Series G JG-Frame (JGE/JGS/JGH/JGC)",
   "aliases": [
-   "JGE",
-   "JGS",
-   "JGH",
+   "JG",
    "JGC",
-   "JG"
+   "JGE",
+   "JGH",
+   "JGS"
   ],
   "claims": {
    "frame": [
@@ -4139,11 +4139,11 @@
   "mfr": "EAT",
   "name": "Series G LG-Frame (LGE/LGS/LGH/LGC)",
   "aliases": [
-   "LGE",
-   "LGS",
-   "LGH",
+   "LG",
    "LGC",
-   "LG"
+   "LGE",
+   "LGH",
+   "LGS"
   ],
   "claims": {
    "frame": [
@@ -4182,10 +4182,10 @@
   "mfr": "EAT",
   "name": "Series G NG-Frame",
   "aliases": [
-   "NGS",
-   "NGH",
+   "NG",
    "NGC",
-   "NG"
+   "NGH",
+   "NGS"
   ],
   "claims": {
    "frame": [
@@ -5947,12 +5947,12 @@
   "aliases": [
    "E-150",
    "E150",
+   "TB1",
    "TEB",
+   "TEC",
    "TED",
    "THED",
-   "TEC",
-   "THLC1",
-   "TB1"
+   "THLC1"
   ],
   "claims": {
    "frame": [
@@ -5992,10 +5992,10 @@
   "name": "F225 line (TFJ, TFK, THFK, TFC)",
   "aliases": [
    "F225",
+   "TFC",
    "TFJ",
    "TFK",
    "THFK",
-   "TFC",
    "THLC2"
   ],
   "claims": {
@@ -6025,14 +6025,14 @@
   "aliases": [
    "J400",
    "J600",
+   "TB4",
+   "THJK",
+   "THLC4",
+   "TJC",
+   "TJD",
    "TJJ",
    "TJK",
-   "THJK",
-   "TJD",
-   "TJC",
-   "TB4",
-   "TLB4",
-   "THLC4"
+   "TLB4"
   ],
   "claims": {
    "frame": [
@@ -6072,12 +6072,12 @@
   "name": "K1200 line (TKM, TKMA, THKMA, TK4V, TB6, TB8)",
   "aliases": [
    "K1200",
-   "TKM",
-   "TKMA",
+   "TB6",
+   "TB8",
    "THKMA",
    "TK4V",
-   "TB6",
-   "TB8"
+   "TKM",
+   "TKMA"
   ],
   "claims": {
    "frame": [
@@ -6119,12 +6119,12 @@
   "mfr": "GEA",
   "name": "Spectra RMS SE150",
   "aliases": [
+   "SE1",
    "SE150",
    "SED",
    "SEH",
    "SEL",
-   "SEP",
-   "SE1"
+   "SEP"
   ],
   "claims": {
    "frame": [
@@ -6205,8 +6205,8 @@
   "mfr": "GEA",
   "name": "Spectra RMS SG600",
   "aliases": [
-   "SG600",
    "SG400",
+   "SG600",
    "SGD",
    "SGH",
    "SGL",
@@ -6251,10 +6251,10 @@
   "aliases": [
    "SK1200",
    "SK800",
+   "SKD",
    "SKH",
    "SKL",
-   "SKP",
-   "SKD"
+   "SKP"
   ],
   "claims": {
    "frame": [
@@ -6294,9 +6294,9 @@
   "name": "Record Plus FB 100",
   "aliases": [
    "FB100",
+   "FBH",
    "FBN",
-   "FBV",
-   "FBH"
+   "FBV"
   ],
   "claims": {
    "frame": [
@@ -6452,11 +6452,11 @@
   "mfr": "GEA",
   "name": "GE TQ / TQL / TQC / TQB / TBQ lighting breakers",
   "aliases": [
+   "TBQ",
    "TQ",
-   "TQL",
-   "TQC",
    "TQB",
-   "TBQ"
+   "TQC",
+   "TQL"
   ],
   "claims": {
    "mounting": [
@@ -6869,13 +6869,13 @@
   "mfr": "SIE",
   "name": "BL",
   "aliases": [
-   "BL",
-   "BLH",
-   "HBL",
-   "BLF",
-   "BLE",
    "BAF",
-   "BT twin (B1515/B2020)"
+   "BL",
+   "BLE",
+   "BLF",
+   "BLH",
+   "BT twin (B1515/B2020)",
+   "HBL"
   ],
   "claims": {
    "mounting": [
@@ -7591,16 +7591,16 @@
   "mfr": "SIE",
   "name": "BQ / BQH / HBQ / BQXD bolt-on",
   "aliases": [
-   "BQ",
-   "BQH",
-   "HBQ",
-   "BQHF",
-   "BQE",
-   "BQF",
    "BL",
    "BLH",
+   "BQ",
+   "BQE",
+   "BQF",
+   "BQH",
+   "BQHF",
+   "BQXD",
    "HBL",
-   "BQXD"
+   "HBQ"
   ],
   "claims": {
    "amps": [
@@ -9711,10 +9711,10 @@
   "aliases": [
    "FA",
    "FAL",
-   "FH",
-   "FHL",
    "FC",
    "FCL",
+   "FH",
+   "FHL",
    "FI",
    "FY"
   ],
@@ -9895,8 +9895,8 @@
   "name": "Square D LC/LI/LE/LX/LXI (L-frame 600 A)",
   "aliases": [
    "LC",
-   "LI",
    "LE",
+   "LI",
    "LX",
    "LXI"
   ],
@@ -10034,16 +10034,16 @@
   "name": "Square D PowerPact H-Frame (HD/HG/HJ/HL/HR)",
   "aliases": [
    "HD",
-   "HG",
-   "HJ",
-   "HL",
-   "HR",
+   "HDA",
    "HDL",
+   "HG",
    "HGL",
+   "HJ",
    "HJL",
+   "HL",
    "HLL",
-   "HRL",
-   "HDA"
+   "HR",
+   "HRL"
   ],
   "claims": {
    "frame": [
@@ -10083,16 +10083,16 @@
   "name": "Square D PowerPact J-Frame (JD/JG/JJ/JL/JR)",
   "aliases": [
    "JD",
-   "JG",
-   "JJ",
-   "JL",
-   "JR",
+   "JDA",
    "JDL",
+   "JG",
    "JGL",
+   "JJ",
    "JJL",
+   "JL",
    "JLL",
-   "JRL",
-   "JDA"
+   "JR",
+   "JRL"
   ],
   "claims": {
    "frame": [
@@ -10132,16 +10132,16 @@
   "name": "Square D PowerPact L-Frame (LD/LG/LJ/LL/LR)",
   "aliases": [
    "LD",
-   "LG",
-   "LJ",
-   "LL",
-   "LR",
    "LDL",
+   "LG",
+   "LGA",
    "LGL",
+   "LJ",
    "LJL",
+   "LL",
    "LLL",
-   "LRL",
-   "LGA"
+   "LR",
+   "LRL"
   ],
   "claims": {
    "frame": [
@@ -10442,9 +10442,9 @@
   "name": "EDB / EGB / EJB (E-frame bolt-on)",
   "aliases": [
    "ED",
+   "EDB EPD",
    "EG",
-   "EJ",
-   "EDB EPD"
+   "EJ"
   ],
   "claims": {
    "mounting": [

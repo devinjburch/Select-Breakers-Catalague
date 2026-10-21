@@ -280,6 +280,15 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   USESI_93254_catalog.pdf holds only pp.13-11..13-20 of SPEEDFAX 2011 Section 13 (Switchboards). The rest (SB1/SB2/SB3 main and branch device tables, SMM metering) not found; search assets.usesi.com product-media catalogs for adjacent USESI_932xx files.  
   Docs: SPEEDFAX 2011 Section 13  
   URLs: https://assets.usesi.com/product-media/catalogs/USESI_93254_catalog.pdf
+* **LEAD-0146 — Square D NQ/NQOD back-fed QOB main hold-down** (B0018-breaker-installation-accessories)  
+  NQ catalog 1640CT0801 states 100 A QOB back-fed mains are factory assembled; no field retaining kit number found for NQ/NQOD (loadcenter PK2MB/PK3MB/PK5RK/PK4MB2xA found in Digest Section 1). Find Digest Section 9 NQ accessories table (0100CT2401-SEC-09, se.com blocked) or NQ instruction bulletin for retainer part.  
+  Docs: 0100CT2401-SEC-09, 1640CT0801  
+  URLs: https://download.schneider-electric.com/files?p_Doc_Ref=0100CT2401-SEC-09
+* **LEAD-0147 — Eaton PRL1a/1X back-fed BAB/QBHW main hold-down** (B0018-breaker-installation-accessories)  
+  No OEM hold-down/retainer kit number found for back-fed BAB/GHB mains in Pow-R-Line panels (loadcenter kits BJHDS / BREQS125CS / CH125RB seen only on distributor/retail listings). Check CA08100003E Tab 3 and PRL1X instruction leaflets.  
+  Docs: CA08100003E
+* **LEAD-0148 — GE A-Series THQB/TEY back-fed main retainer** (B0018-breaker-installation-accessories)  
+  No GE retaining kit found in BuyLog Sections 6/11. Search GE A-Series instruction DEH-series for back-fed main hold-down.
 
 ## Priority 3
 
@@ -437,6 +446,19 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Voltage rows in the extracted SPEEDFAX 2011 p.13-16 table may be offset; verify against PDF before relying on voltage per catalog number.  
   Docs: SPEEDFAX 2011 p.13-16  
   URLs: https://assets.usesi.com/product-media/catalogs/USESI_93254_catalog.pdf
+* **LEAD-0149 — Square D PowerPact H/J/L handle padlocks (Digest Section 7)** (B0018-breaker-installation-accessories)  
+  Digest Section 7 (0100CT1501_SEC-07) hosted at iportal2.schneider-electric.com returned HTML (blocked). S29370, HJPA, L-frame padlock numbers (e.g. S29370 for B/H/J/L) known only from search snippets; get OEM table.  
+  Docs: 0100CT1501_SEC-07  
+  URLs: https://iportal2.schneider-electric.com/Contents/docs/0100CT1501_SEC-07.PDF
+* **LEAD-0150 — Square D QO1PAF vs QOADV1PAF** (B0018-breaker-installation-accessories)  
+  2024 Digest Section 1 Table 1.16 prints QOADV1PAF in the standard 1P OFF-only row while photo caption shows QO1PAF; 2012 list shows QO1PAF ($43.50). Confirm supersession.  
+  Docs: Digest Section 1 (2024)
+* **LEAD-0151 — Siemens ECQL1 / ECQTH2-ECQTH3 table error** (B0018-breaker-installation-accessories)  
+  SPEEDFAX Sect. 7 p.7-158 prints ECQTH2/ECQTH3 under both Handle Tie and Handle Blocking Device; photos caption ECQL1 and ECBX231M as handle blocking devices. Verify with Siemens price book.  
+  Docs: SF-17-Sect-07
+* **LEAD-0152 — Eaton Power Defense PDG2/PDG3 handle padlock and lockoff kits** (B0018-breaker-installation-accessories)  
+  Panelboard Mod 16 lists lockoffs for PDG2xF/xG, PDD2, PDG3xG, PDG4xG but no catalog numbers were extracted; pull Power Defense accessory tables (CA08100005E Tab 27 / PDG accessory guide).  
+  Docs: CA08100005E
 
 ## Priority 4
 
@@ -471,4 +493,9 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
   Docs: PBA600, PBA603WP, PBA604, PBA711, PBA555
 * **LEAD-0144 — Unprocessed out-of-scope sheets in bucket** (B0014-siemens-instruction-sheets)  
   Load-center (EC*, LoadCenter_*, EQBreaker, MBK150A-225A EQ8693/8695/8696 main breaker kit, MainBreaker*, QJ main breaker inversion P/N 48100025, Renovation Interior kit 48100108), Power Mod / Uni-Pak meter-stack (PowerMod_*, WPK*, UNIPAK_*, ECRLK250 riser panel lug kit), WL power breaker, 3VA, safety switch (HF/HN/LBR/CFS/VBII, ReplacentLine HFB67/HFB68/HNB678) and AFCI/GFCI sheets were not processed.
+* **LEAD-0153 — Eaton Series C F/J/K remaining field kits** (B0018-breaker-installation-accessories)  
+  Only F-frame pigtail aux/shunt/UVR field kits recorded (Tables 12-397, 12-422, 12-438); J/K/L/N tables (12-399..12-443) remain to be extracted if needed.  
+  Docs: CA08101001E
+* **LEAD-0154 — Square D EDPA/EDPAF vs HPAFD** (B0018-breaker-installation-accessories)  
+  HPAFD is the OEM-listed EDB/EGB/EJB padlock attachment (Class 0515 bulletin); EDPA/EDPAF appear only in distributor listings. Confirm relationship.
 
