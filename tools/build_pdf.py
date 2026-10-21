@@ -406,12 +406,30 @@ class Catalogue:
             story.append(Paragraph("2.6  Identification by physical feature", H2))
             story.append(Paragraph("Parts for which distinguishing physical features are recorded. Use with the "
                                    "dimensions and hole-pattern fields of the entry.", BODY))
-            rows = [[P("Catalogue ID", HDR), P("OEM PN", HDR), P("Features", HDR), P("Pg", HDR)]]
-            for p in sorted(idf, key=lambda x: (x["mfr"], x["component_type"], x["oem_part_number"])):
+            # parts sharing an identical feature description are grouped on one row
+            groups = defaultdict(list)
+            for p in sorted(idf, key=lambda x: (x["mfr"], x["component_type"], norm_pn(x["oem_part_number"]))):
                 c = best(p["claims"]["id_features"])
-                rows.append([P(self.link(p["id"], p["id"])), P(e(p["oem_part_number"])),
-                             P(f"{e(c['value'])} {badge(c['conf'])}"), self.pg(p["id"])])
-            story.append(tbl(rows, [1.15 * inch, 1.2 * inch, 4.25 * inch, 0.4 * inch]))
+                groups[(p["mfr"], c["value"], c["conf"])].append(p)
+            rows = [[P("Mfr", HDR), P("Features", HDR), P("Parts (OEM PN)", HDR)]]
+            for (mfr, val, conf), ps in groups.items():
+                rows.append([P(mfr), P(f"{e(val)} {badge(conf)}"),
+                             P(", ".join(self.link(p["id"], p["oem_part_number"] or p["id"]) for p in ps))])
+            story.append(tbl(rows, [0.45 * inch, 4.35 * inch, 2.5 * inch]))
+        story.append(Paragraph("2.7  Equipment family identification key", H2))
+        story.append(Paragraph("Summary of every equipment family in the database: use era, voltage, main rating and "
+                               "the breaker types fitted to narrow down an unknown panel before looking up hardware. "
+                               "Values are the highest-confidence claim recorded; see the family sheet for evidence.",
+                               BODY))
+        rows = [[P("Family", HDR), P("Mfr", HDR), P("Type", HDR), P("Era", HDR), P("Voltage / mains", HDR),
+                 P("Branch breakers / features", HDR), P("Pg", HDR)]]
+        for f in sorted(self.d["families"], key=lambda f: (f["mfr"], f.get("code") or f["name"])):
+            g = lambda k: (best(f["claims"].get(k)) or {}).get("value", "")
+            volt = "; ".join(x for x in (g("voltage_rating")[:60], g("main_ampacity")[:60]) if x)
+            feat = "; ".join(x for x in (g("branch_breakers")[:110], g("id_features")[:110]) if x)
+            rows.append([P(self.link(f["id"], f.get("code") or f["name"])), P(f["mfr"]), P(e(f["equipment_type"])),
+                         P(e(g("era")[:90]), TINY), P(e(volt), TINY), P(e(feat), TINY), self.pg(f["id"])])
+        story.append(tbl(rows, [1.0 * inch, 0.4 * inch, 0.75 * inch, 1.1 * inch, 1.55 * inch, 2.1 * inch, 0.4 * inch]))
         story.append(PageBreak())
 
     # ---------- manufacturer sections
@@ -474,14 +492,14 @@ class Catalogue:
             for i, c in enumerate(lst):
                 cite = (tuple(c["src"]), c.get("page", ""), c.get("basis", ""))
                 if cite == prev and c["src"]:
-                    lab = FIELD_LABELS.get(fld, fld) if i == 0 else ""
+                    lab = FIELD_LABELS.get(fld, fld.replace("_", " ").capitalize()) if i == 0 else ""
                     note = f' <font size="6.3" color="#5a6875">({e(c["note"])})</font>' if c.get("note") else ""
                     rel = f' <font size="6.3" color="#5a6875">[{e(c["relation"])}]</font>' if c.get("relation") else ""
                     rows.append([P(f"<b>{e(lab)}</b>" if lab else ""), P(e(c["value"]) + rel + note), P(badge(c["conf"])),
                                  P('<font color="#5a6875">same as above</font>', TINY)])
                     continue
                 prev = cite
-                lab = FIELD_LABELS.get(fld, fld) if i == 0 else ""
+                lab = FIELD_LABELS.get(fld, fld.replace("_", " ").capitalize()) if i == 0 else ""
                 extra = []
                 if c.get("relation"):
                     extra.append(c["relation"])
