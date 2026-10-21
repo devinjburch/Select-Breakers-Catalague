@@ -43986,5 +43986,3745 @@
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00396",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75C140025P105",
+  "title": "GE NLAB/NLTQ/DB main bus support, 100-600 A copper bus and 100-225 A aluminum bus",
+  "component_type": "insulator",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Main bus support, 100-600A copper bus and 100-225A alum. bus",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel interior, supporting main bus",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75C140025P105",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00397",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75C140025P106",
+  "title": "GE NLAB/NLTQ/DB main bus support, 400-600 A aluminum bus",
+  "component_type": "insulator",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Main bus support, 400-600A alum. bus",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel interior, supporting main bus",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75C140025P106",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00398",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75C140025P104",
+  "title": "GE NLAB/NLTQ/DB neutral and bus support, 100-225 A",
+  "component_type": "insulator",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Neutral and bus support, 100-225 amp",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel interior, neutral/bus support",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75C140025P104",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00399",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75C140032P134",
+  "title": "GE NLAB/NLTQ/DB neutral support, 400-600 A (2 required)",
+  "component_type": "insulator",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Neutral support 400-600 amp (requires 2 supports)",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75C140032P134",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00400",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75D165029P101T",
+  "title": "GE branch circuit insulator for TBQ and TQL breakers",
+  "component_type": "insulator",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Branch circuit insulator for TBQ and TQL breakers",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75D165029P101T",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00401",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "THL103",
+  "title": "GE breaker handle locking device (non-padlocking) for TQB, TQC and TQL breakers, Model 5",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Breaker handle locking device, non padlocking type for TQB, TQC and TQL breaker - THL103 Model 5",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQB, TQC, TQL",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "THL103",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00402",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TQPLD1",
+  "title": "GE breaker handle padlocking device for TQC breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Breaker handle padlocking device for TQC breakers - TQPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQC",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TQPLD1",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00403",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "THP100",
+  "title": "GE breaker handle padlocking device for TQB and TQL breakers, Model 3",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Breaker handle padlocking device for TQB and TQL breakers - THP100 Model 3",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQB, TQL",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "THP100",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00404",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75C140485P103",
+  "title": "GE screw assembly for bolt-in branch breakers (one per hole), NLAB/NLTQ/DB",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Screw assembly; 'when ordering these breakers, also order one Cat. No. 75C140485P103 screw assembly per hole' (follows breaker rating list 15-100 A)",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75C140485P103",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [
+   "Which breaker type in the list requires the screw assembly (likely bolt-on TQB)?"
+  ],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00405",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75C140045G705",
+  "title": "GE main lug assembly for phase bars and neutral (100/225 A row), NLAB/NLTQ/DB",
+  "component_type": "lug-kit",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Main lugs for phase bars and neutral: 100 A #14-2/0 Cu or Al; 225 A #6-350 MCM Cu or Al - 75C140045G705 (row assignment ambiguous)",
+     "conf": "C",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Main lugs (phase bars and neutral)",
+     "conf": "C",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A or 225 A row (ambiguous)",
+     "conf": "C",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75C140045G705",
+     "conf": "C",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00406",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "763B795P8",
+  "title": "GE main lug (with 763B795P9), 225 A row, NLAB/NLTQ/DB",
+  "component_type": "lug",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Lug listed '(1) 763B795P8 (1) 763B795P9' in main-lug table between 225 A and 400 A rows",
+     "conf": "C",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "763B795P8",
+     "conf": "C",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00407",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "763B795P9",
+  "title": "GE main lug (with 763B795P8), NLAB/NLTQ/DB",
+  "component_type": "lug",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Lug listed '(1) 763B795P8 (1) 763B795P9' in main-lug table",
+     "conf": "C",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "763B795P9",
+     "conf": "C",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00408",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "121B7147P1",
+  "title": "GE main lug 250-600 MCM, 400 A (1 per phase) / 600 A (2 per phase), NLAB/NLTQ/DB",
+  "component_type": "lug",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "400 amp: 1 (250-600 MCM) or 2 (250 MCM) Cu or Al - (1) 121B7147P1; 600 amp: 1 (250-600 MCM) or 2 (250 MCM) Cu or Al per lug, 2 lugs required - (2) 121B7147P1",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "note": "Part-number-to-row mapping inferred from OCR line order in search snippets; verify against the scanned page",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "Used singly for 400 A mains and in pairs for 600 A mains",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "material": [
+    {
+     "value": "Suitable for Al or Cu conductors",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "121B7147P1",
+     "conf": "B",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00409",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "113A5356P1",
+  "title": "GE circuit numbering tabs, circuits 1-24",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Circuit numbering tabs, circuit numbers 1 thru 24",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "113A5356P1",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00410",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "113A5357P1",
+  "title": "GE circuit numbering tabs, circuits 1-42",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Circuit numbering tabs, circuit numbers 1 thru 42",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "113A5357P1",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00411",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75B125198P101",
+  "title": "GE panelboard directory card",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Directory card",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Inside of door",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75B125198P101",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00412",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75A105457",
+  "title": "GE panelboard directory card holder",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Directory card holder",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Inside of door",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75A105457",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00413",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "359L481G1",
+  "title": "GE panelboard trim clamps, package of 4",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Trim clamps, package of 4",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Front (trim) to box attachment; standard fronts use trim clamps, concealed-trim-clamp fronts use 3/16 hex socket screws",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "359L481G1",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00414",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "75V100083P101",
+  "title": "GE panelboard door lock, single-point lever handle type with key",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Door locks: single point lever handle type with key",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard front door",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "75V100083P101",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00415",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "DPJ2185",
+  "title": "GE panelboard door lock, 3-point vault handle type with key",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Door locks: 3-point vault handle type with key",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panelboard front door",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "DPJ2185",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00416",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TEU-1",
+  "title": "GE extra key for panelboard door locks",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Extra key for above locks",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "page": "GEG-13610B renewal parts list",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete (1969 renewal parts list; no current availability found)",
+     "conf": "D",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TEU-1",
+     "conf": "A",
+     "src": [
+      "SRC-00260"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_availability",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00260"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00417",
+  "mfr": "GEA",
+  "brand_marking": "Trumbull",
+  "oem_part_number": "HT-100",
+  "title": "GE/Trumbull handle extension for 2-pole operation (lighting panel breakers)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "HT-100 Handle Extensions for 2 Pole operation - when ordered individually list price $0.40",
+     "conf": "A",
+     "src": [
+      "SRC-00259"
+     ],
+     "page": "GE Supply 1951 pp.442-443",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Single-pole breakers in NLTQ / NLAB panels tied for 2-pole operation",
+     "conf": "B",
+     "src": [
+      "SRC-00259"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete",
+     "conf": "D",
+     "src": [],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HT-100",
+     "conf": "A",
+     "src": [
+      "SRC-00259"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00259"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00418",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "NLAB-TQC3",
+  "title": "GE NLAB 3-pole TQC hardware kit",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-029"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "GEN; NLAB; 3P; TQC; Hardware Kit; Accessory",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TQC 3-pole",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "GE NLAB panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "NLAB-TQC3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Dealer-made code (not a GE catalog format) - what is the GE part?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00419",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TB1DPK",
+  "title": "GE CCB panelboard twin mounting hardware, TB1, 15-150 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-031"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Mounting hardware/CCB panelboard - twin mounted 15-150 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TB1",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A max (spec) / 15-150 A (title)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV1, AV2, CCB, QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TB1DPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00420",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TB4SPK",
+  "title": "GE CCB panelboard single mounting kit, TB4, 125-400 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-031"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Mounting hardware/CCB panelboard - single 125-400A TB4 mounting kit",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TB4",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV Line (spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TB4SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00421",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TB4SBK",
+  "title": "GE hardware kit for TB4 frame (single)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-031"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "GEN; Hardware Kit for TB4 Frame",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TB4",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV1, AV2, CCB, QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TB4SBK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00422",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TB8SPK",
+  "title": "GE CCB panelboard single mounting kit, TB6/TB8, 600-800 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [
+   "BRK-GEA-031"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Mounting hardware/CCB panelboard - single 600-800A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TB6, TB8",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "800 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV1, AV2, CCB, QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TB8SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00423",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TP8SPK",
+  "title": "GE mounting hardware for Tri-Pac 800 A breaker (CCB/AV)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Mounting hardware for Tri Pac 800A breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TB6, TB8 (spec block) / Tri-Pac 800 A (title)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "800 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV1, AV2, CCB, QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TP8SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00424",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TJ6SPK",
+  "title": "GE CCB panelboard single-mounted strap kit, 600 A J-frame",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "MTG HRDWRE/CCB panelboard - single mounted 600A strap kit",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TJD, TJJ, TJK, THJK, TJ4V, TJL4V",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV1, AV2, CCB, QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TJ6SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00425",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "THJV6DPK",
+  "title": "GE CCB panelboard mounting hardware for THJV (listed 'twin mounted')",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "MTG HRDWRE/CCB panelboard - twin mounted",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THJV",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (title twin; spec block single - conflict)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV1, AV2, CCB, QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "THJV6DPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00426",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TED1DPK2",
+  "title": "GE CCB panelboard twin mounting hardware, E-frame 150 A (variant 2)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "MTG HRDWRE/CCB panelboard, twin mounted",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TEB, TED, TEC, THED, SEDA, SEHA, SELA, SEPA",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "150 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV1, AV2, CCB, QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TED1DPK2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "How does TED1DPK2 differ from TED1DPK (already catalogued)?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00427",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "TK9SPK",
+  "title": "GE QMR panel mount for TKL/TKH breakers, 1200 A 600 V",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "1200A 600V QMR panel mount for TKL/TKH breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "TKL, TKH",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "1200 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "TK9SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00428",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "THFP63DPK",
+  "title": "GE QMR panelboard twin mounting hardware for THFP fusible switch, 100 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "MTG HRDWRE/QMR panelboard - twin mount 100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THFP fusible switch",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMR fusible power panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "THFP63DPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00429",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "THFP63SPK",
+  "title": "GE QMR panelboard single mounting hardware for THFP fusible switch, 100 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "MTG HRDWRE/QMR panelboard - single mount 100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THFP fusible switch",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMR fusible power panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "THFP63SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00430",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "THFP64SPK",
+  "title": "GE QMR panelboard single mounting hardware for THFP fusible switch, 200 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "MTG HRDWRE/QMR panelboard - single mount 200 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THFP fusible switch",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "200 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMR fusible power panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "THFP64SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00431",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "THFP65SPK",
+  "title": "GE QMR panelboard single mounting hardware for THFP fusible switch, 400 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "MTG HRDWRE/QMR panelboard - single mount 400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THFP fusible switch",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMR fusible power panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "THFP65SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00432",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "SG6DPK",
+  "title": "GE SG-frame twin mounting kit, 600 A (dealer label 'AV')",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "AV",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SGDA, SGHA, SGLA, SGPA",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Dealer spec block 'APNB-APN' (Spectra) vs title 'AV' - conflicting",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SG6DPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00433",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "SG6SPK",
+  "title": "GE SG-frame single mounting kit, 600 A (dealer label 'AV')",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "AV",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SGDA, SGHA, SGLA, SGPA",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Dealer spec block 'APNB-APN' vs title 'AV' - conflicting",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SG6SPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00434",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "SGS6K",
+  "title": "SG-frame single mounting kit, 600 A (dealer label 'AV'; possibly aftermarket)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "AV",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "SGDA, SGHA, SGLA, SGPA",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Dealer spec 'APNB-APN'",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SGS6K",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "'xxxK' numbering resembles aftermarket kits (SGD1K, SFS1K) - is SGS6K an OEM GE number?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00435",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "THLCDPK",
+  "title": "GE hardware kit for AV panel (THLC breaker, twin)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "GEN; Hardware Kit for AV Panel",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "THLC (inferred from catalog number)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "GE AV-Line switchboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "THLCDPK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00436",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "GAVFP2",
+  "title": "GE blank filler plate 4.125 in x 17 in (AV1/AV2/CCB)",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "4.125in x 17in blank filler plate",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "AV1, AV2, CCB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "4.125 in H x 17 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "GAVFP2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00437",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "CCBBLANK",
+  "title": "GE CCB 3-pole blanks",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-GEA-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "CCB 3P blanks",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "CCB power panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CCBBLANK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Dealer code - OEM catalog number unknown"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-GEA-00438",
+  "mfr": "GEA",
+  "brand_marking": "General Electric",
+  "oem_part_number": "QMRFP3",
+  "title": "GE QMR full-width filler, 3X, 4.125 in x 24 in",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-GEA-006"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Full width QMR filler-3X panelboard full width filler; 4.125 in H x 24 in W",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "QMR",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "4.125 in H x 24 in W (3X at 1.375 in)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QMRFP3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
  }
 ]

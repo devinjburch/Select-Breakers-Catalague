@@ -230,7 +230,8 @@
   "id": "SRC-00013",
   "mfr": "EAT",
   "batches": [
-   "B0002-eaton-switchboards-legacy"
+   "B0002-eaton-switchboards-legacy",
+   "B0012-archival-legacy-panelboards"
   ],
   "sha256": "804f07a93a258ef30d2756c490399f96e1d03039258a63b53dd173966b145e66",
   "bytes": 17848506
@@ -4044,6 +4045,470 @@
   "mfr": "OTH",
   "batches": [
    "B0003-squared-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Construction and Maintenance, Vol 45, September 1946 (Electrical Contracting) - Westinghouse catalog insert 'NOFUZE Circuit Breaker Panelboards' (NMIB, NMM Multibreaker, NLAB Quicklag De-ion, NLAB Single Row Quicklag, NA1B-AB De-ion, MH Multibreaker, AB De-ion Convertible)",
+  "publisher": "McGraw-Hill (Westinghouse advertising/catalog pages)",
+  "doc_number": "sim_ecm_1946-09_45",
+  "date": "1946-09",
+  "url": "https://archive.org/details/sim_ecm_1946-09_45",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Full djvu text downloaded from archive.org (https://archive.org/download/sim_ecm_1946-09_45/sim_ecm_1946-09_45_djvu.txt); Westinghouse catalog section around djvu text lines 24280-24705 (page ref B62).",
+  "id": "SRC-00243",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Construction and Maintenance, Vol 54 No 3, March 1955 - General Electric 'System Engineered' equipment advertisement listing GE panelboard types",
+  "publisher": "McGraw-Hill (General Electric advertisement)",
+  "doc_number": "sim_ecm_1955-03_54_3",
+  "date": "1955-03",
+  "url": "https://archive.org/details/sim_ecm_1955-03_54_3",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "OEM-authored advertisement: 'Panelboards - Types NAB, NHB, NLAB, NLTQ, NLTQX, NTP, NTC for lighting - types NCB, CCB, Swing-WA* and Converti-Fuse* for power distribution'. *Registered trade-mark of General Electric Company.",
+  "id": "SRC-00244",
+  "mfr": "GEA",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Construction and Maintenance, Vol 59 No 5, May 1960 - Square D advertisement 'Same panelboard combines both lighting and power' (NQO plug-in and NQOB bolted connection panelboards)",
+  "publisher": "McGraw-Hill (Square D advertisement)",
+  "doc_number": "sim_ecm_1960-05_59_5",
+  "date": "1960-05",
+  "url": "https://archive.org/details/sim_ecm_1960-05_59_5",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Square D Company, Mercer Road, Lexington KY. Breaker ratings table: 1-pole 15-50 A, 2-pole 15-70 A, 3-pole 15-50 A, 2/3-pole 70-100 A.",
+  "id": "SRC-00245",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Construction and Maintenance, Vol 59 No 9, September 1960 - Square D advertisement 'Exclusive Non-Interchangeable Construction standard on all 250 Volt, 100 Amp branch circuit breaker panelboards' (NQO, NQOB, NA1B)",
+  "publisher": "McGraw-Hill (Square D advertisement)",
+  "doc_number": "sim_ecm_1960-09_59_9",
+  "date": "1960-09",
+  "url": "https://archive.org/details/sim_ecm_1960-09_59_9",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "NA1B: E frame, bolted connection, AC or DC; NQO: plug-in connection, AC only; NQOB: bolted connection, AC only; NEC 240-25(g) non-interchangeability.",
+  "id": "SRC-00246",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrozad (Electrozad Supply Co. catalogue / price book, Copel Inc. 1985) - ITE-Siemens, Square D, Federal Pioneer distribution equipment sections (Canada)",
+  "publisher": "Copel Inc. (distributor catalogue)",
+  "doc_number": "bwb_P9-BJG-737",
+  "date": "1985",
+  "url": "https://archive.org/details/bwb_P9-BJG-737",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "paywalled",
+  "notes": "archive.org lending item; djvu text download returns 401. Content read only through archive.org full-text-search highlight snippets (services/search/beta/page_production, service_backend=fts, query 'identifier:bwb_P9-BJG-737 AND <term>'). Canadian market products. No page numbers available from snippets except printed page numbers 401/402/409/410 for ITE-Siemens safety switch / CDP pages.",
+  "id": "SRC-00247",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Eaton Bid Manager help - 'Panel Board Aftermarket' (PNLA) take-off help page",
+  "publisher": "Eaton",
+  "doc_number": null,
+  "date": null,
+  "url": "https://bidmanager.eaton.com/BidManager/Help/Sales/en-US/TakeOff_Help_Files/PNLAHelp/PNLAHelp/PNLAHelp.htm",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via WebFetch. Describes CDP, FDP (Westinghouse), MP40 and MP100 (Cutler-Hammer) branch kits; MP40 kits also add devices to MP2 group-mounted switchboards, Cutler-Hammer-labelled CDP panelboards and NFB panelboards 26.5-36 in wide; FDP kits fit only 3.50 in phase spacing (not 4.25 in).",
+  "id": "SRC-00248",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Renewal Parts Data RP01400003E - Vintage Cutler-Hammer panelboards and switchboards (MP40, MP-200, PB, PH, PH-L, EP, EE)",
+  "publisher": "Eaton",
+  "doc_number": "RP01400003E",
+  "date": "2013-02",
+  "url": "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/eaton-vintage-cutler-hammer-swithboard-panelboard-rp01400003e-en-us.pdf",
+  "type": "oem_renewal_parts",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "eaton.com refused (HTTP/2 INTERNAL_ERROR, empty reply over HTTP/1.1; WebFetch 503). usermanual.wiki mirror (152612Attachmenturl.613627626.pdf) redirects to manuals.plus security check. web.archive.org unreachable from container. Search-engine snippets only: effective February 2013; retrofit kits = breaker + copper connectors (twin) + covers + brackets + hardware + instructions; kits from Sumter SC Aftermarket Center; all breakers in one 'B' space must be same family (EHD, F-frame, CC/CCH/CHH); trim locks for MP100, MP2, M50.",
+  "id": "SRC-00249",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Vintage Cutler-Hammer Panelboards and Switchboards Price List PL01400003E",
+  "publisher": "Eaton",
+  "doc_number": "PL01400003E",
+  "date": "2008-01",
+  "url": "https://buy.wesco.com/static/catalog/products/images/PDF/EATON_pl01400003e.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "Wesco copy returns HTTP 403 / HTML; carltonbates.com copy (https://carltonbates.com/static/catalog/products/images/PDF/EATON_pl01400003e.pdf) behind Cloudflare challenge. Search snippets: effective January 2008, supersedes February 2004; MP40 breaker retrofit kits also install in MP200 switchboards; covers trim locks, filler plates, deadfront kits, neutral assemblies, ground bars.",
+  "id": "SRC-00250",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Relectric - Breaker Parts & Accessories: Mounting Hardware (listing pages 1-42, 981 items) and individual product detail pages",
+  "publisher": "Relectric (surplus/recertified dealer)",
+  "doc_number": null,
+  "date": null,
+  "url": "https://www.relectric.com/breaker-parts-and-accessories/mounting-hardware",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Listing fetched page=1..42; product 'Product Specifications' blocks (Panel Type / Breaker Types / Mounting / Amps Max) read from detail pages e.g. https://www.relectric.com/mp40kl400-3, /tb1dpk, /5eh2, /ml1kapt. Dealer data: compatibility max conf C.",
+  "id": "SRC-00251",
+  "mfr": "SIE",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Superbreakers - Mounting Kits, Panels & Accessories collection (Shopify products.json, 140 items)",
+  "publisher": "Superbreakers (surplus dealer)",
+  "doc_number": null,
+  "date": null,
+  "url": "https://superbreakers.com/collections/mounting-kits-panels-accessories",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Product body text for MP40ED2253, MP40KC2253, MP40KF1003, MP40KJ2253, MP40KK4003, MP40KL4003, MP40KM8003, MP40KN12003 and NHB150PK. Superbreakers writes the MP40 kits without the hyphen (e.g. MP40KL4003 = Relectric MP40KL400-3).",
+  "id": "SRC-00252",
+  "mfr": "SIE",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Essential Electric - MPED1K Cutler Hammer 225A Dual Branch Panelboard Connector Kit 600V",
+  "publisher": "Essential Electric (dealer; states it is not an authorized distributor)",
+  "doc_number": null,
+  "date": null,
+  "url": "https://essentialparts.com/products/mped1k-cutler-hammer-225a-dual-branch-panelboard-connector-kit-600v?variant=62518414377119",
+  "type": "surplus",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "id": "SRC-00253",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Construction and Maintenance June 1958 / Electrical South June 1958 - Westinghouse installation story: 'More than 40 Westinghouse Panelboards (Type NLAB & Type CDP) provide for lighting and distribution'",
+  "publisher": "McGraw-Hill / Electrical South",
+  "doc_number": "sim_ecm_1958-06_57_6; sim_electrical-south_1958-06_38_6",
+  "date": "1958-06",
+  "url": "https://archive.org/details/sim_ecm_1958-06_57_6",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Full-text-search snippet only.",
+  "id": "SRC-00254",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Plant Engineering Vol 14 No 4-6 (April-June 1960) - Westinghouse ad: flush-mounted type NLAB panelboard; 'Westinghouse Bus Duct and Panelboard Specialist inspect a type CDP convertible'",
+  "publisher": "Technical Publishing (Westinghouse advertisement)",
+  "doc_number": "sim_plant-engineering_1960-04_14_4",
+  "date": "1960-04",
+  "url": "https://archive.org/details/sim_plant-engineering_1960-04_14_4",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Full-text-search snippet; also says '*NBQ (plug-in) and NQOB (bolted connection) panelboards are also available' in a Square D ad in the same issue (OCR of NQO likely garbled to NBQ).",
+  "id": "SRC-00255",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Industrial Electrical Wiring: Design and Application (1987), section 'Type NQOB Panelboards' p.132-133",
+  "publisher": "Prentice-Hall (textbook)",
+  "doc_number": "industrialelectr0000earl",
+  "date": "1987",
+  "url": "https://archive.org/details/industrialelectr0000earl",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "paywalled",
+  "notes": "Lending item; full-text-search snippets only: 'breakers are bolted in place in NQOB panelboards, rather than plugged into the busbars. NQOB panelboards are suitable ...'.",
+  "id": "SRC-00256",
+  "mfr": "OTH",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Standard Application of Electrical Details (1984) - panel schedules showing 'NLAB 100 THQB 20' and TEB 70 3P main",
+  "publisher": "McGraw-Hill (reference book)",
+  "doc_number": "standardapplicat0000muel",
+  "date": "1984",
+  "url": "https://archive.org/details/standardapplicat0000muel",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "paywalled",
+  "notes": "Lending item; full-text-search snippets only. Schedules pair 'NLAB' panels with GE THQB branch and TEB main breakers, corroborating a GE NLAB designation in addition to the Westinghouse NLAB.",
+  "id": "SRC-00257",
+  "mfr": "OTH",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Construction and Maintenance, February 1959 - article text: 'Two of the panelboards are NLAB 120/240v, one is a NHIB 277/480v'",
+  "publisher": "McGraw-Hill",
+  "doc_number": "sim_ecm_1959-02_58_2",
+  "date": "1959-02",
+  "url": "https://archive.org/details/sim_ecm_1959-02_58_2",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Full-text-search snippet; manufacturer not identified in snippet.",
+  "id": "SRC-00258",
+  "mfr": "OTH",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Wiring Materials, Power Apparatus - General Electric Supply Corporation catalog (copyright 1951), pp. 441-448 'Trumbull Lighting Panelboards' (NAB, NLAB, NLTQ, NTP/NTC) and 'Trumbull Panelboards for Power Distribution' (Converti-Fuse, Swing-Wa, Convertible Circuit Breaker, Type ABH) and Trumbull switchboards",
+  "publisher": "General Electric Supply Corporation (GE subsidiary distributor)",
+  "doc_number": "wiringmaterialsp00unse",
+  "date": "1951",
+  "url": "https://archive.org/details/wiringmaterialsp00unse",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Full djvu text downloaded (https://archive.org/download/wiringmaterialsp00unse/wiringmaterialsp00unse_djvu.txt); panelboard pages at text lines ~69790-71300. Product text authored for GE/Trumbull products; UL file E2366 cited for Trumbull NLTQ.",
+  "id": "SRC-00259",
+  "mfr": "GEA",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "GE Installation and Maintenance Instructions GEJ-3006A 'Circuit Breaker Panelboards' with renewal parts list GEG-13610B 'Types DB, NLTQ and NLAB Panelboards, Style 5' (Distribution Assemblies Department)",
+  "publisher": "General Electric",
+  "doc_number": "GEJ-3006A / GEG-13610B",
+  "date": "1969-08",
+  "url": "https://archive.org/details/General_Electric_Circuit_Breaker_Panelboard_GEJ_3006A_",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "paywalled",
+  "notes": "archive.org item (access-restricted; djvu text returns 401). Content read through archive.org full-text-search highlight snippets (query identifier:General_Electric_Circuit_Breaker_Panelboard_GEJ_3006A_ AND <term>). Item date 1969, file name says 'August'. Part-number-to-description mapping inferred from OCR line order (description followed by catalog number); lug table column order is ambiguous.",
+  "id": "SRC-00260",
+  "mfr": "GEA",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Construction and Maintenance, Vol 56 No 6, June 1957 - Westinghouse distribution panelboard advertisement (Type CDP and Type FDP ratings) and new-product note on GE Type TQLP/TQLA plug-in lighting and power panel",
+  "publisher": "McGraw-Hill (Westinghouse advertisement / product news)",
+  "doc_number": "sim_ecm_1957-06_56_6",
+  "date": "1957-06",
+  "url": "https://archive.org/details/sim_ecm_1957-06_56_6",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Full djvu text downloaded; Westinghouse ad pp.188-189; GE TQLA/TQLP news item.",
+  "id": "SRC-00261",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Construction and Maintenance, Vol 61 No 5, May 1962 - Federal Pacific Electric advertisement (NHDP and CDP distribution panelboards with rotary-handle breakers; HCB and VCB switchboards) and Cutler-Hammer advertisement listing divisions (AIL; Mullenbach)",
+  "publisher": "McGraw-Hill (FPE / Cutler-Hammer advertisements)",
+  "doc_number": "sim_ecm_1962-05_61_5",
+  "date": "1962-05",
+  "url": "https://archive.org/details/sim_ecm_1962-05_61_5",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Full djvu text downloaded. Also contains I-T-E 'New EQ-225 amp breaker' advertisement.",
+  "id": "SRC-00262",
+  "mfr": "EAT",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA130530 - MLN panelboards and replacement circuit breakers (MLN panelboards and switchboards sold in the USA 1962-1968)",
+  "publisher": "Schneider Electric",
+  "doc_number": null,
+  "date": null,
+  "url": "https://www.se.com/us/en/faqs/FA130530/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via WebFetch (US page; CA page 403). Published 2010-06-02, modified 2026-04-22.",
+  "id": "SRC-00263",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA233845 - Are NY1B panelboard replacement breakers still available?",
+  "publisher": "Schneider Electric",
+  "doc_number": null,
+  "date": null,
+  "url": "https://www.se.com/us/en/faqs/FA233845",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via WebFetch. Published 2015-02-25.",
+  "id": "SRC-00264",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA96717 - What is the QSFB switch/fuse unit and is it available? (NQOB panelboards)",
+  "publisher": "Schneider Electric",
+  "doc_number": null,
+  "date": null,
+  "url": "https://www.se.com/us/en/faqs/FA96717/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via WebFetch. Published 2002-08-13.",
+  "id": "SRC-00265",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ group on NQO/NQOB, NEHB, NA1B, NY1B (FA97632, FA124608, FA232958, FA87904, FA100575, FA332061, FAQ000266417, FA129512, FA119163, FA122757, FA166748, FA121261, FA125651, FA128561) - content known only from search-engine result summaries",
+  "publisher": "Schneider Electric",
+  "doc_number": null,
+  "date": null,
+  "url": "https://www.se.com/us/en/faqs/FA97632/",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "All returned HTTP 403 to WebFetch and curl on 2026-10-21 after the first few fetches. Statements attributed to this group are search-engine summaries not mapped to an individual FAQ number; treat as conf C/D until each FAQ is read.",
+  "id": "SRC-00266",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Mike Holt forum - 'Square D - Legacy Breaker Information' (ML line superseded by I-Line in the 1960s; ML breakers identified by side label part number 999xxx)",
+  "publisher": "Mike Holt Enterprises forum",
+  "doc_number": null,
+  "date": null,
+  "url": "https://forums.mikeholt.com/threads/square-d-legacy-breaker-information.2588165/post-3009160",
+  "type": "forum",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Search-result summary only.",
+  "id": "SRC-00267",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Wholesaling Oct 1953 / Plant Engineering Jul 1951 - Trumbull advertisements for NLTQ and NLTQX (column type) panelboards with plug-in TQL breakers (Bulletin TEB-14)",
+  "publisher": "McGraw-Hill / Technical Publishing (Trumbull Electric advertisements)",
+  "doc_number": "sim_electrical-wholesaling_1953-10_34_10; sim_plant-engineering_1951-07_5_7",
+  "date": "1951-1953",
+  "url": "https://archive.org/details/sim_electrical-wholesaling_1953-10_34_10",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Full-text-search snippets: 'Trumbull's new NLTQ Panelboard introduces the first plug-in circuit breaker' (quick-make quick-break); 'NLTQ Panelboards incorporate plug-in type TQL breakers'; interiors readily removable.",
+  "id": "SRC-00268",
+  "mfr": "OTH",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Electrical Wiring and Design: A Practical Approach (1983) - 'For designer's use (AV-Line switchboards)', publications list 'AV-Line Switchboards GEA-7931'",
+  "publisher": "John Wiley (textbook reproducing GE data)",
+  "doc_number": "electricalwiring0000star",
+  "date": "1983",
+  "url": "https://archive.org/details/electricalwiring0000star",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "paywalled",
+  "notes": "Lending item; full-text-search snippet only.",
+  "id": "SRC-00269",
+  "mfr": "GEA",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "Square D Digest 152 (1970) - Distribution Equipment catalog; Lighting & Distribution Panelboards section pp.55-86 (index p.55, NQO/NQOB pp.56-65, NA1B pp.66-67, NH1B p.68, I-Line pp.72-75, NTFB/NTHB p.76, QMB pp.78-83, accessories p.84, ordering/replacement p.85)",
+  "publisher": "Square D Company",
+  "doc_number": "Digest 152",
+  "date": "1970",
+  "url": "https://archive.org/details/squareddigest152",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Open archive.org item (folkscanomy_engineering). Full djvu text downloaded from https://archive.org/download/squareddigest152/Square%20D%20Digest%20152%20%281970%29_djvu.txt ; OCR has minor digit/letter errors (noted per claim). Panelboard section at text lines ~40200-65250.",
+  "id": "SRC-00270",
+  "mfr": "SQD",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ]
+ },
+ {
+  "title": "The Trademark Register of the United States 1976 - entry 'POW-R-LINE - US 21 - 10-14-75 - 1,022,520'",
+  "publisher": "The Trademark Register (Washington DC)",
+  "doc_number": "trademarkregiste0000vari_k3n0",
+  "date": "1976",
+  "url": "https://archive.org/details/trademarkregiste0000vari_k3n0",
+  "type": "archive",
+  "accessed": "2026-10-21",
+  "access_status": "paywalled",
+  "notes": "Full-text-search snippet only; registrant not shown in snippet.",
+  "id": "SRC-00271",
+  "mfr": "SIE",
+  "batches": [
+   "B0012-archival-legacy-panelboards"
   ]
  }
 ]

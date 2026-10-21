@@ -1,19 +1,19 @@
 {
  "counters": {
-  "SRC": 242,
-  "FAM-EAT": 28,
-  "BRK-EAT": 63,
-  "EDH-EAT": 788,
-  "LEAD": 94,
-  "FAM-SQD": 10,
-  "BRK-SQD": 39,
-  "EDH-SQD": 512,
-  "FAM-GEA": 10,
-  "BRK-GEA": 28,
-  "EDH-GEA": 395,
-  "FAM-SIE": 12,
-  "BRK-SIE": 30,
-  "EDH-SIE": 313,
+  "SRC": 271,
+  "FAM-EAT": 38,
+  "BRK-EAT": 67,
+  "EDH-EAT": 803,
+  "LEAD": 106,
+  "FAM-SQD": 14,
+  "BRK-SQD": 43,
+  "EDH-SQD": 570,
+  "FAM-GEA": 12,
+  "BRK-GEA": 31,
+  "EDH-GEA": 438,
+  "FAM-SIE": 14,
+  "BRK-SIE": 33,
+  "EDH-SIE": 332,
   "FAM-FPE": 7,
   "FAM-ZIN": 2,
   "FAM-OTH": 4,
@@ -167,6 +167,22 @@
     "leads_new": 11,
     "docs_filed": 56,
     "batch": "B0003-squared-panelboards"
+   }
+  },
+  {
+   "batch_id": "B0012-archival-legacy-panelboards",
+   "date": "2026-10-21",
+   "merged": "2026-10-21",
+   "file": "B0012-archival-legacy-panelboards.json",
+   "stats": {
+    "sources_new": 29,
+    "families_new": 18,
+    "breakers_new": 14,
+    "parts_new": 135,
+    "parts_updated": 21,
+    "leads_new": 12,
+    "docs_filed": 0,
+    "batch": "B0012-archival-legacy-panelboards"
    }
   }
  ],

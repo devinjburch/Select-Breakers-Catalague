@@ -1219,5 +1219,160 @@
   "urls": [],
   "status": "open",
   "batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "LEAD-0095",
+  "priority": 1,
+  "topic": "Eaton RP01400003E - Vintage Cutler-Hammer panelboards and switchboards renewal parts (MP40, MP-200, PB, PH, PH-L, EP, EE)",
+  "detail": "Primary kit tables for MP40/MP2/PH/EE/EP. eaton.com blocked from container (HTTP/2 error, empty reply); usermanual.wiki mirror redirects to manuals.plus captcha; Wayback unreachable. Try from a normal browser or ask Eaton Sumter Aftermarket Center (803-481-6677 per search snippet).",
+  "doc_numbers": [
+   "RP01400003E"
+  ],
+  "urls": [
+   "https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/eaton-vintage-cutler-hammer-swithboard-panelboard-rp01400003e-en-us.pdf",
+   "https://usermanual.wiki/Pdf/152612Attachmenturl.613627626.pdf"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0096",
+  "priority": 1,
+  "topic": "Eaton PL01400003E - Vintage Cutler-Hammer price list (Jan 2008)",
+  "detail": "Gives the OEM catalog numbers for MP40 retrofit kits ('KMP40...' pattern per snippet), PH cover plates/deadfront kits/trim lock, neutral assemblies, ground bars. Wesco copy 403, Carlton-Bates behind Cloudflare.",
+  "doc_numbers": [
+   "PL01400003E"
+  ],
+  "urls": [
+   "https://buy.wesco.com/static/catalog/products/images/PDF/EATON_pl01400003e.pdf",
+   "https://carltonbates.com/static/catalog/products/images/PDF/EATON_pl01400003e.pdf"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0097",
+  "priority": 1,
+  "topic": "GE GEJ-3006A / GEG-13610B scan (archive.org, access-restricted)",
+  "detail": "Borrow/view the scanned pages to confirm part-number-to-row mapping for bus supports and lugs, and capture remaining rows (blank filler 1X, screw assembly use, any interior/bus parts).",
+  "doc_numbers": [
+   "GEJ-3006A",
+   "GEG-13610B"
+  ],
+  "urls": [
+   "https://archive.org/details/General_Electric_Circuit_Breaker_Panelboard_GEJ_3006A_"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0098",
+  "priority": 2,
+  "topic": "GE AV-Line Switchboards publication GEA-7931",
+  "detail": "Cited in 'Electrical Wiring and Design' (1983). Search archive.org/HathiTrust/eBay for GEA-7931 and AV-Line instruction books (GEH-xxxx).",
+  "doc_numbers": [
+   "GEA-7931"
+  ],
+  "urls": [
+   "https://archive.org/details/electricalwiring0000star"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0099",
+  "priority": 2,
+  "topic": "Electrozad 1985 (Copel) price book - full ITE-Siemens / Square D / Federal Pioneer panelboard pages",
+  "detail": "archive.org lending item; borrow to read full NLAB/NHB/HR-7 selector tables, Square D NQO/NQOB/NYIB accessory list (more SF-/LK- part numbers) and Federal Pioneer NALP/NBLP.",
+  "doc_numbers": [],
+  "urls": [
+   "https://archive.org/details/bwb_P9-BJG-737"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0100",
+  "priority": 2,
+  "topic": "Schneider FAQs on NQO/NQOB/NEHB/NA1B/NY1B (blocked 403)",
+  "detail": "Read individually to map statements to FAQ numbers: FA97632, FA124608, FA232958, FA87904, FA100575, FA332061, FAQ000266417, FA129512, FA119163, FA122757, FA166748, FA121261, FA125651, FA128561.",
+  "doc_numbers": [],
+  "urls": [
+   "https://www.se.com/us/en/faqs/FA97632/"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0101",
+  "priority": 2,
+  "topic": "Cutler-Hammer pre-1994 switchboard designations",
+  "detail": "Only MP2 / MP-200 (group-mounted) and Type ES (existing family) found. 'Type MS' and Pow-R-Line predecessors for Cutler-Hammer switchboards not confirmed. Search ECM 1965-1990 issues on archive.org for Cutler-Hammer switchboard ads.",
+  "doc_numbers": [],
+  "urls": [],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0102",
+  "priority": 3,
+  "topic": "Square D I-Line pre-HCN types (HCW, 1950s I-Line panelboard)",
+  "detail": "Square D Digest 152 (1970) shows HCN/HCM/HCW/HCWM I-Line already catalogued; introduction date and the pre-1970 I-Line types are still unknown. Look for earlier Square D Digests (pre-1970) and Square D panelboard Service Bulletins (Digest p.85 says service bulletins and service-parts sheets exist for all catalogued panelboards). HathiTrust was blocked by Cloudflare from this container.",
+  "doc_numbers": [],
+  "urls": [
+   "https://babel.hathitrust.org/cgi/ls?q1=%22I-Line%22%20panelboard"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0103",
+  "priority": 3,
+  "topic": "ITE panelboard designations (EQ, NQB, Type HE, ITE CDP pre-Series 5)",
+  "detail": "Archive FTS found only ITE switchboard/unit substation ads (1950, 1957), EQ-225 breaker launch (May 1962) and Canadian NLAB/NHB/HR-7. ITE pre-Series 5 CDP and CDP-7 known only from dealer kit names.",
+  "doc_numbers": [],
+  "urls": [
+   "https://archive.org/details/sim_ecm_1962-05_61_5"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0104",
+  "priority": 3,
+  "topic": "McLaughlin Electric Supply House catalogs (1950/1951) on archive.org",
+  "detail": "Full text available (McLaughlinElectricSupplyHouse, McLaughlin_201806); contain Trumbull distribution panelboards (Converti-Fuse, NTPR) with box/gutter dimensions - not yet mined in detail.",
+  "doc_numbers": [],
+  "urls": [
+   "https://archive.org/details/McLaughlinElectricSupplyHouse"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0105",
+  "priority": 2,
+  "topic": "Square D Digest 152 (1970) further mining",
+  "detail": "Only panelboard index/accessory pages were mined. Pages 56-83 contain full NQO/NQOB/NA1B/NH1B/I-Line/QMB interior, box and front catalog numbers (e.g. HCN-0936-1M interiors, MTX cable ducts, QMB-1832-2 interior) and the Q1/QO breaker tables; Section 600 breaker catalog referenced.",
+  "doc_numbers": [
+   "Digest 152"
+  ],
+  "urls": [
+   "https://archive.org/details/squareddigest152"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "LEAD-0106",
+  "priority": 4,
+  "topic": "Westinghouse NOFUZE catalog B-series (1946) page B62 and bulletin B-3714",
+  "detail": "The 1946 ECM insert reproduces Westinghouse catalog pages (B62); the full Westinghouse 'Electrical Contracting' catalog insert may list NLAB/NMM part numbers.",
+  "doc_numbers": [],
+  "urls": [
+   "https://archive.org/details/sim_ecm_1946-09_45"
+  ],
+  "status": "open",
+  "batch": "B0012-archival-legacy-panelboards"
  }
 ]

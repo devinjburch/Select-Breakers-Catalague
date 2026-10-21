@@ -64,6 +64,18 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0085 — SKNQOD225 finger part numbers for reproduction** (B0003-squared-panelboards)  
   OEM FAQ FA124209 gives component numbers 80110-005-01 (A/C finger), 80110-006-01 (B finger), 80025-068-01 (screw). Obtain drawings/dimensions; check whether a 400 A NQOD connector kit existed.  
   URLs: https://www.se.com/us/en/faqs/FA124209
+* **LEAD-0095 — Eaton RP01400003E - Vintage Cutler-Hammer panelboards and switchboards renewal parts (MP40, MP-200, PB, PH, PH-L, EP, EE)** (B0012-archival-legacy-panelboards)  
+  Primary kit tables for MP40/MP2/PH/EE/EP. eaton.com blocked from container (HTTP/2 error, empty reply); usermanual.wiki mirror redirects to manuals.plus captcha; Wayback unreachable. Try from a normal browser or ask Eaton Sumter Aftermarket Center (803-481-6677 per search snippet).  
+  Docs: RP01400003E  
+  URLs: https://www.eaton.com/content/dam/eaton/products/low-voltage-power-distribution-controls-systems/panelboards/eaton-vintage-cutler-hammer-swithboard-panelboard-rp01400003e-en-us.pdf https://usermanual.wiki/Pdf/152612Attachmenturl.613627626.pdf
+* **LEAD-0096 — Eaton PL01400003E - Vintage Cutler-Hammer price list (Jan 2008)** (B0012-archival-legacy-panelboards)  
+  Gives the OEM catalog numbers for MP40 retrofit kits ('KMP40...' pattern per snippet), PH cover plates/deadfront kits/trim lock, neutral assemblies, ground bars. Wesco copy 403, Carlton-Bates behind Cloudflare.  
+  Docs: PL01400003E  
+  URLs: https://buy.wesco.com/static/catalog/products/images/PDF/EATON_pl01400003e.pdf https://carltonbates.com/static/catalog/products/images/PDF/EATON_pl01400003e.pdf
+* **LEAD-0097 — GE GEJ-3006A / GEG-13610B scan (archive.org, access-restricted)** (B0012-archival-legacy-panelboards)  
+  Borrow/view the scanned pages to confirm part-number-to-row mapping for bus supports and lugs, and capture remaining rows (blank filler 1X, screw assembly use, any interior/bus parts).  
+  Docs: GEJ-3006A, GEG-13610B  
+  URLs: https://archive.org/details/General_Electric_Circuit_Breaker_Panelboard_GEJ_3006A_
 
 ## Priority 2
 
@@ -180,6 +192,22 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0088 — Downloaded but not yet mined bulletins** (B0003-squared-panelboards)  
   80043-616-03 / 80043-449-03 (I-Line 4-piece trim & door kits), 80043-660-04 (HCP trim), 80043-706-02 & 80043-789-01 (I-Line CT neutral bonding), 80043-817/818/820/822/826-01 (fingersafe replacement parts QOFSBF, QOFSLALB, QOFSHALB, NQHJLSC, NQQLSC, NQLALHLSC, NQMLLSC, NQNCC), 80043-844-01 (RPINTBK800HCP, RPINTBK1200HCPC, RPINTBK1200HCR barrier kits), 80043-772-01 (quarter-turn fastener kit, LP9503), 80043-773-01 (endwall/closing plate MHCOEW20A/F), 80043-350-04 (box extension), 80043-455-04 / 80043-771-01 / 80043-850-01 (MH WP enclosures), 80043-252-04 (MH NEMA 4/4X). Only some copied to library; re-download as needed.  
   Docs: 80043-616-03, 80043-449-03, 80043-660-04, 80043-706-02, 80043-789-01, 80043-817-01, 80043-822-01, 80043-826-01, 80043-844-01, 80043-772-01, 80043-773-01, 80043-350-04
+* **LEAD-0098 — GE AV-Line Switchboards publication GEA-7931** (B0012-archival-legacy-panelboards)  
+  Cited in 'Electrical Wiring and Design' (1983). Search archive.org/HathiTrust/eBay for GEA-7931 and AV-Line instruction books (GEH-xxxx).  
+  Docs: GEA-7931  
+  URLs: https://archive.org/details/electricalwiring0000star
+* **LEAD-0099 — Electrozad 1985 (Copel) price book - full ITE-Siemens / Square D / Federal Pioneer panelboard pages** (B0012-archival-legacy-panelboards)  
+  archive.org lending item; borrow to read full NLAB/NHB/HR-7 selector tables, Square D NQO/NQOB/NYIB accessory list (more SF-/LK- part numbers) and Federal Pioneer NALP/NBLP.  
+  URLs: https://archive.org/details/bwb_P9-BJG-737
+* **LEAD-0100 — Schneider FAQs on NQO/NQOB/NEHB/NA1B/NY1B (blocked 403)** (B0012-archival-legacy-panelboards)  
+  Read individually to map statements to FAQ numbers: FA97632, FA124608, FA232958, FA87904, FA100575, FA332061, FAQ000266417, FA129512, FA119163, FA122757, FA166748, FA121261, FA125651, FA128561.  
+  URLs: https://www.se.com/us/en/faqs/FA97632/
+* **LEAD-0101 — Cutler-Hammer pre-1994 switchboard designations** (B0012-archival-legacy-panelboards)  
+  Only MP2 / MP-200 (group-mounted) and Type ES (existing family) found. 'Type MS' and Pow-R-Line predecessors for Cutler-Hammer switchboards not confirmed. Search ECM 1965-1990 issues on archive.org for Cutler-Hammer switchboard ads.
+* **LEAD-0105 — Square D Digest 152 (1970) further mining** (B0012-archival-legacy-panelboards)  
+  Only panelboard index/accessory pages were mined. Pages 56-83 contain full NQO/NQOB/NA1B/NH1B/I-Line/QMB interior, box and front catalog numbers (e.g. HCN-0936-1M interiors, MTX cable ducts, QMB-1832-2 interior) and the Q1/QO breaker tables; Section 600 breaker catalog referenced.  
+  Docs: Digest 152  
+  URLs: https://archive.org/details/squareddigest152
 
 ## Priority 3
 
@@ -281,6 +309,15 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0092 — I-Line breaker mounting hardware** (B0003-squared-panelboards)  
   No separately cataloged I-Line breaker mounting bracket / retaining screw kit found; manual 80043-309-20 describes bracket fingers into pan keyslots, retaining screw in 7/32 in. hole, PJC-7201 joint compound. Look for renewal parts list for HCP/HCR-U bus stacks and Supplemental Digest I-Line legacy (HCN, HCW, HCM) interiors.  
   Docs: 80043-309-20
+* **LEAD-0102 — Square D I-Line pre-HCN types (HCW, 1950s I-Line panelboard)** (B0012-archival-legacy-panelboards)  
+  Square D Digest 152 (1970) shows HCN/HCM/HCW/HCWM I-Line already catalogued; introduction date and the pre-1970 I-Line types are still unknown. Look for earlier Square D Digests (pre-1970) and Square D panelboard Service Bulletins (Digest p.85 says service bulletins and service-parts sheets exist for all catalogued panelboards). HathiTrust was blocked by Cloudflare from this container.  
+  URLs: https://babel.hathitrust.org/cgi/ls?q1=%22I-Line%22%20panelboard
+* **LEAD-0103 — ITE panelboard designations (EQ, NQB, Type HE, ITE CDP pre-Series 5)** (B0012-archival-legacy-panelboards)  
+  Archive FTS found only ITE switchboard/unit substation ads (1950, 1957), EQ-225 breaker launch (May 1962) and Canadian NLAB/NHB/HR-7. ITE pre-Series 5 CDP and CDP-7 known only from dealer kit names.  
+  URLs: https://archive.org/details/sim_ecm_1962-05_61_5
+* **LEAD-0104 — McLaughlin Electric Supply House catalogs (1950/1951) on archive.org** (B0012-archival-legacy-panelboards)  
+  Full text available (McLaughlinElectricSupplyHouse, McLaughlin_201806); contain Trumbull distribution panelboards (Converti-Fuse, NTPR) with box/gutter dimensions - not yet mined in detail.  
+  URLs: https://archive.org/details/McLaughlinElectricSupplyHouse
 
 ## Priority 4
 
@@ -304,4 +341,7 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0094 — NQ 14 in. neutral bonding screw and NF gutter bonding strap catalog numbers** (B0003-squared-panelboards)  
   Bulletins 80043-786-01 and 80043-768-01 give contents/torque (10-12 lb-in; 20-25 lb-in) but no catalog numbers; 80043-770-01 (NF column-width connector kit) likewise.  
   Docs: 80043-786-01, 80043-768-01, 80043-770-01
+* **LEAD-0106 — Westinghouse NOFUZE catalog B-series (1946) page B62 and bulletin B-3714** (B0012-archival-legacy-panelboards)  
+  The 1946 ECM insert reproduces Westinghouse catalog pages (B62); the full Westinghouse 'Electrical Contracting' catalog insert may list NLAB/NMM part numbers.  
+  URLs: https://archive.org/details/sim_ecm_1946-09_45
 

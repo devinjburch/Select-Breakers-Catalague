@@ -14305,8 +14305,8 @@
   "title": "QMB plug-on extension assembly QMB306EX (legacy QW retrofit)",
   "component_type": "conversion-kit",
   "family_ids": [
-   "FAM-SQD-005",
-   "FAM-SQD-003"
+   "FAM-SQD-003",
+   "FAM-SQD-005"
   ],
   "breaker_ids": [],
   "claims": {
@@ -14315,7 +14315,8 @@
      "value": "QMB306EX",
      "conf": "A",
      "src": [
-      "SRC-00066"
+      "SRC-00066",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
@@ -14330,6 +14331,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "Extension assembly, three pole, unit height 6 in, 600 V (1970: $10.50/$26.00)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "application": [
@@ -14354,23 +14365,62 @@
      "basis": "inference",
      "batch": "B0004-squared-switchboards"
     }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "QMB-306-EX",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "era": [
+    {
+     "value": "Listed in 1970 Digest 152",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
+   "current_status",
    "dimensions",
    "kit_contents",
-   "status"
+   "material"
   ],
   "questions": [
    "Is this extension still orderable?",
    "Difference between EX and LEX versions (flatwise vs edgewise bus?)"
   ],
   "source_ids": [
-   "SRC-00066"
+   "SRC-00066",
+   "SRC-00270"
   ],
   "batches": [
-   "B0004-squared-switchboards"
+   "B0004-squared-switchboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -14462,8 +14512,8 @@
   "title": "QMB plug-on extension assembly QMB310EX (legacy QW retrofit)",
   "component_type": "conversion-kit",
   "family_ids": [
-   "FAM-SQD-005",
-   "FAM-SQD-003"
+   "FAM-SQD-003",
+   "FAM-SQD-005"
   ],
   "breaker_ids": [],
   "claims": {
@@ -14472,7 +14522,8 @@
      "value": "QMB310EX",
      "conf": "A",
      "src": [
-      "SRC-00068"
+      "SRC-00068",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
@@ -14490,6 +14541,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "Extension assembly, three pole, unit height 7-1/2 in, 600 V (1970: $10.50/$26.00)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "application": [
@@ -14520,13 +14581,50 @@
      "basis": "inference",
      "batch": "B0004-squared-switchboards"
     }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "QMB-310-EX",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "era": [
+    {
+     "value": "Listed in 1970 Digest 152",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
+   "current_status",
    "dimensions",
    "kit_contents",
-   "status"
+   "material"
   ],
   "questions": [
    "Is this extension still orderable?",
@@ -14536,10 +14634,12 @@
    "SRC-00067",
    "SRC-00068",
    "SRC-00069",
-   "SRC-00073"
+   "SRC-00073",
+   "SRC-00270"
   ],
   "batches": [
-   "B0004-squared-switchboards"
+   "B0004-squared-switchboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -14634,8 +14734,8 @@
   "title": "QMB plug-on extension assembly QMB320EX (legacy QW retrofit)",
   "component_type": "conversion-kit",
   "family_ids": [
-   "FAM-SQD-005",
-   "FAM-SQD-003"
+   "FAM-SQD-003",
+   "FAM-SQD-005"
   ],
   "breaker_ids": [],
   "claims": {
@@ -14644,7 +14744,8 @@
      "value": "QMB320EX",
      "conf": "A",
      "src": [
-      "SRC-00065"
+      "SRC-00065",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
@@ -14655,7 +14756,8 @@
      "value": "QMB-320-EX",
      "conf": "A",
      "src": [
-      "SRC-00065"
+      "SRC-00065",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "relation": "alias",
@@ -14671,6 +14773,16 @@
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "Extension assembly, three pole, unit height 9 in, 600 V (1970: $10.50/$26.00)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "application": [
@@ -14695,23 +14807,49 @@
      "basis": "inference",
      "batch": "B0004-squared-switchboards"
     }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "era": [
+    {
+     "value": "Listed in 1970 Digest 152",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
+   "current_status",
    "dimensions",
    "kit_contents",
-   "status"
+   "material"
   ],
   "questions": [
    "Is this extension still orderable?",
    "Difference between EX and LEX versions (flatwise vs edgewise bus?)"
   ],
   "source_ids": [
-   "SRC-00065"
+   "SRC-00065",
+   "SRC-00270"
   ],
   "batches": [
-   "B0004-squared-switchboards"
+   "B0004-squared-switchboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -16839,7 +16977,8 @@
      "src": [
       "SRC-00033",
       "SRC-00027",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "s2 p. 7",
      "basis": "oem_spec",
@@ -16857,6 +16996,17 @@
      "note": "Internal Schneider part number per FAQ FA243887 (WebFetch summary)",
      "relation": "style_number",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "HNM-1BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "description": [
@@ -16878,6 +17028,16 @@
      "page": "p. 9-56",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "I-Line blank 1-1/2 in high (1970)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "application": [
@@ -16954,6 +17114,15 @@
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "dimensions": [
@@ -16975,6 +17144,16 @@
      "page": "p. 9-56",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1-1/2 in high",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "OCR table",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "kit_contents": [
@@ -16993,6 +17172,7 @@
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern",
    "material"
@@ -17007,11 +17187,13 @@
    "SRC-00053",
    "SRC-00177",
    "SRC-00180",
-   "SRC-00181"
+   "SRC-00181",
+   "SRC-00270"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -17036,7 +17218,8 @@
      "src": [
       "SRC-00033",
       "SRC-00027",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "s2 p. 7",
      "basis": "oem_spec",
@@ -17054,6 +17237,17 @@
      "note": "Internal Schneider part number per FAQ FA243887 (WebFetch summary)",
      "relation": "style_number",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "HNM-4BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "description": [
@@ -17075,6 +17269,16 @@
      "page": "p. 9-56",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "I-Line blank 4-1/2 in high (1970)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "application": [
@@ -17151,6 +17355,15 @@
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "dimensions": [
@@ -17172,12 +17385,23 @@
      "page": "p. 9-56",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "4-1/2 in high",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "OCR table",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern",
    "material"
@@ -17191,11 +17415,13 @@
    "SRC-00053",
    "SRC-00177",
    "SRC-00180",
-   "SRC-00181"
+   "SRC-00181",
+   "SRC-00270"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -17843,7 +18069,8 @@
      "src": [
       "SRC-00033",
       "SRC-00029",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "s4 p. 2 table",
      "basis": "oem_spec",
@@ -17861,6 +18088,17 @@
      "note": "Internal Schneider part number per FAQ FA243887 (WebFetch summary)",
      "relation": "style_number",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "HLW-1BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "description": [
@@ -17884,6 +18122,16 @@
      "page": "p. 9-56",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Blank extension HLW1BL listed with blanks (1970, $1.20)",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "application": [
@@ -17972,6 +18220,15 @@
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "dimensions": [
@@ -18022,6 +18279,7 @@
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern",
    "material"
@@ -18036,11 +18294,13 @@
    "SRC-00035",
    "SRC-00036",
    "SRC-00053",
-   "SRC-00177"
+   "SRC-00177",
+   "SRC-00270"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -18065,7 +18325,8 @@
      "src": [
       "SRC-00033",
       "SRC-00029",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "s4 p. 2 table",
      "basis": "oem_spec",
@@ -18083,6 +18344,17 @@
      "note": "Internal Schneider part number per FAQ FA243887 (WebFetch summary)",
      "relation": "style_number",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "HLW-4BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "description": [
@@ -18106,6 +18378,16 @@
      "page": "p. 9-56",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Blank extension HLW4BL listed with blanks (1970, $1.20)",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "application": [
@@ -18194,6 +18476,15 @@
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "dimensions": [
@@ -18254,6 +18545,7 @@
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern",
    "material"
@@ -18268,11 +18560,13 @@
    "SRC-00035",
    "SRC-00036",
    "SRC-00053",
-   "SRC-00177"
+   "SRC-00177",
+   "SRC-00270"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -18746,7 +19040,8 @@
      "conf": "A",
      "src": [
       "SRC-00027",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "Plug-On Lugs Terminal Data, p. 10",
      "basis": "oem_spec",
@@ -18773,6 +19068,16 @@
      "page": "p. 9-57, 9-59",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Sub-feed lugs 400 A; plug onto bus bars in same manner as branch circuit breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -18781,7 +19086,8 @@
      "conf": "A",
      "src": [
       "SRC-00027",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 10",
      "basis": "oem_spec",
@@ -18803,7 +19109,8 @@
      "value": "sub-feed",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -18885,12 +19192,35 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "SL-400",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern",
    "kit_contents",
@@ -18903,11 +19233,13 @@
    "SRC-00027",
    "SRC-00050",
    "SRC-00056",
-   "SRC-00177"
+   "SRC-00177",
+   "SRC-00270"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -19824,7 +20156,8 @@
      "conf": "A",
      "src": [
       "SRC-00050",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "note": "Listed in FAQ FAQ000269509 (via search summary); not in 2019 catalog table",
@@ -19837,7 +20170,8 @@
      "conf": "A",
      "src": [
       "SRC-00050",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0004-squared-switchboards",
@@ -19854,6 +20188,16 @@
      "page": "p. 9-57, 9-59",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Sub-feed lugs 100 A; plug onto bus bars in same manner as branch circuit breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "application": [
@@ -19861,7 +20205,8 @@
      "value": "sub-feed",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -19889,6 +20234,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "dimensions": [
@@ -19902,11 +20256,25 @@
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
     }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "SL-100",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern",
    "material",
@@ -19915,11 +20283,13 @@
   "questions": [],
   "source_ids": [
    "SRC-00050",
-   "SRC-00177"
+   "SRC-00177",
+   "SRC-00270"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -19939,9 +20309,10 @@
    "oem_part_number": [
     {
      "value": "SL800",
-     "conf": "B",
+     "conf": "A",
      "src": [
-      "SRC-00050"
+      "SRC-00050",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "note": "Listed in FAQ FAQ000269509 (via search summary); 2019 catalog lists SL800M5 only - SL800 may be predecessor",
@@ -19951,27 +20322,79 @@
    "ampacity": [
     {
      "value": "800 A",
-     "conf": "C",
+     "conf": "A",
      "src": [
-      "SRC-00050"
+      "SRC-00050",
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0004-squared-switchboards"
+    }
+   ],
+   "description": [
+    {
+     "value": "Sub-feed lugs 800 A; plug onto bus bars in same manner as branch circuit breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
      ],
      "basis": "inference",
-     "batch": "B0004-squared-switchboards"
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "SL-800",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "sub-feed",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
+   "current_status",
+   "dimensions",
+   "material",
    "relation to SL800M5",
-   "status",
    "wire range"
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00050"
+   "SRC-00050",
+   "SRC-00270"
   ],
   "batches": [
-   "B0004-squared-switchboards"
+   "B0004-squared-switchboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -20091,7 +20514,8 @@
   "title": "Equipment ground bar kit PK32DGTA (I-Line)",
   "component_type": "ground-bar",
   "family_ids": [
-   "FAM-SQD-004"
+   "FAM-SQD-004",
+   "FAM-SQD-005"
   ],
   "breaker_ids": [],
   "claims": {
@@ -20101,7 +20525,8 @@
      "conf": "A",
      "src": [
       "SRC-00027",
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 7",
      "basis": "oem_spec",
@@ -20128,6 +20553,16 @@
      "page": "p. 9-56",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "I-Line and QMB distribution panelboards, 1 thru 45 circuits, 1200 A max mains - PK-32DGTA $10.60",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "status": [
@@ -20140,6 +20575,15 @@
      "page": "p. 9-56",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -20162,11 +20606,25 @@
      "note": "Bulletin catalog number not printed; association by subject",
      "batch": "B0003-squared-panelboards"
     }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "PK-32DGTA",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "dimensions",
    "finish",
    "hole_pattern",
@@ -20178,11 +20636,13 @@
   "source_ids": [
    "SRC-00027",
    "SRC-00177",
-   "SRC-00232"
+   "SRC-00232",
+   "SRC-00270"
   ],
   "batches": [
    "B0004-squared-switchboards",
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -52615,7 +53075,10 @@
   "component_type": "ground-bar",
   "family_ids": [
    "FAM-SQD-006",
-   "FAM-SQD-009"
+   "FAM-SQD-009",
+   "FAM-SQD-011",
+   "FAM-SQD-012",
+   "FAM-SQD-014"
   ],
   "breaker_ids": [],
   "claims": {
@@ -52624,7 +53087,8 @@
      "value": "PK27GTA",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -52640,6 +53104,16 @@
      "page": "p. 9-17, 9-19, 9-39",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Equipment ground bar kit 1 thru 54 circuits, 600 A max mains - PK-27GTA $2.10",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "status": [
@@ -52652,6 +53126,15 @@
      "page": "p. 9-17, 9-19, 9-39",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -52674,11 +53157,25 @@
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
     }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "PK-27GTA",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "dimensions",
    "finish",
    "hole_pattern",
@@ -52686,10 +53183,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00177"
+   "SRC-00177",
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -53119,7 +53618,10 @@
   "title": "Aluminum equipment ground bar kit (23 terminations, inferred from number)",
   "component_type": "ground-bar",
   "family_ids": [
-   "FAM-SQD-006"
+   "FAM-SQD-006",
+   "FAM-SQD-011",
+   "FAM-SQD-012",
+   "FAM-SQD-014"
   ],
   "breaker_ids": [],
   "claims": {
@@ -53128,13 +53630,24 @@
      "value": "PK23GTA",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
     }
    ],
    "description": [
+    {
+     "value": "Equipment ground bar kit 31 thru 54 circuits, 225 A max mains - PK-23GTA $2.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    },
     {
      "value": "Aluminum equipment ground bar kit (23 terminations, inferred from number)",
      "conf": "B",
@@ -53157,6 +53670,15 @@
      "page": "p. 9-17",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -53179,11 +53701,25 @@
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
     }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "PK-23GTA",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "dimensions",
    "finish",
    "hole_pattern",
@@ -53191,10 +53727,12 @@
   ],
   "questions": [],
   "source_ids": [
-   "SRC-00177"
+   "SRC-00177",
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55032,7 +55570,8 @@
      "value": "HC2SN",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -55048,6 +55587,16 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Solid neutral assembly 225 A for Type HCN/HCM interior assemblies; mounted in main lug compartment, no additional height",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -55055,7 +55604,8 @@
      "value": "225 A",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 9-57",
      "basis": "oem_spec",
@@ -55096,6 +55646,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -55108,22 +55667,48 @@
      "page": "p. 9-51 fn",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Main lug compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HC-2SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern"
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00177",
    "SRC-00224",
-   "SRC-00177"
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55145,7 +55730,8 @@
      "value": "HC4SN",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -55161,6 +55747,16 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Solid neutral assembly 400 A for Type HCN/HCM interior assemblies; mounted in main lug compartment, no additional height",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -55168,7 +55764,8 @@
      "value": "400 A",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 9-57",
      "basis": "oem_spec",
@@ -55209,6 +55806,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -55221,22 +55827,48 @@
      "page": "p. 9-51 fn",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Main lug compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HC-4SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern"
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00177",
    "SRC-00224",
-   "SRC-00177"
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55258,7 +55890,8 @@
      "value": "HC6SN",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -55274,6 +55907,16 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Solid neutral assembly 600 A for Type HCN/HCM interior assemblies; mounted in main lug compartment, no additional height",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -55281,7 +55924,8 @@
      "value": "600 A",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 9-57",
      "basis": "oem_spec",
@@ -55322,6 +55966,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -55334,22 +55987,48 @@
      "page": "p. 9-51 fn",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Main lug compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HC-6SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern"
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00177",
    "SRC-00224",
-   "SRC-00177"
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55371,7 +56050,8 @@
      "value": "HC8SN",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -55387,6 +56067,16 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Solid neutral assembly 800 A for Type HCN/HCM interior assemblies; mounted in main lug compartment, no additional height",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -55394,7 +56084,8 @@
      "value": "800 A",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 9-57",
      "basis": "oem_spec",
@@ -55435,6 +56126,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -55447,22 +56147,48 @@
      "page": "p. 9-51 fn",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Main lug compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HC-8SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern"
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00177",
    "SRC-00224",
-   "SRC-00177"
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55597,7 +56323,8 @@
      "value": "HCW4SN",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -55613,6 +56340,16 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Solid neutral assembly 400 A for Type HCW/HCWM interior assemblies; mounted in main lug compartment, no additional height",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -55620,7 +56357,8 @@
      "value": "400 A",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 9-57",
      "basis": "oem_spec",
@@ -55661,6 +56399,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -55673,22 +56420,48 @@
      "page": "p. 9-51 fn",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Main lug compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HCW-4SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern"
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00177",
    "SRC-00224",
-   "SRC-00177"
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55710,7 +56483,8 @@
      "value": "HCW6SN",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -55726,6 +56500,16 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Solid neutral assembly 600 A for Type HCW/HCWM interior assemblies; mounted in main lug compartment, no additional height",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -55733,7 +56517,8 @@
      "value": "600 A",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 9-57",
      "basis": "oem_spec",
@@ -55774,6 +56559,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -55786,22 +56580,48 @@
      "page": "p. 9-51 fn",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Main lug compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HCW-6SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern"
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00177",
    "SRC-00224",
-   "SRC-00177"
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55823,7 +56643,8 @@
      "value": "HCW8SN",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -55839,6 +56660,16 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Solid neutral assembly 800 A for Type HCW/HCWM interior assemblies; mounted in main lug compartment, no additional height",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -55846,7 +56677,8 @@
      "value": "800 A",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 9-57",
      "basis": "oem_spec",
@@ -55887,6 +56719,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -55899,22 +56740,48 @@
      "page": "p. 9-51 fn",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Main lug compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HCW-8SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern"
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00177",
    "SRC-00224",
-   "SRC-00177"
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -55936,7 +56803,8 @@
      "value": "HCW12SN",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
@@ -55952,6 +56820,16 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Solid neutral assembly 1200 A for Type HCW/HCWM interior assemblies; mounted in main lug compartment, no additional height",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "ampacity": [
@@ -55959,7 +56837,8 @@
      "value": "1200 A",
      "conf": "A",
      "src": [
-      "SRC-00177"
+      "SRC-00177",
+      "SRC-00270"
      ],
      "page": "p. 9-57",
      "basis": "oem_spec",
@@ -56000,6 +56879,15 @@
      "page": "p. 9-57",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ],
    "location": [
@@ -56012,22 +56900,48 @@
      "page": "p. 9-51 fn",
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Main lug compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HCW-12SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
     }
    ]
   },
   "requires": [],
   "unknowns": [
    "aftermarket",
+   "current_status",
    "finish",
    "hole_pattern"
   ],
   "questions": [],
   "source_ids": [
+   "SRC-00177",
    "SRC-00224",
-   "SRC-00177"
+   "SRC-00270"
   ],
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
@@ -60355,6 +61269,4361 @@
   ],
   "batches": [
    "B0003-squared-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00513",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SF-100LP",
+  "title": "Square D 100 A sub-feed lug kit for NQO and NQOB panelboards",
+  "component_type": "sub-feed-lug-kit",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "100 Amp. sub-feed lug kit - (NQO & NQOB) ... SF-100LP $74.00",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "sub-feed",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Unknown (1985 Canadian price book)",
+     "conf": "D",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SF-100LP",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00247"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00514",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SF-225LP",
+  "title": "Square D 225 A sub-feed lug kit for NQO, NQOB and NY1B panelboards",
+  "component_type": "sub-feed-lug-kit",
+  "family_ids": [
+   "FAM-SQD-011",
+   "FAM-SQD-010"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "225 Amp. sub-feed lug kit (NQO, NQOB & NYIB) ... SF-225LP $80.00",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "sub-feed",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Unknown (1985 Canadian price book)",
+     "conf": "D",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SF-225LP",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00247"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00515",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SK-5666",
+  "title": "Square D Q1B panelboard mounting kit for NQOB",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Q1B; Panel Board Mounting Kit for NQOB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Q1B / QOB bolt-on",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SK-5666",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Relationship to SK5668 (stated by Schneider FAQ summaries as the correct NQOB branch kit)?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00516",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SK5668",
+  "title": "Square D branch connector kit for NQOB panelboards",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Correct branch kit for NQOB is SK5668, not SK5669 (SK5669 not designed for NQOB)",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "note": "Search-engine summary of Schneider FAQ; FAQ number not mapped",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SK5668",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00266"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00517",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SK5669",
+  "title": "Square D mounting assembly for QO2125 in NQO interior (not for NQOB)",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "A QO2125 can be used in an NQO interior with an SK5669 mounting assembly; SK5669 is not designed for the NQOB panel",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "note": "Search-engine summary",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO2125 (2-pole 125 A QO) in NQO",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SK5669",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00266"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00518",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK1TC",
+  "title": "Square D trim clamp (NQOB), obsolete",
+  "component_type": "hardware-kit",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Trim clamp is PK1TC, obsolete with no replacement",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "note": "Search-engine summary",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete, no replacement",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "PK1TC",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00266"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00519",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QSFB",
+  "title": "Square D QSFB switch/fuse unit from NTFB (basic NQOB) panel",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Switch/fuse unit from the NTFB panel (basic NQOB panel bus)",
+     "conf": "A",
+     "src": [
+      "SRC-00265"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete and no longer available",
+     "conf": "A",
+     "src": [
+      "SRC-00265"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QSFB",
+     "conf": "A",
+     "src": [
+      "SRC-00265"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00265"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00520",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "FP1",
+  "title": "Square D EHB filler plate, 1 in (NEHB)",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-SQD-010"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-041"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "EHB filler plates 1 in (also sold in packs FP1-6, FP1-12)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "EHB positions",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "FP1",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00521",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SK4529",
+  "title": "Square D NY1B mounting kit (discontinued)",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-010"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Required mounting kit SK4529 is discontinued and the entire panel will have to be replaced (NY1B)",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "note": "Search-engine summary",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SK4529",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00266"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00522",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SK4515",
+  "title": "Square D adapter kit for FAL breaker in obsolete MLN panelboard",
+  "component_type": "conversion-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-042"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Adapter kit pairing: FAL with SK4515 (MLN panels)",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FAL",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Offered as of 1/1/2015; now obsolete and no longer available (FAQ revision note)",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Replace complete panelboard with new I-Line",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SK4515",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00263"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00523",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SK4516",
+  "title": "Square D adapter kit for KAL breaker in obsolete MLN panelboard",
+  "component_type": "conversion-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-042"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Adapter kit pairing: KAL with SK4516 (MLN panels)",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "KAL",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Offered as of 1/1/2015; now obsolete and no longer available (FAQ revision note)",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Replace complete panelboard with new I-Line",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SK4516",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00263"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00524",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SK4517",
+  "title": "Square D adapter kit for LAL breaker in obsolete MLN panelboard",
+  "component_type": "conversion-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-042"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Adapter kit pairing: LAL with SK4517 (MLN panels)",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LAL",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Offered as of 1/1/2015; now obsolete and no longer available (FAQ revision note)",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Replace complete panelboard with new I-Line",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SK4517",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00263"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00525",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SK4578",
+  "title": "Square D adapter kit for MAL breaker in obsolete MLN panelboard",
+  "component_type": "conversion-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-042"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Adapter kit pairing: MAL with SK4578 (MLN panels)",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MAL",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Offered as of 1/1/2015; now obsolete and no longer available (FAQ revision note)",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Replace complete panelboard with new I-Line",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SK4578",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00263"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00526",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "ML1KAPT",
+  "title": "ML-1 panel twin mounting hardware for KAP breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ML1 PNL - twin mounting hardware for KAP breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "KAP",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel type ML1 (dealer spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer; OEM origin unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "ML1KAPT",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Dealer-assigned code or Square D/aftermarket part? (ML-1 vs MLN naming)"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00527",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "ML1LAPT",
+  "title": "ML-1 panel twin mounting hardware for LAP breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ML1 PNL - twin mounting hardware for LAP breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LAP",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel type ML1 (dealer spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer; OEM origin unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "ML1LAPT",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Dealer-assigned code or Square D/aftermarket part? (ML-1 vs MLN naming)"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00528",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "ML1LAPS",
+  "title": "ML-1 panel single mounting hardware for LAP breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ML1 PNL - single mounting hardware for LAP breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LAP",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel type ML1 (dealer spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer; OEM origin unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "ML1LAPS",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Dealer-assigned code or Square D/aftermarket part? (ML-1 vs MLN naming)"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00529",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "ML1LAT",
+  "title": "ML-1 panel twin mounting hardware for LA breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ML1 PNL - twin mounting hardware for LA breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel type ML1 (dealer spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer; OEM origin unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "ML1LAT",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Dealer-assigned code or Square D/aftermarket part? (ML-1 vs MLN naming)"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00530",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "ML1MAPS",
+  "title": "ML-1 panel single mounting hardware for MAP breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ML1 PNL - single mounting hardware for MAP breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MAP",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel type ML1 (dealer spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer; OEM origin unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "ML1MAPS",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Dealer-assigned code or Square D/aftermarket part? (ML-1 vs MLN naming)"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00531",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "ML1FAS",
+  "title": "ML-1 panel single mounting hardware for FAP/FAL breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ML1 PNL - single mounting hardware for FAP/FAL breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FAP/FAL",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel type ML1 (dealer spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer; OEM origin unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "ML1FAS",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Dealer-assigned code or Square D/aftermarket part? (ML-1 vs MLN naming)"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00532",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "ML1997",
+  "title": "ML-1 panel unknown mounting hardware for 997 frame breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ML1 PNL - unknown mounting hardware for 997 frame breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "997 frame",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel type ML1 (dealer spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer; OEM origin unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "ML1997",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Dealer-assigned code or Square D/aftermarket part? (ML-1 vs MLN naming)"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00533",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "ML-LAL-S",
+  "title": "ML-1 panel single? mounting hardware for LAP (title says single, spec says twin) breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-SQD-013"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ML1 PNL - single? mounting hardware for LAP (title says single, spec says twin) breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LAP (title says single, spec says twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Panel type ML1 (dealer spec block)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Traded by dealer; OEM origin unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "ML-LAL-S",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "kit_contents",
+   "material"
+  ],
+  "questions": [
+   "Dealer-assigned code or Square D/aftermarket part? (ML-1 vs MLN naming)"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00534",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO-1HT",
+  "title": "Square D handle tie for QO / QOB (two 1-pole to 2-pole individual trip)",
+  "component_type": "breaker-accessory",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Handle Tie (QO or QOB) - permits conversion of two single pole breakers to double pole, individual trip; $0.20",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QO-1HT",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00535",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HLO-1",
+  "title": "Square D handle lockoff for QO, Q1, A1 and Y1B breakers",
+  "component_type": "handle-lock",
+  "family_ids": [
+   "FAM-SQD-011",
+   "FAM-SQD-012",
+   "FAM-SQD-014",
+   "FAM-SQD-010"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-040",
+   "BRK-SQD-043"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Handle Lockoff QO, Q1, A1 and Y1B - HLO-1 $0.90",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QO, Q1, A1(B), Y1B",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "note": "Dealer Relectric lists HLO1 / HLO1-10 as padlock attachment (s10)",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HLO-1",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00536",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO-1PA",
+  "title": "Square D handle padlock attachment, 1-pole QO/QOB/Q1/Q1B/QFSB/HFSB",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Handle Padlock Attachment QO, QOB, Q1, Q1B, QFSB and HFSB (1 Pole) - QO-1PA $1.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QO-1PA",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00537",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO-1PL",
+  "title": "Square D handle padlock attachment, 2/3-pole QO/QOB/Q1/Q1B",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [
+   "BRK-SQD-040"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "QO, QOB, Q1 and Q1B (2 or 3 Pole) - QO-1PL $1.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QO-1PL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00538",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HPA-2QFS",
+  "title": "Square D padlock attachment for QFSB switch, 2/3-pole",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QFSB (2 or 3 Pole) - HPA-2QFS $1.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HPA-2QFS",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00539",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HPA-FK",
+  "title": "Square D padlock attachment for FA and KA breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-014",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "FA and KA - HPA-FK $2.30",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HPA-FK",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00540",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HPA-FYQ",
+  "title": "Square D padlock attachment for Q2 and FY breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-014",
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Q2 and FY - HPA-FYQ $2.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HPA-FYQ",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00541",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HPA-LM",
+  "title": "Square D padlock attachment for LA and MA (permanent trip) breakers",
+  "component_type": "padlock-attachment",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "LA and MA (Permanent trip type) - HPA-LM $2.70",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HPA-LM",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00542",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO-100ASF",
+  "title": "Square D 100 A sub-feed lug kit for main-lug NQO panelboards",
+  "component_type": "sub-feed-lug-kit",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "100 A sub-feed lug kit, for use with main lug NQO panelboards only; sub-feed lugs must be same rating as panelboard - $25.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "sub-feed",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QO-100ASF",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [
+   "Canadian equivalent SF-100LP (1985 Electrozad)?"
+  ],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00543",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO-225ASF",
+  "title": "Square D 225 A sub-feed lug kit for main-lug NQO panelboards",
+  "component_type": "sub-feed-lug-kit",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "225 A sub-feed lug kit, main lug NQO panelboards only; must match panelboard rating - $30.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "sub-feed",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QO-225ASF",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00544",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QO-1CP",
+  "title": "Square D closure plate for twistout in NQO, NQOB and NA1B interior trims",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-SQD-011",
+   "FAM-SQD-012",
+   "FAM-SQD-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Closure Plate for Twistout in NQO, NQOB and NA1B Interior Trims - QO-1CP $0.50",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Deadfront/interior trim twistout openings",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QO-1CP",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00545",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK-3SP",
+  "title": "Square D touch-up paint, blue-gray (aerosol)",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SQD-011",
+   "FAM-SQD-012",
+   "FAM-SQD-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Touch-up Paint, Blue-Gray (Aerosol Can) - PK-3SP $3.80",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "PK-3SP",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00546",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK-49SP",
+  "title": "Square D touch-up paint, ANSI 49 gray (aerosol)",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SQD-011",
+   "FAM-SQD-012",
+   "FAM-SQD-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Touch-up Paint USAS #49 Gray (Aerosol Can) - PK-49SP $3.80",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "finish": [
+    {
+     "value": "USAS/ANSI 49 gray",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "PK-49SP",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00547",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK-9GTA",
+  "title": "Square D equipment ground bar kit, 1-12 circuits (NQO/NQOB/NA1B/NH1B/NTFB/NTHB)",
+  "component_type": "ground-bar",
+  "family_ids": [
+   "FAM-SQD-011",
+   "FAM-SQD-012",
+   "FAM-SQD-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Equipment Ground Bar Kits NQO, NQOB, NA1B, NH1B, NTFB and NTHB: 1 thru 12 circuits - PK-9GTA $1.30",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "PK-9GTA",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00548",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "PK-4FL",
+  "title": "Square D flush lock for MONO-FLAT trims",
+  "component_type": "other",
+  "family_ids": [
+   "FAM-SQD-011",
+   "FAM-SQD-012",
+   "FAM-SQD-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Flush Lock for Mono-Flat Trims - PK-4FL $7.50",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "PK-4FL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00549",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HC-2609-EXF",
+  "title": "Square D I-Line panelboard box extension kit, HCN or NH1B 9 in high extension (flush)",
+  "component_type": "box/enclosure",
+  "family_ids": [
+   "FAM-SQD-004",
+   "FAM-SQD-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "I-Line Panelboard Box Extension Kits: HCN or NH1B 9 in high extension - HC-2609-EXF or S, $51.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HC-2609-EXS",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "'F or S' suffix: S = surface version (inference: F=flush, S=surface, consistent with Digest front suffix convention)",
+     "relation": "equivalent",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HC-2609-EXF",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00550",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HC-3209-EXF",
+  "title": "Square D I-Line panelboard box extension kit, HCM 9 in high extension (flush)",
+  "component_type": "box/enclosure",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "I-Line Panelboard Box Extension Kits: HCM 9 in high extension - HC-3209-EXF or S, $51.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HC-3209-EXS",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "'F or S' suffix: S = surface version (inference: F=flush, S=surface, consistent with Digest front suffix convention)",
+     "relation": "equivalent",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HC-3209-EXF",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00551",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HC-4112-EXF",
+  "title": "Square D I-Line panelboard box extension kit, HCW 12 in high extension (flush)",
+  "component_type": "box/enclosure",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "I-Line Panelboard Box Extension Kits: HCW 12 in high extension - HC-4112-EXF or S, $51.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HC-4112-EXS",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "'F or S' suffix: S = surface version (inference: F=flush, S=surface, consistent with Digest front suffix convention)",
+     "relation": "equivalent",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HC-4112-EXF",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00552",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HC-4112-DEXF",
+  "title": "Square D I-Line panelboard box extension kit, HCWM 12 in high extension (flush)",
+  "component_type": "box/enclosure",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "I-Line Panelboard Box Extension Kits: HCWM 12 in high extension - HC-4112-DEXF or S, $51.00",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.84",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HC-4112-DEXS",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "'F or S' suffix: S = surface version (inference: F=flush, S=surface, consistent with Digest front suffix convention)",
+     "relation": "equivalent",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HC-4112-DEXF",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00553",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "739137",
+  "title": "Square D leveling nut (NQOB panelboard)",
+  "component_type": "fastener",
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Example replacement-part order: '4 - 739137 leveling nuts for use in 120/240 V., 1 Ph., 3 W., 225 A. main lug panelboard catalog number NQOB-3456-8'",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.85",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "739137",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "location",
+   "thread"
+  ],
+  "questions": [
+   "OCR shows '7391 37' - confirm number"
+  ],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00554",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HNM-3BL",
+  "title": "Square D I-Line blank, 3 in high",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "I-Line blank 3 in high (1970)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HNM-3BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "3 in high",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "OCR table",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HNM-3BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00555",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "HLW-3BL",
+  "title": "Square D I-Line blank extension HLW-3BL",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Blank extension HLW-3BL listed with blanks (1970, $1.20)",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "HLW-3BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "HLW-3BL",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00556",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "SL-225",
+  "title": "Square D I-Line sub-feed lugs 225 A",
+  "component_type": "sub-feed-lug-kit",
+  "family_ids": [
+   "FAM-SQD-004"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Sub-feed lugs 225 A; plug onto bus bars in same manner as branch circuit breaker",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.73",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "SL-225",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "1970 Digest spelling",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "sub-feed",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "SL-225",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00557",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QM-1BL",
+  "title": "Square D QMB (QM interior) blank, 1-1/2 in",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QMB Table 3 blank 1-1/2 in high",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "1-1/2 in high",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "OCR",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QM-1BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00558",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QM-3BL",
+  "title": "Square D QMB (QM interior) blank, 3 in",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QMB Table 3 blank 3 in high",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "3 in high",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "OCR",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QM-3BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00559",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QM-6BL",
+  "title": "Square D QMB (QM interior) blank, 6 in",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QMB Table 3 blank 6 in high",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "6 in high",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "OCR",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QM-6BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00560",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QM-9BL",
+  "title": "Square D QMB (QM interior) blank, 9 in",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QMB Table 3 blank 9 in high",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "9 in high",
+     "conf": "B",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "note": "OCR",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QM-9BL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00561",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QM-1SN",
+  "title": "Square D QMB solid neutral assembly 200 A",
+  "component_type": "neutral-assembly",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QMB solid neutral assembly 200 A for interior QMB-1832-2 only; mounted in main lugs compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QM-1SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [
+   "OCR reads 'COM-1 SN' for QM-1SN; confirm"
+  ],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00562",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QM-2SN",
+  "title": "Square D QMB solid neutral assembly 200 A",
+  "component_type": "neutral-assembly",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QMB solid neutral assembly 200 A ; mounted in main lugs compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "200 A",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QM-2SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00563",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QM-4SN",
+  "title": "Square D QMB solid neutral assembly 400 A",
+  "component_type": "neutral-assembly",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QMB solid neutral assembly 400 A ; mounted in main lugs compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QM-4SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00564",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QM-6SN",
+  "title": "Square D QMB solid neutral assembly 600 A",
+  "component_type": "neutral-assembly",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "QMB solid neutral assembly 600 A ; mounted in main lugs compartment",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QM-6SN",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00565",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QMB-63-AL",
+  "title": "Square D QMB adaptor kit, convert one 60 A switch to 30 A (250 V units only)",
+  "component_type": "conversion-kit",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Adaptor kit - 250 V units only - to convert one switch from 60 A to 30 A, $7.30",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QMB-63-AL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00566",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QMB-103-AL",
+  "title": "Square D QMB adaptor kit, convert one 100 A switch to 30 A (250 V units only)",
+  "component_type": "conversion-kit",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Adaptor kit - 250 V units only - to convert one switch from 100 A to 30 A, $7.30",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QMB-103-AL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00567",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QMB-106-AL",
+  "title": "Square D QMB adaptor kit, convert one 100 A switch to 60 A (250 V units only)",
+  "component_type": "conversion-kit",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Adaptor kit - 250 V units only - to convert one switch from 100 A to 60 A, $7.30",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.80",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QMB-106-AL",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00568",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QMB-206-EX",
+  "title": "Square D QMB 2-pole extension assembly, 6 in unit (600 V, 38 in wide QMB)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Extension assembly, two pole, unit height 6 in, 600 V; required to mount 30-200 A QMB units in 38 in wide QMB panelboards",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (30-200 A QMB unit in 38 in wide panel)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83, 85",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QMB-206-EX",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [
+   "3-pole counterpart is QMB306EX (already catalogued)"
+  ],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00569",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QMB-210-EX",
+  "title": "Square D QMB 2-pole extension assembly, 7-1/2 in unit (600 V, 38 in wide QMB)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Extension assembly, two pole, unit height 7-1/2 in, 600 V; required to mount 30-200 A QMB units in 38 in wide QMB panelboards",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (30-200 A QMB unit in 38 in wide panel)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83, 85",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QMB-210-EX",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [
+   "3-pole counterpart is QMB310EX (already catalogued)"
+  ],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SQD-00570",
+  "mfr": "SQD",
+  "brand_marking": "Square D",
+  "oem_part_number": "QMB-220-EX",
+  "title": "Square D QMB 2-pole extension assembly, 9 in unit (600 V, 38 in wide QMB)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SQD-005"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Extension assembly, two pole, unit height 9 in, 600 V; required to mount 30-200 A QMB units in 38 in wide QMB panelboards",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "1970 catalog item; current status unknown",
+     "conf": "D",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (30-200 A QMB unit in 38 in wide panel)",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "page": "Digest 152 (1970) p.83, 85",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "QMB-220-EX",
+     "conf": "A",
+     "src": [
+      "SRC-00270"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "current_status",
+   "dimensions",
+   "material"
+  ],
+  "questions": [
+   "3-pole counterpart is QMB320EX (already catalogued)"
+  ],
+  "source_ids": [
+   "SRC-00270"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"

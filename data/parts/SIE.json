@@ -37473,5 +37473,1944 @@
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00314",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "5EH2",
+  "title": "ITE twin mounting kit for FC20 / VB panels, EE/EH/EF/HE breakers, 150 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-032"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Twin Mounting Kit for FC20, VB panels, mounts EE, EH, EF, HE breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "EE, EH, EF, HE",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "150 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "FC20, VB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "5EH2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00315",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "5FJ2",
+  "title": "ITE twin mounting kit for FC20 / VB panels, FJ3/FJ breakers, 225 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-033"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Twin Mounting Kit for FC20, VB panels, mounts FJ3, FJ breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FJ3, FJ",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "FC20, VB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "5FJ2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00316",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "5JJ2",
+  "title": "ITE twin mounting kit, J-frame (JD3/JJ3/JL3/HJ3), 400 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010",
+   "FAM-SIE-013"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-033"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Twin Mounting Kit for NAB, NHB panels (title) - spec block panel type 'FC20 VB'; mounts JD3, JJ3, JL3, HJ3, JD, JJ, JL",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JD3, JJ3, JL3, HJ3, JD, JJ, JL",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Title: NAB, NHB panels; spec: FC20, VB (conflict)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "5JJ2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Title says NAB/NHB panels but spec says FC20/VB - which ITE equipment?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00317",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "EH3K",
+  "title": "Twin mounting hardware kit for FC20/VB, EE/EH/EF/HE, 150 A (possibly aftermarket equivalent of 5EH2)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-032"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Siemens; Twin Mounting Hardware Kit; 150A Max",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "EE, EH, EF, HE",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "150 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "FC20, VB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "EH3K",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "OEM or aftermarket (IEM-style 'K' suffix)?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00318",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "FJ3K",
+  "title": "Twin mounting hardware kit for FC20/VB, FJ3, 225 A (possibly aftermarket equivalent of 5FJ2)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-033"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Siemens; Twin Mounting Hardware Kit; 225A Max",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FJ3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "FC20, VB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "FJ3K",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "OEM or aftermarket?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00319",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "JJ3K",
+  "title": "Twin mounting hardware kit for FC20/VB, JD3/JJ3/JL3/HJ3, 400 A (possibly aftermarket equivalent of 5JJ2)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-033"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Siemens; Twin Mounting Hardware Kit; 400A Max",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JD3, JJ3, JL3, HJ3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "FC20, VB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "JJ3K",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "OEM or aftermarket?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00320",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CDPFJ3",
+  "title": "Mounting hardware for FJ3 breaker in CDP panelboard (twin, 225 A)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-033"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Mounting hardware for FJ3 breaker in CDP pnlbd",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FJ3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "FC1, FCII, SB1, SB2, SB3, CDP-5, CDP-6, S5, P5",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CDPFJ3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00321",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "6CLJ6",
+  "title": "Mounting hardware to mount CJD (CLD) into FC-1 panel, single, 600 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Mounting hardware to mount CJD into FC-1 Panel",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "CLD / CJD",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "FC1, FCII, SB1-3, CDP-5, CDP-6, S5, P5",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "6CLJ6",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00322",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "NEB65K",
+  "title": "Twin mounting hardware kit for NEB/HEB breakers, 125 A (Series 5/6 deep panels)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Siemens; Twin Mounting Hardware Kit; 125A Max",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NEB, HEB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "125 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "FC1, FCII, CDP-5, CDP-6, SB1-3, S5, P5, SPP/FPP",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "NEB65K",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00323",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "NEB64K",
+  "title": "Twin mounting hardware kit for NEB/HEB breakers, 125 A (S4/P4/SPP/F1)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Siemens; Twin Mounting Hardware Kit; 125A Max",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NEB, HEB",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "125 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "S4, P4, SPP, F1",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "NEB64K",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00324",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CD55JJ2",
+  "title": "ITE CDP pre-Series 5 J-frame hardware kit, 2-3/4 in rise",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-014"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-033"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "ITE CDP Pre Series 5 Hardware Kit 2 3/4in Rise",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JJ (inferred from catalog number)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "ITE CDP pre-Series 5",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CD55JJ2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00325",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CD62JJ2",
+  "title": "ITE CDP mounting hardware for JJ3/JL3/HJL3",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-014",
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-033"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "ITE, Mounting Hardware, CDP, JJ3/JL3/HJL3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JJ3, JL3, HJL3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "ITE CDP (Series 6 by catalog number - inference)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CD62JJ2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00326",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CDP525-FD63BT",
+  "title": "ITE CDP 5.25 in deep panelboard twin hardware kit, FD63B",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "FD63B panelboard twin hardware kit",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FD63B",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "CDP 5.25 in deep (dealer panel type 'FJ3B')",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CDP525-FD63BT",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00327",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CDP525-FJ3B",
+  "title": "ITE CDP 5.25 in deep panelboard hardware kit, FJ3B200",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "FJ3B200 panelboard hardware kit",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FJ3B200",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "CDP 5.25 in deep",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CDP525-FJ3B",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00328",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CDP525-FJ3BT",
+  "title": "ITE CDP 5.25 in deep panelboard twin hardware kit, FJ3B200",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "FJ3B200 panelboard twin hardware kit",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FJ3B200",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "CDP 5.25 in deep",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CDP525-FJ3BT",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00329",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CDP71PHED4",
+  "title": "ITE CDP mounting hardware for HED breakers",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "ITE; CDP; Mounting Hardware for HED Breakers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "HED",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "ITE CDP (CDP-7 by catalog number - inference)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CDP71PHED4",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00330",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CDP7BQ3",
+  "title": "Siemens/ITE CDP-7 3-pole BQ hardware",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-014"
+  ],
+  "breaker_ids": [
+   "BRK-SIE-031"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Siemens; Hardware; 3P; Hardware for CDP Panel",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "BQ 3-pole (inferred)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "CDP-7 panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CDP7BQ3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00331",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "CDP7MBKQJ3",
+  "title": "CDP-7 panelboard 3-phase QJ main/sub-feed breaker kit, 225 A",
+  "component_type": "main-breaker-kit",
+  "family_ids": [
+   "FAM-SIE-014"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "CDP7 panel board 3 phase QJ MB/subfeed kit",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "QJ",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "main or sub-feed",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "CDP-7",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "CDP7MBKQJ3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-SIE-00332",
+  "mfr": "SIE",
+  "brand_marking": "ITE / Siemens",
+  "oem_part_number": "VB610",
+  "title": "ITE Vacu-Break mounting hardware straps",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Vacu-Break mounting hardware straps",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "Vacu-Break fusible switch",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "VB / FC switchboards (inference)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "VB610",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
  }
 ]

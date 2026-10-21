@@ -4220,6 +4220,175 @@
   "created_batch": "B0007-breaker-terminal-kits-eaton-squared"
  },
  {
+  "id": "BRK-EAT-064",
+  "mfr": "EAT",
+  "name": "Westinghouse Quicklag (QC / QL / QP) lighting breakers",
+  "aliases": [
+   "Quicklag",
+   "QC",
+   "QL",
+   "QP"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Plug-in (Quicklag in NLAB); QC listed for Westinghouse NLAB, QL for Cutler-Hammer NLAB, QP for NPLAB/NQP",
+     "conf": "A",
+     "src": [
+      "SRC-00243",
+      "SRC-00013"
+     ],
+     "page": "V12-T4-4, V12-T4-7",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Out of production; NLAB connectors not available",
+     "conf": "A",
+     "src": [
+      "SRC-00013"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-024"
+  ],
+  "source_ids": [
+   "SRC-00243",
+   "SRC-00013"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-EAT-065",
+  "mfr": "EAT",
+  "name": "Westinghouse AB De-ion molded case breakers (E, F, G, J, K, KL, L, M frames)",
+  "aliases": [
+   "AB De-ion",
+   "E frame",
+   "EB",
+   "EHB"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "15-800 A (CDP 1957)",
+     "conf": "A",
+     "src": [
+      "SRC-00261"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "Up to 600 V AC / 250 V DC",
+     "conf": "A",
+     "src": [
+      "SRC-00261"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-013",
+   "FAM-EAT-025",
+   "FAM-EAT-029",
+   "FAM-EAT-037"
+  ],
+  "source_ids": [
+   "SRC-00261",
+   "SRC-00013"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-EAT-066",
+  "mfr": "EAT",
+  "name": "Cutler-Hammer CH / CHB",
+  "aliases": [
+   "CH",
+   "CHB"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "CH plug-on, CHB bolt-on",
+     "conf": "A",
+     "src": [
+      "SRC-00013"
+     ],
+     "page": "V12-T4-4",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Current product (still used in PRL1a / PRL3a)",
+     "conf": "A",
+     "src": [
+      "SRC-00013"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-036",
+   "FAM-EAT-032",
+   "FAM-EAT-033"
+  ],
+  "source_ids": [
+   "SRC-00013"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-EAT-067",
+  "mfr": "EAT",
+  "name": "Cutler-Hammer CC / CCH / CHH",
+  "aliases": [
+   "CC",
+   "CCH",
+   "CHH"
+  ],
+  "claims": {
+   "status": [
+    {
+     "value": "CC and CHH still listed as new breakers for PRL3a/PRL4B/PRL5P; CCH has no direct new breaker in the charts",
+     "conf": "A",
+     "src": [
+      "SRC-00013"
+     ],
+     "page": "V12-T4-4/5/6",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-033",
+   "FAM-EAT-034",
+   "FAM-EAT-035",
+   "FAM-EAT-037"
+  ],
+  "source_ids": [
+   "SRC-00013"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
   "id": "BRK-FPE-001",
   "mfr": "FPE",
   "name": "NB (Stab-Lok bolt-on)",
@@ -6212,6 +6381,116 @@
   "created_batch": "B0008-breaker-terminal-kits-ge-siemens"
  },
  {
+  "id": "BRK-GEA-029",
+  "mfr": "GEA",
+  "name": "GE TQ / TQL / TQC / TQB / TBQ lighting breakers",
+  "aliases": [
+   "TQ",
+   "TQL",
+   "TQC",
+   "TQB",
+   "TBQ"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "TQL: plug-in, quick-make quick-break, thermal-magnetic (first plug-in QMQB breaker per Trumbull 1951-52); TQ in NLAB (formerly NTQ)",
+     "conf": "A",
+     "src": [
+      "SRC-00259",
+      "SRC-00268"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "Standard ratings 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100 A (GEG-13610B); TQL 15-50 A 1-pole and common-trip 2/3-pole (1957)",
+     "conf": "A",
+     "src": [
+      "SRC-00260",
+      "SRC-00261"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-011"
+  ],
+  "source_ids": [
+   "SRC-00259",
+   "SRC-00260",
+   "SRC-00261",
+   "SRC-00268"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-GEA-030",
+  "mfr": "GEA",
+  "name": "GE / Trumbull Type AT and ATB breakers",
+  "aliases": [
+   "AT",
+   "ATB"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "AT 15-50 A branch in NAB/ABH; mains 50 A AT, 100 A ATB, 200 A AT in NLAB",
+     "conf": "A",
+     "src": [
+      "SRC-00259"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-007",
+   "FAM-GEA-011"
+  ],
+  "source_ids": [
+   "SRC-00259"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-GEA-031",
+  "mfr": "GEA",
+  "name": "GE TB1 / TB4 / TB6 / TB8 breakers (CCB / AV)",
+  "aliases": [
+   "TB1",
+   "TB4",
+   "TB6",
+   "TB8"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolted with DPK (twin) / SPK (single) strap kits in CCB, QMR and AV1/AV2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-GEA-006",
+   "FAM-GEA-009"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
   "id": "BRK-OTH-001",
   "mfr": "OTH",
   "name": "Wadsworth A / B series",
@@ -7571,6 +7850,100 @@
    "SRC-00155"
   ],
   "created_batch": "B0009-legacy-other-manufacturers"
+ },
+ {
+  "id": "BRK-SIE-031",
+  "mfr": "SIE",
+  "name": "ITE BQ / BQH / HBQ bolt-on (Canada)",
+  "aliases": [
+   "BQ",
+   "BQH",
+   "HBQ"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "Bolt-on",
+     "conf": "C",
+     "src": [
+      "SRC-00247"
+     ],
+     "basis": "distributor",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-013"
+  ],
+  "source_ids": [
+   "SRC-00247"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-SIE-032",
+  "mfr": "SIE",
+  "name": "ITE EE / EH / EF / HE breakers",
+  "aliases": [
+   "EE",
+   "EH",
+   "EF",
+   "HE"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "150 A frame (kit max)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-010"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-SIE-033",
+  "mfr": "SIE",
+  "name": "ITE FJ3 / JD3 / JJ3 / JL3 / HJ3 breakers",
+  "aliases": [
+   "FJ3",
+   "JJ3",
+   "JD3",
+   "JL3",
+   "HJ3"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "FJ3 225 A; J-frame 400 A (kit max)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SIE-010",
+   "FAM-SIE-014"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
  },
  {
   "id": "BRK-SQD-001",
@@ -10223,6 +10596,162 @@
    "SRC-00177"
   ],
   "created_batch": "B0003-squared-panelboards"
+ },
+ {
+  "id": "BRK-SQD-040",
+  "mfr": "SQD",
+  "name": "Square D QO / QOB (Q1 / Q1B in Canada) for NQO / NQOB",
+  "aliases": [
+   "QO",
+   "QOB",
+   "Q1",
+   "Q1B"
+  ],
+  "claims": {
+   "mounting": [
+    {
+     "value": "QO plug-on (NQO), QOB bolt-on (NQOB)",
+     "conf": "A",
+     "src": [
+      "SRC-00245",
+      "SRC-00246"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "amps": [
+    {
+     "value": "1P 15-50 A, 2P 15-70 A and 70-100 A, 3P 15-50 A and 70-100 A (1960)",
+     "conf": "A",
+     "src": [
+      "SRC-00245"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "AC only in NQO/NQOB (1960)",
+     "conf": "A",
+     "src": [
+      "SRC-00246"
+     ],
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-011"
+  ],
+  "source_ids": [
+   "SRC-00245",
+   "SRC-00246",
+   "SRC-00247"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-SQD-041",
+  "mfr": "SQD",
+  "name": "Square D EH / EHB (NEHB)",
+  "aliases": [
+   "EH",
+   "EHB"
+  ],
+  "claims": {
+   "status": [
+    {
+     "value": "Discontinued, no replacement (search summary)",
+     "conf": "C",
+     "src": [
+      "SRC-00266"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-010"
+  ],
+  "source_ids": [
+   "SRC-00266"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-SQD-042",
+  "mfr": "SQD",
+  "name": "Square D ML breakers (MLN panels)",
+  "aliases": [
+   "ML",
+   "ML-1"
+  ],
+  "claims": {
+   "status": [
+    {
+     "value": "Obsolete",
+     "conf": "A",
+     "src": [
+      "SRC-00263"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-013",
+   "FAM-SQD-010"
+  ],
+  "source_ids": [
+   "SRC-00263",
+   "SRC-00264",
+   "SRC-00267"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
+ },
+ {
+  "id": "BRK-SQD-043",
+  "mfr": "SQD",
+  "name": "Square D Y1B 1-pole (NY1B)",
+  "aliases": [
+   "Y1B"
+  ],
+  "claims": {
+   "amps": [
+    {
+     "value": "1-pole 15-50 A",
+     "conf": "A",
+     "src": [
+      "SRC-00264"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Obsolete and no longer available",
+     "conf": "A",
+     "src": [
+      "SRC-00264"
+     ],
+     "basis": "oem_web",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "family_ids": [
+   "FAM-SQD-010"
+  ],
+  "source_ids": [
+   "SRC-00264"
+  ],
+  "created_batch": "B0012-archival-legacy-panelboards"
  },
  {
   "id": "BRK-ZIN-001",

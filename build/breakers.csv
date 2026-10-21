@@ -62,6 +62,10 @@ BRK-EAT-060,EAT,Series G EG-Frame (EGB/EGE/EGS/EGH/EGC),EGB; EGE; EGS; EGH; EGC;
 BRK-EAT-061,EAT,Series G JG-Frame (JGE/JGS/JGH/JGC),JGE; JGS; JGH; JGC; JG,,JG-Frame,,63-250 A,,,
 BRK-EAT-062,EAT,Series G LG-Frame (LGE/LGS/LGH/LGC),LGE; LGS; LGH; LGC; LG,,LG-Frame,,250-630 A (600 A UL/CSA),,,
 BRK-EAT-063,EAT,Series G NG-Frame,NGS; NGH; NGC; NG,,NG-Frame,,up to 1250/1600 A,,,
+BRK-EAT-064,EAT,Westinghouse Quicklag (QC / QL / QP) lighting breakers,Quicklag; QC; QL; QP,"Plug-in (Quicklag in NLAB); QC listed for Westinghouse NLAB, QL for Cutler-Hammer NLAB, QP for NPLAB/NQP",,,,,Out of production; NLAB connectors not available,NLAB
+BRK-EAT-065,EAT,"Westinghouse AB De-ion molded case breakers (E, F, G, J, K, KL, L, M frames)",AB De-ion; E frame; EB; EHB,,,,15-800 A (CDP 1957),Up to 600 V AC / 250 V DC,,CDP; NAB; MP40; NFB
+BRK-EAT-066,EAT,Cutler-Hammer CH / CHB,CH; CHB,"CH plug-on, CHB bolt-on",,,,,Current product (still used in PRL1a / PRL3a),CHP/CHB; PB; PH
+BRK-EAT-067,EAT,Cutler-Hammer CC / CCH / CHH,CC; CCH; CHH,,,,,,CC and CHH still listed as new breakers for PRL3a/PRL4B/PRL5P; CCH has no direct new breaker in the charts,MP40; PH; EE; EP; NFB
 BRK-FPE-001,FPE,NB (Stab-Lok bolt-on),NB Stab-Lok; UBIF...NB (Connecticut Electric replacement),bolt-on (NBLP panelboards),,,"15-100 A (e.g., NB100 2P 100 A)",120/240 VAC,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,NBLP
 BRK-FPE-002,FPE,NA / NC (Stab-Lok plug-in),"NA (thick, 1 in/pole); NC (thin); Stab-Lok",plug-in Stab-Lok,,,15-100 A,120/240 VAC,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,NA1B
 BRK-FPE-003,FPE,NE / NEF / NEG / HEF / HEG (N-frame 100 A class),"NE; NEF; NEG; HEF; HEG; NES (stab); NEF4.., NEF6..",bolt-on; NES variants stab-type,NE frame (same physical size for NE/NEF per JRL Electric explainer),,15-100 A,NE: 240 VAC/250 VDC; NEF: 480 VAC (2-3P) / 277 V (1P); HEF/HEG: 600 VAC,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,CDP; BDP; NDP; NA1B
@@ -99,6 +103,9 @@ BRK-GEA-025,GEA,Record Plus FB 100,FB100; FBN; FBV; FBH,,FB 100,,15-100 A,,,
 BRK-GEA-026,GEA,Record Plus FC 100,FC100,,FC 100,,15-100 A,,,
 BRK-GEA-027,GEA,Record Plus FE 250,FE250,,FE 250,,25-250 A,,,
 BRK-GEA-028,GEA,Record Plus FG 600,FG600,,FG 600,,100-600 A,,,
+BRK-GEA-029,GEA,GE TQ / TQL / TQC / TQB / TBQ lighting breakers,TQ; TQL; TQC; TQB; TBQ,"TQL: plug-in, quick-make quick-break, thermal-magnetic (first plug-in QMQB breaker per Trumbull 1951-52); TQ in NLAB (formerly NTQ)",,,"Standard ratings 15, 20, 25, 30, 35, 40, 45, 50, 60, 70, 80, 90, 100 A (GEG-13610B); TQL 15-50 A 1-pole and common-trip 2/3-pole (1957)",,,NLAB
+BRK-GEA-030,GEA,GE / Trumbull Type AT and ATB breakers,AT; ATB,,,,"AT 15-50 A branch in NAB/ABH; mains 50 A AT, 100 A ATB, 200 A AT in NLAB",,,NHB; NLAB
+BRK-GEA-031,GEA,GE TB1 / TB4 / TB6 / TB8 breakers (CCB / AV),TB1; TB4; TB6; TB8,"Bolted with DPK (twin) / SPK (single) strap kits in CCB, QMR and AV1/AV2",,,,,,CCB-QMR; AV-LINE
 BRK-OTH-001,OTH,Wadsworth A / B series,A15NI; A360; B1515,plug-in (assumed),,,15-90 A,120/240 V (3-pole versions exist),Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,WADSWORTH
 BRK-SIE-001,SIE,BL,BL; BLH; HBL; BLF; BLE; BAF; BT twin (B1515/B2020),bolt-on,1in per pole bolt-on,,15-100A,120/240V,,RP1; P1; S1/S2; P2; P3; P4; P5; SB
 BRK-SIE-002,SIE,BQD,BQD; BQD6,"bolt-on, 1in per pole",,,15-100A,480Y/277V,,RP1; P1; P2; P3; P4; P5; SB
@@ -130,6 +137,9 @@ BRK-SIE-027,SIE,"Sentron ND (ND6, NXD6, HND6, HNXD6, SND6-B, CND6)",ND6; NXD6; H
 BRK-SIE-028,SIE,"Sentron PD (PD6, PXD6, HPD6, HPXD6, SPD6-B, CPD6)",PD6; PXD6; HPD6; HPXD6; SPD6-B; SHPD6-B; CPD6,,,,1200-1600 A,,,
 BRK-SIE-029,SIE,"Sentron RD (RD6, RXD6, HRD6, HRXD6)",RD6; RXD6; HRD6; HRXD6,,,,1600-2000 A,,,
 BRK-SIE-030,SIE,Pushmatic (Bulldog / ITE),P-series; P1515 (condensed dual 15 A); UBIP (Connecticut Electric replacement),bolt-on push-button,,,15-? A (UBIP replacements 15-40+ A),120 / 120/240 V,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,PUSHMATIC
+BRK-SIE-031,SIE,ITE BQ / BQH / HBQ bolt-on (Canada),BQ; BQH; HBQ,Bolt-on,,,,,,NLAB
+BRK-SIE-032,SIE,ITE EE / EH / EF / HE breakers,EE; EH; EF; HE,,,,150 A frame (kit max),,,CDP6
+BRK-SIE-033,SIE,ITE FJ3 / JD3 / JJ3 / JL3 / HJ3 breakers,FJ3; JJ3; JD3; JL3; HJ3,,,,FJ3 225 A; J-frame 400 A (kit max),,,CDP6; CDP-ITE
 BRK-SQD-001,SQD,FA / FH (I-Line),FA; FH; FY; FA 240V; FA 480V,I-Line plug-on (bolt-on version factory-only: 3rd character 'B'),100 A,"1 (277 V), 2, 3",15-100 A,240/480/600 V,,QED-2; I-LINE
 BRK-SQD-002,SQD,H-frame HD/HG/HJ/HL/HR (I-Line),HD; HG; HJ; HL; HR; PowerPact H,I-Line plug-on,150 A,"2, 3 (HR 3)",15-150 A,600 V,,QED-2; I-LINE
 BRK-SQD-003,SQD,Q-frame QB/QD/QG/QJ (I-Line),QB; QD; QG; QJ; Q2; Q4,I-Line plug-on,225 A,"2, 3",70-225 A,240 V,,QED-2; I-LINE
@@ -169,6 +179,10 @@ BRK-SQD-036,SQD,PowerPacT L-frame (LG/LJ/LL/LR),PPL,NQMB6PPL / N600MPPL kits; re
 BRK-SQD-037,SQD,KI / KC frame (legacy),KI; KC; N250MKC,,K (225/250 A),,,,legacy (kits dated 2008-2009),NQ; NF; NQOD
 BRK-SQD-038,SQD,FI frame (legacy),FI,,F (100 A),,,,,NF
 BRK-SQD-039,SQD,PowerPacT M / P / R frame (I-Line),MG; MJ; PG; PJ; PK; PL; RG; RJ; RK; RL,,"M 800 A, P up to 1200 A, R 1200 A",,,,,I-LINE; NF
+BRK-SQD-040,SQD,Square D QO / QOB (Q1 / Q1B in Canada) for NQO / NQOB,QO; QOB; Q1; Q1B,"QO plug-on (NQO), QOB bolt-on (NQOB)",,,"1P 15-50 A, 2P 15-70 A and 70-100 A, 3P 15-50 A and 70-100 A (1960)",AC only in NQO/NQOB (1960),,NQOB
+BRK-SQD-041,SQD,Square D EH / EHB (NEHB),EH; EHB,,,,,,"Discontinued, no replacement (search summary)",NEHB
+BRK-SQD-042,SQD,Square D ML breakers (MLN panels),ML; ML-1,,,,,,Obsolete,MLN; NEHB
+BRK-SQD-043,SQD,Square D Y1B 1-pole (NY1B),Y1B,,,,1-pole 15-50 A,,Obsolete and no longer available,NEHB
 BRK-ZIN-001,ZIN,Zinsco Q / QC / QB / QFP / QFL / QFB (Magnatrip),Q; QC; QCN; Q24; QB; QCB; QCAL; QFP; QFL; QFB; QFBL; R38; RC38; Magnatrip; UBIZ (Connecticut Electric replacement),"plug-in (Q/QC/R38, QFP mains) and bolt-on (QB/QCB/QFB) onto on-edge flat bus",,,15-225 A,"120/240 V; 240 V 3-ph (Q24, QFP24, QB243xxx)",Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,ZIN-Q; ZIN-DIST
 BRK-ZIN-002,ZIN,Zinsco / Sylvania QSF fusible panelboard switch,QSF; QSF-T (twin); QSF-xx33 (240 V); QSF-xx53 (600 V),bolt-on panel mounted switch unit,,,30-600 A,240 V / 600 V,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,ZIN-DIST; FA
 BRK-ZIN-003,ZIN,Sylvania S-series bolt-on breakers (SE / SEH / SF / SJD / SJK / SKM),SE; SEH; SF; SJD; SJK; SKM; Challenger SF,bolt-on,,,15-800 A (SEH to 100 A; SF to 175 A; SJK 250-600 A; SKM 800 A),240/480/600 V,Obsolete (original FPE); recertified / new-surplus units sold by aftermarket,ZIN-DIST; CHA-PM4

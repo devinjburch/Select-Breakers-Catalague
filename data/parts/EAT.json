@@ -100534,5 +100534,1938 @@
   ],
   "created": "2026-10-21",
   "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00789",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40KF100-3",
+  "title": "Cutler-Hammer MP40 twin branch breaker mounting kit, EHB, FS, FB, FH, EHD, FDB, FD, HFD, FDC, 100 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer twin mounting kit for MP-style panelboards; 100 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "EHB, FS, FB, FH, EHD, FDB, FD, HFD, FDC",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "100 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "MP40KF1003",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "note": "Superbreakers spelling without hyphen",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40KF100-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251",
+   "SRC-00252"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00790",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40KC225-3",
+  "title": "Cutler-Hammer MP40 twin branch breaker mounting kit, CA, CAH, HCA, 225 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer twin mounting kit for MP-style panelboards; 225 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "CA, CAH, HCA",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "MP40KC2253",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "note": "Superbreakers spelling without hyphen",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40KC225-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251",
+   "SRC-00252"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00791",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40ED225-3",
+  "title": "Cutler-Hammer MP40 twin branch breaker mounting kit, ED, FD, HFD, 225 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer twin mounting kit for MP-style panelboards; 225 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "ED, FD, HFD",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "MP40ED2253",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "note": "Superbreakers spelling without hyphen",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40ED225-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251",
+   "SRC-00252"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00792",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40KJ225-3",
+  "title": "Cutler-Hammer MP40 twin branch breaker mounting kit, JB, KB, JD, HKB, 225 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer twin mounting kit for MP-style panelboards; 225 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "JB, KB, JD, HKB",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "MP40KJ2253",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "note": "Superbreakers spelling without hyphen",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40KJ225-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251",
+   "SRC-00252"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00793",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40KK400-3",
+  "title": "Cutler-Hammer MP40 twin branch breaker mounting kit, KA, KS, KH, LB, HLB (Relectric); JB, KB, JD, HKB (Superbreakers), 400 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer twin mounting kit for MP-style panelboards; 400 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "KA, KS, KH, LB, HLB (Relectric); JB, KB, JD, HKB (Superbreakers)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "MP40KK4003",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "note": "Superbreakers spelling without hyphen",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40KK400-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251",
+   "SRC-00252"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00794",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40KL400-3",
+  "title": "Cutler-Hammer MP40 twin branch breaker mounting kit, LA, LS, LC, LD, HLC, 400 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer twin mounting kit for MP-style panelboards; 400 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LS, LC, LD, HLC",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "400 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "MP40KL4003",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "note": "Superbreakers spelling without hyphen",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40KL400-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251",
+   "SRC-00252"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00795",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40KL600-3",
+  "title": "Cutler-Hammer MP40 twin branch breaker mounting kit, LA, LS, LC, LD, HLC, 600 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer twin mounting kit for MP-style panelboards; 600 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LA, LS, LC, LD, HLC",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40KL600-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00796",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40KM800-3",
+  "title": "Cutler-Hammer MP40 single branch breaker mounting kit, MA, MS, MC, MD, 800 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer single mounting kit for MP-style panelboards; 800 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "MA, MS, MC, MD",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "800 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "MP40KM8003",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "note": "Superbreakers spelling without hyphen",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40KM800-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251",
+   "SRC-00252"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00797",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40KN1200-3",
+  "title": "Cutler-Hammer MP40 single branch breaker mounting kit, NB, NS, NC, ND, 1200 A",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067",
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler-Hammer single mounting kit for MP-style panelboards; 1200 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "NB, NS, NC, ND",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "1200 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis branch position (also MP2/MP200 switchboard distribution sections); Panel types per Relectric spec block: MP40, MP50, MP100, MP200 (MP50 not found in Eaton literature)",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "alt_part_numbers": [
+    {
+     "value": "MP40KN12003",
+     "conf": "C",
+     "src": [
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "note": "Superbreakers spelling without hyphen",
+     "relation": "alias",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "kit_contents": [
+    {
+     "value": "Screws, brackets and panel cover (dealer text); Eaton: MP40 kits = breaker(s) + connector kit + mounting hardware + device cover + instructions when bought as a retrofit kit",
+     "conf": "C",
+     "src": [
+      "SRC-00252",
+      "SRC-00248"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40KN1200-3",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00252"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Is this the OEM catalog number format (Eaton snippets suggest 'KMP40...' pattern in PL01400003E) or a dealer derivative?"
+  ],
+  "source_ids": [
+   "SRC-00251",
+   "SRC-00252"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00798",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP40CHH",
+  "title": "Cutler-Hammer MP40 hardware kit for CHH breakers (twin, 225 A)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "CHR; MP40CHH; Hardware kit; twin; 225 A max",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "CHH (inferred from catalog number)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A maximum",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40/MP50/MP100/MP200 per dealer",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP40CHH",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00799",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MP403XBLANK",
+  "title": "Cutler-Hammer MP40 3X high filler blank",
+  "component_type": "filler-plate",
+  "family_ids": [
+   "FAM-EAT-029"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "Cutler Hammer MP40 3X high filler blank",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 chassis unused 3X (3 x 1.38 in) space",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "dimensions": [
+    {
+     "value": "3X high (3 x 1.38 in = 4.14 in) - X unit from Vol 12",
+     "conf": "C",
+     "src": [
+      "SRC-00251",
+      "SRC-00013"
+     ],
+     "basis": "inference",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MP403XBLANK",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Dealer spec block for MP403XBLANK says 'Panel Type PRL3A, BAB QBHW, 100 A' - conflicting; verify against part"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00800",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "MPED1K",
+  "title": "Cutler-Hammer MP-series dual-branch connector kit, 225 A, 600 V (E/F frame)",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-029",
+   "FAM-EAT-031"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-065"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "225A dual (twin) branch panelboard connector kit, copper, 600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FDB, FD, HFD, FDC, ED, EHD, EDC (specs) / ED, FD, HFD, FDC, FDB (description)",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "225 A",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (twin)",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "MP40 (also MP50, MP100, MP200 per description)",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "material": [
+    {
+     "value": "Copper",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "voltage": [
+    {
+     "value": "600 V",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "MPED1K",
+     "conf": "C",
+     "src": [
+      "SRC-00253"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Relationship between MPED1K and MP40ED225-3 (both 225 A twin ED/FD kits)?"
+  ],
+  "source_ids": [
+   "SRC-00253"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00801",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "KPHCC3175S",
+  "title": "Cutler-Hammer PH panelboard retrofit kit, single-mount CC breaker 3P 175 A, with cover plate",
+  "component_type": "branch-connector-kit",
+  "family_ids": [
+   "FAM-EAT-033"
+  ],
+  "breaker_ids": [
+   "BRK-EAT-067"
+  ],
+  "claims": {
+   "description": [
+    {
+     "value": "PH retrofit kit single mount w/cover plate",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "CC",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "175 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "application": [
+    {
+     "value": "branch (single mount)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Cutler-Hammer PH panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "KPHCC3175S",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [
+   "Does the kit include the CC breaker (Eaton 'retrofit kit' = breaker + connectors) or hardware only?"
+  ],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00802",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "EEMODULEFS",
+  "title": "Cutler-Hammer EE panelboard mounting module for FS-frame breaker",
+  "component_type": "breaker-mounting-kit",
+  "family_ids": [
+   "FAM-EAT-034"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "EE Mounting Module for FS frame breaker",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "FS",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Cutler-Hammer EE plug-in power panelboard",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "EEMODULEFS",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
+ },
+ {
+  "id": "EDH-EAT-00803",
+  "mfr": "EAT",
+  "brand_marking": "Cutler-Hammer",
+  "oem_part_number": "EELD36600SB2",
+  "title": "LD3600 breaker with Cutler-Hammer EE hardware kit",
+  "component_type": "conversion-kit",
+  "family_ids": [
+   "FAM-EAT-034"
+  ],
+  "breaker_ids": [],
+  "claims": {
+   "description": [
+    {
+     "value": "LD3600 Breaker with EE Hardware Kit",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "status": [
+    {
+     "value": "Discontinued OEM item traded new-surplus / recertified by dealers",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "breaker_compat": [
+    {
+     "value": "LD 3-pole 600 A (LD3600)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "ampacity": [
+    {
+     "value": "600 A",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "location": [
+    {
+     "value": "Cutler-Hammer EE panelboard (LS/LH position; Eaton chart maps LS->LD)",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "replacement": [
+    {
+     "value": "Eaton chart: EE LS / LS(A) / LS(E) / LS(B) -> PRL5P LD",
+     "conf": "A",
+     "src": [
+      "SRC-00013"
+     ],
+     "page": "V12-T4-6",
+     "basis": "oem_spec",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ],
+   "oem_part_number": [
+    {
+     "value": "EELD36600SB2",
+     "conf": "C",
+     "src": [
+      "SRC-00251"
+     ],
+     "basis": "surplus_listing",
+     "batch": "B0012-archival-legacy-panelboards"
+    }
+   ]
+  },
+  "requires": [],
+  "unknowns": [
+   "dimensions",
+   "install_doc",
+   "kit_contents",
+   "material",
+   "oem_status_confirmation"
+  ],
+  "questions": [],
+  "source_ids": [
+   "SRC-00251"
+  ],
+  "batches": [
+   "B0012-archival-legacy-panelboards"
+  ],
+  "created": "2026-10-21",
+  "updated": "2026-10-21"
  }
 ]
