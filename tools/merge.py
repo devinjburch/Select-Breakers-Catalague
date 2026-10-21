@@ -182,6 +182,16 @@ def merge_batch(store, path, warnings):
             rec["batches"].append(batch)
         # file local document
         lf = rec.get("local_file")
+        if lf and "_unlinked" in lf and (ROOT / lf).exists():
+            # a previously unreferenced document is now cited: file it with its manufacturer
+            dest = LIB / rec.get("mfr", "OTH") / Path(lf).name
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            if not dest.exists():
+                shutil.move(str(ROOT / lf), dest)
+            rec["local_file"] = str(dest.relative_to(ROOT))
+            rec["sha256"] = sha256(dest)
+            rec["bytes"] = dest.stat().st_size
+            lf = None
         if lf and "_incoming" in lf:
             src_path = ROOT / lf
             if not src_path.exists():

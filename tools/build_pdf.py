@@ -662,7 +662,18 @@ class Catalogue:
                 n += 1
         story.append(tbl(rows, [1.2 * inch, 1.4 * inch, 4.0 * inch, 0.4 * inch]) if n
                      else Paragraph("No replacement statements recorded yet.", BODY))
-        story += heading(f"{no}.3  Companion parts required for installation", H2, 1, "xref-req", self.pm)
+        story += heading(f"{no}.3  Aftermarket and reproduction availability", H2, 1, "xref-aft", self.pm)
+        story.append(Paragraph("Statements that a non-OEM or reconditioned item is offered for an OEM part. These are "
+                               "seller claims unless the class is A; they do not establish listing or electrical "
+                               "equivalence.", SMALL))
+        rows = [[P("OEM part", HDR), P("Mfr", HDR), P("Aftermarket statement", HDR), P("Cl.", HDR), P("Src", HDR)]]
+        for p in sorted(self.d["parts"], key=lambda x: (x["mfr"], norm_pn(x["oem_part_number"]))):
+            for c in p["claims"].get("aftermarket", []):
+                rows.append([P(self.link(p["id"], p["oem_part_number"] or p["id"])), P(p["mfr"]), P(e(c["value"])),
+                             P(badge(c["conf"])), P(self.src_refs(c["src"]), TINY)])
+        story.append(tbl(rows, [1.2 * inch, 0.45 * inch, 4.5 * inch, 0.35 * inch, 0.8 * inch]) if len(rows) > 1
+                     else Paragraph("None recorded yet.", BODY))
+        story += heading(f"{no}.4  Companion parts required for installation", H2, 1, "xref-req", self.pm)
         rows = [[P("Part", HDR), P("Requires", HDR)]]
         for p in self.d["parts"]:
             if p.get("requires"):

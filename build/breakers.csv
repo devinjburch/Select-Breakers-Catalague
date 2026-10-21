@@ -144,21 +144,21 @@ BRK-SIE-030,SIE,Pushmatic (Bulldog / ITE),P-series; P1515 (condensed dual 15 A);
 BRK-SIE-031,SIE,ITE BQ / BQH / HBQ bolt-on (Canada),BQ; BQH; HBQ,Bolt-on,,,,,,NLAB
 BRK-SIE-032,SIE,ITE EE / EH / EF / HE breakers,EE; EH; EF; HE,,,,150 A frame (kit max),,,CDP6
 BRK-SIE-033,SIE,ITE FJ3 / JD3 / JJ3 / JL3 / HJ3 breakers,FJ3; JJ3; JD3; JL3; HJ3,,,,FJ3 225 A; J-frame 400 A (kit max),,,CDP6; CDP-ITE
-BRK-SQD-001,SQD,FA / FH (I-Line),FA; FH; FY; FA 240V; FA 480V,I-Line plug-on (bolt-on version factory-only: 3rd character 'B'),100 A,"1 (277 V), 2, 3",15-100 A,240/480/600 V,,QED-2; I-LINE
+BRK-SQD-001,SQD,FA / FH (I-Line),FA; FA 240V; FA 480V; FH; FY,I-Line plug-on (bolt-on version factory-only: 3rd character 'B'),100 A,"1 (277 V), 2, 3",15-100 A,240/480/600 V,,QED-2; I-LINE
 BRK-SQD-002,SQD,H-frame HD/HG/HJ/HL/HR (I-Line),HD; HG; HJ; HL; HR; PowerPact H,I-Line plug-on,150 A,"2, 3 (HR 3)",15-150 A,600 V,,QED-2; I-LINE
 BRK-SQD-003,SQD,Q-frame QB/QD/QG/QJ (I-Line),QB; QD; QG; QJ; Q2; Q4,I-Line plug-on,225 A,"2, 3",70-225 A,240 V,,QED-2; I-LINE
 BRK-SQD-004,SQD,J-frame JD/JG/JJ/JL/JR (I-Line),JD; JG; JJ; JL; JR; PowerPact J,I-Line plug-on,250 A,"2, 3",150-250 A,600 V,,QED-2; I-LINE
-BRK-SQD-005,SQD,LA / LH (I-Line),LA; LH; LAL; LHL,I-Line plug-on (bolt-on factory option),400 A,"2, 3",125-400 A,600 V,,QED-2; I-LINE
+BRK-SQD-005,SQD,LA / LH (I-Line),LA; LAL; LH; LHL,I-Line plug-on (bolt-on factory option),400 A,"2, 3",125-400 A,600 V,,QED-2; I-LINE
 BRK-SQD-006,SQD,"LC (I-Line, 600 A)",LC,I-Line plug-on,600 A,3,300-600 A,600 V,,QED-2
 BRK-SQD-007,SQD,I-Limiter FI / KI / LI (I-Line),FI; KI; LI; I-Limiter,I-Line plug-on,FI 100 A; KI 250 A; LI 600 A,"2, 3",FI 20-100 A; KI 110-250 A; LI 300-600 A,600 V,,QED-2; I-LINE
 BRK-SQD-008,SQD,PowerPact L-frame LD/LG/LJ/LL/LR (I-Line),LD; LG; LJ; LL; LR; PowerPact L,I-Line plug-on,600 A,"2, 3",250-600 A,600 V,,QED-2; I-LINE
 BRK-SQD-009,SQD,M-frame MG/MJ (I-Line),MG; MJ; PowerPact M,I-Line plug-on,800 A,"2, 3",300-800 A,600 V,,QED-2; I-LINE
-BRK-SQD-010,SQD,P-frame PG/PJ/PK/PL (I-Line),PG; PJ; PK; PL; PG-C; PJ-C; PK-C; PL-C; PowerPact P,I-Line plug-on,1200 A,"2, 3",100-1200 A (catalog 600-1200 A in 2110CT9701),600 V (PL 480 V),,QED-2; I-LINE
-BRK-SQD-011,SQD,R-frame RG/RJ/RK/RL (I-Line),RG; RJ; RK; RL; RG-C; RJ-C; RK-C; RL-C; PowerPact R,I-Line plug-on,1200 A (2500 A frame per QED-2 table),"2, 3",1000-1200 A,600 V,,QED-2; I-LINE
+BRK-SQD-010,SQD,P-frame PG/PJ/PK/PL (I-Line),PG; PG-C; PJ; PJ-C; PK; PK-C; PL; PL-C; PowerPact P,I-Line plug-on,1200 A,"2, 3",100-1200 A (catalog 600-1200 A in 2110CT9701),600 V (PL 480 V),,QED-2; I-LINE
+BRK-SQD-011,SQD,R-frame RG/RJ/RK/RL (I-Line),PowerPact R; RG; RG-C; RJ; RJ-C; RK; RK-C; RL; RL-C,I-Line plug-on,1200 A (2500 A frame per QED-2 table),"2, 3",1000-1200 A,600 V,,QED-2; I-LINE
 BRK-SQD-012,SQD,PowerPact B-frame BD/BG/BJ/BK (I-Line),BD; BG; BJ; BK; PowerPact B,I-Line plug-on,125 A,"1, 2, 3 (BK 1, 2)",15-125 A (BK 15-30 A),600Y/347 V,,I-LINE
 BRK-SQD-013,SQD,"QMB circuit breaker units (H-, J-, L-frame)",QMB breaker unit; QMB3400LA,QMB plug-on unit with permanently attached mounting brackets,Twin H-frame HD/HG 15-150 A; single JD/JG 150-250 A; single LA/LH 225-400 A,,,600 Vac / 250 Vdc,,QMB; QED-2
 BRK-SQD-014,SQD,Square D FA/FH/FC/FI (F-frame 100/150 A),FA; FAL; FH; FHL; FC; FCL; FI; FY,,F-Frame (FA family),,15-150 A,,,
-BRK-SQD-015,SQD,Square D KA/KH/KC/KI (K-frame 250 A),KA; KAL; KH; KHL; KC; KI; KIL,,K-Frame (KA family),,110-250 A,,,
+BRK-SQD-015,SQD,Square D KA/KH/KC/KI (K-frame 250 A),KA; KAL; KC; KH; KHL; KI; KIL,,K-Frame (KA family),,110-250 A,,,
 BRK-SQD-016,SQD,Square D LA/LH (L-frame 400 A),LA; LAL; LH; LHL,,L-Frame (LA family),,125-400 A,,,
 BRK-SQD-017,SQD,"Square D Q4 (400 A, LA-type lugs)",Q4; Q4L,,Q4,,125-400 A,,,
 BRK-SQD-018,SQD,Square D LC/LI/LE/LX/LXI (L-frame 600 A),LC; LI; LE; LX; LXI,,L-Frame (LI family),,100-600 A,,,
@@ -171,19 +171,19 @@ BRK-SQD-024,SQD,Square D PowerPact M-Frame (MG/MJ),MG; MJ,,PowerPact M,,up to 80
 BRK-SQD-025,SQD,Square D PowerPact P-Frame (PG/PJ/PL),PG; PJ; PL,,PowerPact P,,up to 1200 A,,,
 BRK-SQD-026,SQD,Square D PowerPact R-Frame (RG/RJ/RL),RG; RJ; RL,,PowerPact R,,up to 3000 A (1200 A tapped lug listed),,,
 BRK-SQD-027,SQD,Square D PowerPact D-Frame (DG/DJ/DL),DG; DJ; DL,,PowerPact D,,150-600 A,,,
-BRK-SQD-028,SQD,QO (plug-on),QO-VH; QO-H; QOH,plug-on,,,,120/240 Vac; 48 Vdc where DC rated,current,NQ; NQOD
-BRK-SQD-029,SQD,QOB (bolt-on),QOB-VH; QOB-H; QOB-HID,bolt-on to NQ branch connectors; may also be used back-fed as 100-150 A main,,,,,current,NQ; NQOD
+BRK-SQD-028,SQD,QO (plug-on),QO-H; QO-VH; QOH,plug-on,,,,120/240 Vac; 48 Vdc where DC rated,current,NQ; NQOD
+BRK-SQD-029,SQD,QOB (bolt-on),QOB-H; QOB-HID; QOB-VH,bolt-on to NQ branch connectors; may also be used back-fed as 100-150 A main,,,,,current,NQ; NQOD
 BRK-SQD-030,SQD,EDB / EGB / EJB (E-frame bolt-on),ED; EG; EJ; EDB EPD,bolt-on to NF branch connectors; EDB 3P 125 A can be back-fed as main with NFEDBS,,"1, 2, 3","15-70 A (1P), 15-125 A (2P/3P)",480Y/277 Vac (US); 600Y/347 Vac versions via se.com/ca,current,NF
 BRK-SQD-031,SQD,EH / EHB,EH plug-on; EHB bolt-on,EH plug-on; EHB bolt-on,,,,,obsolete / no longer available,NEHB
-BRK-SQD-032,SQD,PowerPacT Q-frame (QB/QD/QG/QJ),QBL; QDL; QGL; QJL,in NQ: vertical main/sub-feed on adapter pan (NQMB2Q/NQSFB2Q) with lug wires; I-Line plug-on in HCJ,Q,,,,,NQ; I-LINE
-BRK-SQD-033,SQD,PowerPacT H-frame (HD/HG/HJ/HL/HR),HDL; HGL; HJL; HLL; HRL,NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37444 with hard-bus connectors,H (150 A max),,,,,NQ; NF; I-LINE
-BRK-SQD-034,SQD,PowerPacT J-frame (JD/JG/JJ/JL/JR),JDL; JGL; JJL; JLL; JRL,NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37445,J (250 A max),,,,,NQ; NF; I-LINE
-BRK-SQD-035,SQD,"LA / LH (L-frame, legacy thermal-magnetic)",LAL; LHL; LAL36400MB,NQMB4LA / N400M; order short-handle breaker (e.g. LAL36400MB),LA/LH 125-400 A,,,,,NQ; NF; I-LINE
-BRK-SQD-036,SQD,PowerPacT L-frame (LG/LJ/LL/LR),PPL,NQMB6PPL / N600MPPL kits; requires 8.75 in. deep D9 boxes; M10x25 connector screws 442 lb-in,L 125-600 A,,,,,NQ; NF; I-LINE
+BRK-SQD-032,SQD,PowerPacT Q-frame (QB/QD/QG/QJ),QBL; QDL; QGL; QJL,in NQ: vertical main/sub-feed on adapter pan (NQMB2Q/NQSFB2Q) with lug wires; I-Line plug-on in HCJ,Q,,,,,I-LINE; NQ
+BRK-SQD-033,SQD,PowerPacT H-frame (HD/HG/HJ/HL/HR),HDL; HGL; HJL; HLL; HRL,NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37444 with hard-bus connectors,H (150 A max),,,,,I-LINE; NQ; NF
+BRK-SQD-034,SQD,PowerPacT J-frame (JD/JG/JJ/JL/JR),JDL; JGL; JJL; JLL; JRL,NQ/NF vertical main or sub-feed via adapter kit; terminal kit S37445,J (250 A max),,,,,I-LINE; NQ; NF
+BRK-SQD-035,SQD,"LA / LH (L-frame, legacy thermal-magnetic)",LAL; LAL36400MB; LHL,NQMB4LA / N400M; order short-handle breaker (e.g. LAL36400MB),LA/LH 125-400 A,,,,,I-LINE; NQ; NF
+BRK-SQD-036,SQD,PowerPacT L-frame (LG/LJ/LL/LR),PPL,NQMB6PPL / N600MPPL kits; requires 8.75 in. deep D9 boxes; M10x25 connector screws 442 lb-in,L 125-600 A,,,,,I-LINE; NQ; NF
 BRK-SQD-037,SQD,KI / KC frame (legacy),KI; KC; N250MKC,,K (225/250 A),,,,legacy (kits dated 2008-2009),NQ; NF; NQOD
 BRK-SQD-038,SQD,FI frame (legacy),FI,,F (100 A),,,,,NF
 BRK-SQD-039,SQD,PowerPacT M / P / R frame (I-Line),MG; MJ; PG; PJ; PK; PL; RG; RJ; RK; RL,,"M 800 A, P up to 1200 A, R 1200 A",,,,,I-LINE; NF
-BRK-SQD-040,SQD,Square D QO / QOB (Q1 / Q1B in Canada) for NQO / NQOB,QO; QOB; Q1; Q1B,"QO plug-on (NQO), QOB bolt-on (NQOB)",,,"1P 15-50 A, 2P 15-70 A and 70-100 A, 3P 15-50 A and 70-100 A (1960)",AC only in NQO/NQOB (1960),,NQOB
+BRK-SQD-040,SQD,Square D QO / QOB (Q1 / Q1B in Canada) for NQO / NQOB,Q1; Q1B; QO; QOB,"QO plug-on (NQO), QOB bolt-on (NQOB)",,,"1P 15-50 A, 2P 15-70 A and 70-100 A, 3P 15-50 A and 70-100 A (1960)",AC only in NQO/NQOB (1960),,NQOB
 BRK-SQD-041,SQD,Square D EH / EHB (NEHB),EH; EHB,,,,,,"Discontinued, no replacement (search summary)",NEHB
 BRK-SQD-042,SQD,Square D ML breakers (MLN panels),ML; ML-1,,,,,,Obsolete,MLN; NEHB
 BRK-SQD-043,SQD,Square D Y1B 1-pole (NY1B),Y1B,,,,1-pole 15-50 A,,Obsolete and no longer available,NEHB

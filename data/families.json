@@ -7272,7 +7272,8 @@
   "source_ids": [
    "SRC-00026",
    "SRC-00028",
-   "SRC-00233"
+   "SRC-00233",
+   "SRC-00504"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
@@ -7521,6 +7522,18 @@
      "note": "Depth fractions OCR",
      "batch": "B0012-archival-legacy-panelboards"
     }
+   ],
+   "interior_generations": [
+    {
+     "value": "Type QM in 31 in wide box built before 1961: interior mounting rails face inward, Series 1-4 switches (30-200 A), no compatible replacement switch. Type QM in 31 in wide box 1961-Oct 1984: rails face outward, accepts Series 1-4 and Series D2 switches (D2 includes rail extensions). Type QW in 38 in wide box before 1984: bolt-on 400/600 A Series 1-4 switches; 30-200 A D2 switches need plug-on extension assemblies. Type QMB after Oct 1984 (35 or 38 in wide box): Series E1/E2 only.",
+     "conf": "A",
+     "src": [
+      "SRC-00504"
+     ],
+     "page": "p. 13-4 Table 13.1",
+     "basis": "oem_spec",
+     "batch": "B0015-squared-legacy-and-unmined"
+    }
    ]
   },
   "source_ids": [
@@ -7534,7 +7547,8 @@
    "SRC-00072",
    "SRC-00073",
    "SRC-00074",
-   "SRC-00270"
+   "SRC-00270",
+   "SRC-00504"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
@@ -7635,8 +7649,8 @@
    "NQOD lighting panelboard"
   ],
   "brand_markings": [
-   "Square D",
-   "Schneider Electric"
+   "Schneider Electric",
+   "Square D"
   ],
   "equipment_type": "panelboard",
   "overview": "Predecessor of NQ; accepted QO plug-on and QOB bolt-on breakers. Sold 1987-2008. Schneider states NQ is the replacement but not a direct one: interior, box and trim must be replaced (e.g. NQOD30L400CU -> NQ30L4C plus new box/trim). All NQOD main breaker kits obsolete as of April 2016; branch connector kit SKNQOD225 existed for <=225 A interiors.",
@@ -7663,6 +7677,17 @@
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "Obsolescent by 2009 Digest (Section 13 'Obsolescent Panelboards'); all NQOD main breaker kits no longer offered",
+     "conf": "A",
+     "src": [
+      "SRC-00504",
+      "SRC-00505"
+     ],
+     "page": "13-1; FA299520",
+     "basis": "oem_spec",
+     "batch": "B0015-squared-legacy-and-unmined"
     }
    ],
    "successor": [
@@ -7675,6 +7700,17 @@
      ],
      "basis": "oem_spec",
      "batch": "B0003-squared-panelboards"
+    },
+    {
+     "value": "NQ panelboard (current style)",
+     "conf": "A",
+     "src": [
+      "SRC-00505",
+      "SRC-00508"
+     ],
+     "page": "FA299520, FA228483",
+     "basis": "oem_spec",
+     "batch": "B0015-squared-legacy-and-unmined"
     }
    ],
    "branch_breakers": [
@@ -7690,11 +7726,12 @@
    ]
   },
   "source_ids": [
+   "SRC-00184",
+   "SRC-00234",
    "SRC-00236",
    "SRC-00237",
    "SRC-00238",
-   "SRC-00234",
-   "SRC-00184"
+   "SRC-00504"
   ],
   "created_batch": "B0003-squared-panelboards"
  },
@@ -7707,8 +7744,8 @@
    "NQOB"
   ],
   "brand_markings": [
-   "Square D",
-   "Schneider Electric"
+   "Schneider Electric",
+   "Square D"
   ],
   "equipment_type": "panelboard",
   "overview": "Early Square D three-phase lighting panelboards using Q1/Q1B plug-on and bolt-on breakers, developed late 1960s and obsoleted 1987 (replaced by NQOD). No kit data found in this batch.",
@@ -7761,7 +7798,8 @@
    ]
   },
   "source_ids": [
-   "SRC-00236"
+   "SRC-00236",
+   "SRC-00270"
   ],
   "created_batch": "B0003-squared-panelboards"
  },
@@ -7776,8 +7814,8 @@
    "NFOM"
   ],
   "brand_markings": [
-   "Square D",
-   "Schneider Electric"
+   "Schneider Electric",
+   "Square D"
   ],
   "equipment_type": "panelboard",
   "overview": "Square D 480Y/277 Vac (600Y/347 Vac max) lighting panelboard using E-frame bolt-on branch breakers (EDB/EGB/EJB, 15-125 A). Series 0 introduced 1995 replacing NEHB; Series E1 from October 2008. Merchandised RTI interiors with field kits: main breaker adapter kits (N150MH, N250MJ, N400M, N600MPPL), sub-feed/feed-through lugs, neutral kits, branch connector kits SKNF250/SKNF600. Maximum branch breaker pair combination 170 A.",
@@ -7845,9 +7883,9 @@
   },
   "source_ids": [
    "SRC-00177",
-   "SRC-00236",
+   "SRC-00178",
    "SRC-00198",
-   "SRC-00178"
+   "SRC-00236"
   ],
   "created_batch": "B0003-squared-panelboards"
  },
@@ -7975,7 +8013,8 @@
    "SRC-00247",
    "SRC-00251",
    "SRC-00264",
-   "SRC-00266"
+   "SRC-00266",
+   "SRC-00504"
   ],
   "created_batch": "B0003-squared-panelboards"
  },

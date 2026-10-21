@@ -1700,5 +1700,87 @@
   ],
   "status": "open",
   "batch": "B0016-aftermarket-retrofit"
+ },
+ {
+  "id": "LEAD-0131",
+  "priority": 2,
+  "topic": "Supplemental and Obsolescence Digest Section 4 (Panelboards) full PDF",
+  "detail": "2009 Digest Sec.13 (s24) refers to 'Supplemental & Obsolescence Digest, Section 4' for NQOD door-in-door trims and other legacy items. Only the DigestPLUS online viewer shell was found (productinfo.schneider-electric.com/nadigest/viewer/5cc35b7ed6593c0001ba8661/5cc36299d6593c0001baa700). Try download.schneider-electric.com p_Doc_Ref guesses or a distributor mirror; earlier Digest 175/176 Section 13 copies may also exist on distributor hosts (search 'Obsolescent Panelboards 13-1').",
+  "doc_numbers": [
+   "Supplemental Digest Section 4"
+  ],
+  "urls": [
+   "https://www.productinfo.schneider-electric.com/nadigest/viewer/5cc35b7ed6593c0001ba8661/5cc36299d6593c0001baa700"
+  ],
+  "status": "open",
+  "batch": "B0015-squared-legacy-and-unmined"
+ },
+ {
+  "id": "LEAD-0132",
+  "priority": 2,
+  "topic": "NQ fingersafe IB 80043-831-01 and drip-hood IB 80043-401-03",
+  "detail": "All fingersafe replacement-part bulletins (80043-817/818/820/822/826-01) defer removal/installation of trim and deadfront to 80043-831-01; I-Line drip hood kits HCT2DH* reference 80043-401-03. Neither downloaded yet (download.schneider-electric.com/files?p_Doc_Ref=<n> works with browser UA).",
+  "doc_numbers": [
+   "80043-831-01",
+   "80043-401-03"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0015-squared-legacy-and-unmined"
+ },
+ {
+  "id": "LEAD-0133",
+  "priority": 3,
+  "topic": "MHCOEW20A vs MHCOEW20F difference; HCR12SNCT vs HCR12SNCTW",
+  "detail": "Bulletin 80043-773-01 covers both endwall/closing-plate kits without explaining the suffix. Digest lists HCR12SNCT (neutral with CT) while IB 80043-706-02 uses HCR12SNCTW. Check se.com product pages.",
+  "doc_numbers": [
+   "80043-773-01",
+   "80043-706-02"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0015-squared-legacy-and-unmined"
+ },
+ {
+  "id": "LEAD-0134",
+  "priority": 3,
+  "topic": "Digest 152 (1970) remaining pages",
+  "detail": "This batch read leaf 59/60 (NQO/NQOB unassembled), 73/74 (I-Line unassembled) and 79 (QMB unassembled) as images. Still unmined: leaf 61-70 factory-assembled NQO/NQOB/NA1B/NH1B (box dims and front catalog numbers per assembled panel), leaf 64 column-width cable duct/pull boxes (MTX/MPX 1970 numbers), leaf 77 NTFB, leaf 78 telephone cabinets, leaf 85-86 additional features, leaf 74 lower third (HCW main breaker rows). Page images: https://archive.org/download/squareddigest152/page/n<leaf>.jpg",
+  "doc_numbers": [
+   "Digest 152"
+  ],
+  "urls": [
+   "https://archive.org/details/squareddigest152"
+  ],
+  "status": "open",
+  "batch": "B0015-squared-legacy-and-unmined"
+ },
+ {
+  "id": "LEAD-0135",
+  "priority": 3,
+  "topic": "NQRPLMB2HJ and other NQ/NF deadfront replacement kits",
+  "detail": "NQRPLMB2HJ seen only in search summary of blocked se.com FAQ. Likely a family NQRPLMB2Q, NFRPLMB... exists; confirm via se.com product pages or Digest Sec.9 replacement-parts table.",
+  "doc_numbers": [],
+  "urls": [
+   "https://www.se.com/us/en/faqs/FAQ000259238/"
+  ],
+  "status": "open",
+  "batch": "B0015-squared-legacy-and-unmined"
+ },
+ {
+  "id": "LEAD-0136",
+  "priority": 4,
+  "topic": "Physical dimensions of legacy fronts (NQC-xxTF, MSC, MDC, LX, HC-26xx-C, MHC) for remanufacture",
+  "detail": "Catalogs give box sizes only. Need PBA drawings (PBA600, PBA603WP, PBA604, PBA711, PBA555 referenced in Digest Sec.9 footnotes) or field measurement.",
+  "doc_numbers": [
+   "PBA600",
+   "PBA603WP",
+   "PBA604",
+   "PBA711",
+   "PBA555"
+  ],
+  "urls": [],
+  "status": "open",
+  "batch": "B0015-squared-legacy-and-unmined"
  }
 ]

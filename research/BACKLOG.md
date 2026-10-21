@@ -262,6 +262,13 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0127 — Connecticut Electric current UBI catalog (post-2005) incl. bolt-on UBIF...NB, UBIFPE NE-frame, 3-pole UBIF3xxN** (B0016-aftermarket-retrofit)  
   2005 sheet lists only plug-in NA/NC, Pushmatic and Zinsco Q/QC/R/RC. Resellers cite UBIF340N, UBIF380NB, UBIFPE1003 and BRK-FPE-001 alias 'UBIF...NB'. Obtain current catalog and listing/classification documents (ETL file numbers).  
   URLs: https://www.connecticut-electric.com
+* **LEAD-0131 — Supplemental and Obsolescence Digest Section 4 (Panelboards) full PDF** (B0015-squared-legacy-and-unmined)  
+  2009 Digest Sec.13 (s24) refers to 'Supplemental & Obsolescence Digest, Section 4' for NQOD door-in-door trims and other legacy items. Only the DigestPLUS online viewer shell was found (productinfo.schneider-electric.com/nadigest/viewer/5cc35b7ed6593c0001ba8661/5cc36299d6593c0001baa700). Try download.schneider-electric.com p_Doc_Ref guesses or a distributor mirror; earlier Digest 175/176 Section 13 copies may also exist on distributor hosts (search 'Obsolescent Panelboards 13-1').  
+  Docs: Supplemental Digest Section 4  
+  URLs: https://www.productinfo.schneider-electric.com/nadigest/viewer/5cc35b7ed6593c0001ba8661/5cc36299d6593c0001baa700
+* **LEAD-0132 — NQ fingersafe IB 80043-831-01 and drip-hood IB 80043-401-03** (B0015-squared-legacy-and-unmined)  
+  All fingersafe replacement-part bulletins (80043-817/818/820/822/826-01) defer removal/installation of trim and deadfront to 80043-831-01; I-Line drip hood kits HCT2DH* reference 80043-401-03. Neither downloaded yet (download.schneider-electric.com/files?p_Doc_Ref=<n> works with browser UA).  
+  Docs: 80043-831-01, 80043-401-03
 
 ## Priority 3
 
@@ -393,6 +400,16 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0129 — Eaton CH/BR retrofit stocking kit complete catalog (I-suffix interiors, RxCHFRAME collars, RTBR series)** (B0016-aftermarket-retrofit)  
   New numbers RACH24L125I, RDCH42B200I, RDCHFRAME, RTBR12L125R/Q, RTBR10B100Q seen at distributors; need Eaton list price/catalog page for full series and meaning of I/Q/R/K suffixes (automa.net lists RACH24L125K).  
   URLs: https://elliottelectric.com/P/Item/CHD/RDCHFRAME https://automa.net/eaton/rach24l125k
+* **LEAD-0133 — MHCOEW20A vs MHCOEW20F difference; HCR12SNCT vs HCR12SNCTW** (B0015-squared-legacy-and-unmined)  
+  Bulletin 80043-773-01 covers both endwall/closing-plate kits without explaining the suffix. Digest lists HCR12SNCT (neutral with CT) while IB 80043-706-02 uses HCR12SNCTW. Check se.com product pages.  
+  Docs: 80043-773-01, 80043-706-02
+* **LEAD-0134 — Digest 152 (1970) remaining pages** (B0015-squared-legacy-and-unmined)  
+  This batch read leaf 59/60 (NQO/NQOB unassembled), 73/74 (I-Line unassembled) and 79 (QMB unassembled) as images. Still unmined: leaf 61-70 factory-assembled NQO/NQOB/NA1B/NH1B (box dims and front catalog numbers per assembled panel), leaf 64 column-width cable duct/pull boxes (MTX/MPX 1970 numbers), leaf 77 NTFB, leaf 78 telephone cabinets, leaf 85-86 additional features, leaf 74 lower third (HCW main breaker rows). Page images: https://archive.org/download/squareddigest152/page/n<leaf>.jpg  
+  Docs: Digest 152  
+  URLs: https://archive.org/details/squareddigest152
+* **LEAD-0135 — NQRPLMB2HJ and other NQ/NF deadfront replacement kits** (B0015-squared-legacy-and-unmined)  
+  NQRPLMB2HJ seen only in search summary of blocked se.com FAQ. Likely a family NQRPLMB2Q, NFRPLMB... exists; confirm via se.com product pages or Digest Sec.9 replacement-parts table.  
+  URLs: https://www.se.com/us/en/faqs/FAQ000259238/
 
 ## Priority 4
 
@@ -422,4 +439,7 @@ _Generated from data/leads.json by tools/build_db.py. Close a lead by setting it
 * **LEAD-0130 — Custom/reproduction mounting kit fabricators (Breaker Outlet, IEM, others)** (B0016-aftermarket-retrofit)  
   Forum: breakeroutlet.com offered to have an Arrow-Hart kit made but would not supply drawings. IEM (Industrial Electric Mfg) makes CDP-type kits for GE/Eaton breakers. Survey fabricators and what evidence (drawings, testing) they provide.  
   URLs: https://forums.mikeholt.com/threads/need-leads-for-suppliers-of-obsolete-breaker-mounting-kits.2580007 https://www.relectric.com/circuit-breaker-parts-and-accessories/mounting-hardware?page=20
+* **LEAD-0136 — Physical dimensions of legacy fronts (NQC-xxTF, MSC, MDC, LX, HC-26xx-C, MHC) for remanufacture** (B0015-squared-legacy-and-unmined)  
+  Catalogs give box sizes only. Need PBA drawings (PBA600, PBA603WP, PBA604, PBA711, PBA555 referenced in Digest Sec.9 footnotes) or field measurement.  
+  Docs: PBA600, PBA603WP, PBA604, PBA711, PBA555
 

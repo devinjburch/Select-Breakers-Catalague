@@ -2855,7 +2855,8 @@
   "id": "SRC-00177",
   "mfr": "SQD",
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0015-squared-legacy-and-unmined"
   ],
   "sha256": "55d61aa2a4465e520da354c681463fddfad3ab918680c8ccac12c1aec6a4e634",
   "bytes": 2105581
@@ -3251,7 +3252,8 @@
   "id": "SRC-00198",
   "mfr": "SQD",
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0015-squared-legacy-and-unmined"
   ],
   "sha256": "8e96ee3a8cb7e631ec1eca338120edc25650a1165009844629a398071ad5bce8",
   "bytes": 7897618
@@ -3707,7 +3709,8 @@
   "id": "SRC-00222",
   "mfr": "SQD",
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0015-squared-legacy-and-unmined"
   ],
   "sha256": "ba99e4d9019e045ba6f7e3e205261fd6b9c8fb7fa70fa0f9d357d9e7381d02f8",
   "bytes": 12296100
@@ -3726,7 +3729,8 @@
   "id": "SRC-00223",
   "mfr": "SQD",
   "batches": [
-   "B0003-squared-panelboards"
+   "B0003-squared-panelboards",
+   "B0015-squared-legacy-and-unmined"
   ],
   "sha256": "759c530b8ff17cf9f268f3282d13691f4355ffd5f50b111eb47d42c6c52b474c",
   "bytes": 8449794
@@ -4512,7 +4516,8 @@
   "id": "SRC-00270",
   "mfr": "SQD",
   "batches": [
-   "B0012-archival-legacy-panelboards"
+   "B0012-archival-legacy-panelboards",
+   "B0015-squared-legacy-and-unmined"
   ]
  },
  {
@@ -8466,6 +8471,466 @@
   "mfr": "EAT",
   "batches": [
    "B0016-aftermarket-retrofit"
+  ]
+ },
+ {
+  "title": "Fingersafe IP2X per IEC 60529 Barriers for NQ Panelboards (Data Bulletin)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "1640BR1701",
+  "date": null,
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=1640BR1701",
+  "type": "oem_bulletin",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Downloaded in B0003 but never linked; contains 'Replacement parts' table (catalog number / qty per package / description).",
+  "local_file": "docs/library/SQD/1640BR1701.pdf",
+  "id": "SRC-00485",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "63affc074c46fe95e2752b585b5409535bd2ff8b439b225fae524c5a8ce2e807",
+  "bytes": 1145623
+ },
+ {
+  "title": "Replacement Part QOFSBF for Fingersafe Covers IP2X per IEC 60529",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-817-01",
+  "date": "2015-11",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-817-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-817-01.pdf",
+  "id": "SRC-00486",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "48e847db447b0d8bbcf549ac5fe915a29ce9698add1f8415b9624acc686bf90a",
+  "bytes": 376201
+ },
+ {
+  "title": "Replacement parts QOFSLALB and QOFSHALB for Fingersafe Covers IP2X per IEC 60529",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-818-01",
+  "date": "2015-11",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-818-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-818-01.pdf",
+  "id": "SRC-00487",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "a3f15ae9c57e7ce9a18e3ee2b9510faeded76a7fcb7d99db092ab1e75cad9294",
+  "bytes": 517485
+ },
+ {
+  "title": "Replacement parts NQHJQLLC and NQLALLC for Fingersafe Covers IP2X per IEC 60529",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-820-01",
+  "date": "2015-11",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-820-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-820-01.pdf",
+  "id": "SRC-00488",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "7b61181e9cf55678329abaf990b4d0c24450e89533926bbc65d1ab3ee1d09526",
+  "bytes": 274942
+ },
+ {
+  "title": "Replacement parts NQHJLSC, NQQLSC, NQLALHLSC and NQMLLSC for Fingersafe Covers IP2X per IEC 60529",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-822-01",
+  "date": "2015-11",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-822-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-822-01.pdf",
+  "id": "SRC-00489",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "960b58568b6beb448951758aaea70e80b3199744104325194eec928589be20d2",
+  "bytes": 443950
+ },
+ {
+  "title": "Replacement part NQNCC for Fingersafe Covers IP2X per IEC 60529",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-826-01",
+  "date": "2015-11",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-826-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-826-01.pdf",
+  "id": "SRC-00490",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "3804ae40e5efe043fe43c1c897c7b3c287ce5889bb34120ed590406ce8b36f05",
+  "bytes": 317167
+ },
+ {
+  "title": "Current Transformer Neutral Bonding Installation in I-Line Panelboards, Class 2110",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-706-02",
+  "date": "2013-03",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-706-02",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-706-02.pdf",
+  "id": "SRC-00491",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "5689f85714d415503fcddc717d6a683d448d80b4fe233bd605f3d1f02778e053",
+  "bytes": 1239391
+ },
+ {
+  "title": "I-Line Panelboards - Current Transformer Neutral Bonding Installation, Rev. 02",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-789-01",
+  "date": "2013-03",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-789-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-789-01.pdf",
+  "id": "SRC-00492",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "5b5aed9c5ebaad337abeadeb870270e79761e0f6677e22d1358636ee908533c8",
+  "bytes": 755247
+ },
+ {
+  "title": "Quarter-turn Fasteners Kit Installation onto an NQ, NF, or I-Line Panelboard Enclosure (Classes 1640, 1670, 2110)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-772-01",
+  "date": "2009-04",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-772-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Replaces 80043-450-03 (08/2007).",
+  "local_file": "docs/library/SQD/80043-772-01.pdf",
+  "id": "SRC-00493",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "13d7a6652cb1cb00680ad90aec916d440949a75991c108e8cad678517a2f3c45",
+  "bytes": 788861
+ },
+ {
+  "title": "Endwall and Closing Plate Kit Installation onto an NQ or NF Panelboard Enclosure (Classes 1640, 1670)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-773-01",
+  "date": "2009-04",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-773-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Replaces 80043-678-02 (08/2007).",
+  "local_file": "docs/library/SQD/80043-773-01.pdf",
+  "id": "SRC-00494",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "88247016321d30c1760a340609a90ecf75ccd1c73dc7f97256714d9fd2f506be",
+  "bytes": 2696364
+ },
+ {
+  "title": "MH Weatherproof Enclosure Installation (Classes 1630 NQOD, 1640 NQ, 1660 NEHB, 1670 NF)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-455-04",
+  "date": "2007-10",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-455-04",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Replaces 80043-455-03 (03/2001); superseded by 80043-771-01.",
+  "local_file": "docs/library/SQD/80043-455-04.pdf",
+  "id": "SRC-00495",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "1e231cf7f079b47b7fb37e644c53a731709e64a422448fa491f3172caabbacce",
+  "bytes": 320869
+ },
+ {
+  "title": "MH Weatherproof Enclosure - Installation with an NQ or NF Panelboard",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-771-01",
+  "date": "2009-03",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-771-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Replaces 80043-455-04.",
+  "local_file": "docs/library/SQD/80043-771-01.pdf",
+  "id": "SRC-00496",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "143479795fa5f0fe218566b4a69b95cf45286c385869a5f1d38c398c675bd2f7",
+  "bytes": 1762446
+ },
+ {
+  "title": "MH Vented NEMA 3R Weatherproof Enclosure, Class 1640 and 1670",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-850-01",
+  "date": "2020-08",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-850-01",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-850-01.pdf",
+  "id": "SRC-00497",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "7304d3b74394445f5d502114e0881680b1e7857ffd8b782e82d69dfc7a0e8a00",
+  "bytes": 31320979
+ },
+ {
+  "title": "Type MH WP NEMA 4 / 4X Enclosures for NF or NQ Lighting Panelboards, Rev. 02",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-252-04",
+  "date": "2024-08",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-252-04",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-252-04.pdf",
+  "id": "SRC-00498",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "3602271f249d8ddf75eb12950fc1dddef7ab817321f33e5c231f7db2bcde1058",
+  "bytes": 1288162
+ },
+ {
+  "title": "I-Line HCP Trim Kit (Class 2110, Type HCP)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-660-04",
+  "date": "2006-05",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-660-04",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Replaces 80043-660-03 (12/2003); written for HCP5486-8SU panelboard.",
+  "local_file": "docs/library/SQD/80043-660-04.pdf",
+  "id": "SRC-00499",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "41058078978a3f924db42135bb2319dbc0b7f65edf27752c4ab2f0aa17d66ef6",
+  "bytes": 262324
+ },
+ {
+  "title": "I-LINE 4-Piece Trim and Door Kits (HCP, HCR, HCW, HCWM, 42 in)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-616-03",
+  "date": "2001-07",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-616-03",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Replaces 80043-616-02 (09/99).",
+  "local_file": "docs/library/SQD/80043-616-03.pdf",
+  "id": "SRC-00500",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "8aec8c51d8812f40523f019e6b8b73ad087964b5952f5e2fa501b0d0aab453ea",
+  "bytes": 227100
+ },
+ {
+  "title": "I-Line 4-Piece Trim and Door Kits (HCN/HCM/HCP/HCR/HCW/HCWM)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-449-03",
+  "date": "2003-09",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-449-03",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "",
+  "local_file": "docs/library/SQD/80043-449-03.pdf",
+  "id": "SRC-00501",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "1102f205bbe48c632f744bf168c30542adac3a77f3a9fcbe1e16e82cd141ae5b",
+  "bytes": 339360
+ },
+ {
+  "title": "Box Extension Kit Installation (Class 1600)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "80043-350-04",
+  "date": "2003-12",
+  "url": "https://download.schneider-electric.com/files?p_Doc_Ref=80043-350-04",
+  "type": "oem_instruction",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Replaces 80043-350-03 (11/2000). No catalog numbers printed.",
+  "local_file": "docs/library/SQD/80043-350-04.pdf",
+  "id": "SRC-00502",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "324e38b97540b7328629868c039141d11e2d76fd1bea8cb33af12ece891362da",
+  "bytes": 283433
+ },
+ {
+  "title": "Surgelogic SurgeLoc surge protective devices (brochure)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "998-21173700_GMA-US (printed 998-21176626)",
+  "date": "2021-04",
+  "url": "https://www.se.com/us/en/download/document/998-21173700_GMA-US/",
+  "type": "oem_bulletin",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Downloaded in B0003 but never linked. Referenced by Digest Sec. 9 Table 9.36 footnote [107].",
+  "local_file": "docs/library/SQD/998-21173700_GMA-US.pdf",
+  "id": "SRC-00503",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "6ff7fce4ce5021cc085dbdddb4a8e8324c577169d233dcf703104dbed5dd387d",
+  "bytes": 3583420
+ },
+ {
+  "title": "Square D Digest (2009) Section 13 - Obsolescent Panelboards (QMB RTI, QMB replacement units, NEHB replacement parts, NQOD merchandised)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "Digest Section 13 (2009); distributor file name Square_D_QM3890B_Catalog.pdf",
+  "date": "2009",
+  "url": "https://default.assets-hunzicker-prod.roccommercecloud.com/assets%2F8a6599affa7ca45a2d40851ce760e8be/Square_D_QM3890B_Catalog.pdf",
+  "type": "oem_catalog",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Distributor-hosted (Hunzicker) copy of an OEM Digest section, 23 pp, pages 13-1..13-14, (c) 2009 Schneider Electric. This is the obsolescent-panelboards section that preceded the separate 'Supplemental and Obsolescence Digest'.",
+  "local_file": "docs/library/SQD/Square_D_QM3890B_Catalog.pdf",
+  "id": "SRC-00504",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ],
+  "sha256": "a5708237b3cd485b517134f00059f6008137bd4aab61d1a2af0bc1633d5082c8",
+  "bytes": 1320526
+ },
+ {
+  "title": "Schneider Electric FAQ FA299520: Can you replace a Q2L main breaker, on a NQOD panel, with the QBL, QDL, or QGL breaker?",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "FA299520",
+  "date": "2016-10-18 (modified 2026-08-19)",
+  "url": "https://www.se.com/us/en/faqs/FA299520",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via WebFetch (curl gets 403).",
+  "id": "SRC-00505",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA104089: What is the replacement for a NQODQ2 Main Circuit Breaker Adapter Kit?",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "FA104089",
+  "date": "2003-07-11 (modified 2026-08-17)",
+  "url": "https://www.se.com/us/en/faqs/FA104089",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via WebFetch.",
+  "id": "SRC-00506",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FAQ000265182: What type of breaker does the NQODQB Main Breaker Kit accept?",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "FAQ000265182",
+  "date": "2026-01-08",
+  "url": "https://www.se.com/us/en/faqs/FAQ000265182",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via WebFetch.",
+  "id": "SRC-00507",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ]
+ },
+ {
+  "title": "Schneider Electric FAQ FA228483: Can a main breaker be changed out or added to a NQOD panel?",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": "FA228483",
+  "date": "2014-09-18 (modified 2021-09-29)",
+  "url": "https://www.se.com/us/en/faqs/FA228483",
+  "type": "oem_web",
+  "accessed": "2026-10-21",
+  "access_status": "ok",
+  "notes": "Read via WebFetch.",
+  "id": "SRC-00508",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
+  ]
+ },
+ {
+  "title": "Web search result summary of se.com FAQs on NEHB / NQ main breaker deadfronts (NQRPLMB2HJ)",
+  "publisher": "Schneider Electric (Square D)",
+  "doc_number": null,
+  "date": null,
+  "url": "https://www.se.com/us/en/faqs/FAQ000259238/",
+  "type": "other",
+  "accessed": "2026-10-21",
+  "access_status": "blocked",
+  "notes": "se.com returned 403 to curl and WebFetch for FAQ000259238 / FAQ000270674 / FA129512; content known only from a search-engine summary. Use at conf C/D only.",
+  "id": "SRC-00509",
+  "mfr": "SQD",
+  "batches": [
+   "B0015-squared-legacy-and-unmined"
   ]
  }
 ]

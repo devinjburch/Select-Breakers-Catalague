@@ -8257,10 +8257,10 @@
   "name": "FA / FH (I-Line)",
   "aliases": [
    "FA",
-   "FH",
-   "FY",
    "FA 240V",
-   "FA 480V"
+   "FA 480V",
+   "FH",
+   "FY"
   ],
   "claims": {
    "group_mount_height": [
@@ -8377,8 +8377,8 @@
    "FAM-SQD-004"
   ],
   "source_ids": [
-   "SRC-00027",
    "SRC-00026",
+   "SRC-00027",
    "SRC-00037"
   ],
   "created_batch": "B0004-squared-switchboards"
@@ -8747,8 +8747,8 @@
   "name": "LA / LH (I-Line)",
   "aliases": [
    "LA",
-   "LH",
    "LAL",
+   "LH",
    "LHL"
   ],
   "claims": {
@@ -9304,12 +9304,12 @@
   "name": "P-frame PG/PJ/PK/PL (I-Line)",
   "aliases": [
    "PG",
-   "PJ",
-   "PK",
-   "PL",
    "PG-C",
+   "PJ",
    "PJ-C",
+   "PK",
    "PK-C",
+   "PL",
    "PL-C",
    "PowerPact P"
   ],
@@ -9422,8 +9422,8 @@
    "FAM-SQD-004"
   ],
   "source_ids": [
-   "SRC-00027",
-   "SRC-00026"
+   "SRC-00026",
+   "SRC-00027"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
@@ -9432,15 +9432,15 @@
   "mfr": "SQD",
   "name": "R-frame RG/RJ/RK/RL (I-Line)",
   "aliases": [
+   "PowerPact R",
    "RG",
-   "RJ",
-   "RK",
-   "RL",
    "RG-C",
+   "RJ",
    "RJ-C",
+   "RK",
    "RK-C",
-   "RL-C",
-   "PowerPact R"
+   "RL",
+   "RL-C"
   ],
   "claims": {
    "group_mount_height": [
@@ -9539,8 +9539,8 @@
    "FAM-SQD-004"
   ],
   "source_ids": [
-   "SRC-00027",
-   "SRC-00026"
+   "SRC-00026",
+   "SRC-00027"
   ],
   "created_batch": "B0004-squared-switchboards"
  },
@@ -9769,9 +9769,9 @@
   "aliases": [
    "KA",
    "KAL",
+   "KC",
    "KH",
    "KHL",
-   "KC",
    "KI",
    "KIL"
   ],
@@ -10343,8 +10343,8 @@
   "mfr": "SQD",
   "name": "QO (plug-on)",
   "aliases": [
-   "QO-VH",
    "QO-H",
+   "QO-VH",
    "QOH"
   ],
   "claims": {
@@ -10398,9 +10398,9 @@
   "mfr": "SQD",
   "name": "QOB (bolt-on)",
   "aliases": [
-   "QOB-VH",
    "QOB-H",
-   "QOB-HID"
+   "QOB-HID",
+   "QOB-VH"
   ],
   "claims": {
    "mounting": [
@@ -10605,8 +10605,8 @@
    ]
   },
   "family_ids": [
-   "FAM-SQD-006",
-   "FAM-SQD-004"
+   "FAM-SQD-004",
+   "FAM-SQD-006"
   ],
   "source_ids": [
    "SRC-00177"
@@ -10650,9 +10650,9 @@
    ]
   },
   "family_ids": [
+   "FAM-SQD-004",
    "FAM-SQD-006",
-   "FAM-SQD-009",
-   "FAM-SQD-004"
+   "FAM-SQD-009"
   ],
   "source_ids": [
    "SRC-00177"
@@ -10696,9 +10696,9 @@
    ]
   },
   "family_ids": [
+   "FAM-SQD-004",
    "FAM-SQD-006",
-   "FAM-SQD-009",
-   "FAM-SQD-004"
+   "FAM-SQD-009"
   ],
   "source_ids": [
    "SRC-00177"
@@ -10711,8 +10711,8 @@
   "name": "LA / LH (L-frame, legacy thermal-magnetic)",
   "aliases": [
    "LAL",
-   "LHL",
-   "LAL36400MB"
+   "LAL36400MB",
+   "LHL"
   ],
   "claims": {
    "mounting": [
@@ -10741,9 +10741,9 @@
    ]
   },
   "family_ids": [
+   "FAM-SQD-004",
    "FAM-SQD-006",
-   "FAM-SQD-009",
-   "FAM-SQD-004"
+   "FAM-SQD-009"
   ],
   "source_ids": [
    "SRC-00177"
@@ -10783,9 +10783,9 @@
    ]
   },
   "family_ids": [
+   "FAM-SQD-004",
    "FAM-SQD-006",
-   "FAM-SQD-009",
-   "FAM-SQD-004"
+   "FAM-SQD-009"
   ],
   "source_ids": [
    "SRC-00177"
@@ -10908,10 +10908,10 @@
   "mfr": "SQD",
   "name": "Square D QO / QOB (Q1 / Q1B in Canada) for NQO / NQOB",
   "aliases": [
-   "QO",
-   "QOB",
    "Q1",
-   "Q1B"
+   "Q1B",
+   "QO",
+   "QOB"
   ],
   "claims": {
    "mounting": [
