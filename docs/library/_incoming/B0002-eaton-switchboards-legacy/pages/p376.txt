@@ -1,0 +1,74 @@
+                                                                                                     Motor Control
+                                                                                           Contactors, Starters and Brakes
+                                                                                                                                            13
+NEMA Sizes 1, 2 and 3—See Contactor/Starter Nameplate to Determine Series A1 or B1
+                                                  NEMA Size 1      NEMA Size 1         NEMA Size 2         NEMA Size 2        NEMA Size 3              1
+                                                  Series A1        Series B1           Series A1           Series B1
+Description                                       Part Number      Part Number         Part Number         Part Number        Part Number              2
+Renewal Parts Publication Number                  20861            22177               20861               22177              20426
+Contact Kits
+                                                                                                                                                       3
+Two-pole                                          6-65             6-65                6-65-7              6-65-7             6-43-5
+Three-pole
+Four-pole
+                                                  6-65-2
+                                                  6-65-9
+                                                                   6-65-2
+                                                                   6-65-9
+                                                                                       6-65-8
+                                                                                       6-65-15
+                                                                                                           6-65-8
+                                                                                                           6-65-15
+                                                                                                                              6-43-6
+                                                                                                                              —
+                                                                                                                                                       4
+                                                                                                                                                       5
+Five-pole                                         6-65-10          6-65-10             6-65-16             6-65-16            —
+Magnet Coils                        Coil Suffix
+120V, 60 Hz or 110V, 50 Hz          A             9-2703-1         9-2703-1            9-2703-1            9-2703-1           9-2756-1
+240V, 60 Hz or 220V, 50 Hz          B             9-2703-2         9-2703-2            9-2703-2            9-2703-2           9-2756-2
+                                                                                                                                                       6
+480V, 60 Hz or 440V, 50 Hz          C             9-2703-3         9-2703-3            9-2703-3            9-2703-3           9-2756-3
+600V, 60 Hz or 550V, 50 Hz          D             9-2703-4         9-2703-4            9-2703-4            9-2703-4           9-2756-4                 7
+208V, 60 Hz                         E             9-2703-9         9-2703-9            9-2703-9            9-2703-9           9-2756-5
+277V, 60 Hz                         H             9-2703-7         9-2703-7            9-2703-7            9-2703-7           9-2756-9                 8
+208/240V, 60 Hz                     J             —                —                   —                   —                  —
+240V, 50 Hz                         K             9-2703-14        9-2703-14           9-2703-14           9-2703-14          9-2756-13                9
+380–415V, 50 Hz                     L             99-2703-8        9-2703-8            9-2703-8            9-2703-8           —
+380V, 50 Hz                         L             —                —                   —                   —                  9-2756-12                10
+415V, 50 Hz                         M             —                —                   —                   —                  9-2756-8
+550V, 50 Hz                         N             —                —                   —                   —                  9-2756-14                11
+24V, 60 Hz–24V, 50 Hz               T             —                —                   —                   —                  —
+24V, 60 Hz                          T             9-2703-6         9-2703-6            9-2703-6            9-2703-6           9-2756-6                 12
+24V, 50 Hz                          U             9-2703-12        9-2703-12           9-2703-12           9-2703-12          9-2756-11
+32V, 50 Hz                          V             9-2703-10        9-2703-10           9-2703-10           9-2703-10          9-2756-10
+                                                                                                                                                       13
+48V, 60 Hz                          W             9-2703-11        9-2703-11           9-2703-11           9-2703-11          9-2756-15
+48V, 50 Hz                          Y             9-2703-13        9-2703-13           9-2703-13           9-2703-13          9-2756-7
+                                                                                                                                                       14
+Magnet Frame Armature
+Lower magnet frame
+Upper magnet frame
+                                                  17-18200
+                                                  48-1936
+                                                                   17-18200
+                                                                   48-1936
+                                                                                       17-18200
+                                                                                       48-1936
+                                                                                                           17-18200
+                                                                                                           48-1936
+                                                                                                                              17-8955-2
+                                                                                                                              48-1902
+                                                                                                                                                       15
+                                                                                                                                                       16
+                                                                                                                                                       17
+                                                                                                                                                       18
+                                                                                                                                                       19
+                                                                                                                                                       20
+                                                                                                                                                       21
+                                                                                                                                                       22
+                                                                                                                                                       23
+                                                                                                                                                       24
+                                                                                                                                                       25
+                        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com          V12-T13-39
+

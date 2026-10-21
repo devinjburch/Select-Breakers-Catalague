@@ -1,0 +1,324 @@
+     13                            Motor Control
+                                   Synchronous—Brush Type Mark V Solid-State Slipsyn Class 14-200 LV Motor Starters
+
+
+
+     Synchronous—Brush                      The cabinet will contain the       Typical Schematic Full Voltage Starter, Class 14-200,
+1    Type Mark V Solid-State                following:                         Non-Combination Type
+     Slipsyn Class 14-200 LV                1 – Primary starter full voltage                                                                         1L1
+
+
+2
+                                                                                                                                                                  TO
+                                                                                                                                                     1L2
+
+                                                 or reduced voltage.
+                                                                                                                                                                 3 PRI
+     Motor Starter                                                                                                                                   1L3         FUSE
+
+
+                                            1 – Ammeter shunt (when                                      L3                      C
+                                                                                                                                      M                                OL
+
+
+                                                 required).                                                                                                                                                               T3
+
+
+3                                                                                              AC                                     M                                OL                                                                         MOTOR
+                                                                                                    L2                           B
+
+                                            1 – Auxiliary relay for main
+                                                                                             SUPPLY
+                                                                                                                                                                                                                          T2                         FIELD
+                                                                                                                                      M                                OL
+                                                 line contactor (when
+                                                                                                            L1           A
+                                                                                                                                                                                                                          T1
+
+
+4
+                                                                                                                                                                                                                                           F1                       F2
+                                                 required) (MX).                                       PRI FUSE
+                                                                                                        3 AMP                                                                                                         RES                                                      D1
+
+                                            1 – Starting and field
+                                                                                                                                                                                                               STARTING/DISCHARGE
+                                                                                                                                                                                                                    RESISTOR                                                   Q4
+                                                                                                                                                                                                               R1                               R3
+                                                                                                                   H1                H2                                                                                      1RES
+
+                                                 discharge resistor (IRES).                                         VA                                                                                                   (-)                               VR
+
+
+5
+                                                                                                                 CPT                                                                                                DC                                        TO CB                 TO CB
+                                                                                                                                                                                                     SH                        FLA
+
+                                            1 – Current transformer for
+                                                                                                                                                                                                                   AMM
+                                                                                                                    X1               X2                                                                                                  TO CB                                TO CB
+                                                                                                                                                                                                                         (+)
+
+
+
+
+                                                                                                                                                                                                                                                                              CC2
+                                                                                                                                                                                                                                                                              KC2
+                                                                                                                                                                                        12
+
+
+
+
+                                                                                                                                                                                                                                         CC1
+                                                                                                                                                                                                                                         KC1
+                                                                                                                                                                                                                                                  QC1                                  QC1
+
+                                                AC ammeter through                                       FLA
+                                                                                                                                                                                                     P
+                                                                                                                                                                                                                         TO CB                                                TO CB
+
+
+                                                NEMA Size 4; Sizes 5 and
+
+
+
+
+                                                                                                                                                                                                                         CB1
+
+
+
+
+                                                                                                                                                                                                                                                                              CB2
+                                                                                                                                                                                                                         KB1
+
+
+
+
+                                                                                                                                                                                                                                                                              KB2
+                                                                                                                                                                                                                                    QB1                                                QB1
+
+
+6
+                                                                                                         L N
+                                                                                                                                                                                                                         TO CB                                                TO CB                     N
+                                                larger use three current
+
+
+
+
+                                                                                                                                                                                                                         CA1
+                                                                                                                                                                                                                         KA1
+
+
+
+
+                                                                                                                                                                                                                                                                              CA2
+                                                                                                                                                                                                                                                                              KA2
+                                                                                                                                                                                                                                    QA1                                                QA2
+              600V, NEMA Size 8,                                                             MX
+                                                                                                                                          M
+             Synchronous Starter                transformers for overload                                                                                                                                                                   1L31 1L32 1L33
+
+
+
+
+7                                               relays and AC ammeter.                             햲
+                                                                                       햲
+                                                                                                 START
+     Product Description                                                       1   1A STOP   2              3                F                      FLA                           OL
+
+                                            1 – Set control circuit terminal                                         MX
+                                                                                                                                                11 14                                                                        3SEC
+
+     Slipsyn magnetic starters
+                                                                                                   M                                                                                                                         FUSE                                         AMPS
+                                                                                                                                                 FLT
+
+                                                blocks.
+                                                                                                                                                                                                                                            1L21 1L22 1L23
+                                                                                              M2       M3
+
+
+8
+                                                                                                                                                      TDO
+     provide reliable, automatic
+                                            3 – Type AN manual reset                                                                          WX K RLY1 K1 RLY3 K2                                       1X1 1X3        1X21X4             2X12X3       2X22X4                 3X1 3X3 3X2 3X4
+
+
+     starting of synchronous                                                                                                                                                                         TX
+
+
+
+
+                                                                                                                                                                 SQ1
+
+                                                                                                                                                                            SQ2
+                                                                                                                                                     ST1
+
+                                                                                                                                                           ST2
+                                                thermal overload relay and                                                                    SYTR                                                       1H1                 1H2           2H1                   2H2           3H1                     3H2
+
+
+     motors. Automatic
+                                                                                                                3          CB
+                                                                                                                                                    TDO                                              1L11                                 1L12                                1L13
+
+                                                three heater elements
+                                                                                                                         115                                                                                       3PRI
+
+
+9    synchronization is provided by
+                                                                                                                                                                                                                   FUSE                                                                          AMPS
+
+
+                                                (OL).
+                                                                                                                             ON DELAY               (SET 2 SEC LONGER THAN
+                                                                                                                                              FLT                                                              1L1                                   1L2                                   1L3
+                                                                                                                             .1-30 SEC                ACCELERATION TIME)
+
+     the Mark V Solid-State Field                                                                                            ON DELAY         SY
+
+
+     Panel, which ensures                   1 – Step-down exciter                                                            .1-30 SEC        TR    SET @ .5 SEC                                                                         TO AC SUPPLY
+
+
+
+10                                              transformer—three-phase                                                                                                                      TO             TO               TO             TO             TO                 TO              TO
+
+     application of the field at                                                                                                                                                             QA2            QB2              QC2            QA1            QB1                QC1             Q4
+
+
+
+     proper motor speed, and at a               (TX).
+
+
+
+
+                                                                                                                                                                                                                                                                                                   (WB)
+                                                                                                                                                                                                                                                                                             CQ4
+                                                                                                                                                                                             KA2
+                                                                                                                                                                                                   CA2
+
+
+
+
+                                                                                                                                                                                                                                            KA1
+                                                                                                                                                                                                                                                  CA1
+
+
+
+
+                                                                                                                                                                                                                                                                                                   KQ4
+                                                                                                                                                                                                            KB2
+                                                                                                                                                                                                                  CB2
+
+                                                                                                                                                                                                                             KC2
+                                                                                                                                                                                                                                   CC2
+
+
+
+
+                                                                                                                                                                                                                                                           KB1
+                                                                                                                                                                                                                                                                  CB1
+
+                                                                                                                                                                                                                                                                              KC1
+                                                                                                                                                                                                                                                                                    CC1
+     favorable angular position of          3 – Primary fuses (3 PRI).
+11
+                                                                                                                                                                                                   VPF
+                                                                                                                                                                                                                              CB
+
+                                            3 – Secondary fuses (3 SEC).
+                                                                                                                                                                                                   AV1         SYNCHRONIZING AND CONTROL CIRCUIT
+     stator and rotor poles. As a
+
+
+
+
+                                                                                                                                                                                       P2
+
+
+
+
+                                                                                                                                                                                                                                   115
+
+
+
+                                                                                                                                                                                                                                                  IN+
+                                                                                                                                                                            CW                     AV2
+
+
+
+
+                                                                                                                                                                                                                                   IN-
+                                                                                                                                                                                                                        VR
+                                                                                                                                                                                                                                                              RLY 1                        RLY 3
+
+     result, line disturbance               1 – SCR power supply panel.                                                                                                                            PSC
+
+
+
+
+                                                                                                                                                                                                                                                                                     SQ1
+
+                                                                                                                                                                                                                                                                                                 SQ2
+                                                                                                                                                                                                                                                        ST1
+
+                                                                                                                                                                                                                                                                        ST2
+12   resulting from synchronization
+     is reduced and effective motor
+                                            1 – Synchronous control
+                                                board (CB).
+                                                                                                                                                                                                                        TO
+                                                                                                                                                                                                                        D1
+                                                                                                                                                                                                                                           TO 120V CONTROL CIRCUIT
+
+
+
+     pull-in torque is increased.           3 – MOV for surge protection
+13   Application of DC power to                 (MOV).
+                                                                               Technology Upgrades
+     motor field windings is                1 – Starting and field             For Brush-Type Mark V Solid-                                                                             3. Excitation control detail
+     accomplished without                       discharge resistor (when       State Slipsyn (Class 14-200) Low                                                                            such as “constant-
+14   mechanically moving parts,                 size permits; otherwise        Voltage Motor Starter Upgrades                                                                              potential” or “adjustable-
+     and the device features a                  provided for separate          New synchronous field                                                                                       potential.” Adjustable-
+     “soft-turn on” circuit when                                               controllers using the latest                                                                                potential usually requires
+15   applying DC voltage to the
+                                                mounting).
+                                            1 – AC ammeter, panel type         solid-state technology are                                                                                  a field rheostat (motor
+     motor field.                               (AM).                          usually available.                                                                                          field-resistor).
+16   The solid-state Mark V Slipsyn         1 – DC ammeter, panel type         Replacements and upgrades
+                                                                               for primary starter and                                                                                  4. Detail on the motor’s
+     controller will provide the                (DC AMM).                                                                                                                                  function such as the
+                                                                               contactor components are
+     following protective                   1 – Exciter field                                                                                                                              application data and
+17   functions:                                 potentiometer (P2).
+                                                                               also usually available.
+                                                                                                                                                                                           other service conditions
+                                            1 – Field failure relay (FLA).     Information Required from                                                                                   such as duty-cycle, etc.
+     A.   Locked rotor protection.
+18   B.   Incomplete sequence.
+                                            1 – Incomplete SEQ Timer           Customer for Upgrade
+                                                                               Evaluation                                                                                              Note
+                                                (FLT).                                                                                                                                 1 Remote device.
+     C.   Failure to synchronize.           1 – Start timer (SYTR).             1. Original assembly
+19   D.   Fuse failure (Mark V).
+                                                                                    nameplate data including
+                                                                                    General Order “GO”
+     E.   Pullout protection.                                                       number as well as any
+20   F.   DC current failure                                                        drawing numbers.
+          protection.                                                          2. Complete motor data
+21                                                                                including horsepower,
+                                                                                  phase, voltage/Hz, RPM,
+                                                                                  FLA, LRA, full-load DC
+22                                                                                amperes, power factor,
+                                                                                  excitation voltage,
+23                                                                                induced field amperes
+                                                                                  at 95% speed and at 0%
+                                                                                  speed, recommended
+24                                                                                discharge resistor ohms
+                                                                                  and maximum time at
+                                                                                  zero speed (locked rotor).
+25
+     V12-T13-82          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

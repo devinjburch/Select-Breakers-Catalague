@@ -1,0 +1,109 @@
+                                                                             Pushbuttons and Indicating Lights
+                                                                                                                             Replacement Capabilities
+                                                                                                                                                                                          23
+Key Operated Selector Switches
+Key removal from maintained positions only—will accept a maximum of two contact blocks (four circuits) with                                                                                           1
+supplied three-way mounting adapter. Optional five-way adapter will accept a maximum of five contact blocks (10 circuits).
+
+                         Key Operated Selector Switches—UL (NEMA) Type 3, 3R, 4, 4X, 12, 13
+                                                                                                                                                                                                      2
+Plastic Black Bezel
+
+                                                                                                                                                                                                      3
+                         Operating Mode
+                         M = Maintained
+                         S = Momentary                                                 E22 Series—Plastic Operators                                    EM22 Series—Metal Operators
+
+                                                                                                                                                                                                      4
+                         Left            Center           Right
+                                                                         Cam           45° Black Bezel                  45° Chrome Bezel               60° Chrome Bezel
+Plastic Chrome Bezel                                                     Code          Catalog Number 1                 Catalog Number 1               Catalog Number 1
+                         Two-Position
+                                                                                                                                                                                                      5
+                         M               —                M              2             E22KB52                          E22K52                         —
+                         M
+                         M
+                                         —
+                                         —
+                                                          M
+                                                          S
+                                                                         2
+                                                                         2
+                                                                                       E22KB53
+                                                                                       E22KB62
+                                                                                                                        E22K53
+                                                                                                                        E22K62
+                                                                                                                                                       EM22K53
+                                                                                                                                                       EM22K62
+                                                                                                                                                                                                      6
+Metal Chrome Bezel
+                         —
+                         Three-Position
+                                         M                M              2             E22KBF4                          E22KF4                         EM22KF4
+                                                                                                                                                                                                      7
+                                                                                                                                                                                                      8
+                         M               M                M              1             E22KBG7                          E22KG7                         —
+
+
+
+                         Spare Key
+                                                  Reference Number           Catalog
+                                                                                                                                                                                                      9
+                         Description              Stamped on Key             Number
+                         Standard lock            92239                      E22KS2                                                                                                                   10
+
+Specialty Operators
+                                                                                                                                                                                                      11
+
+Mechanical Push Rod
+                         Flush Pushbutton Operators with Mechanical Push Rod—UL (NEMA) Type 3, 3R, 4, 4X, 12, 13                                                                                      12
+                                                                                                                                     Plastic—Black Bezel                 Plastic—Chrome Bezel
+                         Description                                                                            Color                Catalog Number                      Catalog Number
+                                                                                                                                                                                                      13
+                         25 mm diameter flush pushbutton                                                        Gray                 E22PB7L                             E22P7L
+                         Operators supplied with mechanical push rod—suitable for external
+                         mechanical reset of overload relays. Push rod must be cut to desired length                                                                                                  14
+Double-Headed Pushbuttons                                                                                                                                                                             15
+Double-Headed
+Pushbuttons
+                         Illuminated and Non-Illuminated Double-Headed Pushbuttons—UL (NEMA) Type 1; IP40                                                                                             16
+                                                                                                                                                                 Plastic—Black Bezel
+                         Description                                                     Operator Colors                         Marking                         Catalog Number
+                         Non-illuminated double-headed pushbutton                        Green—Red                               I                               E22DB1A21
+                                                                                                                                                                                                      17
+                                                                                                                                                                                                      18
+                                                                                                                                                                                                      19
+Contact Blocks
+
+                         Contact Blocks                                                                Notes
+                                                                                                                                                                                                      20
+Contact Blocks                                                                                         1 Final digit of catalog number represents key removal position per the chart below.
+
+                         Description
+                                                                   Catalog
+                                                                   Number
+                                                                                                           Key Removal Position          Code Suffix       Key Removal Position       Code Suffix
+                                                                                                                                                                                                      21
+                         1NC                                       E22B1 2
+                         1NO                                       E22B2
+                                                                                                           Left only
+                                                                                                           Right and left
+                                                                                                                                         2
+                                                                                                                                         3
+                                                                                                                                                           Center only
+                                                                                                                                                           Right, left and center
+                                                                                                                                                                                      4
+                                                                                                                                                                                      7
+                                                                                                                                                                                                      22
+                         1NO-1NC                                   E22B11 2
+                         2NO                                       E22B20
+                                                                                                       2 Marked with direct opening action (DOA) symbol per IEC 60947-5-1 (Annex K) and
+                                                                                                         NEMA ICS 5 (Part 6).
+                                                                                                                                                                                                      23
+                         One self-monitoring 1NC                   E22CB1M 23                          3 For use with trigger action emergency stop (E22LTA2) operators.
+
+
+                                                                                                                                                                                                      24
+                                                                                                                                                                                                      25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                            V12-T23-9
+

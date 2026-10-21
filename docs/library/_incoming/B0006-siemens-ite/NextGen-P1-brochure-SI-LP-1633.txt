@@ -1,0 +1,340 @@
+THE SIEMENS ADVANTAGE
+
+
+Revised P1 Panels
+Ready to Assemble Panelboards
+
+siemens.ca/powerdistribution
+    Revised P1 Panels – Ready to
+    Assemble Panelboards (RTAP)
+    To better serve the needs of our customers, we are proud      the P1 panelboard is also designed to be extremely user-
+    to announce that we are an Authorized Siemens RTAP            friendly. For instance, field convertible main breaker
+    Distributor. What this means to you is product flexibility,   and main lug kits, (through 400 amps), will allow you
+    quicker job turn-around, and affordable pricing. All          to switch from main lug to main breaker, and vice
+    Siemens ready to assemble panelboards are fully backed        versa with no change in box size or additional cabling.
+    for high-quality and trouble-free operation.                  Plus, lay-in construction and/or removable lugs make
+                                                                  wiring the main and neutral lugs easier and faster. To
+    Same day availability
+                                                                  further speed wiring, as well as reduce clutter, the P1
+    Over the counter availability means you’re on and off the
+                                                                  panel also features a split neutral design and branch
+    job without the delays that come with waiting for factory
+                                                                  neutral connections are near the breaker connections.
+    assembled panelboards.
+                                                                  Additionally, field addable sub-fed breakers (up to
+    Product consistency                                           250A) or feed through lug kits can be field installed
+    Whether you are starting a new project, replacing parts,      without utilizing any of your feeder breaker positions
+    or adding on to an existing project, the RTAP offering is     or increasing your box height. Furthermore, the unique
+    an exact match to the Siemens factory built panelboards       design allows the panel to be inverted in the field and
+    (feed-thru versions only). While this ensures that you        keep its labeling legible.
+    enjoy the same great features of the P1 panelboard, it
+                                                                  New for Revised P1 Panels
+    also guarantees your job sites will have the same look,
+    quality, and parts whether you ordered them factory-          1) BL/BQD type Mains are only allowed as Back-Fed
+    built, utilized our RTAP inventory, or used a combination        Mains in unit space. This uses 2 or 3 positions of unit
+    of the two. (Note: Non-feed-thru variations are available        space, but saves the cost of a strap kit.
+    as factory assembled without subfeed space in a 6’’ (152      2) 54 circuit 250A and 400A panels are now available.
+    mm) shorter enclosure.)                                       3) 2/0 neutral kits are now available as field installable
+    Flexibility and ease of assembly                                 accessories.
+    Customer oriented design creates installation                 4) 750 kcmil Main Lug kits are now available for
+    convenience. For all of its one-of-a-kind features,              400A Panels.
+
+
+
+
+2
+Revised P1 Panels – Ready to Assemble Panelboards
+offer a wealth of features and benefits!
+
+                                                3
+
+                                                    4                                      7
+
+        1
+
+
+
+
+                                                                   5
+                        2                                                                       8
+
+
+
+
+                                                        6
+
+
+
+
+1 Completely symmetrical boxes            4 Choose either a Main Breaker             6 The panel includes space to add
+   may be mounted with either end            kit or Main Lug kit with which to         (1) sub-feed breaker (max 250 amps),
+   up. There are four pre-punched            terminate your incoming cables.           feed-thru lugs or TPS4 (SPD) kit.
+   equipment ground connector                Main lug kits are contractor-friendly
+   locations for contractor-friendly         with lay in lugs (or removable lugs)    7 Siemens standard trim has hidden
+   installation.                             through 350 Kcmil (250 amp panel)         hinges and mounting hardware for
+                                             or (1) 600 Kcmil or (2) 250 Kcmil         added safety. The rounded door
+2 Box comes pre-punched for optional,        connectors for 400 amp panels. Main       corners not only enhance the panel’s
+   field-installable door-in-door or         Breaker kits (250 amps and below)         appearance but also help to eliminate
+   hinged style trims. There are also        are horizontally mounted allowing         injuries caused from sharp corners.
+   four pre-punched ground connector         field convertible top or bottom
+   locations. The panel box will accept      feeds to be performed easily. Main      8 Semi-flush lock comes standard.
+   both standard ground connector            Lug kits and Main Breaker Kits are        Easily identified locked position
+   (EGK and ECGK) assemblies and             interchangeable and can be changed/       denoted by keyway being horizontal
+   insulated ground connector kits           added in the field without making         when door has been locked.
+   (IGK and ICGK).                           changes to the enclosure or interior.
+
+3 Interior is completely symmetrical      5 Branch neutral connections are
+   allowing it to be changed from top        near the breaker connections to
+   to bottom feed by simply rotating         speed wiring and reduce clutter.
+   the interior.                             The standard P1 neutral is rated for
+                                             100% of the panel’s ampacity and
+                                             will accept copper or aluminum wire.
+                                             Optional 200% neutral kits and 2/0
+                                             neutral kits are also available.
+
+                                                                                                                               3
+    Ordering is as easy as 1, 2, 3, 4
+      1 Select the three main components for Revised P1 Panels:
+        Interior, Box & Trim
+
+     1 Phase, 3 Wire uses BL, BLH, or HBL style breakers                                                           120/240V
+     Bus ampere          Max. no.         Revised P1              Box Catalogue           Trim Catalogue         Bus
+     rating              of circuits      Catalogue no.           no.¹                    no.²                   Material
+                         18               P1A18ML250AT            B32                     S/F32B
+                         30               P1A30ML250AT            B38                     S/F38B
+     250                                                                                                         Aluminum
+                         42               P1A42ML250AT            B44                     S/F44B
+                         54               P1A54ML250AT            B50                     S/F50B
+                         30               P1A30ML400AT            B62                     S/F62B
+     400                 42               P1A42ML400AT            B68                     S/F68B                 Aluminum
+                         54               P1A54ML400AT            B74                     S/F74B
+                         18               P1A18ML250CT            B32                     S/F32B
+                         30               P1A30ML250CT            B38                     S/F38B
+     250                                                                                                         Copper
+                         42               P1A42ML250CT            B44                     S/F44B
+                         54               P1A54ML250CT            B50                     S/F50B
+                         30               P1A30ML400CT            B62                     S/F62B
+     400                 42               P1A42ML400CT            B68                     S/F68B                 Copper
+                         54               P1A54ML400CT            B74                     S/F74B
+
+
+     3 Phase, 4 Wire uses BL, BLH or HBL style breakers                                                            120/208V
+                         18               P1C18ML250AT            B32                     S/F32B
+                         30               P1C30ML250AT            B38                     S/F38B
+     250                                                                                                         Aluminum
+                         42               P1C42ML250AT            B44                     S/F44B
+                         54               P1C54ML250AT            B50                     S/F50B
+                         30               P1C30ML400AT            B62                     S/F62B
+     400                 42               P1C42ML400AT            B68                     S/F68B                 Aluminum
+                         54               P1C54ML400AT            B74                     S/F74B
+                         18               P1C18ML250CT            B32                     S/F32B
+                         30               P1C30ML250CT            B38                     S/F38B
+     250                                                                                                         Copper
+                         42               P1C42ML250CT            B44                     S/F44B
+                         54               P1C54ML250CT            B50                     S/F50B
+                         30               P1C30ML400CT            B62                     S/F62B
+     400                 42               P1C42ML400CT            B68                     S/F68B                 Copper
+                         54               P1C54ML400CT            B74                     S/F74B
+
+
+
+
+    ¹ All box dimensions are 20”w × 5.75”d. Height dimensions are equal to the last two digits of the box's catalogue number.
+    ² Catalogue number begins with either S for surface or F for flush front (i.e. S32B or F32B).
+
+
+4
+  1 Select the three main components for Revised P1 Panels:
+    Interior, Box & Trim
+
+ 3 Phase, 4 Wire uses BQD6 style breakers                                                                      600Y/347V
+ Bus ampere         Max. no.        Revised P1                    Box Catalogue          Trim Catalogue         Bus
+ rating             of circuits     Catalogue no.                 no.¹                   no.²                   Material
+                    18              P1L18ML250AT                  B32                    S/F32B
+                    30              P1L30ML250AT                  B38                    S/F38B
+ 250                                                                                                            Aluminum
+                    42              P1L42ML250AT                  B44                    S/F44B
+                    54              P1L54ML250AT                  B50                    S/F50B
+                    30              P1L30ML400AT                  B62                    S/F62B
+ 400                42              P1L42ML400AT                  B68                    S/F68B                 Aluminum
+                    54              P1L54ML400AT                  B74                    S/F74B
+                    18              P1L18ML250CT                  B32                    S/F32B
+                    30              P1L30ML250CT                  B38                    S/F38B
+ 250                                                                                                            Copper
+                    42              P1L42ML250CT                  B44                    S/F44B
+                    54              P1L54ML250CT                  B50                    S/F50B
+                    30              P1L30ML400CT                  B62                    S/F62B
+ 400                42              P1L42ML400CT                  B68                    S/F68B                 Copper
+                    54              P1L54ML400CT                  B74                    S/F74B
+
+
+ 3 Phase, 4 Wire uses NGB/3VA41 style breakers                                                                 600Y/347V
+                    18              P1L18ML250AT-NGB              B32                    S/F32H
+ 250                30              P1L30ML250AT-NGB              B38                    S/F38H                 Aluminum
+                    42              P1L42ML250AT-NGB              B44                    S/F44H
+                    30              P1L30ML400AT-NGB              B62                    S/F62B
+ 400                                                                                                            Aluminum
+                    42              P1L42ML400AT-NGB              B68                    S/F68B
+                    18              P1L18ML250CT-NGB              B32                    S/F32H
+ 250                30              P1L30ML250CT-NGB              B38                    S/F38H                 Copper
+                    42              P1L42ML250CT-NGB              B44                    S/F44H
+                    30              P1L30ML400CT-NGB              B62                    S/F62B
+ 400                                                                                                            Copper
+                    42              P1L42ML400CT-NGB              B68                    S/F68B
+
+
+
+
+¹ All box dimensions are 20”w × 5.75”d. Height dimensions are equal to the last two digits of the box’s catalogue number.
+² Catalogue number begins with either S for surface or F for flush front (i.e. S32B or F32B).
+³ This panel only accepts NGB/3VA41 breakers in the branch-feeder positions.
+
+                                                                                                                            5
+            Select main breaker kit or feed-thru lug kit (if required).
+      2 Main/subfeed breaker mounting kits may be ordered with or without breaker.
+
+     Main and Subfeed Breaker Mounting Kits without Breakers¹                             Main and Subfeed Breaker Mounting Kits
+                                                                                          with Breakers¹
+     Ampere        Breaker Types             Service       Revised P1
+     rating                                                Catalogue no.                  Catalogue no.³         Description                  Max IR (kA) at
+     100A          BQD                       3 Phase       Use Back-fed Main                                                                  240V      600V
+                                                           Label Kit # MBKBFA²
+                                                                                          MBKQR12225A            2 pole | QR2 225A            10        –
+                                             1 Phase       (includes Neutral Lug,
+     100A          BL, BLH, HBL                            “MAIN” label and               MBKQR33200A            3 pole | QR2 200A            10        –
+                                             3 Phase
+                                                           instructions)
+                                                                                          MBKQR33225A            3 pole | QR2 225A            10        –
+                                             1 Phase       MBKVA41A
+     125A          NGB, 3VA4                                                              MBKED33100A            3 pole | ED6 100A            65        18
+                                             3 Phase       MBKVA41B
+                                                                                          MBKED33125A            3 pole | ED6 125A            65        18
+                   ED4, ED6, HED4            1 Phase       MBKED1A
+     125A
+                                             3 Phase       MBKED3A                        MBKFD33200A            3 pole | FXD6 200A           65        22
+                   QR2, QRH2,                1 Phase       MBKQR1A                        MBKFD33225A            3 pole | FXD6 225A           65        22
+     225A³
+                   HQR2, HQR2H               3 Phase       MBKQR3A
+                                                                                          MBKFD33250A            3 pole | FXD6 250A           65        22
+                   FXD6, FD6, HFD6, 1 Phase                MBKFD1A
+     250A                                                                                 MBKHF33250A            3 pole | HFD6 250A           100       25
+                   HFXD6            3 Phase                MBKFD3A
+                                                                                          MBKJD33400A²           3 pole | JXD6 400A           65        25
+                   3VA52, 3VA61,             1 Phase       MBKVA5262A
+     250A
+                   3VA62                     3 Phase       MBKVA5262B
+                   JXD2, JD6, JXD6,          1 Phase       MBKJD3B                        Main and Subfeed Breaker Mounting Kits
+     400A                                                                                 with 3VA Breakers¹
+                   HJD6, HJXD6               3 Phase
+                   3VA53, 3VA63              1 Phase       MBKVA5363A                     Catalogue no.            Description                Max IR (kA) at
+     400A
+                                             3 Phase                                                                                           240V      600V
+
+    ¹ 400 amp kit is for main only – not allowed for subfeed breaker.                     MBKVAM3150A              3 pole | 150A              85         18
+    ² Back-fed main breaker occupies branch space.
+                                                                                          MBKVAM3200A              3 pole | 200A              85         18
+    ³ Although QR is rated 250A, it is limited to 225A in panelboard.
+                                                                                          MBKVAM3225A              3 pole | 225A              85         18
+                                                                                          MBKVAM3250A              3 pole | 250A              85         18
+     Lug Kits – Main or Feed Thru (for Revised P1 only)
+                                                                                          MBKVAH3200A              3 pole | 200A              100        25
+     Ampere        Material        Wire range                     Service   Revised P1
+     rating                                                                 Catalogue     MBKVAH3250A              3 pole | 250A              100        25
+                                                                            no.           MBKVAM1300A ² 2 pole | 300A                         85         18
+                   Aluminum        (1) #6 AWG-350 kcmil           1 Phase   MLKA1A        MBKVAM1400A ² 2 pole | 400A                         85         18
+                                   Cu or Al                       3 Phase   MLKA3A
+     250                                                                                  MBKVAM3300A ² 3 pole | 300A                         85         18
+                   Copper          (1) #6 AWG-350 kcmil           1 Phase   MLKC1A
+                                   Cu or Al                       3 Phase   MLKC3A        MBKVAM3400A ² 3 pole | 400A                         85         18
+
+                   Aluminum        (2) 3/0 250 or                 1 Phase   4MLKA1A       MBKVAH3300A ²            3 pole | 300A              100        25
+                                   (1) #2 AWG-600kcmil            3 Phase   4MLKA3A       MBKVAH3400A ²            3 pole | 400A              100        25
+                   Copper          (2) 1/0-4/0 or                 1 Phase   4MLKC1A
+     400
+                                   (1) 1/0-600 kcmil              3 Phase   4MLKC3A      ¹ If used as a Subfeed breaker, max is 250A.
+                                                                                         ² 400 amp kits usable as Top (or) Bottom feed. These kits cannot be used
+                   Aluminum        (1) 1/0-750 kcmil Al or        1 Phase   4MLKA1B        as a subfeed breaker since panel’s subfeed space allowance is for a
+                                   (1) 1/0-600 kcmil Cu           3 Phase   4MLKA3B        maximum 250 amp breaker.
+                                                                                         ³ All kits listed ending in “A” will not fit Original P1 Panels.
+
+
+
+
+    Note: Original P1 kits will not fit Revised P1 Panels, and Revised P1 kits will not fit original P1 Panels.
+
+6
+  3 Select P1 Panelboards ground bars
+    and accessories
+                                                                                      4 List required branch circuit
+                                                                                        breakers for P1 panelboards
+
+ Catalogue no.           Description                                                 Voltage    Branch Breaker   AIC      Breaker
+ BK1A²                   Bonding kit for 250A max.                                              Ampere rating    rating   style
+
+ EGK                     Al Ground Bus 44 Connections                                           Up to 100 Amps   10k      BL
+                                                                                     120/208V
+                                                                                                                 22k      BLH
+ ECGK                    Cu Ground Bus 44 Connections                                120/240V
+                                                                                                                 65k      HBL
+ IGK                     Insulated Al Ground Bus
+                                                                                                Up to 70 Amps    10k      BQD6
+ ICGK                    Insulated Cu Ground Bus                                     600/347V
+                                                                                                Up to 125 Amps   25kA     3VA
+ DFFP1A                  Filler Plate can be used in place of QF3-UL (Qty=100/box)
+ 2NLK42B²                200% Neutral Kit, 42 Circuit, 250 Amp
+ 2NLK54B²                200% Neutral Kit, 54 Circuit, 250 Amp
+ 42NLK54B²               200% Neutral Kit, 54 circuit, 400 Amp
+ P1SCRWS¹                Branch Breaker Mounting Screws for P1
+ SDKN                    Dripshield kit (20”w × 5.75”d)
+                         Back-Fed Main Breaker Label and Instructions for BL/
+ MBKBFA²
+                         BQD or NGB breaker
+                         RP1 CU Neutral Lug Kit, 42B - 2 short & 2 long strips
+                         (17 & 25 pos) contains: CU neutral strips and CU riser
+ CNLK42B²
+                         extension, plus all hardware to replace standard
+                         neutrals. CU strips are 1/0 max. and require CU cable
+                         RP1 CU Neutral Lug Kit, 54B - 4 long strips (25 pos)
+                         contains: CU neutral strips and CU riser extension, plus
+ CNLK54B²
+                         all hardware to replace standard neutrals. CU strips are
+                         1/0 max. and require CU cable
+                         RP1 & P3 2/0 Neutral Lug Kit (15pos) [(4×)2/0 + (11×) #6]
+ LNLK4X11B²
+                         - 2/0 max neutral strips (6.17 Long)
+                         RP1 & P3 2/0 Neutral Lug Kit (23pos) [(5×)2/0 + (17×) #6]
+ LNLK6X17B²
+                         - 2/0 max neutral strips (8.67 Long)
+                         RP1 & P3 2/0 Neutral Lug Kit (27pos) [(7×)2/0 + (20×) #6]
+ LNLK7X20B²
+                         - 2/0 max neutral strips (9.92 Long)
+ NBK01A                  Stick-on numbers 1–60 (includes BT - ½” size)
+ NBK02A                  Stick-on numbers 61–120 (includes BT - ½” size)
+ NBK03A                  Stick-on numbers 121–240 (includes BT - ½” size)
+ P1CONBPHCU²             Replacement Connector kit – 6 pcs. B phase Copper           For more information about
+ P1CONBPHAL²             Replacement Connector kit – 6 pcs. B phase Aluminum         what your Siemens RTAP
+ P1CONACPHCU²            Replacement Connector kit – 6 pcs. A or C phase Copper
+                                                                                     Distributor can do for you,
+                         Replacement Connector kit – 6 pcs. A or C phase
+ P1CONACPHAL²
+                         Aluminum                                                    contact your local distributor.
+¹ Screws are included with interior. Qty 1 equals 42 screws.
+² For use with Revised P1 Panels only. Will not work with original P1.
+
+
+
+
+                                                                                                                                    7
+Published by                   Customer Interaction Centre     All product designations may be
+Siemens Canada Limited         1-888-303-3353                  trademarks or product names of Siemens
+                                                               AG or supplier companies whose use by
+Siemens Canada Limited         Order No.: SI-EP-1706           third parties for their own purposes could
+Electrical Products            All rights reserved             violate the rights of the owners. Subject
+1577 North Service Road East   Printed in Canada               to change without prior notice.
+Oakville ON L6H0H6             © 2025 Siemens Canada Limited
+
+
+
+
+siemens.ca/powerdistribution
+

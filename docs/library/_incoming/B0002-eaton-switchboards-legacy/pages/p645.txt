@@ -1,0 +1,65 @@
+                                   Counters, Panel Meters, Tachometers and Timers
+                                                                                                         Tachometers/Ratemeters
+                                                                                                                                  24
+Product Selection Guide
+                                                                                                                                               1
+                  Tachometers/Ratemeters
+
+                  Characteristics
+                                                                                        Panel Cutout
+                                                                                        in Inches (mm)       Page
+                                                                                                                                               2
+E5-_24-E          Compact device with bright, LED display
+                  Multiple functions available: count, time, rate, multifunction,
+                                                                                        0.870 x 1.772
+                                                                                        (22 x 45)
+                                                                                                             V12-T24-38
+                                                                                                                                               3
+                  double-function
+                  24 Vdc Power                                                                                                                 4
+E5-496-E          Economical, multifunction display                                     1.772 x 3.780        V12-T24-42                        5
+                  Large, LED characters                                                 (45 x 96)
+
+                  AC or DC power options
+                                                                                                                                               6
+
+E5-148-C          Low cost, simple count control                                        1.772 x 1.772        V12-T24-46
+                                                                                                                                               7
+                  Various power options: battery, AC, DC                                (45 x 45)
+
+                  Easy-to-change preset values                                                                                                 8
+                  Two-line display: input and preset values
+
+                                                                                                                                               9
+Courier           Replaceable lithium battery                                           1.299 x 2.677        V12-T24-64
+                  Eight-digit, high-visibility LCD display                              (33 x 68)                                              10
+                  Optional backlighting
+                  Various input options available                                                                                              11
+Eclipse           Six-digit, super bright LED display
+                  Multiple models available: totalizers, ratemeters, count controls,
+                                                                                        1.772 x 3.780
+                                                                                        (45 x 96)
+                                                                                                             V12-T24-66
+                                                                                                                                               12
+                  digital panel meters and flow controls
+                                                                                                                                               13
+Ambassador        Six-digit, high-visibility, two-line LCD display                      2.667 x 2.667
+                                                                                        (68 x 68)
+                                                                                                             V12-T24-69                        14
+                  User-configurable control inputs
+                  Highly flexible control/display
+                                                                                                                                               15
+                                                                                                                                               16
+Fusion            Integrated controller combines operator interface, ladder logic and   2.667 x 5.433        V12-T24-91
+                  high-speed counting                                                   (68 x 138)
+                                                                                                                                               17
+                                                                                                                                               18
+                                                                                                                                               19
+                                                                                                                                               20
+                                                                                                                                               21
+                                                                                                                                               22
+                                                                                                                                               23
+                                                                                                                                               24
+                                                                                                                                               25
+             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com            V12-T24-63
+

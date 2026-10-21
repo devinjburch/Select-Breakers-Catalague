@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    RHK2150                  1376D14G06        O          —                        —                      Reconditioned HK2150      10
+     RHK2175                  1376D14G07        O          —                        —                      Reconditioned HK2175      10
+3    RHK2200                  1376D14G08        O          —                        —                      Reconditioned HK2200      10
+     RHK2225                  1376D14G09        O          —                        —                      Reconditioned HK2225      10
+
+4    RHK2225K                 NO STYLE          O          —                        —                      —                         —
+     RHK3070                  1376D14G22        A          —                        —                      —                         10
+
+5    RHK3090                  1376D14G23        A          —                        —                      —                         10
+     RHK3100                  1376D14G24        A          —                        —                      —                         10
+
+6    RHK3125                  1376D14G25        A          —                        —                      —                         10
+     RHK3150                  1376D14G26        A          —                        —                      —                         10
+
+7    RHK3175                  1376D14G27        A          —                        —                      —                         10
+     RHK3200                  1376D14G28        A          —                        —                      —                         10
+
+8    RHK3225
+     RHK3225K
+                              1376D14G29
+                              NO STYLE
+                                                A
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           —
+                                                                                                           —
+                                                                                                                                     10
+                                                                                                                                     —
+
+9
+     RHKL2125                 1376D15G05        O          —                        —                      Reconditioned KL2125      10
+     RHKL2150                 1376D15G06        O          —                        —                      Reconditioned KL2150      10
+     RHKL2175                 1376D15G07        O          —                        —                      Reconditioned KL2175      10
+10   RHKL2200                 1376D15G08        O          —                        —                      Reconditioned KL2200      10
+     RHKL2225                 1376D15G09        O          —                        —                      Reconditioned KL2225      10
+11   RHKL2250                 1376D15G10        O          —                        —                      Reconditioned KL2250      10
+     RHKL2300                 1376D15G12        O          —                        —                      Reconditioned KL2300      10
+12   RHKL2350                 1376D15G14        O          —                        —                      Reconditioned KL2350      10
+     RHKL2400                 1376D15G15        O          —                        —                      Reconditioned KL2400      10
+13   RHKL2400K                NO STYLE          O          —                        —                      —                         —
+     RHKL3125                 1376D15G25        A          —                        —                      —                         10
+14   RHKL3150                 1376D15G26        A          —                        —                      —                         10
+     RHKL3175                 1376D15G27        A          —                        —                      —                         10
+
+15   RHKL3200                 1376D15G28        A          —                        —                      —                         10
+     RHKL3225                 1376D15G29        A          —                        —                      —                         10
+
+16   RHKL3250                 1376D15G30        A          —                        —                      —                         10
+     RHKL3300                 1376D15G32        A          —                        —                      —                         10
+
+17   RHKL3350                 1376D15G34        A          —                        —                      —                         10
+     RHKL3400                 1376D15G35        A          —                        —                      —                         10
+
+18   RHKL3400K                NO STYLE          A          —                        —                      —                         10
+     RHLM2125                 1376D16G05        O          —                        —                      Reconditioned LM2125      10
+
+19   RHLM2150
+     RHLM2175
+                              1376D16G06
+                              1376D16G07
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           Reconditioned LM2150
+                                                                                                           Reconditioned LM2175
+                                                                                                                                     10
+                                                                                                                                     10
+
+20
+     RHLM2200                 1376D16G08        O          —                        —                      Reconditioned LM2200      10
+     RHLM2225                 1376D16G09        O          —                        —                      Reconditioned LM2225      10
+
+21
+     RHLM2250                 1376D16G10        O          —                        —                      Reconditioned LM2250      10
+     RHLM2275                 1376D16G11        O          —                        —                      Reconditioned LM2275      10
+     RHLM2300                 1376D16G12        O          —                        —                      Reconditioned LM2300      10
+22   RHLM2350                 1376D16G14        O          —                        —                      Reconditioned LM2350      10
+     RHLM2400                 1376D16G15        O          —                        —                      Reconditioned LM2400      10
+23   RHLM2450                 1376D16G16        O          —                        —                      Reconditioned LM2450      10
+     RHLM2500                 1376D16G17        O          —                        —                      Reconditioned LM2500      10
+24   RHLM2550                 1376D16G18        O          —                        —                      Reconditioned LM2550      10
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-158              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

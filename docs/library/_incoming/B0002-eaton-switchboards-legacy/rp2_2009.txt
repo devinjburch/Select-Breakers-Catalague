@@ -1,0 +1,1046 @@
+                                                                   Effective April 2009
+Renewal Parts RP01400002E                                          Supersedes February 2009
+
+
+
+
+Vintage Westinghouse
+panelboards
+
+
+
+
+PRL1-LX     PRL1 / PRL2                                  PRL3                                 CDP, HCDP                                     FDP
+
+            Contents
+            Description                                                                                                                                              Page
+            Vintage Westinghouse姞 panelboards
+            Procedure for identifying renewal parts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+            Distributor ordering instructions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+            PRL1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+            PRL2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+            PRL3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+            PRL1-LX, PRL3-LX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8
+            CDP, HCDP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+            Breaker cross-reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+            FDP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+            Trim locks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+            Trim clamps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+            Sumter aftermarket services . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Renewal Parts RP01400002E                                                                                                                           Vintage Westinghouse
+Effective April 2009                                                                                                                                         panelboards
+
+
+Procedure for identifying renewal parts                                                                    Box width may also be used to help identify the panelboard type.
+                                                                                                           Standard width for PRL1, PRL2 and PRL3 is 20.00 inches (508.0
+1. Identify the type of panelboard (PRL1, PRL2, PRL3, PRL1-LX,                                             mm). CDP, FDP standard widths are 30.00, 38.00, 42.00, 48.00 and
+   PRL3-LX, CPD, FDP) from the data found on the nameplate.                                                50.00 inches (762.0, 965.2, 1066.8, 1219.2 and 1270.0 mm).
+   Critical information includes:
+• Type of panelboard
+                                                                                                                                        CAUTION!
+•   Ampere rating of the main                                                                              HAZARDOUS VOLTAGE WILL CAUSE SEVERE INJURY OR DEATH. TURN OFF
+•   Ampere rating of the neutral                                                                           POWER SUPPLY TO EQUIPMENT BEFORE WORKING ON IT.
+•   Voltage
+•   Type of service (phase/number of wires)                                                                Distributor ordering instructions
+•   General order number
+                                                                                                           1. Specify the part by catalog number
+2. Refer to the listing below and turn to the proper section in this                                       2. Refer to PL01400002E for pricing information. Discount Symbol
+   renewal parts data to identify standard parts and components.                                              CE9 applies
+Description                                                                                     Page       3. Enter the order on Vista, location Q49 or SUM
+PRL1 and PRL2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3          Note: For CDP retrofit kits shown on page 12, you must enter the catalog
+PRL3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6   number, list price, standard multiplier and location Q49 or SUM.
+
+PRL1-LX, PRL3-LX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8           4. When ordering a new circuit breaker to add to a CDP panelboard,
+CDP, HCDP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10            the following options are available:
+Breaker cross-reference . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13               •    Take the required breaker from your stock (or order from W34)
+Series C/Energy Sentinel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15                   and order the connector kit (pages 14 and 18) from the
+                                                                                                                Sumter Plant
+FDP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+                                                                                                           or
+Trim locks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+Trim clamps . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+                                                                                                           •    Select the correct breaker retrofit kit (page 12) which includes the
+                                                                                                                breaker and connector kit in one package, one shipment and one
+3. This book identifies those replacement parts most frequently                                                 invoice from the Sumter Plant
+   ordered and which are readily available from stock. These parts
+   can be ordered by style or catalog number to speed up process-                                          5. Selling policy 25-000 applies
+   ing and delivery.                                                                                       6. If additional support is required, contact the Sumter Plant
+4. In the event the nameplate is missing, it may still be possible to                                         Aftermarket Center at 1-803-481-6843. A complete listing of
+   identify the panel type by the location of the neutral bar. Figure 1                                       available services is listed on page 20
+   below shows the position of the neutral in the panelboard.
+
+
+                                                Neutral
+
+
+
+
+                                                Main
+                             Gutter             Gutter             Gutter
+
+                        Pow-R-Line Pow-R-Line                   CDP, FDP
+                           1,2         3
+Figure 1. Panelboard neutral locations
+
+
+
+
+2                       EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                    Renewal Parts RP01400002E
+panelboards                                                                                                                      Effective April 2009
+
+
+
+PRL1 and PRL2 panelboards                                             Table 1. Replacement connectors
+                                                                       Panel type                               Catalog number
+                                                                       PRL1                                     KPRL1BAB
+                                                                       PRL2                                     KPRL2GHB
+
+
+
+                             Nameplate                                Replacement boxes and trims for PRL1 and PRL2
+                             Ground bar
+                                                                      Standard box and trim sizes are shown in Table 2. For other sizes,
+                             Deadfront                                contact your local Satellite. For Type 12/3R enclosures, refer to page
+                               cover
+                                                                      8. Trim mounting may be either surface or flush. Flush trims overlap
+                             Neutral bar                              the box by 0.75-inch (19.1 mm) on all sides. Denote on order by
+                                                                      using either S or F in the catalog number.
+                             Box
+                                                                      Table 2. Replacement boxes and trims
+   PRL1 without trim
+                                       Trim                            Box dimensions in inches (mm)                       Type 1
+                                                                                                                           Catalog number
+                                                 PRL2 with trim
+                                                                       Height           Width           Depth              Box              Trim
+                           PRL1 and PRL2
+                                                                        21.00 (533.4)   20.00 (508.0)   5.75 (146.1)       YS2021           LT2021S/F
+Replacement connectors for PRL1 and PRL2                                24.00 (609.6)                                      YS2024           LT2024S/F
+                                                                        27.00 (685.8)                                      YS2027           LT2027S/F
+                                                                        30.00 (762.0)                                      YS2030           LT2030S/F
+                                                                        33.00 (838.2)                                      YS2033           LT2033S/F
+                                                                        36.00 (914.4)                                      YS2036           LT2036S/F
+                                                                        39.00 (990.6)                                      YS2039           LT2039S/F
+                                                                       42.00 (1066.8)                                      YS2042           LT2042S/F
+                                                                       45.00 (1143.0)                                      YS2045           LT2045S/F
+                                                                       48.00 (1219.2)                                      YS2048           LT2048S/F
+                                                                       51.00 (1295.4)                                      YS2051           LT2051S/F
+                                                                       54.00 (1371.6)                                      YS2054           LT2054S/F
+                                                                       57.00 (1447.8)                                      YS2057           LT2057S/F
+                                                                       60.00 (1524.0)                                      YS2060           LT2060S/F
+                                                                       63.00 (1600.2)                                      YS2063           LT2063S/F
+                                                                       66.00 (1676.4)                                      YS2066           LT2066S/F
+              Replacement connectors for PRL1 and PRL2
+                                                                       69.00 (1752.6)                                      YS2069           LT2069S/F
+                                                                       72.00 (1828.8)                                      YS2072           LT2072S/F
+Each kit contains two sets of A, B, and C phase connectors, phase      75.00 (1905.0)                                      YS2075           LT2075S/F
+isolators, hardware and instructions for mounting up to 12 poles.      78.00 (1981.2)                                      YS2078           LT2078S/F
+Silver-plated copper connectors are suitable for use with copper or
+                                                                       81.00 (2057.4)                                      YS2081           LT2081S/F
+aluminum bus. Maximum amperes connected to any one connector           84.00 (2133.6)                                      YS2084           LT2084S/F
+cannot exceed 140A.                                                    87.00 (2209.8)                                      YS2087           LT2087S/F
+                                                                       90.00 (2286.0)                                      YS2090           LT2090S/F
+
+
+
+
+                                                                                            EATON CORPORATION www.eaton.com                             3
+Renewal Parts RP01400002E                                                                                                    Vintage Westinghouse
+Effective April 2009                                                                                                                  panelboards
+
+
+PRL1 and PRL2 panelboards                                                       Branch section deadfront covers
+100A neutral bar                                                                              PRL1                       PRL2
+
+
+
+
+                                                                                                     Branch section deadfront covers
+                                 100A neutral bar
+
+                                                                                225A neutral bar
+Table 3. 100A neutral bar
+ Description                                                     Style number
+ A               Boxes 30.00 inches (762.0 mm) and above         5158C03G02
+ B               Boxes less than 30.00 inches (762.0 mm) high    5158C03G01
+
+
+
+Blank covers
+
+
+
+
+                                                                                                              225A neutral bar
+
+
+                                                                                Table 5. 225A neutral bar
+                                                                                Description                                                    Style number
+                                                                                A               Boxes 30.00 inches (762.0 mm) and above        5158C03G04
+                                                                                B               Boxes less than 30.00 inches (762.0 mm) high   5158C03G03
+
+                                    Blank covers
+
+
+Table 4. Blank covers
+ Blank covers height in inches (mm)                         Style number
+ A                           15.00 (381.0)                  3456B99H05
+ B                              3.00 (76.2)                 3456B99H01
+ C                            6.00 (152.4)                  3456B35H01
+
+
+
+
+4                  EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                                 Renewal Parts RP01400002E
+panelboards                                                                                                                                     Effective April 2009
+
+
+
+Standard ground bar                                                         Table 7. 400/600A neutral bar
+                                                                            Description                                   Style number
+                                                                            400/600A neutral bar                          5158C04G01
+
+
+
+                                                                            Isolated ground bar
+
+
+
+
+                          Standard ground bar
+
+
+Table 6. Standard ground bar
+Description                                                  Style number
+A             Boxes 30.00 inches (762.0 mm) and above        5158C05G02
+B             Boxes less than 30.00 inches (762.0 mm) high   5158C05G01                                       Isolated ground bar
+
+
+                                                                            Table 8. Isolated ground bar
+400/600A neutral bar
+                                                                            Description                                                            Style number
+                                                                            A                    Boxes 30.00 inches (762.0 mm) and above           5158C05G06
+                                                                            B                    Boxes less than 30.00 inches (762.0 mm) high      5158C05G05
+
+
+
+                                                                            Table 9. PRL1, PRL2 branch section deadfront covers
+
+                                                                            Maximum                Cover height           Cover style number
+                                                                            number of circuits     in inches (mm)
+                                                                                                                          PRL1                    PRL2
+                                                                            12                     10.00 (254.0)          5156C10H01              5156C09H01
+                                                                            18                     13.00 (330.2)          5156C10H02              5156C09H02
+                                                                            24                     16.00 (406.4)          5156C10H03              5156C09H03
+                          400/600A neutral bar                              30                     19.00 (482.6)          5156C10H04              5156C09H04
+                                                                            36                     22.00 (558.8)          5156C10H05              5156C09H05
+                                                                            42                     25.00 (635.0)          5156C10H06              5156C09H06
+                                                                            48                     28.00 (711.2)          5156C10H07              5156C09H07
+                                                                            54                     31.00 (787.4)          5156C10H08              5156C09H08
+                                                                            60                     34.00 (863.6)          5156C10H09              5156C09H09
+
+
+
+
+                                                                                                    EATON CORPORATION www.eaton.com                               5
+Renewal Parts RP01400002E                                                                             Vintage Westinghouse
+Effective April 2009                                                                                           panelboards
+
+
+PRL3 panelboards                                   Table 10. Standard ground bar
+                                                    Description                                                        Style number
+                                                    A                   Boxes 30.00 inches (762.0 mm) and above        5158C05G02
+                                                    B                   Boxes less than 30.00 inches (762.0 mm) high   5158C05G01
+
+                             Nameplate
+
+                                                   Replacement boxes and trims for PRL3
+Ground                                             Standard boxes and trim sizes are shown in Table 11. For other
+                                                   sizes, contact your local Satellite. For Type 12/3R enclosures, refer
+  bar                        Filler plate
+                                                   to page 8. Trim mounting may be either surface or flush. Denote on
+                                                   the order by using either S or F in the catalog number. Flush trims
+                                                   overlap the box by 0.75-inch (19.1 mm) on all sides.
+                            Chassis
+                                                   Table 11. Replacement boxes and trims
+                                                    Box dimensions in inches (mm)                         Type 1
+                                                                                                          Catalog number
+    Box                                     Trim
+                                                    Height           Width             Depth              Box              Trim
+                              PRL3                   30.00 (762.0)   20.00 (508.0)     5.75 (146.1)       YS2030           LTT2030S/F
+                                                     36.00 (914.4)                                        YS2036           LTT2036S/F
+                                                    42.00 (1066.8)                                        YS2042           LTT2042S/F
+Standard ground bar
+                                                    48.00 (1219.2)                                        YS2048           LTT2048S/F
+                                                    54.00 (1371.6)                                        YS2054           LTT2054S/F
+                                                    60.00 (1524.0)                                        YS2060           LTT2060S/F
+                                                    66.00 (1676.4)                                        YS2066           LTT2066S/F
+                                                    72.00 (1828.8)                                        YS2072           LTT2072S/F
+                                                    78.00 (1981.2)                                        YS2078           LTT2078S/F
+                                                    84.00 (2133.6)                                        YS2084           LTT2084S/F
+                                                    90.00 (2286.0)                                        YS2090           LTT2090S/F
+
+
+
+
+                        Standard ground bar
+
+
+
+
+6               EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                     Renewal Parts RP01400002E
+panelboards                                                                                                                 Effective April 2009
+
+
+
+PRL3 panelboards                                                      Table 13. Replacement connectors for ED, EDH, and
+                                                                      EDC breakers
+Replacement connectors for EHD, FDB, FD, HFD, and FDC
+                                                                       Replacement connectors for breakers                Catalog number
+breakers (240, 480, 600V)
+                                                                       ED, EDH, and EDC                                   KPRL3ED
+Kit contains A, B and C phase connectors, hardware and instructions
+to twin mount two 3-pole above listed frame breakers. Maximum
+amperes per breaker not to exceed 150A, and maximum amperes
+connected to any one connector not to exceed 200A. (50–150As.)        Replacement connectors for CA, CAH, and HCA breakers
+                                                                      Kit contains A, B, and C phase connectors, hardware, cover and
+                                                                      instructions to mount one 2- or 3-pole CA frame breaker.
+
+
+
+
+     Replacement connectors for EHD, FDB, FD, HFD and FDC breakers
+
+
+Table 12. Replacement connectors for EHD, FDB, FD, HFD, and                      Replacement connectors for CA, CAH, and HCA breakers
+FDC breakers
+ Replacement connectors for breakers   Catalog number
+                                                                      Table 14. Replacement connectors for CA, CAH, and HCA
+ EHD, FDB, FD, HFD, and FDC            KPRL3FD                        breakers
+                                                                       Replacement connectors for breakers                Catalog number
+                                                                       CA, CAH, and HCA                                   KPRL3CA
+Replacement connectors for ED, EDH, and EDC breakers
+Kit contains A, B, and C phase connectors, hardware cover and
+instructions to mount one 3-pole above breaker frame. (240V           Note: The PRL3 connector kits will fit the following panelboards: WEB, WCA,
+maximum.)                                                             WEHB, WFB, and HWFB.
+
+
+
+
+                                                                                                                         225A
+                                                                                                                         neutral
+                                                                           Space for BAB
+                                                                           frame breaker
+
+           Replacement connectors for ED, EDH, and EDC breakers                                                          PRL1 subchassis
+
+
+
+
+                                                                         EHD, ED frame
+                                                                         breaker is single                               Space for EHD
+                                                                         mount only                                      frame breaker
+
+
+                                                                       CA frame breaker
+                                                                                                                         Space for CA
+                                                                                                                         frame breaker
+                                                                                                                         225 MLO
+
+
+
+
+                                                                                                       PRL3 interior
+
+
+                                                                                           EATON CORPORATION www.eaton.com                      7
+Renewal Parts RP01400002E                                                                                               Vintage Westinghouse
+Effective April 2009                                                                                                             panelboards
+
+
+PRL1, 2, 3 special trims and enclosures
+Ventilated trim
+Required on PRL1 and PRL2, 600A panels only. Order by adding the
+letter “V” to the standard trim catalog number. ADD 10 percent TO
+STANDARD TRIM LIST PRICE.
+Example: LT2072S becomes LTV2072S.
+Refer to page 3 for the standard trim catalog numbers.
+
+
+
+
+                                                                                                              Fastrim
+
+                                                                    Door-in-door trim
+                                                                    Piano hinge on the right side of the trim provides access to the
+                                                                    wiring gutters without requiring removal of the trim. Order by adding
+                                                                    the letters “DD” to the standard trim catalog number. ADD 20
+                                                                    percent TO STANDARD TRIM LIST PRICE.
+                                                                    Example: LT2072S becomes LTDD2072S.
+                                                                    Refer to pages 3 and 5 for standard trim catalog numbers.
+                           Ventilated trim
+
+Type 12/3R enclosures
+
+
+
+
+                                                                                                        Door-in-door trim
+
+                        Type 12/3R enclosures
+                                                                    The complete enclosure consists of a box and trim. The enclosure
+                                                                    meets code requirements for both Type 12 (dust-tight) and Type 3R
+Fastrim                                                             (rainproof) standards. Features include a laser cut trim with rounded
+Used when concealed trim mounting hardware is required for PRL1,    corners, concealed hinges, and a T-handle lock. Gasketing is pro-
+PRL2, and PRL3. Flush trim utilizes Style Number 414A380G01         vided around the trim door. The gasketed box is made of code gauge
+trim clamps. Surface trim utilizes Style Number 8712C73H01 trim     steel with dripshield and is painted ANSI-61.
+clamps. Trim clamps are included and shipped with the trim. Order   Table 15. Type 12/3R enclosures for PRL1, 2, 3
+by adding the letter “F” to the standard trim catalog number. ADD
+20 percent TO STANDARD TRIM LIST PRICE.                              Box dimensions in inches (mm)                   Catalog number
+Example: LT2072S becomes LTF2072S.                                   Height           Width           Depth          Box        PRL1, 2 trim   PRL3 trim
+Refer to pages 3 and 5 for standard trim catalog numbers.             24.00 (609.6)   20.00 (508.0)   6.00 (152.4)   GWPB2024   LWPT2024       —
+                                                                      36.00 (914.4)                                  GWPB2036   LWPT2036       LWT2036
+                                                                     48.00 (1219.2)                                  GWPB2048   LWPT2048       LWT2048
+                                                                     60.00 (1524.0)                                  GWPB2060   LWPT2060       LWT2060
+                                                                     72.00 (1828.8)                                  GWPB2072   LWPT2072       LWT2072
+                                                                     78.00 (1981.2)                                  GWPB2078   LWPT2078       LWT2078
+
+
+
+
+8               EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                                                  Renewal Parts RP01400002E
+panelboards                                                                                                                                                   Effective April 2009
+
+
+
+Column-type panels                                                                        PRL3-LX replacement boxes and trims
+PRL1-LX replacement boxes and trims                                                       •     Standard box includes box ends at top and bottom
+•     Standard box includes box ends at top and bottom                                    •     Box for trough is supplied with bottom box end only
+•     Box for trough is supplied with bottom box end only                                 •     Design is for top feed application only
+•     Contact the Sumter Plant Aftermarket Center for availability                        •     Contact the Sumter Plant Aftermarket Center for availability
+      and application information                                                               and application information
+
+Table 16. Column-type panels                                                              Table 17. PRL3-LX replacement boxes and trims
+    Box dimensions in inches (mm)                  Catalog number                             Box dimensions in inches (mm)                  Catalog number
+
+    Height           Width          Depth          Standard     Box for      Surface          Height           Width          Depth          Standard     Box for      Surface
+                                                   box          trough       trim                                                            box          trough       trim
+
+    42.00 (1066.8)   8.63 (219.2)   5.00 (127.0)   114D939G10   114D939G26   6724D78G10       Main lug only (top feed)
+    54.00 (1371.6)                                 114D939G12   114D939G28   6724D78G12
+                                                                                              40.75 (1035.1)   8.63 (219.2)   5.75 (146.1)   6726D69G01   6726D69G07   6726D70G01
+    66.00 (1676.4)                                 114D939G14   114D939G30   6724D78G14
+                                                                                              49.00 (1244.6)                                 6726D69G02   6726D69G08   6726D70G02
+    78.00 (1981.2)                                 114D939G16   114D939G32   6724D78G16
+                                                                                              57.25 (1454.2)                                 6726D69G03   6726D69G09   6726D70G03
+                                                                                              65.50 (1663.7)                                 6726D69G04   6726D69G10   6726D70G04
+                                                                                              73.75 (1873.3)                                 6726D69G05   6726D69G11   6726D70G05
+                                                                                              82.00 (2082.8)                                 6726D69G06   6726D69G12   6726D70G06
+                                                                                              Main breaker (top feed)
+                                                                                              51.75 (1314.5)   8.63 (219.2)   5.75 (146.1)   6726D69G13   6726D69G19   6726D70G07
+                                                                                              60.00 (1524.0)                                 6726D69G14   6726D69G20   6726D70G08
+                                                                                              68.25 (1733.6)                                 6726D69G15   6726D69G21   6726D70G09
+                                                                                              76.50 (1443.1)                                 6726D69G16   6726D69G22   6726D70G10
+                                                                                              84.75 (2152.7)                                 6726D69G17   6726D69G23   6726D70G11
+                                                                                              93.00 (2362.2)                                 6726D69G18   6726D69G24   6726D70G12
+
+
+
+
+                                                                                                                    EATON CORPORATION www.eaton.com                              9
+Renewal Parts RP01400002E                                                 Vintage Westinghouse
+Effective April 2009                                                               panelboards
+
+
+CDP/HCDP panelboards
+
+
+
+
+                                                                        Chassis rail
+
+
+
+
+                                                                        Chassis bus
+
+
+
+                         Breaker                                        Breaker
+                         mounting                                       mounting
+                         bracket                                        bracket
+                       Copper
+                       connectors
+
+                          Original
+                          F-frame                                       Upgraded series
+                          breaker                                       C breaker
+                        Filler plate
+
+
+
+                       Filler cover                                     Filler cover
+                                                                        mounting
+                                                                        bracket
+
+
+
+
+                       Nameplate
+
+
+
+
+                                                  CDP/HCDP panelboard
+
+
+
+
+10              EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                                     Renewal Parts RP01400002E
+panelboards                                                                                                                                    Effective April 2009
+
+
+
+Branch circuit breaker selection                                                       Step 2: Use the chart on page 14 to determine the space required.
+
+Step 1: Select the correct breaker.                                                    Step 3: Create the Retrofit Kit catalog number by following the
+                                                                                               instructions on page 12.
+               When selecting a breaker, you need to know the following:
+                                                                                       Step 4: Determine if extra filler covers are required. Additional
+•     Amperage                                                                                 filler covers may be necessary to fill the unused space.
+•     System voltage                                                                           Refer to page 14 for this information.
+•     Available short circuit rating                                                   Note: If the CDP panelboard has a subchassis lighting panel, contact the
+                                                                                       Sumter Plant Aftermarket Center for breaker selection.
+•     Number of poles
+•     Size and number of wires per phase
+
+Table 18. Electrical characteristics of branch circuit breakers
+    Circuit            Continuous           Number            Vac   UL姞 listed interrupting capacities—kA symmetrical amperes
+    breaker            ampere               of poles
+    type               rating                                       AC rating volts                                                DC rating volts 
+                                                                    240               277            480           600             125                 250
+    EHD                   15–100            1                 277    —                14              —             —              10                  —
+                          15–100            2, 3              480    18               —               14            —              —                   10
+    ED                   100–225            2, 3              240    65               —               —             —              —                   10
+    EDH                  100–225            2, 3              240   100               —               —             —              —                   10
+    EDC                   15–225            2, 3              240   200               —               —             —              —                   10
+    FDB                   15–225            2, 3              600    18               —               14            14             —                   10
+    FD                    15–225            1                 277    —                25              —             —              10                  —
+                          15–225            2, 3              600    65               —               25            18             —                   10
+    HFD                   15–225            1                 277    —                65              —             —              10                  —
+                          15–225            2, 3              600   100               —               65            25             —                   22
+    FDC                   15–225            2, 3              600   200               —              100            35             —                   22
+    CA                  100–225            2, 3              240    10               —               —             —              —                   —
+    CAH                 100–225            2, 3              240    22               —               —             —              —                   —
+    HCA                 100–225            2, 3              240    42               —               —             —              —                   —
+    JD, JDB               70–250            2, 3              600    65               —               35            18             —                   10
+    HJD                   70–250            2, 3              600   100               —               65            25             —                   22
+    JDC                   70–250            2, 3              600   200               —              100            35             —                   22
+    DK                   250–400            2, 3              240    65               —               —             —              —                   10
+    KD, KDB              100–400            2, 3              600    65               —               35            25             —                   10 
+    HKD                  100–400            2, 3              600   100               —               65            35             —                   22 
+    KDC                  100–400            2, 3              600   200               —              100            50             —                   22 
+    LCL                  125–400            2, 3              480   200               —              200            —              —                   —
+    LD                   300–600            2, 3              600    65               —               35            25             —                   22 
+    HLD                  300–600            2, 3              600   100               —               65            35             —                   25 
+    LDC                  300–600            2, 3              600   200               —              100            50             —                   25 
+    MDL                  300–800            2, 3              600    65               —               50            25             —                   22 
+    HMDL                 300–800            2, 3              600   100               —               65            35             —                   25 
+    ND                 600–1200             2, 3              600    65               —               35            25             —                   —
+    HND                600–1200             2, 3              600   100               —               65            35             —                   —
+    NDC                600–1200             2, 3              600   200               —              100            50             —                   —
+Fused circuit breakers with LFB current limiters
+    FDB, LFB              15–150            2,3               600   200               —              200           200             —                   —
+TRI-PAC integrally fused, current limiting circuit breakers
+    FB-P                  15–100            2, 3              600   200               —              200           200             —                   
+    LA-P                  70–400            2, 3              600   200               —              200           200             —                   
+    NB-P                 300–800            2, 3              600   200               —              200           200             —                   
+
+ DC ratings apply to substantially non-inductive circuits.
+ Not recommended for motor loads.
+ DC ratings not available with electronic trip.
+ 100K based on NEMA姞 test procedure.
+
+
+
+
+                                                                                                           EATON CORPORATION www.eaton.com                        11
+Renewal Parts RP01400002E                                                                                             Vintage Westinghouse
+Effective April 2009                                                                                                           panelboards
+
+
+CDP panelboards                                                             How to create a retrofit kit catalog number
+CDP breaker retrofit kits                                                   Use “KCDP” prefix and add the catalog number of the specific
+                                                                            breaker as shown in Table 20.
+A retrofit kit includes one breaker and all the associated parts
+required for mounting on a CDP panel chassis. See Table 19 below.           Twin mounting indicates that only one set of connectors is required
+                                                                            to mount two breakers (of similar frames) opposite one another.
+Table 19. CDP breaker retrofit kits                                         A RETROFIT KIT INCLUDES ONE BREAKER ONLY, FOR EITHER
+ Frame       Breaker        Trip ampere   Mounting   Space required         SINGLE OR TWIN MOUNTED APPLICATIONS. If a second breaker
+ ampere      frame          range         type                              is required for a twin mounting application, it must be specified as a
+ rating                                              Inches         X       separate item.
+                                                     (mm)           space
+                                                                            Example: The retrofit kit catalog number for a 3-pole, 400A KD
+  100        EHD               15–60      Twin       4.13 (104.9)   3X      breaker is:
+             EHD              70–100      Twin
+             FDB               15–60      Twin                              Table 20. Catalog numbering system
+             FDB              70–100      Twin
+             FD                15–60      Twin
+             FD               70–100      Twin
+             HFD               15–60      Twin                                                      KCDP KD 3 400
+             HFD              70–100      Twin
+             FDC               15–60      Twin                                          Designates CDP                              Ampere rating
+             FDC              70–100      Twin                                           connector kit
+             FCL              15–100      Twin
+                                                                                                                       Number of
+             FB-P             15–100      Twin                                                   Breaker frame           poles
+  225        FDB             110–225      Twin       4.13 (104.9)   3X                                                 2 = 2-pole
+             FD              110–225      Twin                                                                         3 = 3-pole
+             HFD             110–225      Twin
+             FDC             110–225      Twin
+             ED              110–225      Twin                              CDP retrofit kit
+             EDH             110–225      Twin
+                                                                            Each kit includes one breaker, copper connectors, mounting
+             EDC             110–225      Twin
+                                                                            brackets, covers, hardware and instructions.
+  250        JD               70–225      Twin       4.13 (104.9)   3X
+             JD                  250      Twin
+             HJD              70–225      Twin
+             HJD                 250      Twin
+             JDC              70–225      Twin
+             JDC                 250      Twin
+  400        KD              100–400      Twin
+             HKD             100–400      Twin
+             KDC             100–400      Twin       5.50 (139.7)   4X
+             LCL             125–400      Twin       8.25 (209.6)   6X
+             LA-P             70–400      Twin       8.25 (209.6)   6X
+  600        LD              300–600      Twin       8.25 (209.6)   6X
+             HLD             300–600      Twin
+             LDC             300–600      Twin
+                                                                                                          CDP retrofit kit
+  800        MDL             400–800      Single     8.25 (209.6)   6X
+             HMDL            400–800      Single
+             HND             400–800      Single
+ 1200        ND             600–1200      Single     8.25 (209.6)   6X
+             HND            600–1200      Single
+             NDC            600–1200      Single
+
+
+
+
+12                  EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                                 Renewal Parts RP01400002E
+panelboards                                                                                                                              Effective April 2009
+
+
+
+Breaker cross-reference chart                                                     Table 21. Breaker cross-reference chart
+
+Use the chart below to cross-reference older industrial type                      Existing breaker                     Order Series C retrofit kit
+Westinghouse breakers with Series CT breakers. The Series C                       Breaker            Continuous        Breaker               Retrofit kit
+breakers shown on the right side of the chart use the same “X”                    frame              ampere rating     frame                 catalog number
+space as the older breaker on the left, eliminating the need for any
+                                                                                  EB                   15–100          EHD                   KCDPEHD
+filler covers when retrofitting a CDP panel. By using the retrofit kit            EHB                  15–100          EHD                   KCDPEHD
+catalog number, you can order the breaker, as well as the corre-                  FB                   15–150          FDB                   KCDPFDB
+sponding CDP connector kit in one easy step.                                      HFB                  15–150          FD                    KCDPFD
+Note: If the original space was already provided with connectors and hard-        KA                   70–225          KD                    KCDPKD
+ware to mount the older breakers, then the Series C frames shown here will
+also fit in that same provision. (The Series C K family of breakers requires an   HKA                  70–225          HKD                   KCDPHKD
+adapter kit called TAD3 when mounting a KD frame breaker onto existing LB         KB                   70–250          JD                    KCDPJD
+frame connectors. This adapter kit is included in orders for either KD retrofit   HKB                  70–250          JD                    KCDPJD
+kits or connector kits, but may also be purchased separately for use with         JA                   70–225          KDB                   KCDPKDB
+existing LB connectors.)                                                          JB                   70–250          JDB                   KCDPJDB
+                                                                                  DA                  250–400          DK                    KCDPDK
+                                                                                  LA                  250–600          LD                    KCDPLD
+                                                                                  HLA                 250–600          LD                    KCDPLD
+                                                                                  LB                   70–400          KD                    KCDPKD
+                                                                                  LBB                 125–400          KDB                   KCDPKDB
+                                                                                  HLB                 125–400          KD                    KCDPKD
+                                                                                  LC                  300–600          LD                    KCDPLD
+                                                                                  HLC                 300–600          LD                    KCDPLD
+                                                                                  MA                  125–800          MDL                   KCDPMDL
+                                                                                  HMA                 125–800          MDL                   KCDPMDL
+                                                                                  MC                  400–800          MDL                   KCDPMDL
+                                                                                  NB                 700–1200          ND                    KCDPND
+                                                                                  HNB                700–1200          ND                    KCDPND
+                                                                                  NC                 600–1200          ND                    KCDPND
+                                                                                  HNC                600–1200          ND                    KCDPND
+
+
+
+
+                                                                                                     EATON CORPORATION www.eaton.com                          13
+Renewal Parts RP01400002E                                                                                                                Vintage Westinghouse
+Effective April 2009                                                                                                                              panelboards
+
+
+CDP panelboards                                                                                 Hardware kit
+CDP breaker connector kits                                                                      Each kit includes mounting bracket(s), filler plates and mounting
+                                                                                                hardware ONLY. Use the appropriate connector kit catalog number
+A connector kit consists of copper connectors, mounting brackets,                               and add an “H” to designate hardware only.
+covers, hardware, and instructions for mounting breaker(s) on a
+CDP chassis. See below. If breaker is also required, see retrofit kits                          Example: KCDPFD100H
+shown on page 12.
+Connector kit
+Each kit includes copper connectors, mounting brackets, covers,
+hardware, and instructions.
+
+
+
+
+                                                                                                                              Hardware kit
+
+                                                                                                CDP filler covers
+                                                                                                Filler covers are available in any increment of 1X 1.38 inches
+                                                                                                (35.1 mm). Catalog number is:
+                                                                                                KCDP_ X.
+                                          Connector kit                                         Fill in the blank with the size. Included are cover,
+                                                                                                mounting brackets, and hardware.
+Table 22. CDP panelboards
+ Breaker frames                  Number       Mounting     Space required         Connector
+                                 of           type                                kit catalog
+                                 poles                     Inches         X       numbers
+                                                           (mm)           space
+ EHD, FDB, FD, HFD, FDC         3            Twin         4.13 (104.9)   3X      KCDPFB100
+ FD, FDB, HFD, FDC, ED,          3            Twin                                KCDPED225
+ EDH, EDC
+ FB-P, FCL                       3            Twin                                KCDPFBP
+ CA, CAH, HCA                    3            Twin                                KCDPCA
+ JD, JDB, HJD, JDC               3            Twin                                KCDPKB
+ DK, KD, KDB, HKD, KDC           3            Twin         5.50 (139.7)   4X      KCDPLB
+ LA-P                            3            Twin         8.25 (209.6)   6X      KCDPLA400                                  CDP filler covers
+ LD, HLD, LDC                    3            Twin                                KCDPLA600
+ LCL                             3            Single                              KCDPLCL
+ MDL, HMDL                       3            Single                              KCDPMC
+ ND, HND                         3            Single                              KCDPNC 
+ NB-P                            3            Single                              KCDPNBP
+
+ 100A maximum.
+ Connector kits are not rated for 100 percent breakers.
+
+
+
+
+14                     EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                          Renewal Parts RP01400002E
+panelboards                                                                                                                      Effective April 2009
+
+
+
+Energy submetering for existing                                           Series C breakers with energy sentinel
+CDP panelboards
+The IQ Energy Sentinel is a submetering device that mounts directly
+on a Series C circuit breaker and can be retrofitted into a CDP pan-
+elboard. It monitors both power and energy from 15 to 400A, with
+an overall accuracy of 99 percent. This high system accuracy is
+achieved by use of the Cutler-Hammer SURE Plus Chip, which is a
+sophisticated microprocessor.
+All that is necessary to complete an IQ Energy Sentinel installation is
+to insert it into the load side of a breaker; feed the load conductors
+through it; connect a neutral wire; and run the shielded twisted pair
+wire for communications. The IQ Energy Sentinel has a nonvolatile
+memory, is powered by the circuit breaker, and can be applied on
+3-phase, four-wire or 1-phase, three-wire systems.
+The space-saving design characteristics of the IQ Energy Sentinels
+means they can be quickly and easily retrofitted onto Series C circuit
+breakers in existing equipment with no additional space required.
+Additionally, IQ Energy Sentinels can be installed when upgrading to
+Series C from older breakers that are physically interchangeable with
+no additional space requirements.
+Power and energy information from IQ Energy Sentinels can be
+communicated to a personal computer, a panel-mounted central
+energy display (CED), or even existing building management or
+distribution control systems.                                                                Series C breakers with energy sentinel
+
+                                                                          Retrofit capabilities
+                                                                          With the advent of this new technology, we can offer the capability
+                                                                          to retrofit existing CDP panelboards. This is accomplished by provid-
+                                                                          ing a complete system package including:
+                                                                          •   Series C breaker retrofit kit
+                                                                          •   Energy Sentinel
+                                                                          •   All necessary wiring diagrams and mounting instructions
+                                                                          •   Start-up assistance
+                                                                          •   Communications capabilities with one of the following:
+                                                                              •   IQ Central Energy Display
+                                                                              •   Custom Billing Software Package
+                                                                              •   IMPACC/PowerNet姠
+
+
+
+
+                    CDP chassis with energy sentinel
+
+
+
+
+                                                                                                EATON CORPORATION www.eaton.com                   15
+Renewal Parts RP01400002E                                                         Vintage Westinghouse
+Effective April 2009                                                                       panelboards
+
+
+FDP panelboards
+
+
+
+                                 Nameplate
+
+
+
+
+                                  Extension                        Extension
+                                  wings                            wings
+
+
+
+
+                                 Copper                            Chassis rail
+                                 connectors
+
+                                                                   Chassis bus
+
+                                 Filler cover
+
+
+
+                                                  FDP panelboard
+
+
+
+
+16              EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                             Renewal Parts RP01400002E
+panelboards                                                                                                                                Effective April 2009
+
+
+
+FDP panelboards                                                        FDPW and FDPB retrofit kits
+Branch FDPW and FDPB                                                   A retrofit kit includes the switch and all the associated parts required
+                                                                       for mounting on a FDP panel chassis.
+Switch selection
+                                                                       Switches through 600A are designed for use with rejection type
+Step 1: Once you know the amperage and system voltage,                 fuses. For other fuse applications, contact the Sumter Plant
+        choose the retrofit kit catalog number from Table 23.          Aftermarket Center. Switches rated 800 and 1200A are designed for
+Step 2: Check for space requirements from Table 23.                    use with Class L fuses. Fuses are not included.
+
+Step 3: Determine if extra filler covers are required. Additional      Table 23. 3P retrofit kits
+        filler covers may be necessary to fill the unused space.
+                                                                        Space                                Switch              Catalog
+Retrofit kit                                                            required                             ampere              number
+                                                                                                             rating
+Each kit includes one switch, copper connectors, covers, hardware       Inches (mm)     X space                                  240V            600V
+and instructions.                                                        5.50 (139.7)    4X                    30–30             KFDPWT3211R     KFDPWT3611R
+                                                                                                               60–60             KFDPWT3222R     KFDPWT3622R
+                                                                                                             100–100             KFDPWT3233R     —
+                                                                         6.88 (174.8)    5X                  100–100             —               KFDPWT3633R
+                                                                         8.25 (209.6)    6X                        200           KFDPBS324R      KFDPBS364R
+                                                                        12.38 (314.5)    9X                        400           KFDPW325R       KFDPW365R
+                                                                        15.13 (384.3)   11X                       600            KFDPW326R       KFDPW366R
+                                                                        15.13 (384.3)   11X                       800            KFDPW367        KFDPW367
+                                                                        20.63 (524.0)   15X                      1200            KFDPW368        KFDPW368
+
+
+
+                                                                       Switch connector and retrofit kits
+                                                                       FDPW or FDPB switch connector kits and retrofit kits to be installed
+                                                                       in vintage Westinghouse FDP panelboards and switchboards.
+                                                                       Vertical bus bars must on 3.50 inch (88.9 mm) center-line phase to
+                                                                       phase. See Figure 2.
+                              Retrofit kit                             Note: If bus bar spacing is 4.25 inches (108.0 mm), these switches will not fit
+                                                                       and no parts are available.
+FDP filler covers
+Filler covers are available in any increment of 1X 1.38 inches (35.1
+                                                                                                        Vertical bus ba r
+mm). Catalog number is: KFDP_ X. Fill in the blank with the size.
+Included are cover, mounting brackets and hardware.
+                                                                                                                                                    1.38" TYP.
+
+
+
+
+                                                                                                3.50"                    3.50"
+
+
+
+
+                            FDP filler cover
+
+
+
+                                                                                                   MTG. rails 19.50"
+
+
+                                                                       Figure 2. Switch connector and retrofit kits
+
+                                                                       Note: Dimensions shown apply to CDP and FDP chasis.
+
+
+
+
+                                                                                              EATON CORPORATION www.eaton.com                                 17
+Renewal Parts RP01400002E                                                                                        Vintage Westinghouse
+Effective April 2009                                                                                                      panelboards
+
+
+FDP panelboards                                                         Table 24. FDP panelboards
+                                                                        Space required          Switch    Catalog number
+FDPW and FDPB connector kits                                                                    ampere
+                                                                                                rating    3-pole FDPW and FDPB          Connector
+Each kit includes copper connectors, extension wings (when                                                                              kit
+required), hardware and instructions to mount one FDPW or FDPB          Inches          X                 240V             600V
+switch on a FDP panel chassis.                                          (mm)            space
+
+Connector kit                                                            5.50 (139.7)    4X       30–30   FDPWT3211R       FDPWT3611R   KFDP4XT
+                                                                                                  60–60   FDPWT3222R       FDPWT3622R
+Each kit includes copper connectors, mounting brackets, covers,                                 100–100   FDPWT3233R       —
+hardware, and instructions.
+                                                                         6.88 (174.8)    5X     100–100   —                FDPWT3633R   KFDP5XT
+                                                                         8.25 (209.6)    6X         200   FDPBS324R        FDPBS364R    KFDPB6X-2
+                                                                        12.38 (314.5)    9X         400   FDPW325R         FDPW365R     KFDPW9X-4
+                                                                        15.13 (384.3)   11X         600   FDPW326R         FDPW366R     KFDPW11X-6
+                                                                        15.13 (384.3)   11X         800   FDPW367          FDPW367      KFDPW11X-8
+                                                                        20.63 (524.0)   15X        1200   FDPW368          FDPW368      KFDPW15X-12
+
+
+
+
+                              Connector kit
+
+“Picture frame”
+To permit installation of circuit breakers in a FDP panel, a “picture
+frame” is required. Add 2X to the breaker size for transition.
+Contact the Sumter Plant for technical assistance and pricing
+at 1-800-556-4569.
+
+
+
+
+                            “Picture frame”
+
+
+
+
+18              EATON CORPORATION www.eaton.com
+Vintage Westinghouse                                                                                                          Renewal Parts RP01400002E
+panelboards                                                                                                                                       Effective April 2009
+
+
+
+Panelboard trim locks                                                                         Replacement panelboard trim clamps
+Note: Dimensions in inches (mm).
+
+
+
+
+                                                       3.00
+                     3.00                             (76.2)
+                    (76.2)
+
+
+         1.38                             1.38                            2.50
+        (35.1)                           (35.1)                          (63.5)
+        K80522                        8450C62H39                        0080429                                               No Longer
+                                                                                                                               Available
+
+
+
+
+                                                              5.13
+                   4.56                                     (130.3)
+                 (115.8)                                                              3.63
+                                                                                     (92.2)                                 414A380G02
+
+                                                                                              •   Overall length of 2.50 inches (63.5 mm)
+                                                                                              •   Used on CDP, FDP, and NQB
+      1.06                                 2.25                              1.25
+     (26.9)                               (57.2)                            (31.8)
+   114C247G01                          3457B16G01                        5155C81G01
+
+
+Table 25. Panelboard trim locks
+ Description                                                          Catalog/style number
+ For use on left-handed door (hinged on the left side).               K80522
+ For use on right-handed door (hinged on the right side).             8450C62H39
+ T handle lock—At one time used on all panels over 48.00 inches       0080429
+ (1219.2 mm) in height. Also used on outdoor (N3R) panels.
+ Used on lighting and small power panels as standard.                 114C247G01
+ Replacement lock uses WEM-3 key.
+ Used on lighting and small panels as standard.                       3457B16G01
+ This is the present-day lock used on standard PRL1, 2, and 3s.       5155C81G01
+ WEM 2 key.
+
+
+
+Contact the Sumter Plant Aftermarket Center for prices and details
+at 1-803-481-6843.
+                                                                                                                            7494A11G02
+
+                                                                                              •   Overall length of 3.13 inches (79.5 mm)
+                                                                                              •   Used on B10B and PRL1, 2, 3
+                                                                                              These trim clamps are used to mount FASTRIMS. This type of
+                                                                                              trim used to be supplied as standard on all panels, and is still avail-
+                                                                                              able today when concealed trim mounting hardware is specified.
+                                                                                              They come in bags of six. Please note that some larger panels may
+                                                                                              require more than one bag.
+
+
+
+
+                                                                                                                 EATON CORPORATION www.eaton.com                    19
+Renewal Parts RP01400002E                                                                                        Vintage Westinghouse
+Effective April 2009                                                                                                      panelboards
+
+
+Sumter aftermarket services                                                                         WARNING!
+All the parts and kits shown in this Renewal Parts data will come          HAZARDOUS VOLTAGE WILL CAUSE SEVERE INJURY OR DEATH. TURN OFF
+from the Sumter Plant Aftermarket Center (order entry location Q49         POWER SUPPLY TO EQUIPMENT BEFORE WORKING ON IT.
+or SUM).
+To extend the life of your existing equipment, the Sumter                  NEMA is the registered trademark and service mark of the National
+Aftermarket group will:                                                    Electrical Manufacturers Association. UL is a federally registered
+                                                                           trademark of Underwriters Laboratories Inc.
+•   Provide all new components
+•   Manufacture per original specifications
+•   Follow UL procedures
+•   Provide full Cutler-Hammer warranty
+Services offered include:
+•   Parts and kits for CDP and FDP panelboards
+•   Retrofit kits for WF and WRP distribution sections
+•   Connector kits for WF and WRP distribution sections
+•   Emergency service
+
+Additional services
+Since virtually all panelboards are supplied to meet specific cus-
+tomer requirements, other parts not listed in this publication might
+occasionally be needed. Price and availability for parts not shown
+here may be obtained by contacting the Sumter Plant Aftermarket
+Center (1-803-481-6843) and providing a complete description of the
+part, along with the data on the panelboard nameplate.
+Should you experience difficulty in determining what replacement
+parts are needed, contact the Sumter Aftermarket Center, who can
+provide help to:
+•   Identify and recommend replacement parts
+•   Verify the correct connector kits which should be ordered for each
+    circuit breaker or fusible switch
+•   Provide a recommended spare parts list
+
+
+
+
+                                     Eaton Corporation
+                                     Electrical Group
+                                     1000 Cherrington Parkway
+                                     Moon Township, PA 15108
+                                     United States
+                                     877-ETN-CARE (877-386-2273)
+                                     Eaton.com
+
+                                     © 2009 Eaton Corporation                                                 PowerChain Management is a registered
+                                     All Rights Reserved                                                      trademark of Eaton Corporation.
+                                     Printed in USA
+                                     Publication No. RP01400002E / Z8499                                      All other trademarks are property of their
+                                     April 2009                                                               respective owners.
+

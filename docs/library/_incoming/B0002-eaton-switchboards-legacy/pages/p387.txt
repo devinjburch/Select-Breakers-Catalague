@@ -1,0 +1,91 @@
+     13                         Motor Control
+                                Contactors, Starters and Brakes
+
+
+
+     Replacement Coils, continued                                            Replacement Contact Kits
+1                          Coil        Catalog                                                                       Catalog
+     Voltage               Suffix      Number                                For use with…                           Number
+
+2    Frame F—Size 3                                                          XTAE040D–XTAE065D                       XTCERENCONTACTD
+     110/50 120/60         A           XTCERENCOILFA                         XTCE185L–XTCE250L                       XTCERENCONTACTL
+
+3    110–130 Vdc           AD          XTCERENCOILFAD                        XTCE300M–XTCE500M                       XTCERENCONTACTM
+     220/50 240/60         B           XTCERENCOILFB
+
+4    200–240 Vdc           BD          XTCERENCOILFBD                        Replacement Vacuum Tube Assembly
+     415/50 480/60         C           XTCERENCOILFC                                                                 Catalog
+                                                                             For use with…                           Number
+5    550/50 600/60
+     208/60
+                           D
+                           E
+                                       XTCERENCOILFD
+                                       XTCERENCOILFE
+                                                                             XTCE580N                                XTCERENVACT580
+                                                                             XTCE650N                                XTCERENVACTBB0
+6    230/50
+     190/50 220/60
+                           F
+                           G
+                                       XTCERENCOILFF
+                                       XTCERENCOILFG
+                                                                             XTCE750N                                XTCERENVACT750
+                                                                             XTCE820N                                XTCERENVACT820
+7
+     240/50 277/60         H           XTCERENCOILFH
+     380/50 440/60         L           XTCERENCOILFL
+                                                                             Replacement Arc Chambers
+     400/50                N           XTCERENCOILFN
+8    380/60                P           XTCERENCOILFP                         For use with…
+                                                                                                                     Catalog
+                                                                                                                     Number
+     12/50 12/60           R           XTCERENCOILFR                         XTCE185L                                XTCERENARC185
+9    24/50 24/60           T           XTCERENCOILFT                         XTCE225L                                XTCERENARC225
+     24–27 Vdc             TD          XTCERENCOILFTD                        XTCE250L                                XTCERENARC250
+10   24/50                 U           XTCERENCOILFU                         XTCE300M                                XTCERENARC300
+     42/50 48/60           W           XTCERENCOILFW                         XTCE400M                                XTCERENARC400
+11   48–60 Vdc             WD          XTCERENCOILFWD                        XTCE500M                                XTCERENARC500
+     48/50                 Y           XTCERENCOILFY
+                                                                             Note
+12   Frame G—Size 4                                                          1 Electronic modules including coils.
+
+     100–120V 50/60        A           XTCERENCOILGA
+
+13   110–130 Vdc           AD          XTCERENCOILGAD
+     190–240V 50/60        B           XTCERENCOILGB
+
+14   200–240 Vdc           BD          XTCERENCOILGBD
+     480–500V 50/60        C           XTCERENCOILGC
+
+15   380–440V 50/60        L           XTCERENCOILGL
+     24/50 24/60           T           XTCERENCOILGT
+
+16   24–27 Vdc             TD          XTCERENCOILGTD
+     42–48V 50/60          W           XTCERENCOILGW
+
+17   48–60 Vdc
+     Frame L—Size 5 1
+                           WD          XTCERENCOILGWD
+
+
+
+18
+     110–250 Vac/Vdc       A           XTCERENCOILLA
+     250–500V 40–60        C           XTCERENCOILLC
+     24–48 Vdc             TD          XTCERENCOILLTD
+19   48–110 Vac/Vdc        Y           XTCERENCOILLY
+     Frame M 1
+20   110–250 Vac/Vdc       A           XTCERENCOILMA
+     250–500V 40–60        C           XTCERENCOILMC
+21   24–48 Vdc             TD          XTCERENCOILMTD
+     48–110 Vac/Vdc        Y           XTCERENCOILMY
+22   Frame N 1
+     110–250 Vac/Vdc       A           XTCERENCOILNA
+23   250–500V 40–60        C           XTCERENCOILNC
+     48–110 Vac/Vdc        Y           XTCERENCOILNY
+
+24
+25
+     V12-T13-50         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

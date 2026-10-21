@@ -1,0 +1,134 @@
+     4                           Panelboards
+                                 Replacement Capabilities
+
+
+
+     PRL4B                                  PRL4B Panel Layout
+1    Current Product (Originally a
+     Westinghouse Product)                                                                                                                                                             Breaker To Fusible
+                                                                                                       Filler                                                       1X                 Transition, All Widths
+2                                                                                                   Sub Panel /                                                            Poles
+                                                                                                                                                                                       BAB
+                                                                                                                                                                   11X      18
+
+
+3
+                                                                                                                                                                                       QBGF
+                                                                                                                                                                   16X      30                   100 A Max.
+                                                                                                                                                                                       QBH
+                                                                                                                                                                                       QBHGF
+                                                                                                                                                                   20X      42         GB 0
+4
+                                                                                               400 A Maximum
+                                                                                                  Bus Rating                                                                           GHB 0
+                                                                                                1P          1P                                                      1X
+                                                                                                                                                                                     EHD 1 100 A Max.
+                                                                                                2P          2P                                                      2X
+
+
+                                                                           24" Wide Box
+
+
+
+
+                                                                                                                              24" Wide Box
+5
+                                                                                                                                                                                     FDB, FD 1
+                                                                                                3P                3P                                                 3X              HFD, FDC 1 225 A Max.
+
+                                                                                                2P                2P                                                2X
+6                                                                                               3P                3P                                                3X
+                                                                                                                                                                                   CA, CAH, HCA 225 A Max.
+
+
+
+
+7
+                                                                                                       2 or 3P                                                      3X           JD, JDB, HJD, JDC 250 A Max.
+
+                                                                                                                                                                                 DK, KD, KDB
+                                                                                                       2 or 3P                                                      4X           HKD, KDC          400 A Max.
+
+8                                                                                                                Load
+                                                                                                                                                                                 LC, LCC, HLC,
+                                                                                                    2 or 3P                                                          6X          HLCC, LCY, LD,           600 A Max.
+
+9
+                                                                                                                                                                                 LDB, HLD, LDC, LA
+
+
+                                                                                            2 or 3P              2 or 3P                                                   3X          FCL, FB-P 100 A Max.
+
+10                 PRL4B                                                                     2 or 3P            2 or 3P                                                    3X          JD, JDB, HJD, JDC 250 A Max.
+                                                            36" Wide Box
+
+
+
+
+                                                                                                                                             36" Wide Box
+
+     The panel layouts shown on
+11
+                                                                                                                                                                                      LCL, LA-P, 400 A Max.
+     this and the following pages                                                                                                                                          6X         MC, MCC, HMC,
+                                                                                                       2 or 3P
+     will aid in determining the                                                                                                                                                      HMCC, MCY, MA        800 A Max.
+     space available for the
+12   addition of molded-case
+     circuit breakers into your                                                                        2 or 3P                                                             6X         NC, HNC,     1200 A Max.
+                                                                                                                                                                                      NB, NCY
+     existing PRL4B panelboards.
+13   ●   Determine the amount                                                                                                                                                             DK, KD, KDB,
+                                                                                          2 or 3P                   2 or 3P                                                     4X                        400 A Max.
+                                                                                                                                                                                          HKD, KDC
+         of space available in the
+14
+                                             44" Wide Box
+
+
+
+
+                                                                                                                                                            44" Wide Box
+
+
+
+
+         panelboard for adding
+         circuit breakers.                                                                             2 or 3P                                                                  6X        NB-P 800 A Max.
+         1.38 inches (35.1 mm)
+15       of panel height =
+         one X space
+                                             One X space = 1.38 inches (35.1 mm).
+16   ●   Determine the type of
+         breaker needed for the
+                                             Blank fillers are required for unused X space.
+
+         required ampere rating             Notes
+17       and number of poles                1 Maximum amperes connected to any one connector cannot exceed 140A.
+                                            2 GB and GHB breakers cannot be mixed on the same subchassis as BAB or QBHW.
+
+     Ratings                                3 When only one single-pole breaker of the group is required on either side of chassis, the single-pole breaker
+
+18   ● 1200A maximum                          space required changes from 1X to 2X.
+
+     Replacement Capabilities
+19   Breakers
+     Refer to renewal parts
+20
+     data RP01400001E and
+     RP01414001E for a complete
+     list of available parts
+21   including branch device
+     retrofit kits, which include
+     the device, as well as, the
+22   bus connectors and the
+     required mounting hardware.
+     Retrofit kits and renewal
+23   parts are available from
+     your Eaton Satellite plant.
+24   Refer to Page V12-T4-22.
+
+
+25
+     V12-T4-18             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—June 2018 www.eaton.com
+

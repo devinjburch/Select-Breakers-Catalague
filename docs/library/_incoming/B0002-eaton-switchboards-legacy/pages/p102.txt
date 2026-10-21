@@ -1,0 +1,68 @@
+                                                                           Molded-Case Circuit Breakers
+                                                                                                            Replacement Capabilities
+                                                                                                                                                     3
+Types RMCFA, RMCF, RMCHFA and RMCHF—Motor Control Center Replacement
+■ Shaded area denotes obsolete or discontinued products and services. 1                                                                                      1
+                Motor Control Center Replacement Circuit Breakers
+                Continuous Ampere                         Catalog Number                                                                                     2
+                Rating at 40°C                            Single-Pole                            Two-Pole                           Three-Pole
+Type RMCFA      Type RMCFA—15–100A Two-, Three-Pole, 600 Vac Maximum, Thermal-Magnetic                                                                       3
+                 15                                       —                                      RMCFA2015                          RMCFA3015
+                 20                                       —                                      RMCFA2020                          RMCFA3020                4
+                 25                                       —                                      RMCFA2025                          RMCFA3025
+                 30                                       —                                      RMCFA2030                          RMCFA3030
+                                                                                                                                                             5
+                 35                                       —                                      RMCFA2035                          RMCFA3035
+                 40                                       —                                      RMCFA2040                          RMCFA3040
+                                                                                                                                                             6
+                 50                                       —                                      RMCFA2050                          RMCFA3050
+                 60
+                 70
+                                                          —
+                                                          —
+                                                                                                 RMCFA2060
+                                                                                                 RMCFA2070
+                                                                                                                                    RMCFA3060
+                                                                                                                                    RMCFA3070
+                                                                                                                                                             7
+                 80
+                 90
+                                                          —
+                                                          —
+                                                                                                 RMCFA2080
+                                                                                                 RMCFA2090
+                                                                                                                                    RMCFA3080
+                                                                                                                                    RMCFA3090
+                                                                                                                                                             8
+                                                                                                                                                             9
+                 100                                      —                                      RMCFA2100                          RMCFA3100
+Type RMCF       Type RMCF—15–150A Two-, Three-Pole, 600 Vac Maximum, Thermal-Magnetic
+                 15                                       —                                      RMCHF2015                          RMCHF3015
+                 20                                       —                                      RMCHF2020                          RMCHF3020                10
+                 25                                       —                                      RMCHF2025                          RMCHF3025
+                 30                                       —                                      RMCHF2030                          RMCHF3030                11
+                 35                                       —                                      RMCHF2035                          RMCHF3035
+                 40                                       —                                      RMCHF2040                          RMCHF3040                12
+                 50                                       —                                      RMCHF2050                          RMCHF3050
+                 60                                       —                                      RMCHF2060                          RMCHF3060                13
+                 70                                       —                                      RMCHF2070                          RMCHF3070
+                 80                                       —                                      RMCHF2080                          RMCHF3080                14
+                 90                                       —                                      RMCHF2090                          RMCHF3090
+                 100                                      —                                      RMCHF2100                          RMCHF3100                15
+                 125                                      —                                      RMCHF2125                          RMCHF3125
+                 150                                      —                                      RMCHF2150                          RMCHF3150                16
+                Notes
+                1 These frames are obsolete. For more information, call 1-800-OLD-UNIT for Cutler-Hammer motor control solutions.
+                                                                                                                                                             17
+                See Page V12-T3-91 for Series C retrofit kits.
+
+                                                                                                                                                             18
+                                                                                                                                                             19
+                                                                                                                                                             20
+                                                                                                                                                             21
+                                                                                                                                                             22
+                                                                                                                                                             23
+                                                                                                                                                             24
+                                                                                                                                                             25
+             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                            V12-T3-89
+

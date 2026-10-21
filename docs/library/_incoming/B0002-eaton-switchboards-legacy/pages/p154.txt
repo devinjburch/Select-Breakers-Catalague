@@ -1,0 +1,105 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                  3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                        1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+LAB3150W                 371D333G21       O          HLA3150W                 —                      KDB3150W                  1–3, 5, 8                2
+LAB3175                  372D300G22       O          HLA3175                  504C740G22             KDB3175                   1–3, 5, 8
+LAB31750MW               371D426G15       O          HLA31750MW               —                      HMCP400J5W                1–3, 5, 8                3
+LAB31750SMW              371D426G35       O          HLA31750MW               —                      HMCP400J5W                1–5, 8
+LAB3175A                 372D301G62       O          HLA3175                  504C740G22             KDB3175                   1–3, 5, 8                4
+LAB3175S                 372D300G54       O          HLA3175                  504C740G22             KDB3175                   1–5, 8
+LAB3175SW                371D333G54       O          HLA3175W                 —                      KDB3175W                  1–5, 8
+                                                                                                                                                        5
+LAB3175W                 371D333G22       O          HLA3175W                 —                      KDB3175W                  1–3, 5, 8
+LAB3200                  372D300G23       O          HLA3200                  504C740G23             KDB3200                   1–3, 5, 8
+                                                                                                                                                        6
+LAB3200A                 372D301G63       O          HLA3200                  504C740G23             KDB3200                   1–3, 5, 8
+LAB3200S
+LAB3200SW
+                         372D300G55
+                         371D333G55
+                                          O
+                                          O
+                                                     HLA3200
+                                                     HLA3200W
+                                                                              504C740G23
+                                                                              —
+                                                                                                     KDB3200
+                                                                                                     KDB3200W
+                                                                                                                               1–5, 8
+                                                                                                                               1–5, 8
+                                                                                                                                                        7
+LAB3200W
+LAB3225
+                         371D333G23
+                         372D300G24
+                                          O
+                                          O
+                                                     HLA3200W
+                                                     HLA3225
+                                                                              —
+                                                                              504C740G24
+                                                                                                     KDB3200W
+                                                                                                     KDB3225
+                                                                                                                               1–3, 5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                        8
+                                                                                                                                                        9
+LAB32250MW               371D426G16       O          HLA32250MW               —                      HMCP400L5W                1–3, 5, 8
+LAB32250SMW              371D426G36       O          HLA32250MW               —                      HMCP400L5W                1–5, 8
+LAB3225A                 372D301G64       O          HLA3225                  504C740G24             KDB3225                   1–3, 5, 8
+LAB3225S                 372D300G56       O          HLA3225                  504C740G24             KDB3225                   1–5, 8                   10
+LAB3225SW                371D333G56       O          HLA3225W                 —                      KDB3225W                  1–5, 8
+LAB3225W                 371D333G24       O          HLA3225W                 —                      KDB3225W                  1–3, 5, 8                11
+LAB3250                  372D300G25       O          HLA3250                  504C740G25             KDB3250                   1–3, 5, 8
+LAB3250A                 372D301G65       O          HLA3250                  504C740G25             KDB3250                   1–3, 5, 8                12
+LAB3250S                 372D300G57       O          HLA3250                  504C740G25             KDB3250                   1–5, 8
+LAB3250SW                371D333G57       O          HLA3250W                 —                      KDB3250W                  1–5, 8                   13
+LAB3250W                 371D333G25       O          HLA3250W                 —                      KDB3250W                  1–3, 5, 8
+LAB3300                  372D300G26       O          HLA3300                  504C740G26             KDB3300                   1–3, 5, 8                14
+LAB33000MW               371D426G17       O          HLA33000MW               —                      HMCP400N5W                1–3, 5, 8
+LAB33000SMW              371D426G37       O          HLA33000MW               —                      HMCP400N5W                1–5, 8                   15
+LAB3300A                 372D301G66       O          HLA3300                  504C740G26             KDB3300                   1–3, 5, 8
+LAB3300S                 372D300G58       O          HLA3300                  504C740G26             KDB3300                   1–5, 8                   16
+LAB3300SW                371D333G58       O          HLA3300W                 —                      KDB3300W                  1–, 5, 8
+LAB3300W                 371D333G26       O          HLA3300W                 —                      KDB3300W                  1–3, 5, 8
+                                                                                                                                                        17
+LAB3350A                 372D301G67       O          HLA3350                  504C740G27             KDB3350                   1–3, 5, 8
+LAB3350S                 372D300G59       O          HLA3350                  504C740G27             KDB3350                   1–5, 8
+                                                                                                                                                        18
+LAB3350SW                371D333G59       O          HLA3350W                 —                      KDB3350W                  1–5, 8
+LAB3400
+LAB34000MW
+                         372D300G28
+                         371D426G18
+                                          O
+                                          O
+                                                     HLA3400
+                                                     HLA34000MW
+                                                                              504C740G28
+                                                                              —
+                                                                                                     KDB3400
+                                                                                                     HMCP400X5W
+                                                                                                                               1–3, 5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                        19
+                                                                                                                                                        20
+LAB34000SMW              371D426G38       O          HLA34000MW               —                      HMCP400X5W                1–5, 8
+LAB3400A                 372D301G68       O          HLA3400                  504C740G28             KDB3400                   1–3, 5, 8
+LAB3400S                 372D300G60       O          HLA3400                  504C740G28             KDB3400                   1–5, 8
+LAB3400SW                371D333G60       O          HLA3400W                 —                      KDB3400W                  1–5, 8
+                                                                                                                                                        21
+LAB3400W                 371D333G28       O          HLA3400W                 —                      KDB3400W                  1–3, 5, 8
+LAB3400WK                752B042G08       O          —                        —                      KDB3400KW                 1–3, 5, 8                22
+LAB3400WSK               752B042G09       O          —                        —                      KDB3400KW                 1–3, 5, 8
+LAB3700MW                371D426G12       O          HLA3700MW                —                      HMCP400D5W                1–3, 5, 8                23
+LAB3700SMW               371D426G32       O          HLA3700MW                —                      HMCP400D5W                1–5, 8
+LAY3250                  NO STYLE         O          —                        —                      HKD3250                   —                        24
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                        25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com             V12-T3-141
+

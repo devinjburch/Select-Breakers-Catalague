@@ -1,0 +1,85 @@
+                                                                                             IQ Products
+                          Replacement Capabilities—Discontinued Product—Recommended Replacement
+                                                                                                                                  10
+■ Shaded area denotes obsolete or discontinued products and services.
+                                                                                                                                              1
+IQ Data Plus and                   IQ 1000 and IQ 1000 II             IQ Data                             ●   Retains preset parameters
+IQ Data Plus II                                                                                               through power failure with
+                                                                                                              use of field-settable DIP
+                                                                                                                                              2
+                                                                                                              switches (no batteries)
+                                                                                                          Product Selection
+                                                                                                                                              3
+                                                                                                          IQ Data                             4
+                                                                                                                                 Catalog
+                                                                                                          Description            Number
+                                                                                                                                              5
+                                                                                                          Basic metering         IQDATA
+                                                                                                          Basic metering with
+                                                                                                          three-phase power module
+                                                                                                                                   IQDATAPM
+                                                                                                                                              6
+                                              IQ 1000 II                           IQ Data
+        IQ Data Plus II
+                                   Recommended Replacement            Eaton’s Cutler-Hammer IQ
+                                                                                                          Recommended Replacement
+                                                                                                          IQ DP-4000
+                                                                                                                                              7
+Eaton’s Cutler-Hammer IQ           Both the IQ 1000 and the           Data provides simultaneous
+                                                                      current and voltage metering.
+Data Plus was discontinued
+in 1989 and was replaced by
+                                   IQ 1000 II have been discon-
+                                                                      In one compact, standard                                                8
+                                   tinued and replaced by
+the IQ Data Plus II. The           the MP-3000 for complete           package, this device provides
+IQ Data Plus II was                motor protection. A detailed       an alternative to individually
+                                                                      mounted and wired ammeters,
+                                                                                                                                              9
+discontinued in 1998.              application note
+                                   (MP3K01R4.PDF) describing          voltmeters, and ammeter
+Recommended Replacement
+                                   replacement of the IQ 1000 II      and voltmeter switches.                                                 10
+IQ DP-4000                         with an MP-3000 is available       Features and Benefits
+                                   at www.eaton.com.                  ●   Space savings in                                                    11
+                                                                          structure—replaces
+                                                                          ammeter, voltmeter,
+                                                                          selector switches                                                   12
+                                                                          and frequency meter
+                                                                          (IQ Generator)
+                                                                                                                                              13
+                                                                      ●   Standardization of
+                                                                          design—one door-
+                                                                          mounted device                                                      14
+                                                                      ●   Direct voltage input up
+                                                                          to 600V—no additional
+                                                                          potential transformers
+                                                                                                                                              15
+                                                                          (PTs) required
+                                                                      ●   User-friendly—field-                                                16
+                                                                          settable DIP switches
+                                                                          Standard model derives
+                                                                                                                                              17
+                                                                      ●
+
+                                                                          power from separate
+                                                                          source 120/240 Vac supply
+                                                                      ●   Only two style numbers                                              18
+                                                                      ●   No need to stock multiple
+                                                                          units for different current
+                                                                          transformers (CT)                                                   19
+                                                                          and PT ratios
+                                                                      ●   Interface capability to                                             20
+                                                                          computer network for data
+                                                                          collection, storage and/or
+                                                                          printout via IMPACC                                                 21
+                                                                      ●   Membrane faceplate,
+                                                                          designed and tested
+                                                                          to perform in a harsh
+                                                                                                                                              22
+                                                                          industrial environment
+                                                                          (Type 3R, 12)                                                       23
+                                                                                                                                              24
+                                                                                                                                              25
+               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com          V12-T10-37
+

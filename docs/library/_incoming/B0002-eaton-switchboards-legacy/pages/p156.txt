@@ -1,0 +1,105 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                   3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                           1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+LB3225                   179C800G23       O          —                        —                      KD3225                    1–3, 5, 8, 9                2
+LB3225S                  179C803G23       O          —                        —                      KD3225                    1–5, 8, 9
+LB3250                   179C800G24       O          —                        —                      KD3250                    1–3, 5, 8, 9                3
+LB3250S                  179C803G24       O          —                        —                      KD3250                    1–5, 8, 9
+LB3300                   179C800G25       O          —                        —                      KD3300                    1–3, 5, 8, 9                4
+LB3300S                  179C803G25       O          —                        —                      KD3300                    1–5, 8, 9
+LB3350                   179C800G26       O          —                        —                      KD3350                    1–3, 5, 8, 9
+                                                                                                                                                           5
+LB3400                   179C800G27       O          —                        —                      KD3400                    1–3, 5, 8, 9
+LB3400F                  5680D03G08       O          —                        —                      KD3400F                   1–3, 5, 8, 9
+                                                                                                                                                           6
+LB3400FS                 5680D03G12       O          —                        —                      KD3400F                   1–5, 8, 9
+LB3400S
+LB3400WK
+                         179C803G27
+                         752B048G07
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     KD3400
+                                                                                                     KD3400KW
+                                                                                                                               1–5, 8, 9
+                                                                                                                               1–3, 5, 8, 9
+                                                                                                                                                           7
+LB3400WSK
+LBB2125
+                         752B048G09
+                         179C806G04
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     KD3400KW
+                                                                                                     KDB2125
+                                                                                                                               1–3, 5, 8, 9
+                                                                                                                               1–3, 5, 8, 9
+                                                                                                                                                           8
+                                                                                                                                                           9
+LBB21250MW               179C811G02       O          —                        —                      HM2P400F5W                1–3, 5, 8, 9
+LBB21250SMW              179C832G02       O          —                        —                      HM2P400F5W                1–5, 8.9
+LBB2125A                 179C807G04       O          —                        —                      KDB2125                   1–3, 5, 8, 9
+LBB2125S                 179C827G04       O          —                        —                      KDB2125                   1–5, 8, 9                   10
+LBB2125SA                179C828G04       O          —                        —                      KDB2125                   1–5, 8, 9
+LBB2125SW                179C830G04       O          —                        —                      KDB2125W                  1–5, 8, 9                   11
+LBB2125W                 179C809G04       O          —                        —                      KDB2125W                  1–3, 5, 8, 9
+LBB2150                  179C806G05       O          —                        —                      KDB2150                   1–3, 5, 8, 9                12
+LBB21500MW               179C811G03       O          —                        —                      HM2P400G5W                1–3, 5, 8, 9
+LBB21500SMW              179C832G03       O          —                        —                      HM2P400G5W                1–5, 8, 9                   13
+LBB2150A                 179C807G05       O          —                        —                      KDB2150                   1–3, 5, 8, 9
+LBB2150S                 179C827G05       O          —                        —                      KDB2150                   1–5, 8, 9                   14
+LBB2150SA                179C828G05       O          —                        —                      KDB2150                   1–5, 8, 9
+LBB2150SW                179C830G05       O          —                        —                      KDB2150W                  1–5, 8, 9                   15
+LBB2150W                 179C809G05       O          —                        —                      KDB2150W                  1–3, 5, 8, 9
+LBB2175                  179C806G06       O          —                        —                      KDB2175                   1–3, 5, 8, 9                16
+LBB21750MW               179C811G04       O          —                        —                      HM2P400J5W                1–3, 5, 8, 9
+LBB21750SMW              179C832G04       O          —                        —                      HM2P400J5W                1–5, 8, 9
+                                                                                                                                                           17
+LBB2175A                 179C807G06       O          —                        —                      KDB2175                   1–3, 5, 8, 9
+LBB2175S                 179C827G06       O          —                        —                      KDB2175                   1–5, 8, 9
+                                                                                                                                                           18
+LBB2175SA                179C828G06       O          —                        —                      KDB2175                   1–5, 8, 9
+LBB2175SW
+LBB2175W
+                         179C830G06
+                         179C809G06
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     KDB2175W
+                                                                                                     KDB2175W
+                                                                                                                               1–5, 8, 9
+                                                                                                                               1–3, 5, 8, 9
+                                                                                                                                                           19
+                                                                                                                                                           20
+LBB2200                  179C806G07       O          —                        —                      KDB2200                   1–3, 5, 8, 9
+LBB2200A                 179C807G07       O          —                        —                      KDB2200                   1–3, 5, 8, 9
+LBB2200S                 179C827G07       O          —                        —                      KDB2200                   1–5, 8, 9
+LBB2200SA                179C828G07       O          —                        —                      KDB2200                   1–5, 8, 9
+                                                                                                                                                           21
+LBB2200SW                179C830G07       O          —                        —                      KDB2200W                  1–5, 8, 9
+LBB2200W                 179C809G07       O          —                        —                      KDB2200W                  1–3, 5, 8, 9                22
+LBB2225                  179C806G08       O          —                        —                      KDB2225                   1–3, 5, 8, 9
+LBB22250MW               179C811G05       O          —                        —                      HM2P400L5W                1–3, 5, 8, 9                23
+LBB22250SMW              179C832G05       O          —                        —                      HM2P400L5W                1–5, 8, 9
+LBB2225A                 179C807G08       O          —                        —                      KDB2225                   1–3, 5, 8, 9                24
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                           25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                V12-T3-143
+

@@ -1,0 +1,86 @@
+     11                              Communication Systems
+                                     Communication Hardware
+
+
+
+     Supported Devices
+1    Supported Devices                                                            Web                   INCOM                    File                Modbus
+     Protocol       Device Type       Device Name                     HTTP        Services     MB TCP   Pass-Thru     SNMP       Export csv          Pass-Thru      BACnet/IP
+2    INCOM          I/O               DIM KYZ (WAGES)                    ■            ■            ■         ■             ■            ■                                  ■
+     INCOM          Meter             IQ MESII                           ■            ■            ■         ■             ■            ■                                  ■
+
+3    INCOM          Meter             IQ 220/230                         ■            ■            ■         ■             ■            ■                                  ■
+     INCOM          Meter             IQ Energy Sentinel                 ■            ■            ■         ■             ■            ■                                  ■
+
+4    Modbus         Meter             IQ 130                             ■            ■            ■                       ■            ■                 ■                ■
+     Modbus         Meter             IQ 140                             ■            ■            ■                       ■            ■                 ■                ■
+
+5    Modbus         Meter             IQ 150                             ■            ■            ■                       ■            ■                 ■                ■
+     Modbus         Meter             IQ 220M/230M                       ■            ■            ■                       ■            ■                 ■                ■
+
+6    Modbus         Meter             IQ 250                             ■            ■            ■                       ■            ■                 ■                ■
+     Modbus         Meter             IQ 260                             ■            ■            ■                       ■            ■                 ■                ■
+
+7    Modbus         Meter             EI NEXUS 1200 Series               ■
+                                                                         ■
+                                                                                      ■
+                                                                                      ■
+                                                                                                   ■
+                                                                                                   ■
+                                                                                                                           ■
+                                                                                                                           ■
+                                                                                                                                        ■
+                                                                                                                                        ■
+                                                                                                                                                          ■
+                                                                                                                                                          ■
+                                                                                                                                                                           ■
+                                                                                                                                                                           ■
+     Modbus         Meter             IQ 35M
+
+8    The Eaton Power Xpert
+     Gateway 200E Includes:
+                                                    Power Xpert Gateway
+                                                    with DIN Rail Mounting
+                                                    (Brackets Included)
+9    ●   The Power Xpert
+         Gateway module
+     ●   Mounting provisions and
+10       required hardware for panel
+         and DIN rail mounting
+11   ●   CD-ROM: contains the
+         user manual, Modbus
+         register maps, USB driver
+12       and other associated files
+
+
+13   Power Xpert Gateway—Dimensions in Inches (mm)
+
+14   Power Xpert Gateway 200E
+
+
+15
+16
+17
+18
+19    24 Vdc
+                            COM 1 Port:
+                            RS-485 Connection
+                                                             INCOM Port:
+                                                             RS-485 Connection            RJ-45
+                                                                                                        RJ-45 Connection
+                                                                                                        to the Other
+                                                                                                                               USB Connection for
+                                                                                                                               Local Configuration     Power and Traffic
+      Input Power           for up to 32 Modbus              for up to 64 INCOM           Connection    Ethernet Devices       Capability              Indicator Lights
+
+20                          RTU Devices                      Devices                      to the LAN
+
+
+
+21
+22
+23
+24
+25
+     V12-T11-14               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

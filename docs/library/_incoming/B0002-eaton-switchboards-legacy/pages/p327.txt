@@ -1,0 +1,243 @@
+     11                              Communication Systems
+                                     Communication Hardware
+
+
+
+     Data Acquisition and Integration Table for Supported Devices
+1    Supported Devices
+
+
+2
+                                                                     PXG 400E/600E/800E                                                                            PXG 600E/800E Only
+3
+
+
+
+
+                                                                                   Web Services
+
+
+
+
+                                                                                                               Pass-through
+
+
+
+                                                                                                                              Pass-through
+                                                                                   (Power Xpert
+
+
+                                                                                                  Modbus TCP
+
+
+
+
+                                                                                                               (PowerNet)
+
+
+
+
+                                                                                                                                                                                            File Export)
+                                                                       HTTP (Web
+
+
+
+
+                                                                                                                                                                                            (Waveform
+                                                                                                                              (CHStudio)
+
+
+
+
+                                                                                                                                                                              File Export
+
+
+
+                                                                                                                                                                                            File Export
+                                                                                                                                                       BACnet/IP
+                                                                                   Software)
+
+
+                                                                                                  (BMS and
+
+
+
+
+                                                                                                                                                                              (Data File
+                                                                       Browser)
+
+
+
+
+                                                                                                  SCADA)
+
+
+
+
+                                                                                                                                                                              Format)
+                                                                                                               INCOM
+
+
+
+
+                                                                                                                                                                   (E-mail
+                                                                                                                              QCPort
+
+
+
+
+                                                                                                                                                                   Client)
+                                                                                                                                             (NMS)
+                                                                                                                                             SNMP
+
+
+
+
+                                                                                                                                                                   SMTP
+4    Device Type                   Device Name
+     INCOM
+5    Drive                         Accutrol 400                          ■             ■             ■             ■                          ■        ■              ■           ■
+     Drive                         AF97                                  ■             ■             ■             ■                          ■        ■              ■           ■
+
+6    I/O                           Universal RTD                         ■             ■             ■             ■                          ■        ■              ■           ■
+     I/O                           DIM                                   ■             ■             ■             ■                          ■        ■              ■           ■
+                                                                         ■             ■             ■             ■                          ■        ■              ■           ■
+7
+     I/O                           DIM KYZ
+     Meter                         IQ DP-4000 1                          ■             ■             ■             ■                          ■        ■              ■           ■
+     Meter                         IQ Energy Sentinel                    ■             ■             ■             ■                          ■        ■              ■           ■
+8    Meter                         IQ 220/IQ 320                         ■             ■             ■             ■                          ■        ■              ■           ■
+     Meter                         IQ 230/IQ 330                         ■             ■             ■             ■                          ■        ■              ■           ■
+
+9    Meter
+     Meter
+                                   IQ Analyzer (6000/6200) 1
+                                   IQ Analyzer (6400/6600) 1
+                                                                         ■
+                                                                         ■
+                                                                                       ■
+                                                                                       ■
+                                                                                                     ■
+                                                                                                     ■
+                                                                                                                   ■
+                                                                                                                   ■
+                                                                                                                                              ■
+                                                                                                                                              ■
+                                                                                                                                                       ■
+                                                                                                                                                       ■
+                                                                                                                                                                      ■
+                                                                                                                                                                      ■
+                                                                                                                                                                                  ■
+                                                                                                                                                                                  ■
+                                                                                                                                                                                                ■
+                                                                                                                                                                                                ■
+     Meter                         IQ Data 1                             ■             ■             ■             ■                          ■        ■              ■           ■
+10   Meter                         IQ Data Plus 1                        ■             ■             ■             ■                          ■        ■              ■           ■
+     Meter                         IQ Data Plus II 1                     ■             ■             ■             ■                          ■        ■              ■           ■
+
+11   Meter                         Power Manager                         ■             ■             ■             ■                          ■        ■              ■           ■
+     Meter                         IQ Power Sentinel                     ■             ■             ■             ■                          ■        ■              ■           ■
+
+12   Meter point
+     Protective
+                                   IQ MES II
+                                   Digitrip 3000
+                                                                         ■
+                                                                         ■
+                                                                                       ■
+                                                                                       ■
+                                                                                                     ■
+                                                                                                     ■
+                                                                                                                   ■
+                                                                                                                   ■
+                                                                                                                                              ■
+                                                                                                                                              ■
+                                                                                                                                                       ■
+                                                                                                                                                       ■
+                                                                                                                                                                      ■
+                                                                                                                                                                      ■
+                                                                                                                                                                                  ■
+                                                                                                                                                                                  ■
+     Protective                    Digitrip 3200                         ■             ■             ■             ■                          ■        ■              ■           ■
+13   Protective                    FP-6000                               ■             ■             ■             ■                          ■        ■              ■           ■             ■
+     Protective                    FP-5000                               ■             ■             ■             ■                          ■        ■              ■           ■             ■
+
+14   Protective                    FP-4000                               ■             ■             ■             ■                          ■        ■              ■           ■             ■
+     Protective                    MP-3000 1                             ■             ■             ■             ■                          ■        ■              ■           ■
+                                                                         ■             ■             ■             ■                          ■        ■              ■           ■
+15
+     Protective                    MP-4000 1
+     Protective                    Digitrip 520MC                        ■             ■             ■             ■                          ■        ■              ■           ■
+     Protective                    NRX520                                ■             ■             ■             ■                          ■        ■              ■           ■
+16   Protective                    IQ 500                                ■             ■             ■             ■                          ■        ■              ■           ■
+     Protective                    MPCV Relay                            ■             ■             ■             ■                          ■        ■              ■           ■
+
+17   Protective
+     Protective
+                                   Digitrip 1150/DT1150V
+                                   Digitrip 810
+                                                                         ■
+                                                                         ■
+                                                                                       ■
+                                                                                       ■
+                                                                                                     ■
+                                                                                                     ■
+                                                                                                                   ■
+                                                                                                                   ■
+                                                                                                                                              ■
+                                                                                                                                              ■
+                                                                                                                                                       ■
+                                                                                                                                                       ■
+                                                                                                                                                                      ■
+                                                                                                                                                                      ■
+                                                                                                                                                                                  ■
+                                                                                                                                                                                  ■
+                                                                                                                                                                                                ■
+
+
+     Protective                    Digitrip 910                          ■             ■             ■             ■                          ■        ■              ■           ■
+18   Protective                    Digitrip MV                           ■             ■             ■             ■                          ■        ■              ■           ■
+     Protective                    Digitrip OPTIM 1050                   ■             ■             ■             ■                          ■        ■              ■           ■             ■
+
+19   Protective                    Digitrip OPTIM 550                    ■             ■             ■             ■                          ■        ■              ■           ■
+     Protective                    Digitrip OPTIM 750                    ■             ■             ■             ■                          ■        ■              ■           ■
+
+20   Starter
+     Starter
+                                   Advantage 2
+                                   Advantage ACM 2
+                                                                         ■
+                                                                         ■
+                                                                                       ■
+                                                                                       ■
+                                                                                                     ■
+                                                                                                     ■
+                                                                                                                   ■
+                                                                                                                   ■
+                                                                                                                                              ■
+                                                                                                                                              ■
+                                                                                                                                                       ■
+                                                                                                                                                       ■
+                                                                                                                                                                      ■
+                                                                                                                                                                      ■
+                                                                                                                                                                                  ■
+                                                                                                                                                                                  ■
+     Subnetwork master             AEM II 1                              ■             ■             ■             ■                                                  ■           ■
+21   Subnetwork master             BIM II 1                              ■             ■             ■             ■                                                  ■           ■
+     Subnetwork master             CMU 2                                 ■             ■             ■             ■                                                  ■           ■
+
+22   Subnetwork master             IQ CED II 1                           ■             ■             ■             ■                                                  ■           ■
+     Subnetwork master             IQ MES II                             ■             ■             ■             ■                          ■        ■              ■           ■
+                                                                         ■             ■             ■             ■                          ■        ■              ■           ■
+23
+     Transfer switch               ATC-400 1
+     Transfer switch               ATC-600 1                             ■             ■             ■             ■                          ■        ■              ■           ■
+     Transfer Switch               ATC-800 1                             ■             ■             ■             ■                          ■        ■              ■           ■
+24   Notes
+     1 Required IPONI for connection to the Power Xpert Gateway.                                      Information subject to change without notice. Visit www.eaton.com/pxg for latest up-to-date
+25   2 Required a WPONI for connection to the Power Xpert Gateway.                                    details on connectivity.
+
+
+
+     V12-T11-20             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

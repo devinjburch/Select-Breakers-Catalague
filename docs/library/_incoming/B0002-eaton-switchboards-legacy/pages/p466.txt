@@ -1,0 +1,90 @@
+                                                        High Resistance Grounding System
+                                                                                                                                     16
+Type C-HRG                           General Information
+(Medium Voltage)                     High Resistance Grounding System
+                                                                                                                                                  1
+
+                                          C-HRG—High Resistance                          Wye HRG                                                  2
+                                               Grounding System
+                                                                                          51N
+                                                                                                                                                  3
+                                                                                                                                                  4
+                                                                                                59
+
+                                                                                                                                                  5
+                                              Utility                                                                                             6
+                                                                                                             Delta HRG
+
+                                                                                                                                                  7
+                                                                                                                  59
+
+                                                             Wye HRG
+                                                                                                                                                  8
+                                                                                         GEN
+                                                                      59
+                                                                                                                                                  9
+                                           Bus                                  Bus                                                               10
+      Free-Standing C-HRG                  Duct                                 Duct                                     51
+                                                               51N
+Product Description                                                                                                                               11
+The Type C-HRG is designed
+to improve the continuity
+of electrical service to                                                                                                                          12
+critical processes. Systems                                   5 kV Switchgear
+designers sometimes use
+ungrounded distribution                                                                                                                           13
+systems to avoid interrupting
+service during a ground
+fault. However, ungrounded
+                                                                                                                                                  14
+                                                           Conduit
+systems have a significant                 Cable
+disadvantage—the
+                                                                                Bus
+                                                                                Duct                                                              15
+distribution system is subject
+to the harmful effects of
+ground faults, like high                      To MCC                                                    To Power                                  16
+transient overvoltages.                                                                                  Circuit
+The Type C-HRG helps
+customers add the benefits           Overview
+                                                                                                                                                  17
+of a grounded system to their
+                                     Where continuity of service           The ground current path is            Minimum Criteria for Use
+ungrounded system.
+                                     is a high priority, high              provided at the point where           The C-HRG MV is offered          18
+Product History                      resistance grounding can              the service begins, by placing        at the 5 kV class rating. It
+                                     add the safety of a grounded          a predominantly resistive
+High resistance grounding
+                                     system while minimizing the           impedance in the connection
+                                                                                                                 can be applied to delta or
+                                                                                                                 wye ungrounded three-wire
+                                                                                                                                                  19
+technology has been offered
+as an integral system within         risk of service interruptions         from system neutral to                distribution systems.
+medium voltage switchgear            due to grounds. The concept
+                                     is a simple one: provide a
+                                                                           ground. Control equipment
+                                                                           continuously measures
+                                                                                                                 Standard dimensions are          20
+for many years. In 1996, Eaton                                                                                   36.00 W x 40.00 D x
+adopted the technology into          path for ground current via a         ground current; a relay               92.00 H inches (914.4 W x
+the C-HRG, which is a stand-         grounding transformer (with           detects when the current              1016.0 D x 2336.8 H mm).         21
+alone product ideal for              adjustable resistance across          exceeds a predetermined
+                                     its secondary) that limits the        level. An alarm alerts building
+adapting to the existing
+electrical system.                   current magnitude and a               personnel that a ground                                                22
+                                     monitor to determine when             exists. The system has built-
+                                     an abnormal condition exists.         in fault tracing means to
+Product History Time Line
+                                                                           assist in finding the source of                                        23
+ Product   1995    2000 Present                                            the ground. A 120 Vac supply
+
+ C-HRG
+                                                                           (remote) is required for
+                                                                           control power for the system.
+                                                                                                                                                  24
+ Low Voltage
+                                                                                                                                                  25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com            V12-T16-5
+

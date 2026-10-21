@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    LAY3300                  NO STYLE          O          —                        —                      HLD3300                   —
+     LAY3350                  NO STYLE          O          —                        —                      HLD3350                   —
+3    LAY3400                  NO STYLE          O          —                        —                      HLD3400                   —
+     LAY3500                  NO STYLE          O          —                        —                      HLD3500                   —
+
+4    LAY3600                  NO STYLE          O          —                        —                      HLD3600                   —
+     LAY3600F                 1240C53G01        O          —                        —                      HLD3600F                  —
+
+5    LB2070                   179C800G01        O          —                        —                      KD2070                    1–3, 5, 8, 9
+     LB2070S                  179C803G01        O          —                        —                      KD2070                    1–5, 8, 9
+
+6    LB2090                   179C800G02        O          —                        —                      KD2090                    1–3, 5, 8, 9
+     LB2090S                  179C803G02        O          —                        —                      KD2090                    1–5, 8, 9
+
+7    LB2100                   179C800G03        O          —                        —                      KD2100                    1–3, 5, 8, 9
+     LB2100S                  179C803G03        O          —                        —                      KD2100                    1–5, 8, 9
+
+8    LB2125
+     LB2125S
+                              179C800G04
+                              179C803G04
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           KD2125
+                                                                                                           KD2125
+                                                                                                                                     1–3, 5, 8, 9
+                                                                                                                                     1–5, 8, 9
+
+9
+     LB2150                   179C800G05        O          —                        —                      KD2150                    1–3, 5, 8, 9
+     LB2150S                  179C803G05        O          —                        —                      KD2150                    1–5, 8, 9
+     LB2175                   179C800G06        O          —                        —                      KD2175                    1–3, 5, 8, 9
+10   LB2175S                  179C803G06        O          —                        —                      KD2175                    1–5, 8, 9
+     LB2200                   179C800G07        O          —                        —                      KD2200                    1–3, 5, 8, 9
+11   LB2200S                  179C803G07        O          —                        —                      KD2200                    1–5, 8, 9
+     LB2225                   179C800G08        O          —                        —                      KD2225                    1–3, 5, 8, 9
+12   LB2225S                  179C803G08        O          —                        —                      KD2225                    1–5, 8, 9
+     LB2250                   179C800G09        O          —                        —                      KD2250                    1–3, 5, 8, 9
+13   LB2250S                  179C803G09        O          —                        —                      KD2250                    1–5, 8, 9
+     LB2300                   179C800G10        O          —                        —                      KD2300                    1–3, 5, 8, 9
+14   LB2300S                  179C803G10        O          —                        —                      KD2300                    1–5, 8, 9
+     LB2350                   179C800G11        O          —                        —                      KD2350                    1–3, 5, 8, 9
+
+15   LB2400                   179C800G12        O          —                        —                      KD2400                    1–3, 5, 8, 9
+     LB2400F                  5680D03G07        O          —                        —                      KD2400F                   1–3, 5, 8, 9
+
+16   LB2400FS                 5680D03G11        O          —                        —                      KD2400F                   1–5, 8, 9
+     LB2400S                  179C803G12        O          —                        —                      KD2400                    1–5, 8, 9
+
+17   LB2400WK                 752B048G02        O          —                        —                      KD2400KW                  1–3, 5, 8, 9
+     LB2400WSK                752B048G04        O          —                        —                      KD2400KW                  1–3, 5, 8, 9
+
+18   LB3070                   179C800G16        O          —                        —                      KD3070                    1–3, 5, 8, 9
+     LB3070S                  179C803G16        O          —                        —                      KD3070                    1–5, 8, 9
+
+19   LB3090
+     LB3090S
+                              179C800G17
+                              179C803G17
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           KD3090
+                                                                                                           KD3090
+                                                                                                                                     1–3, 5, 8, 9
+                                                                                                                                     1–5, 8, 9
+
+20
+     LB3100                   179C800G18        O          —                        —                      KD3100                    1–3, 5, 8, 9
+     LB3100S                  179C803G18        O          —                        —                      KD3100                    1–5, 8, 9
+
+21
+     LB3125                   179C800G19        O          —                        —                      KD3125                    1–3, 5, 8, 9
+     LB3125S                  179C803G19        O          —                        —                      KD3125                    1–5, 8, 9
+     LB3150                   179C800G20        O          —                        —                      KD3150                    1–3, 5, 8, 9
+22   LB3150S                  179C803G20        O          —                        —                      KD3150                    1–5, 8, 9
+     LB3175                   179C800G21        O          —                        —                      KD3175                    1–3, 5, 8, 9
+23   LB3175S                  179C803G21        O          —                        —                      KD3175                    1–5, 8, 9
+     LB3200                   179C800G22        O          —                        —                      KD3200                    1–3, 5, 8, 9
+24   LB3200S                  179C803G22        O          —                        —                      KD3200                    1–5, 8, 9
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-142              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

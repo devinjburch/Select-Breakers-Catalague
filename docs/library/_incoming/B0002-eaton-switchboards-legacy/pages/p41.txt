@@ -1,0 +1,113 @@
+     3                                 Molded-Case Circuit Breakers
+                                       Replacement Capabilities
+
+
+
+     ■ Shaded area denotes obsolete or discontinued products and services. 1
+1    Magnetic Only, Ambient Compensating Breakers 2
+                                                                           Two-Pole Breakers 4                        Three-Pole Breakers
+2    Continuous                 Magnetic Trip Setting, Amperes 3           Standard              Saf-T-Vue            Standard                  Saf-T-Vue
+     Ampere Rating              Low                     High               Catalog Number        Catalog Number       Catalog Number            Catalog Number
+
+3    Magnetic Only Breakers, Front Adjustable—Without Terminals 5
+     400                        350                     700                LBB2700MW             LBB2700SMW           LBB3700MW                 LBB3700SMW
+
+4    400                        625                     1250               LBB21250MW            LBB21250SMW          LBB31250MW                LBB31250SMW
+     400                        750                     1500               LBB21500MW            LBB21500SMW          LBB31500MW                LBB31500SMW
+
+5    400                        875                     1750               LBB21750MW            LBB21750SMW          LBB31750MW                LBB31750SMW
+     400                        1125                    2250               LBB22250MW            LBB22250SMW          LBB32250MW                LBB32250SMW
+
+6    400
+     400
+                                1500
+                                2000
+                                                        3000
+                                                        4000
+                                                                           LBB23000MW
+                                                                           LBB24000MW
+                                                                                                 LBB23000SMW
+                                                                                                 LBB24000SMW
+                                                                                                                      LBB33000MW
+                                                                                                                      LBB34000MW
+                                                                                                                                                LBB33000SMW
+                                                                                                                                                LBB34000SMW
+
+7
+     Ambient Compensating Breakers—Includes Terminals
+     125                        625                     1250               LBB2125A              LBB2125SA            LBB3125A                  LBB3125SA
+     150                        750                     1500               LBB2150A              LBB2150SA            LBB3150A                  LBB3150SA
+8    175                        875                     1750               LBB2175A              LBB2175SA            LBB3175A                  LBB3175SA
+     200                        1000                    2000               LBB2200A              LBB2200SA            LBB3200A                  LBB3200SA
+9    225                        1125                    2250               LBB2225A              LBB2225SA            LBB3225A                  LBB3225SA
+     250                        1250                    2500               LBB2250A              LBB2250SA            LBB3250A                  LBB3250SA
+10   300                        1500                    3000               LBB2300A              LBB2300SA            LBB3300A                  LBB3300SA
+     350                        1750                    3500               LBB2350A              LBB2350SA            LBB3350A                  LBB3350SA
+11   400                        2000                    4000               LBB2400A              LBB2400SA            LBB3400A                  LBB3400SA
+
+
+12   UL Listed
+     Interrupting Ratings
+                                                   Accessories and                      Terminals                                UL Listed Interrupting Ratings
+                                                                                                                                 (see table)
+                                                   Modifications                        Two terminals required
+                                                                                        per pole.                                For all three-phase
+13
+     Maximum                                       ■ Shaded area denotes
+     Volts           Amperes                       obsolete or discontinued                                                      delta, grounded B phase
+                                                                                        Select from Page V12-T3-35.              applications, contact Avery
+     240 AC          50,000 asymmetrical,          products and services.
+                                                                                                                                 Creek, NC, Technical
+14                   42,000 symmetrical
+                                                    Special Calibrations
+                                                                                        Note: Terminals are shipped
+                                                                                        separately from breaker.                 Resource Center at
+     480 AC          35,000 asymmetrical,
+                     30,000 symmetrical             Special calibration price                                                    1-800-356-1243.
+15   600 AC          25,000 asymmetrical,           additions apply to ampere           Note: If upgrading an LBB
+                                                                                        breaker to a Series C K-Frame in a        Magnetic Only Breakers
+                     22,000 symmetrical             ratings not listed as               panelboard application, also order
+                                                    standard or for ambients                                                      For description, refer to
+16   250 DC          20,000 6
+                                                    other than 40°C or 50°C.
+                                                                                        TAD3 spacer kit.                          Application Data 29-160.
+                                                    For frequencies other than                                                    To order, select catalog
+                                                                                        For CSA, see
+                                                                                                                                  number from table above.
+17                                                  0–60 Hz AC, refer to Eaton.
+                                                    See Application Data 29-160
+                                                                                        Page V12-T3-48.
+
+                                                    for information regarding           Type LBB breakers meet                   Notes
+
+18                                                                                      requirements for Class 21a               1 These frames are obsolete. For
+                                                    special conditions.
+                                                                                                                                   replacement solutions, see the cross-
+                                                    Maximum calibration for             circuit breakers, as defined
+                                                                                                                                   reference on Pages V12-T3-114–
+                                                    400 Hz is 300A.                     by Federal Specification
+19
+                                                                                                                                   V12-T3-167.
+                                                                                        W-C-375b.                                2 Not UL Listed.
+                                                    Note: Not UL Listed.                                                         3 Set on high side, adjustable to
+
+
+20
+                                                                                                                                   lower limits.
+                                                    50°C Calibration                                                             4 Two-pole breakers or trips are supplied
+
+                                                    Add suffix “V” to catalog                                                      in three-pole frames with current
+                                                    number for complete                                                            carrying parts omitted from center pole.
+21                                                  breaker when ordering                                                        5 Select desired terminals from
+
+                                                                                                                                   V12-T3-30, and order as separate item.
+                                                    breakers to be used in                                                       6 Ratings above 10,000A not UL Listed.
+                                                    50°C ambients.
+22
+                                                    Note: Not UL Listed.
+
+23
+24
+25
+     V12-T3-28               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,86 @@
+                                                                                  Busway (Low Voltage)
+                                                                          Replacement Capabilities—Plug-In Units
+                                                                                                                                                                      9
+Originally a Westinghouse Product
+                                                                                                                                                                              1
+Breaker Plug-In Units                                                      Fusible Plug-In Units
+Reference Catalog Number for
+Existing Complete Plug-In Unit 1
+                                     Replacement Stab
+                                     Base Assembly
+                                                                           Reference Catalog Number
+                                                                           for Existing Complete Plug-In Unit 1
+                                                                                                                          Replacement Stab
+                                                                                                                          Base Assembly
+                                                                                                                                                      Replacement
+                                                                                                                                                      Fuse Base
+                                                                                                                                                                              2
+Pow-R-Way                                                                  Pow-R-Way
+IBPFB                                2528D04G01                            ITAP321                                        2528D04G02                  5009D52G01
+                                                                                                                                                                              3
+IBPFBP                               2528D04G01                            ITAP361                                        2528D04G02                  5009D52G13
+IBPFCL                               2528D04G01                            ITAP322                                        2528D04G02                  5009D52G03              4
+IBPFD                                2528D04G01                            ITAP362                                        2528D04G02                  5009D52G04
+IBPJD                                2528D04G12                            ITAP323                                        2528D04G02                  5009D52G05              5
+IBPKB                                2528D04G07                            ITAP363                                        2528D04G02                  5009D52G05
+IBPKD                                2554D03G06                            ITAP324                                        767A373G02                  2532D78G01              6
+IBPLAP                               2532D45G06                            ITAP364                                        767A373G02                  2532D78G01
+IBPLB                                2554D03G05                            ITAP325                                        2554D03G03                  627B426G02              7
+IBPLCL                               2554D03G03                            ITAP365                                        2554D03G03                  627B426G02
+IBPMC                                2537D17G03                            ITAP326                                        2554D03G02                  627B426G04              8
+IBPNBP                               2537D17G07                            ITAP366                                        2554D03G02                  627B426G04
+Standard Plug-In and Low Impedance Busway 2                                ITAP367                                        2554D03G01                  2553D93G02              9
+BPFB                                 2528D03G01                            ITAP361H                                       2528D04G02                  2535D92G09
+BPFBP                                2528D03G01                            ITAP362H                                       2528D04G02                  2535D92G10
+                                                                                                                                                                              10
+BPFCL                                2528D03G01                            ITAP363H                                       2528D04G02                  2535D92G11
+BPFD                                 2528D03G01                            ITAP364H                                       2568D13G09                  2532D78G02
+                                                                                                                                                                              11
+BPJD                                 2528D03G10                            ITAP365H                                       2554D03G03                  1205C02G02
+BPKB
+BPKD
+                                     2528D03G07
+                                     2537D20G06
+                                                                           ITAP366H
+                                                                           Standard Plug-In and Low Impedance Busway 2
+                                                                                                                          2554D03G02                  2599D97G02
+                                                                                                                                                                              12
+BPLB
+BPLCL
+                                     2537D20G05
+                                     2537D20G01
+                                                                           TAP321
+                                                                           TAP361
+                                                                                                                          2528D03G02
+                                                                                                                          2528D03G02
+                                                                                                                                                      5009D52G01
+                                                                                                                                                      5009D52G13
+                                                                                                                                                                              13
+                                                                                                                                                                              14
+BPMC                                 374D017G03                            TAP322                                         2528D03G02                  5009D52G03
+                                                                           TAP362                                         2528D03G02                  5009D52G04
+                                                                           TAP323                                         2528D03G02                  5009D52G05
+                                                                           TAP363                                         2528D03G02                  5009D52G05              15
+                                                                           TAP324                                         767A373G01                  2532D78G01
+                                                                           TAP364                                         767A373G01                  2532D78G01              16
+                                                                           TAP325                                         2537D20G04                  627B426G02
+                                                                           TAP365                                         2537D20G04                  627B426G02              17
+                                                                           TAP326                                         2584D73G01                  627B426G04
+                                                                           TAP366                                         2584D73G01                  627B426G02              18
+                                                                           TAP361H                                        2528D03G02                  2535D92G09
+                                                                           TAP362H                                        2528D03G02                  2535D92G10              19
+                                                                           TAP363H                                        2528D03G02                  2535D92G11
+                                                                           TAP364H                                        767A373G01                  2532D78G02              20
+                                                                           TAP365H                                        2537D20G04                  1448D09G05
+                                                                           TAP366H                                        374D017G03                  373D043G06              21
+                                                                           Notes
+                                                                           1 Check Vista for pricing and minimum order quantities.
+                                                                           2 Replacement stab base assembly and fuse base style numbers specified correspond to the
+                                                                                                                                                                              22
+                                                                             most recent design of the reference catalog number for the complete plug-in unit. For
+                                                                             verification that this style number is the correct replacement for your existing plug-in unit,
+                                                                             contact your local Eaton Field Sales office.                                                     23
+                                                                                                                                                                              24
+                                                                                                                                                                              25
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                     V12-T9-5
+

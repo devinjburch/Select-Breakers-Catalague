@@ -1,0 +1,86 @@
+     4                           Panelboards
+                                 Technology Upgrades
+
+
+
+     Technology Upgrades                   Pow-R-Command™
+1
+     Surge Protection Devices—
+     SPD Series
+2
+3
+4
+5
+6
+7            Eaton SPD Series—
+           Surge Protection Device
+8    The Eaton SPD Series of
+     surge protection products                                  Pow-R-Command Lighting Control
+
+9    ensures that equipment is
+     protected with the safest,            Eaton’s Pow-R-Command is             System Features
+     most reliable and most                a family of microprocessor-          ● Day/Date/Time of Day
+                                           based lighting control systems
+10   advanced UL 1449 3rd
+     Edition certified surge               designed for today’s modern          ●
+                                                                                  scheduling
+                                                                                  Holiday scheduling—
+     protectors. The array of              facilities. They may be used as        up to 30 days/year
+11   features, options and                 a standalone, or networked for
+                                           the control of lighting and
+                                                                                ● Astronomical time
+     configurations ensures                                                       scheduling
+     that there is a unit for              other branch circuits.
+12   all electrical applications,          Existing facilities can be
+                                                                                ●
+
+                                                                                ●
+                                                                                  Real-time clock
+                                                                                  Hardware diagnostics
+     including service entrances,          retrofitted to include various
+                                                                                  Off warning by
+13
+                                                                                ●
+     distribution switchboards,            Pow-R-Command scenarios
+     panelboards and point-of-use          allowing customers varying             blinking lights
+     applications. Field installation      degrees of control. For more         ● Manual load override
+14   is required.                          information on upgrading               control
+     Benefits                              your building to include the         ● Brownout and power
+                                           energy savings and control             failure recovery
+15   ● The SPD Series can be
+       externally mounted to
+                                           of Pow-R-Command lighting            ● Telephone override
+                                           control systems, contact your          of schedules
+       existing distribution
+16     equipment
+                                           local Eaton Field Sales office.      ● Switch override of
+     ● Surge ratings: 50, 80, 100,                                                schedules
+                                                                                  Remote access to system
+17
+                                                                                ●
+       120, 160, 200, 250, 300
+       and 400 kA                                                               ● Dimming systems for
+     ● Standard NEMA 1                                                            fluorescent fixtures
+18     enclosure, optional                                                      ● Priority load management
+       NEMA 4 and 4X
+
+19     Surface or flush mounting
+     ●
+
+     ● Full range of diagnostic
+       and monitoring options
+20   ● Remote mountable
+       display panel
+21   ● Available with optional
+       internal disconnect
+
+22   For more information about
+     the SPD Series surge
+     protection, contact your local
+23   Eaton Field Sales office.
+
+
+24
+25
+     V12-T4-20            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—June 2018 www.eaton.com
+

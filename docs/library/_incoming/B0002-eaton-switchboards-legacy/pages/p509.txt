@@ -1,0 +1,95 @@
+                                                                                                  Switchgear
+                                                              Allis-Chalmers LA Breakers—Trip Unit Retrofit Kits
+                                                                                                                                   17
+Digitrip RMS Retrofit                 Chronology                           3. The breaker compartment          5. RMS 510 Zone, 610,
+Kits for Allis-Chalmers               Digitrip RMS retrofit kits and          doors on the switchgear             810 and 910 retrofit kits    1
+                                      replacement trip units for              assembly must be                    include a cell terminal
+LA Breakers                                                                   free of panel-mounted               block assembly that
+                                      Allis-Chalmers LA breakers
+                                      became available in 1991. The           instruments (i.e., meters,          must be installed in the     2
+                                      Digitrip RMS 510 model is the           instruments, control                switchgear assembly.
+                                                                              switches, indicating                Internal switchgear
+                                      modern day replacement for
+                                      electromechanical trip device           lamps, etc.) or the                 wiring to accommodate        3
+                                      or peak sensing solid-state             retrofitted breaker may             the customer application
+                                      trip systems.                           interfere with these
+                                                                              devices when the
+                                                                                                                  schemes must be added
+                                                                                                                  in the field.
+                                                                                                                                               4
+                                      Replacement and                         compartment door
+                                      Upgrade Capabilities                    is closed.                       6. RMS 610, 810 and 910
+                                                                                                                  retrofit kits require
+                                                                                                                                               5
+                                      Replacement and upgrade              4. When the ground fault               a customer supplied
+                                      capabilities include
+                                      replacement Digitrip trip units
+                                                                              (G) option is selected,             120 Vac source               6
+                                                                              please observe the                  connected to the cell
+                                      and rating plugs, Digitrip trip         following:                          terminal block assembly
+                                      unit upgrades, Digitrip RMS
+                                      trip unit retrofit kits and              a. For three-phase, three-
+                                                                                                                  to power the Digitrip        7
+ Allis-Chalmers LA 600 Gold Breaker                                                                               RMS digital displays
+       Retrofitted with Digitrip      upgrade retrofit kits. For                  wire solidly grounded           and communications
+         RMS 810 Retrofit Kit
+                                      definitions of these solutions,             systems, choose                 functions (as applicable).   8
+                                      see Page V12-T17-19.                        quantity three current
+                                                                                  sensors in the catalog       7. Refer all LAF (LA
+                                      For Digitrip RMS trip unit                  number development.             breakers with current        9
+                                      retrofit kits and upgrade                                                   limiters) breakers to
+                                      retrofit kits, choose or create          b. For three-phase, four-
+                                                                                                                  the Digitrip Retrofit
+                                      the Digitrip RMS retrofit kit               wire solidly grounded
+                                                                                                                  Kit Service Center
+                                                                                                                                               10
+                                      catalog number to match the                 systems, choose
+                                                                                  quantity four current           at 1-800-937-5487
+                                      Allis-Chalmers LA breaker
+                                      type, retrofit kit type,                    sensors in the catalog          for evaluation.              11
+     Typical RMS 810 Retrofit Kit     protection function, rating                 number development.
+      for Allis-Chalmers LA 600                                                   Three sensors are
+    Gold Power Circuit Breaker        plug type, current sensor
+                                      type, CPT and type of kit                   mounted on the                                               12
+Product Description                   required for application.                   breaker and one
+Digitrip RMS retrofit kits for        See the example provided                    sensor is mounted
+                                                                                  on the switchgear
+                                                                                                                                               13
+Allis-Chalmers LA power               on Page V12-T17-42.
+circuit breakers were first                                                       neutral. Hardware to
+introduced in 1991. For a             Application Notes for                       mount the current                                            14
+complete description of the
+                                      Allis-Chalmers LA Power                     sensor on the
+                                      Circuit Breakers                            switchgear neutral
+Digitrip RMS trip system and
+the features of models RMS             1. Retrofit kits are for                   and provisions to wire                                       15
+510, 610, 810 and 910, see                  use on 50 and 60 Hz                   it into the trip unit
+                                            distribution systems.                 circuit (including a
+Page V12-T17-20.
+                                                                                  required pair of                                             16
+Ratings                                2. All retrofit kits are                   breaker secondary
+                                          designed for drawout
+Digitrip RMS retrofit kits are
+applied on Allis-Chalmers
+                                          power circuit breakers
+                                                                                  disconnecting
+                                                                                  contacts) are not
+                                                                                                                                               17
+                                          only. Refer all fixed-                  included in the kit.
+breakers from 600A (LA 600)               mounted breaker
+to 3000A (LA 3000). The rating            applications to the                                                                                  18
+plug and the current sensor               Digitrip Retrofit Kit
+act in concert to provide for a
+wide spectrum of overload
+                                          Service Center at
+                                          1-800-937-5487.
+                                                                                                                                               19
+and short-circuit settings.
+                                                                                                                                               20
+                                                                                                                                               21
+                                                                                                                                               22
+                                                                                                                                               23
+                                                                                                                                               24
+                                                                                                                                               25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com       V12-T17-41
+

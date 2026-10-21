@@ -1,0 +1,145 @@
+                                                                                                            IQ Products
+                                                                                                                                                        10
+Product History                   The latest next generation          The IQ 250 and IQ 260                                 The IQ DP-4000 and the IQ
+Originally a
+                                  addition to metering is the         meters provide revenue                                AnaIyzer provide advanced                    1
+Westinghouse Product              Power Xpert® Meter product          grade accuracy with standard                          metering functions including
+                                  series. The Power Xpert             Modbus® communications                                the ability to monitor power
+In the early 1980s, power
+metering and protective
+                                  Meter power quality                 and optional I/O capability.                          quality parameters. IQ Energy                2
+                                  instrument monitors critical                                                              Sentinels provide a low cost
+relaying functions were           aspects of an electrical            The IQ 130/140/150 meters                             method to monitor energy
+performed by electro-             distribution system. This           provide basic monitoring and                          usage for individual feeders                 3
+mechanical devices. Analog        premier power quality               energy metering for feeder
+meters and induction disk                                                                                                   or loads.
+                                  metering instrument uses the        applications and optional
+protective relays were found      latest in advanced technology       Modbus communications.                                The Power Xpert Multi-Point                  4
+on virtually every switchgear     to make it simple to use,                                                                 Meter provides cost-effective
+lineup manufactured up to                                             The IQ 35M provides energy
+that time. With the maturing
+                                  powerful, scalable and highly
+                                  flexible. Power Xpert Meters        monitoring at the panelboard
+                                                                                                                            and space-saving energy
+                                                                                                                            submetering for a wide
+                                                                                                                                                                         5
+of solid-state electronics,       offer a new level of intuitive      level as well as retrofit                             variety of applications.
+microprocessor-based                                                  applications.
+replacements for the electro-
+                                  user interface design,
+                                  presenting critical electrical                                                            The MP-3000 added
+                                                                                                                                                                         6
+mechanical devices became                                             The IQ 150S/250S provides                             increased motor protection
+                                  distribution system information
+                                                                      wireless energy metering.
+available. These new devices
+provided increased
+                                  in a simple-to-navigate                                                                   capability. The FP-5000,
+                                                                                                                            introduced in 2001, provides
+                                                                                                                                                                         7
+                                  and easy-to-understand              The enclosed metering
+functionality and flexibility,    information architecture.                                                                 overcurrent protection for
+                                                                      offering adds flexibility in
+in a smaller space, for less
+cost. Westinghouse led the        The Power Xpert Meter’s             monitoring with Eaton’s                               distribution feeders.                        8
+movement toward electronic        4000/6000/8000 graphic              latest line of meters where
+metering and protection           display visualizes the              metering is needed.
+                                                                                                                                                                         9
+devices with the introduction     information from up to 16
+of the IQ 2000 motor              Power Xpert PQ instruments.
+protection and control            The embedded Web server
+                                                                      Product History Time Line
+                                                                                                                                                                         10
+relay. In 1987, the IQ 2000       displays complex power               Page    Product                        1980   1985   1990   1995   2000   2005   2010   Present
+functions were split and          quality data using standard
+two new products were             Internet browsers and allows
+                                                                       V12-T10-36
+                                                                       V12-T10-36
+                                                                                    IQ 2000 Model (A)
+                                                                                    IQ 2000 Model (B)
+                                                                                                                                                                         11
+introduced—the IQ 1000            for device configuration from        V12-T10-37   IQ 1000
+and the IQ Data Plus. The         the browser. Both the local
+IQ 1000 provided all current      graphic display and the
+                                                                       V12-T10-37
+                                                                       V12-T10-28
+                                                                                    IQ 1000 II
+                                                                                    MP-3000                                                                              12
+monitoring and motor              embedded Web server                  V12-T10-37   IQ Data Plus
+protection functions and          present real time, historical
+                                                                                                                                                                         13
+                                                                       V12-T10-37   IQ Data Plus II
+                                                                       V12-T10-25   IQ DP-4000
+was developed for use on          and event information in a
+                                                                                    AEM
+AMPGARD® medium voltage           browser-style graphical format                    AEM II
+starters and low voltage motor
+control assemblies. The IQ
+                                  to help the user interpret key
+                                  circuit information such as
+                                                                                    IQ 500                                                                               14
+                                                                       V12-T10-37   IQ Data
+Data Plus provided complete       current loading, voltage and         V12-T10-38   IQ Generator
+electrical metering and           power levels, power factor,                       AR (Addressable Relay)                                                               15
+system voltage protection,        energy usage, I/O status and         V12-T10-32   ARII (Addressable Relay II)
+and was developed for use         power quality measurements,          V12-T10-26   IQ Energy Sentinel
+on low and medium voltage         as well as harmonic plots,           V12-T10-26
+                                                                                       (Breaker Mount)
+                                                                                    IQ Energy Sentinel                                                                   16
+switchgear, as well as            disturbance and transient                            (Universal Mount)
+AMPGARD and low voltage           waveforms, and an ITIC                            Digitrip MV
+motor control assemblies.         disturbance summary screen.          V12-T10-30   DT-3000
+                                                                                    CED
+                                                                                                                                                                         17
+                                  The Power Xpert 2000 Series                       CED II
+                                  Meter offers the same level          V12-T10-24
+                                                                       V12-T10-36
+                                                                                    IQ Analyzer
+                                                                                    IQ Analyzer 6000/6200
+                                                                                                                                                                         18
+                                  of intuitive user interface
+                                                                       V12-T10-24   IQ Analyzer 6400/6600
+                                  design as the Power Xpert
+                                  4000/6000/8000 Meter with
+                                                                       V12-T10-15
+                                                                       V12-T10-17
+                                                                                    Power Xpert 4000/6000/8000
+                                                                                    Power Xpert 2000
+                                                                                                                                                                         19
+                                  its embedded Web server              V12-T10-29   FP-5000
+                                  to provide data logging and
+                                  e-mail and the ability to
+                                                                       V12-T10-19
+                                                                       V12-T10-27
+                                                                                    IQ 250/260
+                                                                                    IQ 230                                                                               20
+                                                                       V12-T10-38   IQ 300
+                                  visualize steady-state harmonic
+                                                                                                                                                                         21
+                                                                                    IQ Multipoint Energy
+                                  content as well as waveform                          Submeter
+                                  recording that is critical for       V12-T10-42   IQ Multipoint Energy
+                                                                                       Submeter II
+                                  power quality analysis.
+                                  Since then, the IQ Metering
+                                                                       V12-T10-40
+                                                                       V12-T10-41
+                                                                                    IQ 110/115
+                                                                                    IQ Power Sentinel
+                                                                                                                                                                         22
+                                                                       V12-T10-39   IQ 210/220
+                                  and Protection product
+                                  family has grown to include
+                                                                       V12-T10-20
+                                                                       V12-T10-21
+                                                                                    IQ 130/140/150
+                                                                                    IQ 150S/250S                                                                         23
+                                  additional products for both         V12-T10-22   IQ 35M
+                                  metering and protective              V12-T10-23
+                                                                                                                                                                         24
+                                                                                    Enclosed Meters
+                                  functions.
+
+                                                                                                                                                                         25
+               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                  V12-T10-3
+

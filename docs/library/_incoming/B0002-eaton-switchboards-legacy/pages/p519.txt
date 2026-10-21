@@ -1,0 +1,133 @@
+                                                                                                                                        Switchgear
+                                                                                                           Other Breakers—Trip Unit Retrofit Kits
+                                                                                                                                                                                    17
+Digitrip Retrofit Kits for Other Breakers Catalog Numbering System
+                                                                                                                                                                                                1
+                                                      RS6 8 6 6 4Q 4 6 – T C S U
+                                                                                                                                                                                                2
+
+            Trip Unit Type 1                         RP       No Rating Plug                       T = Digitrip 510, 610, 810, 910                N = Standard kit                              3
+          5 = 510 basic                             Cat.      Current Rating                                                                      U = Upgrade kit from
+
+                                                                                                                                                                                                4
+          Z = 510 zone int.                         Code                                                                                              Digitrip 500/510
+                                                               Tap     Plug
+          6 = 610                                                                      N = No sensors
+                                                    21       200      100
+          8 = 810                                                                      3 = Three sensors                                    N = Standard kit
+                                                    22       200      200
+                                                                                                                                                                                                5
+          9 = 910                                                                      4 = Four sensors                                     S = Simplified cell harness
+                                                    32       300      200
+                                                    3Q       300      250                                                                   R = Cell harness removed
+                         Protection                 33       300      300
+                       1 = LI
+                       2 = LSI
+                                                    42
+                                                    4Q
+                                                             400
+                                                             400
+                                                                      200
+                                                                      250
+                                                                                                                                       N = No CPT supplied
+                                                                                                                                       C = Breaker-mounted CPT
+                                                                                                                                                                                                6
+                                                    43       400      300
+                       3 = LS                       44       400
+                                                                                                                                                                                                7
+                                                                      400
+                       4 = LIG                      63       600      300
+                       5 = LSG                      64       600      400                 Code             Breaker Frame Description           Sensor             Current Rating of
+                       6 = LSIG                     66       600      600                                                                        Code        Sensor and Available Taps
+                                                    84
+                                                    86
+                                                             800
+                                                             800
+                                                                      400
+                                                                      600
+                                                                                                   ALL FRAMES                                  S           NO SENSORS PROVIDED                  8
+                     N = No rating plug                                                   RS6      Roller-Smith RS-25A                         6           600, 400, 300, 200
+                     6 = 50/60 Hz plug              88       800      800
+                                                    T6
+                                                    T8
+                                                             1200
+                                                             1200
+                                                                      600
+                                                                      800
+                                                                                          SS8
+                                                                                          SSC
+                                                                                                   GTE-Sylvania SSPB 800
+                                                                                                   GTE-Sylvania SSPB 1600
+                                                                                                                                               8
+                                                                                                                                               C
+                                                                                                                                                           800, 400, 200
+                                                                                                                                                           1600, 1200
+                                                                                                                                                                                                9
+                                                    TA       1200     1000                FH6      Federal Pioneer 25-H(L)-2                   6           600, 300
+                                                    TT
+                                                    C8
+                                                             1200
+                                                             1600
+                                                                      1200
+                                                                      800                 FH8      Federal Pioneer 30-H(L)-3                   8           800, 400                             10
+                                                    CA       1600     1000                FHC      Federal Pioneer 50-H(L)-2                   C           1600, 800
+                                                    CT       1600     1200
+                                                                                                                                                                                                11
+                                                                                          FHD      Federal Pioneer 65-H(L)-2                   D           2000, 1200
+                                                    CC       1600     1600                LK8      B.B.C. LKD-8                                8           800
+                                                    DA       2000     1000
+                                                    DT       2000     1200                                                                     6           600
+                                                    DC
+                                                    DD
+                                                             2000
+                                                             2000
+                                                                      1600
+                                                                      2000                MBC      B.B.C. MB-16
+                                                                                                                                               4
+                                                                                                                                               C
+                                                                                                                                                           400
+                                                                                                                                                           1600
+                                                                                                                                                                                                12
+                                                    JC       3200     1600                                                                     T           1200
+                                                    JD
+                                                    JF
+                                                             3200
+                                                             3200
+                                                                      2000
+                                                                      2400                                                                     8           800                                  13
+                                                    JJ       3200     3200                LKJ      A.B.B. MB-3200, B.B.C. LK-3200              J           3200
+
+                                                                                                                                                                                                14
+Note
+
+                                                                                                                                                                                                15
+1 At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910.
+
+
+
+Sample shown is a Digitrip                          This information is subject
+Retrofit Kit for an RS-25A,
+with an RMS 810 trip unit,
+                                                    to change. Updated pricing
+                                                    and availability information
+                                                                                                                                                                                                16
+with LSIG protection, with a                        is included in the Retrofit Kit
+60 Hz plug, rated at 250A for                       Product Guide. For a copy                                                                                                                   17
+a sensor tap of 400A, four                          of the Retrofit Kit Product
+sensors (for a four-wire                            Guide, contact your local
+ground system) that have                            Eaton Field Sales office or the                                                                                                             18
+sensor taps of 600, 400, 300                        Digitrip Retrofit Kit Service
+and 200A , there is a breaker-                      Center at 1-800-937-5487.
+mounted CPT with the kit,                                                                                                                                                                       19
+the cell wiring is simplified
+(only 6 wires vs. 16), and
+the breaker was previously
+                                                                                                                                                                                                20
+retrofitted with a Digitrip 500/
+510, so this is an upgrade kit.                                                                                                                                                                 21
+                                                                                                                                                                                                22
+                                                                                                                                                                                                23
+                                                                                                                                                                                                24
+                                                                                                                                                                                                25
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                    V12-T17-51
+

@@ -1,0 +1,96 @@
+                                                                                Motor Control Centers
+                                                                                                              Upgrades
+                                                                                                                                            14
+Technology Upgrades                   SV9000 Drives                        IT-EM Technology                     Series C Retrofit Kits
+SPD Upgrade                                                                In addition to standard retrofit     Series C retrofit kits are to           1
+                                                                           capabilities, every vintage          be used to upgrade existing
+                                                                           of MCC can be upgraded
+                                                                           with IT-EM motor starters.
+                                                                                                                Type W, 5 Star and F10 motor
+                                                                                                                control center buckets by
+                                                                                                                                                        2
+                                                                           Consult factory for other            changing out the old breakers
+                                                                           manufacturer’s motor
+                                                                           control centers.
+                                                                                                                with the Series C. These kits
+                                                                                                                can be applied to both starter
+                                                                                                                                                        3
+                                                                                                                and feeder units.
+                                                                                                                The old breakers that these
+                                                                                                                                                        4
+                                                                                                                kits will upgrade include, but
+                                                                                                                are not limited to, the MCP,            5
+                                                                                                                F, FA, FB, HFB, K, KA, KB,
+                                                                                                                HKB, L, LA, LB and HLB
+                                                                                                                breakers.                               6
+                                                SV9000 AC Drive
+                                                                                                                5 Star Series C Retrofit Kit
+           F2100 SPD Unit
+                                      Cutler-Hammer SV9000
+                                      adjustable frequency drives
+                                                                                                                                                        7
+Surge Protective                      are available for retrofit units             5 Star/Series 2100
+
+Device—MCC                            in a number of MCC vintages.                                                                                      8
+                                      For current vintage Freedom
+The Eaton SPD Series surge            and Advantage MCCs,
+protective device is a hybrid         SV9000 drives are available                                                                                       9
+MOV filter-based suppression          through 1100 hp at 480V.
+system that protects sensitive
+electronic equipment from
+                                      Type W, F10, Freedom
+                                      Unitrol motor control center
+                                                                                                                                                        10
+damaging transients, lightning        vintage units are available
+surges and electrical line
+noise. The SPD is installed in
+                                      with SV9000 drive in plug-in
+                                      configurations through 30 hp
+                                                                                                                                                        11
+parallel to the electrical circuits   at 480V. Each retrofit unit
+                                                                                                                      5 Star Series C Retrofit Kit
+
+                                                                                                                                                        12
+                                                                                        Type W
+in a motor control center and         includes an SV9000 drive                                                  The 5 Star Series C retrofit
+provides clean power to the           (variable or constant torque)                                             kit includes:
+motor starting circuits. The          disconnect, a CPT and a 3%
+SPD only reacts and keeps             input and output line reactor.
+                                                                                                                ●   Series C device, 65 kA              13
+damaging surge current and                                                                                          (either HMCP or thermal-
+                                      SV9000 drives provide the
+high frequency noise away                                                                                           magnetic breaker)
+from motor starting circuits
+                                      highest performance and
+                                      reliability available for flexible                                        ●   Operating handle                    14
+when the system’s nominal             and smooth motor control.                                                     mechanism, including
+operating voltage is exceeded.
+The latest Eaton SPD Series
+                                                                                                                    tripped indication and
+                                                                                                                    push-to-trip
+                                                                                                                                                        15
+protective devices are                                                                                          ●   Label stating that the MCC
+substantially smaller, safer
+and more compact than
+                                                                                          F10                       unit has been retrofitted           16
+                                                                                                                    with Series C device
+their predecessors, providing                                                                                       suitable for 65 kA (similar
+better performance and                                                                                              to UL quality label)                17
+easier installation.                                                                                            ●   Templates for desired
+The new Eaton SPD Series                                                                                            frame size                          18
+are available in size ranges                                                                                    ●   Assembly instructions
+from 50 to 400 kA and can
+be retrofitted to all Cutler-                                                                                   Note: The upgrade interrupting
+                                                                                                                rating of the breaker does not
+                                                                                                                                                        19
+Hammer and Westinghouse                                                                                         upgrade the withstand rating of
+vintage MCCs. Consult the
+factory for further information.
+                                                                                                                the existing bus.                       20
+                                                                                                                                                        21
+                                                                                                                                                        22
+                                                                                                                                                        23
+                                                                                                                                                        24
+                                                                                                                                                        25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                 V12-T14-15
+

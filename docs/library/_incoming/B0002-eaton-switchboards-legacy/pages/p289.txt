@@ -1,0 +1,76 @@
+                                                                                                              IQ Products
+                                                                                                                 Current Products
+                                                                                                                                                      10
+IQ DP-4000/4100                     Features and Benefits               Product Selection
+                                    ●   Space savings in                                                                                                          1
+                                        structure—replaces              IQ DP-4000/4100 Ordering Information
+                                        conventional individual
+                                        metering devices                Description
+                                                                                                                                                Catalog
+                                                                                                                                                Number
+                                                                                                                                                                  2
+                                    ●   Standardization of
+                                        design—one door-
+                                                                        Separate source without I/O capability                                  IQDP4010
+                                                                                                                                                                  3
+                                        mounted device                  Separate source control power without I/O, DC supply                    IQDP4020
+                                        Direct voltage input up
+                                                                                                                                                                  4
+                                    ●                                   Three-phase without I/O capability                                      IQDP4030
+                                        to 600V                         Separate source with I/O capability                                     IQDP4110
+                                    ●   New DIP switch design
+                                                                                                                                                                  5
+                                                                        Separate source control power with three Form C relay output contacts   IQDP4120
+                                    ●   Standardization of CT and       and one sync pulse input, DC supply
+         IQ DP-4000/4100
+                                        PT connections                  Three-phase with I/O capability                                         IQDP4130
+General Description                     With additional PTs and set
+                                                                                                                                                                  6
+                                    ●
+
+
+Eaton’s IQ DP-4000 is a                 points the device can be
+microprocessor-based meter              used in HV setting
+providing complete electrical       ●   Relaying included in I/O                                                                                                  7
+metering and system voltage             module (Model 4100)
+protection. In one compact,             Optional interface capability
+                                                                                                                                                                  8
+                                    ●
+
+standard package the IQ                 to computer network for
+DP-4000 provides an                     data collection, storage and/
+alternative to individually
+mounted and wired
+                                        or printout via PowerNet—
+                                        Eaton leading power
+                                                                                                                                                                  9
+conventional meters and                 distribution monitoring
+switches. The IQ DP-4000
+also monitors apparent power
+                                        network                                                                                                                   10
+                                    ●   Retains present
+(VA), reactive energy (VAR-
+                                        parameters through power
+hours), apparent energy (VA-
+hours), and % total harmonic
+                                        failure with non-volatile                                                                                                 11
+                                        memory
+distortion (THD) to provide the
+user with basic power quality                                                                                                                                     12
+information. The IQ DP-4000
+meets and surpasses
+UL/CSA/CE standards.                                                                                                                                              13
+                                                                                                                                                                  14
+                                                                                                                                                                  15
+                                                                                                                                                                  16
+                                                                                                                                                                  17
+                                                                                                                                                                  18
+                                                                                                                                                                  19
+                                                                                                                                                                  20
+                                                                                                                                                                  21
+                                                                                                                                                                  22
+                                                                                                                                                                  23
+                                                                                                                                                                  24
+                                                                                                                                                                  25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                            V12-T10-25
+

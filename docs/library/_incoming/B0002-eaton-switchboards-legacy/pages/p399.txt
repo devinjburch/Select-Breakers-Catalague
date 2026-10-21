@@ -1,0 +1,87 @@
+     13                                  Motor Control
+                                         Contactors, Starters and Brakes
+
+
+
+     Replacement Capabilities
+1
+                                 Replacement Capabilities for C80 Mill Type DC Contactors
+2                                                                Part Numbers
+                                                                 Size 2
+                                                                 Single-Pole,               Size 3         Size 4         Size 5         Size 6         Size 6A
+3                                                                Two-Pole,                  Single-Pole    Single-Pole    Single-Pole    Single-Pole    Single-Pole    Size 8
+                                                                 Three-Pole and             NO, NC         NO, NC         NO, NC         NO, NC         NO, NC         Single-Pole
+                                 Description                     Ltl® 25 and 50A            and Ltl 100A   and Ltl 150A   and Ltl 300A   and Ltl 600A   and Ltl 810A   NO 1350A
+4    Set of Contact              Set of Contacts
+                                 Single-pole copper              6-599                      6-189          6-189          6-189-3        6-189-4        6-189-4        6-215
+5                                Single-pole silver              —                          6-189-5        6-189-6        6-189-7        6-189-8        6-189-8        6-215-2
+                                 Two-pole copper                 6-169-4                    —              —              —              —              —              —
+6                                Three-pole copper               6-169-5                    —              —              —              —              —              —
+
+
+7
+8    Arc Shield                  Arc Shield
+                                 Right hand                      73-2676-2                  62-791         62-791         62-793         62-840         62-840         62-804
+9                                Left hand                       73-2676                    62-791-2       62-791-2       62-793-2       62-840-2       62-840-2       62-804
+
+
+10
+     Coils                       Coils
+
+11                               Single-pole NO 100V             9-1549-18                  9-1583-15      9-1583-15      9-1589-10      9-1688-8       9-1688-8       9-547-7 1
+                                  115V                           9-1549-2                   9-1583-2       9-1583-2       9-1589-2       9-1688-2       9-1688-2       9-547-7 1
+
+12                                115V                           9-1549-2                   9-1583-2       9-1583-2       9-1589-2       9-1688-2       9-1688-2       9-547-7 1
+                                  550V                           9-1549-3                   9-1583-3       9-1583-3       9-1589-3       9-1688-3       9-1688-3       9-547-28 1
+
+13                               Single-pole NC 100V
+                                  115V
+                                                                 —
+                                                                 —
+                                                                                            9-1585-18
+                                                                                            9-1585-2
+                                                                                                           9-1585-18
+                                                                                                           9-1585-2
+                                                                                                                          9-967-13
+                                                                                                                          9-967-8
+                                                                                                                                         9-1717-4
+                                                                                                                                         9-1717-1
+                                                                                                                                                        —
+                                                                                                                                                        —
+                                                                                                                                                                       —
+                                                                                                                                                                       —
+
+14
+                                  230V                           —                          9-1585-1       9-1585-1       9-967-7        9-1717-2       —              —
+                                  550V                           —                          9-1585-3       9-1585-3       9-967-12       9-1717-3       —              —
+                                 Single-pole Ltl 2 100V
+15
+                                                                 9-1549-18                  9-1583-15      9-1583-15      9-1589-10      9-1688-8       —              —
+                                  115V                           9-1549-2                   9-1583-2       9-1583-2       9-1589-2       9-1688-2       —              —
+                                  230V                           9-1549-1                   9-1583-1       9-1583-1       9-1589-1       9-1688-1       —              —
+16                                550V                           9-1549-3                   9-1583-3       9-1583-3       9-1589-3       9-1688-3       —              —
+                                 Two-pole 100V                   9-1585-18                  —              —              —              —              —              —
+17                                115V                           9-1585-2                   —              —              —              —              —              —
+                                  230V                           9-1585-1                   —              —              —              —              —              —
+18                                550V                           9-1585-3                   —              —              —              —              —              —
+                                 Three-pole 100V                 9-1585-18                  —              —              —              —              —              —
+19                                115V                           9-1585-2                   —              —              —              —              —              —
+                                  230V                           9-1585-1                   —              —              —              —              —              —
+20                                550V                           9-1585-3                   —              —              —              —              —              —
+
+
+21   Technology Upgrades
+     This product currently listed in Volume 5—Motor Control and Protection, CA08100006E, Tab 4.
+
+22   Notes
+     1 Series resistor used with coil for voltage shown.
+     2 Magnet closing coil only. If holdout coil is required, give number stamped on coil or advise
+
+23     Bulletin or Serial Number of controller.
+
+
+
+24
+25
+     V12-T13-62                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

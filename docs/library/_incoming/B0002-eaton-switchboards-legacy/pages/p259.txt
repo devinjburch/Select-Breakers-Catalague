@@ -1,0 +1,72 @@
+     9                      Busway (Low Voltage)
+                            Replacement Capabilities—Quick-Assembled Plugs
+
+
+
+     Quick-Assembled Plugs             Catalog Numbering Selection
+1    The Mod Center in
+     Spartanburg, SC, will perform     Quick-Assembled Plugs—Breaker Unit 12
+2    the assembly of the bus
+     plugs in 3 days or less for
+     most orders. Bid Manager™
+                                                                                       P3B HFD 3 015 G N
+3    enables you to “build” the
+     appropriate catalog number.             Bus Style                                                                                                       Neutral Options
+     When the order is entered                                    Breaker Frame                                                   Ground Option
+4
+                                           P3B = PRWIII                                                                                                    N = 100% neutral
+     in Bid Manager, it will               IBP = PRW             (Example FD,           Three-Pole          Trip Rating         G = 50% internal           N2 = 200% neutral
+     automatically transfer the            BP = Old-line         JDC, KDB)                 Only           (Example 015,         I = Isolated ground             (PRW III only)
+     order to suffix “QAP.”                                                                                                         (PRWIII only)          ZN = Low Z
+5
+                                                                                                          060, 150, 400)
+                                                                                                                                                                (old line only)
+     Please see the following
+     rules for building the
+6    assembled catalog number.
+                                       Quick-Assembled Plugs—Fusible Unit 234
+
+7                                                                                         P3F 3 6 4 R G N
+8                                             Bus Style                                                                                                    Neutral Options
+                                           P3F = PRWIII                                                                                                 N = 100% neutral
+
+9                                          ITAP = PRW                        Voltage                                            Fuse Clips              N2 = 200% neutral
+                                           TAP = Old-line                 6 = 600V                    Ampere                 R or J ≤ 600A                   (PRW III only)
+                                                                          2 = 240V            1 = 30      5 = 400            T or L for 800A            ZN = Low Z
+                                                                                                                                                             (old line only)
+10                                             Three-Pole Only                                2 = 60
+                                                                                              3 = 100
+                                                                                                          6 = 600
+                                                                                                          7 = 800
+                                                                                              4 = 200                                                    Ground Options
+
+11                                                                                                                                                G = 50%
+                                                                                                                                                  I = Isolated (PRW III only)
+
+
+12
+                                       Notes
+                                       1 Do not leave space between characters. Example: P3BHFD3015GN.
+                                       2 Contact your local Eaton Field Sales office for help in assigning a catalog number for a specific application.
+
+
+13
+                                       3 Do not leave space between characters. Example: P3F264RGN.
+                                       4 “H” clips are standard for Pow-R-Way and vintage busway products unless specified by adding “R” or “J” in the catalog number.
+
+                                         Example: P3F264RGN, ITAP361JGN.
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T9-10        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

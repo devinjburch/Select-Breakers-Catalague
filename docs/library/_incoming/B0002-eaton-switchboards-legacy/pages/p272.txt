@@ -1,0 +1,90 @@
+     10                              IQ Products
+                                     General Information
+
+
+
+     Metering Selection Chart—Dimensions in Inches (mm), continued
+1    Device Name                           IQ Analyzer 6400/6600 Series        IQ DP-4000 Series                        IQ 230 Series
+     Accessories
+
+2
+     See Page V12-T10-31
+
+
+
+3
+4
+     Section Page Number                   V12-T10-24                          V12-T10-25                               V12-T10-27
+
+5    Electrical Parameters
+     Volts                                 ±0.2% FS 1                          ±0.3% FS                                 ±0.5% FS
+
+6    Amperes
+     Current range (% of nominal)
+                                           ±0.2% FS 1
+                                           3–800%
+                                                                               ±0.3% FS
+                                                                               10–250%
+                                                                                                                        ±0.5% FS
+                                                                                                                        1–200%
+                                           0.4% FS, 6 RV 2
+7
+     Watts                                                                     ±0.6% FS                                 ±1.0% FS
+     VARs                                  0.4% FS, 6 RV 3                     ±0.6% FS                                 ±1.0% FS
+     VA                                    0.4% FS, 6 RV 2                     ±0.6% FS                                 ±1.0% FS
+8    PF-apparent                           0.8% FS 1                           ±1.0% FS                                 ±2.0% FS
+     PF-displacement                       0.8% FS 1                           ±1.0% FS                                 ±2.0% FS
+9    Frequency                             0.04% 1 or 0.01 Hz                  ±0.17% FS                                ±0.1% Hz
+     THD-voltage                           50th                                31st                                     —
+10   THD-current                           50th                                31st                                     —
+     Watthours                             0.5% RV 2                           ±0.6% FS                                 ±1.0% per ANSI C12
+11   Varhours                              1% RV 3                             ±0.6% FS                                 ±1.0% per ANSI C12
+     VA-hours                              0.5% RV 2                           ±0.6% FS                                 ±1.0% per ANSI C12
+12   Ampere-demand                         ±0.2% FS 1                          ±0.3%                                    ±0.5% per ANSI C12
+     Watt-demand                           ±0.4% FS 1                          ±0.6%                                    ±1.0% per ANSI C12
+
+13   VAR-demand                            ±0.4% FS 1                          ±0.6%                                    ±1.0% per ANSI C12
+     VA-demand                             ±0.4% FS 1                          ±0.6%                                    ±1.0% per ANSI C12
+
+14   Revenue accuracy                      ANSI C12.20 (0.5%)                  —                                        ANSI C12.1 (1%)
+     Individual ampere harmonics           50th                                —                                        —
+
+15   Individual voltage harmonics          50th                                —                                        —
+     Interharmonics                        —                                   —                                        —
+
+16   Minimum and/or Maximum Values
+     Volts                                 L-L, L-N                            L-L, L-N                                 L-L, L-N
+
+17   Current
+     Power
+                                           A, B, C, N, G
+                                           Watt, VAR, VA
+                                                                               A, B, C
+                                                                               Watt, VAR, VA
+                                                                                                                        A, B, C
+                                                                                                                        Watt, VAR, VA
+
+18
+     Power factor                          Apparent/displacement               Apparent/displacement                    Apparent/displacement
+     Frequency                             Hertz                               Hertz                                    Hertz
+     THD                                   Amperes/volts                       Amperes/volts                            —
+19   Demand values                         All                                 All                                      All
+     Trend analysis                        Time/date                           2 alarms                                 4
+
+20   Event logging                         504 events w/timestamp              4                                        4
+
+
+     Disturbance recording                 10 waveform events                  —                                        —
+21   Notes                                                                             Legend: PG      = Programmable
+     1 From 3–300% of FS.                                                                      FS      = Full scale
+22   2 At unity power factory and 5–300% of FS.
+     3 At a power factor <±0.5 and 5–300% of FS.
+                                                                                               RV      = Read value
+
+     4 At computer only.
+
+23
+24
+25
+     V12-T10-8                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

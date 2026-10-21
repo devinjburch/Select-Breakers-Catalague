@@ -1,0 +1,67 @@
+     3                          Molded-Case Circuit Breakers
+                                Replacement Capabilities
+
+
+
+     Types NC, NCA, NCG, NCGA, MARK 75 Type HNC, HNCA, HNCG, HNCGA SELTRONIC with Solid-State Trip Units, 600 Vac
+1    Complete breaker requires frame and rating plug. See the table and terminals on Page V12-T3-60. Extra current transformer included
+     for neutral. See accessories on Page V12-T3-65 for remote ground fault trip indicator.
+2    ■ Shaded area denotes obsolete or discontinued products and services. 1
+
+     NC: 600 Vac          Type NC, NCA, MARK 75 Type HNC, HNCA SELTRONIC with Solid-State Trip Units, 600 Vac—Frame Only 2
+3                                                                                                                                          Long Delay, Short Time and Adjustable
+                          Number             Standard (Long Delay and Short Time)                           Short Time Only 4              Short Delay Time (0.08 –0.30 Seconds)
+
+4
+                          of Poles 3         Catalog Number                                                 Catalog Number                 Catalog Number
+                          Types NC and NCA (800–1200A)
+
+5
+                          2                  NC21200F                                                       NC21200FM                      NCA21200F
+                          3                  NC31200F                                                       NC31200FM                      NCA31200F
+                          Mark 75 Types HNC and HNCA (800–1200A)
+6                         2                  HNC21200F                                                      HNC21200FM                     HNCA21200F
+                          3                  HNC31200F                                                      HNC31200FM                     HNCA31200F
+7
+8    Types NCG, NCGA, and MARK 75 Types HNCG, HNCGA SELTRONIC with Built-In Ground Fault Protection
+     Complete breaker requires frame and rating plug. See the table and terminals on Page V12-T3-60. Extra current transformer included
+     for neutral. See accessories on Page V12-T3-65 for remote ground fault trip indicator.
+9
+     Note: The standard ground fault unit above can also be used without the neutral CT. Order two of the desired terminals for each pole of the breaker and
+     two for the neutral CT.
+10
+                          Types NCG, NCGA and MARK 75 Type HNCG, HNCGA SELTRONIC with Built-In Ground Fault Protection—
+11                        Frame Only
+                                             Standard (Long Delay, Short Time                Long Delay, Short Time, Adjustable                          Ground Fault Characteristics
+                          Number             and Ground Fault Trip)                          Short Delay Time, and Ground Fault Trip                     Pickup Setting
+12                        of Poles           Catalog Number                                  Catalog Number                                              Amperes            Time Setting
+                          Types NCG and NCGA (800–1200A) 5
+
+13                        3                  NCG31200F                                       NCGA31200F                                                  120–1200           3.5–30 Cy
+                          MARK 75 Types HNCG and HNCGA (800–1200A) 5
+
+14                        3                  HNCG31200F                                      HNCGA31200F                                                 120–1200           3.5–30 Cy
+
+                          Notes
+15                        1 These frames are obsolete. Effective 2/1/02, only the MARK 75 version is available. For replacement solutions, see the cross-reference on
+
+                             Pages V12-T3-114–V12-T3-167.
+                          2 Complete breaker requires frame and rating plug. See the table on Page V12-T3-60. For terminals, see the table on Page V12-T3-55.
+
+16                        3 Two-pole breakers are supplied in three-pole frames with current-carrying parts omitted from center pole.
+                          4 UL Recognized component.
+                          5 For applications other than standard residual scheme, see Application Data 29-160.
+
+17                        Type NC 1200A molded-case switch; refer to Page V12-T3-62. MARK 75 frame color changed from gray to black in mid-2002.
+
+
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T3-54          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

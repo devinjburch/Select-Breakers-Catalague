@@ -1,0 +1,98 @@
+                                                                                        Molded-Case Circuit Breakers
+                                                                                                                                                                                      3
+Series C Industrial Circuit Breakers—Dimensions in Inches (Per Three-Pole Breaker), Continued
+Maximum Amperes                                                                                                                                                                            1
+150A                     225A, 250A                                          400A                                                                      600A
+Current Design                                                                                                                                                                             2
+FDB, FD, HFD, FDC        JG                        JDB                       DK 1                 KD, HKD, KDC 1            KDB                        LG
+                         JD, HJD, JDC
+                         250A
+                                                   250A                                                                                                LD, HLD, LDB
+                                                                                                                                                                                           3
+                                                                                                                                                                                           4
+                                                                                                                                                                                           5
+Width: 4.13
+Height: 6.00
+                         Width: 4.13
+                         Height: 10.00
+                                                   Width: 4.13
+                                                   Height: 10.00
+                                                                             Width: 5.50
+                                                                             Height: 10.13
+                                                                                                  Width: 5.50
+                                                                                                  Height: 10.13
+                                                                                                                            Width: 5.50
+                                                                                                                            Height: 10.13
+                                                                                                                                                       Width: 8.25
+                                                                                                                                                       Height: 10.75
+                                                                                                                                                                                           6
+Depth: 3.38              Depth: 4.06               Depth: 4.06               Depth: 4.06          Depth: 4.06               Depth: 4.06                Depth: 4.06
+Replacement Circuit Breakers                                                                                                                                                               7
+FB 2, HFB                KB 2, HKB 2               JB 2                      DA 2                 LB 2, HLB 1               LBB 2                      LC 2, HLC
+                         250A                       250A                                                                                                                                   8
+Width: 4.13              Width: 4.13               Width: 4.13               Width: 5.50          Width: 5.50               Width: 5.50                Width: 8.25                         9
+Height: 6.00             Height: 10.00             Height: 10.00             Height: 10.13        Height: 10.13             Height: 10.13              Height: 10.75
+Depth: 3.38              Depth: 4.06               Depth: 4.06               Depth: 4.06          Depth: 4.06               Depth: 4.06                Depth: 4.06
+                         KA 2, HKA 2               JA 2                                           LA 2, HLA                 LAB 2                      LA 2, HLA                           10
+                         225A                      225A
+                                                                                                                                                                                           11
+                         Width: 5.50
+                         Height: 10.13
+                                                   Width: 5.50
+                                                   Height: 10.13
+                                                                                                  Width: 8.25
+                                                                                                  Height: 10.75
+                                                                                                                            Width: 8.25
+                                                                                                                            Height: 10.75
+                                                                                                                                                       Width: 8.25
+                                                                                                                                                       Height: 10.75
+                                                                                                                                                                                           12
+                         Depth: 4.06               Depth: 4.06                                    Depth: 4.06               Depth: 4.06                Depth: 4.06
+Out-of-Production Westinghouse Circuit Breakers                                                                                                                                            13
+FA, HFA                  JK                        J                                              JKL                                                  L, LM, HLM
+                            225A                       225A                                                                                                                                14
+*1974
+                         *1967                     *1967                                          *1967                                                                                    15
+Width: 4.13              Width: 8.25               Width: 8.25                                    Width: 8.25
+Height: 6.50
+Depth: 3.38
+                         Height: 10.75
+                         Depth: 4.06
+                                                   Height: 10.13
+                                                   Depth: 4.06
+                                                                                                  Height: 10.75
+                                                                                                  Depth: 4.06
+                                                                                                                                                                                           16
+*Indicates the last                                                                                                                                    *1967
+                         K, HK                                                                    KL, HKL
+date of manufacture.
+                              225A
+                                                                                                                                                       Width: 8.25
+                                                                                                                                                       Height: 22.00                       17
+                                                                                                                                                       Depth: 5.50
+                                                                                                                                                                  SPCB 600A,
+                                                                                                                                                                   SCB 600A
+                                                                                                                                                                                           18
+                                                                                                                                                              *1986 (Consult Eaton)
+                         *1967                                                                    *1967                                                                                    19
+                         Width: 8.25                                                              Width: 8.25                                          Width: 8.25
+                         Height: 15.50                                                            Height: 5.75                                         Height: 10.75
+                         Depth: 4.06                                                              Depth: 4.06                                          Depth: 4.06                         20
+Out-of-Production Cutler-Hammer Circuit Breakers Last Manufactured by Eaton in 1994
+FS, FH, FC, HFC          JS, JH, JL                JS                        KS-D, KS             KS-D, KH-D, KS, KH        KS-D, KH-D, KS, KH         LS(E), LH(E), LS(A), LH(A)          21
+                                                                                                                                                                                           22
+
+Width: 4.25              Width: 4.25               Width: 4.25               Width: 5.50          Width: 5.50               Width: 5.50                Width: 8.25
+                                                                                                                                                                                           23
+Height: 6.13             Height: 12.00             Height: 12.00             Height: 10.13        Height: 10.13             Height: 10.13              Height: 10.75
+Depth: 3.19              Depth: 3.81               Depth: 3.81               Depth: 3.81          Depth: 3.81               Depth: 3.81                Depth: 3.81
+                                                                                                                                                                                           24
+Notes
+
+                                                                                                                                                                                           25
+1 When upgrading a HLB, LBB to a Series C K-Frame in a panelboard application, also order    2   These frames are obsolete. For replacement solutions see the cross-reference on
+  TAD3 spacer kit.                                                                               Pages V12-T3-114–V12-T3-167.
+
+
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                V12-T3-11
+

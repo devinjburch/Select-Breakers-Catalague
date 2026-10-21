@@ -1,0 +1,80 @@
+     10                                 IQ Products
+                                        General Information
+
+
+
+     Protective Relay Selection Chart
+1                                                                         DT-3000                   FP-5000                   MP-3000
+
+
+2
+3
+     For Further Details and Information,
+
+4    See TD02600001TE.
+     Technical Data Number
+                                                   Device Name
+                                                   IEEE Device Number     TD.17.10.T.E              TD02602003E               TD.17.11.T.E
+
+5    Protection Functions
+     Directional power                             32                                               ■
+                                                                                                    ■
+6
+     Phase directional                             67
+     Ground directional                            67N                                              ■
+     Phase inst. OC                                50                     ■                         ■                         ■
+7    Phase TOC                                     51                     ■                         ■                         ■
+     Calc. residual ground IOC                     50G                                              ■
+8    Calc. residual ground TOC                     51G                                              ■
+     Ground inst. OC (measured)                    50G (N)                ■                         ■
+
+9    Ground TOC (measured)                         51G (N)                ■                         ■                         ■
+     Phase voltage restrained OC                   51VR                                             ■
+
+10   No. of curves (ANSI/IEC/thermal)                                     11                        10                         1
+     TOC time reset                                                                                 ■
+                                                                                                    ■                         ■
+11   Negative sequence OC (unbalance)
+     Negative sequence voltage
+                                                   46
+                                                   47                                               ■
+     Overvoltage                                   59                                               ■
+12   Undervoltage                                  27                                               ■
+     Underfrequency                                81U                                              ■
+13   Overfrequency                                 81O                                              ■
+     Breaker failure                               50BF                                             ■
+14   Zone interlocking                                                    ■                         ■
+     Thermal overload                              49                                                                         ■
+
+15   Locked rotor                                  49S/51                                                                     ■
+     Jam/stall                                     51R                                                                        ■
+
+16   Cold load pickup
+     Loss of load
+                                                                                                    ■
+                                                                                                                              ■
+                                                                                                    ■
+17
+     Power factor                                  55
+     Control Functions
+     Synchronization check                         25                                               ■
+18   Remote open/close                                                    ■                         ■                         Trip only
+     Programmable I/O                                                     ■                         ■                         ■
+19   Programmable logic                                                                             ■
+     Multiple setting groups                                                                        ■
+20   Number of starts limit                                                                                                   ■
+     Starts per hour                                                                                                          ■
+
+21   Time between starts                                                                                                      ■
+     Emergency restart                                                                                                        ■
+
+22   Reduced voltage starting
+     Trip lockout                                                         ■                         ■
+                                                                                                                              ■
+                                                                                                                              ■
+
+23
+24
+25
+     V12-T10-12                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

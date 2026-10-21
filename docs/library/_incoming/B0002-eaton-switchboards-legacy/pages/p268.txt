@@ -1,0 +1,100 @@
+     10                               IQ Products
+                                      General Information
+
+
+
+     Metering Selection Chart—Dimensions in Inches (mm)
+1    Device Name                             Power Xpert 4000/6000/8000 Series                      Power Xpert 2000                                 IQ 250/260 Series
+     Accessories
+
+2
+     See Page V12-T10-31
+
+
+
+3
+4    Section Page Number                     V12-T10-15                                             V12-T10-17                                       V12-T10-19
+
+5    Electrical Parameters
+     Volts                                   0.1% of RV + 0.02% FS                                  0.1% of RV                                       0.1% of RV
+
+6
+     Amperes                                 0.05% of RV + 0.01% FS                                 0.1% of RV                                       0.1% of RV
+     Current range (% of nominal)            0.005–20A (400%)                                       0.1–200%                                         0.1–200%
+
+7
+     Watts                                   0.1% of RV + 0.0025% FS                                0.2% of RV                                       0.2% of RV
+     VARs                                    0.1% of RV + 0.0025% FS                                0.2% of RV                                       0.2% of RV
+     VA                                      0.1% of RV + 0.0025% FS                                0.2% of RV                                       0.2% of RV
+8    PF-apparent                             0.1%                                                   0.2% of RV                                       0.2% of RV
+     PF-displacement                         0.1%                                                   —                                                —
+9    Frequency                               ±0.01 Hz                                               ±0.03 Hz                                         ±0.03 Hz
+     THD-voltage                             127th                                                  40th 2345                                        40th 6
+10   THD-current                             127th                                                  40th 2345                                        40th 6
+     Watthours                               ±0.2% per ANSI C12.20 0.2 Class 1                      ±0.2% per ANSI C12.20 0.2 Class 1                ±0.2% per ANSI C12.20 0.2 Class 1
+11   VAR-hours                               ±0.2% per ANSI C12.20 0.2 Class 1                      ±0.2% per ANSI C12.20 0.2 Class 1                ±0.2% per ANSI C12.20 0.2 Class 1
+     VA-hours                                ±0.2% per ANSI C12.20 0.2 Class 1                      ±0.2% per ANSI C12.20 0.2 Class 1                ±0.2% per ANSI C12.20 0.2 Class 1
+12   Ampere-demand                           0.05% of RV + 0.01% FS                                 ±0.1% per ANSI C12.20 0.2 Class                  ±0.1% per ANSI C12.20 0.2 Class
+     Watt-demand                             ±0.2% per ANSI C12.20 0.2 Class 1                      ±0.2% per ANSI C12.20 0.2 Class 1                ±0.2% per ANSI C12.20 0.2 Class 1
+
+13   VAR-demand                              ±0.2% per ANSI C12.20 0.2 Class 1                      ±0.2% per ANSI C12.20 0.2 Class 1                ±0.2% per ANSI C12.20 0.2 Class 1
+     VA-demand                               ±0.2% per ANSI C12.20 0.2 Class 1                      ±0.2% per ANSI C12.20 0.2 Class 1                ±0.2% per ANSI C12.20 0.2 Class 1
+
+14   Revenue accuracy                        ±0.2% per ANSI C12.20 0.2 Class 1                      ANSI C12.20 (0.2%)                               ANSI C12.20 (0.2%)
+     Individual ampere harmonics             85th 7                                                 40th 345                                         —
+
+15   Individual voltage harmonics            85th 7                                                 40th 345                                         —
+     Interharmonics                          Yes                                                    —                                                —
+
+16   Minimum and/or Maximum Values
+     Volts                                   L-L, L-N, N-G, VAUX L-L                                L-L, L-N                                         L-L, L-N
+
+17   Current
+     Power
+                                             A, B, C, N, G
+                                             Watt, VAR, VA
+                                                                                                    A, B, C, N
+                                                                                                    Watt, VAR, VA
+                                                                                                                                                     A, B, C
+                                                                                                                                                     Watt, VAR, VA
+
+18
+     Power Factor                            Apparent/displacement                                  Apparent                                         Apparent
+     Frequency                               Hertz                                                  Hertz                                            Hertz
+     THD                                     Amperes/volts (L-L, L-N, AUX L-L)                      Amperes/volts 2345                               Amperes/volts 6
+19   Demand values                           kW, kVAR, kVA, amperes                                 kW, kVAR, kVA, amperes                           kW, kVAR, kVA, amperes
+     Trend analysis                          2 / 4 8 / 8 9 GB                                       256 / 512 2 / 768 345 MB                         128 KB j
+20   Event logging                           2 / 4 8 / 8 9 GB                                       100,000 alarms/events with timestamp             k
+
+
+     Disturbance recording                   2 / 4 8 / 8 9 GB                                       768 MB 45                                        —
+21                                           60 cycles per event                                    up to 64 cycles per event 45
+
+     Notes                                              7 Individual values reported to 85th                Legend: PG = Programmable
+22   1 Under typical operating conditions.
+     2 PXM 2260 only.
+                                                          harmonic; anti-alias filtering prevents
+                                                          higher frequencies from distorting
+                                                                                                                       FS
+                                                                                                                       RV
+                                                                                                                              = Full scale
+                                                                                                                              = Read value
+     3 PXM 2270 only.                                     readings (see IEC 61000-4-7).                     Auxiliary voltage
+                                                                                                            (optional)        = Provides three additional voltage inputs to the
+23
+                                                        8 PMX 6000 only.
+     4 PXM 2280 only.
+     5 PXM 2290 only.
+                                                        9 PXM 8000 only.                                                           meter: Va2, Vb2, Vc2.
+                                                        j Optional.                                         Interharmonics = Power Xpert Meter 6000/8000 supported.
+     6 IQ 260 only.
+
+24
+                                                        k At computer only.
+
+
+
+
+25
+     V12-T10-4                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

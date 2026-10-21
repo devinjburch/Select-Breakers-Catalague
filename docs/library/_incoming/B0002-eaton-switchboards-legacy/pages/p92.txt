@@ -1,0 +1,102 @@
+                                                                    Molded-Case Circuit Breakers
+                                                                                                Replacement Capabilities
+                                                                                                                                                            3
+Drawout Frame                                             Selection Data 12
+                                                                                                                                                                      1
+                                   Drawout Frame
+These drawout frames are                                  Breaker                                 Stationary Mounting Frame        Movable Carrier Frame
+for use with standard three-                              Type                                    Style Number                     Style Number
+pole Cutler-Hammer molded-
+case circuit breakers. They
+                                                          HLA600, HLC600, LA600, LD, HLD 3        2603D84G01                       2608D35G06                         2
+consist of two separate                                   HMA, HMC, MDL, HMDL 3                   2603D85G01                       2608D34G10
+parts: stationary mounting
+frame and movable carrier
+                                                          HNB, HNC, ND, HND 3                     2603D85G01                       2608D34G08
+                                                                                                                                                                      3
+                                                          PB, PC, PCC 2000A 4                     2601D18G04                       Order by description 5
+frame. Slide rails are
+drawer-type, and a screw                                  PB 2500A, PC, PCC 2500A and 3000A 4     2601D18G05                       Order by description 5
+                                                                                                                                                                      4
+mechanism is used to
+engage or withdraw the             Ordering Information                         With Safety Interlock                   Notes
+movable carrier frame.             Note: SELTRONIC circuit                      Order stationary mounting               1 Safety interlock not available on MC, NC,   5
+                                   breakers with built-in ground fault          frame and movable carrier                 HMC, HNC, LC and HLC.
+The drawout frames have three      require a special breaker frame              frame as directed under
+                                                                                                                        2 SELTRONIC circuit breakers with built-in
+
+positions: connected, test and     with leads out the side in place of          optional features.                        ground fault require a special breaker      6
+disconnected. The frames do        standard terminal block. Order by                                                      frame with leads out the side in place
+                                                                                                                          of standard terminal block. Order by
+not include a safety tripping      description the breaker frame and            Racking Crank
+interlock or secondary             carrier as one assembly.                     A special crank to engage or
+                                                                                                                          description the breaker frame and carrier
+                                                                                                                          as one assembly.
+                                                                                                                                                                      7
+contacts. These are optional                                                    withdraw the moving portion             3 These units are UL Listed.
+                                   Standard Installation                        of the drawout. A standard
+items and may be ordered at
+additional cost.                   Order one stationary                         0.50-inch hex socket with
+                                                                                                                        4 Not UL Listed.
+                                                                                                                        5 Factory installed only.
+                                                                                                                                                                      8
+                                   mounting frame and one                       extension can be used for
+Breakers mounted in the
+drawout frames can be
+                                   movable carrier frame.                       this purpose.                                                                         9
+equipped with standard             Order breakers without
+                                   terminals or rear connectors.                Racking Crank
+breaker accessories including
+shunt trip, undervoltage                                                        Style Number
+                                                                                                                                                                      10
+                                   Order any attachments
+release, auxiliary switch,         desired (shunt trip,
+                                                                                                                                                                      11
+                                                                                765A767G01
+alarm switch and motor             undervoltage release, etc.)
+operator.                                                                       Cell Switches Mounted
+                                   Order secondary contacts                     on Drawout Frames,
+Optional Features                  as required:                                 All Ratings                                                                           12
+Safety Interlock                                                                Up to four switches can be
+This feature trips the breaker     ●   A shunt trip, an under-                  provided. Order by description.
+as the movable carrier frame           voltage release or an                                                                                                          13
+is withdrawn, and must be              alarm switch requires                    Each switch provides
+                                       two contacts                             NO and NC contact that
+factory installed. Order
+as follows.                        ●   A 1A-1B auxiliary switch                 transfers before reaching                                                             14
+                                       requires three contacts                  the test position when being
+Note: Safety interlock not
+available on MC, NC, HMC,
+                                   ●   A motor operator requires                withdrawn, and after the test
+                                                                                position when being racked
+                                                                                                                                                                      15
+HNC, LC and HLC.                       a maximum of four
+                                       contacts                                 in. Contact factory for pricing.
+For LA, MA and                     ●   Others as required                                                                                                             16
+NB Breakers
+Order standard stationary
+mounting frame. Order
+                                                                                                                                                                      17
+breaker and movable carrier
+frame assembled with                                                                                                                                                  18
+safety interlock.
+Secondary Contacts
+These are used to disconnect
+                                                                                                                                                                      19
+auxiliary circuits when
+attachments such as shunt                                                                                                                                             20
+trip or motor operator are
+used. Available in multiples
+of four contacts with a                                                                                                                                               21
+maximum of 24 contacts for
+the LA 600 or 32 contacts for
+the MA and NB. They must                                                                                                                                              22
+be factory mounted. Order
+by description as similar to
+stationary or moving frame
+                                                                                                                                                                      23
+and specify number of
+contacts required.                                                                                                                                                    24
+                                                                                                                                                                      25
+                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                              V12-T3-79
+

@@ -1,0 +1,140 @@
+                                                                                           Meter Centers
+                                                                                                                                       6
+Main Circuit Breaker
+Catalog Number                                                                                                                                 1
+Circuit                Front                  Drip                    Endwall                Endwall                Main
+Breaker
+1MCB250R
+                       Cover
+                       MCBFCVR1
+                                              Hood
+                                              MMDH1
+                                                                      (with Knockouts)
+                                                                      MMEW1
+                                                                                             (without Knockouts)
+                                                                                             MMEWNK01
+                                                                                                                    Breaker Cover
+                                                                                                                    49-7060
+                                                                                                                                               2
+1MHCB250R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MCB300R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060                    3
+1MHCB300R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MCB350R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060                    4
+1MHCB350R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MCB400R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MHCB400R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060                    5
+1MCB500R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MHCB500R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060                    6
+1MCB600R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+
+                                                                                                                                               7
+1MHCB600R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MCB700R               MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MHCB700R              MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MCB800R               MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060                    8
+1MHCB800R              MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+
+                                                                                                                                               9
+1MCB900R               MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MHCB900R              MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MCB1000R              MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MHCB1000R             MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060                    10
+1MCB1200R              MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+
+                                                                                                                                               11
+1MHCB1200R             MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+1MCB1400RB             MCBFCVR3               MCBDH1                  —                      MMEWNK03               49-7060
+1MCB1400RT             MCBFCVR3               MCBDH1                  —                      MMEWNK03               49-7060
+1MCB1600RB             MCBFCVR3               MCBDH1                  —                      MMEWNK03               49-7060                    12
+1MCB1600RT             MCBFCVR3               MCBDH1                  —                      MMEWNK03               49-7060
+
+                                                                                                                                               13
+1MCB2000RB             MCBFCVR3               MCBDH1                  —                      MMEWNK03               49-7060
+1MCB2000RT             MCBFCVR3               MCBDH1                  —                      MMEWNK03               49-7060
+3MCB250R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+3MHCB250R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060                    14
+3MCB300R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+3MHCB300R
+3MCB350R
+                       MCBFCVR1
+                       MCBFCVR1
+                                              MMDH1
+                                              MMDH1
+                                                                      MMEW1
+                                                                      MMEW1
+                                                                                             MMEWNK01
+                                                                                             MMEWNK01
+                                                                                                                    49-7060
+                                                                                                                    49-7060
+                                                                                                                                               15
+3MHCB350R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+3MCB400R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060                    16
+3MHCB400R              MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+3MCB500R
+3MHCB500R
+                       MCBFCVR1
+                       MCBFCVR1
+                                              MMDH1
+                                              MMDH1
+                                                                      MMEW1
+                                                                      MMEW1
+                                                                                             MMEWNK01
+                                                                                             MMEWNK01
+                                                                                                                    49-7060
+                                                                                                                    49-7060
+                                                                                                                                               17
+3MCB600R               MCBFCVR1               MMDH1                   MMEW1                  MMEWNK01               49-7060
+3MHCB600R              MCBFCVR1                MMDH1                  MMEW1                  MMEWNK01               49-7060                    18
+3MCB700R               MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060
+3MHCB700R
+3MCB800R
+                       MCBFCVR2
+                       MCBFCVR2
+                                               MMDH1
+                                              MMDH1
+                                                                      MMEW1
+                                                                      MMEW1
+                                                                                             MMEWNK01
+                                                                                             MMEWNK01
+                                                                                                                    49-7060
+                                                                                                                    49-7060
+                                                                                                                                               19
+3MHCB800R              MCBFCVR2                MMDH1                  MMEW1                  MMEWNK01               49-7060
+3MCB900R               MCBFCVR2               MMDH1                   MMEW1                  MMEWNK01               49-7060                    20
+3MHCB900R              MCBFCVR2                MMDH1                  MMEW1                  MMEWNK01               49-7060
+3MCB1000R
+3MHCB1000R
+                       MCBFCVR2
+                       MCBFCVR2
+                                               MMDH1
+                                               MMDH1
+                                                                      MMEW1
+                                                                      MMEW1
+                                                                                             MMEWNK01
+                                                                                             MMEWNK01
+                                                                                                                    49-7060
+                                                                                                                    49-7060
+                                                                                                                                               21
+3MCB1200R              MCBFCVR2                MMDH1                  MMEW1                  MMEWNK01               49-7060
+3MHCB1200R             MCBFCVR2                MMDH1                  MMEW1                  MMEWNK01               49-7060                    22
+3MCB1400RB             MCBFCVR3                MCBDH1                 —                      MMEWNK03               —
+3MCB1400RT
+3MCB1600RB
+                       MCBFCVR3
+                       MCBFCVR3
+                                               MCBDH1
+                                               MCBDH1
+                                                                      —
+                                                                      —
+                                                                                             MMEWNK03
+                                                                                             MMEWNK03
+                                                                                                                    —
+                                                                                                                    —
+                                                                                                                                               23
+3MCB1600RT             MCBFCVR3                MCBDH1                 —                      MMEWNK03               —
+3MCB2000RB             MCBFCVR3                MCBDH1                 —                      MMEWNK03               —                          24
+3MCB2000RT             MCBFCVR3                MCBDH1                 —                      MMEWNK03               —
+
+                                                                                                                                               25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com           V12-T6-5
+

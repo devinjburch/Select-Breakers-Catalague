@@ -1,0 +1,113 @@
+     3                            Molded-Case Circuit Breakers
+                                  Replacement Capabilities
+
+
+
+     ■ Shaded area denotes obsolete or discontinued products and services.
+1
+     Replacement Capabilities
+2    Cutler-Hammer motor
+     control center replacement
+     circuit breakers are newly
+3    manufactured and tested
+     to the latest applicable
+     standards at the Eaton
+4    molded-case circuit breaker
+     plant in Beaver, PA. This
+     plant has a long and well-
+5    recognized tradition of
+     product safety, integrity
+6    and quality.
+     The motor control center
+7    replacement circuit breaker
+     solution eliminates the
+     need to consider alternative
+8    approaches. Eaton
+     customers are ensured
+     that the high standards
+9    of product quality and
+     reliability do not have to be
+     sacrificed when replacing
+10   Westinghouse out-of-
+     production circuit breakers.
+11   All motor control center
+     replacement circuit breakers
+12   are easily identified by the
+     prefix “RMC” added to the                                              Replacement Motor Control Center Breakers
+     out-of-production type
+13   circuit breaker catalog
+     number they replace.
+                                            Motor Control Center Replacement Breaker Interrupting Ampere Ratings
+                                            Breaker Type     Amperes        240 Vac             480 Vac             600 Vac              250 Vac
+14   Replacement Chart                      RMCF 23          15–100         18,000              14,000              14,000               10,000
+
+     Current     Out-of-                    RMCFA 234        15–150         18,000              14,000              14,000               10,000
+15   MCC
+     Circuit
+                 Production
+                 Circuit
+                                            RMCHF 23         15–100         65,000              25,000              18,000               20,000
+                              Volts AC
+     Breaker     Breaker                    RMCHFA 234       15–150         65,000              25,000              18,000               20,000
+                              (50/60 Hz)
+16   Type        Type 1       600
+                                           Example:                           Example:                                   Notes
+     RMCFA       FA           ■
+                                                                                                                         1 Last manufacture date—1974.
+
+17   RMCHFA
+     RMCF
+                 HFA
+                 F
+                              ■
+                              ■
+                                           An RMCF3100 is a newly
+                                           manufactured, three-pole,
+                                                                              RMC Designates new
+                                                                                  motor control
+                                                                                                                         2 Motor control center replacement
+
+                                                                                                                           breakers do not have the same
+                                           100A trip panelboard                   center replacement                       physical dimensions or mounting holes
+                              ■
+18   RMCHF       HF
+                                           replacement circuit breaker.
+                                           It replaces an out-of-
+                                                                                  circuit breaker.                         as the breakers they replace. Types
+                                                                                                                           RMCFA and RMCHFA are 6.00
+                                           production F circuit breaker.      F        Identifies the out-of-              inches long and the breakers they
+
+19                                                                                     production circuit
+                                                                                       breaker frame.
+                                                                                                                           replace, FA and HFA, are 6.50 inches
+                                                                                                                           long. Types RMCF and RMCHF
+                                                                                                                           are 6.00 inches long and the breakers
+                                                                                                                           they replace, F and HF, are 9.375
+20                                                                            3        Number of poles.                    inches long. A mounting plate is
+                                                                                                                           provided with each breaker to resolve
+                                                                              100      Trip unit
+                                                                                                                           these differences, and must be
+                                                                                       ampere rating.
+21                                                                                                                         installed to ensure a proper fit.
+                                                                                                                         3 Motor control center replacement
+                                                                              Contact 1-800-OLD-UNIT
+                                                                                                                           circuit breakers have non-
+                                                                              for replacement or
+22                                                                            Page V12-T3-91 for
+                                                                                                                           interchangeable trip units and the
+                                                                                                                           same interrupting capacity as the
+                                                                              Series C retrofit kits.                      out-of-production circuit breakers
+
+23                                                                                                                         they replace.
+                                                                                                                         4 RMCFA and RMCHFA two-pole
+
+                                                                                                                           breakers are supplied in a three-pole
+
+24
+                                                                                                                           frame with current carrying parts
+                                                                                                                           omitted from the center pole.
+
+
+25
+     V12-T3-88           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

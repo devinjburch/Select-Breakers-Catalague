@@ -1,0 +1,97 @@
+     13                               Motor Control
+                                      Contactors, Starters and Brakes
+
+
+
+     IEC Sizes P, R and S
+1                                                      IEC Size P                   IEC Size R                       IEC Size S
+     Description                                       Part Number                  Part Number                      Part Number
+2    Renewal Parts Publication Number                  22278                        22278                            22278
+     Contact Kits                        Size          6-294                        6-288                            6-286
+
+3    Magnet Coils                        Coil Suffix
+     120V, 60 Hz or 110V, 50 Hz          A             9-1891-1                     9-1891-1                         9-1891-1
+
+4    200V, 50 Hz or 118V, 60 Hz
+     240V, 60 Hz or 220V, 50 Hz
+                                         E
+                                         B
+                                                       —
+                                                       9-1891-2
+                                                                                    —
+                                                                                    9-1891-2
+                                                                                                                     —
+                                                                                                                     9-1891-2
+                                                       —                            —                                —
+5
+     254V, 50 Hz or 277V, 60 Hz          H
+     380V, 50 Hz or 415V, 60 Hz          L             —                            —                                —
+
+6
+     480V, 60 Hz or 440V, 50 Hz          C             9-1891-3                     9-1891-3                         9-1891-3
+     600V, 60 Hz or 550V, 50 Hz          D             9-1891-4                     9-1891-4                         9-1891-4
+     208V, 60 Hz                         E             9-1891-13                    9-1891-13                        9-1891-13
+7    277V, 60 Hz                         H             9-1891-26                    9-1891-26                        9-1891-26
+     240V, 50 Hz                         K             9-1891-20                    9-1891-20                        9-1891-20
+8    380V, 50 Hz                         L             9-1891-14                    9-1891-14                        9-1891-14
+     415V, 50 Hz                         M             9-1891-21                    9-1891-21                        9-1891-21
+9    24V, 60 Hz                          T             9-1891-15                    9-1891-15                        9-1891-15
+     Overload Relays
+10   Reference C316 overload relays
+     Magnet Frame Armature
+11   Lower magnet frame                                48-1030-2                    48-1030-2                        48-1030-2
+     Upper magnet frame                                48-1029-4                    48-1029-4                        48-1029-4
+
+12
+     IEC Size T, U and V
+
+13   Description
+                                                       IEC Size T
+                                                       Part Number
+                                                                                    IEC Size U
+                                                                                    Part Number
+                                                                                                                     IEC Size V
+                                                                                                                     Part Number
+     Renewal Parts Publication Number                  22275                        22276                            22586
+14   Contact Kits                        Size          6-621                        6-622                            6-601
+     Magnet Coils                        Coil Suffix
+15   120V, 60 Hz or 110V, 50 Hz          A             9-3006                       9-3006                           9-2698
+     200V, 50 Hz or 118V, 60 Hz          E             9-3006-5                     9-3006-5                         —
+
+16   240V, 60 Hz or 220V, 50 Hz          B             9-3006-2                     9-3006-2                         9-2698-2
+     254V, 50 Hz or 277V, 60 Hz          H             9-3006-6                     9-3006-6                         9-2698-2
+
+17   380V, 50 Hz or 415V, 60 Hz          L             9-3006-7                     9-3006-7                         9-2698-6
+     480V, 60 Hz or 440V, 50 Hz          C             9-3006-3                     9-3006-3                         9-2698-3
+
+18   600V, 60 Hz or 550V, 50 Hz          D             9-3006-4                     9-3006-4                         9-2698-4
+     208V, 60 Hz                         E             —                            —                                9-2698-5
+
+19   277V, 60 Hz                         H             —                            —                                —
+     240V, 50 Hz                         K             —                            —                                —
+
+20   380V, 50 Hz
+     415V, 50 Hz
+                                         L
+                                         M
+                                                       —
+                                                       —
+                                                                                    —
+                                                                                    —
+                                                                                                                     —
+                                                                                                                     —
+
+21
+     24V, 60 Hz                          T             —                            —                                —
+     Overload Relays
+     Reference C316 overload relays
+22   Magnet Frame Armature
+     Lower magnet frame                                —                            —                                —
+23   Upper magnet frame                                —                            —                                —
+
+
+24   Technology Upgrades
+     This product currently listed in Volume 5—Motor Control and Protection, CA08100006E, Tab 1.
+25
+     V12-T13-46               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

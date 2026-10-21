@@ -1,0 +1,80 @@
+                                        Counters, Panel Meters, Tachometers and Timers
+                                                                                                                   Accessories and Encoders
+                                                                                                                                               24
+Mounting Bracket
+                                                                                                                                                            1
+Product Description
+Mounting bracket for Eaton
+D-Series counters and rotary                                                                                                                                2
+contactors.
+                                                                                                                                                            3
+Product Selection
+
+Mounting Bracket        Mounting Bracket                                                                                                                    4
+                                                                             Normally
+                        Description                                          Stocked Item               Catalog Number
+                                                                                                                                                            5
+                        Mounting bracket                                     Yes                        40460400
+
+                                                                                                                                                            6
+                                                                                                                                                            7
+Cube Style Shaft Encoders
+Product Description                            Features                                                                                                     8
+Provides accurate pulse                        ●    5–28 Vdc input power                      ●     Up to 600 pulses per
+outputs for use with PLCs                           80 mA current draw                              revolution
+                                                                                                                                                            9
+                                               ●
+
+and counters.                                  ●    NPN transistor output,                    ●     3/8 in (9.5 mm) double
+                                                    250 mA sinking capacity                         ended shaft
+                                               ●    Square wave output;                       ●     ABEC three double sealed                                10
+                                                    (50-50 duty cycle)                              ball bearings
+                                                                                                    Tapped holes for face or
+                                                    Single channel and
+                                                                                                                                                            11
+                                                                                              ●
+                                               ●
+
+                                                    quadrature models                               base mounting
+                                                                                              ●     Military style connector
+                                                                                                                                                            12
+Product Selection
+                                                                                                                                                            13
+                        Cube Shaft Encoders
+Cube Shaft Encoder
+                                                                             Normally                                                                       14
+                        Description                                          Stocked Item               Catalog Number
+                        Single Channel                                                                                                                      15
+                        60 pulses per revolution                             —                          38150060
+                        100 pulses per revolution                            Yes                        38150100                                            16
+                        120 pulses per revolution                            —                          38150120
+                        600 pulses per revolution                            Yes                        38150600
+                                                                                                                                                            17
+                        Quadrature
+                        60 pulses per revolution                             —                          38151060
+                                                                                                                                                            18
+                        100 pulses per revolution                            Yes                        38151100
+                        120 pulses per revolution
+                        600 pulses per revolution
+                                                                             —
+                                                                             Yes
+                                                                                                        38151120
+                                                                                                        38151600
+                                                                                                                                                            19
+                                                                                                                                                            20
+Accessory
+                                                                                                                                                            21
+Mounting Bracket        Mounting Bracket 1
+
+                        Description
+                                                                             Normally
+                                                                             Stocked Item               Catalog Number
+                                                                                                                                                            22
+                        Mounting bracket                                     —                          40460402
+                                                                                                                                                            23
+                        Note
+                        1 40460400 is shown, 40460402 has additional mounting plate for encoders.
+                                                                                                                                                            24
+                                                                                                                                                            25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com                  V12-T24-103
+

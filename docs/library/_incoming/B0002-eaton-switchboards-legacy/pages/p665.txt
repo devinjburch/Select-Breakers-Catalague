@@ -1,0 +1,69 @@
+                                            Counters, Panel Meters, Tachometers and Timers
+                                                                                                                               Timers/Hour Meters
+                                                                                                                                                                24
+General Specifications, continued
+Description                                           Specification                                                                                                          1
+Timer inputs, high voltage version (10–260 Vdc/Vac)
+ Timer input                                          Optocoupler input max. 30 Hz                                                                                           2
+ Min. pulse time                                      16 ms
+ Switching level                                                                                                                                                             3
+  Low                                                 0–2 Vdc/Vac
+  High                                                10–260 Vdc/Vac                                                                                                         4
+ Counting start                                       For high signal at the timer input
+Time range change (mode)                                                                                                                                                     5
+ Contact input—open collector (switching at 0V)
+  NPN low                                             0–0.7V
+                                                                                                                                                                             6
+  NPN high                                            3–5 Vdc
+ Time range
+Reset Input (only DC and high voltage)
+                                                      Depending on the circuit
+                                                                                                                                                                             7
+ Minimum pulse time
+  DC                                                  50 ms
+                                                                                                                                                                             8
+                                                                                                                                                                             9
+  High voltage                                        10 ms
+ Contact input (DC)
+  NPN low                                             0–0.7V
+  NPN high                                            3–30 Vdc                                                                                                               10
+ High voltage input                                   10–260 Vdc/Vac
+Reset locking input (for DC and AC),                                                                                                                                         11
+electrical reset key locking
+
+                                                                                                                                                                             12
+ Input not active                                     Reset key locked
+
+ Contact input                                        Open collector NPN (switching at 0V)
+ Switching level
+  NPN low                                             0–0.7V
+                                                                                                                                                                             13
+  NPN high                                            3–5 Vdc
+Interference emissions                                EN 55011 Class B, EN 61 000-6-2, EN 61010 Section 1 (only AC versions)                                                 14
+Housing                                               Dark gray RAL 7021
+Operating temperature                                 14 to 131 °F (–10 to 55 °C)                                                                                            15
+Ambient temperature                                   14 to 140 °F (–10 to 60 °C)
+Storage temperature                                   –4 to 158 °F (–20 to 70 °C)                                                                                            16
+Protection                                            IP65 (from front)
+Weight                                                Approx. 1.76 oz (50 g)                                                                                                 17
+
+Dimensions
+                                                                                                                                                                             18
+Approximate Dimensions in Inches (mm)
+                                                                                                                                                                             19
+1/32 DIN LCD Timers
+                                                        MAX. 1.89 (19.3)                                                                                1.77 + 0.024
+                                                                                                                                                                             20
+                    1.89 (48)                                                                                                                            (45 + 0.6)
+                                                                                                                                                                             21
+0.94                                         0.87 x 1.77
+                                              (22 x 45)                                                                                  1.77 + 0.012
+(24)
+                                                                                                                                         (22.2 +0.3)
+                                                                                                                                                                             22
+                                                                      0.11 (2.8)
+                                                                  1.88 (47.7)                 0.12 (3)                                                                       23
+                                                                                                                                                                             24
+                                                                                                                                                                             25
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com                                V12-T24-83
+

@@ -1,0 +1,65 @@
+     23                           Pushbuttons and Indicating Lights
+                                  Replacement Capabilities
+
+
+
+     Indicating Light Units—One-Piece LED
+1    ●  One-piece body style
+     ●  Plastic operators
+2    ●  Full voltage LEDs
+     ●  Cluster-style integrated LED (non-removable)
+3    ●  Plastic lenses
+
+                            Cluster LED Type Indicating Lights—Non-Removable LEDs—UL (NEMA) Type 3, 3R, 4, 4X, 12, 13
+4    Non-Removable LED
+                            Description                                      Supply Voltage                 LED Color                      Lamp Life 1                     Catalog Number
+                            Includes permanently attached lens and           24 Vac/Vdc                     Red                            100,000                         E22HL2X4
+5                           board mounted, cluster style LEDs
+                                                                                                            Green                          100,000                         E22HL3X4
+                                                                                                            Amber                          100,000                         E22HL9X4
+6      Non-Removable LED
+                                                                             110/120 Vac/Vdc                Red                            100,000                         E22HL2X8
+                                                                                                            Green                          100,000                         E22HL3X8
+7                                                                                                           Amber                          100,000                         E22HL9X8
+
+
+8    Indicating Light Units—One-Piece Incandescent
+     ●  One-piece body style
+9    ●  Plastic operators
+     ●  Full voltage
+10   ●  Bayonet base incandescent lamp
+
+                            Incandescent Standard Lens Type Indicating Lights—UL (NEMA) Type 3, 3R, 4, 4X, 12, 13
+11   Incandescent
+     Standard Lens          Description                                      Supply Voltage                 Color                          Lamp Life 1                     Catalog Number
+
+
+12
+                            Includes lens and T 3-1/4 bayonet                24 Vac/Vdc                     Red                            2500                            E22HV2X4
+                            base lamp                                        #1819 lamp
+                                                                                                            Green                          2500                            E22HV3X4
+                                                                                                            Amber                          2500                            E22HV9X4
+13                                                                           110/120 Vac/Vdc                Red                            1000                            E22HV2X8
+                                                                             W1121 lamp
+                                                                                                            Green                          1000                            E22HV3X8
+14                                                                                                          Amber                          1000                            E22HV9X8
+
+
+15
+                            Note
+                            1 Published theoretical lamp lives are based on ideal laboratory conditions and should be used for comparison only. Actual life may be shorter due to
+
+                               application conditions.
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T23-6             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

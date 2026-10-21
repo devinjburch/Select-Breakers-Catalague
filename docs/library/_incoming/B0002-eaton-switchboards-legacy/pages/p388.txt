@@ -1,0 +1,84 @@
+                                                                                                                    Motor Control
+                                                                                                        Contactors, Starters and Brakes
+                                                                                                                                                           13
+Advantage™                          Product History Time Line for Advantage Contactors and Starters
+Originally a Westinghouse                                                                                                                                             1
+Product                                Size                                 1991                             1995                 2000                   Present
+
+                                       Sizes 1–6                                                                                                                      2
+                                    Replacement Capabilities                                                                                                          3
+                                                                 Replacements for Contact Kits and Coils                                                              4
+                                                                                                                                                 Catalog
+                                                                 Description                                                                     Number
+
+                                    Contact Kits                 Replacement contact kit, size single, three-pole                                WCK13
+                                                                                                                                                                      5
+                                                                 Replacement contact kit, size two, three-pole                                   WCK23
+                                                                 Replacement contact kit, size three, three-pole                                 WCK33                6
+                                                                 Replacement contact kit, size four, three-pole                                  WCK43
+                                                                 Replacement contact kit, size five, three-pole                                  WCK53                7
+                                                                 Replacement contact kit, size six, three-pole                                   WCK63
+
+        Advantage Starter
+                                                                                                                                                                      8
+Product Description
+Setting a new standard in
+                                                                                                                                                                      9
+motor control, revolutionary        Coils                        Size one and two, 110/120V, 60 Hz                                               WCOIL12F
+in design, Advantage motor                                       Size three and four, 110/120V, 60 Hz                                            WCOIL34F             10
+starters employ state-of-the-
+art technology in solving                                        Size five and six, 110/120V, 60 Hz                                              WCOIL56F
+motor control application                                                                                                                                             11
+problems that have existed
+for ages. Customer focus
+group input and 66,000
+                                                                                                                                                                      12
+man-hours of engineering
+ingenuity have been
+combined to create a motor
+                                    Advantage / A200 Series Support                     The Advantage+ series                     However, please note the            13
+                                    and Transition to Freedom-C400                      features:                                 following:
+starter that dramatically           Series Power Control New
+extends operating life in a         Technologies                                        ●    Enhanced control board
+                                                                                             circuitry
+                                                                                                                                  ●   Replacement control
+                                                                                                                                      boards for Advantage
+                                                                                                                                                                      14
+physical space requirement          Eaton has consolidated the
+one half the size of                Advantage and Advantage+                            ●    Same footprint as the                    NEMA Sizes 1L, 1 & 2
+conventional motor starters.        product lines into a single                              Advantage series                         are not interchangeable;        15
+                                    offering effective July 19,                         ●    No change in accessories                 therefore, Eaton will
+                                    2013. This product consolidation                                                                  continue to manufacture
+                                    will ensure Eaton’s ability to
+                                                                                        ●    Backwards compatibility of               these replacement boards        16
+                                                                                             control boards for NEMA
+                                    continue supporting the                                  Sizes 3–6
+                                                                                                                                  ●   Overload boards are no
+                                    Advantage installed base.
+                                                                                        As a result of the
+                                                                                                                                      longer available. Overloads
+                                                                                                                                      are to be replaced with a
+                                                                                                                                                                      17
+                                                                                        consolidation, Advantage                      complete starter
+                                                                                        series part numbers will be               ●   All other sizes will accept     18
+                                                                                        replaced by the Advantage+                    an Advantage+ replacement
+                                                                                        series.                                       board. Please see the table
+                                                                                                                                      below for additional details    19
+                                                                                                                                                                      20
+                                    Replacements for Control and Overload Boards
+                                                                                                                                                                      21
+                                    Offering                                                 Replaced By
+                                    Advantage contactors (sizes 1L–6)                        Advantage+ contactors (sizes 1L–6)
+                                                                                                                                                                      22
+                                    Advantage starters (sizes 1L–6)                          Advantage+ starters (sizes 1L–6)
+                                    Advantage overload relays
+                                    Replacement control boards (Sizes 1L, 1, 2)
+                                                                                             Advantage+ starter
+                                                                                             No change: continue to order
+                                                                                                                                                                      23
+                                                                                             Advantage
+                                    Replacement control boards (Size 3, 4, 5, 6, 5DP, 6DP)   Advantage+ control boards                                                24
+                                    Accessories                                              No change
+                                                                                                                                                                      25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                V12-T13-51
+

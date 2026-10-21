@@ -1,0 +1,77 @@
+                                                                                                        Motor Control
+                                                                                                Contactors, Starters and Brakes
+                                                                                                                                         13
+Heater Selection for Types A and B Overload Relays, Sizes 00, 0, 1 and 2 Starters, continued
+Non-Compensated Open Starters and                                         Non-Compensated                                                             1
+Ambient Compensated Open and Enclosed Starters                            Enclosed Starters
+Block-Type Overload
+Using Three Heaters
+                                                Single-Pole
+                                                Type Overload
+                                                                          Block-Type Overload
+                                                                          Using Three Heaters
+                                                                                                            Single-Pole
+                                                                                                            Type Overload
+                                                                                                                                  Heater
+                                                                                                                                  Catalog
+                                                                                                                                                      2
+Full Load Current of Motor (Amperes) 12                                                                                           Number
+For Sizes 0, 1 and 2 Starters                                                                                                                         3
+5.4–5.9                                         6.3–6.8                   5.1–5.5                           6.1–6.6               FH35
+6.0–6.4                                         6.9–7.5                   5.6–5.9                           6.7–7.3               FH36                4
+6.5–7.1                                         7.6–8.2                   6.0–6.6                           7.4–8.0               FH37
+7.2–7.8                                         8.3–9.0                   6.7–7.2                           8.1–8.7               FH38                5
+7.9–8.5                                         9.1–9.9                   7.3–7.9                           8.8–9.7               FH39
+8.6–9.4                                         10.0–10.8                 8.0–8.7                           9.8–10.5              FH40                6
+9.5–10.3                                        10.9–11.9                 8.8–9.5                           10.6–11.7             FH41
+10.4–11.3                                       12.0–13.1                 9.6–10.5                          11.8–12.7             FH42
+                                                                                                                                                      7
+11.4–12.4                                       13.2–14.3                 10.6–11.5                         12.8–14.0             FH43
+12.5–13.5                                       14.4–15.7                 11.6–12.6                         14.1–15.3             FH44
+                                                                                                                                                      8
+13.6–14.9                                       15.8–17.2                 12.7–13.8                         15.4–16.6             FH45
+15.0–16.3
+16.4–18.0
+                                                —
+                                                —
+                                                                          13.9–15.1
+                                                                          15.2–16.7
+                                                                                                            —
+                                                                                                            —
+                                                                                                                                  FH46
+                                                                                                                                  FH47
+                                                                                                                                                      9
+                                                                                                                                                      10
+For Sizes 1 and 2 Starters
+—                                               17.3–18.9                 —                                 16.7–18.3             FH46
+                                                19.0–20.8                 —                                 18.4–20.0             FH47
+                                                                                                                                                      11
+—
+18.1–19.8                                       20.9–22.9                 16.8–18.3                         20.1–21.9             FH48
+19.9–21.7                                       23.0–25.2                 18.4–20.2                         22.0–23.9             FH49
+21.8–23.9                                       25.3–27.6                 20.3–22.2                         24.0–26.2             FH50
+                                                                                                                                                      12
+24.0–26.2                                       —                         22.3–24.3                         —                     FH51
+—                                               —                         24.4–26.6                         —                     FH52                13
+For Size 2 Starters
+—                                               27.7–30.3                 —                                 26.3–28.8             FH51                14
+26.3–28.7                                       30.4–33.3                 —                                 28.9–31.4             FH52
+28.8–31.4                                       33.4–36.4                 26.7–29.1                         31.5–34.5             FH53                15
+31.5–34.0                                       36.5–39.9                 29.2–32.0                         34.6–37.9             FH54
+34.6–37.9                                       42.0–43.9                 32.1–35.2                         38.0–41.9             FH55                16
+38.0–41.5                                       —                         35.3–38.5                         42.0–45.0             FH56
+41.6–45.0                                       —                         38.6–42.3                         —                     FH57                17
+Notes
+1 Based on 60°C and 75°C wire for 30A or less.
+2 Based on 60°C wire for 31 to 95A.
+                                                                                                                                                      18
+Heaters are packaged in strips of six. Minimum ordering quantity is 12.
+                                                                                                                                                      19
+                                                                                                                                                      20
+                                                                                                                                                      21
+                                                                                                                                                      22
+                                                                                                                                                      23
+                                                                                                                                                      24
+                                                                                                                                                      25
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com          V12-T13-31
+

@@ -1,0 +1,99 @@
+     3                              Molded-Case Circuit Breakers
+                                    Replacement Capabilities
+
+
+
+     Accessories
+1    Rear-Connected Studs                         mounting panel. A short stud         400A LA studs of the            adjacent to a long stud. Two
+     For complete stud assembly,                  must be assembled adjacent           same length have sufficient     studs are required per pole.
+2    order a stud and an                          to a long stud to maintain
+                                                  clearances required by
+                                                                                       clearance; however, customer
+                                                                                       connections may make it
+                                                                                                                       Refer to DS29171 Dimension
+                                                                                                                       Sheets for stud sizes and
+     appropriate tube based on
+     thickness of customer’s                      Underwriters Laboratories.           necessary to use a short stud   extensions behind breaker.
+3
+     Rear Connected Stud    For DA, EB, EHB, FB, JA, KA, JB, KB, LB, LBB, HFB, HKA, HKB and HLB Breakers 1
+4                           Mounting Panel                   Stud 2                                      Tube 3
+                            Thickness, Inches                Length               Style Number           Length              Style Number
+
+5                           DA, LB, LBB and HLB Breakers
+                            3/4–1                            Short                656D565G03             27/32               313C909H17
+
+6                           3/4–1                            Long                 656D565G04             3-25/32             313C909H20
+                            1/2–3/4                          Short                656D565G03             1-3/32              313C909H18
+
+7                           1/2–3/4                          Long                 656D565G04             4-1/32              313C909H21
+                            1/4–1/2                          Short                656D565G03             1-11/32             313C909H19
+
+8                           1/4–1/2                          Long
+                            EB, EHB, FB and HFB (100A Maximum)
+                                                                                  656D565G04             4-9/32              313C909H22
+
+
+
+9
+                            1                                Short                451D874G01             1-1/16              32B9446H20
+                            1                                Long                 451D874G02             3-7/16              32B9446H24
+                            1-1/16–15/16                     Short                451D874G01             1-3/8               32B9446H21
+10                          1-1/16–15/16                     Long                 451D874G02             3-3/4               32B9446H25
+                            3/8–5/8                          Short                451D874G01             1-11/16             32B9446H22
+11                          3/8–5/8                          Long                 451D874G02             4-1/16              32B9446H26
+                            1/4–5/16                         Short                451D874G01             2                   32B9446H23
+12                          1/4–5/16                         Long                 451D874G02             4-3/8               32B9446H27
+                            FB, HFB 150 Ampere Breakers
+13                          1                                Short                374D883G01             1-1/16              374D883H06
+                            1                                Long                 374D883G02             4-5/16              374D883H10
+14                          11/16–15/16                      Short                374D883G01             1-3/8               374D883H07
+                            11/16–15/16                      Long                 374D883G02             4-5/8               374D883H11
+
+15                          3/8–5/8                          Short                374D883G01             1-11/16             374D883H08
+                            3/8–5/8                          Long                 374D883G02             4-15/16             374D883H12
+
+16                          1/4–5/16                         Short                374D883G01             2                   374D883H09
+                            1/4–5/16                         Long                 374D883G02             5-1/4               374D883H13
+
+17                          JA, KA and HKA Breakers
+                            3/4–1                            Short                656D565G01             27/32               456D983H05
+
+18                          3/4–1                            Long                 656D565G02             3-25/32             456D983H08
+                            1/2–3/4                          Short                656D565G01             1-3/32              456D983H06
+
+19                          1/2–3/4
+                            1/4 –1/2
+                                                             Long
+                                                             Short
+                                                                                  656D565G02
+                                                                                  656D565G01
+                                                                                                         4-1/32
+                                                                                                         1-11/32
+                                                                                                                             456D983H09
+                                                                                                                             456D983H07
+
+20
+                            1/4 –1/2                         Long                 656D565G02             4-9/32              456D983H10
+                            JB, KB and HKB Breakers
+
+21
+                            3/4–1                            Short                5010D23G01             27/32               456D983H05
+                            3/4–1                            Long                 5010D23G02             3-7/8               5010D23H05
+                            1/2–3/4                          Short                5010D23G01             1-3/32              456D983H06
+22                          1/2–3/4                          Long                 5010D23G02             4-1/8               5010D23H06
+                            1/4 –1/2                         Short                5010D23G01             1-11/32             456D983H07
+23                          1/4 –1/2                         Long                 5010D23G02             4-3/8               5010D23H07
+
+                            Notes
+24                          1 For insulated panels only; two required per pole.
+                            2 Not UL Listed.
+
+
+25
+                            3 Included at no charge when ordered with stud.
+
+
+
+
+     V12-T3-66             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

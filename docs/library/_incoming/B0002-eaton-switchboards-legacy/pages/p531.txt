@@ -1,0 +1,115 @@
+                                                                                                   Switchgear
+                                                                            VacClad-W Motorized Remote Racking
+                                                                                                                                      17
+VacClad-W Motorized                 Increased safety precautions        ●    All circuit breaker safety      ●   You do not lose the ability
+Remote Racking                      and the need to protect                  interlocks remain intact            to manually operate your          1
+                                    personnel from the dangers of            per IEEE C37.20.2                   circuit breaker racking
+(VCP-W MR2)                         potential arc flash occurrences                                              mechanism
+                                                                             Logic is built into the
+                                                                                                                                                   2
+                                                                        ●
+
+                                    suggest the need to increase             device to sense an              ●   Operators can open and
+                                    the distance between an                  interference issue                  disconnect all circuit
+                                    operator and the front of a
+                                    switchgear lineup during
+                                                                        ●    Logic will not accept a             breakers remotely before
+                                                                                                                 entering the equipment
+                                                                                                                                                   3
+                                                                             command to connect a
+                                    racking operations.                      circuit breaker that has            room, which ensures no
+                                    Features                                 experienced interference            exposure to arc flash energy      4
+                                                                             until after it has been moved
+                                    ●   Self powered when
+                                                                             to the disconnect position
+                                        switchgear is energized
+                                                                        ●    Controls can be integrated
+                                                                                                                                                   5
+                                    ●   Provisions energize the
+                                                                             into switchgear secondary
+                                        system racking motors
+                                        with an external 120 Vac
+                                                                             control circuits, and/or                                              6
+                                                                             SCADA systems using
+                                        power source
+                                                                             Modbus® interface or
+                                    ●   Available for all breakers in        discrete wiring                                                       7
+                                        VacClad-W switchgear
+         Remote Racking
+                                                                        ●    Permissive circuit provision
+                                        Factory installed and                for disabling remote racking
+                                                                                                                                                   8
+                                    ●
+
+Product Description                     tested in circuit breaker            until the right system                     Racking Pan
+Eaton’s VCP-W MR2                       compartment                          conditions are satisfied
+                                                                                                             Motor, logic controller
+motorized remote racking            ●   Permanently installed
+                                        racking motors eliminate
+                                                                        ●    Pendant will override           and safety interlocks are             9
+device provides a means                                                      system when plugged into
+                                        the need to lift and                                                 built into the circuit breaker
+of remotely inserting or                                                     a specific circuit breaker
+removing any drawout circuit            manipulate, and align                                                compartment. System is
+                                                                                                             factory installed and tested
+                                                                                                                                                   10
+breaker used in VacClad-W               heavy, bulky equipment          Benefits
+                                                                                                             with VCP-W circuit breakers.
+switchgear, to help mitigate            Simple hand-held pendant             Automatic racking reduces
+                                                                                                                                                   11
+                                    ●                                   ●
+
+arc flash exposure.                                                                                          Each switchgear system that
+                                        controller is available with         installation effort
+                                                                                                             is purchased with remote
+                                        indicating lights to clearly         Permanently installed
+The VCP-W MR2 permits
+                                                                        ●
+                                                                                                             racking capabilities will come
+the operator to safely move
+                                        indicate position and status
+                                        of the circuit breaker
+                                                                             system will not get lost        with a hand-held pendant for          12
+a VCP-W breaker between                                                      between service intervals       simple operation of a single
+three pre-determined
+                                    ●   25 ft umbilical cord                                                 circuit breaker at a time.
+positions within the circuit            between hand-held                                                                                          13
+breaker compartment.                    controller and circuit
+                                        breaker compartment
+Standing at a safe distance,
+well outside the arc flash
+                                                                                                                                                   14
+boundary of the equipment,          PanelMate® Interface for Integrated Controls
+an operator can use remote                                                                                                                         15
+controls to select disconnect,
+test or connected positions
+for the circuit breaker.                                                                                                                           16
+The Danger
+Electric arcs result from                                                                                                                          17
+thermal ionization that
+occurs when current flow
+is interrupted by the
+                                                                                                                                                   18
+separation of conductors.
+Thermal ionization can                                                                                                                             19
+generate temperatures as
+high as 35,000°F. Conductor
+materials melt into metal                                                                                                                          20
+vapor and the surrounding
+air is ionized.
+                                                                                                                                                   21
+External arcs create a
+violent explosion, resulting
+in an inferno of ionized                                                                                                                           22
+gases, molten debris,
+metal shrapnel and a flash
+of light (an arc flash). Inside
+                                                                                                                                                   23
+a switchgear/switchboard
+cabinet, an arc event can
+dislodge compartment
+                                                                                                                                                   24
+doors and turn hardware
+into high-speed projectiles.                                                                                                                       25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com             V12-T17-63
+

@@ -1,0 +1,81 @@
+     10                             IQ Products
+                                    General Information
+
+
+
+     Metering Selection Chart—Dimensions in Inches (mm), continued
+1    Device Name                        Power Xpert Multi-Point Meter                 IQ Energy Sentinel
+     Accessories
+
+2
+     See Page V12-T10-31
+
+
+
+3
+4    Section Page Number                 V12-T10-18                                   V12-T10-26
+
+5
+     Electrical Parameters
+     Volts                               ±0.2% RV                                     —
+     Amperes                             ±0.2% RV                                     —
+6    Current range (% of nominal)        —                                            —
+     Watts                              ±0.5% RV                                      ±1.0% FS
+7    VARs                               ±0.5% RV                                      —
+     VA                                 ±0.5% RV                                      —
+8    PF-apparent                         ±0.5% RV                                     —
+     PF-displacement                     —                                            —
+9    Frequency                           ±0.1 Hz                                      —
+     THD-voltage                        —                                             —
+10   THD-current                        —                                             —
+     Watthours                          ±0.5% per ANSI C12.20 0.5 class               ±1.0% FS
+
+11   VAR-hours                          ±0.5% per ANSI C12.20 0.5 class               —
+     VA-hours                           ±0.5% per ANSI C12.20 0.5 class               —
+
+12   Ampere-demand                      —                                             —
+     Watt-demand                        ±0.5% per ANSI C12.20 0.5 class               ±1.0% FS
+
+13   VAR-demand                         ±0.5% per ANSI C12.20 0.5 class               —
+     VA-demand                          ±0.5% per ANSI C12.20 0.5 class               —
+
+14   Revenue accuracy                    ANSI C12.20 (0.5%)                           —
+     Individual ampere harmonics        —                                             —
+
+15   Individual voltage harmonics
+     Interharmonics
+                                        —
+                                        —
+                                                                                      —
+                                                                                      —
+
+16
+     Minimum and/or Maximum Values
+     Volts                              L-L, L-N                                      —
+     Current                             A, B, C                                      —
+17   Power                              Watts, VAR, VA                                —
+     Power factor                       Apparent                                      —
+18   Frequency                          Hertz                                         —
+     THD                                —                                             —
+19   Demand values                      Watts (Delivered & Received), Watts (Q1–Q4), VA —
+                                        (Q1, Q4), VA (Q2, Q3)
+
+20   Trend analysis                      Interval data                                1
+
+                                                                                      1
+     Event logging                      20 latest events and historical
+
+21   Disturbance recording               —                                            —
+
+     Note                                          Legend: PG             = Programmable
+                                                           FS             = Full scale
+22
+     1 At computer only.
+                                                           RV             = Read value
+
+
+23
+24
+25
+     V12-T10-10               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

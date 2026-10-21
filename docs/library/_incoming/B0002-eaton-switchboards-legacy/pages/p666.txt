@@ -1,0 +1,73 @@
+     24                                 Counters, Panel Meters, Tachometers and Timers
+                                        Timers/Hour Meters
+
+
+
+     E42DI24/E42DIR Series
+1
+     Product Description                               Features                                                             Standards and Certifications
+     Simple LCD hour meters with                           Solid-state hour meters                  Time accumulation           UL recognized
+2
+                                                       ●                                        ●                           ●
+
+     flexible input voltages                           ●   Record and display up to                 indicated by flashing   ●   CE compliant
+                                                           99,999.9 hours, rollover                 hourglass icon
+3                                                          and continue timing                  ●   Memory will arm only
+                                                       ●   EEPROM memory can                        when power has been
+                                                           retain data for 25+ years                applied for 5 seconds
+4
+5
+     Product Selection
+6                                 E42DI24/E42DIR Series Elapsed Time Meters
+                                  Description                                                           Catalog Number
+7    E42DIR_                      Round LCD
+                                  Elapsed hour meter, 48–150 Vdc/100–230 Vac                            E42DIR48230
+8                                 Elapsed hour meter with reset, 48–150 Vdc/100–230 Vac                 E42DIR48230R
+                                  Elapsed hour meter, 12–48 Vdc/20–60 Vac                               E42DIR1260
+9    E42DI24_                     Rectangular LCD
+                                  Elapsed hour meter, 48–150 Vdc/100–230 Vac                            E42DI2448230
+10                                Elapsed hour meter, with reset, 48–150 Vdc/100–230 Vac                E42DI2448230R
+                                  Elapsed hour meter, 12–48 Vdc/20–60 Vac                               E42DI241260
+11
+12   Technical Data and Specifications
+
+     General Specifications
+13   Description                                            Specification
+     Function                                               Solid-state hour meter
+14   Power supply
+      E42DIXX1260X                                          12–48 Vdc ±25%/20–60 Vac ±25%
+
+15    E42DIXX48230X                                         48–150 Vdc +23%–25%/100–230 Vac +17%–25%
+     Frequency range                                        48–440 Hz
+
+16   Display
+     Accuracy
+                                                            Six-digit LCD, 0.20 in (5 mm)
+                                                             ±0.1%
+     Recording/display capacity                             99,999.9 hours
+17   Resolution                                             0.1 hour (6 minutes)
+     Current consumption max. at nominal voltage
+18    E42DIXX1260X                                            0.8 mA at 12 Vdc
+                                                            5.0 mA at 48 Vdc
+
+19                                                          0.5 mA at 20 Vac
+                                                            2.5 mA at 60 Vac
+
+20    E42DIXX48230X                                         0.8 mA at 48 Vdc
+                                                            2.5 mA at 150 Vdc
+                                                            0.9 mA at 100 Vac
+21                                                          2.0 mA at 230 Vac
+     Input impedance minimum (pins 3 and 4)
+22    E42DIXX1260X                                          70 Kohms
+      E42DIXX48230X                                         480 Kohms
+
+23   Operating temperature                                  –40 to 185 °F (–40 to 85 °C)
+     Storage temperature                                    –58 to 194 °F (–50 to 90 °C)
+
+24
+     Weight
+      E42DIRXXXXXX                                          1.94 oz (55 g)
+      E42DI24XXXXXX                                         0.78 oz (22 g)
+25
+     V12-T24-84               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

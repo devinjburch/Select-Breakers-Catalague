@@ -1,0 +1,96 @@
+                                                                                Network Protectors
+                                                                     Retro-Build, Replacement Parts and Relays
+                                                                                                                                   19
+Replacement Capabilities           Retrofit                            MPCV Relay for Cutler-Hammer        MPCV Relay for
+New                                General Electric MG-8 and           and Westinghouse Network
+                                                                       Protectors
+                                                                                                           GE Network Protectors               1
+Several current Cutler-Hammer      MG-9 network protectors
+                                   up to 2000A are retrofittable
+production designs of network
+                                   with a new CM52 roll-in                                                                                     2
+protectors are available:
+                                   replacement breaker. This
+●   CM52                           retrofitting option uses
+                                   existing enclosures and bus,
+                                                                                                                                               3
+●   CMD
+                                   replacing the remaining with
+    CMR-8
+                                                                                                                                               4
+●
+                                   the most recent technology
+●   CM-22                          of the CM52.
+Retro-Build
+Retro-building is a complete
+                                   CMD style network protectors                                                                                5
+                                   are retrofittable with a new
+reworking of all the major         CM52 drawout circuit breaker
+components of a network            and is available for all ampere                                                                             6
+protector including preliminary    ratings and voltages.
+inspection, rebuilding, and re-
+testing equipment. Included        Contact the Network                                                                Front View
+                                                                                                                                               7
+in the process: removing all       Protector Group for
+asbestos materials (where          additional information
+applicable), applying a new        and availability at                            Front View
+                                                                                                                                               8
+wiring harness, rebuilding the     1-800-525-6821 or
+complete mechanism with
+motor and shunt trip, replacing
+                                   1-877-737-8328.
+                                                                                                                                               9
+                                   Technology Upgrades—
+the relay panel and completely
+reconditioning any enclosure.
+                                   Relays
+                                   Electromechanical and older
+                                                                                                                                               10
+Modern components change
+the “as built” vintage to          solid-state relays can be
+current production designs.        replaced with new micro-                                                                                    11
+                                   processor MPCV designs.
+Cutler-Hammer and                  The MPCV network relay
+Westinghouse                       can be field installed into                                                                                 12
+● CM-22                            ANY network protector
+● CMD                              regardless of the age or
+                                   the manufacturer. Field
+                                                                                                                      Rear View
+                                                                                                                                               13
+● CMR-8
+                                   installation is accomplished
+General Electric®                  without breaker modification
+                                   or any rewiring of the breaker
+                                                                                                                                               14
+● MG-8
+                                   control harness.                               Rear View
+  MG-9
+                                                                                                                                               15
+●
+
+
+                                   Communications Capability
+                                   The MPCV relay has the
+                                   capability of communicating                                                                                 16
+                                   information over a wide range
+                                   of media.
+                                                                                                                                               17
+                                   Hardwire (fiber or twisted
+                                   pair), wireless (cellular or
+                                   radio) are options available                                                                                18
+                                   using Eaton’s VaultGard
+                                   Communication platform.
+                                   This system provides data
+                                                                                                                                               19
+                                   for extensive engineering
+                                   analysis, vault diagnostics,                                                                                20
+                                   preventive maintenance
+                                   and additionally provides
+                                   DNP 3.0 objects direct to a                                                                                 21
+                                   SCADA system.
+                                                                                                                                               22
+                                                                                                                                               23
+                                                                                                                                               24
+                                                                                                                                               25
+                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com           V12-T19-3
+

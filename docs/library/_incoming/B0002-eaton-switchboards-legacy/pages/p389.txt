@@ -1,0 +1,85 @@
+     13                               Motor Control
+                                      Contactors, Starters and Brakes
+
+
+
+     Technology Upgrades
+1    This product is currently listed in Volume 5—Motor Control and Protection, CA08100006E, Tab 2.
+
+2
+     C440 Electronic
+                               Freedom Series Starters—C440 Electronic Overload
+
+3
+     Overload                  Description                                Overload                      Catalog
+                               (With Ground Fault Protection)             Range (Amperes)               Number
+                               NEMA Size 1 starter                        1–5                           AN19DN0A5G005
+4                              NEMA Size 1 starter                        4–20                          AN19DN0A5G020
+                               NEMA Size 2 starter                        9–45                          AN19GN0A5G045
+5                              NEMA Size 3 starter                        20–100                        AN19KN0A5G100
+                               NEMA Size 4 starter                        28–140                        AN19NN0A5G140
+6                              NEMA Size 5 starter                        60–300                        AN19SN0A5G300
+
+
+7                              Freedom Series Contactor—C441 Motor Insight
+     C441 Motor Insight
+
+8
+                                                                          Motor Insight                 Motor Insight Display
+                               Overload        Freedom Contactor          Catalog Number                Catalog Number
+                               Range (Amperes) Catalog Number             (no display on unit)          (in the door mounting)
+
+9                              1–9                   CN15DN3AB   Size 1   C4410109NOUI                  C4411 & D77E-QPIP100
+                               5–90                  CN15DN3AB   Size 1   C4410590NOUI                  C4411 & D77E-QPIP100
+
+10                             5–90                  CN15GN3AB   Size 2   C4410590NOUI                  C4411 & D77E-QPIP100
+                               5–90                  CN15KN3A    Size 3   C4410590NOUI                  C4411 & D77E-QPIP100
+
+11                             60–135
+                               120–270
+                                                     CN15NN3A
+                                                     CN15SN3A
+                                                                 Size 4
+                                                                 Size 5
+                                                                          C4410109NOUI & C441CTKIT150
+                                                                          C4410109NOUI & C441CTKIT300
+                                                                                                        C4411 & D77E-QPIP100
+                                                                                                        C4411 & D77E-QPIP100
+
+12
+     Replacement Circuit Boards
+13                                                                                                      Replacement
+     Description                                                          Existing Starter              Circuit Board
+
+14   Standard NEMA Size 1L starter board 60 Hz
+     Standard NEMA Size 1 starter board 60 Hz
+                                                                          W200MLCFC
+                                                                          W200M1CFC
+                                                                                                        WCBSLF
+                                                                                                        WCBS1F
+
+15   Standard NEMA Size 2 starter board 60 Hz
+     Advantage+ NEMA Size 1L starter board 60 Hz
+                                                                          W200M2CFC
+                                                                          W+200MLCFC
+                                                                                                        WCBS2F
+                                                                                                        W+CBSLF
+
+16
+     Advantage+ NEMA Size 1 starter board 60 Hz                           W+200M1CFC                    W+CBS1F
+     Advantage+ NEMA Size 2 starter board 60 Hz                           W+200M2CFC                    W+CBS2F
+     Standard or Advantage+ NEMA Size 3 starter board 60 Hz               W200M3CFC or W+200M3CFC       W+CBS3F
+17   Standard or Advantage+ NEMA Size 4 starter board 60 Hz               W200M4CFC or W+200M4CFC       W+CBS4F
+     Standard or Advantage+ NEMA Size 5 starter board 60 Hz               W200M5CFC or W+200M5CFC       W+CBS5F
+18   Standard or Advantage+ NEMA Size 6 starter board 60 Hz               W200M6CFC or W+200M6CFC       W+CBS6F
+
+
+19
+20
+21
+22
+23
+24
+25
+     V12-T13-52              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

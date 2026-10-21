@@ -1,0 +1,105 @@
+     17                         Switchgear
+                                DS Low Voltage Assemblies and Power Circuit Breakers
+
+
+
+     DSII Assemblies and                  The DSII switchgear is              DSII metal-enclosed                 DSII Switchgear Assemblies
+1    Power Circuit Breakers               basically designed for easier       switchgear was designed to          Dated 1994–Present with
+                                                                                                                  Shop Order Numbers 82Y3001
+                                          installation and maintenance.       meet the following standards:
+                                          Control circuit terminal blocks                                         and Larger
+2                                         are mounted in a completely
+                                                                              ●   ANSI C37.20.1                   ● Built from April of 1996
+                                          removable tray located at the       ●   UL 1558                           to the present, these
+                                          front of the assembly above                                               assemblies contain the
+3                                         each circuit breaker—helping
+                                                                              ●   NEMA SG5
+                                                                                                                    following DSII breakers:
+                                          customers perform routine           DSII low voltage power air            ●  DSII-308, DSII-508,
+                                                                              circuit breakers (LVPACB)
+4                                         inspection of control wires.
+                                          This tray is charcoal-gray          were designed to meet the
+                                                                                                                       DSII-608, DSII-516,
+                                                                                                                       DSII-616, DSII-620,
+                                          and is perhaps the most             following standards:                     DSII-632, DSII-840
+5                                         noticeable external difference      ●   ANSI C37.13, C37.16,                 or DSII-850
+                                          between the DSII and the                C37.50 and C37.51                 ●  DSLII-308, DSLII-516,
+                                          DS designs.
+6                                                                             ●   UL 1066                              DSLII-620, DSLII-632
+                                                                                                                       (with fuse truck) or
+                                          The DSII breaker is very            ●   NEMA SG3
+                                          similar to the DS. In fact,                                                  DSLII-840 (with
+                                                                                  CSA
+7         DSII Switchgear Assembly                                            ●
+
+                                          the DSII breaker uses                                                        fuse truck)
+     Product Description                  most of the same internal           Ratings of DSII Switchgear
+     The DSII low voltage                 components—renewal parts
+8    switchgear design was first          can often be shared. The
+                                                                              ● 2000–5000A vertical
+                                                                                and cross bus
+     introduced in 1994 but was           DSII breaker was the first to       ● 6000A cross bus option
+9    originally available with only
+     the DS or DSL breakers.
+                                          include the newer family of
+                                          Digitrip RMS trip units: model
+                                                                              ● 600V maximum
+     Upon its arrival in 1996, the        510, 610, 810, 910, and             ● 100,000A bus bracing
+10   DSII breaker became the              OPTIM 750 or 1050. Unlike             standard
+     standard offering in DSII            the DS breaker, however,            ● 200,000A bus bracing
+     switchgear assemblies.               the DSII breaker provides             optional
+11   The DSII switchgear design
+                                          genuine standardization of
+                                                                              DSII Switchgear Assemblies
+                                          breaker wiring, including
+     uses only the drawout version        secondary contact points—
+                                                                              Dated 1994–Present with Shop
+12   of the power breakers. Each          without reducing features
+                                                                              Order Numbers Ranging from
+                                                                              82Y1000 to 82Y3000
+     breaker is located within an         and options. This is achieved
+     individual compartment. Each                                             ● Built from April of 1994 to
+13   compartment has extension
+                                          with a larger secondary
+                                          contact block. The DSII
+                                                                                the present, these
+     rails for supporting the                                                   assemblies contain the
+                                          breaker has up to four
+                                                                                following DS breakers:
+14   breaker while removing it
+     from the compartment. The
+                                          12-point, white secondary
+                                                                                   DS-206, DS-206H,
+                                          contact blocks whereas the
+                                                                                ●
+
+     breaker can be in either of          DS breaker, has up to four               DS-206E, DS-416,
+15   the following positions with
+     the door closed:
+                                          8-point, black secondary                 DS-416H, DS-420,
+                                          contact blocks. DSII breakers            DS-632 or DS-840
+                                          therefore cannot be installed            DSL-206, DSL-416,
+16
+                                                                                ●
+     ●   Connect
+                                          into a DS breaker cell.                  DSL-420, DSL-632 (with
+     ●   Test
+                                                                                   fuse truck) or DSL-840
+         Disconnect
+17                                                                                 (with fuse truck)
+     ●
+
+     ●   Remove                                                                 ●  DSII switchgear
+                                                                                   assemblies dated
+18                                                                                 1996–present with
+                                                                                   shop order numbers
+                                                                                   82Y3001 and larger
+19
+20
+21
+22
+23
+24
+25
+     V12-T17-6           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

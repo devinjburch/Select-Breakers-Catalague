@@ -1,0 +1,109 @@
+                                                                                                        Motor Control
+                                                                           LF Air AMPGARD Starters (Medium Voltage)
+                                                                                                                                                        13
+                                      50L2 Air-to-Vacuum Retrofit Kit            Metering and Protective                    IQ Floor-Mounted Upgrade
+                                      This kit replaces the out-of-              Relay Upgrades                                                      Style          1
+                                      production 5000V, 200A                                                                Description              Number
+                                      air-break contactor with an
+                                      SJ vacuum contactor, for
+                                                                                                                            Auxiliary section with
+                                                                                                                            cutouts only. 10-inch
+                                                                                                                                                     2147A95G35     2
+                                      starters built after 1974                                                             wide x 30-inch deep x
+                                      with ISO-Switch shutter
+                                      mechanism mounted
+                                                                                                                            90-inch high (does not
+                                                                                                                            include bus enclosure,                  3
+                                                                                                                            IQ or PB devices)
+                                      in the cell. The customer
+                                      keeps the existing starter                                                            MP-3000 and DP-4000                     4
+                                      cell and isolation switch and                                                         upgrades used for upgrading
+                                      modifies the cell to accept                                                           overload-relay technology from
+                                      the SJ contactor that is                                                              “Type-A,” IQ 2000A, IQ                  5
+                                      mechanically interlocked                                                              2000B or IQ 1000II to the
+                                      with the isolation switch.
+                                                                                                                                                                    6
+        50L7 Vacuum Retrofit
+                                                                                                                            latest technology. Also
+700A Air-to-Vacuum                    The rating remains 200A.                                                              upgrades with a new,
+Conversion Kits                                                                                                             slideout, LV control panel.
+These kits will convert an            50L2 Air-to-Vacuum
+                                                                                                                            The kit includes:
+                                                                                                                                                                    7
+existing full-voltage non-            Retrofit Kit
+reversing 700A air break                                                                                                        Typical starter schematic
+starter to vacuum.                    Description
+                                                              Style
+                                                              Number
+                                                                                                                            ●
+
+                                                                                                                            ●   0.50-inch deep, flange LV
+                                                                                                                                                                    8
+                                      200A maximum            2147A95G30                                                        door with three cut-outs for
+700A Air-to-Vacuum
+Conversion Kit                        Ampacity upgrade to 320A
+                                                                                                                                new devices                         9
+                                                                                                                            ●   Works-in-a-drawer slide-out
+                                      design for pre-1974 50L2                         IQ Floor-Mounted Enclosure
+                                                                                                                                panel for LV control devices
+Description
+                      Style
+                      Number          retrofit kits available.                   IQ Floor-Mounted Enclosure                                                         10
+450–630A maximum      2147A95G31                                                 This kit is for mounting IQ                Metering and Protective
+720A maximum          2147A95G32
+                                                                                 family products. Includes
+                                                                                 standard AMPGARD structure
+                                                                                                                            Relay Upgrades                          11
+                                                                                                                                                       Style
+25L2 Vacuum Replacement                                                          construction to be used as a
+                                                                                                                                                                    12
+                                                                                                                            Description                Number
+Contactor                                                                        lineup extension. Each 90-
+                                                                                 inch high x 30-inch deep                   DP-4000 and MP-3000        2147A95G37
+                                                                                 section comes with two                     (without RTD)
+                                                                                 doors, each with a works-in-a-             MP-3000                    2147A95G39   13
+                                                                                 drawer drawout panel. Each                 (without RTD) only
+                                                                                 door has a maximum of three
+                                                                                 standard IQ cutouts with
+                                                                                                                            DP-4000 only               2147A95G48
+                                                                                                                                                                    14
+                                                                                                                            IQ 300 only                2147A95G49
+                                                                                 device panels. Supplied with
+                                                                                 or without IQ and PB devices.
+                                                                                 (Photo left shows two
+                                                                                                                                                                    15
+                                                                                 auxiliary sections with
+                                                                                 optional bus enclosure,                                                            16
+                                                                                 IQ and PB devices.)
+    25L2 Vacuum Replacement—
+            Front View                                                                                                                                              17
+                                      Works-in-a-Drawer Metering and Protective Relay LV Device Panel
+
+                                       Current Transformer Shorting
+                                                                                                                    Rear of 1/4 Turn Fastener
+                                                                                                                                                                    18
+                                       Terminal Blocks (when specified)
+
+
+                                       Routing of
+                                                                                                                    Predrilled Holes for
+                                                                                                                    Additional Control Devices                      19
+                                       Control                                                                      MP-3000 Rear View
+                                       Wire in
+                                       Wire Channel                                                                 Indicating Lights and                           20
+                                                                                                                    Pushbuttons Rear View
+                                       Interposing
+                                       Control Relay                                                                Blank Device Panel                              21
+                                       DIN Rail Mounted                                                             Note: Low voltage door is
+    25L2 Vacuum Replacement—                                                                                        hinged to slide-out control
+             Rear View                 Wiring is Protected                                                          panel.                                          22
+This solution uses the latest          Between Low Voltage
+                                       Panel and Hinged Low                Low Voltage Panel Completely Extended
+technology “SL” contactor
+and is designed to replace
+                                       Voltage Door                                                                                                                 23
+vintage 25L2, 2500V, 200A,
+1962 air-break contactors.                                                                                                                                          24
+                                                                                                                                                                    25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                            V12-T13-93
+

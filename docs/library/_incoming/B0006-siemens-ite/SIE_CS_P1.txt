@@ -1,0 +1,449 @@
+    DATA SHEET
+
+
+
+   P1 Panelboards
+usa.siemens.com/panelboards
+
+
+
+                    Product Description
+
+                    The current generation of panelboards from Siemens offers the high level of engineering and
+                    innovation you’ve come to expect from the leader in power distribution technology. The “P Series”
+                    line of panelboards offers a stepped approach to power distribution. (P1-P2-P3-P4-P5)
+
+                    The line is anchored by the innovative P1, featuring the industry’s most flexible designs. The P1
+                    series virtually eliminates common errors, such as feed direction, and main lug versus main breaker.
+                    Increasing distribution is simplified by the ability to add feed-thru lugs or Subfeed Breakers in the
+                    field.
+
+                    P1 construction includes the following:
+                    • 250A max. bus in CU or AL tin plated w/18-66 1-pole circuits					
+                    • 400A max. bus in CU or AL tin plated w/30-66 1-pole circuits					
+                    * Interiors with BL/BQD branch unit space are available in both Feed-thru and Non-Feed-thru
+                    variations. (FT panel # ends with “T”, NFT panel # ends with “N”)					
+                    **Interiors with xGB/3VA41 branch unit space are only available in Feed-thru variations and 3-phase
+                      only.											
+                    *** Non-Feed-thru interiors do not include the Sub-Feed Space, but allows for 6” of additional unit
+                    space in the same size enclosure.
+
+                    Standards & Certifications:
+                    • NEC: 2020 (where accepted), NEMA PB 1 and ANSI/NEMA PB1.1				
+                    • UL Listed: 67, 50 and 50E. (see “Panelboards" File #E2269, and #E4016) Also meets Federal
+                      Specification W-P-115c. 									
+                    • NFPA 70 compliant (Enclosures are not fire rated).						
+                    • Seismically qualified and OSHPD rated (OSP #0078)- see also LVTM-LVSEI-xxxx Seismic Flier
+2 P1 Panelboards
+
+
+
+                   Features Overview
+
+                   The P1 Series lighting panel features include:
+
+                   1) Fas-Latch trim (Type 1), is standard but, P1 can be ordered with other popular front styles.		
+                   2) Adjustable Interiors with jacking screw system.						
+                   3) The split neutral with connections on both sides of the panel.					
+                   4) Interior is invertible in the field and convertible from Main Breaker to Main Lug 				
+                     (also ML to MB) with field installable kits.							
+                   5) Feed-Thru panels can add Feed-thru Lugs, subfeed breakers or bus mounted Surge 			
+                     Protection with no box size change.
+
+                   P1 construction features:
+                   • Either 250A or 400A max. main bus, only Temp Rated Tin plated aluminum bus or tin 			
+                     plated copper bus are available.								
+                   • Up to 600 volts AC with standard Bus bracing up to 200KAIC
+
+                   Main space:
+                   • 250A max. bus allows for any MLO or MB kit up to 250A max. to be installed or changed in 		
+                     the field as needed.									
+                   • 400A max. bus allow for any 400A MLO or MB kit to be installed or changed in the field as 		
+                     needed.
+
+                   Unit space:
+                   • BL/BQD Unit Space Panels only accept BL, BT or BQD frame breakers up to 100A max. 			
+                     (includes AFCI/GFCI series and BSPD surge)							
+                   • xGB/3VA41 Unit Space Panels only accept xGB or 3VA41 frame breakers up to 125A max. 			
+                     (Limited to 100A in the 250A 18 Circuit Panel only) (BSPD bolt on SPD also available)
+
+                   Subfeed space: (available only with Feed-thru interiors)
+                   a) Feed-Thru Lugs either 250A max or 400A max are available					
+                   b) Subfeed Breakers can be added using any of the 250A max. Main Strap kits for both 250A 		
+                     or 400A Panels.										
+                   c) Surge Protection Devices: Bus Mounted SPD can be added as Factory Assembled or in the 			
+                   field. (TPS3 02/L2 or TPS4 01/L1 series)
+
+                   Additional information:
+                   For complete application and pricing information contact your local sales office.
+
+                   For further information on the product, visit our website at www.usa.siemens.com/panelboards.
+
+                   For detailed configuration information consult the SpeedFax section 11 on the website.
+                                                                                     P1 Panelboards   3
+
+
+
+P1 Panelboard additional information
+
+Enclosures available:
+• Std. Enclosure sizes: 20” wide x 5.75” Deep 						
+• Std. heights: 26”, 32”, 38”, 44”, 50”, 56”, 62”, 68” and 74”. Also available B74FLR universal 		
+  fit Type 1 Enclosure fits all P1/P2 interiors 26” thru 74”.					
+• Std. Types Available: Type 1, Type 3R, Type 3R/12, or Type 4X
+
+Type 1 Fronts — Surface or Flush available:
+Order to match box height: Typical 20” wide w/ #14 Gauge Steel
+
+• FasLatch Front (Surface or Flush) is Standard, options available: Screw-to-Box, 			
+  Hinge-to-Box and Door-in-Door fronts with either standard hinge or Piano Hinge 			
+  options (including 304 Stainless).
+
+Weight = Approximate 3 lbs. per inch of box height
+• Total panelboard weight when filled with a normal quantity of breakers and accessories 		
+  is an estimate only.
+
+Series Connected Short Circuit Ratings
+The term “Series Connected Short Circuit Rating” refers to the application of series connected
+circuit breakers in a combination that allows some breakers to have lower individual interrupting
+ratings than the available fault current.
+
+This is permitted as long as the series combination has been tested and certified by UL. See
+Circuit Breaker Section of the SpeedFax.
+
+• Series rating booklet # PBTA-00101B-1020 (web searchable)
+4 P1 Panelboards
+
+
+
+
+ Catalog Numbering System: Factory Assembled )                               P   1    C    4   2 M L      2    5       0   A       T   S    N          Voltage codes
+
+                                         Type of Panel:                      P   1                                                                       A     120/240 1: 3 W AC
+
+                         Voltage and System Code:               A, C/X, D, E/8                                                                         C or    208Y/120 3: 4 W Wye AC
+                                                                                                                                                        X      - X is for P1 UPB only
+       “X” and “8” are for P1 UPB only interiors                F, J, I, T
+                (UPB max . circuits = 54) Circuits:             18, 30, 42, 54, 66                                                                      D      240 3: 3 W Delta AC
+
+             (See Speedfax for MB Codes) Main:                  ML = Main Lug,                                                                                 480Y/277 3: 4 W Wye
+                                                                                                                                                         8
+                                                                                                                                                               - P1 w/GB/3VA41 Branch Only
+             MC (Main Convertible for UPB only)                 “xx” = Main Breaker
+   (UPB : only 250A or 400A max.) Amperage:                     100-400A                                                                                 E     480Y/277 3: 4W Wye AC
+
+       (only Tin Plated CU or AL Bus) Bus Code:                 (material/plating) A or C only                                                           F     480 3: 3 W Delta AC
+                                        Feed Location:          T = Top      B = Bottom                                                                  J     240 1: 2W No Neutral AC
+                                             Mounting:          S = Surface F = Flush
+                                                                                                                                                         I     347 3: 3W Delta AC
+             Subfeed Space Indicator (RP1 only)                 Factory assembled: T or N = No Subfeed Space
+                                                                                                                                                         T     230 3: 3W Delta AC
+       UPB Catalog number - only 12 characters )                             P   1    X    4   2 M C      2    5       0   A       T
+                                                                                                                                       N/A                     UPB Interiors available only in
+                                                                                                                                                       Note:
+         Subfeed Space Indicator (for RP1 only)                 UPB: always = T = Subfeed Space Included                           T                           codes: A, E, X and 8
+
+
+
+Branch Circuit Breakers (also see Bolt on SPD series BSPD in this flier # RPFL-BSPD1-0120)
+                                                           1-Pole                                                  2-Pole and 3-Pole
+ Revised P1 Branch
+ Circuit Breakersa                                         Max IR (kA) at                                          Max IR (kA) at
+                                                                                                 Amp                                                                    125/
+ Amp    Trip                 Breaker      Breaker                                         125V   Ratings           120/                    480Y/        600Y/           250V     250V     Amp Ratings
+ Rating Type                 Family       Type             120V       277V       347V     DCd    Available         240V        240V        277V 480V    347V 600V       DCd      DCd      Available
+
+                                          BL, BTj          10         —          —        —      15-70j            10          10          —    —       —      —        —        —        15-100f
+
+           Thermal
+                             BL           BLH, BTHj        22         —          —        —      15-70j            22          22          —    —       —      —        —        —        15-100f
+           Magnetic
+
+                                          HBL              65         —          —        —      15-50             65          65          —    —       —      —        —        —        15-100
+
+ 100                                      BLGs             10         —          —        —      15-20             10          -           —    —       —      —        —        —        30
+           Specials          BLG
+           Application       BL
+                                          BL(HID)s         10         —          —        —      15-30             10          -           —    —       —      —        —        —        15-30
+
+                             BQD          BQDg             65         14         —        13     15-100            —           65          14   —       —      —        13       —        15-100
+           Thermal
+                             BQD
+           Magnetic
+                             (CSA)        BQD6h            65         —          —        13     15-70             —           65               —       10     —        13       —        15-70
+                                          AFCI/GFCI                                              see special                                                                              see special
+           Electronic
+ XX                          BL           & Dual           X          —          —        —      table page        x           —           —    —       —      —        —        —        table page
+           and misc.
+                                          Function                                               SF 11-17                                                                                 SF 11-17
+                                          NGB              100        25         14       13     15-125            —           100         25   —       14     —        13       —        15-125
+
+                             GBk          HGB              100        35         14       13     15-125            —           100         35   —       14     —        13       —        15-125
+
+                                          LGB              100        65         14       13     15-125            —           100         65   —       14     —        13       —        15-125
+           Thermal
+ 125
+           Magnetic
+                                          SEAB             65         25         14       13     15-125            65          65          25   25      14     —        53       53       15-125
+
+                             3VA41d       MEAB             85         35         18       23     15-125            85          85          35   35      18     —        83       83       15-125
+
+                                          HEAB             150        65         25       33     15-125            150         150         65   65      25     —        103      103      15-125
+
+a Unit space is 1 inch per pole, except for Special Application with accessory included.                  f 110A-125A BL/BLH (2-pole only) available as Main or Subfeed only in Revised P1 panels.
+  - No branch kits available, unit space for all branch positions is twin mount.                          g Approved for CSA and UL Listed.
+  - Branch space is either for BL/BQD only (or) for xGB/3VA41 only.                                       h Approved for CSA but not UL Listed.
+s BLG: Two-pole breaker is one phase and neutral. Three pole is two phases and neutral                    j BT and BTH are only available in 15A and 20A with two 1-pole circuits in one inch of unit space.
+  - See SpeedFax Page 7-31 for additional info. Some are Built to order. Allow 2-3 weeks delivery.        k The Revised P1 (18 circuit 250A only) is limited to 100A per connection (200A per pair) when
+d DC Voltage Systems are not approved for use in P1 panels. Refer to P2/P3 panels if DC Voltage               installing xGB Branch Breakers across from one another. 3VA41 does not have this restriction.
+  Systems are needed.                                                                                         All other configurations allow 125A per connection max. (250A per pair max.)
+                                                                                                                                             P1 Panelboards    5
+
+
+
+Primary Main Breaker Selections available for P1 Panels									
+Note: all 250A frame and smaller are suitable for Subfeed single mount
+                                                                         2-Pole and 3-Pole
+ P1 Main Circuit Breakers & Subfeed                                      Max IR (kA) at a
+                                                                                                                        Amp                Main Strap Kits d
+
+
+
+
+                                                                                                480Vf
+
+
+
+
+                                                                                                                600Vg
+                                                                                       /277V
+
+
+
+
+                                                                                                        /347V
+                                                                            240V
+
+
+
+                                                                                       480Y
+
+
+
+
+                                                                                                        600Y
+ Amp          Breaker             Main Breaker           Breaker                                                        Ratings            (Subfeed up
+ Rating       Family              Code                   Type                                                           Available           to 250A max.)
+
+                                  BL                     BL                10          —       —        —       —       15-100
+
+              BL                  BH                     BLH               22          —       —        —       —       15-100
+ 100
+                                  HB                     HBL               65          —       —        —       —       15-100
+
+              BQD                 BQ                     BQDs              65          14      —        10      —       15-100
+                                                                                                                                           MBKVA41A
+                                  NB                     NGB               100         25      —        14      —       15-125             for 1-phase
+              Sentron                                                                                                                      MBKVA41B
+                                  G2                     HGB               100         35      —        14      —       15-125
+              GB                                                                                                                           for 3-phase
+                                  G3                     LGB               100         65      —        14      —       15-125
+ 125
+                                  V1                     SEAB              65          —       25       14      —       15-125
+
+              3VA41               V2                     MEAB              85          —       35       18      —       15-125
+
+                                  V3                     HEAB              100         —       65       25      —       15-125
+
+                                  QR                     QR2               10          —       —        —       —       100-225
+                                                                                                                                           MBKQR1A
+                                  Q4                     QRH2              25          —       —        —       —       100-225            for 1-ph
+              Sentron
+ 225
+              QR
+                                  Q5                     HQR2              65          —       —        —       —       100-225            MBKQR3A
+                                                                                                                                           for 3-ph
+                                  Q6                     HQR2H             100         —       —        —       —       100-225
+
+                                  VA                     MFAS              85          —       35       —       18      100-250
+               3VA52
+              (W/TM230            VB                     HFAS              100         —       65       —       25      100-250
+              trip)
+                                  VC                     CFAS              200         —       100      —       35      100-250            MBKVA5262A
+                                                                                                                                           for 1-phase
+ 250
+                                  WA [W2]                MFAE [MDAE]       100         —       35       —       18      100-250 [40-150]
+ [150]
+                                                                                                                                           MBKVA5262B
+              3VA62               WB [W3]                HFAE [HDAE]       100         —       65       —       22      100-250 [40-150]   for 3-phase
+              [3VA61]
+              (ETU350 LSI
+              standard)           WC [W4]                CFAE [CDAE]       200         —       100      —       35      100-250 [40-150]
+
+                                  WD [W5]                LFAE [LDAE]       200         —       150      —       50      100-250 [40-150]
+
+                                  VE                     MJAS              85          —       35       —       18      200-400
+              3VA53
+              (W/TM230            VF                     HJAS              100         —       65       —       25      200-400
+              trip)
+                                  VG                     CJAS              200         —       100      —       35      300-400
+                                                                                                                                           MBKVA5363A
+                                                                                                                                           for both
+ 400                              WE                     MJAE              100         —       35       —       18      100-400
+                                                                                                                                           1-phase &
+                                                                                                                                           3-phase
+              3VA63               WF                     HJAE              100         —       65       —       22      100-400
+              (ETU350 LSI
+              standard)           WG                     CJAE              200         —       100      —       35      100-400
+
+                                  WH                     LJAE              200         —       150      —       50      100-400
+
+a DC System Voltages are not available for RP1 series.
+s Approved for CSA and UL Listed.
+d For Revised P1 Panels only. Not applicable for “original” P1 panels.
+f 480V values apply to 480Y/277V also.
+g 600V values apply to 600Y/347V also.
+6 P1 Panelboards
+
+
+
+                   Standard Enclosures                                                       Lug Kits — Main or Feed Thru
+                                Catalog Number                                               Amp         Wire Range                                           Revised P1
+                    Box                                                                      Rating Mat. (includes Neutral)                         Service   Catalog No.a
+                    Height      Type 1 Standard Trim
+                    (in.)       Boxa        Surfaces       Flushs   Type 3Rd   Type 3R/12d                                                          1 Phase   MLKA1A
+                                                                                                                    (1) #6 AWG-
+                                                                                                           AL
+                    26          B26         S26B           F26B     NR26       WP26                                 350 kcmil (CU or AL)
+                                                                                                                                                    3 Phase   MLKA3A
+                                                                                             250
+                    32          B32         S32B           F32B     NR32       WP32
+                                                                                                                    (1) #6 AWG-                     1 Phase   MLKC1A
+                                                                                                           CU       350 kcmil (CU) cable
+                    38          B38         S38B           F38B     NR38       WP38
+                                                                                                                    only                            3 Phase   MLKC3A
+                    44          B44         S44B           F44B     NR44       WP44
+                                                                                                                                                    1 Phase   4MLKA1A
+                                                                                                                    (2) 1/0 - 250 kcmil
+                                                                                                           AL
+                    50          B50         S50B           F50B     NR50       WP50                                 or (1) #2 AWG-600 kcmil
+                                                                                                                                                    3 Phase   4MLKA3A
+                                                                                             400
+                    56          B56         S56B           F56B     NR56       WP56
+                                                                                                                                                    1 Phase   4MLKC1A
+                                                                                                                    (1) 1/0 - 600 kcmil
+                                                                                                           CU
+                    62          B62         S62B           F62B     NR62       WP62                                 CU cable only
+                                                                                                                                                    3 Phase   4MLKC3A
+                    68          B68         S68B           F68B     NR68       WP68
+                                                                                                                    (1) AL 1/0-750 kcmil            1 Phase   4MLKA1B
+                                                                                             400           AL       (2) AL/CU 250kcmil max.
+                    74          B74         S74B           F74B     NR74       WP74
+                                                                                                                    [max.(1) 600 kcmil CU wire]     3 Phase   4MLKA3B
+                   a 14 Gauge Steel only.
+                   s 16 Gauge Can w/ 14 Gauge Front.
+                                                                                             a
+                                                                                                 Revised P1 kits cannot be used with original P1.
+
+
+
+
+                              Surface Flush                                                                       Surface Flush
+                         Box                # of                                                             Box                # of
+                         Size A       A     Hinges                                                           Size A       A     Hinges
+                         26     26          27.5       2                                                     56      56           57.5      3
+                         32     32          33.5       2                                                     62      62           63.5      3
+                         38     38          39.5       2                                                     68      68           69.5      3
+                         44     44          45.5       3                                                     74      74           75.5      3
+                         50     50          51.5       3
+                                                                                                                                                                                              P1 Panelboards      7
+
+
+
+                 Type 1 Box				
+                 Box is symmetrical
+
+                             0.313 in. Dia.
+
+
+                                              0.313 in. Dia.
+
+
+
+
+                                                                                                                                                 ³⁄₄ in.                    20 in.                   ³⁄₄ in.
+                                                                                                                                                 [19 ]                     [ 508 ]                   [19 ]
+
+
+
+
+                                                                                                                                                                                                    5.75 in.
+                                                                                                                                                                                                    [ 146 ]
+
+
+
+
+                                                                          (UL approved construction. 16 Gage Steel or equivalent alternate Construction.
+                                                                          14 or 12 Gage is available as an optional special order.)
+                                                                          G60 Galvanized is standard without paint.
+
+
+
+
+                 Type 3R and 3R/12 Box								                               8.0 in. Flush Mounting
+                 Note: 3R boxes 50" High and Larger include two "T" handles. [ 204 ]
+
+                                                                                                                                      8.0 in.
+                                                                                                                                      [ 204 ]
+nting Holes                                          (Mounting Holes
+ in. Square)                                         0.437 in. Square)
+
+                 (Mounting Holes                                         (Mounting Holes
+                 0.437 in. Square)                                       0.437 in. Square)
+
+
+
+width = 12.97"
+
+                                                                                                                                                           (UL approved construction. 16 Gage Steel Can with
+                 Door width = 12.97"                                                                                                                       14 Gage front or similar approved construction.)
+                                                                                                                                                           A60 Galvannealed with ANSI 61 light gray paint is
+                                                                                                                                                           standard.
+
+
+
+nting Holes                                          (Mounting Holes
+ in. Square)                                         0.437 in. Square)                                                                                     Dimensions are interior of the box. Add 5/8” to
+                                                                                                                                                           width for absolute dimension. Add 1/8” to height for
+                                                                                                                                                           absolute dimension.
+                 (Mounting Holes                                         (Mounting Holes
+                 0.437 in. Square)                                       0.437 in. Square)
+                                                                                                                                                           Dimensions shown in inches and millimeters [ ].
+
+
+
+
+                               23.0 in.
+                               [ 584 ]
+
+                                                23.0 in.
+                                                [ 584 ]
+Legal Manufacturer                  This document contains a general
+                                    description of available technical options
+Siemens Industry, Inc.
+                                    only, and its effectiveness will be subject to
+3617 Parkway Ln
+                                    specific variables including field conditions
+Peachtree Corners, GA 30092
+                                    and project parameters. Siemens does not
+United States of America
+                                    make representations, warranties, or
+Telephone: +1 (800) 333-7421        assurances as to the accuracy or
+www.usa.siemens.com/panelboards     completeness of the content contained
+                                    herein. Siemens reserves the right to
+Order No. PBSS-20301-1021
+                                    modify the technology and product
+© 10.2021, Siemens Industry, Inc.
+                                    specifications in its sole discretion without
+                                    advance notice.
+

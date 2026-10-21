@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    EHB1025                  4989D52G04        O          —                        —                      EHD1025                   1–3, 5
+     EHB1030                  4989D52G05        O          —                        —                      EHD1030                   1–3, 5
+3    EHB1035                  4989D52G06        O          —                        —                      EHD1035                   1–3, 5
+     EHB1040                  4989D52G07        O          —                        —                      EHD1040                   1–3, 5
+
+4    EHB1050                  4989D52G08        O          —                        —                      EHD1050                   1–3, 5
+     EHB1060                  4989D52G09        O          —                        —                      EHD1060                   1–3, 5
+
+5    EHB1070                  4989D52G10        O          —                        —                      EHD1070                   1–3, 5
+     EHB1080                  4989D52G14        O          —                        —                      EHD1080                   1–3, 5
+
+6    EHB1090                  4989D52G11        O          —                        —                      EHD1090                   1–3, 5
+     EHB1100                  4989D52G12        O          —                        —                      EHD1100                   1–3, 5
+
+7    EHB1100LK                1226C25G11        O          —                        —                      —                         1–3, 5, 8
+     EHB2015                  4989D52G18        O          —                        —                      EHD2015                   1–3, 5
+
+8    EHB2020
+     EHB2025
+                              4989D52G19
+                              4989D52G20
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           EHD2020
+                                                                                                           EHD2025
+                                                                                                                                     1–3, 5
+                                                                                                                                     1–3, 5
+
+9
+     EHB2030                  4989D52G21        O          —                        —                      EHD2030                   1–3, 5
+     EHB2035                  4989D52G22        O          —                        —                      EHD2035                   1–3, 5
+     EHB2040                  4989D52G23        O          —                        —                      EHD2040                   1–3, 5
+10   EHB2045                  4989D52G29        O          —                        —                      EHD2045                   1–3, 5
+     EHB2050                  4989D52G24        O          —                        —                      EHD2050                   1–3, 5
+11   EHB2060                  4989D52G25        O          —                        —                      EHD2060                   1–3, 5
+     EHB2070                  4989D52G26        O          —                        —                      EHD2070                   1–3, 5
+12   EHB2090                  4989D52G27        O          —                        —                      EHD2090                   1–3, 5
+     EHB2100                  4989D52G28        O          —                        —                      EHD2100                   1–3, 5
+13   EHB2100LK                1226C25G12        O          —                        —                      EHD2100KL                 1–3, 5, 8
+     EHB3015                  4989D52G34        O          HFB3015L                 4997D19G34             EHD3015                   1–3, 5
+14   EHB3015S                 4991D35G18        O          HFB3015L                 4997D19G34             EHD3015                   1–5
+     EHB3020                  4989D52G35        O          HFB3020L                 4997D19G35             EHD3020                   1–3, 5
+
+15   EHB3020S                 4991D35G19        O          HFB3020L                 4997D19G35             EHD3020                   1–5
+     EHB3025                  4989D52G36        O          HFB3025L                 4997D19G36             EHD3025                   1–3, 5
+
+16   EHB3025S                 4991D35G20        O          HFB3025L                 4997D19G36             EHD3025                   1–5
+     EHB3030                  4989D52G37        O          HFB3030L                 4997D19G37             EHD3030                   1–3, 5
+
+17   EHB3030S                 4991D35G21        O          HFB3030L                 4997D19G37             EHD3030                   1–5
+     EHB3035                  4989D52G38        O          HFB3035L                 4997D19G38             EHD3035                   1–3, 5
+
+18   EHB3035S                 4991D35G22        O          HFB3035L                 4997D19G38             EHD3035                   1–5
+     EHB3040                  4989D52G39        O          HFB3040L                 4997D19G39             EHD3040                   1–3, 5
+
+19   EHB3040S
+     EHB3045
+                              4991D35G23
+                              4989D52G45
+                                                O
+                                                O
+                                                           HFB3040L
+                                                           HFB3045L
+                                                                                    4997D19G39
+                                                                                    4997D19G54
+                                                                                                           EHD3040
+                                                                                                           EHD3045
+                                                                                                                                     1–5
+                                                                                                                                     1–3, 5
+
+20
+     EHB3045S                 NO STYLE          O          HFB3045L                 4997D19G54             EHD3045                   1–5
+     EHB3050                  4993D67G40        O          HFB3050L                 4997D19G40             EHD3050                   1–3, 5
+
+21
+     EHB3050S                 4991D35G24        O          HFB3050L                 4997D19G40             EHD3050                   1–5
+     EHB3060                  4993D67G41        O          HFB3060L                 4997D19G41             EHD3060                   1–3, 5
+     EHB3060S                 4991D35G25        O          HFB3060L                 4997D19G41             EHD3060                   1–5
+22   EHB3070                  4993D67G42        O          HFB3070L                 4997D19G42             EHD3070                   1–3, 5
+     EHB3070S                 4991D35G26        O          HFB3070L                 4997D19G42             EHD3070                   1–5
+23   EHB3080                  4993D67G46        O          HFB3080L                 4997D19G55             EHD3080                   1–3, 5
+     EHB3080S                 NO STYLE          O          HFB3080L                 4997D19G55             EHD3080                   1–5
+24   EHB3090                  4993D67G43        O          HFB3090L                 4997D19G43             EHD3090                   1–3, 5
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-118              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

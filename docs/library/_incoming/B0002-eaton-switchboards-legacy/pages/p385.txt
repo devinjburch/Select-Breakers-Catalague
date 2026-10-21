@@ -1,0 +1,81 @@
+     13                          Motor Control
+                                 Contactors, Starters and Brakes
+
+
+
+     IT. Electromechanical IEC             Product History Time Line for IT. Electromechanical IEC
+1
+                                             Product                                                          2000                2005               Present
+2                                            IT. Electromechanical IEC
+
+
+3                                          Replacement Capabilities
+
+4                                                               Replacements for IEC Contacts and Starters
+                                                                Frame                                                                    Catalog
+                                                                Size            Description                                              Number
+5                                          Contact Kits         C               40A                                                      EMCKT40
+                                                                C               50A                                                      EMCKT50
+6                                                               D               65A                                                      EMCKT65
+                                                                D               85A                                                      EMCKT85
+7                                                               D               100A                                                     EMCKT100
+
+          IEC FVNR Starter, C-Frame                             E               125A                                                     EMCKT125
+
+8    Product Description
+                                                                E               160A                                                     EMCKT160
+                                                                E               200A                                                     EMCKT200
+     The Cutler-Hammer
+9    Intelligent Technologies (IT.)                             F               250A                                                     EMCKT250
+     electromechanical starter                                  F               315A                                                     EMCKT315
+     from Eaton’s electrical
+10
+                                                                F               400A                                                     EMCKT400
+     business consists of an IT.           Coils 2              C               Coil                                                     EMCC
+     electromechanical contact
+     block or contactor and IT.                                 D               Coil                                                     EMCD
+11   electromechanical solid-state                              E               Coil                                                     EMCE
+     overload relay as a full voltage                           F               Coil                                                     EMCF
+12   non-reversing (FVNR) or full
+     voltage reversing (FVR)
+     device. A-Frame (27 mm) to
+13   F-Frame (140 mm) Starters             DIN Rail Catch       B, C            Catch with leaf spring and pad                           EMDRCB
+     are factory or field
+                                                                D               Catch with leaf spring and pad                           EMDRCD
+     assembled.
+14
+15
+16
+                                           Lug Kits             C               Lug                                                      EMLUGKTC
+
+17                                                              D               Lug                                                      EMLUGKTD
+                                                                E               Lug                                                      EMLUGKTE
+
+18                                                              F
+                                                                F
+                                                                                Horizontal box lug kit
+                                                                                Vertical box lug kit
+                                                                                                                                         EMLUGKTFA
+                                                                                                                                         EMLUGKTFB
+                                                                F               Dual lug kit                                             EMLUGKTFC
+19                                         Overload Busbars     B               For contactors and starters                              EMBBB
+                                                                C               For starters                                             EMBBC
+20                                                              C               For reversing contactors and reversing starters          EMBBRC
+                                                                D               For starters                                             EMBBD
+21                                                              D               For reversing contactors and reversing starters          EMBBRD
+                                                                E               For starters                                             EMBBE
+
+22                                                              E               For reversing contactors and reversing starters          EMBBRE
+                                                                F               Overload relay                                           EMBBOF
+
+23                                                              Note
+                                                                1 For reversing contactors and starters, order two.
+
+
+
+24                                         Technology Upgrades
+                                           This product currently listed in Volume 5—Motor Control and Protection, CA08100006E, Tab 2.
+
+25
+     V12-T13-48           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

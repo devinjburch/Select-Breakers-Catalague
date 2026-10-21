@@ -1,0 +1,84 @@
+     15                          Distribution Switchboards (Low Voltage)
+                                 Clipper Power System—Visor Series, IQ and PowerNet Retrofits
+
+
+
+     Technology Upgrades                   IQ and PowerNet                     Further Information
+1    Digitrip Trip Unit Retrofit Kits
+                                           Communications Retrofits            Publication
+                                           Cutler-Hammer IQ products           Number         Description
+     Trip unit retrofit kits are
+                                           replace existing analog
+2    available for all SPB and
+                                           meters, instruments and
+                                                                               CA08100003E    Volume 2—Commercial Distribution, Switchboards, Tab 4
+     DS breaker frames. Refer to
+                                           protective relays with              RP01301013E    Systems Pow-R Breakers Renewal Parts and Accessories
+     Tab 17, Pages V12-T17-33
+3    to V12-T17-36.
+                                           microprocessor-based
+                                           solid-state true rms sensing        Pricing Information
+     SPD Series Surge                      devices. IQ products can
+                                                                               Price List for Pow-R-M-S switchboard—PL 32-624A
+4    Protective Devices                    be furnished as components
+                                           for field installation on the       Price List for SPB breakers—PL.22A.01.P.E
+                                           switchboard or can be
+5                                          provided as new replacement
+                                           front panels. The new
+                                           replacement front panels
+6                                          available for switchboard
+                                           assemblies include the IQ
+7                                          devices mounted and wired.
+                                           The IQ products can be
+                                           matched in numerous
+8                                          combinations to include the IQ
+                                           Analyzer, IQ DP-4000, IQ 200
+                                           and IQ 300. Communications
+9                                          can then be tied to the Cutler-
+                                           Hammer PowerNet System.
+10         Surge Protective Device
+     Product Description
+     Eaton SPD series of surge
+11   protective devices ensures
+     that equipment is protected
+12   with the safest, most reliable
+     and most advanced UL 1449
+     3rd Edition certified protectors.
+13   The array of features, options
+     and configurations ensures
+     that there is a unit for all
+14   electrical applications.
+     The SPD family protects
+     equipment from the
+15   damaging effects of surges
+     and electrical line noise. Field
+16   installation is required.
+     Benefits
+       SPD Series can be
+17
+     ●
+
+       externally mounted to
+       existing distribution
+18     equipment
+     ● Surge ratings: 50, 80, 100,
+       120, 160, 200, 250, 300
+19     and 400 kA
+     ● Standard NEMA 1
+20     enclosure, optional
+       NEMA 4 and NEMA 4X
+       enclosures.
+21   ● Surface or flush mounting
+     ● Full range of diagnostic and
+22   ●
+       monitoring options
+       Remote mountable
+       display panel
+23   For more information about
+     the Eaton family of surge
+24   products, contact your local
+     Eaton Field Sales office.
+
+25
+     V12-T15-6            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

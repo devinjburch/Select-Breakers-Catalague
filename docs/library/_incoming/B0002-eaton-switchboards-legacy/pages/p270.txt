@@ -1,0 +1,99 @@
+     10                             IQ Products
+                                    General Information
+
+
+
+     Metering Selection Chart, continued
+1    Device Name                     IQ 130/140/150 Series                  IQ 150S/250S Series                   IQ 35M Series
+     Accessories
+
+2
+     See Page V12-T10-31
+
+
+
+3
+4    Section Page Number             V12-T10-20                             V12-T10-21                            V12-T10-22
+     Electrical Parameters
+5    Volts                           ±0.25% of RV                           0.1% of RV                            0.4% +0.015% per °C deviation from 25°C
+     Amperes                         ±0.25% of RV                           0.1% of RV                            0.4% (5–100%), 0.8% (1–5%) +0.015% per °C from 25°C
+6    Current range (% of nominal)    0.1–200%                               0.1–200%                              1–120%
+     Watts                           0.5% of RV 1                           0.2% of RV                            0.5% per ANSI C12.20 and IEC 62053-22 Class 0.5S
+7    VARs                            0.5% of RV 1                           0.2% of RV                            2.0% per IEC 62053-23 Class 2
+     VA                              0.5% of RV 1                           0.2% of RV                            Calculated: vector sum of watts and VARs
+
+8    PF-apparent                     0.5% of RV 1                           0.2% of RV                            Calculated: Watts / VAs
+     PF-displacement                 —                                      —                                     —
+
+9    Frequency                       ±0.03% Hz 1                            ±0.03 Hz                              ±0.02 Hz
+     THD-voltage                     —                                      —                                     —
+
+10   THD-current                     —                                      —                                     —
+     Watthours                       ±0.5% per ANSI C12.20 0.5 Class 2      ±0.2% per ANSI C12.20 0.2 Class       0.5% per ANSI C12.20 and IEC 62053-22 Class 0.5S
+
+11   Varhours
+     VA-hours
+                                     ±0.5% per ANSI C12.20 0.5 Class 2
+                                     ±0.5% per ANSI C12.20 0.5 Class 2
+                                                                            ±0.2% per ANSI C12.20 0.2 Class
+                                                                            ±0.2% per ANSI C12.20 0.2 Class
+                                                                                                                  ±2.0% per IEC 62053-23 Class 2
+                                                                                                                  —
+
+12   Ampere-demand
+     Watt-demand
+                                     ±0.5% per ANSI C12.20 0.5 Class 2
+                                     ±0.5% per ANSI C12.20 0.5 Class 2
+                                                                            ±0.1% per ANSI C12.20 0.2 Class
+                                                                            ±0.2% per ANSI C12.20 0.2 Class
+                                                                                                                  —
+                                                                                                                  0.5% per ANSI C12.20 and IEC 62053-22
+                                                                                                                  Class 0.5S
+13   VAR-demand                      ±0.5% per ANSI C12.20 0.5 Class 2      ±0.2% per ANSI C12.20 0.2 Class       2.0% per IEC 62053-23 Class 2
+     VA-demand                       ±0.5% per ANSI C12.20 0.5 Class 2      ±0.2% per ANSI C12.20 0.2 Class       Calculated: vector sum of watts and VARs
+14   Revenue accuracy                ANSI C12.20 (0.5%)                     ANSI C12.20 (0.2%)                    0.5% per ANSI C12.20 and IEC 62053-22 Class 0.5S
+     Individual ampere harmonics     —                                      —                                     —
+
+15   Individual voltage harmonics    —                                      —                                     —
+     Interharmonics                  —                                      —                                     —
+
+16   Minimum and/or Maximum Values
+     Volts                           L-L, L-N                               L-L, L-N                              —
+
+17   Current                         A, B, C                                A, B, C                               —
+     Power                           Watt, VAR, VA                          Watt, VAR, VA                         —
+
+18   Power factor                    Apparent 1                             Apparent                              Apparent (low alert)
+     Frequency                       Hertz 1                                Hertz                                 Hertz (out of range alert)
+
+19   THD
+     Demand values
+                                     Ampere/Volts
+                                     kW, kVAR, kVA, amperes 1
+                                                                            —
+                                                                            kW, kVAR, kVA, amperes
+                                                                                                                  —
+                                                                                                                  kW, kVAR, kVA; Maximum kW, kVAR, kVA
+                                     3
+
+20
+     Trend analysis                                                         2 MB 5                                —
+     Event logging                   3                                      2 MB 5                                Logging on demand interval or Modbus command 4
+     Disturbance recording           —                                      —                                     —
+21   Notes                                                                             Legend: PG         = Programmable
+     1 IQ 140 and IQ 150.                                                                      FS         = Full scale
+22   2 IQ 150 only.
+     3 At computer only.
+                                                                                               RV         = Read value
+
+     4 Optional.
+
+23   5 IQ 250S only.
+
+
+
+
+24
+25
+     V12-T10-6                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

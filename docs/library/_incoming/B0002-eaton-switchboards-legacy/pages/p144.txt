@@ -1,0 +1,105 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                    3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                            1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+HMA3800TA                457D460G28       O          HMA3800T                 371D373G28             —                         2, 8                         2
+HMC2800F                 6590C16G05       O          —                        —                      MDL3800F/MES3800LS        1, 2, 3, 5, 8
+HMC2800FM                6590C16G07       O          —                        —                      MDL3800F/MES3800LS        1, 2, 3, 5, 8                3
+HMC3800F                 6590C16G06       A          —                        —                      MDL3800F/MES3800LS        1, 2, 3, 5, 8
+HMC3800FM                6590C16G08       O          HMC3800F                 6590C16G06             MDL3800F/MES3800LS        1, 2, 3, 5, 8                4
+HMCA2800F                6590C16G17       A          —                        —                      MDL3800F/MES3800LSI       1, 2, 3, 5, 8
+HMCA3800F                6590C16G18       A          —                        —                      MDL3800F/MES3800LSI       1–3, 5, 8
+                                                                                                                                                            5
+HMCC3800F                6590C14G06       A          —                        —                      CMDL3800F/MES3800LS       1–3, 5, 8
+HMCCA3800F               6590C14G18       A          —                        —                      CMDL3800F/MES3800LSI      1–3, 5, 8
+                                                                                                                                                            6
+HMCCG3800F               1242C62G09       A          —                        —                      CMDL3800F/MES3800LSG      1–3, 5, 8
+HMCCGA3800F
+HMCG3800F
+                         1242C62G11
+                         1242C60G09
+                                          A
+                                          A
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     CMDL3800F/MES3800LSIG
+                                                                                                     MDL3800F/MES3800LSG
+                                                                                                                               1–3, 5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                            7
+HMCGA3800F
+HNB21000
+                         1242C60G11
+                         1234C26G15
+                                          A
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     MDL3800F/MES3800LSIG
+                                                                                                     ND212T33W/12NES1000T+
+                                                                                                                               1–3, 5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                            8
+                                                                                                                                                            9
+HNB210000TM              371D590G13       O          —                        —                      —                         2, 8
+HNB21000T                371D589G13       O          —                        —                      —                         2, 8
+HNB21200                 1234C26G17       O          —                        —                      ND212T33W/12NES1200T+     1–3, 5, 8
+HNB212000TM              371D590G14       O          —                        —                      —                         2, 8                         10
+HNB21200F                2610D64G19       O          —                        —                      ND212T33W                 1–3, 5, 8
+HNB21200T                371D589G15       O          —                        —                      —                         2, 8                         11
+HNB26000TM               371D590G11       O          —                        —                      —                         2, 8
+HNB2700                  1234C26G12       O          —                        —                      ND2800T33W/8NES700T+      1–3, 5, 8                    12
+HNB2700T                 371D589G10       O          —                        —                      —                         2, 8
+HNB2800                  1234C26G13       O          —                        —                      ND2800T33W/8NES800T+      1–3, 5, 8                    13
+HNB28000TM               371D590G12       O          —                        —                      —                         2, 8
+HNB2800T                 371D589G11       O          —                        —                      —                         2, 8                         14
+HNB2900                  1234C26G14       O          —                        —                      ND212T33W/12NES900T+      1–3, 5, 8
+HNB2900T                 371D589G12       O          —                        —                      —                         2, 8                         15
+HNB31000                 1234C26G33       A          —                        —                      ND312T33W/12NES1000T+     1–3, 5, 8
+HNB310000TM              371D590G29       A          —                        —                      —                         2, 8                         16
+HNB31000T                371D589G29       A          —                        —                      —                         2, 8
+HNB31200                 1234C26G35       A          —                        —                      ND312T33W/12NES1200T+     1–3, 5, 8
+                                                                                                                                                            17
+HNB312000TM              371D590G30       A          —                        —                      —                         2, 8
+HNB31200F                625B494G08       A          —                        —                      ND312T33W                 1–3, 5, 8
+                                                                                                                                                            18
+HNB31200T                371D589G31       A          —                        —                      —                         2, 8
+HNB36000TM
+HNB3700
+                         371D590G27
+                         1234C26G30
+                                          A
+                                          A
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     —
+                                                                                                     ND3800T33W/8NES700T+
+                                                                                                                               2, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                            19
+                                                                                                                                                            20
+HNB3700T                 371D589G26       A          —                        —                      —                         2, 8
+HNB3800                  1234C26G31       A          —                        —                      ND3800T33W/8NES800T+      1–3, 5, 8
+HNB38000TM               371D590G28       A          —                        —                      —                         2, 8
+HNB3800T                 371D589G27       A          —                        —                      —                         2, 8
+                                                                                                                                                            21
+HNB3900                  1234C26G32       A          —                        —                      ND312T33W/12NES900T+      1–3, 5, 8
+HNB3900T                 371D589G28       A          —                        —                      —                         2, 8                         22
+HNC21200F                2613D29G06       O          —                        —                      ND212T33W                 1–3, 5, 8
+HNC21200FM               2613D29G08       O          —                        —                      —                         1–3, 5, 8                    23
+HNC31200F                2613D29G05       A          —                        —                      ND312T33W                 1–3, 5, 8
+HNC31200FM               2613D29G07       O          HNC31200F                2613D29G05             —                         1–3, 5, 8                    24
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                            25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                 V12-T3-131
+

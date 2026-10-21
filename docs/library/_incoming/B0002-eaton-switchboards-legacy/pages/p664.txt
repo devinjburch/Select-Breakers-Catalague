@@ -1,0 +1,85 @@
+     24                                Counters, Panel Meters, Tachometers and Timers
+                                       Timers/Hour Meters
+
+
+
+     1/32 DIN LCD—Timers
+1
+     Product Description                               Features                                                                                     Standards and Certifications
+     Simple battery-powered                                Low price and high                                   High voltage input for                  UL recognized
+2
+                                                       ●                                                    ●                                       ●
+
+     timers provide an easy-to-                            efficiency                                           10–260 Vac/Vdc voltage              ●   CE marked
+     read LCD and a variety of                         ●   Large eight-digit LCD                                pulses
+3    timing display options.                               display, height of the                           ●   IP65
+                                                           figures 0.31 in (8 mm)                           ●   Screw terminals,
+                                                           Different time ranges from                           RM 5 mm
+4
+                                                       ●
+
+                                                           0.1 second to 100,000                            ●   Lifetime of the battery
+                                                           hours                                                approximately eight years
+5                                                      ●   0.1 second synchronization
+                                                           makes it suitable for very
+                                                                                                            ●   Locking of the reset key
+                                                                                                            ●   Operating temperature
+                                                           short activation times                               14 to 140 °F (–10 to 60 °C)
+6
+7    Product Selection
+     E5-224-C04_                 1/32 DIN LCD Timers
+8                                Description                                                                           Catalog Number
+                                 Eight-Digit LCD Timer, Battery Power
+
+9                                Hours/minutes, 0.94 x 1.89 in (24 x 48 mm)                                            E5-224-C0440
+                                 Hours/minutes, 10–260V input, 0.94 x 1.89 in (24 x 48 mm)                             E5-224-C0448
+
+10                               Minutes/seconds, 0.94 x 1.89 in (24 x 48 mm)                                          E5-224-C0450
+                                 Minutes/seconds, 10–260V input 0.94 x 1.89 in (24 x 48 mm)                            E5-224-C0458
+
+11
+     Technical Data and Specifications
+12   General Specifications
+     Description                                             Specification
+13   Power supply                                            Non-replaceable lithium battery (lifetime approximately eight years at 68 °F (20 °C)
+     Display                                                 LCD, eight-digits
+14   Figure size                                             0.31 in (8 mm) high
+     Counting direction                                      Adding
+
+15   Display range
+      Time range                                             99999h 59m (134)
+
+16     Display
+
+      Time range                                             99999.99h (134)
+17     Display
+
+
+18    Time range
+       Display
+                                                             9999h 59m 59s (135)
+
+
+
+19    Time range                                             9999999.9s (135)
+       Display
+
+20   Reset                                                   Manual and electrical
+     Timer inputs, DC versions (max. 30 Vdc)
+21    Timer input                                             NPN or PNP depending on the type
+
+      Switching level
+22     NPN low                                               0–0.7V
+       NPN high                                              3–30 Vdc
+23     PNP low                                               0–0.7V
+       PNP high                                              4–30 Vdc
+
+24    Counting start
+       NPN                                                   For low signal at the timer input
+
+25     PNP                                                   For high signal at the timer input
+
+
+
+     V12-T24-82                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

@@ -1,0 +1,102 @@
+     10                       IQ Products
+                              Current Products
+
+
+
+     MP-3000 Motor                       The MP-3000 motor protection        A user-friendly operator                          Optimum Motor Protection
+1    Protection                          relay has three phase and one       interface and display provides                    The MP-3000 motor protection
+                                         ground current inputs. Both a       quick access to the settings,                     relay has been designed for
+                                         5A and 1A version are available.    monitored values, motor                           maximum motor operation
+2                                        The ground protection and           history and operational logs.                     and protection. It permits
+                                         metering functions can be used      Large LED alphanumeric                            running the motor as close
+                                         with either a zero sequence         character display provides
+3                                        ground CT or from the residual      easy viewing from any angle
+                                                                                                                               to its design limits while
+                                                                                                                               protecting it against excessive
+                                         connection of the phase CTs.        in any light. Simple keypad                       heating and damaging overload
+4                                        The zero sequence ground CT
+                                         provides greater ground fault
+                                                                             operation provides quick and
+                                                                             easy navigation through all
+                                                                                                                               conditions. The MP-3000
+                                                                                                                               field-proven protection
+                                         sensitivity than the residual       settings and stored data.                         algorithms were developed
+5                                        connection. The unit is user-       The program mode and                              based on motor designs
+                                         programmable for 60 Hz or           emergency override buttons                        and operating parameters
+                                         50 Hz operation.                    are access restricted via                         for optimum operation and
+6                                                                            sealing provisions and latched                    protection while minimizing
+       MP-3000 Motor Protection          The MP-3000 motor protection        cover. An integrated help
+                                         relay provides adaptive                                                               nuisance tripping.
+                                                                             function provides an online
+7    General Description
+     Eaton’s MP-3000 motor
+                                         overload trip characteristics       description display of                            The MP-3000 motor protection
+                                         based on motor temperature          functions, abbreviations                          relay uses a protection
+     protection relay is a               when motor RTDs are
+8    multi-functional                    connected through an optional
+                                                                             and operations.                                   algorithm and measurement
+                                                                                                                               technique based on proven
+     microprocessor-based                URTD module. Metering
+     protective relay for the                                                                                                  positive and negative
+9    protection of three-phase
+                                         of RTD inputs (individual
+                                         winding, motor bearing, load
+                                                                                                                               (unbalance) sequence
+     AC motors. Though it may                                                                                                  current sampling and true
+                                         and auxiliary temperatures)                                                           rms calculations.
+10   be applied to any size motor
+     at any voltage level, it is most
+                                         is also provided.
+     commonly applied on medium          The MP-3000 motor                   Product Selection
+11   voltage or larger motors. The
+     MP-3000 relay is a current
+                                         protection relay has two
+                                         discrete inputs, four Form C        MP-3000 Motor Protection Ordering Information
+     only device that provides           (1NO and 1NC) contacts and
+12   complete and reliable motor         one 4 to 20 mA analog               Description
+                                                                                                                                                      Catalog
+                                                                                                                                                      Number
+     protection, monitoring and          output. The relay provides
+     starting control functions.         maximum user flexibility to         Motor protection in fixed case, 5A CT, communication capable with PONI   MP-3000
+13                                       configure the I/O. All inputs       Motor protection in drawout case, 5A CT, no communication                MP-3001
+     The MP-3000 motor                   and outputs (except for the
+     protection relay is available in                                        Motor protection in drawout case, 5A CT, with INCOM PONI                 MP-3002
+14   either a fixed mount, semi-
+                                         trip output) are user-
+                                         programmable. In addition,          Motor protection in fixed case, 1A CT, communication capable with PONI   MP-3100
+     flush case or in a semi-flush       the relay has 10 LEDs for the       Motor protection in drawout case, 1A CT, no communication                MP-3101
+     quick release drawout case.
+15   Both housings are compact
+                                         indication of protection on,
+                                         program mode, monitor
+                                                                             Motor protection in drawout case, 1A CT, with INCOM PONI                 MP-3102
+     and fit a standard IQ cutout.       mode, view setting mode,            Motor protection drawout case inner chassis, 5A, CT, no communication    MP3001-IC
+16   The optional quick release          history mode, log mode, trip,       Motor protection drawout case inner chassis, 5A, CT, with INCOM PONI     MP3002-IC
+     drawout case features two-          alarm, auxiliary 1 and auxiliary    Motor protection drawout case inner chassis, 1A, CT, no communication    MP-3101-IC
+                                         2 operation. A test page in
+17   stage contact disconnects
+     and self-shorting CT circuit        the program mode provides
+                                                                             Motor protection drawout case inner chassis, 1A, CT, with INCOM PONI     MP3102-IC
+
+     terminal blocks. A spare            display indication of the           Motor protection drawout case outer chassis                              MP3-OC
+
+18   self-shorting terminal pair         discrete input states and
+                                         testing of the output
+                                                                             Motor protection, 5A, URTD, INCOM PONI, fiber optic link                 MP3000VPI
+     is available for use as relay                                           Motor protection, 1A, URTD, INCOM PONI, fiber optic link                 MP3100VPI
+     removal alarm or for continuous     relays, target LEDs and
+19   motor operation (non-failsafe       analog circuit.                     16-foot (5m) fiber optic cable for MP-3000/URTD communication            MPFO-5
+
+     mode) on relay removal.                                                 Universal RTD module                                                     URTP
+     The optional communication
+20   module is externally mounted
+     on the fixed mount case and
+21   internally mounted in the
+     drawout case.
+
+22
+23
+24
+25
+     V12-T10-28         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

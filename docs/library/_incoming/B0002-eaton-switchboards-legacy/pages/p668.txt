@@ -1,0 +1,46 @@
+     24                          Counters, Panel Meters, Tachometers and Timers
+                                 Timers/Hour Meters
+
+
+
+                                                                               Contents
+1
+     Electromechanical Timers/Hour Meters
+                                                                               Description                                                          Page
+                                                                               Electronic Timers/Hour Meters. . . . . . . . . . . . . . .      V12-T24-81
+2                                                                              Electromechanical Timers/Hour Meters
+                                                                                  1/16 DIN Hour Meters . . . . . . . . . . . . . . . . . .     V12-T24-87
+3                                                                                 71.1 Round Hour Meters . . . . . . . . . . . . . . . . .     V12-T24-89
+                                                                                  Hour Meter/Counter . . . . . . . . . . . . . . . . . . . .   V12-T24-90
+4
+5
+6
+7
+8
+9
+     Electromechanical Timers/Hour Meters
+10   Product Overview                       Features                           Standards and Certifications
+     Eaton’s electromechanical              ●   Non-resettable                 ●   UL recognized
+     hour meters are available in a
+11   variety of configurations and
+                                            ●   Always readable display        ●   CE
+
+     provide a cost-effective way
+12   to monitor equipment on
+     time.
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T24-86           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

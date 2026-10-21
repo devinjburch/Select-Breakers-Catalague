@@ -1,0 +1,46 @@
+     10                  IQ Products
+
+
+
+     Electronic Metering and Protection
+1
+                                                                        Product Description
+2                                                                       Eaton’s electrical business IQ Metering and Protection group
+                                                                        of Cutler-Hammer® series products are multifunctional
+                                                                        communicating products based on microprocessor technology.
+3                                                                       They are designed to replace existing electromechanical devices
+                                                                        and can be applied at low, medium and high voltage points in
+                                                                        the electrical distribution system. These devices offer
+4                                                                       communications capabilities to link electrical distribution
+                                                                        equipment to Eaton’s PowerNet™ Power Management
+                                                                        Software.
+5
+                                                                        These products generally surpass capabilities available with
+                                                                        older analog/electromechanical technologies. Depending on
+6                     Power Management Products                         the features available from each device, information from these
+                                                                        devices may be used to record and analyze power system and
+7                                                                       power quality events or problems and may improve power
+                                                                        systems protection and coordination. With communications,
+                                                                        these devices may be used for energy monitoring and
+8                                                                       management with trended data for use in future power
+                                                                        system planning.
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T10-2     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

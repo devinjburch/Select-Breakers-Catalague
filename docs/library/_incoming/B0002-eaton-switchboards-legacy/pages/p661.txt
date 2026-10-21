@@ -1,0 +1,58 @@
+                                  Counters, Panel Meters, Tachometers and Timers
+                                                                                                 Timers/Hour Meters
+                                                                                                                                           24
+                                                                         Contents
+                                                                                                                                                       1
+Timers/Hour Meters
+                                                                         Description                                                          Page
+                                                                         Timers/Hour Meters
+                                                                            Product Selection Guide. . . . . . . . . . . . . . . . . .   V12-T24-80    2
+                                                                            Electronic Timers/Hour Meters . . . . . . . . . . . .        V12-T24-81
+                                                                            Electromechanical Timers/Hour Meters. . . . . .              V12-T24-86    3
+                                                                                   Learn
+                                                                                   Online                                                              4
+                                                                                                                                                       5
+                                                                                                                                                       6
+                                                                                                                                                       7
+                                                                                                                                                       8
+                                                                                                                                                       9
+Product Overview
+Timers are used in
+applications where time itself
+                                     Typical Application                                                                                               10
+                                     ●   Elapsed time indication for
+is the main focus. These                 interval maintenance of
+include simple knowledge of              construction and                                                                                              11
+how long a machine has been              agricultural equipment
+running to determine
+machine maintenance, for
+                                     ●   Usage metering for
+                                         determining charges on
+                                                                                                                                                       12
+example, (elapsed time) to
+                                         rental equipment
+knowing when to change an
+elevator cable (cable life and       ●   Controlled process timing                                                                                     13
+safety). Timers generally                for adhesive application/
+                                         curing equipment
+have the ability to stop and
+then to continue on from the
+                                                                                                                                                       14
+point at which they stopped.
+Timer relays are used in                                                                                                                               15
+applications where an output
+is required to make
+something happen at a                                                                                                                                  16
+predetermined point in time
+(to stop or start the process).
+                                                                                                                                                       17
+                                                                                                                                                       18
+                                                                                                                                                       19
+                                                                                                                                                       20
+                                                                                                                                                       21
+                                                                                                                                                       22
+                                                                                                                                                       23
+                                                                                                                                                       24
+                                                                                                                                                       25
+                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com                 V12-T24-79
+

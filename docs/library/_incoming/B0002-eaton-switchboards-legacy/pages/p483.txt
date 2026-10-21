@@ -1,0 +1,114 @@
+                                                                                                    Switchgear
+                                                                                       Systems Pow-R Breaker (SPB)
+                                                                                                                                  17
+Product History Time Line
+                                                                                                                                               1
+  Product                     1970   1975    1980    1985   1990      1995      2000   Present
+
+ Westinghouse SPB                                                                                                                              2
+ Cutler-Hammer SPB
+                                                                                                                                               3
+Replacement Capabilities             Trip Units                              Does the breaker reliably       Are the recommended
+                                        Digitrip 500, 600, 700, 800
+                                                                                                                                               4
+Genuine new SPB                      ●                                       perform as expected?            maintenance intervals
+replacement parts and                   Digitrip 510                                                         being followed?
+                                     ●
+                                                                             If the breaker does not
+accessories, including those         ●  Digitrip 610                         perform reliably even when      There is a tendency to stretch
+listed in SPB Renewal Parts          ●  Digitrip 810                         properly maintained or          the maintenance interval well     5
+Data RP01301013E, dated                                                      serviced, the mechanism or      beyond the manufacturer’s
+February 2006, are available.        ●  Digitrip 910
+                                                                             the entire breaker should be    recommendations. This is
+Contact 1-800-222-9773               ●  OPTIM 750                            considered for replacement.     dangerous. Some studies           6
+for price and availability, or       ●  OPTIM 1050                                                           have shown that if a circuit
+check Vista.                         ●  Pow-R-Trip 7 rating plugs            Does the breaker trip
+                                                                             system perform reliably?
+                                                                                                             breaker is left closed for
+                                                                                                             a period of five to seven
+                                                                                                                                               7
+The following parts and              ●  Digitrip rating plugs for
+accessories are available:              500, 600, 700, 800                   Older SPB breakers used trip    years, it may not operate
+                                                                             systems that are no longer      as expected when needed           8
+Mechanism and Related Parts          Technology Upgrades                     being supported by Eaton.       to do so.
+  Charging handle                    Upgrade solutions for SPB               Due to changes in the typical
+                                                                                                                                               9
+●
+                                                                                                             If the answers to the above
+● Cover assembly                     breakers include trip unit              distribution system and the     questions all indicate that the
+  Mechanism assembly                 upgrades. These solutions               addition of numerous
+●
+                                                                                                             existing trip system or the
+● Trip unit cover plate
+                                     focus on replacing the older
+                                     technology tripping systems
+                                                                             harmonic generating
+                                                                             loads, some early vintage
+                                                                                                             circuit breaker does not          10
+  assembly                                                                                                   need to be replaced, then
+                                     with the latest technology              electronic trip systems could   the old technology breaker
+Electrical Attachments               offerings. The latest                   experience unreliable or        is still good enough, and         11
+   Shunt trip assembly               technology permits                      inaccurate trip behavior.
+●                                                                                                            maintenance solutions
+                                     significant improvements                If this is the case, the trip
+●  CT ground fault                   to be realized in improved              system should be replaced.
+                                                                                                             are recommended:                  12
+●  Undervoltage release              coordination and protection,                                             1. Maintain the breaker at
+   Remote time delay                 remote metering and                     Is there a need for energy          one- to two-year intervals
+                                                                                                                                               13
+●
+
+                                     monitoring, network                     management?                         using original OEM parts.
+●  Auxiliary switch
+                                     communications and energy               Breakers with older
+●  Capacitor trip device                                                                                     2. Use factory authorized
+●  Secondary connectors
+                                     management information.                 technology trip systems            service for more               14
+                                     Is the old technology                   could not support the              extensive repair
+●  Plate assembly                                                            demands of energy
+●  T-connectors
+                                     breaker still good enough?
+                                                                             management. Modern trip
+                                                                                                                needs and mechanism
+                                                                                                                replacement.
+                                                                                                                                               15
+●  Pressure terminals                That depends on the answers             systems provide not only
+                                     to the following questions.
+Spring Release Solenoid
+                                                                             improved protection, but
+                                                                             energy monitoring, power
+                                                                                                             Eaton can provide loaner
+                                                                                                             breakers to maintain
+                                                                                                                                               16
+Electrical Operator                  Can the problem be solved
+Breaker Accessories                                                          quality measurement and         system uptime while the
+●  Key interlock
+                                     with renewal parts?                     communications. If any of
+                                                                             these are desired, the trip
+                                                                                                             maintenance or factory
+                                                                                                             authorized service is being
+                                                                                                                                               17
+                                     Some problems can be
+●  Cover accessories                 solved quickly and simply               system should be replaced.      performed. If any answer to
+●  Deadfront shield                  with the installation of                                                the above questions indicate      18
+●  Door escutcheon                   replacement parts and                                                   that the trip system or the
+                                     accessories. Eaton continues                                            circuit breaker should be
+●  Fixed-mounted breakers
+                                     to manufacture new genuine                                              replaced, then the old            19
+●  Behind-the-door and                                                                                       technology breaker is no
+                                     replacement parts and
+   through-the-door
+   drawout breakers
+                                     accessories for SPBs.                                                   longer good enough, and
+                                                                                                             Upgrade Solutions are
+                                                                                                                                               20
+                                                                                                             recommended.
+                                                                                                             Eaton offers a choice of two      21
+                                                                                                             upgrade solutions:
+                                                                                                              1. Trip system retrofit.         22
+                                                                                                             2. New SPB breaker.
+                                                                                                                                               23
+                                                                                                                                               24
+                                                                                                                                               25
+                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com          V12-T17-15
+

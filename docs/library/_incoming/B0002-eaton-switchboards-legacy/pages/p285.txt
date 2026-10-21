@@ -1,0 +1,71 @@
+                                                                                                           IQ Products
+                                                                                                       Technology Upgrades
+                                                                                                                              10
+IQ 150S/250S Self-                    Catalog Number Selection
+Enclosed Electronic                                                                                                                        1
+Meters                                IQ 150S/250S Meter
+
+                                                              IQ 150 S A 6 5 1 1                                                           2
+
+                                         Model Series                                              Communications
+                                                                                                                                           3
+                                       150 = Energy                   Frequency                1 = Modbus RTU (RS-485)
+                                       250 = Energy plus           5 = 50 Hz system
+                                                                   6 = 60 Hz system
+                                                                                               2 = Modbus RTU (RS-485)
+                                                                                                   or TCP—(RJ45)
+                                                                                                                                           4
+                                                                                                   or 802.11b (Wi-Fi)
+                                                                                                                                           5
+                                              Meter Type
+                                         S = Self-enclosed meter         Current Input
+                                                                       1 = 1A secondary      Power Supply
+                                                                       5 = 5A secondary   1 = 90–400 Vac/Vdc
+                                                                                                                                           6
+                                                                                                                                           7
+     IQ 150S/250S Self-Enclosed
+          Electronic Meters
+                                                                                                                                           8
+General Description
+With energy costs
+                                                                                                                                           9
+skyrocketing, you need the
+ability to verify the accuracy
+of utility billing and allocation
+                                                                                                                                           10
+of energy costs among
+business units, different                                                                                                                  11
+manufacturing areas or
+facilities, and tenants.
+Production equipment and                                                                                                                   12
+IT systems are vulnerable to
+power anomalies; therefore,
+you must ensure that power
+                                                                                                                                           13
+is always up to specifications.
+If your infrastructure is an                                                                                                               14
+established facility, you may
+not currently have metering
+or may have addressed these                                                                                                                15
+concerns by deploying a
+variety of analog gauges
+and meters—one for volts,                                                                                                                  16
+one for amperes and so on,
+with separate meters for
+each measurement.
+                                                                                                                                           17
+If you’re planning an upgrade
+or a new power infrastructure,                                                                                                             18
+no doubt you would like
+to capitalize on the latest
+technology to improve upon
+                                                                                                                                           19
+that cumbersome architecture
+and its patchwork view.                                                                                                                    20
+                                                                                                                                           21
+                                                                                                                                           22
+                                                                                                                                           23
+                                                                                                                                           24
+                                                                                                                                           25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com   V12-T10-21
+

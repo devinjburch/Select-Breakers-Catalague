@@ -1,0 +1,83 @@
+     17                            Switchgear
+                                   Trip Unit Retrofit Kits
+
+
+
+     Functional Comparison of Trip Units
+1    Past Technology                                                                                                                       Present Technology
+             RMS                                                                                                                                   RMS
+2    RMS
+     500
+             500
+             Zone
+                       RMS
+                       600
+                               RMS
+                               700
+                                        RMS
+                                        800     Features
+                                                                                                                                           RMS
+                                                                                                                                           510
+                                                                                                                                                   510
+                                                                                                                                                   Zone
+                                                                                                                                                           RMS
+                                                                                                                                                           610
+                                                                                                                                                                 RMS
+                                                                                                                                                                 810
+                                                                                                                                                                       RMS
+                                                                                                                                                                       910
+     Trip Unit Features
+3    ■       ■         ■       ■                Cause-of-trip LED indicators                                                               ■       ■       ■     ■     ■
+     ■       ■         ■       ■        ■       Integral self test                                                                         ■       ■       ■     ■     ■
+4    ■       ■         ■       ■        ■       Trip reset button                                                                          ■       ■       ■     ■     ■
+     ■       ■         ■       ■        ■       Hardware driven thermal memory
+5                                               Software driven thermal memory (sel. O/O)                                                  ■       ■       ■     ■     ■
+     ■       ■         ■       ■        ■       Discriminator circuit on LS and LSG protection modes
+6                                               Discriminator circuit on LS and LSG protection modes selectable (on/off)                   ■       ■       ■     ■     ■
+             ■         ■       ■        ■       Zone protective interlocking for short time and ground fault modes of protection                   ■       ■     ■     ■
+
+7            ■         ■       ■        ■       Auxiliary contact for long time, short circuit and ground fault functions                                  ■     ■     ■
+                       ■                ■       Local display of phase currents                                                                            ■     ■     ■
+
+8                      ■                ■       Local display of ground currents                                                                           ■     ■     ■
+                       ■                ■       Local display of cause of trip                                                                             ■     ■     ■
+
+9                                       ■       Local display of energy (MWh)                                                                                    ■     ■
+                                        ■       Local display of peak demand (MW)                                                                                ■     ■
+
+10                                      ■       Local display of present demand (MW)                                                                             ■     ■
+     PowerNet Communication Features
+
+11                             ■        ■       Data communicated with PowerNet includes: all display values, trip unit status, high
+                                                load alarm, cause of trip, rating plug status, breaker status, reason for breaker status
+                                                                                                                                                                 ■     ■
+
+
+                                                Trip settings                                                                                                    ■     ■
+12                                              Power factor                                                                                                     ■     ■
+                               ■        ■       Control via the PowerNet system (open/close)                                                                     ■     ■
+
+13                                              Voltage phase-to-phase, displayed on trip unit and communicated via                                                    ■
+                                                PowerNet communications
+
+14                                              Total harmonic distortion (THD); phase A, B, C. Displayed on trip unit and
+                                                communicated via PowerNet communications
+                                                                                                                                                                       ■
+
+
+                                                Total harmonic distortion per harmonic from the 2nd through the 27th harmonic                                          ■
+15                                              displayed on trip unit and communicated via PowerNet communications
+                                                System power factor. Displayed on trip unit and communicated via PowerNet communications                               ■
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T17-20            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

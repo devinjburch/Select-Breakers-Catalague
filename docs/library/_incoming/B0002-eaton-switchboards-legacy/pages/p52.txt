@@ -1,0 +1,98 @@
+                                                                                      Molded-Case Circuit Breakers
+                                                                                                                     Replacement Capabilities
+                                                                                                                                                                                   3
+Type LAY
+■ Shaded area denotes obsolete or discontinued products and services. 1                                                                                                                   1
+LAY: 240 Vac              Type LAY 250–600A, 240 Vac, Three-Pole, Interchangeable Trip Thermal-Magnetic, 600A Frame 2
+                                                                                                           Complete Breaker          Shipped as Frame, Trip Unit and Terminals 5          2
+                          Continuous                                                                       Includes Pressure Type
+                          Ampere Rating
+                          at 40°C
+                                                     Magnetic Trip Setting Amperes 3
+                                                     Low                       High
+                                                                                                           Aluminum Terminals 4 Frame Only
+                                                                                                           Catalog Number            Catalog Number
+                                                                                                                                                             Trip Unit Only
+                                                                                                                                                             Catalog Number
+                                                                                                                                                                                          3
+                           250                       1250                      2500                        LAY3250                   LAY3600F                2603D46G26
+                           300                       1500                      3000                        LAY3300                   LAY3600F                2603D46G27
+                                                                                                                                                                                          4
+                           350                       1750                      3500                        LAY3350                   LAY3600F                2603D46G28
+                           400                       2000                      4000                        LAY3400                   LAY3600F                2603D46G29                   5
+                           500                       2500                      5000                        LAY3500                   LAY3600F                HLA3500T
+                           600                       3000                      6000                        LAY3600                   LAY3600F                HLA3600T                     6
+Accessories and                                 50°C Calibration                                UL Listed                                                                                 7
+Modifications                                   Add suffix “V” to catalog                       Interrupting Ratings
+                                                number for complete breaker
+■ Shaded area denotes
+obsolete or discontinued                        or trip unit only, when
+                                                                                                Maximum
+                                                                                                Volts   Amperes                                                                           8
+products and services.                          ordering breakers to be used                    240 AC       115,000 asymmetrical,
+
+ Special Calibrations
+                                                in 50°C ambients. Same price
+                                                as standard 40°C breakers.
+                                                                                                             100,000 symmetrical                                                          9
+ Special calibration price                                                                      Terminals
+ additions apply to ampere
+                                                For CSA, see
+                                                Page V12-T3-48.
+                                                                                                Two terminals are required                                                                10
+ ratings not listed as standard                                                                 per pole.
+ or for ambients other                          Type LAY breakers are
+ than 40°C or 50°C. For                         not defined by Federal
+                                                                                                Terminals are UL Listed for                                                               11
+                                                                                                wire type and range listed
+ frequencies other than                         Specification W-C-375b.
+                                                                                                below. When used with
+ 0–60 Hz AC, refer to
+ Eaton. See Application
+                                                Note: Not UL Listed.                            aluminum cable, use joint                                                                 12
+                                                                                                compound.
+ Data 29-160 for information                    For all three-phase
+ regarding special conditions.                  delta, grounded B phase                         Note: Terminals shipped                                                                   13
+ Maximum 400 Hz calibration:                                                                    separately from breaker.
+                                                applications, contact
+ 600A frame, 450A.
+ Note: Not UL Listed.
+                                                Avery Creek, NC, Technical
+                                                Resource Center at
+                                                                                                Additional Accessories                                                                    14
+                                                1-800-356-1243.
+                                                                                                and Modifications
+                                                                                                Refer to Pages V12-T3-65–
+                                                                                                V12-T3-79.
+                                                                                                                                                                                          15
+Terminals                                                                                                                                                                                 16
+Maximum Amperes                       Number of Cables, Wire Range, Type                                 Catalog Number
+Standard Al/Cu Pressure Terminals                                                                                                                                                         17
+500 5                                 (2) 3/0–250 kcmil Al/Cu                                            TA602LD
+600 5                                 (2) 400–500 kcmil Al/Cu                                            TA603LA                                                                          18
+600 5                                 (2) 250–500 kcmil Al/Cu                                            TA600LA
+Optional Copper Pressure Terminals                                                                                                                                                        19
+600 6                                 (2) 250–500 kcmil Cu                                               T600LA
+
+Notes                                                                                                                                                                                     20
+1 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167.
+
+
+                                                                                                                                                                                          21
+2 Optional terminal.
+3 Set on high side, adjustable to lower limits.
+4 Terminals shipped separately from breaker.
+
+
+                                                                                                                                                                                          22
+5 For 600A frame breakers only.
+6 Not UL Listed.
+
+
+
+
+                                                                                                                                                                                          23
+                                                                                                                                                                                          24
+                                                                                                                                                                                          25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                 V12-T3-39
+

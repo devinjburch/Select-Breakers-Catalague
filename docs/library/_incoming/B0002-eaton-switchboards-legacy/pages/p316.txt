@@ -1,0 +1,175 @@
+                                                                                                                                                       Communication Systems
+                                                                                                                                                                                                                      Technology Upgrades
+                                                                                                                                                                                                                                                                                                                                               11
+Series III and Old NetPower Codes with PowerNet Product Codes
+                                          IMPACC Series III Product Codes                                                                                   PowerNet v.3.22 and Older Product Codes                                                                                                                                                                                   1
+                                          Core                      Add-on Mods                            Energy Billing                                   Core                                                      Add-on Mods                                                                                       Energy Billing
+                                                                                                                                                                                                                                                                                                                                                                                      2
+
+
+
+
+                                                                                                                                                                                                                                            NPWAVEFORM
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                            NPBILLTRACK
+                                                                                                                                                                                                                                                                                                            NPCOREMOD
+                                                                                                                                                                                                                                                         NPSETPOINT
+                                                                                                                                                                                                                      NPMONITOR
+                                                                                                                                                                                                         NPCORE1000
+
+
+
+
+                                                                                                                                                                                                                                                                                                 NPMODBUS
+                                                                                                                                                                                 NPCORE100
+                                                                                                                                                                                             NPCORE200
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                               NPBILL1000
+
+
+                                                                                                                                                                                                                                                                                                                                                                          NPBILLDDE
+                                                                             MODGATE3
+
+
+
+
+                                                                                                                                                                                                                                                                      NPETREND
+                                                                                                                                                                      NPCORE20
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                   NPBILL200
+                                                                                        TRIPDPS3
+
+
+
+
+                                                                                                                                                                                                                                  NPEVENT
+                                                                                                                                                            NPCORE2
+
+
+
+
+                                                                                                                                                                                                                                                                                                                        NPBILL20
+                                                                                                                     EBILL200
+                                                                    WDISP3
+
+
+
+
+                                                                                                                                EBILLUL
+                                                                                                                                          ETREND
+                                                                                                                                                   ETRACK
+                                                                                                           EBILL20
+
+
+
+
+                                                                                                                                                                                                                                                                                 NPOPC
+                                                                                                                                                                                                                                                                                         NPDDE
+                                                                                                                                                                                                                                                                                                                                                                                      3
+                                                  S30200
+                                                           S31000
+
+
+
+
+                                                                                                   ELOG3
+                                          S3020
+                  New PowerNet
+Description       v. 3.3x Product Codes
+Connectivity Bundles Device Support
+5-device          PNCONNECT5                                                                                                                                ■
+                                                                                                                                                                                                                                                                                                                                                                                      4
+10-device         PNCONNECT10
+32-device         PNCONNECT34             ■                                                                                                                           ■                                                                                                                                                                                                               5
+100-device        PNCONNECT100                                                                                                                                                   ■
+200-device        PNCONNECT200                    ■                                                                                                                                          ■                                                                                                                                                                                        6
+500-device        PNCONNECT500
+1000-device       PNCONNECT1000                            ■                                                                                                                                              ■                                                                                                                                                                           7
+PowerNet Bundles
+Standard client   PNSTD                                                                            ■                                                                                                                  ■           ■                                   ■                                                                                                               8
+Power quality     PNPQ                                              ■                   ■                                                                                                                                                    ■            ■
+Integrator Package                                                                                                                                                                                                                                                                                                                                                                    9
+Includes OPC,   PNINTEGRATOR                                                 ■                                                                                                                                                                                                    ■      ■       ■          ■
+
+                                                                                                                                                                                                                                                                                                                                                                                      10
+DDE, and Modbus
+Gateway
+
+Identify Graphics                                 Update Path                                                                                         Identify Connectivity                                                                                                      When reviewing an
+Interface Used                                    PowerNet is compatible                                                                              Solutions Employed                                                                                                         installation, this fact may                                                                          11
+The IMPACC Series III                             with Wonderware InTouch                                                                             Communication system                                                                                                       not be readily discernible
+                                                                                                                                                                                                                                                                                 and some investigation may
+software was sold with an                         version 7.1 and above. All
+                                                  HMI software locations will
+                                                                                                                                                      solutions will, in some cases,
+                                                                                                                                                                                                                                                                                 be necessary.                                                                                        12
+option for an Enhanced                                                                                                                                implement software and/or
+Graphics application, a                           require updating to the latest                                                                      hardware equipment to share
+Wonderware InTouch                                version via the following                                                                           the information gathered
+                                                                                                                                                                                                                                                                                 Update Path
+                                                                                                                                                                                                                                                                                 When updating the Series III
+                                                                                                                                                                                                                                                                                                                                                                                      13
+software HMI solution.                            catalog numbers:                                                                                    from installed meters, relays                                                                                              software in the section
+The screens were typically                                                                                                                            and I/O devices with other
+developed by Eaton as a
+                                                  Note: When updating the
+                                                  graphics application to interface                                                                   software and/or systems
+                                                                                                                                                                                                                                                                                 above, DDE comes as a                                                                                14
+                                                                                                                                                                                                                                                                                 part of the update path.
+turnkey solution, but this                        with the PowerNet DDE Server,                                                                       including Distributed Control
+software could be purchased
+separately with development
+                                                  due to DDE Tag changes, a review
+                                                  of the Tags displayed and used for
+                                                                                                                                                      Systems (DCS), Building
+                                                                                                                                                      Management Systems
+                                                                                                                                                                                                                                                                                 Note: For remote nodes running
+                                                                                                                                                                                                                                                                                 Wonderware or any other
+                                                                                                                                                                                                                                                                                                                                                                                      15
+performed by the customer,                        control will be required for proper                                                                 (BMS) or Programmable                                                                                                      HMI software application, the
+or by independent local                           modification. Development time
+                                                  must be allocated for this update.
+                                                                                                                                                      Logic Controllers (PLC).                                                                                                   following catalog number can
+                                                                                                                                                                                                                                                                                 be purchased and installed on                                                                        16
+integrators.
+                                                                                                                                                      Connectivity with the Series III                                                                                           the remote PC, eliminating the
+The graphics application
+could be located on the
+                                                  For those computers
+                                                  networked and running
+                                                                                                                                                      system solutions included the
+                                                                                                                                                      following methods:
+                                                                                                                                                                                                                                                                                 need for implementation of the
+                                                                                                                                                                                                                                                                                 Microsoft® NETDDE solution.                                                                          17
+local Series III computer                         Wonderware InTouch
+or on remote networked                            runtime or view-only nodes,                                                                         Dynamic Data                                                                                                               NPDDE PowerNet DDE Server
+                                                                                                                                                                                                                                                                                 client application software.                                                                         18
+computers. It is important                        PowerNet DDE can be                                                                                 Exchange (DDE)
+to identify all computers in                      removed and local DDE                                                                               Used in conjunction with                                                                                                   Locate this software on the same
+the system that have the                          Server client applications                                                                          Human Machine Interface                                                                                                    computer as the HMI software.                                                                        19
+Enhanced Graphics                                 installed for more reliable                                                                         (HMI) software applications
+                                                  and quality local DDE
+application installed.
+                                                  communications.
+                                                                                                                                                      such as Wonderware and
+                                                                                                                                                      Intellusion. These applications
+                                                                                                                                                                                                                                                                                                                                                                                      20
+                                                                                                                                                      could also be installed on
+                                                                                                                                                      remote computers when                                                                                                                                                                                                           21
+                                                                                                                                                      PowerNet DDE is used
+                                                                                                                                                      to share information over
+                                                                                                                                                      a network.                                                                                                                                                                                                                      22
+                                                                                                                                                                                                                                                                                                                                                                                      23
+                                                                                                                                                                                                                                                                                                                                                                                      24
+                                                                                                                                                                                                                                                                                                                                                                                      25
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                                                                                                                                                                                    V12-T11-9
+

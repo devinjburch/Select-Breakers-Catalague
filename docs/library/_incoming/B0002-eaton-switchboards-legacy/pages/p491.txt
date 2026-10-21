@@ -1,0 +1,92 @@
+                                                                  Replacement Digitrip RMS Trip Units for Power Circuit Breakers
+                                                                                                                                         Switchgear
+                                                                                                                                                                                         17
+Vertical Retrofit RMS/R Replacement Trip Units for all Other Breakers
+■ Shaded area denotes obsolete or discontinued products and services. 12                                                                                                                                  1
+Digitrip                    Protective               Catalog                 Style                     Digitrip               Protective              Catalog                  Style
+Model                       Functions                Number                  Number                    Model                  Functions               Number                   Number
+                                                                                                                                                                                                          2
+Past Technology                                                                                        Present Technology
+RMS/R 500 Vertical
+RMS/R 500 Vertical
+                            Ll
+                            LSI
+                                                     RV51BLI
+                                                     RV52BLSI
+                                                                             1232C97G01
+                                                                             1232C97G02
+                                                                                                       RMS 510
+                                                                                                       RMS 510
+                                                                                                                              Ll
+                                                                                                                              LSI
+                                                                                                                                                      SRV51Ll
+                                                                                                                                                      SRV52LSI
+                                                                                                                                                                               7801C37G01
+                                                                                                                                                                               7801C37G02
+                                                                                                                                                                                                          3
+RMS/R 500 Vertical
+RMS/R 500 Vertical
+                            LS
+                            LIG
+                                                     RV53BLS
+                                                     RV54BLIG
+                                                                             1232C97G03
+                                                                             1232C97G04
+                                                                                                       RMS 510
+                                                                                                       RMS 510
+                                                                                                                              LS
+                                                                                                                              LIG
+                                                                                                                                                      SRV53LS
+                                                                                                                                                      SRV54LIG
+                                                                                                                                                                               7801C37G03
+                                                                                                                                                                               7801C37G04
+                                                                                                                                                                                                          4
+                                                                                                                                                                                                          5
+RMS/R 500 Vertical          LSG                      RV55BLSG                1232C97G05                RMS 510                LSG                     SRV55LSG                 7801C37G05
+RMS/R 500 Vertical          LSIG                     RV56BLSIG               1232C97G06                RMS 510                LSIG                    SRV56LSIG                7801C37G06
+RMS/R 600 Vertical          Ll                       RV61BLI                 1232C97G07                RMS 610                Ll                      SRV61Ll                  7801C41G01
+RMS/R 600 Vertical          LSI                      RV62BLSI                1232C97G08                RMS 610                LSI                     SRV62LSI                 7801C41G02                 6
+RMS/R 600 Vertical          LS                       RV63BLS                 1232C97G09                RMS 610                LS                      SRV63LS                  7801C41G03
+RMS/R 600 Vertical          LIG                      RV64BLIG                1232C97G10                RMS 610                LIG                     SRV64LIG                 7801C41G04                 7
+RMS/R 600 Vertical          LSG                      RV65BLSG                1232C97G11                RMS 610                LSG                     SRV65LSG                 7801C41G05
+RMS/R 600 Vertical          LSIG                     RV66BLSIG               1232C97G12                RMS 610                LSIG                    SRV66LSIG                7801C41G06                 8
+RMS/R 700 Vertical 3        Ll                       RV71BLI                 1232C97G19                RMS 810                Ll                      SRV81Ll                  7801C42G01
+RMS/R 700 Vertical 3        LSI                      RV72BLSI                1232C97G20                RMS 810                LSI                     SRV82LSI                 7801C42G02                 9
+RMS/R 700 Vertical 3        LS                       RV73BLS                 1232C97G21                RMS 810                LS                      SRV83LS                  7801C42G03
+RMS/R 700 Vertical 3        LIG                      RV74BLIG                1232C97G22                RMS 810                LIG                     SRV84LIG                 7801C42G04                 10
+RMS/R 700 Vertical 3        LSG                      RV75BLSG                1232C97G23                RMS 810                LSG                     SRV85LSG                 7801C42G05
+RMS/R 700 Vertical 3        LSIG                     RV76BLSIG               1232C97G24                RMS 810                LSIG                    SRV86LSIG                7801C42G06                 11
+RMS/R 800 Vertical          Ll                       RV81BLI                 1232C97G13                RMS 910                Ll                      SRV91Ll                  7801C43G01
+RMS/R 800 Vertical          LSI                      RV82BLSI                1232C97G14                RMS 910                LSI                     SRV92LSI                 7801C43G02                 12
+RMS/R 800 Vertical          LS                       RV83BLS                 1232C97G15                RMS 910                LS                      SRV93LS                  7801C43G03
+RMS/R 800 Vertical          LIG                      RV84BLIG                1232C97G16                RMS 910                LIG                     SRV94LIG                 7801C43G04
+                                                                                                                                                                                                          13
+RMS/R 800 Vertical          LSG                      RV85BLSG                1232C97G17                RMS 910                LSG                     SRV95LSG                 7801C43G05
+RMS/R 800 Vertical          LSIG                     RV86BLSIG               1232C97G18                RMS 910                LSIG                    SRV96LSIG                7801C43G06
+                                                                                                                                                                                                          14
+Notes
+
+                                                                                                                                                                                                          15
+1 At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910. From 1989 to 1996, the standard trip units were the RMS 500/600/700/800.
+
+  These trip units are no longer in production. Replacement orders for the 500/600/700/800 trip units will be filled by the equivalent 510/610/810/910 trip units. Remember, when replacing a
+  500/600/700/800 unit with a 510/610/810/910, the rating plug must also be replaced.
+
+                                                                                                                                                                                                          16
+2 Rating plugs for the 500/600/700/800 trip units will still be available. These rating plugs are not interchangeable with the 510/610/810/910 trip units. Likewise, rating plugs for the
+
+  510/610/810/910 are not interchangeable with the 500/600/700/800 trip units.
+3 There is no direct replacement for Digitrip RMS 700. Use Digitrip RMS 810 or 910.
+
+
+                                                                                                                                                                                                          17
+                                                                                                                                                                                                          18
+                                                                                                                                                                                                          19
+                                                                                                                                                                                                          20
+                                                                                                                                                                                                          21
+                                                                                                                                                                                                          22
+                                                                                                                                                                                                          23
+                                                                                                                                                                                                          24
+                                                                                                                                                                                                          25
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                         V12-T17-23
+

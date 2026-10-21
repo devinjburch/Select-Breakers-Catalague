@@ -1,0 +1,122 @@
+     17                                 Switchgear
+                                        Federal Pacific Breakers—Trip Unit Retrofit Kits
+
+
+
+     Digitrip Retrofit Kits for Federal Pacific Breakers Catalog Numbering System
+1
+                                                                FP6 8 6 6 4Q 4 6 – T C S U
+2
+3
+                  Trip Unit Type 1                        RP       No Rating Plug                          T = Digitrip 510, 610, 810, 910              N = Standard kit
+
+4               5 = 510 basic                            Cat.      Current Rating                                                                       U = Upgrade kit from
+                z = 510 zone int.                        Code                                                                                               Digitrip 500/510
+                                                                    Tap     Plug
+                6 = 610                                                                        N = No sensors
+                                                         21       200      100
+5
+                8 = 810                                                                        3 = Three sensors                                  N = Standard kit
+                                                         22       200      200
+                9 = 910                                                                        4 = Four sensors                                   S = Simplified cell harness
+                                                         32       300      200
+                                                         3Q       300      250                                                                    R = Cell harness removed
+
+6                             Protection
+                            1 = LI
+                                                         33
+                                                         42
+                                                                  300
+                                                                  400
+                                                                           300
+                                                                           200                                                               N = No CPT supplied
+                                                         4Q       400      250
+                            2 = LSI                                                                                                          C = Breaker-mounted CPT
+7
+                                                         43       400      300
+                            3 = LS                       44       400      400
+                            4 = LIG                      63       600      300
+                            5 = LSG                      64       600      400                 Code             Breaker Frame Description         Sensor             Current Rating of
+8                           6 = LSIG                     66
+                                                         84
+                                                                  600
+                                                                  800
+                                                                           600
+                                                                           400
+                                                                                                                                                    Code        Sensor and Available Taps
+                                                                                                        ALL FRAMES                                S           NO SENSORS PROVIDED
+                                                         86       800      600
+                         N = No rating plug
+9                                                        88       800      800                 FP6      FP-25 (slate back)                        6           600, 400, 300, 200
+                         6 = 50/60 Hz plug
+                                                         T6       1200     600                 FP8      FP-50-800 2                               8           800, 400
+                                                         T8       1200     800                                                                    6           600, 400, 300, 200
+10                                                       TA
+                                                         TT
+                                                                  1200
+                                                                  1200
+                                                                           1000
+                                                                           1200
+                                                                                               FPC      FP-50-1600 2                              C
+                                                                                                                                                  8
+                                                                                                                                                              1600, 1200
+                                                                                                                                                              800, 600, 400
+                                                         C8       1600     800
+                                                         CA       1600     1000                                                                   2           200
+11                                                       CT       1600     1200                FS8      FPS-50-800 2                              8           800, 400
+                                                         CC       1600     1600                                                                   6           600, 400, 300, 200
+                                                         DA       2000     1000
+12                                                       DT
+                                                         DC
+                                                                  2000
+                                                                  2000
+                                                                           1200
+                                                                           1600
+                                                                                               FSC      FPS-50-1600 2                             C
+                                                                                                                                                  8
+                                                                                                                                                              1600, 1200
+                                                                                                                                                              800, 600, 400
+                                                         DD       2000     2000                                                                   2           200
+13                                                       HC
+                                                         HD
+                                                                  3000
+                                                                  3000
+                                                                           1600
+                                                                           2000
+                                                                                               FSH      FPS-75                                    H           3000, 2000
+                                                         HP       3000     2500                FC6      100HF Canadian 600A                       6           600
+
+14                                                       HH       3000     3000                FX6      FP-25 (molded back)                       6           600, 400, 200
+
+
+
+15   Notes
+     1 At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910.
+     2 Call the Digitrip Retrofit Kit Service Center at 1-800-937-5487 for technical clarification on these kits.
+
+16
+     Sample shown is a Digitrip                          This information is subject to
+     retrofit kit for an FP-25, with                     change. Updated pricing and
+17   an RMS 810 trip unit, with                          availability information is
+     LSIG protection, with a 60 Hz                       included in the Retrofit Kit
+18   plug, rated at 250A for a
+     sensor tap of 400A, four
+                                                         Product Guide. For a copy
+                                                         of the Retrofit Kit Product
+     sensors (for a four-wire                            Guide, contact your local
+19   ground system) that have                            Eaton Field Sales office or the
+     sensor taps of 600, 400, 300                        Digitrip Retrofit Kit Service
+     and 200A, there is a breaker-                       Center at 1-800-937-5487.
+20   mounted CPT with the kit,
+     the cell wiring is simplified
+     (only 6 wires vs. 16), and
+21   the breaker was previously
+     retrofitted with a Digitrip 500/
+22   510, so this is an upgrade kit.
+
+
+23
+24
+25
+     V12-T17-50                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,101 @@
+                                                                                       Medium Voltage Fuses
+                                                                                      Current-Limiting and Expulsion Fuses
+                                                                                                                                                      18
+Application Guide
+Selection Guide                     Ratings        Feeder                    Substation                     Pole-     Pad-                              Sub-
+                                                                                                                                                                    1
+                                    kV,            Circuit           Power Service           Underground    Mounted   Mounted                 Potential station
+
+Type        Class     Use
+                                    Ampere,
+                              Brand kA
+                                                   Section- Fused
+                                                   alizing
+                                                                     Trans- Trans-
+                                                            Switches formers formers
+                                                                                        DIP Distribution
+                                                                                        Pole Transformers
+                                                                                                            Trans-
+                                                                                                            formers
+                                                                                                                      Distribution
+                                                                                                                      Transformers
+                                                                                                                                     Motor Trans-       Capacitor
+                                                                                                                                     Starters formers Banks         2
+Current     General   Power BHLE/   2.4–15.5 kV    ■       ■         ■                  ■                                                               ■
+limiting    purpose         CLE/
+                            HLE/
+                                    10E–1350A
+                                    to 85 kA
+                                                                                                                                                                    3
+                            HCL
+                      Dist.   CX/   4.3–15.5 kV                              ■                                        ■                                             4
+                              CXN   3.5C–300C
+                                    50 kA
+                              CLT   2.4–15.5 kV                                                                       ■                                             5
+                                    4A–150A
+
+                                                                                                                                                                    6
+                                    25 kA
+            Backup    Power CLPT    2.4–38 kV                                                                                                ■
+                                    0.25E–10E
+                                    to 80 kA
+                                                                                                                                     ■
+                                                                                                                                                                    7
+                      Power BCLS/   2.4–8.3 kV
+                            CLS     2R–36R
+                                    50 kA                                                                                                                           8
+Expulsion   Boric     Power RBA     4.8–34.5 kV    ■       ■         ■                                                                                  ■
+            acid                    0.5E–720E
+                              RDB   4.8–34.5 kV    ■                 ■       ■          ■                                                    ■          ■
+                                                                                                                                                                    9
+                                    0.5E–720E
+                              DBU   14.4–38 kV
+                                    5E–200E
+                                                   ■       ■         ■       ■          ■                                                    ■                      10
+                                    15SE–200SE
+                                    3K–200K
+                                                                                                                                                                    11
+Guide to Names                                CLT—Current-limiting                 Guide to Ampere Ratings                  “C” Designation
+BCLS—Bolt-in version of                       transformer fuse.                    “E” Designation                          The fuse will melt in                   12
+CLS fuse.                                     CLPT—Current-limiting                Fuse rated 100E or below                 1000 seconds at a current
+                                                                                                                            value, between 1.7 and
+BHLE—Bolt-in version of                       E-rated for potential
+                                              transformers.
+                                                                                   will melt in 300 seconds at
+                                                                                   a current value between 2.0              2.4 times the C number.                 13
+HLE fuse.
+                                                                                   and 2.4 times the E number.              If the current is higher than
+                                              CLS—Current-limiting for
+CLE—Current-limiting E-rated.
+                                              motor starters, R-rated.             Fuse rated above 100E will               2.4 times the C number,                 14
+HLE/HCL—Current-limiting                                                           melt in 600 seconds at a                 the user must consult the
+                                              RBA—Refillable boric acid                                                     time-current curves for that
+E-rated, interchangeable
+with General Electric and                     expulsion fuse (indoor use).
+                                                                                   current value between 2.2
+                                                                                   and 2.64 times the E number.             particular fuse.                        15
+Gould Shawmut.                                RDB—Refillable dropout                                                        “A” Designation
+CX/CXN—Current-limiting                       boric acid expulsion fuse
+                                                                                   If the current is higher
+                                                                                   than 2.4 or 2.64 times the               Fuses that do not comply                16
+interchangeable with                          (outdoor use).                       E number, the user must                  with “E,” “R” or “C”
+McGraw-Edison’s NX                            DBU—Dropout boric acid               consult the time-current                 designations.                           17
+brand fuses, C-rated.                         fuse interchangeable with            curves for that particular fuse.         Expulsion fuses can also be
+                                              S&C’s SMU-20 refill.                 “R” Designation                          E-rated, K-rated and T-rated,
+                                                                                                                            and are also covered in the
+                                                                                                                                                                    18
+                                                                                   The fuse will melt in 15
+                                                                                   to 35 seconds when the                   ANSI standards. The K and
+                                                                                   current equals 100 times                 T ratings refer, respectively,          19
+                                                                                   the R number.                            to relatively “fast” and
+                                                                                                                            “slow” melting expulsion
+                                                                                   If the current is higher than            fuses. Detailed time-current            20
+                                                                                   100 times the R number, the              tables adequately define
+                                                                                   user must consult the time-              these ratings.
+                                                                                   current curves for that fuse.                                                    21
+                                                                                                                                                                    22
+                                                                                                                                                                    23
+                                                                                                                                                                    24
+                                                                                                                                                                    25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                         V12-T18-3
+

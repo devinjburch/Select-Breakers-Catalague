@@ -1,0 +1,86 @@
+                                                                                                                        IQ Products
+                                                                                                                    Technology Upgrades
+                                                                                                                                                                        10
+IQ 250/260 Electronic                 Catalog Number Selection
+Power Meters                                                                                                                                                                         1
+                                      IQ 250/260 Meter
+
+                                                                        IQ 250 M A 6 5 1 1 0                                                                                         2
+
+                                                  Model Series                                                                              I/O Slot 2
+                                                                                                                                                                                     3
+                                                250 = Power                                                                   0 = None
+                                                260 = Power quality                      Frequency                            1 = Two relay outputs/two status inputs
+                                                                                                                              2 = Four KYZ pulses/four status inputs
+                                                                                                                                                                                     4
+                                                                                      5 = 50 Hz system
+                                                                                      6 = 60 Hz system                        3 = Four analog outputs: 0–1 mA
+                                                                                                                                                                                     5
+                                                 Meter Type
+                                                                                                                              4 = Four analog outputs: 4–20 mA
+                                       M = Meter (with integral display)
+                                       T = Transducer only (no display)                       Current Input
+  IQ 250/260 Electronic Power Meter                                                                                                    I/O Slot 1
+
+General Description                                           Data Logging
+                                                                                            1 = 1A secondary
+                                                                                            5 = 5A secondary            0 = None                                                     6
+                                                                                                                        1 = Two relay outputs/two status inputs
+                                                             A = None
+The IQ 250 and IQ 260                                                                                                   2 = Four KYZ pulses/four status inputs
+Meters provide capabilities
+                                                             L = Data logging                     Power Supply
+                                                                                               1 = 90–265 Vac/Vdc
+                                                                                                                        3 = Four analog outputs: 0–1 mA
+                                                                                                                        4 = Four analog outputs: 4–20 mA
+                                                                                                                                                                                     7
+you would not normally                                                                         4 = 24–48 Vdc
+expect in affordable, ultra-
+compact meters, such as fast                                                                                                                                                         8
+sampling rate and accurate            Accessories
+metering for a full range of
+power attributes. Providing
+                                                                                                                                                                                     9
+                                      IQ 250/260 Meter
+the first line of defense
+against costly power                  Description
+                                                                                                                    Catalog
+                                                                                                                    Number                                                           10
+problems, Eaton’s IQ 250
+and IQ 260 electronic power           Panel-mounting adapter for retrofitting an IQ 250/260 to an                   IQ250-PMAK
+meters can perform the work           IQ Analyzer/IQ DP-4000/IQ Data cutout                                                                                                          11
+of an entire wall of legacy           PXM 2000 Gateway Card kit to upgrade an IQ 250/260 to a PXM 2000              PXM2000-GCK
+metering equipment using
+today’s technology.                   IQ 250/260 Meter I/O Cards
+                                                                                                                                                                                     12
+When space is at a premium,
+yet you need ANSI C12.20              Description
+                                                                                                                    Catalog
+                                                                                                                    Number                                                           13
+accuracy, the IQ 250/ 260             IQ 250/260 I/O card—2 relay outputs/2 status inputs                           IQ250/260-IO1
+series fit the bill. These
+meters are ideal for electrical       IQ 250/260 I/O card—4 KYZ pulses/4 status inputs                              IQ250/260-IO2                                                    14
+equipment assemblies,                 IQ 250/260 I/O card—4 analog outputs—0–1 mA                                   IQ250/260-IO3
+machine control panels,               IQ 250/260 I/O card—4 analog outputs—4–20 mA                                  IQ250/260-IO4                                                    15
+such as panelboard and
+switchboard mains and
+feeders, low voltage metal-                                                                                                                                                          16
+enclosed switchgear feeders
+and motor control centers.
+Requiring far less space than                                                                                                                                                        17
+other meters with similar
+functionality, IQ 250/260
+series fit into a standard
+                                                                                                                                                                                     18
+ANSI or IEC cutout on a
+panelboard or other electrical                                                                                                                                                       19
+equipment, and therefore fit
+easily into retrofit applications.
+                                                                                                                                                                                     20
+                                                                                                                                                                                     21
+                                                                                                                                                                                     22
+                                                                                                                                                                                     23
+                                                                                                                                                                                     24
+                                                                                                                                                                                     25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                             V12-T10-19
+

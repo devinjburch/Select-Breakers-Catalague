@@ -1,0 +1,776 @@
+    DATA SHEET
+
+
+
+   P3 Panelboards
+usa.siemens.com/panelboards
+
+
+
+                    Product Description
+
+                    The current generation of panelboards from Siemens offers the high level of engineering and
+                    innovation you’ve come to expect from the leader in power distribution technology. The “P Series”
+                    line of panelboards offers a stepped approach to power distribution. (P1-P2-P3-P4-P5)
+
+                    The current P3 panel is a smaller footprint distribution panel to fit a large number of applications
+                    that require more (or larger) branch devices than the smaller lighting panels typically offer. The new
+                    3VA family of breakers is fully implemented from 125A frame up to 800A frame main and branch
+                    applications.
+
+                    P3 construction includes the following:
+                    • 400A or 800A max. bus ratings in CU or AL						
+                    • Standard Circuit P3 Panels from 9” to 45” of unit space with new neutral system that includes 2/0
+                      max. neutral strips used in P1 panels and many additional 350kcmil provisions for adding up to 12
+                      large frame branch breakers.								
+                    * P3 Bussing options: Temp rated CU or withTin plating; 750 A/Si AL or 1000 A/Si CU with Tin
+                      plating; Silver Plated CU is available in both above configurations.				
+                    **P3 Unit Space starts with 9” (18 circuits of 1-pole breakers) and typically increases in 6” 		
+                      increments as needed. Breakers mounted in the unit space can be mixed and matched to meet
+                      customer requirements. [there are new 84 circuit (42" unit space) variations for specific 		
+                      applications available]
+
+                    Standards & Certifications:
+                    • NEC: 2020 (where accepted), NEMA PB 1 and ANSI/NEMA PB1.1				
+                    • UL Listed: 67, 50 and 50E. (see “Panelboards” File #E2269, and #E4016) Also meets Federal
+                      Specification W-P-115c. 									
+                    • NFPA 70 compliant (Enclosures are not fire rated).						
+                    • Seismically qualified and OSHPD rated (OSP #0078) - see also LVTM-LVSEI-xxxx Seismic Flier
+2 P3 Panelboards
+
+
+                   Features Overview
+
+                   The P3 Series lighting panel features include: 						
+                   1) Fas-Latch trim (Type 1), is standard but, can be ordered with other popular front styles.		
+                   2) Adjustable Interiors with jacking screw system.						
+                   3) Neutral Configurations are very flexible and allow for up to 12 Large Frame Branch Breakers or
+                     can allow for all branches to be 1-pole with few restrictions. Split neutral design makes for
+                     installing AFCI/GFCI breakers much easier. 2/0 neutral connections are available on both sides
+                     of panel.										
+                   4) Unit Space is very Flexible with many Field installable kits that allow changes in the field as
+                     requirements change. BL/BQD kits, 3VA41/xGB kits, QR kits and 3VA52/61/62 kits allow changes in
+                     either 3” or 6” increments. Twin Mount 3VA52 only strap kits are also available.			
+                   5) Main and Sub-feed Breakers are field replaceable within the original breaker Frame size.
+                     Frame types cannot be changed in the field. Only 400A and 600A horizontal mount 3VA series is
+                     available for subfeed. [600A Horizontal Mount Main or Sub-Feed requires 30" wide enclosure]
+
+                   P3 construction features:
+                   • Either 400A or 800A max. panel bus, both Temp Rated and A/Si (Amps per Square inch) Rated
+                     bus are available.									
+                   • Up to 600 volts AC with standard Bus bracing up to 200KAIC.
+
+                   Main space:
+                   • 400A max. panel bus allows for any MLO (250A or 400A) and Main Breaker Types 3VA52/61/62
+                     250A max. or 3VA53/63 400A max. [available for Horizontal and Vertical mount]			
+                   • 800A max. bus allow for any MLO (max. 600-800A) and Main Breaker Types 3VA54/64 (600A
+                     max.) or 3VA55/65 (800A max. Vertical Mount only) See SpeedFax for other Legacy breaker types
+                     if needed. [600A MB is available Horizontal and Vertical mount] {Both 600A Horizontal 3VA54/64
+                     Main and 800A Vertical 3VA55 TMTU require 30" wide Enclosure}
+
+                   Unit space:
+                   • Strap kits for 1” frame breakers can be mixed in unit space as needed. (Each kit uses 3” of unit space)
+                     - BL/BQD kits also accept GFCI/AFCI Breakers, BT Twin and BPSD surge protection devices.		
+                     - 3VA41/xGB kits also accept BSPD surge protection devices					
+                   • Strap kits for larger frame breakers require 6” of unit space and are available as single mount or
+                     dual mount for some types. 								
+                     - QR kits are 225A max. and 240V max. (twin mount) 					
+                     - 3VA52/61/62 single mount kits are the most versatile and are 250A max with many optional
+                      accessories available. Twin mount 3VA52 only kits are also available.
+
+                   Subfeed space: (space outside of unit space)
+                   a) Feed-Thru Lugs either 400A max or 600-800A max are available.				
+                   b) Subfeed Breakers can be factory installed only - one 400A max. 3VA53/63 or one 600A max.
+                     3VA54/64 horizontal mount only (requires 12” of box height). (600A Horiz. Main or subfeed
+                     require 30" wide enclosure)		
+
+                   Additional information:
+                   For complete application and pricing information contact your local sales office.
+
+                   For further information on the product, visit our website at www.usa.siemens.com/panelboards.
+
+                   For detailed configuration information consult the SpeedFax section 11 on the website.
+                                                                                         P3 Panelboards   3
+
+
+P3 Panelboard additional information
+
+Branch Unit Space mounted Strap Kits Available for Field installation: (See SpeedFax
+for other legacy kits available)
+• BBKB32 - P2/P3 BL/BQD 100A max. Twin Mount Strap kit, uses 3" of unit space for 6 circuits
+  total.											
+• BBKVA4P2P3 - P2/P3 3VA41/xGB 125A max. Twin Mount Strap Kit, uses 3" of unit space for 6
+  circuits total.										
+• BBKQR2 - P3 QR 225A max. Twin Mount Branch Strap Kit, uses 6" of unit space for two 2-p or
+  3-p breakers.										
+• BBKVA5262S - P2/P3 250A max. 3VA52/61/62 Single Mount Branch Strap Kit, 1ph or 3ph,
+  uses 6" of unit space for one 2-p or 3-p breaker. (includes 1 #BBKVA5262P2HW kit)		
+• BBKVA52P3T - P3 only, 250A max. 3VA52 only - Twin Mount Branch Strap Kit, 1ph or 3ph,
+  (includes two BBKVA52P3HW kits)
+
+Enclosures available:
+• Std. Enclosure sizes: 24” wide x 7.75” Deep. Optional 30" wide Vented enclosures are required
+  and available for specific applications.							
+• Std. heights: 56”, 62”, 68”, 74" and 80". [62" and 74" may be special order only] 		
+• Std. Types Available: Type 1, Type 3R, Type 3R/12, or Type 4X
+
+Type 1 Fronts — Surface or Flush available:
+Order to match box height: Typical 24” wide w/ #14 Gauge Steel					
+• FasLatch Front (Surface or Flush) is Standard, options available: Hinge-to-Box and Door-in-Door
+  fronts with either standard hinge or Piano Hinge options (including 304 Stainless). [30" wide
+  vented type 1 enclosure require use of 24"W Surface style fronts to match interior height.]
+
+Weight = Approximate 5 lbs. per inch of box height for 24" wide. [30" wide est. 5.5 lbs/inch]
+• Total panelboard weight when filled with a normal quantity of breakers and accessories is an
+  estimate only.
+
+Series Connected Short Circuit Ratings
+The term “Series Connected Short Circuit Rating” refers to the application of series connected circuit
+breakers in a combination that allows some breakers to have lower individual interrupting ratings
+than the available fault current.
+
+This is permitted as long as the series combination has been tested and certified by UL. See Circuit
+Breaker Section of the SpeedFax.
+
+• Series rating booklet # PBTA-00101B-1020 (web searchable)
+4 P3 Panelboards
+
+
+
+
+ Catalog Numbering System: Factory Assembled )                                 P     3   C   8    0 M L        8   0    0   A     T   S                Typical Voltage Codes
+
+                                         Type of Panel:                        P     3                                                                     A         120/240 1: 3 W AC
+
+                        Voltage and System Code:                 A, C, D, E                                                                                C         208Y/120 3: 4 W Wye AC
+
+                  (additional codes in SpeedFax)                 F, J, I, T                                                                                D         240 3: 3 W Delta AC
+                                    Enclosure Height             56, 62, 68, 74, 80                                                                        E         480Y/277 3: 4W Wye AC
+            (See Speedfax for MB Codes) Main:                    ML = Main Lug,                                                                            F         480 3: 3 W Delta AC
+                                                                 “xx” = Main Breaker                                                                       J         240 1: 2W No Neutral AC
+                                    Panel Amperage:              250-800A
+                                                                                                                                                           I         347 3: 3W Delta AC
+      (see SpeedFax for other codes) Bus Code:                   (material/plating) A, B, E, F, G or H
+                                                                                                                                                           T         230 3: 3W Delta AC
+                                        Feed Location:           T = Top           B = Bottom
+                                                                                                                                                                     See SpeedFax for additional
+                                                                                                                                                       Note:
+                                               Mounting:         S = Surface F = Flush                                                                               Voltage codes available.
+
+
+
+
+P3 Branch Circuit Breakers                                                                                                                                                         S = Single Mount
+
+
+                                                 1-Pole                                           2-Pole and 3-Pole                                                                     T = Twin mount
+
+                                                 Max IR (kA) at                                   Max IR (kA) at
+                                                                                                                                                                                             Unit      Max
+                                                                                         Amp                                                                        Amp                      Space     1-pole
+Amp                     Breaker     Breaker                                              Ratings 120/              480Y/          600Y/          125/          250V Ratings                  per Kit   Circuits
+Rating    Trip Type     Family      Type         120V     277V     347V 125V DC          Avail.  240V    240V      277V     480Vk 347V     600Vl 250V DC       DC   Avail.         S    T    (in.)     per Kit
+
+                                    BL, BTd
+                                                 10       —        —          —          15-70    10     10        —        —         —    —     —             —      15-100   h
+                                                                                                                                                                                   —    T    3.00      6
+          Thermal                   BLH,
+                        BL                       22       —        —          —          15-70    22     22        —        —         —    —     —             —      15-100h      —    T    3.00      6
+          Magnetic                  BTHd
+                                                 65       —        —          —          15-50    65     65        —        —         —    —     —             —      15-100       —    T    3.00      6
+                                    HBL
+
+
+          Special                   BLG         10       —        —          —          15-20    10     —         —        —         —    —     —             —      30           —    T    3.00      6
+100                     BLG BL
+          Application               BL (HID)     10       —        —          —          15-30    10     —         —        —         —    —     —             —      15-30        —    T    3.00      6
+
+
+
+          Thermal                   BQDf         65       14       —          14         15-100   —      65        14       —         —    —     14            —      15-100       —    T    3.00      6
+                        BQD
+          Magnetic                  BQD6g        65       —        —          14         15-70    —      65        —        —         10   —     14            —      15-70        —    T    3.00      6
+
+
+                                    SEAB         65       25       14         14         15-125   65     65        25       25        14   —     50            50     15-125       —     T   3.00      6
+          Thermal
+125                     3VA41       MEAB         85       35       18         25         15-125   85     85        35       35        18   —     85            85     15-125       —     T   3.00      6
+          Magnetic
+                                    HEAB         150      65       25         30         15-125   150    150       65       65        25   —     100           100    15-125       —     T   3.00      6
+
+                                    MDAE         —        —        —          —          —        —      100       —        35        —    18    —             —      16-150       S    —    6.00      3
+                        3VA62
+          Electronic                HDAE         —        —        —          —          —        —      100       —        65        —    22    —             —      16-150       S    —    6.00      3
+150                     (ETU350
+          (Solid state)             CDAE         —        —        —          —          —        —      200       —        100       —    35    —             —      16-150       S    —    6.00      3
+                        LSI std)
+                                    LDAE         —        —        —          —          —        —      200       —        150       —    50    —             —      16-150       S    —    6.00      3
+
+                                    QR2          —        —        —          —          —        —      10        —        —         —    —     —             —      100-225      —    T    6.00      6
+          Thermal                   QRH2         —        —        —          —          —        —      25        —        —         —    —     —             —      100-225      —    T    6.00      6
+225                     QR
+          Magnetic                  HQR2         —        —        —          —          —        —      65        —        —         —    —     —             —      100-225      —    T    6.00      6
+                                    HQR2H        —        —        —          —          —        —      100       —        —         —    —     —             —      100-225      —    T    6.00      6
+
+                        3VA52s      MFAS         —        —        —          —          —        —      85        —        35        —    18    50            50     100-250 S         T    6.00      3 or 6
+          Thermal
+                        (TM230      HFAS         —        —        —          —          —        —      100       —        65        —    25    85            85     100-250 S         T    6.00      3 or 6
+          Magnetic
+                        trip)       CFAS         —        —        —          —          —        —      200       —        100       —    35    100           100    100-250 S         T    6.00      3 or 6
+250j
+                                    MFAE         —        —        —          —          —        —      100       —        35        —    18    —             —      100-250      S    —    6.00      3
+                        3VA62s
+          Electronic                HFAE         —        —        —          —          —        —      100       —        65        —    22    —             —      100-250      S    —    6.00      3
+                        (ETU350
+          (Solid state)             CFAE         —        —        —          —          —        —      200       —        100       —    35    —             —      100-250      S    —    6.00      3
+                        LSI std)
+                                    LFAE         —        —        —          —          —        —      200       —        150       —    50    —             —      100-250      S    —    6.00      3
+
+ BLG two-pole breaker is one phase and neutral. Three pole is two phases and neutral - See SpeedFax page 7-31
+s 3VA52 TMTU available in single or twin mount kit. 3VA61/62 with Electronic Trip (ETU) can be used only with the single mount kit.
+d BT and BTH are only available in 15A and 20A with two 1-pole circuits in one inch of unit space.
+f Approved for CSA and UL Listed.
+g Approved for CSA but not UL Listed.
+h 110A-125A BL/BLH (2-pole only) available as Main or Subfeed in Revised P1 panels only.
+j 3VA52/61/62 may be used as Branch in strap kit for single mount in 6" of unit space. Adding in the field one of these Strap kits may require adjusting the Deadfront Center strip. See DFK1 and other
+ lengths (DFK07 thru DFK21) in SpeedFax as needed.
+k 480V values apply to 480Y/277V also.
+l 600V values apply to 600Y/347V also.
+                                                                                                                                                                          P3 Panelboards     5
+
+Primary Main Breaker Selections available for P3 Panels (See SpeedFax for other breaker types)
+                                                                                      2-Pole and 3-Pole
+ P2 Main Circuit Breakers & Subfeed                                                   Max IR (kA) at a
+                                                                                                                                              Amp
+
+
+
+
+                                                                                                                    480V j
+
+
+
+
+                                                                                                                                     600V k
+                                                                                                     /277V
+
+
+
+
+                                                                                                                             /347V
+ Amp          Breaker                    Main Breaker           Breaker                                                                       Ratings            Branch Strap Kits d
+
+
+
+
+                                                                                          240V
+
+
+
+                                                                                                     480Y
+
+
+
+
+                                                                                                                             600Y
+ Rating       Family                     Code                   Type                                                                          Available          (not for use as Main Kit)
+                                         VA                     MFAS                     85           —            35        —       18       100-250
+               3VA52 s                                                                                                                                           BBKVA5262P2S
+                                         VB                     HFAS                    100           —            65        —       25       100-250            for 1-ph or 3-ph
+              (W/TM230 trip)
+                                         VC                     CFAS                    200           —           100        —       35       100-250            6” of unit space
+                                                                                                                                                                 Single Mnt. kit with
+ 250 f
+                                         WA [W2]                MFAE [MDAE]             100           —            35        —       18       100-250 [40-150]   Hardware kit #
+ [150]
+                                                                                                                                                                 BBKVA5262P2HW
+              3VA62 [3VA61]              WB [W3]                HFAE [HDAE]             100           —            65        —       22       100-250 [40-150]   (BBKVA52P3T - is twin mount
+              (ETU350 LSI standard)      WC [W4]                CFAE [CDAE]             200           —           100        —       35       100-250 [40-150]   for 3VA52 only - uses hard-
+                                                                                                                                                                 ware kit # BBKVA52P3HW)
+                                         WD [W5]                LFAE [LDAE]             200           —           150        —       50       100-250 [40-150]
+
+                                         VE                     MJAS                     85           —            35        —       18       200-400
+              3VA53
+                                         VF                     HJAS                    100           —            65        —       25       200-400
+              (W/TM230 trip)
+                                         VG                     CJAS                    200           —           100        —       35       300-400            Not available as
+                                                                                                                                                                 Field Branch Kit
+ 400 g                                   WE                     MJAE                    100           —            35        —       18       100-400
+                                                                                                                                                                 - Subfeed is available
+                                         WF                     HJAE                    100           —            65        —       22       100-400            Factory assembled only
+              3VA63
+              (ETU350 LSI standard)      WG                     CJAE                    200           —           100        —       35       100-400
+
+                                         WH                     LJAE                    200           —           150        —       50       100-400
+
+                                         VJ                     MLAS                     85           —            35        —       18       450-600
+              3VA54
+                                         VK                     HLAS                    100           —            65        —       25       450-600
+              (TM230 std)
+                                         VL                     CLAS                    200           —           100        —       35       450-600            Not available as
+                                                                                                                                                                 Field Branch Kit
+ 600 g                                   WJ                     MLAE                    100           —            35        —       18       160-600
+                                                                                                                                                                 - Subfeed is available
+                                         WK                     HLAE                    100           —            65        —       22       160-600            Factory assembled only
+              3VA64 f
+              (ETU350 LSI standard)      WL                     CLAE                    200           —           100        —       35       160-600
+
+                                         WM                     LLAE                    200           —           150        —       50       160-600
+
+              3VA55                      VN                     MMAS                     85           --           35        --      18       600-800
+              (TM230 std)                VO                     HMAS                    100           --           65        --      25       600-800            Main only
+ 800 h                                                                                                                                                           Not available
+              3VA65                      WN                     MMAE                    100           --           35        --      25       320-800            for Sub-feed
+              (ETU350 LSI std)           WO                     HMAE                    100           --           65        --      35       320-800
+
+a Ratings for 480V apply to 480Y/277V and ratings for 600V apply to 600Y/347V.
+s BBKVA52P3T branch kit for 1-ph or 3-ph. This 6” of unit space Twin Mnt. kit with Hardware kit # BBKVA52P3HW is only
+  used with 3VA52 breakers.
+d Kits for unit space can be mixed as needed for application and re-arranged in the field.
+f 3VA52/61/62 can be used as Main or Branch. 3VA61/62 Branch requires strap kit for single mount in 6” of unit space.
+  Adding in the field one of these Strap kits may require adjusting the Deadfront Center strip. See DFK1 and other lengths
+  (DFK07 thru DFK21) in SpeedFax as needed.
+g 3VA54/64 can be used as Main or Sub-feed. Subfeed is NOT available as a field kit - only available as Factory installed.
+  Horizontal Mount 600A requires 30" wide enclosure.
+h 800A 3VA55 TMTU Main is Vertical Mount only, but requires 30" wide Vented enclosure. 800A 3VA65 Main can use 24"
+  Wide standard P3 enclosure, but other options can push to the 30" wide.
+j 480V values apply to 480Y/277V also.
+k 600V values apply to 600Y/347V also.
+6 P3 Panelboards
+
+
+Type 1 Box
+                                               0.313 in. Dia.
+Box is symmetrical
+
+                                               0.313 in. Dia.
+
+
+
+
+(UL approved construction. 16 gage steel or equivalent alternate construction.
+14 or 12 gage is available as an optional special order.)
+G60 Galvanized is standard without paint.
+
+
+
+Type 3R and 3R/12 Box                                                                                                                   10.0
+                                                                                                                                       [254]
+
+                                                                                                                                        10.0
+                                                                                                                                       [254]
+       (Mounting Holes                                                           (Mounting Holes
+       0.437 in. Square)                                                         0.437 in. Square)
+      (Mounting Holes                                                            (Mounting Holes
+      0.437 in. Square)                                                          0.437 in. Square)
+
+
+
+
+       (Mounting Holes                                                           (Mounting Holes
+       0.437 in. Square)                                                         0.437 in. Square)
+      (Mounting Holes                                                            (Mounting Holes
+      0.437 in. Square)                                                          0.437 in. Square)
+
+
+
+
+                                                   27.0 in.
+                                                   [ 686 ]
+
+                                                    27.0 in.
+(UL approved construction. 16 gage steel can with 				                                               a  Dimensions are interior of the box. Add 5/8" to width for absolute
+14 gage front or similar approved construction.)    [ 686 ]                                             dimension. Add 1/8" to height for absolute dimension.
+A60 Galvannealed with ANSI 61 light gray paint is standard.                                           Dimensions shown in inches and millimeters [ ].
+    Panelboards
+   Panelboards
+      P3 30" Wide NEMA Type 1 Vented Enclosure Details                                                                                                                                     Dimensions
+                                                                                                                                                                                              P3 Panelboards                  7
+   P3 30" Wide NEMA Type 1 Vented Enclosure Details                                                                                                                                     Dimensions
+    P3 Standard Enclosures / Fronts                                                                     P3 Vented Enclosures / Fronts
+
+
+
+
+                                                                                                                                                                                                                       11 PANELBOARDS
+                                                                                                                                                                                                                        11 PANELBOARDS
+   P3 Standard
+          24” WideEnclosures          / Fronts                                                         P3 Vented     Enclosures         / Fronts
+P3 Standard   Enclosures         / Fronts
+                  Enclosures - 7.75” Deep Catalog Numbers
+                                                                                                    P3 Vented   Enclosures
+                                                                                                           30” Wide Vented
+                                                                                                                                  / Fronts
+                                                                                                                           Enclosures - 7.75” Deep (inside) Catalog Nos.
+
+                  24" Wide Enclosures        - 7.75"Front
+                                         FasLatch     Deep Catalog Numbers                              Box            30" Wide Vented Enclosures
+                                                                                                                                                Fronts      - 7.75" Deep (inside) Catalog Nos.
+       Box
+      Box    24" Wide Enclosures - 7.75" Deep Catalog Numbers
+           Height                                                                                          Box 30" Wide Vented Enclosures - 7.75"
+                                                                                                        Height                                                   Deep (inside)Type
+                                                                                                                                                                                 Catalog     Nos.d Exterior
+                                                                                                                                                                                      3R Vented
+ Box(in.)
+       Height                       FasLatch    Front                                                Box   HeightNEMA
+                                                                                                        (in.)          NEMA
+                                                                                                                          Type 1Type   1
+                                                                                                                                  Vented            Front
+                                                                                                                                                Use Surface
+                                                                                                                                                           b
+                                                                                                                                                              only           Type
+                                                                                                                                                                                Depth3R9.75”
+                                                                                                                                                                                         Ventedc
+                   Type 1 Box FasLatchSurface
+                                          Front           Flush          Type 3R       Type 3R/12                                              Front  b
+ Height(in.)      Type 1 Box        Surface        Flush        Type 3R          Type 3R/12          Height      NEMA     Type 1                                         TypeExterior
+                                                                                                                                                                               3R Vented     c
+
+ (in.)56     Type 24WD56
+                   1 Box      Surface P3S56   Flush        Type 3R
+                                                          P3F56            Type 3R/12
+                                                                         24NRD56       24WPD56          68(in.) Vented
+                                                                                                     (in.)
+                                                                                                                       Vented
+                                                                                                                   30WD68V**                        Use Surface only
+                                                                                                                                               Use Surface only Exterior        tbd** f Depth 9.75"
+                                                                                                                                                                                   Depth(FY22)
+                                                                                                                                                                                            9.75"
+       56         24WD56            P3S56          P3F56        24NRD56          24WPD56                   68          30WD68V**
+                                                                                                                   Surface Mount box                Use 24" wide             tbd** (FY22)
+ 56 62* 24WD56     24WD62 P3S56 P3S62         P3F56        24NRD56 24NRD62
+                                                          P3F62            24WPD5624WPD62            68          30WD68V**
+                                                                                                                       Surface Mount boxUse Surface  24" wideMount tbd** (FY22)
+       62*        24WD62            P3S62          P3F62        24NRD62          24WPD62                         Surface    Mount box          Surface    Mount
+ 62*68       24WD6224WD68 P3S62          P3S68P3F62        24NRD62 24NRD68 24WPD6224WPD68               80
+                                                                                                           80      30WD80V***
+                                                                                                                       30WD80V***                   Fronts    to match          tbd***
+                                                                                                                                                                             tbd***
+                                                                                                                                                                                       f
+                                                                                                                                                                                          (FY22)
+                                                                                                                                                                                       (FY22)
+       68         24WD68            P3S68          P3F68P3F6824NRD68             24WPD68             80            Surface Mount box
+                                                                                                                 30WD80V***                    Fronts
+                                                                                                                                                Use 24” to match
+                                                                                                                                                        wide  Surface Mount
+                                                                                                                                                                         tbd***   (FY22)
+ 68 74* 24WD68                                                                                                                                      interior   size  and
+       74*         24WD74 P3S68
+                  24WD74            P3S74P3S74P3F68        24NRD68 24NRD74
+                                                   P3F74P3F74 24NRD74
+                                                                           24WPD6824WPD74
+                                                                                 24WPD74
+                                                                                                                       Surface Mount box Fronts to match interior size
+                                                                                                                                               interior  size  and
+                                                                                                                 Surface Mount box                  addlower
+                                                                                                                                                          lower     covers
+ 74*         24WD74           P3S74           P3F74        24NRD74         24WPD74                      6868           30WD68VF**
+                                                                                                                   30WD68VF**                   and add
+                                                                                                                                               add  lower      covers as
+                                                                                                                                                             covers          Flush
+                                                                                                                                                                                FlushMount     Type
+                                                                                                                                                                                      Mount Type    1 with
+       80
+      80          24WD80
+                   24WD80           P3S80P3S80 P3F80P3F8024NRD80         24NRD80 24WPD80
+                                                                                       24WPD80       68          30WD68VF**                          as needed.          Flush
+ 80          24WD80           P3S80           P3F80        24NRD80         24WPD80                                     Flush
+                                                                                                                   Flush Mount Mount
+                                                                                                                                 box    box as  needed.
+                                                                                                                                                   needed.                   1 Mount
+                                                                                                                                                                               with
+                                                                                                                                                                                external  Type ring
+                                                                                                                                                                                      external
+                                                                                                                                                                                         Flushing
+                                                                                                                 Flush Mount box                                         1 with  external
+                                                                                                                                                                                available
+                                                                                                                                                                             Flushing     soon.avail-
+                                                                                                                                                                                          ring   (FY22)
+     *P3enclosures
+           enclosures    62" and   74"  will be   "Make   tolonger
+                                                             Order"                                        80          30WD80VF***
+*P3 *P3
+     enclosures     62” and
+                   62"  and74”74"
+                               willwill
+                                    be “Make"Make
+                                              to Order”
+                                                     towith        Lead-times than other standard                                                                        Flushing   ring avail-
+     with . longer  Lead-times     thanbeother standard Order"
+                                                             sizes.                                  80 80       30WD80VF***
+                                                                                                                   30WD80VF***
+                                                                                                                       Flush Mount box                                       able soon.     (FY22)
+withsizes
+       longer  Lead-times than other standard sizes.                                                               Flush Mount
+                                                                                                                 Flush   Mountbox  box                                   able soon. (FY22)
+                                                                                                         ** 68" high box mounts 56", 62" and 68" high interiors
+                                                                                                    ** 68"    high   box  mounts     56",  62"  and  68"  high
+                                                                                                         *** 80" high box mounts 68", 74" and 80" high interiors  interiors
+                                                                                                    *****80"
+                                                                                                          68”high   box
+                                                                                                                highCover
+                                                                                                            Lower          mounts
+                                                                                                                     box mounts
+                                                                                                                           Kit    56”,68",  74"68”
+                                                                                                                                       62” and
+                                                                                                                               # BXXCVR06S24W   andcan80"
+                                                                                                                                                   high    high
+                                                                                                                                                        interiors
+                                                                                                                                                        be         interiors
+                                                                                                                                                           used with
+                                                                                                       *** 80”
+                                                                                                     Lower    highKit
+                                                                                                            Cover   box# mounts 68”, 74” and
+                                                                                                                         BXXCVR06S24W        80”be
+                                                                                                                                           can   high interiors
+                                                                                                                                                   used  with
+                                                                                                           24" Fronts to cover 6" of open space below the Type 1 front.
+                                                                                                      24"
+                                                                                                       bFronts
+                                                                                                           Lower  to cover
+                                                                                                                 Cover
+                                                                                                           30" wide     Kit 1#6"Enclosure
+                                                                                                                     Type        of open space
+                                                                                                                                BXXCVR06S24W   below
+                                                                                                                                               can
+                                                                                                                                          can mount   the standard
+                                                                                                                                                   beany
+                                                                                                                                                      usedType
+                                                                                                                                                            with 124”
+                                                                                                                                                                   front.
+                                                                                                                                                                      Fronts tomount
+                                                                                                                                                                      Surface   cover 6” of open 		
+                                                                                                                                                                                      Front;
+                                                                                                    b 30" wide
+                                                                                                           spaceType
+                                                                                                                 below1 Enclosure    can mount any standard Surface mount Front;
+                                                                                                                        the Type 1 front.
+                                                                                                            FasLatch, Hinge-to-Box, Door-in-Door
+                                                                                                      FasLatch,
+                                                                                                            andwide
+                                                                                                        s 30”      Hinge-to-Box,
+                                                                                                                  all piano
+                                                                                                                       Type 1Hinge Door-in-Door
+                                                                                                                                    variations
+                                                                                                                              Enclosure          including
+                                                                                                                                          can mount          304 Stainless
+                                                                                                                                                       any standard         Steel.mount Front; FasLatch, 		
+                                                                                                                                                                     24" Surface
+      6” [152]                                                                                        andcall  piano
+                                                                                                            Lower      Hinge  variations
+                                                                                                                      Deadfront
+                                                                                                            Hinge-to-Box,        Cover Kitincluding
+                                                                                                                            Door-in-Door               304Hinge
+                                                                                                                                             # BXXDFK06R24W
+                                                                                                                                            and all piano   Stainless
+                                                                                                                                                                   canSteel.
+                                                                                                                                                                        be used
+                                                                                                                                                                 variations       with 304 Stainless Steel.
+                                                                                                                                                                            including
+ 6” [152]                                                                                           c Lower Deadfront Cover Kit # BXXDFK06R24W can be used with
+                                                                                                            30" NEMA
+                                                                                                        d Lower           3R toCover
+                                                                                                                                 coverKit6"#of open space below     the  deadfront.
+                                                                                                                    Deadfront                BXXDFK06R24W      can be used  with 30” NEMA 3R to cover 6” 		
+                                                                                                      30"NEMA
+                                                                                                            Standard3R  to cover  6" of  open   space   below  the deadfront.
+                                                                                                        of open   space NEMA    3R deadfront.
+                                                                                                                         below the  are Painted Ansi 61 Grey.
+                                                                                                     Standard NEMA 3R are Painted Ansi 61 Grey.
+                                                                                                            - For Stainless versions add "??" to Enclosure number. (tbd)
+                                                                                                      - For Standard
+                                                                                                             StainlessNEMA    3R are Painted
+                                                                                                                                        "??" toAnsi  61 Grey.number. (tbd)
+                                                                                                        f
+                                                    24” [610]                                                            versions add            Enclosure
+                                               24” [610]                                                    - For Stainless versions add “??” to Enclosure number. (tbd)
+
+
+
+
+  P3 Type 11Ventilated Enclosure30"30”Wide
+                                       Wide
+P3P3 Type
+   Type     Ventilated
+        1 Ventilated   Enclosure
+                     Enclosure 30" Wide
+                                                                                                  Lower 6-inch-high Cover
+                                                                                              Lower 6-inch-high Cover
+                                                                                                  size for reference
+                                                                                              size for reference
+                                                                                                                                                            Dimensions are interior of the box. Add
+                                                                                                                                                        Dimensions are interior of the box. Add
+                                                                                                                                                               3/8" to width for outside dimension. Add
+                                                                                                                                                         3/8" to
+                                                                                                                                                               3/16"width     for outside
+                                                                                                                                                                          to height              dimension.
+                                                                                                                                                                                         for outside               Add
+                                                                                                                                                                                                           dimension.
+                                                                                                                                                         3/16" Dimensions
+                                                                                                                                                                to height forshown    outside    indimension.
+                                                                                                                                                                                                    inches and millime-
+                                                                                                                                                         Dimensions
+                                                                                                                                                               ters [ ]. shown in inches and millime-
+                                                                                                                                                         ters[Alternate
+                                                                                                                                                                 ].             interior mounting holes to
+                                                                                                                                                       Alternate interior mounting holes to
+                                                                                                                                                               mount interiors smaller than box size:
+                                                                                                                                        Dimensions are    interior
+                                                                                                                                                         mount          of the box.
+                                                                                                                                                                    interiors           Add than
+                                                                                                                                                                                  smaller       3/8” to  width
+                                                                                                                                                                                                       box     size:
+                                                                                                                                                             — Alternate        mounting          hardware       included
+                                                                                                                                         for outside dimension.
+                                                                                                                                                      — Alternate      Add 3/16” to hardware
+                                                                                                                                                                                         height for included
+                                                                                                                                                                                                         		
+                                                                                                                                                               with mounting
+                                                                                                                                                                         lower cover kit # BXXDFK06R24W
+                                                                                                                                         outside dimension.
+                                                                                                                                                         with  lower       cover    kit  #  BXXDFK06R24W
+                                                                                                                                                             68" High box : a) 6" smaller = 62" interior
+                                                                                                                                         Dimensions68" shown
+                                                                                                                                                           High inbox
+                                                                                                                                                               or    inches
+                                                                                                                                                                     b) 12": a)and    millime-
+                                                                                                                                                                                 6" smaller
+                                                                                                                                                                               smaller      = 56" =ters
+                                                                                                                                                                                                     62" [ interior
+                                                                                                                                                                                                            ].
+                                                                                                                                                                                                     interior
+                                                                                                                                        Alternate interior
+                                                                                                                                                         or b)mounting
+                                                                                                                                                             80"12"High       holes
+                                                                                                                                                                        smaller
+                                                                                                                                                                            box   : =a)to6"mount
+                                                                                                                                                                                       56"    interior
+                                                                                                                                                                                              smaller interiors
+                                                                                                                                                                                                         = 74" interior
+                                                                                                                                         smaller than80"boxHigh
+                                                                                                                                                             size:
+                                                                                                                                                               orbox b) 12": a)smaller
+                                                                                                                                                                                 6" smaller = 68" = 74"    interior
+                                                                                                                                                                                                     interior
+                                                                    
+                                                                                                                                        — Alternate mounting
+                                                                                                                                                         or b)  12"hardware
+                                                                                                                                                             b Use      24" wide=included
+                                                                                                                                                                        smaller        68"Surface
+                                                                                                                                                                                      P3           withmount
+                                                                                                                                                                                              interior    lower front that
+                                                                                                                                         cover kit # BXXDFK06R24W
+                                                                                                                                                      b Use 24" wide68”
+                                                                                                                                                               matches P3          High
+                                                                                                                                                                                   Surface
+                                                                                                                                                                               height      box
+                                                                                                                                                                                          of      : a) 6” mounted
+                                                                                                                                                                                                  mount
+                                                                                                                                                                                               interior    		front that
+                                       
+                               
+                                                                                                                                                         matches
+                                                                                                                                         smaller = 62” interior
+                                                                                                                                                             c Most    height
+                                                                                                                                                                          standardof interior
+                                                                                                                                                                                         24” wide  mounted
+                                                                                                                                                                                                        Surface Mount
+                                                                                                                                                    c  Most
+                                                                                                                                         or b) 12” smaller  = 56”
+                                                                                                                                                               P3standard
+                                                                                                                                                                      interior  24” fit,
+                                                                                                                                                                      fronts will      wide      SurfaceFasLatch,
+                                                                                                                                                                                            including         Mount
+                                                                                   
+                                                                                                                                         80” High box :P3 a) fronts     will=fit,
+                                                                                                                                                             6”Hinge-to-Box,
+                                                                                                                                                                 smaller        74”including
+                                                                                                                                                                                     interior     orFasLatch,
+                                                                                                                                                                                        Door-in-Door b) 12”and 		 all Piano
+                                                                                                                                                         Hinge-to-Box,
+                                                                                                                                         smaller = 68” interiorHinge variationsDoor-in-Door and all Piano
+                                                                                                                                     s   Use 24” wide P3 Hinge
+                                                                                                                                                              Forvariations
+                                                                                                                                                            Surface      mount
+                                                                                                                                                                       Flush       front that
+                                                                                                                                                                                Mount              matches 		 order
+                                                                                                                                                                                            Requirements:
+                                                                                                                                                       For mounted
+                                                                                                                                                              Flush
+                                                                                                                                        height of interior    FlushMount  EnclosureRequirements:
+                                                                                                                                                                                           that comesorder    with exter-
+                                                                                                                                    d                   Flush
+                                                                                                                                         Most standard 24” wide  Enclosure
+                                                                                                                                                               nallySurface
+                                                                                                                                                                          mounted that
+                                                                                                                                                                                    Mount comes      with
+                                                                                                                                                                                                P3 fronts
+                                                                                                                                                                                         Flushing      Ring.  exter-
+                                                                                                                                                                                                              will
+                                                                                                                                                         nally  mounted
+                                                                                                                                                             — Use
+                                                                                                                                         fit, including FasLatch,       Surface Flushing
+                                                                                                                                                                       Hinge-to-Box, mount      Ring.
+                                                                                                                                                                                                 fronts for 		these
+                                                                                                                                                                                            Door-in-Door
+                                                                                                                                         and all Piano— Hinge
+                                                                                                                                                         Use Surface
+                                                                                                                                                               enclosures
+                                                                                                                                                                 variations  mountalso. fronts
+                                                                                                                                                                                           (to be  foravailable
+                                                                                                                                                                                                        these late FY22)
+                                                                                                                                     f   For Flush Mount enclosures
+                                                                                                                                                               Ventedalso.
+                                                                                                                                                             Requirements:
+                                                                                                                                                             e               Cover (to  be Flush
+                                                                                                                                                                                              available
+                                                                                                                                                                                       included
+                                                                                                                                                                                    order             withlate
+                                                                                                                                                                                                     		            FY22) -
+                                                                                                                                                                                                               Enclosure
+                                                                                                                                                      e Vented Cover included with Enclosure -
+                                                                                                                                         Enclosure that comes  Painted       ANSI 61 Grey
+                                                                                                                                                                     with externally        mounted to match
+                                                                                                                                                                                                          		 standard
+                                                                                                                                         Flushing Ring.  Painted
+                                                                                                                                                               front. ANSI     61  Grey      to  match      standard
+                                                                                                                                         — Use Surfacefront.
+                                                                                                                                                           mount fronts for these enclosures 		
+                                                                                                                                         also. (to be available late FY22)
+                                                                                                                                     g   Vented Cover included with Enclosure - Painted ANSI
+                                                                                                                                         61 Grey to match standard front.
+
+
+
+
+                                   
+                           
+
+                                   
+                           
+
+
+
+
+                                                                                                                Siemens Industry, Inc. SPEEDFAX™ Product Catalog   11-71
+                                                                                                            Siemens Industry, Inc. SPEEDFAX™ Product Catalog    11-71
+Legal Manufacturer                  This document contains a general
+                                    description of available technical options
+Siemens Industry, Inc.
+                                    only, and its effectiveness will be subject to
+3617 Parkway Ln
+                                    specific variables including field conditions
+Peachtree Corners, GA 30092
+                                    and project parameters. Siemens does not
+United States of America
+                                    make representations, warranties, or
+Telephone: +1 (800) 333-7421        assurances as to the accuracy or
+www.usa.siemens.com/panelboards     completeness of the content contained
+                                    herein. Siemens reserves the right to
+Order No. PBSS-20303-1021
+                                    modify the technology and product
+© 10.2021, Siemens Industry, Inc.
+                                    specifications in its sole discretion without
+                                    advance notice.
+

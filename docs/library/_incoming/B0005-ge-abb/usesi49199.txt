@@ -1,0 +1,58 @@
+Panelboards                                                                                       Section 11
+A-Series ™ II Panelboards
+Column
+Field Installed Kits/Replacement Parts
+
+
+
+Miscellaneous Kits                                                Panelboards Parts
+Order by Product Number from the National Service Center          Order from Factory
+
+                                                        Product         Description                   Product Number
+                 Description                            Number
+                                                                       Directory Card                   139C5612P2
+Equipment Grounds:
+                                                                     Circuit Numbering
+           Standard Terminal Strip
+               With Provision for                                        Strips - 1-48                  569B806G1
+            (11) 14-8 Cu or 12-8 Al                     TGL2
+                                                                                43-84                   569B806G2
+              (3) 14-4 Cu or 6-4 Al
+                                                                    Directory Card Holder               139C5491P4
+      Above terminal with Copper Strap                  TGC2
+            Main Lug 6-2/0 Cu/Al                        TGL20
+         Standard Isolated Insulated
+           (11) 14-8 Cu or 12-8 Al                      EGS12
+             (3) 14-4 Cu or 6-4 Al
+      Above terminal with Copper Strap                  EGC12     Permanent Circuit Number Kits
+Handle Locking Devices:                                           Order from Factory
+         THQL, THHQL THQB, THHQB                        THL103
+                                                                     Product Number                   Description
+                     TEY                                TEYLD1
+                                                                          APN48                        No's 1-48
+                     TED                                TLD3
+                                                                          APN84                        No's 43-84
+                TFJ, TFL, TLB4                          TFKLD1
+Padlocking Devices:
+            THQL, THHQL, TXQL
+            THQB, THHQB, TXQB                           THP100
+
+                      TEY                               TEYPLD1
+                  TED, TEL                              TEFPLD1
+                     TQD                                TQDPLD1
+                   TFJ, TFL                             TFKPLD1
+            Filler Plate for Q Line
+              and TEY Breakers                          TQLFP1
+
+                Gasketing Kit                           AGSK
+       Safety Catch for Trough Covers 1                 ACHK
+1
+    Standard on pull box.
+
+
+
+
+11-10                                 BuyLog™ Catalog             www.geindustrial.com            Rev. 11/13
+                                                                                                  Data subject to change
+                                                                                                  without notice
+

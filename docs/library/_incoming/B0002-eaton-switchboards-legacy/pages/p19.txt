@@ -1,0 +1,72 @@
+     3                                    Molded-Case Circuit Breakers
+
+
+
+     QUICKLAG and Eaton Miniature Circuit Breaker Replacement Guide
+1
+     QUICKLAG and Eaton Plug-In Industrial Circuit Breakers—Dimensions in Inches
+2                                                              Maximum Amperes
+     Description                                               150A                           125A                           100A                                 30A
+
+3    Current Design
+     These circuit breakers replace the out-of-production      HQP                            QPHW                           QHPX                                 QHPW
+     circuit breakers listed below.
+4
+5
+6                                                              Width: 1.00                    Width: 1.00                    Width: 1.00                          Width: 1.00
+                                                               Height: 2.94                   Height: 2.94                   Height: 2.94                         Height: 2.94
+
+7
+                                                               Depth: 2.38                    Depth: 2.38                    Depth: 2.38                          Depth: 2.38
+     Out-of-Production Westinghouse Circuit Breakers
+     These circuit breakers are no longer                      HQNPL, HQNPAL, HQNP,        QPH                               No previous circuit                  QHPL
+8    manufactured. Recommended QUICKLAG circuit
+     breakers listed above.
+                                                               HQNPA, QP, QPA, QPAH, QNPL,
+                                                               QNPAL, QNP, Type P, PL
+                                                                                                                             breaker existed                      QHP
+
+
+9    QUICKLAG Bolt-On Industrial Circuit Breakers—Dimensions in Inches
+                                                               Maximum Amperes
+10   Description                                               150A                           125A                           100A                                 30A
+     Current Design
+11   These circuit breakers replace the out-of-production      BAB                            QBHW                           HBAX                                 HBAW
+     circuit breakers listed below.
+
+12
+13
+14                                                             Width: 1.00                    Width: 1.00                    Width: 1.00                          Width: 1.00
+                                                               Height: 2.94                   Height: 2.94                   Height: 2.94                         Height: 2.94
+
+15
+                                                               Depth: 2.38                    Depth: 2.38                    Depth: 2.38                          Depth: 2.38
+     Out-of-Production Westinghouse Circuit Breakers
+     These circuit breakers are no longer                      HQNB, HQNBA, QB, BA,           QBH                            No previous circuit                  HBA
+16   manufactured. Recommended QUICKLAG circuit                QNBL, QNBAL                                                   breaker existed
+     breakers listed above.
+
+17   QUICKLAG and Eaton Cable-In/Cable-Out Industrial Circuit Breakers—Dimensions in Inches
+                                               Maximum Amperes
+18   Description                               60A                        100A                 100A                   100A                         30A                     40A
+     Current Design
+19   These circuit breakers replace the        QCR            QCF         QC                   QCHW                   QHCX                         QHCW                    WMZ/FAZ
+     out-of-production circuit breakers
+     listed below.
+20
+21
+22                                             Width: 0.50                Width: 1.00          Width: 1.00            Width: 1.00                  Width: 1.00             Width: 0.70
+                                               Height: 3.94               Height: 3.75         Height: 3.75           Height: 3.75                 Height: 3.75            Height: 4.10
+
+23
+                                               Depth: 2.44                Depth: 2.44          Depth: 2.44            Depth: 2.44                  Depth: 2.44             Depth: 2.60
+     Out-of-Production Westinghouse Circuit Breakers
+     These circuit breakers are no             No previous circuit        HQCL, HQCAL, HQC,    QCH                    No previous circuit          QHCL, QHC               WMT
+24   longer manufactured. Recommended          breaker existed            HQCA, QCA                                   breaker existed
+     QUICKLAG circuit breakers listed above.
+
+25   Note: For supplementary protectors, the Eaton WMZS and FAZ Series replace the WMS supplementary protectors that are no longer manufactured.
+
+
+     V12-T3-6                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

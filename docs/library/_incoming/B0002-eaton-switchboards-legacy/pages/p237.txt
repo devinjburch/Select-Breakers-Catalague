@@ -1,0 +1,103 @@
+                                                                                                                                Meter Centers
+                                                                                                                                                                                      6
+Meter Packs
+                                                                                                                                                                                              1
+                                                                                                  Wireway Cover
+
+Utility Pull Section Cover
+                                                                                                                                                                                              2
+                                                                                                                                                                                              3
+                                                                                                  Meter Socket Assembly
+                                                                                                                                                                                              4
+                                                                                                                                                                                              5
+                                                                                                  Tenant Breaker Cover
+
+
+
+                                                                                                                                                                                              6
+                                                                                                                                                                                              7
+                                                                                                                                                                                              8
+                                                                                                  Meter Cover
+
+                                                                                                                                                                                              9
+                        Endwall                                                                                                                                                               10
+                                                            Meter Pack
+                                                                                                                                                                                              11
+Meter Packs
+Catalog Number                                                                                                                                                                                12
+                     Utility                                     Meter                 Tenant                                      Endwall                 Endwall
+Meter                Pull Section          Wireway               Socket                Breaker               Meter                 (with                   (without     Vertical
+Pack                 Cover                 Cover                 Assembly              Cover                 Cover                 Knockouts)              Knockouts)   Busbars               13
+1MP2122R             MP2122UCVR            MPCCVR01              1MMMS                 1MMBC1                1MMCP1 1             MP122NWLK                MP122NWL     MM1223VBUS
+1MP3124R             MP1234UCVR            MPCCVR04              1MMMS                 1MMBC1                1MMCP1               MP1234NWLK               MP1234NWL    MM1223VBUS
+                                                                                                                                                                                              14
+1MP4124R             MP1234UCVR            MPCCVR05              1MMMS                 1MMBC1                1MMCP1               MP1234NWLK               MP1234NWL    MM1224VBUS
+
+                                                                                                                                                                                              15
+1MP5126R             MP1256UCVR            MPCCVR02 2            1MMMS                 1MMBC1                1MMCP1 3             MP1256NWLK               MP1256NWL    MM1223VBUS
+1MP6126R             MP1256UCVR            MPCCVR03 2            1MMMS                 1MMBC1                1MMCP1 3             MP1256NWLK               MP1256NWL    MM1223VBUS
+1MP2204R             MP202UCVR             MPCCVR06              1MMMS                 1MMBC2                1MMCP2               MP2024NWLK               MP2024NWL    MM202VBUS
+1MP3206R             MP2034UCVR            MPCCVR09              1MMMS                 1MMBC2                1MMCP2               MP2024NWLK               MP2024NWL    MM2023VBUS            16
+1MP4206R             MP2034UCVR            MPCCVR10              1MMMS                 1MMBC2                1MMCP2               MP2024NWLK               MP2024NWL    MM204VBUS
+1MP5206R             MP2056UCVR            MPCCVR07 4            1MMMS                 1MMBC2                1MMCP2               MP2056NWLK               MP2056NWL    MM2023VBUS            17
+1MP6206R             MP2056UCVR            MPCCVR08 4            1MMMS                 1MMBC2                1MMCP2               MP2056NWLK               MP2056NWL    MM2023VBUS
+1MP2122RRL 5
+1MP3124RRL 5
+                     MP2122LUCVR
+                     MP1234UCVR
+                                           MPCCVR01
+                                           MPCCVR04
+                                                                 1MMMS 6
+                                                                 1MMMS 6
+                                                                                       1MMBC1
+                                                                                       1MMBC1
+                                                                                                             1MMRC125 7
+                                                                                                             1MMRC125 7
+                                                                                                                                  MP122NWLK
+                                                                                                                                  MP1234NWLK
+                                                                                                                                                           MP122NWL
+                                                                                                                                                           MP1234NWL
+                                                                                                                                                                        MM1223VBUS
+                                                                                                                                                                        MM1223VBUS
+                                                                                                                                                                                              18
+1MP4124RRL 5         MP1234UCVR            MPCCVR05              1MMMS 6               1MMBC1                1MMRC125             MP1234NWLK               MP1234NWL    MM124VBUS
+1MP5126RRL 5         MP1256UCVR            MPCCVR02              1MMMS 6               1MMBC1                1MMRC125 7           MP1256NWLK               MP1256NWL    MM1223VBUS            19
+1MP6126RRL 5         MP1256UCVR            MPCCVR03              1MMMS 6               1MMBC1                1MMRC125 7           MP1256NWLK               MP1256NW     MM1223VBUS
+1MP2204RRL 5         MP202UCVR             MPCCVR06              1MMMS 6               1MMBC2                1MMRC200 7           MP2024NWLK               MP2024NWL    MM202VBUS             20
+1MP3206RRL 5         MP2034UCVR            MPCCVR09              1MMMS 6               1MMBC2                1MMRC200             MP2024NWLK               MP2024NWL    MM2023VBUS
+1MP4206RRL 5
+1MP5206RRL 5
+                     MP2034UCVR
+                     MP2056UCVR
+                                           MPCCVR10
+                                           MPCCVR07
+                                                                 1MMMS 6
+                                                                 1MMMS 6
+                                                                                       1MMBC2
+                                                                                       1MMBC2
+                                                                                                             1MMRC200
+                                                                                                             1MMRC200
+                                                                                                                                  MP2024NWLK
+                                                                                                                                  MP2056NWLK
+                                                                                                                                                           MP2024NWL
+                                                                                                                                                           MP2056NWL
+                                                                                                                                                                        MM204VBUS
+                                                                                                                                                                        MM2023VBUS
+                                                                                                                                                                                              21
+1MP6206RRL 5         MP2056UCVR            MPCCVR08              1MMMS 6               1MMBC2                1MMRC200             MP2056NWLK               MP2056NWL    MM2023VBUS
+
+Notes
+                                                                                                                                                                                              22
+1 For top position, use meter socket cover 1MMCP1T.
+2 For center wireway cover, order MPCENCVR1.
+3 For top position, use meter socket cover 1MMCP1T.
+                                                                                                                                                                                              23
+4 For center wireway cover, order MPCENCVR2.
+5 For catalog numbers with a “B” suffix (ringless with horn bypass), all replacement parts are the same with the exception of the meter socket assembly.
+                                                                                                                                                                                              24
+  Refer to Footnote 6 for correct catalog number.
+6 For ringless style meter packs with horn bypass, order 1MMMSB.
+7 For top position, use meter socket cover 1MMRC200T.
+                                                                                                                                                                                              25
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                    V12-T6-3
+

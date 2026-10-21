@@ -1,0 +1,72 @@
+                                                                      Molded-Case Circuit Breakers
+                                                                                                                                                                     3
+CHB Circuit Breaker                  CHB Mounting Bases
+                                     Description                                                                              Catalog Number                                 1
+Originally a
+Cutler-Hammer Product                Low Ampere
+
+The CHB breaker continues            15–50A                                      Single-pole                                  CHB9L1                                         2
+to be available as a                 15–50A                                      Two-pole                                     CHB9L250
+replacement breaker for
+use in Cutler-Hammer
+                                     15–50A                                      Three-pole                                   CHB9L350                                       3
+Type PB panelboards.                 High Ampere
+
+When combined with the
+                                     25–50A                                      Single-pole                                  CHB9H1                                         4
+mounting base, CHB                   25–125A                                     Two-pole                                     CHB9H2125
+breakers were also used for          25–100A                                     Three-pole                                   CHB9H3100                                      5
+surface and DIN rail mount
+cable-in/cable-out applications.
+(See photo below.)                   CHB Circuit Breaker Catalog Numbering System                                                                                            6
+For “new” cable-in/                                                     CHB 3 100
+cable-out applications,                                                                                                                                                      7
+Eaton recommends the
+use of our most current
+product offering:
+                                                       Bolt-on
+                                                   Circuit Breaker
+                                                                         Poles
+                                                                      1-, 2- or 3-
+                                                                                            Ampere
+                                                                                            Rating
+                                                                                                                              Accessories
+                                                                                                         ST = Shunt-trip (requires extra pole space)
+                                                                                                                                                                             8
+●   QUICKLAG Type QC                                                                                     SW = Switched neutral application
+    breakers (1.00-inch                                                                                  HID = High intensity discharge lighting applications
+                                                                                                         HM = High magnetic trip
+                                                                                                                                                                             9
+    per pole)                                                                                            GF = Ground fault personnel protection
+●   QCR breakers—rear
+    mount (0.50-inch per pole)
+                                                                                                         EPD = Ground fault equipment protection
+                                                                                                         H2 = 22,000 AIC (40, 50, 60A obsolete)                              10
+●   QCF breakers—front
+    mount (0.50-inch per pole)       Replacement Capabilities                                                                                                                11
+QCR and QCF breakers
+provide a 50% space savings                                                                                                                                                  12
+over 1.00-inch per pole
+designs of the same rating.
+                                                                                                                                                                             13
+                                                                                                                                                                             14
+                                                                                                                                                                             15
+                                                                                     Single-Pole             Two-Pole                Single-Pole                Two-Pole
+                                                   Single-Pole
+                                          QUICKLAG Type QC Cable-In/
+                                                                                     Type QCF Cable-In/Cable-Out Breaker            Type QCR Cable-In/Cable-Out Breaker      16
+                                                                                     —0.50 Inch per Pole (Front-Connected)          —0.50 Inch per Pole (Rear-Connected)
+                                      Cable-out Breaker—1.00 Inch per Pole
+                                                                                                                                                                             17
+                                                                                                                                                                             18
+
+     CHB Breaker Mounting Base
+                                                                                                                                                                             19
+                                                                                                                                                                             20
+                                                                                                                                                                             21
+                                                                                                                                                                             22
+                                                                                                                                                                             23
+                                                                                                                                                                             24
+                                                                                                                                                                             25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                        V12-T3-9
+

@@ -1,0 +1,72 @@
+     13                              Motor Control
+                                     Contactors, Starters and Brakes
+
+
+
+     IEC Sizes A–F—See Contactor/Starter Nameplate to Determine Series A1, B1 or C1
+1                                                       IEC Sizes A–F   IEC Sizes A–C 1    IEC Sizes A–C 1    IEC Sizes D–F 1     IEC Sizes D–F 1
+                                                        Series A1       Series B1          Series C1          Series B1           Series C1
+2    Description                                        Part Number     Part Number        Part Number        Part Number         Part Number
+     Renewal Parts Publication Number                   None            None               None               None                None
+
+3    Contact Kits
+                                                        2               2                  2                  2                   2
+     Two-pole
+
+4    Three-pole                                         2               2                  2                  2                   2
+
+
+     Four-pole                                          2               2                  2                  2                   2
+
+
+
+5
+     Five-pole                                          2               2                  2                  2                   2
+
+
+     Magnet Coils                         Coil Suffix
+
+6
+     120V, 60 Hz or 110V, 50 Hz           A             9-2650-1        9-2875-1           9-2875-1           9-2876-1            9-2876-1
+     240V, 60 Hz or 220V, 50 Hz           B             9-2650-2        9-2875-2           9-2875-2           9-2876-2            9-2876-2
+     480V, 60 Hz or 440V, 50 Hz           C             9-2650-3        9-2875-3           9-2875-3           9-2876-3            9-2876-3
+7    600V, 60 Hz or 550V, 50 Hz           D             9-2650-4        9-2875-4           9-2875-4           9-2876-4            9-2876-4
+     208V, 60 Hz                          E             9-2650-5        9-2875-5           9-2875-5           9-2876-5            9-2876-5
+8    277V, 60 Hz                          H             9-2650-13       9-2875-12          9-2875-12          9-2876-12           9-2876-12
+     208/240V, 60 Hz                      J             —               9-2875-37          9-2875-37          9-2876-37           9-2876-37
+9    240V, 50 Hz                          K             9-2650-12       9-2875-11          9-2875-11          9-2876-11           9-2876-11
+     380–415V, 50 Hz                      L             9-2650-6        9-2875-6           9-2875-6           9-2876-6            9-2876-6
+10   24V, 60 Hz–24V, 50 Hz                T             —               9-2875-36          9-2875-36          9-2876-36           9-2876-36
+     24V, 60 Hz                           T             9-2650-7        —                  —                  —                   —
+11   24V, 50 Hz                           U             9-2650-14       9-2875-13          9-2875-13          9-2876-13           9-2876-13
+     32V, 50 Hz                           V             9-2650-9        9-2875-16          9-2875-16          9-2876-16           9-2876-16
+
+12   48V, 60 Hz                           W             9-2650-8        9-2875-8           9-2875-8           9-2876-8            9-2876-8
+     48V, 50 Hz                           Y             9-2650-10       9-2875-9           9-2875-9           9-2876-9            9-2876-9
+
+13   Overload Relays
+     For replacement on existing starters:
+     three-pole—ambient compensated bimetallic          C306DN3B        C306DN3B           C306DN3B           C306DN3B            C306DN3B
+14   Current Transformer
+     Transformer                                        —               —                  —                  —                   —
+15   Magnet Frame Armature
+     Lower magnet frame                                 2               2                  2                  2                   2
+
+16   Upper magnet frame                                 2               2                  2                  2                   2
+
+
+     Notes
+17   1 Non-encapsulated coils.
+     2 Replace with complete contactor.
+
+
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T13-42               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

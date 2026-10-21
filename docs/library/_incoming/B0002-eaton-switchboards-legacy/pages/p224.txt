@@ -1,0 +1,104 @@
+     5                             Loadcenters
+                                   Type BR
+
+
+
+     Convertible                                                               Manufactured Housing Loadcenters
+1    Catalog         Combination      Surface    NEMA 3R       NEMA 3R
+                                                                               Single-Phase with Main Circuit Breaker
+     Number          Covers           Covers     Covers        Deadfronts      Catalog                                        Cover
+
+2    3BR1224N125     BRCOVC20         —          —             —
+                                                                               Number
+                                                                               BR1020B100GK
+                                                                                                                              Number
+                                                                                                                              MBCOVC10
+     3BR1224N125R    —                —          BR3RDOOR29    BR3RDF2
+
+3    3BR1224N125S    —                BRCOVS20   —             —
+                                                                               BR1020B100PK
+                                                                               BR1220B100GK
+                                                                                                                              MBCOVC10
+                                                                                                                              MBCOVC11
+     3BR3030N100     BRCOVC37         —          —             —
+
+4
+                                                                               BR1220B100PK                                   MBCOVC11
+     3BR3030N100R    —                —          BR3RDOOR30    —
+                                                                               BR1224B100PK                                   MBCOVC24
+     3BR3030N100S    —                BRCOVS37   —             —
+
+5
+                                                                               BR1224B100GK                                   MBCOVC24
+     BR1224N125      BRCOVC13         —          —             —
+                                                                               BR1224B100GK                                   MBCOVC25 1
+     BR1224N125R     —                —          BR3RDOOR2     BR3RDF1
+                                                                               BR1224B150GK                                   MBCOVC12
+6    BR1224NC125R                                BR3RDOOR2
+                                                                               BR1224B150PK                                   MBCOVC12
+     BR1224N200      BRCOVC30         —          —             —
+                                                                               BR1630B150GK                                   MBCOVC13
+7    BR1224N200R     —                —          BR3RDOOR6     BR3RDF5
+                                                                               BR1630B150PK                                   MBCOVC13
+     BR1624N125      BRCOVC17         —          —             —
+                                                                               BR1224B200GK                                   MBCOVC14
+8    BR1624N125R
+     BR1632N200
+                     —
+                     BRCOVC31
+                                      —
+                                      —
+                                                 BR3RDOOR3
+                                                 —
+                                                               BR3RDF2
+                                                               —
+                                                                               BR1224B200PK                                   MBCOVC14
+                                                                               BR1632B200GK                                   MBCOVC15
+9    BR1632N200SFG
+     BR2024N125      BRCOVC23         —
+                                                 47-37460
+                                                 —
+                                                               47-37375
+                                                               —
+                                                                               BR1632B200PK                                   MBCOVC15
+                                                                               BR2040B200GK                                   MBCOVC16
+10
+     BR2024N125R     —                —          BR3RDOOR4     BR3RDF4
+                                                                               BR2040B200PK                                   MBCOVC16
+     BR2040N200      BRCOVC35         —          —             —
+                                                                               BR1020B100PKW                                  MBCOVC17 1
+11
+     BR2040N200R     —                —          BR3RDOOR9     BR3RDF11
+                                                                               BR1220B100PKW                                  MBCOVC18 1
+     BR2440N200      BRCOVC41         —          —             —
+                                                                               BR1224B100PKW                                  MBCOVC25 1
+     BR3040N200      BRCOVC41         —          —             —
+12   BR3040N200R     —                —          BR3RDOOR11    BR3RDF12
+                                                                               BR1224B150PKW                                  MBCOVC19 1
+                                                                               BR1630B150PKW                                  MBCOVC20 1
+     BR4040N200      BRCOVC44         —          —             —
+13   BR4040N200R     —                —          BR3RDOOR12    BR3RDF13
+                                                                               BR1224B200PKW                                  MBCOVC21 1
+                                                                               BR1632B200PKW                                  MBCOVC22 1
+     BR816N200RF     —                —          BR3RDOOR6     BR3RDF5
+14   BR4040NL200G BRCOVC44 + BWFP —              —             —
+                                                                               BR2040B200PKW                                  MBCOVC23 1
+
+                                                                               Note
+15                                                                             1 These covers are painted white (standard color is gray).
+
+
+
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T5-20            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

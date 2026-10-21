@@ -1,0 +1,100 @@
+                                                                         Communication Systems
+                                                                                         Communication Hardware
+                                                                                                                                     11
+Product Operated                     The communications                  IPONI/MPONI                         The MINT II can be used to
+Network Interface                    medium is formatted to              With the addition of the            interface multiple IMPACC           1
+                                     enable clean noise-immune           IPONI or the MPONI card,            devices to Broadband LANs,
+(PONI) Devices                       communications even when                                                telephone modem or short
+                                     routed around areas of high
+                                                                         a Cutler-Hammer/Eaton
+                                                                         device or series of devices         haul modem. It can also be          2
+                                     noise and typical electrical        can communicate with the            used to allow additional
+                                     communication disrupting                                                branches of the INCOM data
+                                     equipment. The IPONI and
+                                                                         PowerNet software via a
+                                                                         master unit such as a MINT II       line (five additional branches      3
+                                     MPONI daisy chain are in the        and the PXG-E. The PONIs            per MINT II). The MINT II
+                                     same format as that used
+                                     in devices that have built-in
+                                                                         can be easily mounted to            can be either table or panel
+                                                                                                             mounted and requires a
+                                                                                                                                                 4
+                                                                         the appropriate Cutler-
+                                     communications such as the          Hammer/Eaton device                 120 Vac, 60 Hz supply.
+           PONI Family               Digitrip trip units and can be      and daisy chain together to         Selectable communication            5
+The Product Operated                 used in series with these           form a robust deterministic         rate of 1200 or 9600 baud is
+Network Interface (PONI)             communication network                                                   available. The burden for the
+cards attach to Cutler-              wiring. To Ethernet enable
+                                                                         communication network
+                                                                         of devices in a system              MINT II is 7 VA.                    6
+Hammer/Eaton devices to              IPONI and MPONI products,           solution. Systems employing
+                                     use the PXG-E series Power                                              Addressable Relay II (ARII)
+enable communications.
+These cards serve various            Xpert Gateways.
+                                                                         the IPONI/MPONI type
+                                                                         communications medium
+                                                                                                                                                 7
+functions from Ethernet-type         The PXG-E with IPONI or             provide deterministic
+applications, to non-Ethernet-       MPONI product offering puts         communication performance                                               8
+type applications, ultimately        a Cutler-Hammer/Eaton               relied on by those critical
+playing a key role in facilitating                                       solution applications,
+the access to information that
+                                     metering product on the Web.
+                                     No other software is required       where this is of the                                                    9
+each of the Cutler-Hammer/           when specifying a PXG-E. All        utmost importance.
+Eaton devices offer.                 software needed to enable           MINT II                                                                 10
+The IPONI enables                    any internet browser program
+communications over a                such as Microsoft Internet
+twisted shielded pair INCOM          Explorer or Mozilla Firefox is                                                                              11
+device network. Each PONI            packed into the PXG-E. The
+                                     data can then be viewed
+attaches to its associated
+product. The PONI modules            directly in any Internet                                                                                    12
+                                                                           Master INCOM Network Translator
+obtain power from the host           Web browser window.                              (MINT) II
+product. PONI modules can            The WEBPONI provides live
+                                     updating data for the meter         The MINT II interfaces the
+                                                                                                                    Addressable Relay II
+                                                                                                                                                 13
+be used as solutions for                                                                                     The Addressable Relay II
+                                     being monitored, as well as         IMPACC network to a master
+various applications.                                                                                        is designed for use where
+The non-Ethernet product
+                                     waveform display capabilities       control unit with an RS-232
+                                                                         port, such as a personal
+                                                                                                             information or control of           14
+                                     and e-mail direct from the                                              non-communicating devices
+offerings include the IPONI          device to defined key e-mail        computer serial port, a
+                                                                                                             is required remotely. The
+and the MPONI. These                 addresses that need to know         programmable controller
+                                                                                                             relays communicate on the           15
+devices are typically applied        when an event occurs.               RS-232 “smart card,”
+                                                                                                             PowerNet system. Devices
+where there are more than                                                building management system
+one device connected in                                                  interface card, etc. (Some
+                                                                                                             are assigned a three-digit
+                                                                                                             address to uniquely identify
+                                                                                                                                                 16
+a network of devices by                                                  software will have to be
+                                                                                                             them on the daisy-chained
+a dedicated twisted                                                      written in the master control
+shielded pair of conductors                                              unit to request and receive
+                                                                                                             twisted shielded pair network.      17
+(Ref. IMPCABLE).                                                         messages. The MINT II               The ARII has a Form C relay
+                                                                         protocol is 10-character,
+                                                                         ASCII coded hex.)
+                                                                                                             on board with two status
+                                                                                                             indicating circuit inputs. The
+                                                                                                                                                 18
+                                                                                                             output relay can be activated
+                                                                                                             and monitored remotely.             19
+                                                                                                             Input status 1 and 2 can
+                                                                                                             be monitored remotely.
+                                                                                                                                                 20
+                                                                                                                                                 21
+                                                                                                                                                 22
+                                                                                                                                                 23
+                                                                                                                                                 24
+                                                                                                                                                 25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com          V12-T11-25
+

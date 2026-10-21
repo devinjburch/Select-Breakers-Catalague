@@ -1,0 +1,69 @@
+     24                           Counters, Panel Meters, Tachometers and Timers
+                                  Count Controls/Preset Counters/Totalizers
+
+
+
+                                                                               Contents
+1
+     Count Controls/Preset Counters
+                                                                               Description                                                                   Page
+                                                                               Count Controls/Preset Counters
+2                                                                                Product Selection Guide . . . . . . . . . . . . . . . . . . . V12-T24-45
+                                                                                 1/16 DIN Battery Powered LCD
+3                                                                                  Count Control . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T24-46
+                                                                                 1/16 DIN LCD Preset Counters with Rate
+                                                                                   and Time . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T24-48
+4                                                                                Ambassador Series (Totalizers) . . . . . . . . . . . . . . V12-T24-53
+                                                                                 Ambassador Series (Count Control) . . . . . . . . . . V12-T24-56
+5                                                                                PD-Q and PD-ER Series . . . . . . . . . . . . . . . . . . . V12-T24-60
+                                                                                         Learn
+6                                                                                        Online
+
+
+7
+8
+9
+     Product Overview
+10   Count controls are counters
+     that provide output signal(s)
+                                            Application Example
+
+     at preset count value(s).                        Rotary Contactor
+11   Typical applications include
+     cut-to-length, batching, filling,
+     mixing and dispensing. A
+12   variety of count controls in
+     different sizes, display types
+     and feature sets are available
+13   from Eaton.
+
+14   Application Description                 Paper
+
+     The illustration shows a
+15   simple cut-to-length
+     application. The roll of paper
+                                                            Measuring
+                                                            Wheel
+                                                                                                          Roll
+     is measured using a
+16   measuring wheel and rotary
+     contactor (or encoder). Once
+     the desired length is reached,
+17   an output signal may be
+     directed to a shear for
+     activation. Following the cut-
+18   off, the count control will
+     reset to zero and begin
+19   measurement of the next
+     piece. Options such as batch
+     counting, where the number
+20   of cut pieces is counted, are
+     also typical of this application.
+
+21
+22
+23
+24
+25
+     V12-T24-44           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

@@ -1,0 +1,132 @@
+     17                                 Switchgear
+                                        Westinghouse DB Breakers—Trip Unit Retrofit Kits
+
+
+
+     Digitrip RMS Retrofit Kits for Westinghouse DB Breakers Catalog Numbering System
+1
+                                                           DB6 8 6 6 4Q 4 4 – T C S U
+2
+3             Trip Unit Type 1                         RP       No Rating Plug                       T = Digitrip 510, 610, 810, 910               N = Standard kit
+            5 = 510 basic                             Cat.      Current Rating                                                                     U = Upgrade kit from Digitrip 500/510
+4           Z = 510 zone int.
+            6 = 610
+                                                      Code       Tap     Plug
+                                                      21       200      100                N= No sensors                                     N = Standard kit
+            8 = 810                                                                        3 = Three sensors                                 S = Simplified cell harness
+                                                      22
+5
+                                                               200      200
+            9 = 910                                                                        4 = Four sensors                                  R = Cell harness removed
+                                                      32       300      200
+                                                      3Q       300      250
+                                                      33       300      300
+6
+                           Protection                                                                                                   N = No CPT supplied
+                                                      42       400      200
+                         1 = LI                                                                                                         C = Breaker-mounted CPT
+                                                      4Q       400      250
+                         2 = LSI                      43       400      300
+7
+                         3 = LS                       44       400      400
+                         4 = LIG                      63       600      300                 Code               Breaker Frame Description             Sensor             Current Rating of
+                         5 = LSG                      64       600      400                                                                           Code        Sensor and Available Taps
+                         6 = LSIG
+8                                                     66
+                                                      84
+                                                               600
+                                                               800
+                                                                        600
+                                                                        400
+                                                                                            DB2
+                                                                                                     ALL FRAMES
+                                                                                                     DB-15 2
+                                                                                                                                                    S
+                                                                                                                                                    2
+                                                                                                                                                                 NO SENSORS PROVIDED
+                                                                                                                                                                 200
+                                                      86       800      600
+                      N = No rating plug              88       800      800                 DB6      DB-25, DBL-25                                  6            600, 400, 300, 200
+9                     6 = 50/60 Hz plug               T6       1200     600                 DBC      DB-50, DBL-50                                  C            1600, 1200, 800, 600, 400
+                                                      T8       1200     800                                                                         2            200
+                                                      TA       1200     1000
+10                                                    TT
+                                                      C8
+                                                               1200
+                                                               1600
+                                                                        1200
+                                                                        800
+                                                                                            DBH
+                                                                                            DBK
+                                                                                                     DB-75
+                                                                                                     DB-100
+                                                                                                                                                    H
+                                                                                                                                                    K
+                                                                                                                                                                 3000, 2000
+                                                                                                                                                                 4000
+                                                      CA       1600     1000                WU2      DB-15 upgrade from Amptector                   2            200
+11                                                    CT
+                                                      CC
+                                                               1600
+                                                               1600
+                                                                        1200
+                                                                        1600
+                                                                                            WU6      DB-25, DBL-25 upgrade from Amptector           6            600, 400, 300, 200
+                                                      DA       2000     1000                WUC      DB-50, DBL-50 upgrade from Amptector           C            1600, 1200, 800, 600, 400
+
+12                                                    DT       2000     1200                                                                        2            200
+                                                      DC       2000     1600                WUH      DB-75 upgrade from Amptector                   H            3000, 2000
+                                                      DD       2000     2000                WUK      DB-100 upgrade from Amptector                  K            4000
+                                                      HC       3000     1600
+13                                                    HD
+                                                      HP
+                                                               3000     2000
+                                                               3000     2500
+                                                      HH       3000     3000
+14                                                    KD
+                                                      KP
+                                                               4000
+                                                               4000
+                                                                        2000
+                                                                        2500
+                                                      KH       4000     3000
+15                                                    KJ
+                                                      KK
+                                                               4000
+                                                               4000
+                                                                        3200
+                                                                        4000
+
+
+16
+     Notes
+
+17
+     1 At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910.
+     2 Maximum ampere rating is 200A.
+
+
+
+     Sample shown is a Digitrip                          This information is subject to
+18   retrofit kit for a DB-25, with                      change. Updated pricing and
+     an RMS 810 trip unit, with                          availability information is
+19   LSIG protection, with a 60 Hz
+     Plug, rated at 250A for a
+                                                         included in the Retrofit Kit
+                                                         Product Guide. For a copy
+     sensor tap of 400A, four                            of the Retrofit Kit Product
+20   sensors (for a four-wire                            Guide, contact your local
+     ground system) that have                            Eaton Field Sales office or the
+     sensor taps of 600, 400, 300                        Digitrip Retrofit Kit Service
+21   and 200A, there is a breaker-                       Center at 1-800-937-5487.
+     mounted CPT with the kit,
+     the cell wiring is simplified
+22   (only 6 wires vs. 16), and
+     the breaker was previously
+23   retrofitted with a Digitrip 500/
+     510, so this is an upgrade kit.
+
+24
+25
+     V12-T17-32                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

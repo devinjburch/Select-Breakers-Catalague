@@ -1,0 +1,86 @@
+                                                                                             Network Protectors
+                                                                            Retro-Build, Replacement Parts and Relays
+                                                                                                                                           19
+CMD Network Protector Renewal Parts
+                                                                                                                                                           1
+Eaton’s Cutler-Hammer CMD Network Protector
+
+Description
+                                                           Current
+                                                           Catalog Number      Description
+                                                                                                                                     Current
+                                                                                                                                     Catalog Number
+                                                                                                                                                           2
+Electrical Components
+Finger cluster assembly (800–1875A)                        593C841G01
+                                                                               Current Carrying Components
+                                                                               Moving arcing contact (800–1875A)                     695C128G02
+                                                                                                                                                           3
+                                                                                                                                                           4
+Finger cluster assembly (2000–3000A)                       682C347G02          Moving arcing contact (2000–3000A)                    695C134G01
+Micro-switch assembly                                      436B162G01          Stationary arcing contact assembly (800–1875A)        593C842G01
+Anti-close coil and switch (800–1875A)                     436B169G01          Stationary arcing contact assembly (2000–3000A)       6897D10G02
+Anti-close coil and switch (2000–3000A)                    436B169G02          Arc chute (800–1875A)                                 6914D18G02
+                                                                                                                                                           5
+Auxiliary switch assembly (800–3000A)                      591C950G01          Arc chute (2000–3000A)                                9147D18G01
+Anti-close relay assembly                                  765A881G03          Enclosure Parts—NEMA and Submersible (800–3000A)                            6
+Motor close relay                                          765A880G01          Fuse housing (800–1875A)                              595F152G01
+Trip coil assembly (1875–3000A)                            8230A23G02          Fuse housing (2000–3000A)                             693C719G01            7
+Trip coil only                                             677C903G03          Spade terminal (800–1875A)                            437B477G01
+Capacitor only                                             8310A96H01          Stud terminal (800–1875A)                             589C074G01            8
+BN dummy plate (CMD)                                       435D857G03          Spade terminal (2000 – 3000A)                         690C292G01
+CNJ dummy plate (CMD)                                      508B559G01          Stud terminal (2000–3000A)                            506B827G01            9
+Mechanical Devices                                                             Fuse housing cover with gasket (800–1875A)            6390C82G01
+Motor assembly—two lead only (800–3000A)                   437B494G01          Fuse housing cover with gasket (2000–3000A)           6390C84G01            10
+Operations counter                                         592C040H02          Fuse housing cover with window (800–1875A)            592C092G01
+Levering-in assembly (800–1875A)                           442D145G01          Fuse housing cover with window (2000–3000A)           592C092G02            11
+Levering-in assembly (2000–3000A)                          6897D33G01          Fuse housing tank gasket (800–1875A)                  505B339H01
+Hardware                                                                       Fuse housing tank gasket (2000–3000A)                 590C508H01
+                                                                                                                                                           12
+Network relay hold-down nuts                               5765A44G01          8-point stationary secondary contact                  591C497G01
+Combination nuts                                           1087024             8-point moving secondary contact (breaker mounted)    591C498G06
+                                                                                                                                                           13
+Breaker crank                                              589C063G01          12-point moving secondary contact (breaker mounted)   693C618G01
+X-washer and contact grease kit
+Breaker rollers
+                                                           8264A32G01
+                                                           349A473H01
+                                                                               12-point stationary secondary contact
+                                                                               Door hinge and clamp kit (open side)
+                                                                                                                                     9246C47G01
+                                                                                                                                     6418C71G01
+                                                                                                                                                           14
+                                                                                                                                                           15
+Breaker blocking bar                                       3670A85H01          Door hinge and clamp kit (hinge side)                 6418C71G02
+Breaker contact test gauge (1875A)                         3670A81G01          Hinge bolt only                                       1640799
+
+                                                                                                                                                           16
+Control Resistors and Rectifiers                                               Tank window kit                                       545B314G02
+Diode                                                      8310A96H03          Tank window only                                      310C536H12
+Rectifier                                                  3615A35H01          Tank window gasket only                               5863A16H01
+Electromechanical resistor assembly                        664A956G01          Submersible Tank Door Gasketing                                             17
+3100 ohm resistor                                          499A067H04          Flat molded, pre 12/87 (800–1875A)                    437C089H01
+Motor close rheostat                                       8230A16G01          Flat molded, pre 12/87 (2000–3000A)                   590C512H01            18
+Fuses (125–216V and 277/480V)                                                  1.25-inch (31.8 mm) diameter tubular Sep. MDT.        8309A37H01
+NPL fuse (800A)                                            140D318G04
+                                                                               —166 inches (4216.4 mm) (800–1875A)                                         19
+                                                                               1.25-inch (31.8 mm) diameter tubular Sep. MDT.        8309A37H02
+NPL fuse (1200A)                                           140D318G05
+                                                                               —140 inches (3556.0 mm) (800–1875A)
+NPL fuse (1600–1875A)                                      140D318G01
+                                                                               1.25-inch (31.8 mm) diameter tubular Sep. MDT.        8309A37H01
+                                                                                                                                                           20
+NPL fuse (2000–2825A)                                      140D318G02          —152 inches (3860.8 mm) (2000–3000A)
+NPL fuse (3000A)                                           140D318G06          Flat molded, pre 12/87 (2000–3000A)                   437C089H01            21
+Transformers                                                                   Barrier assembly tanking (800–1875A)                  567F830G01
+Current transformer (multi-ratio: 800/1200/1600A)          8230A85H01          Barrier assembly tanking (2000A plus)                 693C717G02            22
+Current transformers (2000A)                               8313A73G02
+Current transformers (2500A)                               8313A73G01                                                                                      23
+Current transformers (3000A)                               8313A73G03
+Potential transformer                                      7526A14G01
+                                                                                                                                                           24
+Control power transformer                                  8230A18H01
+
+                                                                                                                                                           25
+                        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com               V12-T19-5
+

@@ -1,0 +1,95 @@
+                                                                                                        Switchgear
+                                                                              ITE K-Line Breakers—Trip Unit Retrofit Kits
+                                                                                                                                       17
+Digitrip RMS Retrofit Kits                  Chronology                            3. The breaker compartment       5. RMS 510 zone, 610,
+for ITE K-Line Breakers                     Digitrip RMS retrofit kits               doors on the switchgear          810 and 910 retrofit kits    1
+                                            and replacement trip units for           assembly must be                 include a cell terminal
+                                            ITE K-Line breakers became               free of panel-mounted            block assembly that
+                                            available in 1991. The Digitrip          instruments and devices          must be installed in the     2
+                                            RMS 510 model is the                     (i.e., ammeters, switches,       switchgear assembly.
+                                                                                     etc.) or the retrofitted         Internal switchgear
+                                            modern day replacement for
+                                            electromechanical trip device            breaker may interfere            wiring to accommodate        3
+                                            or peak sensing solid-state              with these devices when          the customer application
+                                            trip systems.                            the compartment door
+                                                                                     is closed.
+                                                                                                                      schemes must be added
+                                                                                                                      in the field.
+                                                                                                                                                   4
+                                            Replacement and
+                                            Upgrade Capabilities                  4. When the ground fault
+                                                                                     (G) option is selected,
+                                                                                                                   6. RMS 610, 810 and 910
+                                                                                                                      retrofit kits require a
+                                                                                                                                                   5
+                                            Replacement and                          please observe the               customer supplied
+                                            upgrade capabilities include
+                                            replacement Digitrip trip units
+                                                                                     following:                       120 Vac source               6
+                                                                                                                      connected to the cell
+    K-1600 Breaker Retrofitted with         and rating plugs, Digitrip trip          a. For three-phase, three-       terminal block assembly
+     Digitrip RMS 810 Retrofit Kit          unit upgrades, Digitrip RMS
+                                            trip unit retrofit kits
+                                                                                        wire solidly grounded
+                                                                                        systems, choose
+                                                                                                                      to power the Digitrip        7
+                                                                                                                      RMS digital displays
+                                            and upgrade retrofit kits. For              quantity three current        and communications
+                                            definitions of these solutions,             sensors in the catalog        functions (as applicable).   8
+                                            see Page V12-T17-19.                        number development.
+                                                                                                                   7. Refer all K-DON Series
+                                            For Digitrip RMS trip unit               b. For three-phase, four-
+                                                                                        wire solidly grounded         (K-Line breakers with        9
+Typical Digitrip RMS 810 Retrofit Kit for   retrofit kits and upgrade                                                 current limiters) breakers
+                                            retrofit kits, choose or create             systems, choose
+                                                                                                                      to the Digitrip Retrofit
+                                                                                                                                                   10
+   ITE K-1600 Power Circuit Breaker
+                                            the Digitrip RMS retrofit kit               quantity four current
+Product Description                                                                     sensors in the catalog        Kit Service Center
+                                            catalog number to match the                                               at 1-800-937-5487
+Digitrip RMS retrofit kits for ITE          ITE K-Line and other breaker                number development.
+K-Line power circuit breakers               types, retrofit kit type,                   Three sensors are             for evaluation.              11
+were first introduced in 1991.              protection function, rating                 mounted on the
+                                                                                        breaker and one
+For a complete description of
+the Digitrip RMS trip system
+                                            plug type, current sensor
+                                            type, CPT and type of kit                   sensor is mounted                                          12
+and the features of models                  required for application. See               on the switchgear
+RMS 510, 610, 810 and 910,
+see Page V12-T17-20.
+                                            the examples provided on                    neutral. Hardware to
+                                                                                        mount the current
+                                                                                                                                                   13
+                                            Page V12-T17-44.
+                                                                                        sensor on the
+Ratings                                     Application Notes for ITE                   switchgear neutral                                         14
+Digitrip RMS retrofit kits are              K-Line and other Power                      and provisions to wire
+applied on ITE K-Line breakers              Circuit Breakers                            it into the trip unit
+from 225A (K-225) to 3000A                   1. Retrofit kits are for                   circuit (including a                                       15
+(K-3000), the rating plug and                    use on 50 and 60 Hz                    required pair of
+the current sensor rating act                    distribution systems.                  breaker secondary
+in concert to provide for a                                                             disconnecting                                              16
+                                            2. All retrofit kits are                    contacts) are not
+wide spectrum of overload
+                                               designed for drawout
+and short-circuit settings.
+                                               power circuit breakers
+                                                                                        included in the kit.
+                                                                                                                                                   17
+                                               only. Refer all fixed-
+                                               mounted breaker
+                                               applications to the                                                                                 18
+                                               Digitrip Retrofit Kit
+                                               Service Center
+                                               at 1-800-937-5487.
+                                                                                                                                                   19
+                                                                                                                                                   20
+                                                                                                                                                   21
+                                                                                                                                                   22
+                                                                                                                                                   23
+                                                                                                                                                   24
+                                                                                                                                                   25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com         V12-T17-43
+

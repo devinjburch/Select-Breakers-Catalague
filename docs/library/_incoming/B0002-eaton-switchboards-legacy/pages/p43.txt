@@ -1,0 +1,111 @@
+     3                           Molded-Case Circuit Breakers
+                                 Replacement Capabilities
+
+
+
+     ■ Shaded area denotes obsolete or discontinued products                  UL Listed                                           For all three-phase
+1    and services. 1                                                          Interrupting Ratings                                delta, grounded B phase
+     Special Breakers—Trip Units Only 2                                       Maximum                                             applications, contact Avery
+                                                                                                                                  Creek, NC, Technical
+2    Continuous   Magnetic Trip Setting,   Trip Unit Only
+                                                                              Volts          Amperes
+                                                                              Standard Breakers
+                                                                                                                                  Resource Center at
+     Ampere       Amperes 3                Two-Pole 4       Three-Pole                                                            1-800-356-1243.
+3    Rating       Low            High      Catalog Number
+     Magnetic Only Breakers, Front Adjustable
+                                                            Catalog Number    240 AC         50,000 asymmetrical,
+                                                                                             42,000 symmetrical                   Terminals
+                                                                              480 AC         35,000 asymmetrical,                 Two terminals are required
+4
+     400          350            700       HLB2700TM        HLB3700TM                        30,000 symmetrical                   per pole.
+     400          625            1250      HLB21250TM       HLB31250TM        600 AC         25,000 asymmetrical,                 Terminals are UL Listed for
+                                                                                             22,000 symmetrical
+                                                                                                                                  wire type and range listed
+5
+     400          750            1500      HLB21500TM       HLB31500TM
+     400          875            1750      HLB21750TM       HLB31750TM        250 DC         20,000 5                             below. When used with
+     400          1125           2250      HLB22250TM       HLB32250TM        MARK 75 Breakers                                    aluminum cable, use joint
+6    400          1125           2250      HLB22250TM       HLB32250TM        240 AC         75,000 asymmetrical,
+                                                                                                                                  compound. To order optional
+                                                                                                                                  copper only terminals, add
+                                                                                             65,000 symmetrical
+     400          1500           3000      HLB23000TM       HLB33000TM                                                            suffix “C” to complete
+7    400          2000           4000      HLB24000TM       HLB34000TM
+                                                                              480 AC         40,000 asymmetrical,
+                                                                                             35,000 symmetrical
+                                                                                                                                  breaker catalog number.
+     Ambient Compensating Breakers                                            600 AC         30,000 asymmetrical,                 Note: Terminals are shipped
+8    70           350            700       HLB2070TA        HLB3070TA                        25,000 symmetrical                   separately from breaker. If
+                                                                                                                                  upgrading an LB, HLB breaker
+     90           450            900       HLB2090TA        HLB3090TA         250 DC         20,000 5                             to a Series C K-Frame in a
+9    100          500            1000      HLB2100TA        HLB3100TA
+                                                                                                                                  panelboard application, also
+                                                                                                                                  order TAD3 spacer kit.
+     125          625            1250      HLB2125TA        HLB3125TA
+10   150          750            1500      HLB2150TA        HLB3150TA         Terminals
+     175          875            1750      HLB2175TA        HLB3175TA         Maximum                   Number of Cables,                                 Catalog
+
+11   200          1000           2000      HLB2200TA        HLB3200TA
+                                                                              Amperes                   Wire Range, Type                                  Number
+
+     225          1125           2250      HLB2225TA        HLB3225TA         Standard Pressure Terminals
+
+12   250          1250           2500      HLB2250TA        HLB3250TA         225
+                                                                              350
+                                                                                                        (1) #6–350 kcmil Cu, or (1) #4–350 kcmil Al
+                                                                                                        (1) 250–500 kcmil Al/Cu
+                                                                                                                                                          TA225LA1
+                                                                                                                                                          TA350DA
+     300          1500           3000      HLB2300TA        HLB3300TA
+
+13   350          1750           3500      HLB2350TA        HLB3350TA         400                       (2) 3/0–250 kcmil Cu only                         T400DA2
+
+     400          2000           4000      HLB2400TA        HLB3400TA         Optional Copper Pressure Terminals
+                                                                              225                       (1) #6–350 kcmil Cu                               T225LA
+14   Accessories and                       50°C Calibration                   225 6                     (1) #6–250 kcmil Cu                               T225LBF
+     Modifications                         Add suffix “V” to catalog          350                       (1) 250–500 kcmil Cu                              T350DA
+15   ■ Shaded area denotes                 number for complete breaker
+                                                                              Notes
+     obsolete or discontinued              or trip unit only, when
+                                                                              1 These frames are obsolete. For replacement solutions, see the cross-reference on
+                                           ordering breakers to be
+16   products and services.
+                                           used in 50°C ambients.
+                                                                                Pages V12-T3-126–V12-T3-167.
+                                                                              2 Not UL Listed.
+      Special Calibrations
+                                           Note: Not UL Listed.               3 Set on high side, adjustable to lower limits.
+
+17    Special calibration price                                               4 Two-pole breakers or trips are supplied in three-pole frames with current carrying parts
+
+      additions apply to ampere            Magnetic Only Breakers               omitted from center pole.
+      ratings not listed as standard       For description, refer to
+                                                                              5 Ratings above 10,000A not UL Listed.
+
+18    or for ambients other                Application Data 29-160.
+                                                                              6 Optional terminal.
+
+      than 40°C or 50°C. For               To order, select trip unit
+      frequencies other than
+19    0–60 Hz AC circuits, refer
+                                           from table above, frame
+                                           and terminals.
+      to Eaton. See Application
+20    Data 29-160 for information
+      regarding special conditions.
+                                           Note: Not UL Listed.
+
+      Maximum calibration for              For CSA, see
+21    400 Hz is 300A.                      Page V12-T3-48.
+      Note: Not UL Listed.                 Type LB breakers meet
+22                                         requirements for Class 21a
+                                           circuit breakers, and Type HLB
+                                           meet requirements for Class
+23                                         23a, as defined by Federal
+                                           Specification W-C-375b.
+
+24
+25
+     V12-T3-30           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

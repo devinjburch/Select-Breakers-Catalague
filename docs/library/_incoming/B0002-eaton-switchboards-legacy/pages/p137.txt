@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    HKB3090                  1291C44G17        O          —                        —                      JD3090                    1–3, 5
+     HKB3090T                 1293C32G02        O          —                        —                      —                         —
+3    HKB3100                  1291C44G18        O          —                        —                      JD3100                    1–3, 5
+     HKB31000TM               1293C36G03        O          —                        —                      —                         —
+
+4    HKB3100T                 1293C32G03        O          —                        —                      —                         —
+     HKB3125                  1291C44G19        O          —                        —                      JD3125                    1–3, 5
+
+5    HKB31250TM               1293C36G04        O          —                        —                      —                         —
+     HKB3125T                 1293C32G04        O          —                        —                      —                         —
+
+6    HKB3150                  1291C44G20        O          —                        —                      JD3150                    1–3, 5
+     HKB31500TM               1293C36G05        O          —                        —                      —                         —
+
+7    HKB3150T                 1293C32G05        O          —                        —                      —                         —
+     HKB3175                  1291C44G21        O          —                        —                      JD3175                    1–3, 5
+
+8    HKB31750TM
+     HKB3175T
+                              1293C36G06
+                              1293C32G06
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           —
+                                                                                                           —
+                                                                                                                                     —
+                                                                                                                                     —
+
+9
+     HKB3200                  1291C44G22        O          —                        —                      JD3200                    1–3, 5
+     HKB3200T                 1293C32G06        O          —                        —                      —                         —
+     HKB3225                  1291C44G23        O          —                        —                      JD3225                    1–3, 5
+10   HKB32250TM               1293C36G08        O          —                        —                      —                         —
+     HKB3225T                 1293C32G07        O          —                        —                      —                         —
+11   HKB3250                  1291C44G24        O          —                        —                      JD3250                    1–3, 5
+     HKB32500TM               1293C36G09        O          —                        —                      —                         2, 5
+12   HKB3250F                 2601D44G16        O          —                        —                      JD3250F                   —
+     HKB3250FS                NO STYLE          O          —                        —                      JD3250F                   —
+13   HKB3250T                 1293C32G08        O          —                        —                      —                         —
+     HKB3700TM                1293C36G01        O          —                        —                      —                         —
+14   HLA2070T                 2602D98G02        O          —                        —                      —                         2, 8
+     HLA2070TA                457D581G02        O          —                        —                      —                         2, 8
+
+15   HLA2090T                 2602D98G03        O          —                        —                      —                         2, 8
+     HLA2090TA                457D581G03        O          —                        —                      —                         2, 8
+
+16   HLA2100T                 2602D98G04        O          —                        —                      —                         2, 8
+     HLA2100TA                457D581G04        O          —                        —                      —                         2, 8
+
+17   HLA2125                  1255C74G05        O          —                        —                      KD2125                    1–3, 5, 8
+     HLA21250TM               2602D97G03        O          —                        —                      —                         2, 8
+
+18   HLA2125T                 2602D98G05        O          —                        —                      —                         2, 8
+     HLA2125TA                457D581G05        O          —                        —                      —                         2, 8
+
+19   HLA2150
+     HLA21500TM
+                              1255C74G06
+                              2602D97G04
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           KD2150
+                                                                                                           —
+                                                                                                                                     1–3, 5, 8
+                                                                                                                                     2, 8
+
+20
+     HLA2150T                 2602D98G06        O          —                        —                      —                         2, 8
+     HLA2150TA                457D581G06        O          —                        —                      —                         2, 8
+
+21
+     HLA2175                  1255C74G07        O          —                        —                      KD2175                    1–3, 5, 8
+     HLA21750TM               2602D97G05        O          —                        —                      —                         2, 8
+     HLA2175T                 2602D98G07        O          —                        —                      —                         2, 8
+22   HLA2175TA                457D581G07        O          —                        —                      —                         2, 8
+     HLA2200                  1255C74G08        O          —                        —                      KD2200                    1–3, 5, 8
+23   HLA2200T                 2602D98G08        O          —                        —                      —                         2, 8
+     HLA2200TA                457D581G08        O          —                        —                      —                         2, 8
+24   HLA2225                  1255C74G09        O          —                        —                      KD2225                    1–3, 5, 8
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-124              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

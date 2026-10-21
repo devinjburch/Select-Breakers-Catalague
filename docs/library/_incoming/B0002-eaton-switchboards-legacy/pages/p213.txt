@@ -1,0 +1,92 @@
+                                                                                                   Loadcenters
+                                                                                                                Type CH
+                                                                                                                                              5
+Renewal Parts List for Type CH Loadcenter Covers and Deadfronts
+                                                                                                                                                  1
+Single-Phase with Main Circuit Breaker
+
+Catalog       Combination    Surface       NEMA 3R       NEMA 3R       Catalog       Combination      Surface       NEMA 3R      NEMA 3R          2
+Number        Covers         Covers        Covers        Deadfronts    Number        Covers           Covers        Covers       Deadfronts
+CH1420B100B   CH8BF          CH8BS         —             —             CH30B125R     —                —             CH3RDOOR10   CH3RDF6          3
+CH1420B100R   ——             —             CH3RDOOR5     CH3RDF4       CH3242B200J   CH8JF            CH8JS         —            —
+CH14B100B     CH8BF          CH8BS         —             —             CH3242B200R   —                —             CH3RDOOR12   CH3RDF9          4
+CH14B100R     —              —             CH3RDOOR5     CH3RDF4       CH32B150J     CH8JF            CH8JS         —            —
+CH1824B100C   CH8CF          CH8CS         —             —             CH32B150R     —                —             CH3RDOOR12   CH3RDF9          5
+CH1824B100R   —              —             CH3RDOOR8     CH3RDF5       CH32B200J     CH8JF            CH8JS         —            —
+CH18B100C     CH8CF          CH8CS         —             —             CH32B200R     —                —             CH3RDOOR12   CH3RDF9          6
+CH18B100R     —              —             CH3RDOOR8     CH3RDF5       CH32B225J     CH8JF            CH8JS         —            —
+CH20H100C     CH8CF          CH8CS         —             —             CH32B225R     —                —             CH3RDOOR12   CH3RDF9
+                                                                                                                                                  7
+CH20H100R     —              —             CH3RDOOR7     CH3RDF5       CH32H150L     CH8LF            CH8LS         —            —
+CH22B100C     CH8CF          CH8CS         —             —             CH32H150R     —                —             CH3RDOOR6    CH3RDF10
+                                                                                                                                                  8
+CH22B100R     —              —             CH3RDOOR7     CH3RDF5       CH32H200L     CH8LF            CH8LS         —            —
+CH22B125C     CH8CF          CH8CS         —             —             CH32H200R     —                —             CH3RDOOR6    CH3RDF11
+                                                                                                                                                  9
+CH22B125R     —              —             CH3RDOOR8     CH3RDF5       CH42B200K     CH8KF            CH8KS         —            —
+CH24B150E     CH8EF          CH8ES         —             —             CH42B200R     —                —             CH3RDOOR13   CH3RDF10
+                                                                                                                                                  10
+CH24B150R     —              —             CH3RDOOR11    CH3RDF7       CH42B225K     CH8KF            CH8KS         —            —
+CH24B200E
+CH24B200R
+              CH8EF
+              —
+                             CH8ES
+                             —
+                                           —
+                                           CH3RDOOR11
+                                                         —
+                                                         CH3RDF7
+                                                                       CH42B225R
+                                                                       CH42H200L
+                                                                                     —
+                                                                                     CH8LF
+                                                                                                      —
+                                                                                                      CH8LS
+                                                                                                                    CH3RDOOR13
+                                                                                                                    —
+                                                                                                                                 CH3RDF10
+                                                                                                                                 —
+                                                                                                                                                  11
+CH28H100D
+CH28H100R
+              CH8DF
+              —
+                             CH8DS
+                             —
+                                           —
+                                           CH3RDOOR9
+                                                         —
+                                                         CH3RDF6
+                                                                       CH42H200R
+                                                                       CH42H225L
+                                                                                     —
+                                                                                     CH8LF
+                                                                                                      —
+                                                                                                      CH8LS
+                                                                                                                    CH3RDOOR6
+                                                                                                                    —
+                                                                                                                                 CH3RDF11
+                                                                                                                                 —
+                                                                                                                                                  12
+                                                                                                                                                  13
+CH28H125D     CH8DF          CH8DS         —             —             CH42H225R     —                —             CH3RDOOR6    CH3RDF11
+CH28H125R     —              —             CH3RDOOR9     CH3RDF6       CH42PM300     CH7PMF (flush)   CH7PMS        —            —
+
+                                                                                                                                                  14
+CH30B100D     CH8DF          CH8DS         —             —             CH42PM400     CH7PMF (flush)   CH7PMS        —            —
+CH30B100R     —              —             CH3RDOOR10    CH3RDF6       CH8B150RF     —                —             CH3RDOOR11   CH3RDF7
+CH30B125D     CH8DF          CH8DS         —             —             CH8B200RF     —                —             CH3RDOOR11   CH3RDF7
+                                                                                                                                                  15
+                                                                                                                                                  16
+                                                                                                                                                  17
+                                                                                                                                                  18
+                                                                                                                                                  19
+                                                                                                                                                  20
+                                                                                                                                                  21
+                                                                                                                                                  22
+                                                                                                                                                  23
+                                                                                                                                                  24
+                                                                                                                                                  25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com             V12-T5-9
+

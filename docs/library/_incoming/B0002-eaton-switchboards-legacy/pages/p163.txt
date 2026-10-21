@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    NB3800S                  1234C25G31        O          HNB3800                  177C099G31             ND3800T33W/8NES800T+      1–5, 8
+     NB3900                   1234C24G32        O          HNB3900                  177C099G32             ND312T33W/12NES900T+      1–3, 5, 8
+3    NB3900S                  1234C25G32        O          HNB3900                  177C099G32             ND312T33W/12NES900T+      1–5, 8
+     NBY31000                 NO STYLE          O          —                        —                      HND312T33W/12NES1000T+    —
+
+4    NBY31200F                1240C62G01        O          —                        —                      HND312T33W/12NES1200T+    —
+     NBY3700                  NO STYLE          O          —                        —                      HND3800T33W/8NES700T+     —
+
+5    NBY3800                  NO STYLE          O          —                        —                      HND3800T33W/8NES800T+     —
+     NBY3900                  NO STYLE          O          —                        —                      HND312T33W/12NES900T+     —
+
+6    NC21200F                 2613D29G10        O          —                        —                      ND212T33W                 1–3, 5, 8
+     NC21200FM                2613D29G12        O          —                        —                      ND212T33W                 1–3, 5, 8
+
+7    NC21200WK                752B682G03        O          —                        —                      ND312WK                   1–3, 5, 8
+     NC31200F                 2613D29G09        O          HNC31200F                2613D29G05             ND312T33W                 1–3, 5, 8
+
+8    NC31200FM
+     NC31200WK
+                              2613D29G11
+                              752B682G08
+                                                O
+                                                O
+                                                           HNC31200F
+                                                           —
+                                                                                    2613D29G05
+                                                                                    —
+                                                                                                           ND312T33W
+                                                                                                           ND312WK
+                                                                                                                                     1–3, 5, 8
+                                                                                                                                     1–3, 5, 8
+
+9
+     NCA21200F                2613D29G22        O          OMIT                     OMIT                   ND312T32W                 1–3, 5, 8
+     NCA31200F                2613D29G21        O          HNCA31200F               2613D29G17             ND312T32W                 1–3, 5, 8
+     NCG31200F                1242C72G18        O          HNCG31200F               2612D87G07             ND312T35W                 1–3, 5, 8
+10   NCGA31200F               1242C72G11        O          HNCGA31200F              1373D87G12             ND312T36W                 1–3, 5, 8
+     PB21000                  177C181G29        O          —                        —                      RD316T33W/16RES10T+       1–3, 5, 8
+11   PB210000TM               373D488G04        O          —                        —                      —                         2, 8
+     PB21200                  177C181G30        O          —                        —                      RD316T33W/16RES12T+       1–3, 5, 8
+12   PB212000TM               373D488G06        O          —                        —                      —                         2, 8
+     PB21400                  177C181G31        O          —                        —                      RD316T33W/16RES14T        1–3, 5, 8
+13   PB21600                  177C181G32        O          —                        —                      RD316T33W/16RES16T        1–3, 5, 8
+     PB21800                  177C181G33        O          —                        —                      —                         —
+14   PB22000                  177C181G34        O          —                        —                      RD320T33W/20RES20T        1–3, 5, 8
+     PB22000WK                752B076G01        O          —                        —                      RD320WK                   1–3, 5, 8
+
+15   PB22500F                 654D456G05        O          —                        —                      —                         1–3, 5, 8
+     PB22500WK                752B076G02        O          —                        —                      —                         1–3, 5, 8
+
+16   PB25000TM                373D487G02        O          —                        —                      —                         2, 8
+     PB2600                   177C181G25        O          —                        —                      RD316T33W/16RES08T        1–3, 5, 8
+
+17   PB26000TM                373D487G04        O          —                        —                      —                         2, 8
+     PB2700                   177C181G26        O          —                        —                      RD316T33W/16RES08T        1–3, 5, 8
+
+18   PB27000TM                373D487G06        O          —                        —                      —                         2, 8
+     PB2800                   177C181G27        O          —                        —                      RD316T33W/16RES08T        1–3, 5, 8
+
+19   PB28000TM
+     PB2900
+                              373D488G02
+                              177C181G28
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           —
+                                                                                                           —
+                                                                                                                                     2, 8
+                                                                                                                                     —
+
+20
+     PB31000                  177C181G41        A          —                        —                      RD316T33W/16RES10T+       1–3, 5, 8
+     PB31200                  177C181G42        A          —                        —                      RD316T33W/16RES12T+       1–3, 5, 8
+
+21
+     PB31400                  177C181G43        A          —                        —                      RD316T33W/16RES14T+       1–3, 5, 8
+     PB31600                  177C181G44        A          —                        —                      RD316T33W/16RES16T+       1–3, 5, 8
+     PB31800                  177C181G45        A          —                        —                      —                         —
+22   PB32000                  177C181G46        A          —                        —                      RD320T33W/20RES20T+       1–3, 5, 8
+     PB32000WK                752B076G12        A          —                        —                      RD320WK                   1–3, 5, 8
+23   PB32500F                 654D456G06        A          —                        —                      RD325T33W                 1–3, 5, 8
+     PB32500WK                752B076G13        A          —                        —                      —                         1–3, 5, 8
+24   PB3600                   177C181G37        A          —                        —                      —                         —
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-150              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

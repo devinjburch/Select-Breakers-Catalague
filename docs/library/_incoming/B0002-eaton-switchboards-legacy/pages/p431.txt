@@ -1,0 +1,99 @@
+     13                        Motor Control
+                               SL and SJ Vacuum AMPGARD Starters (Medium Voltage)
+
+
+
+     Classic AMPGARD                     Ratings (Maximum)                   Replacement Capabilities                400A Vacuum Roll-out
+1                                        400 and 800A, 3000 hp at            Renewal and Replacement Parts
+                                                                                                                     Replacement Contactor
+                                         2500V; 5500 hp at 5000V;            for SJ Design Starters                                               Style
+     SL and SJ Vacuum                    8000 hp at 7200V.
+2    AMPGARD                                                                 Refer to RP.48J.01.T.E for
+                                                                             identifying the parts needed.
+                                                                                                                     Description
+                                                                                                                     Basic contactor 2300/120V,
+                                                                                                                                                  Number
+
+     Originally a Westinghouse           Chronology
+                                                                                                                     750 VA transformer:
+3    Product                             The SJ vacuum design
+                                         AMPGARD starter was
+                                                                             Common Replacement Parts for
+                                                                             SL Design Starters                      SJ contactor                 2147A45G01
+                                         introduced in 1982 with the         Refer to RP02003002E                    SL contactor                 2147A50G01
+4                                        400A rating. The 800A rating
+                                         followed in 1987. With the
+                                                                             for identifying the parts               Basic contactor 2300/120V,
+                                                                             needed.                                 2 kVA transformer:
+                                         introduction of the vacuum
+5                                        contactor, the air-break starter    Add-On Vacuum Starter
+                                                                             Structures
+                                                                                                                     SJ contactor                 2147A45G02
+
+                                         has been gradually phased out                                               SL contactor                 2147A50G02
+                                         and is rarely specified in an       New add-on vacuum
+6                                        assembly. The starters are built    structures as an extension to
+                                                                                                                     Basic contactor 4160/120V,
+                                                                                                                     750 VA transformer:
+                                         in Asheville, NC.                   the SJ type structure may be            SJ contactor                 2147A45G03
+                                                                             connected directly to the
+7                                        AMPGARD assemblies were             main bus without a transition           SL contactor                 2147A50G03
+                                         made available with the new         section. Contact your local             Basic contactor 4160/120V,
+                                         SL Contactor in late 1999.
+8      SJ Vacuum AMPGARD Assembly
+                                         Except for the 400A
+                                                                             Eaton Field Sales office.               2 kVA transformer:
+                                                                                                                     SJ contactor                 2147A45G04
+     Product Description                 frame contactor, SJ and SL          Replacement Vacuum
+9    The SJ vacuum contactor was         AMPGARD assemblies are
+                                         virtually identical.
+                                                                             Contactors
+                                                                             New replacement vacuum
+                                                                                                                     SL contactor                 2147A50G04
+
+     designed and engineered                                                                                         Note: Style numbers listed above
+     specifically for use in                                                 break contactors are available          identify a basic contactor that
+10   AMPGARD starters. The                                                   for all SJ model ratings.               might not include other available
+     contactor is a low-chop design                                                                                  accessories that were specified
+     that permits application                                                                                        on a customer order. Contact
+11   matching of the starter to the                                                                                  factory with original general order
+                                                                                                                     number, starter drawing number,
+     motor for 2200–7200V and                                                                                        and date of manufacture for
+12   ratings of 400 and 800A. The
+     400A contactor is available in
+                                                                                                                     assistance.
+
+     both slide-out and roll-out
+13   configurations. The 800A
+     contactor is available in the
+     roll-out design only. The SJ
+14   AMPGARD is a horsepower
+     specific starter design that
+     uses the component-to-
+15   component circuitry concept.
+                                                                              400A SL Roll-Out Replacement (Front)
+
+     The full-voltage 400A rating in a
+16   NEMA 1 enclosure is 36 inches
+     wide x 30 inches deep x
+     90 inches high. These 400A
+17   starters are mounted one- or                                                                                    400A SL Slide-Out Replacement (Front)
+     two-high per structure. The
+     800A rating in an enclosure is
+18   40 inches wide x 30 inches
+     deep x 90 inches high in a
+     one-high construction for a
+19   full-voltage starter.
+
+20                                                                            400A SL Roll-Out Replacement (Rear)
+
+
+
+21
+                                                                                                                     400A SL Slide-Out Replacement (Rear)
+22
+23
+24
+25
+     V12-T13-94         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

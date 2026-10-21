@@ -1,0 +1,166 @@
+     3                       Molded-Case Circuit Breakers
+                             Replacement Capabilities
+
+
+
+     ■ Shaded area denotes obsolete or discontinued products and services. 1
+1    Molded-Case Switches with High Magnetic Trip                           Molded-Case Switch Terminal Data
+     (Fixed Trip Setting)                                                                                                                          Terminal
+2    Number
+     of Poles
+                 Maximum
+                 Volts
+                                  Maximum
+                                  Amperes
+                                                  Switch
+                                                  Catalog Number 23         MCS
+                                                                                                 Maximum
+                                                                                                 Switch       Wire
+                                                                                                                                                   Type or
+                                                                                                                                     Wire Number Catalog
+                                                                            Type                 Amperes      Range                  Type of Wires Number
+3
+      2          240              225             CA2225KW
+      3          240              225             CA3225KW                  Standard Terminals (Aluminum Body)
+
+      2          600              400             LA2400WK                  CA                   225          #1–300 kcmil           Cu/Al 1            TA225CA2
+4     2          600              400             LA2400WSK                 LA400, LAB           400          #4–250 kcmil,
+                                                                                                              plus 3/0–600 kcmil
+                                                                                                                                     Cu/Al 1            TA400LA1
+      2          600              600             LA2600WK
+
+5     2
+      3
+                 600
+                 600
+                                  600
+                                  400
+                                                  LA2600WSK
+                                                  LA3400WK
+                                                                            LA600, LC600
+                                                                            MC, MA
+                                                                                                 600
+                                                                                                 800
+                                                                                                              250/500 kcmil
+                                                                                                              3/0–400 kcmil
+                                                                                                                                     Cu/Al 2
+                                                                                                                                     Cu/Al 3
+                                                                                                                                                        TA600LA
+                                                                                                                                                        TA800MA2
+      3          600              400             LA3400WSK
+6
+                                                                            NC, NB               1200          4/0–500 kcmil         Cu/Al 4            TA1200NB1
+      3          600              400             LA3600WK                  NC, NB               1200         —                      —      —           —
+      3          600              400             LA3600WSK
+                                                                            PC2000, PCC2000      2000         BA2000PB rear bus connector
+7     2          600              400             LAB2400WK
+                                                                            PC2500, PCC2500      2500         BA2500PB rear bus connector
+      2          600              400             LAB2400WSK
+                                                                            PC3000, PCC3000      3000         Rear bus connector included in frame
+8     3
+      3
+                 600
+                 600
+                                  400
+                                  400
+                                                  LAB3400WK
+                                                  LAB3400WSK                Optional Terminals
+      2          600              600             LC2600WK 4                CA                   225          —                      —      —           —
+9     3          600              600             LC3600WK 4                LA400, LAB           400          #4–250 kcmil,          Cu     1           T401LA
+      2          600              600             LCC2600WK 4                                                 plus 3/0–600 kcmil
+
+10    3          600              600             LCC3600WK 4               LA600, LC600         600          250/500 kcmil          Cu     2           T600LA
+      2          600              800             MA2800WK                  MC, MA               800          3/0–300 kcmil          Cu     3           T800MA1
+
+11
+      2          600              800             MA2800WSK                 NC, NB               1200          3/0–400 kcmil         Cu     4           T1200NB1
+      3          600              800             MA3800WK
+                                                                            NC, NB               1200         500–750 kcmil          Cu/Al 3            TA1201NB1
+      3          600              800             MA3800WSK
+12    2          600              800             MC2800WK 4
+                                                                            PC2000, PCC2000
+                                                                            PC2500, PCC2500
+                                                                                                 2000
+                                                                                                 2500
+                                                                                                              BA2000PB rear bus connector
+                                                                                                              BA2500PB rear bus connector
+      3          600              800             MC3800WK 4
+
+13    2          600              800             MCC2800WK 4               PC3000, PCC3000      3000         Rear bus connector included in frame
+
+      3          600              800             MCC3800WK 4
+      2          600              1200            NB21200WK                 Molded-Case Switches With High Magnetic Trip—
+14    2          600              1200            NB21200WSK
+                                                                            Trip Setting and Tolerance
+      3          600              1200            NB31200WK                                                              Trip Setting           Tolerance
+
+15
+                                                                            Frame                 Rating                 (Amperes)              (%)
+      3          600              1200            NB31200WSK
+      2          600              1200            NC21200WK 4               CA                    225                    2250                   +20
+                                                                                                                                                –10
+16    3
+      2
+                 600
+                 600
+                                  1200
+                                  2000
+                                                  NC31200WK 4
+                                                  PB22000WK
+                                                                            LA (400)              400                    4000                   +10
+                                                                                                                                                –0
+      2          600              2500            PB22500WK
+17    3          600              2000            PB32000WK
+                                                                            LA/LC                 600                    6000                   +10
+                                                                                                                                                –0
+      3          600              2500            PB32500WK                 MA/MC                 800                    8000                   +10
+18    2          600              2000            PBF22000K                                                                                     –0
+      3          600              2000            PBF32000WK                NB/NC                 1200                   12,000                 +10
+                                                                                                                                                –0
+19
+      25         600              2000            PC22000WK
+      25         600              2500            PC22500WK                 PB/PC                 2000–3000              12,000                 +10
+      25         600              3000            PC23000K                                                                                      –0
+
+20    35         600              2000            PC32000WK                 Notes
+      35         600              2500            PC32500WK                 1 These frames are obsolete. For replacement solutions, see the cross-reference
+
+
+21    35
+      25
+                 600
+                 600
+                                  3000
+                                  2000
+                                                  PC33000K
+                                                  PCC22000WK
+                                                                              on Pages V12-T3-114–V12-T3-167.
+                                                                            2 Catalog number suffix identification:
+
+                                                                              K = Molded-case switch with high magnetic trip (fixed trip setting)
+      25         600              2500            PCC22500WK
+22
+                                                                              S = Saf-T-Vue cover
+      25         600              3000            PCC23000K                   W = No terminals
+                                                                            3 Molded-case switch dimensions are the same as the equivalent thermal-magnetic breaker.
+      35         600              2000            PCC32000WK
+                                                                              Refer to Dimension Sheet 29-171.
+23    35         600              2500            PCC32500WK                4 For molded-case switch types LC, LCC—use LA attachments;
+
+      35         600              3000            PCC33000K                   MC and MCC—use MA attachments; NC—use NB attachments.
+                                                                            5 For molded-case switch types PC, PCC and PCF, rating plug is included and use SELTRONIC
+
+24    25
+      35
+                 600
+                 600
+                                  2000
+                                  2000
+                                                  PCF22000K
+                                                  PCF32000K
+                                                                              PC attachments.
+
+
+25
+     V12-T3-62         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,82 @@
+                                      Counters, Panel Meters, Tachometers and Timers
+                                                                                                                           Accessories and Encoders
+                                                                                                                                                       24
+General Specifications, continued
+Description                                        Specification                                                                                                    1
+Electrical, continued
+Output, continued                                                                                                                                                   2
+ Symmetry                                          180 electrical degrees ±18
+ Quadrature phasing                                90 electrical degrees ±36                                                                                        3
+ Minimum edge separation                           54 electrical degrees
+ Rise time                                         <1 μS                                                                                                            4
+ Pulses per rev.                                   1 to 1270
+ Accuracy                                          Within ±0.1°                                                                                                     5
+Environmental
+Operating temperature                              32 to 158 °F (0 to 70 °C)                                                                                        6
+Vibration                                          20 Gs at 50 to 500 cps
+Shock                                              75 Gs, 11 ms
+                                                                                                                                                                    7
+Mechanical
+Shaft speed                                        8000 RPM max.
+                                                                                                                                                                    8
+Shaft rotation                                     CW or CCW
+Bearings
+Starting torque
+                                                   Double shielded ball bearings
+                                                   1.0 oz-in typical
+                                                                                                                                                                    9
+                                                   5.2 x 104 ounce in-sec2
+                                                                                                                                                                    10
+Moment of inertia
+Radial and axial loading                           (80 lbs max.) 20–40 lbs for bearing life of 1.5 x 109 revolutions
+                                                   1 x 105 radians/second2
+                                                                                                                                                                    11
+Maximum acceleration
+Shaft                                              0.375 in (9.5 mm) dia.
+Housing                                            Black non-corrosive finish. Sealed against dust, oil, vapor and moisture.
+Mounting                                           Flange mount                                                                                                     12
+Weight                                             11 oz (312 g)
+Connector                                          MS-3102E-14S-6P                                                                                                  13
+Mating connector                                   MS-3106A-14S-6S with 10 ft (3 m) shielded cable and termination for electronic controls
+                                                   (Part No. 29665-300)                                                                                             14
+                                                   Connector, clamp and bushing only (Part No. 29729-300)
+
+                                                                                                                                                                    15
+Dimensions
+Approximate Dimensions in Inches (mm)                                                                                                                               16
+Right-Angle Shaft Encoder                                                                                                                                           17
+                                    6-32 UNC                                                                                    Side Mount
+                                                                                Shaft Size
+                                    0.25 (6.4) Deep 4 x 90°
+                                    Dia. 2.0 (50.8) B.C.                    3/8" 0.3745 (9.512)              0.87
+                                                                                                                                 MS Style
+                                                                                                                                Connector
+                                                                                                                                                                    18
+                                                                                                            (22.1)
+                                                                                            0.75
+                                                                                           (19.1)
+                                                                                                                                 0.80                               19
+                                                                                                                                (20.3)
+                                                                                            0.63
+                                                                                           (15.9)                                                                   20
+ 2.06 1.75                                 1.18                                                                                   2.0
+(52.3) (44.5)                              (30)                                    0.05
+                                                                                   (1.3)
+                                                                                                    0.05
+                                                                                                    (1.3)
+                                                                                                                                (50.8)
+                                                                                                                                                                    21
+
+                                                  Dia. 0.16 (4.0)
+                                                                                                                        0.60
+                                                                                                                       (15.2)                                       22
+                            1.41                  Through 4 x 90°                                   0.30
+                                                  Dia. 2.48 (62.9) B.C.                             (7.6)          2.0
+                           (35.9)
+                            2.06                                                                                  (50.8)                                            23
+                           (52.3)
+
+                                                                                                                                                                    24
+                                                                                                                                                                    25
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com                         V12-T24-109
+

@@ -1,0 +1,1469 @@
+          Current Cutler-Hammer Panelboards
+          Renewal Parts
+Supersedes RP.38F.01.T.E
+pages 1 – 48 dated February 2000
+Description                                                                                                         Page
+Current Cutler-Hammer Panelboards
+  PRL1a and PRL2a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+  Trim Locks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+  PRL3a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+  PRL4B/F. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+  PRL5P . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+  Branch Devices. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+  PRL1a-LX and PRL2a-LX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+  Pow-R-Command . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+    PRL1a            PRL1a-LX           PRL2a          PRL2a-LX             PRL3a                PRL4B                     PRL4F   PRL5P   Pow-R-Command
+RP01400001E                                                     For more information visit: www.eatonelectrical.com
+Renewal Parts                                                Current Cutler-Hammer
+Page 2                        Effective: February 2009       Panelboards
+Table of Contents                                    Page    Table 1. Product History Time Line
+                                                              Product                                     1985    1990   1995      Present
+Procedure for Identifying
+ Panelboard Type . . . . . . . . . . . . .           3        Cutler-Hammer PRL1a, 2a                                           Oct. 1996
+Procedure for Identifying                                     Cutler-Hammer PRL3a                                               Mar. 1994
+ Renewal Parts . . . . . . . . . . . . . . .         3        Cutler-Hammer PRL4B/F                                             Oct. 1987
+Distributor Ordering                                          Cutler-Hammer PRL5P                                               Aug. 1995
+ Instructions. . . . . . . . . . . . . . . . . .     3
+                                                              Cutler-Hammer PRL1a, 2a-LX                                        Dec. 1997
+Cutler-Hammer Satellite Plants . .                   4
+                                                              Cutler-Hammer Pow-R-Command                                       Mar. 1996
+PRL1a, 2a Parts Section . . . . . . .                5
+Connector Kits, Vertical
+  Breakers . . . . . . . . . . . . . . . . . . . .   5
+Connector Kits, Main Lug . . . . . . .               6
+Connector Kits,
+  Horizontally Mounted, PRL1a . .                    9
+Connector Kits,
+  Horizontally Mounted, PRL2a . .                    11
+Neutral Assemblies . . . . . . . . . . . .           12
+Ground Assemblies . . . . . . . . . . . .            16
+Service Entrance Kits . . . . . . . . . . .          16
+Deadfront Covers . . . . . . . . . . . . . .         17
+Trim Locks . . . . . . . . . . . . . . . . . . . .   19
+Trim Clamps and
+  Hardware Kits. . . . . . . . . . . . . . . .       20
+PRL3a Parts Section . . . . . . . . . .              21
+Connector Kits, Branch Breakers
+ QUICKLAG . . . . . . . . . . . . . . . . .         21
+ GB, GHB, GHBS . . . . . . . . . . . . . .           21
+ Twin Mounted F-Frame
+   150 Ampere Maximum . . . . . .                    22
+ Single Mounted F-Frame
+   175 – 225 Ampere Maximum .                        22
+Ground Assemblies . . . . . . . . . . . .            23
+Service Entrance Kits . . . . . . . . . . .          23
+Deadfront Covers . . . . . . . . . . . . . .         23
+PRL4B/F Parts Section . . . . . . . .                26
+Vented Cover Assemblies
+ and Side Gutter Covers . . . . . . .                26
+Blank Covers . . . . . . . . . . . . . . . . . .     27
+Breaker Connector Kits . . . . . . . . .             28
+Fusible FDPW Switch
+ Connector Kit . . . . . . . . . . . . . . . .       29
+Breaker Retrofit Kits . . . . . . . . . . . .        30
+Fusible Retrofit Kits . . . . . . . . . . . .        30
+Energy Sentinel . . . . . . . . . . . . . . .        31
+PRL1a, 2a, 3a and PRL4 Special
+ Trims and Enclosures . . . . . . . . .              32
+PRL5P Parts Section . . . . . . . . . . .            34
+Ordering Procedure . . . . . . . . . . . .           34
+Chassis Layout . . . . . . . . . . . . . . . .       35
+Breaker Adapter Unit
+ Catalog Numbers . . . . . . . . . . . .             36
+Branch Breaker Information . . . . .                 37
+Main or Through-Feed Lugs . . . . .                  38
+Neutrals and Grounds . . . . . . . . . .             39
+Boxes, Trims and Filler Plates. . . .                40
+PRL1a, 2a-LX Column
+ Panelboards . . . . . . . . . . . . . . . . . 41
+Pow-R-Command . . . . . . . . . . . . . . 42
+Additional Services . . . . . . . . . . . . 42
+                                                            For more information visit: www.eatonelectrical.com                    RP01400001E
+                                              Current Cutler-Hammer                                                          Renewal Parts
+                                              Panelboards                                          Effective: February 2009                          Page 3
+Procedure for Identifying                                                                          Procedure for Identifying
+Panelboard Type                                                                                    Renewal Parts
+                                                   N
+The current line of Pow-R-line C                   e                                               1. Identify the type of panelboard,
+panelboards was introduced in 1993.                u                                                  i.e. PRL1a, PRL2a, PRL3a, PRL4,
+                                                   t
+                                                                                                      PRL5P by reading the nameplate.
+A panelboard is identified by data                 r
+                                                   a                                                  Follow the procedure listed to
+found on the nameplate. Pow-R-Line C                                                                  the left.
+                                                   l                 N
+panelboard nameplates are different
+in appearance, but all have the same                                Main            N              2. Refer to the listing below and turn
+critical information:                               Gutter         Gutter         Gutter              to the proper section in this bro-
+                                                                                                      chure to identify standard parts.
+■ Ampere rating of the main.                     Pow-R-Line     Pow-R-Line      Pow-R-Line
+■ Ampere rating of the neutral.                    1a, 2a          3a             4B/F 
+                                                                                                     Description                                     Page
+■ Type of service (phase/wire).
+                                              Figure 1. Position of the Neutral in the               PRL1a and PRL2a . . . . . . . . . . . . 5
+■ Manufacturing location.
+                                              Panelboard                                             PRL3a . . . . . . . . . . . . . . . . . . . . . . 21
+■ Type of panel.                               PRL4F panels with vertical mounted main
+■ General order number.                          switch will have the neutral mounted at the
+                                                                                                     PRL4B/F . . . . . . . . . . . . . . . . . . . . 26
+                                                 opposite end the main.                              PRL5P . . . . . . . . . . . . . . . . . . . . . . 35
+In the event the nameplate is missing,
+it may still be possible to identify the      Box width may also help identify the                   PRL1a-LX (Column Width) . . . . 41
+panel type by location of the neutral bar.    panelboard type. Standard width for                    PRL2a-LX (Column Width) . . . . 41
+The illustrations to the right shows the      PRL1a, PRL2a, and PRL3a is 20.00                       Pow-R-Command . . . . . . . . . . . . 42
+position of the neutral in the panelboard.    inches (508.0 mm). PRL4 standard
+                                              widths are 24.00, 36.00 and 44.00                      Trim Locks . . . . . . . . . . . . . . . . . . 19
+                                              inches (609.6, 914.4 and 1117.6 mm).                   Trim Clamps . . . . . . . . . . . . . . . . 20
+                                              WARNING                                                Energy Sentinel . . . . . . . . . . . . . 31
+                                              HAZARDOUS VOLTAGE WILL CAUSE                           Special Trims and Enclosures . . 32
+                                              SEVERE INJURY OR DEATH. TURN
+                                                                                                   3. This book identifies those replace-
+                                              OFF POWER SUPPLY TO EQUIPMENT
+                                                                                                      ment parts most frequently
+                                              BEFORE WORKING ON IT.
+                                                                                                      ordered and which are readily
+                                                                                                      available from stock. These parts
+                                                                                                      can be ordered by style or catalog
+                                                                                                      number to speed up processing
+                                                                                                      and delivery.
+                                                                                                   Distributor Ordering Instructions
+                                                                                                   1. Specify part by style/part number.
+                                                                                                   2. Refer to PL01400001E for pricing
+                                                                                                      information. Discount Symbol
+                                                                                                      CE9 applies.
+                                                                                                   3. Turn to Page 4 to locate nearest
+                                                                                                      Satellite Plant.
+                                                                                                   4. Enter the order on the satellite
+                                                                                                      plant via mail, fax or phone.
+                                                                                                   5. Selling policy 25-000 applies.
+RP01400001E                                  For more information visit: www.eatonelectrical.com
+Renewal Parts                                       Current Cutler-Hammer
+Page 4                  Effective: February 2009    Panelboards
+Cutler-Hammer Satellite Plants
+                                 Seattle
+                                                                               Chicago                                  Hartford
+                                                                                                                       New Jersey
+                                                                                              Cleveland               Baltimore
+                        San Francisco
+                                                    Denver                     St. Louis
+                                                                                                                Raleigh
+                         Los                  Phoenix
+                       Angeles                                                                 Atlanta
+                                                                Dallas
+                                                                                                               Orlando
+                                                                                Houston
+Figure 2. Satellite Plants
+Atlanta                                             Denver                                                Phoenix
+7990-A 2nd Flag Drive                               14101 East 33rd Place, Suite F                        7160 South Harl Avenue
+Austell, GA 30001                                   Aurora, CO 80011                                      Tempe, AZ 85283
+Phone 770-944-1022                                  Phone: 303-371-7844                                   Phone 480-777-3957
+FAX 770-944-2033                                    FAX 303-371-4175                                      FAX 480-777-3958
+Baltimore                                           Hartford                                              Raleigh
+6671 Santa Barbara Court, Suite A                   625 Day Hill Road                                     2933 S. Miami Blvd., Suite 111
+Elkridge, MD 21227                                  Windsor, CT 06095                                     Durham, NC 27703
+Phone 410-796-7777                                  Phone 860-688-7330                                    Phone 919-544-7074
+FAX 410-796-7755                                    FAX 860-688-4982                                      FAX 919-572-9751
+Chicago                                             Houston                                               San Francisco
+959 AEC Drive                                       10810 West Little York, Suite 100                     20919 Cabot Boulevard
+Wood Dale, IL 60191                                 Houston, TX 77041                                     Hayward, CA 94545
+Phone 630-860-3500                                  Phone 713-688-8430                                    Phone 510-784-8981
+FAX 630-860-3569                                    FAX 713-688-3764                                      FAX 510-784-8980
+Cleveland                                           Los Angeles                                           Seattle
+4711 Hinkley Industrial Parkway                     2021 Locust Court                                     18657 72nd Avenue South
+Cleveland, OH 44109                                 Ontario, CA 91761                                     Kent, WA 98032
+Phone 216-485-1940                                  Phone 909-923-2040                                    Phone 425-251-9081
+FAX 216-485-1943                                    FAX 909-923-2344                                      FAX 425-251-0079
+Dallas                                              New Jersey                                            St. Louis
+1100 Avenue T                                       96 Stemmers Lane                                      12947 Gravois Road
+Grand Praire, TX 75050                              Westampton, NJ 08060                                  St. Louis, MO 63127
+Phone 972-988-3339                                  Phone 609-835-4230                                    Phone: 314-842-7797
+FAX 972-641-6435                                    FAX 609-835-4777                                      FAX 314-842-2552
+                                                    Orlando
+                                                    3827 St. Valentine Way
+                                                    Orlando, FL 32811
+                                                    Phone 407-843-3863
+                                                    FAX 407-841-9135
+                                                   For more information visit: www.eatonelectrical.com                                RP01400001E
+                                                        Current Cutler-Hammer                                                       Renewal Parts
+                                                        Panelboards                                           Effective: February 2009              Page 5
+PRL1a, 2a Parts Section                      Page       PRL1a, 2a Connector Kits
+Connector Kits,
+ Vertical Breakers . . . . . . . . . .       5          Table 2. Vertical Breaker Assemblies
+Connector Kits, Main Lug . . . .             6–8         Device                    Device        3-Phase                        1-Phase
+                                                         Type                     Mounting      Tin-Plated     Silver-Plated   Tin-Plated   Silver-Plated
+Connector Kits, Horizontally                                                                     Aluminum       Copper          Aluminum     Copper
+ Mounted, PRL1a . . . . . . . . . .          9 – 10                                              Connector      Connector       Connector    Connector
+Connector Kits, Horizontally                                                                     Catalog Number
+ Mounted, PRL2a . . . . . . . . . .          11
+                                                         F-Frame             Top Fed    KB13AFT                KB13SFT         KB11AFT      KB11SFT
+Neutral Assemblies. . . . . . . . .          12 – 15     (100 Ampere Maximum) Bottom Fed KB13AFB                KB13SFB         KB11AFB      KB11SFB
+Ground Assemblies . . . . . . . .            16          F-Frame             Top Fed    KB23AFT                KB23SFT         KB21AFT      KB21SFT
+                                                         (225 Ampere Maximum) Bottom Fed KB23AFB                KB23SFB         KB21AFB      KB21SFB
+Service Entrance Kits . . . . . . .          16
+                                                         J-Frame                   Top Fed    KB43AJT           KB43SJT         KB41AJT      KB41SJT
+Deadfront Covers . . . . . . . . . .         17, 18                                Bottom Fed KB43AJB           KB43SJB         KB41AJB      KB41SJB
+Trim Locks . . . . . . . . . . . . . . . .   19          K-Frame                   Top Fed    KB43AKT           KB43SKT         KB41AKT      KB41SKT
+                                                                                   Bottom Fed KB43AKB           KB43SKB         KB41AKB      KB41SKB
+Trim Clamps and
+                                                         Order main or sub-feed breaker separately when ordering above connector kits.
+ Hardware Kits . . . . . . . . . . . .       20
+                                                         EHD, FD, HFD, FDC.
+                                                         FD, HFD, FDC, ED, EDH, EDC.
+                                                                           KB11AFT                                               KB13AFT
+RP01400001E                                            For more information visit: www.eatonelectrical.com
+Renewal Parts                                         Current Cutler-Hammer
+Page 6                Effective: February 2009        Panelboards
+PRL1a, 2a Connector Kits
+Table 3. 100 Ampere Lug Assemblies
+Lug                  Panel Lug Wire Size          Quantity 3-Phase                                      1-Phase
+Type                 Options  Range              Per Phase Tin-Plated         Silver-Plated            Tin-Plated         Silver-Plated
+                                                            Aluminum Connector Copper Connector         Aluminum Connector Copper Connector
+                                                              Catalog Number
+Aluminum/Copper      STD         #14 – 1/0        1           KL13AMS                KL13SMS            KL11AMS            KL11SMS
+Mechanical           SFL         #14 – 1/0        2           KL13AMF                KL13SMF            KL11AMF            KL11SMF
+                     OVS         #6 – 300 kcmil   1           KL13AMO                KL13SMO            KL11AMO            KL11SMO
+Crimp                STD         #8 – 1/0         1           KL13AVS                KL13SVS            KL11AVS            KL11SVS
+                     SFL         #8 – 1/0         2           KL13AVF                KL13SVF            KL11AVF            KL11SVF
+                     OVS         #4 – 300 kcmil   1           KL13AVO                KL13SVO            KL11AVO            KL11SVO
+Copper               STD         #14 – 1/0        1           —                      KL13SCS            —                  KL11SCS
+Mechanical           SFL         #14 – 1/0        2           —                      KL13SCF            —                  KL11SCF
+                     OVS         #6 – 250 kcmil   1           —                      KL13SCO            —                  KL11SCO
+ STD = Standard lugs. Use for main or through-feed.
+  SFL = Sub-feed lugs.
+  OVS = Oversize lugs. Use for main or through-feed.
+                 KL13AMS                                              KL11AVS
+                                                  For more information visit: www.eatonelectrical.com                              RP01400001E
+                                                    Current Cutler-Hammer                                                   Renewal Parts
+                                                    Panelboards                                       Effective: February 2009             Page 7
+PRL1a, 2a Connector Kits
+Table 4. 225 Ampere Lug Assemblies
+Lug                  Panel Lug Wire Size        Quantity 3-Phase                                        1-Phase
+Type                 Options  Range            Per Phase Tin-Plated         Silver-Plated              Tin-Plated         Silver-Plated
+                                                          Aluminum Connector Copper Connector           Aluminum Connector Copper Connector
+                                                            Catalog Number
+Aluminum/Copper      STD        #6 – 300 kcmil 1            KL23AMS                KL23SMS              KL21AMS                  KL21SMS
+Mechanical           SFL        #6 – 300 kcmil 2            KL23AMF                KL23SMF              KL21AMF                  KL21SMF
+                     OVS        4/0 – 500 kcmil 1           KL23AMO                KL23SMO              KL21AMO                  KL21SMO
+Crimp                STD        #4 – 300 kcmil 1            KL23AVS                KL23SVS              KL21AVS                  KL21SVS
+                     SFL        #4 – 300 kcmil 2            KL23AVF                KL23SVF              KL21AVF                  KL21SVF
+                     OVS        2/0 – 500 kcmil 1           KL23AVO                KL23SVO              KL21AVO                  KL21SVO
+Copper               STD        #6 – 250 kcmil 1            —                      KL23SCS              —                        KL21SCS
+Mechanical           SFL        #6 – 250 kcmil 2            —                      KL23SCF              —                        KL21SCF
+                     OVS        1/0 – 600 kcmil 1           —                      KL23SCO              —                        KL21SCO
+ STD = Standard lugs. Use for main or through-feed.
+  SFL = Sub-feed lugs.
+  OVS = Oversize lugs. Use for main or through-feed.
+                 KL23AMS                                            KL21AVS
+RP01400001E                                     For more information visit: www.eatonelectrical.com
+Renewal Parts                                     Current Cutler-Hammer
+Page 8                Effective: February 2009    Panelboards
+PRL1a, 2a Connector Kits
+Table 5. 400 Ampere Lug Assemblies
+Lug                  Panel Lug Wire Size         Quantity 3-Phase                                      1-Phase
+Type                 Options  Range             Per Phase Tin-Plated         Silver-Plated            Tin-Plated         Silver-Plated
+                                                           Aluminum Connector Copper Connector         Aluminum Connector Copper Connector
+                                                             Catalog Number
+Aluminum/Copper      STD         4/0 – 500 kcmil 2           KL43AMS                KL43SMS            KL41AMS            KL41SMS
+Mechanical           SFL         N/A             N/A         —                      —                  —                  —
+                     OVS         3/0 – 750 kcmil 2           KL43AMO                KL43SMO            KL41AMO            KL41SMO
+Crimp                STD         2/0 – 500 kcmil 2           KL43AVS                KL43SVS            KL41AVS            KL41SVS
+                     SFL         N/A             N/A         —                      —                  —                  —
+                     OVS         500 – 750 kcmil 2           KL43AVO                KL43SVO            KL41AVO            KL41SVO
+Copper               STD         1/0 – 600 kcmil 1           —                      —                  —                  —
+Mechanical           SFL         N/A             N/A         —                      —                  —                  —
+                     OVS         1/0 – 600 kcmil 1           —                      KL43SCO            —                  KL41SCO
+ STD = Standard lugs. Use for main or through-feed.
+  SFL = Sub-feed lugs.
+  OVS = Oversize lugs. Use for main or through-feed.
+                 KL43AMS                                             KL43AVS
+                                                 For more information visit: www.eatonelectrical.com                              RP01400001E
+                                                  Current Cutler-Hammer                                                      Renewal Parts
+                                                  Panelboards                                          Effective: February 2009          Page 9
+PRL1a Horizontally Mounted Connector Kit Assemblies
+Table 6. Bolt-on QUICKLAG Breaker Assemblies
+Breaker            Drawing            Branch              3-Phase                                       1-Phase
+Frame              Number            Circuit             Tin-Plated         Silver-Plated              Tin-Plated         Silver-Plated
+                                      Quantity            Aluminum Connector Copper Connector           Aluminum Connector Copper Connector
+                                                          Item Number
+BA, BAB,           1C96608            12                  G01                    G03                    G05                       G07
+QBH, QBGF,                            18                  G09                    G11                    G13                       G15
+QBHGF,                                30                  G17                    G19                    G21                       G23
+QBGFEP,                               42                  G25                    G27                    G29                       G31
+QBHGFEP                               48                  G33                    G35                    G37                       G39
+                                      54                  G41                    G43                    G45                       G47
+                                      72                  G49                    G51                    G53                       G55
+                                      96                  G57                    G59                    G61                       G63
+ Order the basic drawing number, along with the equivalent G–number that’s needed.
+Note: When determining branch circuit quantity, remember:
+1. QUICKLAG breakers with shunt trips require one additional circuit.
+2. UL listed lighting and appliance (CTL) panelboards cannot exceed 42 electrically connected
+   circuits in a single enclosure.
+3. When bare copper is specified, use the silver-plated groups.
+4. Order breakers separately with connector kit.
+                1C96608G01                                          1C96608G05
+RP01400001E                                      For more information visit: www.eatonelectrical.com
+Renewal Parts                                      Current Cutler-Hammer
+Page 10               Effective: February 2009     Panelboards
+PRL1a Horizontally Mounted Connector Kit Assemblies
+Table 7. Plug-in QUICKLAG Breaker Assemblies
+Breaker            Drawing             Branch              3-Phase                                      1-Phase
+Frame              Number             Circuit             Tin-Plated         Silver-Plated             Tin-Plated         Silver-Plated
+                                       Quantity            Aluminum Connector Copper Connector          Aluminum Connector Copper Connector
+                                                           Item Number
+HQP, QPHW,         2C11642             12                  —                      G03                   —                  G07
+QHPX, QPGF,                            18                  —                      G11                   —                  G15
+QPHGF,                                 30                  —                      G19                   —                  G23
+QPGFEP,                                42                  —                      G27                   —                  G31
+QPHGFEP                                48                  —                      G35                   —                  G39
+                                       54                  —                      G43                   —                  G47
+                                       72                  —                      G51                   —                  G55
+                                       96                  —                      G59                   —                  G63
+ Order the basic drawing number, along with the equivalent G–number that’s needed.
+Note: When determining branch circuit quantity, remember:
+1. QUICKLAG breakers with shunt trips require one additional circuit.
+2. UL listed lighting and appliance (CTL) panelboards cannot exceed 42 electrically connected
+   circuits in a single enclosure.
+3. When aluminum is specified, use the silver-plated groups.
+4. The sum of the horizontally twin mounted breakers shall not exceed 140 amperes.
+5. Order breakers separately with connector kit.
+                2C11642G03                                           2C11642G07
+                                                  For more information visit: www.eatonelectrical.com                               RP01400001E
+                                                  Current Cutler-Hammer                                                      Renewal Parts
+                                                  Panelboards                                          Effective: February 2009         Page 11
+PRL2a Horizontally Mounted Connector Kit Assemblies
+Table 8. GB, GHB, GHQ, GHBS Breaker Assemblies
+Breaker            Drawing            Branch              3-Phase                                       1-Phase
+Frame              Number            Circuit             Tin-Plated         Silver-Plated              Tin-Plated         Silver-Plated
+                                      Quantity            Aluminum Connector Copper Connector           Aluminum Connector Copper Connector
+                                                          Item Number
+GB, GHB, GHQ       1C96609            12                  G01                    G03                    G05                       G07
+GHBS                                  18                  G09                    G11                    G13                       G15
+                                      30                  G17                    G19                    G21                       G23
+                                      42                  G25                    G27                    G29                       G31
+                                      48                  G33                    G35                    G37                       G39
+                                      54                  G41                    G43                    G45                       G47
+                                      72                  G49                    G51                    G53                       G55
+                                      96                  G57                    G59                    G61                       G63
+ Order the basic drawing number, along with the equivalent G–number that’s needed.
+Note: When determining branch circuit quantity, remember:
+1. QUICKLAG breakers with shunt trips require one additional circuit.
+2. UL listed lighting and appliance (CTL) panelboards cannot exceed 42 electrically connected
+   circuits in a single enclosure.
+3. When bare copper is specified, use the silver-plated groups.
+4. Order breakers separately with connector kit.
+                1C96609G01
+RP01400001E                                      For more information visit: www.eatonelectrical.com
+Renewal Parts                                      Current Cutler-Hammer
+Page 12                Effective: February 2009    Panelboards
+PRL1a, 2a Neutral Assemblies
+Table 9. 100 Ampere Neutral Assemblies 
+Panel Main      Neutral     Lug               Drawing     Panel Lug     Wire Size           Quantity    Tin-Plated            Silver-Plated
+Bus Ampere      Rating      Type              Number     Options      Range                           Aluminum Connector    Copper Connector
+Rating                                                                                                  Item Number
+100             100%        Mechanical        1C96646     STD           #14 – 1/0           1           G02                   G03
+                                                          SFL/TFL       #14 – 1/0           2           G05                   G07
+                                                          OVS           #6 – 300 kcmil      1           G09                   G11
+                            Crimp             1C96647     STD           #8 – 1/0            1           G01                   G03
+                                                          SFL/TFL       #8 – 1/0            2           G05                   G07
+                                                          OVS           #4 – 300 kcmil      1           G09                   G11
+                            Copper            1C96648     STD           #14 – 1/0           1           —                     G03
+                                                          SFL/TFL       #14 – 1/0           2           —                     G07
+                                                          OVS           #6 – 250 kcmil      1           —                     G11
+                200%        Mechanical        1C96649     STD           #6 – 300 kcmil      1           G02                   G03
+                                                          SFL/TFL       #6 – 300 kcmil      2           G06                   G07
+                                                          OVS           4/0 – 500 kcmil     1           G09                   G11
+                            Crimp             1C96650     STD           #4 – 300 kcmil      1           G01                   G03
+                                                          SFL/TFL       #4 – 300 kcmil      2           G05                   G07
+                                                          OVS           2/0 – 500 kcmil     1           G09                   G11
+                            Copper            1C96651     STD           #6 – 250 kcmil      1           —                     G03
+                                                          SFL/TFL       #6 – 250 kcmil      2           —                     G07
+                                                          OVS           1/0 – 600 kcmil     1           —                     G11
+ The assemblies shown on this page are for panelboards that mount in 30.00 – 90.00-inch (762.0 – 2286.0 mm) high enclosures only.
+  Reference Page 15 for assemblies for panelboards that mount in 21.00 – 27.00-inch (533.4 – 685.8 mm) high enclosures.
+ Order the basic drawing number, along with the equivalent G–number that’s needed.
+ STD = Standard lugs.
+  SFL/TFL = Sub-feed and through-feed lugs.
+  OVS = Oversize lugs.
+                             1C96646G01
+                                                  For more information visit: www.eatonelectrical.com                                 RP01400001E
+                                                   Current Cutler-Hammer                                                     Renewal Parts
+                                                   Panelboards                                         Effective: February 2009                Page 13
+PRL1a, 2a Neutral Assemblies
+Table 10. 225 Ampere Neutral Assemblies 
+Panel Main      Neutral    Lug                Drawing    Panel Lug     Wire Size           Quantity    Tin-Plated                 Silver-Plated
+Bus Ampere      Rating     Type               Number    Options      Range                           Aluminum Connector         Copper Connector
+Rating                                                                                                 Item Number
+225             100%       Mechanical         1C96649    STD           #6 – 300 kcmil      1           G02                        G03
+                                                         SFL/TFL       #6 – 300 kcmil      2           G06                        G07
+                                                         OVS           4/0 – 500 kcmil     1           G09                        G11
+                           Crimp              1C96650    STD           #4 – 300 kcmil      1           G01                        G03
+                                                         SFL/TFL       #4 – 300 kcmil      2           G05                        G07
+                                                         OVS           2/0 – 500 kcmil     1           G09                        G11
+                           Copper             1C96651    STD           #6 – 250 kcmil      1           —                          G03
+                                                         SFL/TFL       #6 – 250 kcmil      2           —                          G07
+                                                         OVS           1/0 – 600 kcmil     1           —                          G11
+                200%       Mechanical         1C96652    STD           4/0 – 500 kcmil     2           G01                        G03
+                                                         SFL/TFL       N/A                 N/A         G05                        G07
+                                                         OVS           3/0 – 750 kcmil     2           G09                        G11
+                           Crimp              1C96653    STD           2/0 – 500 kcmil     2           G01                        G03
+                                                         SFL/TFL       N/A                 N/A         G05                        G07
+                                                         OVS           500 – 750 kcmil     2           G09                        G11
+                           Copper             1C96654    STD           1/0 – 600 kcmil     1           —                          G03
+                                                         SFL/TFL       N/A                 N/A         —                          G07
+                                                         OVS           1/0 – 600 kcmil     1           —                          G11
+ The assemblies shown on this page are for panelboards that mount in 30.00 – 90.00-inch (762.0 – 2286.0 mm) high enclosures.
+ Order the basic drawing number, along with the equivalent G–number that’s needed.
+ STD = Standard lugs.
+  SFL/TFL = Sub-feed and through-feed lugs.
+  OVS = Oversize lugs.
+                             1C96649G01
+RP01400001E                                      For more information visit: www.eatonelectrical.com
+Renewal Parts                                      Current Cutler-Hammer
+Page 14                Effective: February 2009    Panelboards
+PRL1a, 2a Neutral Assemblies
+Table 11. 400 Ampere Neutral Assemblies 
+Panel Main      Neutral     Lug               Drawing     Panel Lug     Wire Size           Quantity    Tin-Plated              Silver-Plated
+Bus Ampere      Rating      Type              Number     Options      Range                           Aluminum Connector      Copper Connector
+Rating                                                                                                  Item Number
+400             100%        Mechanical        1C96652     STD           4/0 – 500 kcmil     2           G01                     G03
+                                                          SFL/TFL       N/A                 N/A         G05                     G07
+                                                          OVS           3/0 – 750 kcmil     2           G09                     G11
+                            Crimp             1C96653     STD           2/0 – 500 kcmil     2           G01                     G03
+                                                          SFL/TFL       N/A                 N/A         G05                     G07
+                                                          OVS           500 – 750 kcmil     2           G09                     G11
+                            Copper            1C96654     STD           1/0 – 600 kcmil     1           —                       G03
+                                                          SFL/TFL       N/A                 N/A         —                       G07
+                                                          OVS           1/0 – 600 kcmil     1           —                       G11
+ The assemblies shown on this page are for panelboards that mount in 30.00 – 90.00-inch (762.0 – 2286.0 mm) high enclosures.
+ Order the basic drawing number, along with the equivalent G–number that’s needed.
+ STD = Standard lugs.
+  SFL/TFL = Sub-feed and through-feed lugs.
+  OVS = Oversize lugs.
+                             1C96652G01
+                                                  For more information visit: www.eatonelectrical.com                                   RP01400001E
+                                                     Current Cutler-Hammer                                                      Renewal Parts
+                                                     Panelboards                                          Effective: February 2009                Page 15
+PRL1a, 2a Neutral Assemblies
+Table 12. 100 Ampere Neutral Assemblies for 21.00 – 27.00-Inch (533.4 – 685.8 mm) High Enclosures Only 
+Panel Main      Neutral     Lug               Drawing       Panel Lug     Wire Size           Quantity    Tin-Plated                 Silver-Plated
+Bus Ampere      Rating      Type              Number       Options      Range                           Aluminum Connector         Copper Connector
+Rating                                                                                                    Item Number
+100             100%        Mechanical        1C96645       STD           #14 – 1/0           1           G01                        G03
+                                                            SFL/TFL       #14 – 1/0           2           G05                        G07
+                                                            OVS           N/A                 N/A         —                          —
+                            Crimp             N/A           STD           N/A                 N/A         —                          —
+                                                            SFL/TFL       N/A                 N/A         —                          —
+                                                            OVS           N/A                 N/A         —                          —
+                            Copper            N/A           STD           N/A                 N/A         —                          —
+                                                            SFL/TFL       N/A                 N/A         —                          —
+                                                            OVS           N/A                 N/A         —                          —
+                200%        Mechanical        1C97022       STD           #6 – 300 kcmil      1           G01                        G03
+                                                            SFL/TFL       #6 – 300 kcmil      2           G05                        G07
+                                                            OVS           N/A                 N/A         —                          —
+                            Crimp             N/A           STD           N/A                 N/A         —                          —
+                                                            SFL/TFL       N/A                 N/A         —                          —
+                                                            OVS           N/A                 N/A         —                          —
+                            Copper            N/A           STD           N/A                 N/A         —                          —
+                                                            SFL/TFL       N/A                 N/A         —                          —
+                                                            OVS           N/A                 N/A         —                          —
+ The assemblies shown on this page are for panelboards that mount in 21.00 – 27.00-inch (533.4 – 685.8 mm) high enclosures only. Reference Page 12
+  for assemblies for panels that mount in 36.00, 48.00, 60.00, 72.00 and 90.00-inch (914.4, 1219.2, 1524.0, 1828.8 and 2286.0 mm) high enclosures.
+ Order the basic drawing number, along with the equivalent G–number that’s needed.
+ STD = Standard lugs.
+  SFL/TFL = Sub-feed and through-feed lugs.
+  OVS = Oversize lugs.
+                1C96645G01
+RP01400001E                                         For more information visit: www.eatonelectrical.com
+Renewal Parts                                       Current Cutler-Hammer
+Page 16               Effective: February 2009      Panelboards
+PRL1a, 2a Ground Assemblies                                                  PRL1a, 2a Service Entrance Kits
+Table 13. Standard Ground                                                    Table 15. PRL1a, 2a Service Entrance Kits
+Drawing  Enclosure Height                  Bar                Item            Drawing  Panel           Tin-Plated Bare    Silver-Plated Tin-Plated
+Number  in Inches (mm)                    Material           Number          Number  Ampere          Aluminum Copper    Copper        Copper
+                                                                                       Rating          Item Number
+5158C05     24.00 (609.6)                  Aluminum/Copper G01
+                                           Copper             G03
+                                                                             Mechanical Main Lugs or Main Breakers
+                                                                              4180B62     100 – 225 G01           G02     G03           G04
+            36.00 (914.4), 48.00 (1219.2),  Aluminum/Copper G02
+                                                                              4180B62     400       G05           G06     G07           G08
+            60.00 (1524.0), 72.00 (1828.8), Copper          G04
+            90.00 (2286.0)                                                   Compression (Crimp) Main Lugs
+ Order the basic drawing number, along with the equivalent G–number          4180B62     100 – 225 G09           G10     G11           G12
+  that’s needed (example 5158C05G01).                                         4180B62     400       G13           G14     G15           G16
+                                                                             Copper Main Lugs
+                                                                              4180B62     100 – 225 —             G18     G19           G20
+                                                                              4180B62     400       —             G22     G23           G24
+                                                                              Order the basic drawing number, along with the equivalent G–number
+                                                                               that’s needed (example 5158C05G01).
+                            5158C05G01
+                            5158C05G02
+Table 14. Isolated Ground
+Drawing  Enclosure Height                  Bar                Item
+Number  in Inches (mm)                    Material           Number
+2C11296     24.00 (609.6)                  Aluminum/Copper G01
+                                           Copper             G02
+            36.00 (914.4), 48.00 (1219.2),  Aluminum/Copper G03
+            60.00 (1524.0), 72.00 (1828.8), Copper          G04
+            90.00 (2286.0)
+ Order the basic drawing number, along with the equivalent G–number
+  that’s needed (example 5158C05G01).
+                                                                                                             4180B62G01
+                                                 For more information visit: www.eatonelectrical.com                                   RP01400001E
+                                                   Current Cutler-Hammer                                                      Renewal Parts
+                                                   Panelboards                                          Effective: February 2009       Page 17
+PRL1a, 2a Deadfront Covers
+Note: Does not apply to PRL4 sub-chassis.
+Table 16. Assembly
+Drawing       Standard Enclosure Height in Inches (mm)
+Number       24.00         36.00      42.00      48.00        60.00            72.00       90.00
+              (609.6)       (914.4)    (1066.8)   (1219.2)     (1524.0)         (1828.8)    (2286.0)
+1C96638       G01           G02        G07         G03         G04              G05         G06
+ Order the basic drawing number, along with the equivalent G–number that’s needed
+  (example 1C96638G01).
+Table 17. Vertically Mounted Devices
+Mounting         Device/Frame                            Drawing          Mounting         Item
+Arrangement                                              Number          Position         Number
+Vertical         100 Ampere MLO, SFL, TFL or F-Frame     4180B03          Top              H01
+                 (100 Ampere Maximum)                                     Bottom           H01                           1C96638G01
+                 225 Ampere MLO, SFL, TFL or F-Frame     4180B61          Top              H01
+                 (225 Ampere Maximum)                                     Bottom           H01
+                 400 Ampere MLO, SFL, TFL or J-Frame     4180B04          Top              H01
+                                                                          Bottom           H02
+                 400 Ampere MLO, TFL or K-Frame          4180B05          Top              H01
+                                                                          Bottom           H02
+Blank Covers      1.00 (25.4)                            4180B08          N/A              H01
+in Inches (mm)    2.00 (50.8)                                             N/A              H02
+                  3.00 (76.2)                                             N/A              H03
+                  4.00 (101.6)                                            N/A              H04
+                  5.00 (127.0)                                            N/A              H05
+                  6.00 (152.4)                                            N/A              H06
+                  7.00 (177.8)                                            N/A              H07
+                  8.00 (203.2)                                            N/A              H08
+                  9.00 (228.6)                                            N/A              H09
+                 10.00 (254.0)                                            N/A              H10
+                 11.00 (279.4)                                            N/A              H11
+                 12.00 (304.8)                                            N/A              H12
+                 13.00 (330.2)                                            N/A              H13
+                 14.00 (355.6)                                            N/A              H14
+                 15.00 (381.0)                                            N/A              H15
+                 16.00 (406.4)                                            N/A              H16
+ Order the basic drawing number, along with the equivalent H–number that’s needed
+  (example 4180B03H01).
+                 4180B08H03                                          4180B03H01
+RP01400001E                                       For more information visit: www.eatonelectrical.com
+Renewal Parts                                     Current Cutler-Hammer
+Page 18               Effective: February 2009    Panelboards
+PRL1a, 2a Deadfront Covers
+Note: Does not apply to PRL4 sub-chassis.
+Table 18. Horizontally Mounted Devices                                                                 Table 19. Filler Covers
+Mounting         Device/            Drawing       Branch Circuit     Item             Quantity         Device/Frame          Drawing       Item
+Arrangement      Frame              Number       Quantity           Number           Required                               Number        Number
+Horizontal       BA, BAB, QBH,      1C96619       12                 H01              1                F, J, K              4180B52       H01
+                 QBGF, QBHGF,                     18                 H02              1                QUICKLAG,             5155C62       H01
+                 QBGFEP,                          30                 H04              1                GB, GHB 
+                 QBHGFEP                          42                 H06              1                 Filler covers are required in addition to
+                                                  48                 H03              2                  deadfront cover whenever MLO, SFL or TFL
+                                                  54                 H03 and H04      1 Each             are specified.
+                                                  72                 H05              2                 Filler covers are required in addition to
+                                                  96                 H07              2                  deadfront cover whenever a branch
+                 GB, GHB, GHQ,      1C96620       12                 H01              1                  provision is specified.
+                 GHBS                             18                 H02              1
+                                                  30                 H04              1
+                                                  42                 H06              1
+                                                  48                 H03              2
+                                                  54                 H03 and H04      1 Each
+                                                  72                 H05              2
+                                                  96                 H07              2
+ Order the basic drawing number, along with the equivalent H–number that’s needed
+  (example 1C96619H01).
+                                                                                                                        5155C62H01
+                1C96619H01                                         1C96620H01
+                                                                                                                        4180B52H01
+                                                 For more information visit: www.eatonelectrical.com                                      RP01400001E
+                                                       Current Cutler-Hammer                                                      Renewal Parts
+                                                       Panelboards                                          Effective: February 2009       Page 19
+Panelboard Trim Locks
+Panelboard trims use different trim locks, see pictures below for styles and part
+numbers. Contact your nearest Satellite for availability on the styles listed below.
+See Page 4 for Satellite listings.
+Table 20. Panelboard Trim Locks
+Description                                                                          Catalog
+                                                                                     Number
+For use on left-handed door. (Hinged on left side.)                                  K80522
+For use on right-handed door. (Hinged on right side.)                                K80133
+T–Handle lock, at one time used on all trims over 48.00 inches (1219.2 mm)           K80429
+in height. Also used on outdoor NEMA 12/3R trims.
+Used on PRL4 lighting and power panels as standard.                                  1A32258H03
+Used on PRL1, 2, 3 and PRL1a, 2a, 3a lighting panels as standard.                    5155C81G01
+WEM 2 key.
+      K80522
+                                             K80133
+                                                                                  K80429
+                     1A32258H03                              5155C81G01
+RP01400001E                                           For more information visit: www.eatonelectrical.com
+Renewal Parts                                      Current Cutler-Hammer
+Page 20               Effective: February 2009     Panelboards
+Panelboard Fastrim Clamps and Screw-on Hardware Kits
+For panelboard trim clamps, contact your nearest Satellite for availability on the
+styles listed below. See Page 4 for Satellite listings.
+Table 21. Panelboard Fastrim Clamps and Screw-on Hardware Kits
+Description                                                                         Style
+                                                                                    Number
+Trim clamps — used on PRL1a, 2a, 3a fastrims. (6 per bag.)                          2C11641G02
+Trim screws — used on PRL1a, 2a, 3a, 4B standard trim. (10 per bag.)                5157C83G06
+Chassis mounting hardware bag — PRL1a, 2a, 3a panels.                               7499A48G04
+                                                                                                       7499A48G04
+               2C11641G02
+                                                                       5157C83G06
+                                                 For more information visit: www.eatonelectrical.com                RP01400001E
+                                                          Current Cutler-Hammer                                                      Renewal Parts
+                                                          Panelboards                                          Effective: February 2009              Page 21
+PRL3a Parts Section                            Page       PRL3a Horizontally Mounted Connector Kit Assemblies
+Connector Kits,
+ Branch Breakers . . . . . . . . . .           21         Table 22. Connector Kit Assemblies
+Quicklag . . . . . . . . . . . . . . . . . .   21          Devices            Circuits       3-Phase                   1-Phase                    Notes
+                                                                              or Pole        Catalog Number    Phase Catalog Number       Phase
+GB, GHB, GHBS. . . . . . . . . . . .           21
+Twin Mounted F-Frame                                       BA, BAB, QBGF,      6             KPRL3ABA06        A/B/C   KPRL3ABA06-1       A/C     (2) 100
+ 150 Ampere Maximum . . . .                    22          QBH, QBHGF,        12             KPRL3ABA12        A/B/C   KPRL3ABA12-1       A/C     Ampere
+                                                           QBGFEP,            18             KPRL3ABA18        A/B/C   KPRL3ABA18-1       A/C     Devices
+Single Mounted F-Frame                                     QBHGFEP            24             KPRL3ABA24        A/B/C   KPRL3ABA24-1       A/C     Maximum
+ 175 – 225 Ampere Maximum .                    22          GB, GHB, GHQ,       6             KPRL3AGB06        A/B/C   KPRL3AGB06-1       A/C
+Ground Assemblies . . . . . . . .              23          GHBS               12             KPRL3AGB12        A/B/C   KPRL3AGB12-1       A/C
+                                                                              18             KPRL3AGB18        A/B/C   KPRL3AGB18-1       A/C
+Service Entrance Kits . . . . . . .            23                             24             KPRL3AGB24        A/B/C   KPRL3AGB24-1       A/C
+Deadfront Covers . . . . . . . . . .           23 – 25
+                                                          Three-phase kits contain A, B and C
+                                                          phase connectors. Single-phase kits
+                                                          contain A and C phase connectors,
+                                                          deadfront cover, hardware and instruc-
+                                                          tions to twin mount breakers across
+                                                          from each other. Maximum amperes
+                                                          connected to any one connector
+                                                          cannot exceed 200 amperes.
+                                                                                                                               KPRL3AGB06
+                                                                           KPRL3ABA06
+RP01400001E                                              For more information visit: www.eatonelectrical.com
+Renewal Parts                                     Current Cutler-Hammer
+Page 22               Effective: February 2009    Panelboards
+PRL3a F-Frame Horizontally Mounted Connector Kit Assemblies
+Table 23. Connector Kit Assemblies
+Devices                               Circuits        3-Phase                   1-Phase                  Notes
+                                      or Pole         Catalog Number Phase Catalog Number Phase
+EHD, FD, FDB,                         3-Pole Breaker KPRL3AFD3          A/B/C   —                  —     (2) 150 Ampere Devices Maximum
+HFD, FDC                              2-Pole Breaker KPRL3AFD2          A/C     KPRL3AFD2          A/C
+(150 Ampere Maximum Twin Mount)       1-Pole Breaker KPRL3AFD1          A/C     KPRL3AFD1          A/C
+FD, HFD, FDC,                         3-Pole Breaker KPRL3AED3          A/B/C   —                  —     (1) 225 Ampere Maximum Single Mounted
+ED, EDH, EDC                          2-Pole Breaker KPRL3AED2          A/C     KPRL3AED2          A/C
+(175 – 225 Ampere Single Mount) 
+ F-Frame devices rated above 150 amperes must be single mounted. No twin mounting acceptable.
+Connector kits contain phase connec-
+tors, deadfront cover, hardware and
+instructions to mount breakers. Order
+breakers separately when ordering
+connector kit.
+                                                                    KPRL3AFD3
+                                                 For more information visit: www.eatonelectrical.com                                RP01400001E
+                                                    Current Cutler-Hammer                                                        Renewal Parts
+                                                    Panelboards                                            Effective: February 2009                Page 23
+PRL3a Ground Assemblies                                                        PRL3a Deadfront Covers
+Table 24. PRL3a Ground Assemblies                                              Table 26. Assembly 
+Material                Standard                Isolated                        Style                Chassis Height/Item Number
+                        Catalog Number                                          Number              14X         23X       31X        40X      53X
+Aluminum/Copper         5158C05G02              2C11296G02                      6559C59              G01         G02       G03        G04      G05
+Copper Only             5158C05G04              2C11296G04                      Assembly groups include the frame only (two rails and two end
+                                                                                 covers). Reference Pages 24 and 25 for specific device covers.
+                                                                                 All connector kits ship with a deadfront cover for that device.
+                                                                                When ordering, use complete style number
+                                                                                 (example 14X High Assembly 6559C59G01).
+                              5158C05G02
+PRL3a Service Entrance Kits
+Table 25. PRL3a Service Entrance Kits
+Style    Panel         Tin-Plated   Bare     Silver-Plated    Tin-Plated
+Number  Ampere        Aluminum     Copper   Copper           Copper
+         Rating        Item Number
+Mechanical Main Lugs or Main Breakers                                                                         6559C59G01
+5078A98       100       G01         G02      G03              G04
+              250 – 600 G13         G14      G15              G16
+Crimp Main Lugs
+5078A98       100       G05         G06      G07              G08
+              250 – 600 G17         G18      G19              G20
+Copper Main Lugs
+5078A98       100       G09         G10      G11              G12
+              250 – 600 G21         G22      G23              G24
+ When ordering, use complete style number
+  (example 100 Ampere Tin-Plated Aluminum 5078A98G01).
+                              5078A98G01
+RP01400001E                                        For more information visit: www.eatonelectrical.com
+Renewal Parts                                     Current Cutler-Hammer
+Page 24               Effective: February 2009    Panelboards
+PRL3a Vertical Devices Deadfront Covers
+Table 27. Vertical Mounting Position
+Device/Frame                      Trip Unit      Style      “X”      Item Number
+                                  Type           Number     Space    Without     With
+                                                           Required Lock-offs  Lock-offs 
+EHD, FD, FDB, HFD,                N/A            4176B68     7X        H01         H03
+FDC, ED, EDH, EDC (Top) 
+EHD, FD, FDB, HFD,                N/A                        7X        H04         H05
+FDC, ED, EDH, EDC (Bottom) 
+FD, HFD, FDC, ED, EDH (Top)     N/A             4180B93    10X        H01         H03
+FD, HFD, FDC, ED, EDH (Bottom)                                        H04         H05
+J-Frame (Bottom)                  N/A            4176B60    14X        H01         H02
+J-Frame (Top)                                               14X        H03         H04                       J Main 4176B60H04
+K-Frame (Bottom)                  Thermal-Mag. 4176B61      15X        H01         H02
+K-Frame (Bottom)                  Electronic                15X        H03         H04
+K-Frame (Top)                     Thermal-Mag.              15X        H05         H06
+K-Frame (Top)                     Electronic                15X        H07         H08
+L-Frame (Bottom)                  Thermal-Mag. 4176B51      17X        H01         H02
+L-Frame (Bottom)                  Electronic                17X        H03         H04
+L-Frame (Top)                     Thermal-Mag.              17X        H05         H06
+L-Frame (Top)                     Electronic                17X        H07         H08                 Neutral Blank Cover 4176B72H04
+FB-P (Top Only)                   N/A            4176B70     9X        H02         H02
+LA-P (Top Only)                   N/A            4176B57    21X        H01         H01
+FCL                               N/A            4176B70     9X        H01         H01
+LCL (Top)                         N/A            4176B56    21X        H01         H02
+LCL (Bottom)                      N/A                       21X        H03         H04
+Neutral/Blank Cover               N/A            4176B72     1X        H01         —
+                                                             2X        H02
+                                                             3X        H03
+                                                             4X        H04
+                                                             5X        H05
+                                                             6X        H06
+                                                             7X        H07
+                                                             8X        H08
+                                                             9X        H09
+                                                            10X        H10
+                                                            11X        H11
+                                                            12X        H12
+J-Frame Sub-Feed Twin Bottom      N/A            4176B79    20X        H01         H02 (2 L/O)
+                                                                                   H03 (1 L/O RT)
+                                                                                   H04 (1 L/O LT)
+J-Frame Sub-Feed Twin Top         N/A            4176B79    20X        H05         H05 (2 L/O)
+                                                                                   H07 (1 L/O RT)
+                                                                                   H08 (1 L/O LT)
+PT363 (Top)                       N/A            4180B79     7X        H01         —
+PT363 (Bottom)                    N/A                        7X        H02
+PT364 (Top)                       N/A                        9X        H03
+PT364 (Bottom)                    N/A                        9X        H04
+ When ordering covers, order complete style and item numbers (example 4176B68H01).
+ 4/0 Maximum acceptable terminal size.
+ 300 kcmil maximum acceptable terminal size.
+                                                 For more information visit: www.eatonelectrical.com                             RP01400001E
+                                                  Current Cutler-Hammer                                                     Renewal Parts
+                                                  Panelboards                                         Effective: February 2009               Page 25
+PRL3a Horizontal Devices Deadfront Covers                                                             PRL3a Deadfront Cover
+Table 28. Horizontal Mounting Position
+                                                                                                      Blank Fillers
+Device/Frame                      Device      Style       Total Circuit “X” Space     Item            Table 29. PRL3a Deadfront Cover Blank Fillers
+                                  Poles       Number     Quantity      Required      Number
+                                                                                                      Device/Frame       Poles       Style Number
+EHD, FD, FDB, HFD, FDC            1, 2 or 3   4178B08      6            3X            H01
+(Twin Mounted)                                            12            6X            H02             F-Frame            1, 2 or 3   4178B06H01
+                                                          18            9X            H03             C-Frame            2           6555C40H01
+                                                          24           12X            H04             C-Frame            3           6555C41H01
+                                                          30           15X            H05             QUICKLAG, GB, 1, 2 or 3        5155C62H01
+                                                          36           18X            H06             GHB, GHBS
+                                                          42           21X            H07
+                                                          48           24X            H08
+EHD, FD, FDB, HFD, FDC            1 or 2      4179B39      4            2X            H01
+(Twin Mounted)                                             8            4X            H02
+                                                          12            6X            H03
+                                                          16            8X            H04
+                                                          20           10X            H05
+                                                          24           12X            H06
+                                                          28           14X            H07                        BAB Cover 4176B67H01
+                                                          32           16X            H08
+EHD, FD, FDB, HFD, FDC            1           4179B40      2             1X           H01
+(Twin Mounted)
+FD, HFD, FDC, ED, EDH, EDC        3           4179B41      3             3X           H01
+(Single Mounted)
+FD, HFD, FDC, ED, EDH, EDC        2           4179B42      2             2X           H01
+(Single Mounted)
+CA, CAH, HCA                      3           4176B66      3             3X           H01
+CA, CAH, HCA                      2           4176B80      2             2X           H01
+BA, BAB, BABRP, BABRSP            1, 2 or 3   4176B67      6            3X            H01
+QBH, QBGF,                                                12            5X            H02
+QBGFEP,                                                   18            8X            H03
+QBHGFEP                                                   24           10X            H04
+GB, GHB, GHBS,                    1, 2 or 3   4176B69      6            3X            H01
+GHBGFEP, HGHB, GHQ                                        12            5X            H02
+                                                          18            8X            H03
+                                                          24           10X            H04
+Pow-R-Command Controller          N/A         4180B91     N/A            5X           H01
+Pow-R-Command Expansion           N/A         4180B91     N/A           7X            H02
+                                                                       16X            H03
+ When ordering covers, order complete style and item number (example 4178B08H01).
+RP01400001E                                     For more information visit: www.eatonelectrical.com
+Renewal Parts                                         Current Cutler-Hammer
+Page 26                  Effective: February 2009     Panelboards
+PRL4B/F Parts Section                     Page        PRL4 Vented Cover Assemblies
+Vented Cover Assemblies
+ and Side Gutter Covers . . . . . 26
+                                                                                            Nameplate
+PRL4 Blank Covers . . . . . . . . . . 27
+PRL4 Breaker Connector Kits . . 28                                                          Top
+                                                                                            Vented
+PRL4 Fusible FDPW Switch                                                                    Cover
+ Connector Kit . . . . . . . . . . . . . 29
+PRL4 Breaker Retrofit Kits . . . . 30
+PRL4 Fusible Retrofit Kits. . . . . 30                                                      Blank
+                                                                                            Cover
+PRL4 Energy Sentinel . . . . . . . . 31
+PRL1a, 2a, 3a and PRL4                                                                      Side
+                                                                                            Gutter
+ Special Trims and                                                                          Covers
+ Enclosures . . . . . . . . . . . . . . . 32
+                                                                                            Extension
+                                                                                            Wings
+                                                                                            Device
+                                                                                            Cover
+                                                                                            Bottom
+                                                                                            Vented
+                                                                                            Cover
+                                                                  PRL4B                                                       PRL4F
+Table 30. Vented Cover Assemblies and Side Gutter Covers — Dimensions in Inches (mm)
+NEMA 1 Box                                         Vented Cover Side Gutter Covers
+                                                            
+Dimensions                                 Catalog Assembly     Left                                         Right
+Height          Width           Depth     Number Style Number Size                           Style Number Size                               Style Number
+57.00 (1447.8) 24.00 (609.6)    10.40      BX2457   6574C74G02    5.00 (127.0) x 57.00 (1447.8) 6555C20H01    5.00 (127.0) x 57.00 (1447.8)   6555C20H01
+73.00 (1854.2) 24.00 (609.6)    (264.2)    BX2473   6574C74G03    5.00 (127.0) x 73.00 (1854.2) 6555C21H01    5.00 (127.0) x 73.00 (1854.2)   6555C21H01
+90.00 (2286.0) 24.00 (609.6)               BX2490   6574C74G04    5.00 (127.0) x 90.00 (2286.0) 6555C25H01    5.00 (127.0) x 90.00 (2286.0)   6555C25H01
+73.00 (1854.2) 36.00 (914.4)               BX3673   6574C74G05    6.00 (152.4) x 73.00 (1854.2) 6555C22H01    8.00 (203.2) x 73.00 (1854.2)   6555C23H01
+90.00 (2286.0) 36.00 (914.4)               BX3690   6574C74G06    6.00 (152.4) x 90.00 (2286.0) 6555C26H01    8.00 (203.2) x 90.00 (2286.0)   6555C27H01
+73.00 (1854.2) 44.00 (1117.6)              BX4473   6574C74G05    8.00 (203.2) x 73.00 (1854.2) 6555C23H01   14.00 (355.6) x 73.00 (1854.2)   6555C24H01
+90.00 (2286.0) 44.00 (1117.6)              BX4490   6574C74G06    8.00 (203.2) x 90.00 (2286.0) 6555C27H01   14.00 (355.6) x 90.00 (2286.0)   6555C28H01
+ Covers add .90 inches (22.9 mm) to box depth for overall enclosure depth of 11.30 inches (287.0 mm).
+ Cover assembly consists of 2 side rails, top and bottom vented covers.
+  Important: Order individual device covers and blanks separately.
+                                                    For more information visit: www.eatonelectrical.com                                        RP01400001E
+                                           Current Cutler-Hammer                                                     Renewal Parts
+                                           Panelboards                                         Effective: February 2009                Page 27
+PRL4 Blank Covers
+Used to cover blank space on chassis. All PRL4 cover heights                                                              Neutral
+are measured in “X” units. 1X equals 1.38 inches (35.1 mm).
+Table 31. PRL4 Blank Covers
+Cover         Style Number
+Size          24.00-Inch            36.00, 44.00-Inch                                                                     1200 Ampere MLO
+              (609.6 mm)            (914.4, 1117.6 mm)
+              Width Box             Width Box
+ 1X           6554C01H01            6554C02H01
+ 2X           6554C01H02            6554C02H02
+ 3X           6554C01H03            6554C02H03
+ 4X           6554C01H13            6554C02H13
+ 5X           6554C01H14            6554C02H14
+ 6X           6554C01H04            6554C02H04
+ 7X           6554C01H05            6554C02H05                                                                            Twin Mounted
+ 9X           6554C01H06            6554C02H06                                                                            Breakers
+10X           6554C01H07            6554C02H07
+11X           6554C01H08            6554C02H08
+12X           6554C01H09            6554C02H09
+13X           6554C01H10            6554C02H10
+15X           6554C01H11            6554C02H11                                                                            Single Mounted
+20X           6554C01H12            6554C02H12                                                                            Breakers
+                                                                                                                          Breaker
+                                                                                                                          Provision
+                                                                                                                          Space Only
+                                                                                                 PRL4B Interior
+RP01400001E                              For more information visit: www.eatonelectrical.com
+Renewal Parts                                  Current Cutler-Hammer
+Page 28            Effective: February 2009    Panelboards
+PRL4 Breaker Connector Kits                    Table 32. Breaker Connector Kits
+                                                Breaker                           Space Required          Poles   Mounting   Connector Kit
+                                                Frame                                                             Type       Catalog Number
+Breaker Connector Kits                                                            Inches (mm)       “X”
+Each kit includes copper connectors,            EHD, FD, HFD                      2.75              2X    1      Twin       KPRL4FD1
+mounting brackets, covers, hard-                EHD, FD, FDB, HFD, FDC            (69.9)                  2       Twin       KPRL4FD2
+ware and instructions for mounting              ED, EDH, EDC                                              2       Twin       KPRL4ED2
+breaker(s) in a PRL4. Breakers are not          EHD, FD, FDB, HFD, FDC            4.13              3X    3       Twin       KPRL4FD
+included. Contact your local Satellite          FCL, FB-P, FD/LFD                 (104.9)                 3       Twin       KPRL4FBP
+plant for availability and application          ED, EDH, EDC                                              3       Twin       KPRL4ED
+                                                JD, JDB, HJD, JDC                                         2, 3    Single     KPRL4JDS
+information (see Page 4).                       JD, JDB, HJD, JDC                                         2,3     Twin       KPRL4JDT 
+                                                DK, KD, KDB, HKD, KDC             5.50              4X    2, 3    Single     KPRL4KDS
+Connector Kit                                   DK, KD, KDB, HKD, KDC             (139.7)                 2,3     Twin       KPRL4KDT 
+Each kit includes copper connectors             CKD, CHKD                                                 2,3     Single     KPRL4CKD 
+mounting brackets, cover, hardware              LCL                               8.25              6X    2, 3    Single     KPRL4LCL 
+and instructions.                               LA-P                              (209.5)                 2, 3    Single     KPRL4LAP 
+                                                LD, LDB, HLD, LDC, CLD, LC                                2, 3    Single     KPRL4LD 
+                                                MDL, HMDL                                                 2, 3    Single     KPRL4MC 
+                                                NB-P                                                      2, 3    Single     KPRL4NBP 
+                                                CND, CHND                                                 3       Single     KPRL4CND 
+                                                ND, HND                                                   2, 3    Single     KPRL4ND 
+                                                Two sets of twin mounted 1-pole breakers.
+                                                36.00-inch (914.4 mm) minimum box width required.
+                                                44.00-inch (1117.6 mm) box width required.
+                                                Requires density rated bus in existing panel chassis.
+                                               Hardware Kit                                         Standard Ground Bus
+                                               Each kit includes mounting bracket(s)                Copper bus with (3) 6 – 300 kcmil lugs
+                                               and mounting hardware only. Use the                  plus a 24-circuit terminal bar with
+                                               appropriate Connector Kit catalog                    #14 – 1/0 wire range.
+                                               number and add an “H” to designate
+                                               hardware only (example: KPRL4FD-H).
+             Connector Kit
+                                                                                                                    6572C746G01
+                                                                Hardware Kit
+                                              For more information visit: www.eatonelectrical.com                                  RP01400001E
+                                          Current Cutler-Hammer                                                       Renewal Parts
+                                          Panelboards                                          Effective: February 2009               Page 29
+PRL4 Fusible Connector Kits               Table 33. Fusible Switch Connector Kits
+                                           Switch Height                   Switch        3-Pole Switch                      Connector Kit
+                                                                           Ampere
+Fusible Switch Connector Kits              Inches           “X” Space
+                                                                           Rating
+                                                                                         240 Volts        600 Volts
+                                           (mm)             Required                     Catalog Number
+Each kit includes copper connectors,
+extension wings (when required),            5.50 (139.7)      4X             30 – 30     FDPWT3211R       FDPWT3611R        —
+hardware and instructions to mount                                           60 – 60     FDPWT3222R       FDPWT3622R        KPRL44X 
+a fusible switch. Switches are not                                          100 – 100    FDPWT3233R       —                 —
+included. Contact your local Satellite      6.88 (174.8)     5X             100 – 100    —                FDPWT3633R        KPRL45X   
+plant for availability and application      8.25 (209.6)     6X             200          FDPBS324R        FDPBS364R         KPRL4B6XS
+information (see Page 4).                                                   200 – 200    FDPBT3244R       FDPBT3644R        KPRL4B6XT 
+                                           12.38 (314.5)     9X             400          FDPW325R         FDPW365R          KPRL4W9X
+                                           15.13 (384.3)    11X             600          FDPW326R         FDPW366R          KPRL4W11X
+                                                                            800          FDPW327          FDPW367           KPRL4W11X 
+                                           20.63 (524.0)    15X            1200          FDPW328          FDPW368           KPRL4W15X 
+                                           These connector kits will fit the FDP and FDPW switches.
+                                           44.00-inch (1117.6 mm) box width required for both R and J fuse applications.
+RP01400001E                              For more information visit: www.eatonelectrical.com
+Renewal Parts                                      Current Cutler-Hammer
+Page 30                Effective: February 2009    Panelboards
+PRL4 Breaker and Fusible                          How to Order a Breaker Retrofit Kit
+Switch Retrofit Kits                              by Catalog Number
+                                                  Use “KPRL4” prefix and add catalog
+Breaker Retrofit Kits                             number of breaker as shown below.
+Each kit includes one breaker, copper             Use suffix “T” or “S” to denote twin
+connectors, covers, hardware and                  or single mounting. Twin mounting
+instructions to mount in a PRL4.                  indicates that one set of connectors
+                                                  is required to mount two breakers (of
+Table 34. Breaker Retrofit Kits                   similar frames) opposite one another.
+                                                  RETROFIT KIT INCLUDES ONE
+Breaker    Frame     Trip         Mounting        BREAKER ONLY, FOR EITHER SINGLE
+Frame      Ampere    Range        Type
+           Rating                                 OR TWIN MOUNTED APPLICATIONS.
+EHD        100        15 – 100    Twin            Table 35. Catalog Numbering System —
+FDB                   15 – 100    Twin            Breaker Retrofit Kit
+FD                    15 – 100    Twin
+HFD                   15 – 100    Twin
+FDC
+FCL
+                      15 – 100
+                      15 – 100
+                                  Twin
+                                  Twin
+                                                    KPRL4 KD 3 400 S
+FB-P                  15 – 100    Twin
+FDB        150       110 – 150    Twin                Designates            Ampere                                    Breaker Retrofit Kit
+FD         225       110 – 225    Twin                  KPRL4               Rating
+HFD                  110 – 225    Twin                Connector
+FDC                  110 – 225    Twin                    Kit
+                                                                         Number      T = Twin
+ED                   100 – 225    Twin
+                                                                         of Poles    S = Single
+EDH                  100 – 225    Twin
+                                                            Breaker     2 = 2-Pole
+EDC                  100 – 225    Twin
+                                                             Frame      3 = 3-Pole
+JD         250        70 – 250    Twin/Single
+HJD                   70 – 250    Twin/Single
+JDC                   70 – 250    Twin/Single
+DK         400       100 – 400    Twin/Single     Fusible Retrofit Kits
+KD                   100 – 400    Twin/Single
+HKD                  100 – 400    Twin/Single
+                                                  Each kit includes a 3-pole switch,                    Table 36. Fusible Retrofit Kits
+KDC                  100 – 400    Twin/Single     copper connectors, extension wings                      Switch               Switch      Mounting
+CKD                  100 – 400    Single          (if required), hardware and instructions                Ampere Rating        Type        Type
+LCL                  125 – 400    Single          to horizontally mount in a PRL4.
+LA-P                  70 – 400    Single                                                                   30 – 30             FDPW        Twin
+                                                                                                           60 – 60             FDPW        Twin
+LD         600       300 – 600    Single          How to Order a Fusible Retrofit Kit                     100 – 100            FDPW        Twin
+CLD                  300 – 600    Single
+HLD                  300 – 600    Single          by Catalog Number                                       100                  FDPW        Single
+CHLD                 300 – 600    Single                                                                  200                  FDPB        Single
+                                                  Use “KPRL4” prefix and add catalog                      200 – 200            FDPB        Twin
+LDC                  300 – 600    Single
+CLDC                 300 – 600    Single          number of appropriate switch (refer
+                                                                                                           400                 FDPW        Single
+                                                  to Page 29 for 3-pole switch catalog                     600                 FDPW        Single
+MDL        800       300 – 800    Single
+CMDL                 300 – 800    Single          number).                                                 800                 FDPW        Single
+HMDL                 300 – 800    Single                                                                  1200                 FDPW        Single
+                                                  Example: The Retrofit Kit catalog number
+CHMDL                300 – 800    Single
+                                                  for a 600 volt, 100 ampere twin FDPW
+ND         1200      600 – 1200   Single          switch is:
+CND                  600 – 1200   Single
+HND                  600 – 1200   Single          Table 37. Catalog Numbering System — Fusible Retrofit Kit
+CHND                 600 – 1200   Single
+NDC                  600 – 1200   Single
+CNDC                 600 – 1200   Single
+                                                                             KPRL4 FDPW T 3 6 33 R
+                                                        Designates          Switch Type      T = Twin                 11 = 30 – 30        R = R Fuse
+                                                      PRL4 Connector          FDPW           S = Single               22 = 60 – 60        J = J Fuse
+                                                                              FDPB                                    33 = 100 – 100      T = T Fuse
+                                                                                                                      44 = 200 – 200
+                                                                                                  3 = 3-Pole           4 = 200
+                                                                                                                       5 = 400
+                                                                                                                       6 = 600
+                                                                                                         Volts         7 = 800
+                                                                                                        2 = 240        8 = 1200
+                                                                                                        6 = 600
+                                                  For more information visit: www.eatonelectrical.com                                        RP01400001E
+                                              Current Cutler-Hammer                                                      Renewal Parts
+                                              Panelboards                                          Effective: February 2009             Page 31
+PRL4 Energy Sentinel                          The space-saving design characteris-                 IQ Central Energy Display
+                                              tics of the IQ Energy Sentinel mean
+                                              they can be quickly and easily retrofit-
+                                              ted onto Series C circuit breakers
+                                              in existing equipment…with no addi-
+                                              tional space required. Additionally,
+                                              IQ Energy Sentinel can be installed
+                                              when upgrading to Series C from
+                                              older breakers that are physically
+                                              interchangeable…with no additional
+                                              space required.
+                                              Power and energy information from
+                                              IQ Energy Sentinels can be communi-
+                                              cated to a PC, a panel mounted Central
+                                              Energy Display (CED), or even existing
+              Energy Sentinel                 building management or distribution
+                                              control systems.
+The IQ Energy Sentinel is a submeter-
+ing device that mounts directly on
+a circuit breaker and monitors both
+power and energy with an overall
+accuracy of 99%.
+This high system accuracy is achieved                                                                       IQ Central Energy Display
+by use of the Cutler-Hammer SURE                                                                   The IQ Central Energy Display may
+Plus Chip, which is a sophisticated                                                                be panel mounted or located remotely
+microprocessor.                                                                                    (up to 7500 feet [2286 m] away).
+All that is necessary to complete an                                                               It displays power, peak demand,
+IQ Energy Sentinel installation is to                                                              and energy readings of up to 50 IQ
+insert it into the load side of a breaker,                                                         Energy Sentinels and eight IQ Data
+feed the load conductors through it,                                                               Plus meters.
+and run the shielded twisted pair wire                                                             Additional capabilities include:
+for communications. The IQ Energy                                                                  peak demand alarming, demand
+Sentinel has a nonvolatile memory,                                                                 and energy totals for groups of
+is powered by the circuit breaker,                                                                 IQ Energy Sentinels and IQ Data
+and can be applied on 3-phase, 4-wire                                                              Plus 11 digital meters.
+or single-phase, 3-wire systems.
+                                                                                                   Refer to your local Satellite for
+                                                        Energy Sentinels Installed
+                                                                                                   retrofit and upgrade options available
+                                                                                                   for existing equipment.
+Table 38. Energy Sentinel
+Series C Breaker        Voltage              Maximum                  Catalog
+Frame                   ac                   Amperes                  Number
+F                       120/208, 120/240     150                      IQESF208
+F                       277/480              150                      IQESF480
+J                       120/208, 120/240     250                      IQESJ208
+J                       277/480              250                      IQESJ480
+K                       120/208, 120/240     350                      IQESK208
+K                       277/480              350                      IQESK480
+RP01400001E                                  For more information visit: www.eatonelectrical.com
+Renewal Parts                                           Current Cutler-Hammer
+Page 32                 Effective: February 2009        Panelboards
+PRL1a, 2a, 3a Special Trims and Enclosures
+Ventilated Trim                                         Fastrim                                           Door-In-Door
+Required on PRL1a, 2a, 3a, 600 ampere                   Used when concealed trim mounting                 Piano hinge on the right side of the
+and above panels only. Order by add-                    hardware is required for PRL1a, 2a and            trim provides access to the wiring
+ing the letter “V” to the standard trim                 PRL3a. Trim clamps are included and               gutters without requiring removal of
+catalog number. Add 10% to standard                     shipped with the trim. Order by adding            the trim. Order by adding the letters
+trim list price.                                        the letter “F” to the standard trim cata-         “DD” to the standard trim catalog
+                                                        log number. Add 20% to standard trim              number. Add 20% to standard trim
+Example: LT2072S becomes LTV2072S.
+                                                        list price.                                       list price.
+                                                        Example: LT2072S becomes LTF2072S.                Example: LT2072S becomes LTDD2072S.
+                                                        For trim clamps only, refer to Page 20.
+                 Ventilated Trim
+                                                                                                                       Door-in-Door
+                                                                          Fastrim
+Type 12/3R Enclosures
+The complete enclosure consists of                      hinges and a T-handle lock. Gasketing
+a box and trim. The enclosure meets                     is provided around the trim door.
+code requirements for both Type 12                      The box is gasketed and made from
+(dust-tight) and Type 3R (rainproof)                    code gauge steel with dripshield and
+standards. Features include a laser cut                 is painted ANSI-61.
+trim with rounded corners, concealed
+Table 39. Type 12/3R Enclosures for PRL1a, 2a, 3a
+Box Dimensions in Inches (mm)                                  Catalog Number
+Height                Width              Depth                 Box                  Trim
+24.00 (609.6)         20.00 (508.0)      6.00 (152.4)          VWPB2024             LWPT2024
+36.00 (914.4)                                                  VWPB2036             LWPT2036
+48.00 (1219.2)                                                 VWPB2048             LWPT2048
+60.00 (1524.0)                                                 VWPB2060             LWPT2060
+72.00 (1828.8)                                                 VWPB2072             LWPT2072
+90.00 (2286.0)                                                 VWPB2090             LWPT2090                       Type 12/3R Enclosures
+                                                    For more information visit: www.eatonelectrical.com                                RP01400001E
+                                            Current Cutler-Hammer                                                       Renewal Parts
+                                            Panelboards                                           Effective: February 2009             Page 33
+PRL4 Special Trims                          Table 40. Special Trims and Enclosures
+                                             Standard Box             Mounting Channel           Door-In-Door Trim Catalog Number
+and Enclosures                               Catalog Number           Style Number               Surface                 Flush
+Door-In-Door Trim                            BX2457                   8708C82G02                 LDD2457STW              LDD2457FTW
+                                             BX2473                   8708C82G03                 LDD2473STW              LDD2473FTW
+                                             BX2490                   8708C82G04                 LDD2490STW              LDD2490FTW
+                                             BX3673                   8708C82G05                 LDD3673STW              LDD3673FTW
+                                             BX3690                   8708C82G06                 LDD3690STW              LDD3690FTW
+                                             BX4473                   8708C82G07                 LDD4473STW              LDD4473FTW
+                                             BX4490                   8708C82G08                 LDD4490STW              LDD4490FTW
+                                            Type 12/3R Enclosures
+              Door-In-Door Trim
+A piano hinge on the right side of
+the trim provides access to the wiring
+gutter without requiring the removal
+of the trim. When used with a standard
+PRL4 box, a special mounting channel           Type 12, 24.00 Inches (609.6 mm) Wide                 Type 3R, 36.00 Inches (914.4 mm) Wide
+must be used to add extra depth to
+the enclosure.                              PRL4 enclosures are available in both Type 12 (dust-tight) and Type 3R (rainproof)
+                                            designs. The 24.00-inch (609.6 mm) wide enclosure includes a single hinged door
+An extra depth box, not requiring a         while the 36.00-inch (914.4 mm) wide is provided with double hinged doors.
+mounting channel, is another available      The side gutter covers are an integral part of the box in all styles. Sizes and catalog
+option. Contact your local Satellite for    numbers are shown in the table below.
+ordering information.
+                                            Table 41. Type 12/3R Enclosures
+                                             Enclosure Dimensions in Inches (mm)                           Catalog Number
+                                             Height              Width               Depth                 Type 3R           Type 12
+                                             57.00 (1447.8)      24.00 (609.6)       13.90 (353.1)         RPC2457           DPC2457
+                                             73.00 (1854.2)      24.00 (609.6)                             RPC2473           DPC2473
+                                             90.00 (2286.0)      24.00 (609.6)                             RPC2490           DPC2490
+                                             73.00 (1854.2)      36.00 (914.4)                             RPC3673           DPC3673
+                                             90.00 (2286.0)      36.00 (914.4)                             RPC3690           DPC3690
+RP01400001E                                For more information visit: www.eatonelectrical.com
+Renewal Parts                                         Current Cutler-Hammer
+Page 34                   Effective: February 2009    Panelboards
+PRL5P Parts Section                        Page       Ordering Procedure                                   Step 2 Refer to the 5P panelboard
+                                                                                                                  layout on Page 35 to verify the
+PRL5P Chassis Layout . . . . . . . 35                                                                             amount of “X” space available.
+                                                      Step 1 Select the correct part
+PRL5P Breaker Adapter Unit                                   or Branch Device. When
+ Catalog Numbers . . . . . . . . . . 36                                                                    Step 3 Create a 5P breaker unit
+                                                             selecting, you need to know
+                                                                                                                  catalog number, by following
+PRL5P Branch Breaker                                         the following:
+                                                                                                                  the instructions on Page 36, or
+ Information . . . . . . . . . . . . . . . 37                ■ Panelboard type.                                   order the catalog number for
+PRL5P Main or                                                ■ Amperage.                                          parts on Pages 38 through 40.
+ Through-Feed Lugs . . . . . . . . 38                        ■ System voltage.
+                                                                                                           Step 4 Determine if extra filler covers
+PRL5P Neutrals and Grounds . . 39                            ■ Available short circuit rating.                    are required. Additional filler
+PRL5P Boxes, Trims and                                       ■ Number of poles available.                         covers may be necessary to
+ Filler Plates . . . . . . . . . . . . . . . 40              ■ Size and number of wires                           fill the unused space. Refer
+                                                                per phase.                                        to Page 40 for filler plate
+                                                             ■ “X” space required.                                information.
+                                                     For more information visit: www.eatonelectrical.com                                RP01400001E
+                                                                     Current Cutler-Hammer                                                              Renewal Parts
+                                                                     Panelboards                                         Effective: February 2009                                  Page 35
+PRL5P Chassis Layout
+                               Double-Bus Interior Mounted in                                                                   Single-Bus Interior in
+                             48-inch (1219.2 mm) Wide Enclosure                                                          30-inch (762.0 mm) Wide Enclosure
+                                  48                                                                                          30
+                               (1219.2)             10                                                                      (762.0)           10
+                                                  (254.0)                                                                                   (254.0)
+                                  Neutral — No “X” Space Required                                                          Neutral — No “X” Space Required
+                                            Top or Bottom                                        ➃                                   Top or Bottom
+                              2-Pole                               2-Pole                                                                2-Pole
+          2X                                                                                     2X                                                                         2X
+               EHD, FD, FDB, HFD, FDC, ED, EDH, EDC EHD, FD, FDB, HFD, FDC, ED, EDH, EDC                                  EHD, ED, EDH, EDC, FD, FDB, HFD, FDC
+                              3-Pole                               3-Pole                                                        2-Pole                  2-Pole
+                                                                                                                         EHD, FD, FDB, HFD, FDC, EHD, FD, FDB, HFD, FDC,    2X
+          3X      EHD, FD, FDB, HFD, FDC,              EHD, FD, FDB, HFD, FDC,                   3X                          ED, EDC, EDH            ED, EDC, EDH
+                         ED, EDH, EDC                         ED, EDH, EDC                                                       3-Pole                  3-Pole
+                     2-Pole             2-Pole                                                                             FDB, ED, HFD, FDC,      FDB, ED, HFD, FDC,       3X
+          2X   EHD, FD, FDB, HFD, EHD, FD, FDB, HFD,             Blank Wireway➂                  2X                          EHD, EDC, FD            EHD, EDC, FD
+               FDC, ED, EDH, EDC FDC, ED, EDH, EDC
+                                                               2-Pole             2-Pole
+          2X            Blank Wireway➂                   EHD, FD, FDB, HFD, EHD, FD, FDB, HFD,   2X                                       3-Pole
+                                                         FDC, ED, EDH, EDC FDC, ED, EDH, EDC                                     EHD, FD, FDB, HFD, FDC,                    3X
+                     3-Pole              3-Pole                                                                                       ED, EDH, EDC
+          3X   FDB, EDH, HFD, FDC, FDB, EDH, HFD, FDC,           Blank Wireway➂                  3X
+                ED, EHD, EDC, FD ED, EHD, EDC, FD                                                                                        2 or 3-Pole
+                                                                                                                                        JD, HJD, JDC                        3X
+                                                                   2- or 3-Pole
+          4X                 Filler Plate                                                        4X                                      Bus Cover➁                        1X-6X
+                                                                DK, KD, HKD, KDB
+                                                                                                                                        2- or 3-Pole➀
+                           2- or 3-Pole                                                                                               DK, KD, HKD, KDB                      4X
+          3X              JD, HJD, JDC                                                                                                 Main or Branch
+                                                                    2- or 3-Pole
+                                                                   HLD, LDC, LD                  6X
+          3X                 Filler Plate
+                                                                                                                                        2- or 3-Pole➀
+                                                                                                                                       LD, HLD, LDC                         6X
+                                                                                                                                       Main or Branch
+                                             800A MDL, HMDL➀
+          6X                                   Main or Branch                                    6X
+                                                                                                                                      800A MDL, HMDL➀
+                                                                                                                                          Main Only                         6X
+          6X                                800A ND, HND, NDC➀                                   6X
+                                               Main or Branch
+                                                                                                                                  400A, 600A and 800A
+                                                                                                                               Main Lug or Branch Lug➀
+                                                                                                                           400A, (1) 750 kcmil or (2) 300 kcmil             8X
+                                                                                                                                   600A, (2) 750 kcmil
+                                          1200A ND, HND, NDC➀                                                                       800 (3) 600 kcmil
+          6X                                                                                     6X
+                                             Main or Branch
+                                                                                                               7                                            10
+                                                                                                            (177.8)                           10          (254.0)
+                                     Main Lug or Branch Lug Unit                                                                            (254.0)
+                                          600A, (2) 600 kcmil
+          7X                              800A, (3) 800 kcmil                                    7X
+                                         1200A, (4) 750 kcmil
+                     10                                                                                 10
+                   (254.0)                          10                                                (254.0)
+                                                  (254.0)
+Figure 3. PRL5P Chassis Layout — Dimensions in Inches (mm)
+ If used as a main device, must be mounted at the neutral end of panel.
+ Fixed bus covers are required for unused spaces if NEC six circuit disconnect rule is to be met.
+ Blank wireway fillers are required opposite any dual breaker unit.
+ One “X” = 1.38 inches (35.1 mm).
+RP01400001E                                                        For more information visit: www.eatonelectrical.com
+Renewal Parts                                      Current Cutler-Hammer
+Page 36              Effective: February 2009      Panelboards
+PRL5P Breaker Assemblies Catalog Numbers
+Table 42. Catalog Numbering System — 5P Single or Twin Breakers with Adapters
+                            5P FD 3 0060 M S B
+     Panelboard                                                             Connection
+                      Breaker                              Mounting       B = Branch
+                                          Ampere           T = Twin       C = Combination
+                        Phasing           Rating           S = Single     M = Main
+                    2 = AB
+                    3 = ABC
+                    4 = ABL or BCR              Trip Unit
+                    5 = BCL or ABR
+                                         E = Electronic
+                                         G = Ground Fault
+                                         M = Thermal Magnetic
+A plug-on unit is a complete assembly              Single indicates units that may be
+with a circuit breaker and mounting                mounted in a single or double bus
+adapter to mount on a 5P panelboard.               panel, and twin indicates double
+                                                   bus panels only. See Tables 44 and 45
+                                                   on Page 37.
+Table 43. Catalog Numbering System — 5P Dual Breakers with Adapters
+                          5P 3 EDH 200 FDB 060
+     Panelboard                                                                Amperes
+                         Phasing                Amperes         Breaker
+                                                                 Frame
+                     2 = AB
+                     3 = ABC               Breaker
+                     4 = ABL or BCR         Frame
+                     5 = BCL or ABR
+Any two F-Frame breakers listed may                Dual breaker adapters may be
+be mounted on the same 2X or 3X                    used in single or double bus panels.
+dual breaker adapter.                              Dual breaker adapters can NOT be
+                                                   mounted across from another adapter
+                                                   in a double bus panel. See Table 46
+                                                   on Page 37.
+                                                For more information visit: www.eatonelectrical.com   RP01400001E
+                                                       Current Cutler-Hammer                                                         Renewal Parts
+                                                       Panelboards                                            Effective: February 2009              Page 37
+Branch Devices
+Single-pole breakers in single adapter units. Include two                        Dual breaker adapters — Any two breakers listed in Table 46
+or three single-pole 15 – 60 ampere assembled on one unit.                       may be mounted on the same 2X or 3X dual breaker adapter.
+(One X = 1.38 inches [35.1 mm])
+                                                                                 Dual breaker adapters may be used in single or double
+Table 44. Single-Pole Breakers in Single Adapter Units                           bus chassis. Dual breaker adapters can NOT be mounted
+                                                                                 across from another in a double bus chassis. (One X = 1.38
+Breaker   Ampere       Interrupting Rating (kA Sym.)           “X” Space
+Type      Rating
+                                                                                 inches [35.1 mm])
+                       120 Vac 240 Vac     277 Vac     125 Vdc Required
+EHD       15 – 60      —         —         14          10      2X                Table 46. Dual Breaker Adapters
+FD        15 – 60      —         —         25          10      2X                 Breaker   Ampere         Interrupting Rating (kA Sym.)   “X” Space
+HFD       15 – 60      —         —         65          10      2X                 Type      Rating         240 Vac 480 Vac 600 Vac 250 Vdc Required
+EHD       15 – 60      —         —         14          10      3X
+FD        15 – 60      —         —         25          10      3X                 ED        100 – 225       65      —         —          —     3X
+HFD       15 – 60      —         —         65          10      3X                 EDH       100 – 225      100      —         —          —     3X
+                                                                                  EDC       100 – 225      200      —         —          —     3X
+Table 45. 2- and 3-Pole Breakers in Single Adapter Units                          EHD        15 – 60        18       14       —          10    3X
+                                                                                  EHD        70 – 100       18       14       —          10    3X
+Breaker       Ampere       Interrupting Rating (kA Sym.)   “X” Space              FD         15 – 60        65       25       18         10    3X
+Type          Rating       240 Vac 480 Vac 600 Vac 250 Vdc Required               FD         70 – 100       65       25       18         10    3X
+                                                                                  FD        110 – 225       65       25       18         10    3X
+ED            100 – 225     65       —       —          —       3X                HFD        15 – 60       100       65       25         22    3X
+EDH           100 – 225    100       —       —          —       3X                HFD        70 – 100      100       65       25         22    3X
+EDC           100 – 225    200       —       —          —       3X                HFD       110 – 225      100       65       25         22    3X
+EHD            15 – 60      18        14     —          10      3X                FDC        15 – 60       200      100       35         22    3X
+EHD            70 – 100     18        14     —          10      3X                FDC        70 – 100      200      100       35         22    3X
+FD             15 – 60      65        25     18         10      3X                FDC       110 – 225      200      100       35         22    3X
+FD             70 – 100     65        25     18         10      3X
+FD            110 – 225     65        25     18         10      3X
+HFD            15 – 60     100        65     25         22      3X
+HFD            70 – 100    100        65     25         22      3X
+HFD           110 – 225    100        65     25         22      3X
+FDC            15 – 60     200       100     35         22      3X
+FDC            70 – 100    200       100     35         22      3X
+FDC           110 – 225    200       100     35         22      3X
+JD, JDB        70 – 225     65        35     18         10      3X
+JD, JDB       250           65        35     18         10      3X
+HJD            70 – 225    100        65     25         22      3X
+HJD           250          100        65     25         22      3X
+JDC            70 – 225    200       100     35         22      3X
+JDC           250          200       100     35         22      3X
+DK            100 – 400     65       —       —          —       4X
+KD, KDB       250 – 400     65        35     25         10      4X
+HKD           250 – 400    100        65     35         22      4X
+KDC           250 – 400    200       100     50         22      4X
+LD, LDB       300 – 600     65        35     25         22      6X
+HLD         300 – 600    100        65     35         25      6X
+LDC           300 – 600    200       100     50         25      6X                       5PFD30060MSB                              5P3EDH200FDB060
+MDL   400 – 800           65        50     25         22      6X
+HMDL  400 – 800          100        65     35         25      6X
+ND            400 – 1200 65           50     25         —       6X
+HND         400 – 1200 100          65     35         —       6X
+NDC           400 – 1200 200         100     50         —       6X
+ For use only in double bus chassis panelboards.
+ 100% rated breakers are NOT available in 5P panelboards.
+RP01400001E                                          For more information visit: www.eatonelectrical.com
+Renewal Parts                                       Current Cutler-Hammer
+Page 38                Effective: February 2009     Panelboards
+PRL5P Main or Through-Feed Lugs
+Table 47. PRL5P Main or Through-Feed Lugs
+Description             Ampere      Wire Size                           “X” Space   Catalog
+                        Rating      Range                               Required    Number
+Single Bus Chassis Mounting
+Ampere Lug Unit         400         (1) 1/0 – 500 or (2) 1/0 – 250 kcmil 8X         5PLUG3400SC
+Ampere Lug Unit         600         (2) 1/0 – 500 kcmil                  8X         5PLUG3600SC
+Ampere Lug Unit         800         (2) #2 – 500 or (3) #2 – 400 kcmil 8X           5PLUG3800SC
+Double Bus Chassis Mounting
+1200 Ampere Lug Unit 600 – 1200 (4) #4 – 750 kcmil                      7X          5PLUG31200TC
+                                                                                                        5PLUG3800SC
+                                                                                                        5PLUG31200TC
+                                                  For more information visit: www.eatonelectrical.com                  RP01400001E
+                              Current Cutler-Hammer                                                      Renewal Parts
+                              Panelboards                                          Effective: February 2009              Page 39
+PRL5P Neutrals and Grounds    Table 48. Neutral Assemblies with Lugs
+                               Incoming Number of Cables                                                  Catalog
+                               and Wire Size                                                              Number
+Neutral Assembly
+                               (4) 250 – 500 kcmil 800 Amperes Aluminum/Copper                            5PN800A
+                               (4) 250 – 500 kcmil 800 Amperes Copper                                     5PN800C
+                               (4) 250 – 500 kcmil 1200 Amperes Aluminum/Copper                           5PN1200A
+                               (4) 250 – 500 kcmil 1200 Amperes Copper                                    5PN1200C
+                              Table 49. Additional Lugs for Neutral Assemblies
+                               Description                                                                Catalog
+                                                                                                          Number
+                               (1) 1/0 – 750 kcmil or (2) 1/0 – 300 kcmil Aluminum/Copper                 5PNL400
+                               (2) 250 – 500 kcmil Aluminum/Copper                                        5PNL600
+                               (3) 3/0 – 750 kcmil Aluminum/Copper                                        5PNL800
+                               (4) 3/0 – 750 kcmil Aluminum/Copper                                        5PNL1200
+                              Ground Bar Type
+                               1200 Amperes Aluminum/Copper                                               5PG1200A
+              5PN800A          1200 Amperes Copper                                                        5PG1200C
+Ground Bar Assemblies         Table 50. Grounded “B” Phase Adapter Kits
+                               Ampere                    Main                                             Catalog
+                               Rating                    Device                                           Number
+                              Single Bus Chassis
+                                400                      Main Lugs                                        5PCGBLUG400S
+                                600                      Main Lugs                                        5PCGBLUG600S
+                                600                      LD Breaker                                       5PCGBLD600S
+                                800                      Main Lugs                                        5PCGBLUG800S
+                              Double Bus Chassis
+                                800                      MD Breaker                                       5PCGBMD800T
+                               1200                      Main Lugs                                        5PCGBLUG1200T
+                               1200                      ND Breaker                                       5PCGBND1200T
+              5PG1200A
+RP01400001E                  For more information visit: www.eatonelectrical.com
+Renewal Parts                                          Current Cutler-Hammer
+Page 40                 Effective: February 2009       Panelboards
+PRL5P Box, Trim and Deadfront Filler Plates
+Table 51. PRL5P Box, Trim and Deadfront Filler Plates
+Chassis                   Catalog Number
+“X” Factor                Back Box                    Trim                     Trim Door Kit
+Single Bus Chassis — 30.00-Inch (762.0 mm) Wide Box
+24X                       5PB2430G                    5PT2430S                 5PD24S
+32X                       5PB3230G                    5PT3230S                 5PD32S
+40X                       5PB4030G                    5PT4030S                 5PD40S
+Double Bus Chassis — 48.00-Inch (1219.2 mm) Wide Box
+24X                       5PB2448G                    5PT2448S                 5PD24T
+32X                       5PB3248G                    5PT3248S                 5PD32T
+40X                       5PB4048G                    5PT4048S                 5PD40T
+Table 52. Deadfront Filler Plates
+Vertical “X”              Catalog Number
+Increment                 Single Bus Chassis                     Double Bus Chassis
+1X                        5PFP1S                                  5PFP1T
+2X                        5PFP2S                                  5PFP2T
+3X                        5PFP3S                                  5PFP3T
+4X                        5PFP4S                                  5PFP4T
+5X                        5PFP5S                                  5PFP5T
+6X                        5PFP6S                                  5PFP6T
+ These fillers are also used across from a breaker unit in a double bus chassis.
+             5PT2430S                         5PD24S                                   5PFP3S               5PFP3T
+                                                      For more information visit: www.eatonelectrical.com            RP01400001E
+                       Current Cutler-Hammer                                                       Renewal Parts
+                       Panelboards                                           Effective: February 2009              Page 41
+PRL1a, 2a-LX           Table 53. Type 1 Box and Trims
+                        Box Height                 Catalog Number
+                        in Inches (mm)             Box                      Surface Trim            Surface Trim
+                                                                            Standard                Door-In-Door
+                       Incoming Location Top Fed
+Box            Trim     69.00 (1752.6)             YSC969                   LTC969S                 LTCD969S
+                        78.00 (1981.2)             YSC978                   LTC978S                 LTCD978S
+                        81.00 (2057.4)             YSC981                   LTC981S                 LTCD981S
+                        90.00 (2286.0)             YSC990                   LTC990S                 LTCD990S
+                       Incoming Location Bottom Fed
+                        69.00 (1752.6)             YSC969                   LTC969SB                LTCD969SB
+                        78.00 (1981.2)             YSC978                   LTC978SB                LTCD978SB
+                        81.00 (2057.4)             YSC981                   LTC981SB                LTCD981SB
+                        90.00 (2286.0)             YSC990                   LTC990SB                LTCD990SB
+RP01400001E           For more information visit: www.eatonelectrical.com
+Renewal Parts                                   Current Cutler-Hammer
+Page 42             Effective: February 2009    Panelboards
+Pow-R-Command                                                                                        Additional Services
+For replacement parts, see PRL3a                                                                     Since virtually all panelboards are
+Section, Page 21. Parts available are                                                                supplied to meet specific customer
+the following:                                                                                       requirements, other parts not listed in
+                                                                                                     this publication might occasionally be
+■ Connector kits.
+                                                                                                     needed. Price and availability for parts
+■ Ground assemblies.                                                                                 not shown here may be obtained by
+■ Service entrance kits.                                                                             contacting your local Satellite plant
+■ Deadfront covers.                                                                                  and providing a complete description
+                                                                                                     of the part along with the data on the
+■ Trim locks.
+                                                                                                     panelboard nameplate.
+                                                                                                     Should you experience difficulty in
+                                                                                                     determining what replacement parts
+                                                                                                     are needed, contact your local Satellite
+                                                                                                     Plant Manager who can provide help to:
+                                                                                                     ■ Identify and recommend
+                                                                                                       replacement parts.
+                                                                                                     ■ Remove damaged parts and
+                                                                                                       instruct you in how to install
+                                                                                                       replacement parts.
+                                                                                                     ■ Verify the correct connector kits
+                                                                                                       which should be ordered for each
+                                                                                                       circuit breaker or fusible switch.
+                                                              Pow-R-Command                          ■ Retrofit existing panelboard boxes
+                                                                                                       with new Pow-R-Line interiors.
+                                                                                                     ■ Provide a recommended spare
+                                                                                                       parts list.
+                                                                                                     National Electrical Code and NEC are
+                                                                                                     registered trademarks of the National
+                                                                                                     Fire Protection Association, Quincy,
+                                                                                                     Mass. NEMA is the registered trade-
+                                                                                                     mark and service mark of the National
+                                                                                                     Electrical Manufacturers Association.
+                                                                                                     UL is a federally registered trademark
+                                                                                                     of Underwriters Laboratories Inc.
+                                               For more information visit: www.eatonelectrical.com                                RP01400001E
+               Current Cutler-Hammer                                                      Renewal Parts
+               Panelboards                                          Effective: February 2009       Page 43
+                 This page intentionally left blank.
+RP01400001E   For more information visit: www.eatonelectrical.com
+Renewal Parts                                   Current Cutler-Hammer
+Page 44              Effective: February 2009   Panelboards
+Eaton Electrical
+1000 Cherrington Parkway
+Moon Township, PA 15108-4312
+USA
+tel: 1-800-525-2000
+www.eatonelectrical.com
+                                                                        © 2009 Eaton Corporation
+                                                                        All Rights Reserved
+                                                                        Printed in USA
+                                                                        Publication No. RP01400001E/Z8339
+                                                                        February 2009

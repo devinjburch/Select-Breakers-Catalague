@@ -1,0 +1,116 @@
+                                                                                            Communication Systems
+                                                                                                                  Product Description
+                                                                                                                                                                     11
+Eaton’s Electrical                              monitoring of the plant with               twisted shielded pair running               speed, flexible, low-cost
+Services & Systems                              industry experts in energy and             throughout a facility.                      network that is not vendor                   1
+                                                power quality are all services             Telephone, radio and fiber                  dependent. The PowerNet
+                                                provided by our local field                modems can be used to                       network uses a standard
+                                                representatives. These                     create networks where it                    TCP/IP Ethernet as the high                  2
+                                                services will ensure that you              is cost prohibitive to run                  speed backbone for carrying
+                                                get maximum return on all of               dedicated cables. The most                  information to clients across
+                                                your system investments.                   flexible, highest performance               the plant or across the world.               3
+                                                                                           network architecture includes
+                                                Note: PowerNet systems do
+                                                not consist of exclusively Cutler-
+                                                                                           a dedicated twisted shielded
+                                                                                           pair network within the
+                                                                                                                                       Dedicated Twisted
+                                                                                                                                       Shielded Pair                                4
+                                                Hammer® (Eaton) products.
+                                                Hundreds of drivers exist to               switchboard or equipment                    Customers who desire to run
+                                                communicate with many third-               room connecting into a high                 a dedicated network for the                  5
+         PowerNet Software                      party meters, protective relays            speed Ethernet backbone.                    power monitoring network
+Supplementing the hardware                      and PLCs.                                  For a layout of a typical facility          have a choice between a
+and software, Eaton’s                                                                      network, refer to the 15th                  dedicated Ethernet network                   6
+Electrical Services & Systems                   Flexible Network                           Edition of the Consulting                   or running a twisted shielded
+can provide local startup
+and integration services to
+                                                Architecture
+                                                A PowerNet network
+                                                                                           Application Guide.                          pair. A network of 1000
+                                                                                                                                       devices running up to
+                                                                                                                                                                                    7
+customize the PowerNet                                                                     Ethernet Backbone                           10,000 feet can be
+                                                can be built in a variety of
+system to your specific
+business needs. Basic
+                                                configurations. Systems can                TCP/IP Ethernet networks
+                                                                                           have become the worldwide
+                                                                                                                                       networked through one
+                                                                                                                                       twisted shielded pair of wire.
+                                                                                                                                                                                    8
+                                                be built using existing Ethernet
+field startup, integration of                   networks as the backbone,                  standard for moving
+PowerNet into other plant                       as well as on a dedicated                  information. Industry has                                                                9
+systems, and remote                                                                        recognized Ethernet as a high
+
+                                                                                                                                                                                    10
+Eaton PowerNet System
+
+                                                                                                                                                                                    11
+                                                                                                                                          ■ Power quality
+                                                                                                                                          ■ Metering data
+
+                                                                                                                                                                                    12
+                             Load Interrupter                                             Medium Voltage                Medium Voltage    ■ Energy information
+                             Switchgear                                                   Unit Substation               Starter           ■ Switch/breaker starter status/control
+                                                                                                                                          ■ Time stamped events
+                                                                                                                                          ■ Breaker operations
+                                                               Transformer                                                                ■ Motor runtime
+                                                                                                                                          ■ Motor winding/bearing temperature
+                                                                                                                                          ■ Trip curve monitoring/configuration
+                                                                                                                                          ■ Transformer data
+                                                                                                                                                                                    13
+ Personal Computer
+     with Eaton
+
+                                                                                                                                                                                    14
+ PowerNet Software
+
+
+
+                                                                                                                                          ■ Power quality
+
+                                                                                                                                                                                    15
+                                                                                                                                          ■ Metering data
+                             Load Interrupter                                             Low Voltage                                     ■ Energy information
+                             Switchgear                                                   Secondary Unit                                  ■ Starter/breaker status/control
+                                                                                          Substation                                      ■ Time stamped events
+                                                                                                                                          ■ Breaker operations
+
+                                                                                                                                                                                    16
+                                                               Transformer                                                                ■ Trip curve monitoring/configuration
+
+
+
+
+                                                                                                                                          ■ Power quality
+                                                                                                                                          ■ Metering data
+                                                                                                                                                                                    17
+                                                                                                                                          ■ Energy information
+                                                                                                                                          ■ Starter/breaker status/control
+
+                                                 Low Voltage
+                                                 Switchboard
+                                                                             Lighting
+                                                                             Control
+                                                                                                       Motor
+                                                                                                       Control
+                                                                                                                          Adjustable
+                                                                                                                          Frequency
+                                                                                                                                          ■ Time stamped events
+                                                                                                                                          ■ Breaker operations
+                                                                                                                                          ■ Motor operations runtime
+                                                                                                                                                                                    18
+                                                                             Panelboard                Center             Control         ■ Trip curve monitoring/configuration
+                                                                                                                                          ■ Drive status
+                                                                                                                                          ■ Drive metering data
+                                                                                                                                          ■ Drive speed adjustment/control          19
+                                                                                                                                                                                    20
+                                                                                                                                                                                    21
+                                                                                                                                                                                    22
+                                                                                                                                                                                    23
+                                                                                                                                                                                    24
+                                                                                                                                                                                    25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                        V12-T11-3
+

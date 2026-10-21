@@ -1,0 +1,100 @@
+     17                           Switchgear
+                                  DHP Medium Voltage Metal-Clad—Assemblies and Power Circuit Breakers
+
+
+
+     DHP Switchgear                        DHP air magnetic breakers           Replacement Capabilities             SURE CLOSE
+1    Assemblies and Power                  were subject to three major                                              All VR Series breakers that
+                                           design changes that were                                                 are furnished with MOC
+     Circuit Breakers                      phased in during their                                                   operators incorporate
+2                                          manufacturing life. The first                                            Eaton exclusive SURE
+                                           DHP breakers were furnished                                              CLOSE MOC technology.
+                                           with solenoid operated
+3                                          mechanisms with cast parts
+                                                                                                                    See additional information
+                                                                                                                    on Page V12-T17-62.
+                                           and monolithic pole units.
+4                                          From 1964 to 1968, the stored
+                                           energy spring mechanism
+                                                                                                                    Class 1 Reconditioned DHP
+                                                                                                                    Breakers and Repair Service
+                                           gradually phased out the                                                 Class 1 Reconditioning of
+5                                          solenoid operator. After 1968,                                           DHP breakers and repair
+                                           cast mechanisms were                                                     service for DHP breakers
+                                           phased out by fabricated                                                 are available.
+6                                          mechanisms. After 1970,
+                                           monolithic pole units were                                               Renewal Parts
+                                                                                                                    Eaton offers an inventory of
+7                                          phased out by the post-
+                                           insulator pole unit (PIP) design.                                        newly manufactured renewal
+                                                                                                                    parts for most DHP switchgear
+                                           DVP vacuum breakers were
+8                                          introduced in 1978. DVP
+                                                                                                                    structures and breakers.
+
+        Type DHP Drawout Air Magnetic      breakers were first generation                                           Effective 12/17/2002, DHP
+                                                                                                                    match and lineup cubicles,
+9            Power Circuit Breaker
+      (Front Interphase Barrier Removed)
+                                           vacuum breakers that were
+                                           interchangeable in DHP                DHP-VR VR-Series Circuit Breaker   DHP air magnetic breakers
+     Product Description                   switchgear with DHP air             Eaton offers the following to        and arc chutes will no longer
+10   Westinghouse DHP medium               magnetic breakers of the            support DHP switchgear.              be available.
+     voltage porcel-line metal-clad        same ratings.                                                            Fluidized Switchgear Bus
+                                                                               DHP-VR Vacuum
+     switchgear with type DHP
+11   air magnetic power circuit
+                                           Ratings                             Replacement Breakers                 Eaton offers new fluidized
+                                                                                                                    epoxy bus—insulated bus to
+                                           ● DHP breakers:                     The DHP-VR is a brand new
+     breakers was introduced in                                                                                     replace existing switchgear
+                                                5 kV (75, 250 and              vacuum replacement breaker
+12   1963. DHP breakers and                  ●
+
+                                                350 MVA)                       (VR-Series) for DHP air              phase bus insulation.
+     switchgear were similar to,                                                                                    See Page V12-T17-59.
+                                                                               magnetic and DVP vacuum
+     but not interchangeable with,           ●  7.5 kV (500 MVA)
+                                                                               breakers. The DHP-VR breaker
+13   the older DH product. DHP               ●  15 kV (500, 750 and            permits DHP switchgear
+     was provided with porcelain                1000 MVA)                      modernization by using state-
+     insulation on all live parts to
+14   ground in the switchgear
+                                           ● DVP breakers:
+                                             ●  7.5 kV (500 MVA)
+                                                                               of-the-art Cutler-Hammer
+                                                                               VCP-W vacuum breaker
+     and on the breaker element.
+                                                15 kV (500 and                 technology. The DHP-VR is
+     DHP switchgear was
+15
+                                             ●
+
+                                                750 MVA)                       designed, manufactured
+     available in indoor and in
+                                                                               and tested to applicable
+     sheltered aisle and aisle-less
+                                           Chronology                          IEEE/ANSI standards.
+16   outdoor enclosures.
+                                           DHP switchgear was                  Ratings are available to
+                                           introduced in 1963 and              replace: 5 kV through
+17                                         was actively manufactured
+                                           by Westinghouse in complete
+                                                                               15 kV, 50DHP75 through
+                                                                               150DHP1000, 1200–3000A.
+                                           switchgear assemblies
+18                                         until 1984.                         Additional VR-Series
+                                                                               breakers are available to
+                                                                               upgrade competitors’ air
+19                                                                             magnetic breakers. See
+                                                                               Pages V12-T17-60 and
+20                                                                             V12-T17-61.
+
+
+21
+22
+23
+24
+25
+     V12-T17-56           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

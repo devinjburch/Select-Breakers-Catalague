@@ -1,0 +1,117 @@
+     9                               Busway (Low Voltage)
+                                     Replacement Capabilities—Standard and Low Impedance
+
+
+
+     Standard and Low Impedance                                                             Circuit Breaker Selection and Interrupting Ratings
+1    Originally a Westinghouse Product                                                      Breaker             Ampere                Symmetrical Amperes
+     Circuit Breaker Plug-In Units                                                          Frame               Rating                240 Vac           480 Vac           600 Vac
+2                                                  The enclosure, circuit                   EHD                 15–60                 18,000            14,000            —
+                                                   breaker, neutral and                                         70–100                18,000            14,000            —
+                                                   ground are ordered and
+3                                                  shipped assembled.                       FDB                 15–60                 18,000            14,000            14,000
+                                                                                                                70–100                18,000            14,000            14,000
+                                                   Note: Breaker and fusible
+4                                                  plugs must be ordered as                                     110–150               18,000            14,000            14,000
+                                                   assembled units. See V12-T9-10           FD                  15–60                 65,000            25,000            18,000
+                                                   for instructions on how to build
+5                                                  the assembled catalog numbers.                               70–100                65,000            25,000            18,000
+                                                                                                                110–150               65,000            25,000            18,000
+                                                   Note: For units mounting at the
+6
+      Circuit Breaker Plug-In Unit (Closed)
+                                                   joint and feeder type ducts, see         HFD                 15–60                 100,000           65,000            25,000
+                                                   bolt-on units—standard plug-in,                              70–100                100,000           65,000            25,000
+                                                   low impedance and H5000.
+7                                                                                                               110–150               100,000           65,000            25,000
+                                                                                            FDC                 15–60                 200,000           100,000           50,000
+
+8                                                                                                               70–100
+                                                                                                                110–150
+                                                                                                                                      200,000
+                                                                                                                                      200,000
+                                                                                                                                                        100,000
+                                                                                                                                                        100,000
+                                                                                                                                                                          50,000
+                                                                                                                                                                          50,000
+
+9
+                                                                                            JDB                 70–225                65,000            25,000            18,000
+                                                                                                                250                   65,000            25,000            18,000
+       Circuit Breaker Plug-In Unit (Open)                                                  JD                  70–225                65,000            25,000            18,000
+10                                                                                                              250                   65,000            25,000            18,000
+                                                                                            HJD                 70–225                100,000           65,000            25,000
+11   Catalog Numbers
+                               Neutral (If Required) 1                    Ground                                250                   100,000           65,000            25,000
+                    Enclosure                                             (If Required) 2   JDC                 70–225                200,000           100,000           50,000
+12   Breaker
+     Frame
+                    Catalog
+                    Number
+                              Standard Plug-In
+                              Catalog Number
+                                                     Low Impedance
+                                                     Catalog Number
+                                                                          Catalog
+                                                                          Number                                250                   200,000           100,000           50,000
+
+     EHD, FDB,      BPFD 3     N110 (15–110A) 3    ZN110 (15–110A) 3      GS104 3           KDB                 250–400               65,000            35,000            25,000
+13   FD, HFD, FDC              N250KB (125–150A) 3 ZN250KB (125–150A)                       KD                  250–400               65,000            35,000            25,000
+     (15–150A)
+                                                                                            HKD                 250–400               100,000           65,000            35,000
+14   JDB, JD, HJD, BPJD 3
+     JDC (70–250A)
+                               N250KB (125–250A) 3 ZN250KB (125–250A) 3 GS104 3
+                                                                                            KDC                 250–400               200,000           100,000           50,000
+
+     KDB, KD,       BPKD       N400 (250–400A) 3     ZN400 (250–400A) 3   GS104 3           LDB                 300–600               65,000            45,000            25,000
+
+15   HKD, KDC
+     (125–400A)
+                                                                                            LD                  300–600               65,000            45,000            25,000
+                                                                                            HLD                 300–600               100,000           65,000            35,000
+     LDB, LD,       BPLD       4                     4                    4
+
+16   HLD, LDC
+     (300–600A)
+                                                                                            LDC                 300–600               200,000           100,000           50,000
+                                                                                            MDL                 400–800               65,000            50,000            25,000
+
+17
+     MC, HMC        BPMD       N/A                   4                    4
+                                                                                            HMDL                400–800               100,000           65,000            35,000
+     (500–800A)
+                               4                     4                    4
+                                                                                            NP                  400–1200              65,000            50,000            25,000
+     NC, HNC        BPND
+18   (900–1200A)                                                                            HND                 400–1200              100,000           65,000            35,000
+     FB (TRI-PAC®) BPFBP       N110 (15–100A) 3      ZN110 (15–100A)      GS104 3           FB (TRI-PAC)        15–100                200,000           200,000           200,000
+     (15–100A)
+19   LA (TRI-PAC)   BPLAP 5    N400 (125–400A) 3     ZN400 (125–400A) 3   GS104 3
+                                                                                            LA (TRI-PAC)        70–400
+                                                                                                                70–400
+                                                                                                                                      200,000
+                                                                                                                                      200,000
+                                                                                                                                                        200,000
+                                                                                                                                                        200,000
+                                                                                                                                                                          200,000
+                                                                                                                                                                          200,000
+     (125–400A)
+
+20                             4                     4                                      NB (TRI-PAC)        600–800               200,000           200,000           200,000
+     NB (TRI-PAC)   BPNBP                                                 GS104 3
+     (500–800A)                                                                                                 600–800               200,000           150,000           200,000
+
+21                                                                                          Notes
+                                                                                            1 Full neutral. For half neutral, contact your local Eaton Field Sales office.
+                                                                                            2 Not available for low impedance bus duct.
+
+22                                                                                          3 Normally available from stock.
+                                                                                            4 Contact your local Eaton Field Sales office for delivery. Order by description on suffix BUS.
+                                                                                            5 Obsolete; no longer available.
+
+23
+24
+25
+     V12-T9-8                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

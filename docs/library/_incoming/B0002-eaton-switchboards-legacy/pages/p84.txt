@@ -1,0 +1,70 @@
+                                                                      Molded-Case Circuit Breakers
+                                                                                              Replacement Capabilities
+                                                                                                                                                        3
+Cable Connectors                                                              Modifications                       Factory-Mounted Shunt Trips
+The fuse mounting base will accept the following terminals                    Only two internally mounted         Factory-mounted shunt trips               1
+for front cable connection (omit “T” connectors from rear                     modifications—shunt trip,           only can be supplied for the
+connected breakers).                                                          undervoltage release,               following breakers: CA, HCA,
+                                                                              auxiliary switch, alarm             CAH, HFB magnetic only                    2
+Cable Connectors                                                              switch—may be mounted               and PB/PBF non-automatic
+Wire Range, Type Number of Cables                      Style Number
+                                                                              in EB through PB. Only one
+                                                                              of these modifications may
+                                                                                                                  breakers (molded-case
+                                                                                                                  switches). They are 120 Vac
+                                                                                                                                                            3
+(3) 3/0–400 kcmil Cu                                   672B655G01             be mounted in FB, HFB               rated, suitable for 55% pickup
+(4) 400–500 kcmil Cu                                   180C046G03             magnetic only, two-pole EB,         for ground fault application.             4
+                                                                              EHB, FB and SELTRONIC               Right hand mounting is
+                                                                              breakers. None are available        standard and they are not
+Molded Type Handle Extension                                                  in single-pole breakers except      UL Listed.                                5
+                                                                              alarm switch in EB, EHB and
+                                                                                                                  Notes
+                                                                              HFB. Contact Avery Creek,
+For LAB, LA and HLA Breakers 1
+                                                                              NC, Technical Resource
+                                                                                                                  1 Not UL listed.
+                                                                                                                  2 Included with frame at no charge.
+                                                                                                                                                            6
+Style Number                                                                  Center for possible special
+372B399G01                                                                    combinations of the following
+                                                                              modifications not in
+                                                                                                                                                            7
+                                                                              tabulations. Contact factory
+For MA, HMA, MC, HMC, NB, HNB, NC and HNC Breakers 1
+                                                                              for pricing if accessories                                                    8
+Style Number                                                                  are factory installed.
+1251C65G01 2                                                                  Shunt Trip                                                                    9
+                                                                              For tripping breaker from
+For PB, PC, PCC and PA/RD Breakers 1                                          a remote point. A solenoid
+Style Number                                                                  device mounts within breaker                                                  10
+                                                                              case. Breaker trips when
+6635C78G02 2
+                                                                              coil is energized.
+                                                                                                                                                            11
+                                                                              Shunt trips should not be
+                                                                              used as circuit interlocks
+                                                                              using maintained contact                                                      12
+                                                                              pilot devices.
+                                                                              A cutoff switch breaks the                                                    13
+                                                                              circuit to the momentary rated
+                                                                              coil when the breaker opens.
+                                                                              Available for control voltages
+                                                                                                                                                            14
+                                                                              up to 250 Vdc or 600 Vac.
+                                                                              Voltage and frequency must                                                    15
+                                                                              be specified. Standard leads
+                                                                              extend 18.00 inches outside
+                                                                              the breaker. Longer leads may                                                 16
+                                                                              be specified.
+                                                                                                                                                            17
+                                                                                                                                                            18
+                                                                                                                                                            19
+                                                                                                                                                            20
+                                                                                                                                                            21
+                                                                                                                                                            22
+                                                                                                                                                            23
+                                                                                                                                                            24
+                                                                                                                                                            25
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                V12-T3-71
+

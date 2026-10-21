@@ -1,0 +1,76 @@
+                                                                                                            Busway (Low Voltage)
+                                           Replacement Capabilities—CP2, CP3 or CP4 SAFETYBUS Busway Plug-In Units
+                                                                                                                                                                                     9
+Originally a Cutler-Hammer Product
+Approximate Dimensions                                                                                                                                                                      1
+Required Mounting Clearances                                             Typical Side and Front
+                                                                                                                                                                                            2
+
+                                                                                                    C                                                   A
+                                                                                                                                                                                            3
+     E                                                                      Edge of      .34
+                                                                            Busway
+          44° Ref.
+                                                                                                                                      ON                                                    4
+                                                                                                                                                                                            5
+                                                                                                                   B
+
+                                                                                                                                      OFF                                                   6
+Plug-in
+Busway                                                                                                                                                                                      7
+                                               F                                                D                                                                                           8
+
+Plug-In Units—May be Used with Either CP2, CP3 or CP4 Plug-In Busway Sections—Fusible Switch Type                                                                                           9
+                     Maximum           Dimensions in Inches
+Frame
+or Type
+                     Ampere
+                     Rating            A            B            C              D       E               F
+                                                                                                                Conduit Sizes
+                                                                                                                Top, Bottom and Side
+                                                                                                                                               Wire Size Range
+                                                                                                                                               Al/Cu
+                                                                                                                                                                                            10
+CP4HD                30
+                     60
+                                       19.30
+                                       19.30
+                                                    11.50
+                                                    11.50
+                                                                 8.80
+                                                                 8.80
+                                                                                5.20
+                                                                                5.20
+                                                                                        7.00
+                                                                                        7.00
+                                                                                                        9.00
+                                                                                                        9.00
+                                                                                                                1/2, 3/4, 1, 1-1/4, 1-1/2, 2
+                                                                                                                1/2, 3/4, 1, 1-1/4, 1-1/2, 2
+                                                                                                                                               (1) #14–2
+                                                                                                                                               (1) #14–2
+                                                                                                                                                                                            11
+                                                                                                                                                                                            12
+                     100               19.30        11.50        8.80           5.20    7.00            9.00    1/2, 3/4, 1, 1-1/4, 1-1/2, 2   (1) #14–1/0
+CP4HD                200               23.00        16.50        9.20           6.00    7.50            13.30   1-1/2, 2, 2-1/2, 3             (1) #6–300 kcmil
+                     400 12            45.60        24.30        15.80          13.10   14.00           20.50   1-1/2, 2, 2-1/2, 3             (1) #1/0–300 kcmil or (1) 750 kcmil
+                     600 12            45.60        24.30        15.80          13.10   14.00           20.50   1-1/2, 2, 2-1/2, 3             (2) #2–600 kcmil
+                                                                                                                                                                                            13
+Notes
+1 Provided with busway bolt-on clip and straps for 0.50-inch hanger rods.                                                                                                                   14
+2 Unit extends 10.50 inches below busway.
+
+
+                                                                                                                                                                                            15
+                                                                                                                                                                                            16
+                                                                                                                                                                                            17
+                                                                                                                                                                                            18
+                                                                                                                                                                                            19
+                                                                                                                                                                                            20
+                                                                                                                                                                                            21
+                                                                                                                                                                                            22
+                                                                                                                                                                                            23
+                                                                                                                                                                                            24
+                                                                                                                                                                                            25
+                          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                              V12-T9-13
+

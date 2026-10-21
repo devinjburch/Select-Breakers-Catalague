@@ -1,0 +1,87 @@
+     13                              Motor Control
+                                     Adjustable Frequency AC Drives—Solid-State Low Voltage
+
+
+
+     Replacement Capabilities
+1
+     Replacement Capabilities                                                       Eaton’s Electrical Services &
+2    Model
+                                                      Recommended
+                                                      Replacement
+                                                                                    Systems (EESS) has trained
+                                                                                    technicians nationwide. See
+                                                                                    Tab 22 in this catalog for
+3    Dynamatic Adjustable Frequency Drives
+                                                                                    further information about
+     VLT-5                                            MVX9000                       EESS capabilities.
+     AF-1000                                          MVX9000
+4    AF-1500 1                                        MVX9000
+                                                                                    Technology Upgrades
+                                                                                    The SVX9000 improves upon
+     AF-1600                                          MVX9000
+                                                                                    the SV9000 with modular
+5    AF-2000                                          MVX9000                       construction and greater
+     AF-300 (Responder)                               SV/HV/CP9000                  program capability. Clean
+6    AF-3000                                          SV/HV/CP9000                  power, 18-pulse
+                                                                                    configurations are available to
+     AF-5000                                          SV/HV/CP9000
+                                                                                    meet IEEE-519 requirements
+7    AF-5000+ / IS-5000+                              SV/HV/CP9000                  for electro-magnetic
+     AF-6000                                          SV/HV/CP9000                  compliance. The HVX9000
+                                                                                    provides a simpler parameter
+8    AF-7000 / IS-7000
+     AF-8000
+                                                      SV/HV/CP9000
+                                                      AF91SV
+                                                                                    set geared toward the HVAC
+                                                                                    industry, and the HVX
+                                                                                    Intellipass provides automatic
+9
+     Westinghouse Adjustable Frequency Drives
+     Accutrol 100                                     MVX9000                       bypass with 24 Vdc control.
+                                                                                    Additionally, the MVX9000
+     Accutrol 110/Accuflow Jr. 1                      MVX9000
+10   Accutrol 150                                     SVX/HVX/CPX9000
+                                                                                    gives customers a compact,
+                                                                                    low-cost alternative to the
+     Accutrol 200/Accuflow                            SVX/HVX/CPX9000               full-featured drives of 10 hp
+11   Accutrol 300                                     SVX/HVX/CPX9000               or less. The same general
+                                                                                    controls are available, with the
+     Accutrol 400                                     SVX/HVX/CPX9000
+                                                                                    exception of closed-loop
+12   Accutrol 700                                     SVX/HVX/CPX9000               (encoder) control. The
+     Cutler-Hammer Drives                                                           MVX9000 boasts a PLC-like
+                                                                                    control in the form of a step
+13   AF91                                             MVX9000
+                                                                                    sequence program for
+     AV91                                             MVX9000
+                                                                                    repeated process applications.
+14   AF93
+     AF95
+                                                      SVX/HVX/CPX9000
+                                                      SVX/HVX/CPX9000
+                                                                                    These units combine digital
+                                                                                    microprocessor control, a
+                                                                                    user-friendly keypad, IGBT
+15
+     AF97                                             SVX/HVX/CPX9000
+                                                                                    technology, and a Windows®-
+     SV9000                                           SVX9000                       based programmer to provide
+     HV9000                                           HVX9000                       an adjustable frequency drive
+16   CP9000                                           CPX9000                       that can be customized to
+                                                                                    almost any application.
+17                                                                                  Note
+                                                                                    1 The AF-1500, Accutrol 110 and Accuflow
+
+                                                                                      Jr. are identical units.
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T13-74                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

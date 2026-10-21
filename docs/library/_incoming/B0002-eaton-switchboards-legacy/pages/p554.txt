@@ -1,0 +1,87 @@
+     20                           Automatic Transfer Switches
+
+
+
+     Automatic                             Product History Time Line
+1    Transfer Switches
+                                             Product (Catalog Prefix)   1960 1965 1970 1975 1980 1985 1990 1995 2000 2005 Present
+
+2                                            ATSRM/DTSRM
+                                             ATSRD/DTSRD
+3                                            ATSBI/DTSBI
+                                             ATSBM/DTSBM
+4                                            ATSBR
+                                             MTSRM/MTSRD
+5      Automatic Transfer Switch Family
+                                             MTSBM
+                                             MTSSM/MTSDM
+6    Product Description
+     Eaton’s Cutler-Hammer®
+                                             MBS
+                                             ATVE/ATHA
+     automatic transfer switches
+7    are reliable, rugged, versatile         BIHS
+     and compact assemblies for              ATVSSP
+     transferring essential loads
+8    and electrical distribution
+                                             ATVS/ATHS
+     systems from one power                  RTHE
+9    source to another.                      PPVA/PPHA
+     Product History                         ATVA/ATHA
+10   A transfer switch is a
+     critical component of any
+                                             ATVM/ATHM
+                                             NTVSSP
+     emergency or standby power
+11   system. When the normal                 PPV2/PPH2
+     (preferred) source of power is          NTVS/NTHS
+     lost, a transfer switch quickly
+12   and safely shifts the load
+                                             ATV2/ATH2
+     circuit from the normal                 ATV4/ATH4
+     source of power to the
+13   emergency (alternate) source
+                                             CBVI
+
+     of power. This permits critical         CTVIMG
+14   loads to continue running
+     with minimal or no outage.
+                                             NTVESP
+                                             ATVIMG
+     After the normal source of
+15   power has been restored, the            ATVISP/CTVISP
+     re-transfer process returns             BIVIMG
+     the load circuit to the normal
+16   power source.
+                                             BIVISP
+                                             BIHI
+     Eaton is one of the pioneering
+17   electrical manufacturers                PPV3/PPH3
+     and has been focused on                 PPVX/PPHX
+     providing reliable backup
+18   power systems with transfer
+                                             MBHE
+
+     switch equipment for over               NTVE/NTHE
+
+19   75 years. The automatic
+     transfer switches provide a
+                                             MTVX/MTHX
+                                             ATVI/ATHI
+     safe and reliable means to
+20   automatically start your                ATV3/ATH3
+     generator, and transfer loads           RTHM
+     to a standby power source
+21   when normal power is
+                                             RLCM
+     available. Eaton offers three
+     reliable and sophisticated
+22   transfer switch options for
+     you to choose from—
+23   contactor-based, molded-
+     case and circuit breaker
+     style switches.
+24
+25
+     V12-T20-2            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

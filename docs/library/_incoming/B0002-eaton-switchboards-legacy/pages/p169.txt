@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    RF2050                   1375D86G08        O          —                        —                      Reconditioned F2050       3, 10
+     RF2060                   1375D86G09        O          —                        —                      Reconditioned F2060       3, 10
+3    RF2070                   1375D86G10        O          —                        —                      Reconditioned F2070       3, 10
+     RF2080                   1375D86G11        O          —                        —                      Reconditioned F2080       3, 10
+
+4    RF2090                   1375D86G12        O          —                        —                      Reconditioned F2090       3, 10
+     RF2100                   1375D86G13        O          —                        —                      Reconditioned F2100       3, 10
+
+5    RF3015                   1375D86G18        O          RHF3015                  1375D87G18             —                         3, 10
+     RF3020                   1375D86G19        O          RHF3020                  1375D87G19             —                         3, 10
+
+6    RF3025                   1375D86G20        O          RHF3025                  1375D87G20             —                         3, 10
+     RF3030                   1375D86G21        O          RHF3030                  1375D87G21             —                         3, 10
+
+7    RF3040                   1375D86G23        O          RHF3040                  1375D87G23             —                         3, 10
+     RF3050                   1375D86G24        O          RHF3050                  1375D87G24             —                         3, 10
+
+8    RF3060
+     RF3070
+                              1375D86G25
+                              1375D86G26
+                                                O
+                                                O
+                                                           RHF3060
+                                                           RHF3070
+                                                                                    1375D87G25
+                                                                                    1375D87G26
+                                                                                                           —
+                                                                                                           —
+                                                                                                                                     3, 10
+                                                                                                                                     3, 10
+
+9
+     RF3080                   1375D86G27        O          RHF3080                  1375D87G27             —                         3, 10
+     RF3090                   1375D86G28        O          RHF3090                  1375D87G28             —                         3, 10
+     RF3100                   1375D86G29        O          RHF3100                  1375D87G29             —                         3, 10
+10   RFA2010                  1375D84G01        O          —                        —                      —                         3, 10
+     RFA2015                  1375D84G02        O          —                        —                      Reconditioned FA2015      3, 10
+11   RFA2020                  1375D84G03        O          —                        —                      Reconditioned FA2020      3, 10
+     RFA2025                  1375D84G04        O          —                        —                      Reconditioned FA2025      3, 10
+12   RFA2030                  1375D84G05        O          —                        —                      Reconditioned FA2030      3, 10
+     RFA2040                  1375D84G07        O          —                        —                      Reconditioned FA2040      3, 10
+13   RFA2045                  1375D84G16        O          —                        —                      Reconditioned FA2045      3, 10
+     RFA2050                  1375D84G08        O          —                        —                      Reconditioned FA2050      3, 10
+14   RFA2060                  1375D84G09        O          —                        —                      Reconditioned FA2060      3, 10
+     RFA2070                  1375D84G10        O          —                        —                      Reconditioned FA2070      3, 10
+
+15   RFA2080                  1375D84G11        O          —                        —                      Reconditioned FA2080      3, 10
+     RFA2090                  1375D84G12        O          —                        —                      Reconditioned FA2090      3, 10
+
+16   RFA2100                  1375D84G13        O          —                        —                      Reconditioned FA2100      3, 10
+     RFA2100K                 1375D84G17        O          —                        —                      —                         3, 10
+
+17   RFA3010                  1375D84G21        O          RHFA3010                 1375D85G21             —                         —
+     RFA3015                  1375D84G22        O          RHFA3015                 1375D85G22             —                         3, 10
+
+18   RFA3020                  1375D84G23        O          RHFA3020                 1375D85G23             —                         3, 10
+     RFA3025                  1375D84G24        O          RHFA3025                 1375D85G24             —                         3, 10
+
+19   RFA3030
+     RFA3040
+                              1375D84G25
+                              1375D84G27
+                                                O
+                                                O
+                                                           RHFA3030
+                                                           RHFA3040
+                                                                                    1375D85G25
+                                                                                    1375D85G27
+                                                                                                           —
+                                                                                                           —
+                                                                                                                                     3, 10
+                                                                                                                                     3, 10
+
+20
+     RFA3045                  1375D84G36        O          RHFA3045                 1375D85G36             —                         3, 10
+     RFA3050                  1375D84G28        O          RHFA3050                 1375D85G28             —                         3, 10
+
+21
+     RFA3060                  1375D84G29        O          RHFA3060                 1375D85G29             —                         3, 10
+     RFA3070                  1375D84G30        O          RHFA3070                 1375D85G30             —                         3, 10
+     RFA3080                  1375D84G31        O          RHFA3080                 1375D85G31             —                         3, 10
+22   RFA3090                  1375D84G32        O          RHFA3090                 1375D85G32             —                         3, 10
+     RFA3100                  1375D84G33        O          RHFA3100                 1375D85G33             —                         3, 10
+23   RFA3100K                 1375D84G37        O          —                        —                      —                         —
+     RHF2015                  1375D87G02        O          —                        —                      Reconditioned HF2015      10
+24   RHF2020                  1375D87G03        O          —                        —                      Reconditioned HF2020      10
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-156              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

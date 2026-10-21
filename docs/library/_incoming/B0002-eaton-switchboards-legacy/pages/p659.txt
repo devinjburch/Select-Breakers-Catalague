@@ -1,0 +1,79 @@
+                                     Counters, Panel Meters, Tachometers and Timers
+                                                                                                                              Digital Panel Meters
+                                                                                                                                                     24
+General Specifications, continued
+Description                            Specification                                                                                                              1
+Signal Input, continued
+5 A AC models (5770X-44X)                                                                                                                                         2
+ Range                                 5 A AC, true rms
+
+ Frequency                             40 to 1000 Hz                                                                                                              3
+ Impedance                             0.02 ohm (shunt output capacitive coupled)
+ Overrange                             10 A maximum                                                                                                               4
+ Accuracy                              ±0.4% of reading, ±0.13% FS, ±0.5 digit, and ±200 PPM/°C for crest factor = 1; plus ±0.7% for crest
+
+Process models (5770X-45X)
+                                       factor = 1 to 3; and ±2.5% for crest factor = 5
+                                                                                                                                                                  5
+                                       4–20 mA DC, 0–10 Vdc, 1–5 Vdc; separate input terminals for voltage and current signals
+                                                                                                                                                                  6
+ Range
+ Impedance                             100 ohms (current input) and 1.27 Mohms (voltage input)
+
+                                                                                                                                                                  7
+ Overrange                             50 mA maximum (current input) and 100 V maximum (voltage input)
+ Power output                          24 Vdc ±10%, 90 mA max, short-circuit protected
+ Accuracy                              ±0.1% of reading, ±0.03% FS, ±0.5 digit, and ±80 PPM/°C
+Optional Outputs                                                                                                                                                  8
+Relay board
+ Dual relay                            1 set of Form C contacts each                                                                                              9
+ Contact rating                        5 A, 250 Vac or 30 Vdc
+ Isolation dielectric strength         2300 Vac                                                                                                                   10
+Analog retransmission
+ Output signals                        4–20 mA (<750 ohms) and 0–10 V (>2500 ohms)                                                                                11
+ Accuracy                              0.13% FS, 100 PPM/°C, 0.07% FS change with 4–20 mA load, ±0.3% FS for 4–20 mA output, only
+
+ Isolation dielectric strength
+                                       after exposure to 85% relative humidity
+                                       2300 Vac to signal inputs, relays and AC power input; 500 Vac to RS-485 and DC power inputs
+                                                                                                                                                                  12
+RS-485 serial communication
+ Baud rate                             1200, 2400, 4800, 9600 or 19,200, programmable
+                                                                                                                                                                  13
+                                                                                                                                                                  14
+ Parity                                Even, odd or no parity
+ Address range                         00 to 99 decimal
+ Protocol                              Opto 22® compatible
+ Isolation dielectric strength         2300 Vac to signal inputs, relays, and AC power input; 500 Vac to analog outputs and                                       15
+                                       DC power inputs
+Environmental                                                                                                                                                     16
+Operating environment                  Indoor use to 2000 meters
+Temperature                                                                                                                                                       17
+ Operating                             32 to 122 °F (0 to 50 °C)
+
+ Storage                               –4 to 158 °F (–20 to 70 °C)
+                                                                                                                                                                  18
+Humidity                               0 to 85% RH, noncondensing
+Vibration                              2.5 Gs, 30 to 200 Hz
+                                                                                                                                                                  19
+Shock                                  30 Gs, 11 ms half sinewave
+EMC/EMI
+Front panel
+                                       Per EN 61326-1 industrial
+                                       NEMA 4X when mounted with gasket provided
+                                                                                                                                                                  20
+                                                                                                                                                                  21
+Agency approval                        CE EMC immunity and emissions requirements were met using shielded wiring on the RS-485,
+                                       analog output and signal input lines. The shields were connected to earth ground at the Eclipse
+                                       end of the shields.
+                                       Conducted emissions requirements were met assuming that the AC signal input would not be
+                                       connected directly to the AC mains.                                                                                        22
+                                       The measurement error during RF immunity testing was less than ±5% of full scale.
+                                       In addition, models with an AC signal input had measurement error of less than +25% of full scale
+                                       during RF immunity testing of the RS-485 at frequencies below 1 MHz.
+                                                                                                                                                                  23
+Pollution degree 2                     Overvoltage Category II
+                                                                                                                                                                  24
+                                                                                                                                                                  25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com                       V12-T24-77
+

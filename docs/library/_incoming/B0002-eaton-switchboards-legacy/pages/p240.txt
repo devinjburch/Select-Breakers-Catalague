@@ -1,0 +1,97 @@
+     6                       Meter Centers
+
+
+
+     Main Fusible Switch
+1    Catalog Number
+     Fusible                    Front                                   Drip            Endwall                         Endwall
+2    Switch                     Cover                                   Hood            (with Knockouts)                (without Knockouts)
+     1MFS400RB                  MMFCVR1                                 MMDH1           MMEW1                           MMEWNKO1
+
+3
+     1MFS400RT                  MFSFCVR1                                MMDH1           —                               MMEWNKO1
+     1MFS600RB                  MMFCVR1                                 MMDH1           MMEW1                           MMEWNKO1
+     1MFS600RT                  MFSFCVR1                                MMDH1           —                               MMEWNKO1
+4    1MFS800RB                  MMFCVR1                                 MMDH1           MMEW1                           MMEWNKO1
+     1MFS800RT                  MFSFCVR1                                MMDH1           —                               MMEWNKO1
+
+5    1MFS1200RB                 MFSFCVR2                                MMDH2           MMEW2                           MMEWNKO2
+     3MFS400RB                  MMFCVR1                                 MMDH1           MMEW1                           MMEWNKO1
+
+6    3MFS400RT
+     3MFS600RB
+                                MFSFCVR1
+                                MMFCVR1
+                                                                        MMDH1
+                                                                        MMDH1
+                                                                                        —
+                                                                                        MMEW1
+                                                                                                                        MMEWNKO1
+                                                                                                                        MMEWNKO1
+     3MFS600RT                  MFSFCVR1                                MMDH1           —                               MMEWNKO1
+7    3MFS800RB                  MMFCVR1                                 MMDH1           MMEW1                           MMEWNKO1
+     3MFS800RT                  MFSFCVR1                                MMDH1           —                               MMEWNKO1
+8    3MFS1200RB                 MFSFCVR2                                MMDH2           MMEW2                           MMWENKO2
+
+
+
+9    Main Bolted Pressure Contact Switch
+     Catalog Number
+     Bolted Pressure            Front                                   Drip            Endwall                         Endwall
+10   Contact Switch             Cover                                   Hood            (with Knockouts)                (without Knockouts)
+     1BPS1200RB                 No replacement parts available at this time.
+
+11   1BPS1200RT
+     3BPS1200RB
+
+12   3BPS1200RT
+     3BPS1600RB                 No replacement parts available at this time.
+     3BPS1600RT
+13   3BPS2000RB
+     3BPS2000RT
+14
+     Main Fusible Switch with Pullbox
+
+15   Catalog Number
+     Fusible Switch             Front                           Pullbox         Drip                 Endwall                  Endwall
+     with Pullbox               Cover                           Cover           Hood                 (with Knockouts)         (without Knockouts)
+16   1MFS400RUG                 MFPFCVR1                        MFPBCVR1        MMDH1                MMEW1                    MMEWNK01
+     1MFS600RUG                 MFPFCVR1                        MFPBCVR1        MMDH1                MMEW1                    MMEWNK01
+
+17   1MFS800RUG                 MFPFCVR1                        MFPBCVR1        MMDH1                MMEW1                    MMEWNK01
+     1MFS1200RUG                MFPFCVR2                        MFPBCVR2        MMDH2                MMEW2                    MMEWNK02
+
+18
+     3MFS400RUG                 MFPFCVR1                        MFPBCVR1        MMDH1                MMEW1                    MMEWNK01
+     3MFS600RUG                 MFPFCVR3                        MFPBCVR3        MMDH5                MMEW4                    MMEWNK04
+     3MFS800RUG                 MFPFCVR3                        MFPBCVR3        MMDH5                MMEW4                    MMEWNK04
+19   3MFS1200RUG                MFPFCVR2                        MFPBCVR2        MMDH2                MMEW2                    MMEWNK02
+
+
+20   Pullbox
+     Catalog Number
+
+21   Pullbox
+                                Front Cover
+                                Pullbox Cover
+                                                                        Drip
+                                                                        Hood
+                                                                                        Endwall
+                                                                                        (with Knockouts)
+                                                                                                                        Endwall
+                                                                                                                        (without Knockouts)
+     1UGPB400R                  PBFCVR1                                 PBDH1           PBEW1                           PBEWNK01
+22   1UGPB800R                  PBFCVR2                                 PBDH2           PBEW2                           PBEWNK02
+     1UGPB1200R                 PBFCVR3                                 PBDH3           PBEW3                           PBEWNK03
+
+23   3UGPB400R                  PBFCVR1                                 PBDH1           PBEW1                           PBEWNK01
+     3UGPB800R                  PBFCVR2                                 PBDH2           PBEW2                           PBEWNK02
+
+24
+     3UGPB1200R                 PBFCVR3                                 PBDH3           PBEW3                           PBEWNK03
+
+
+
+25
+     V12-T6-6          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

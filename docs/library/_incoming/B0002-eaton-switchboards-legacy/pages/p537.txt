@@ -1,0 +1,117 @@
+                                                                                                    Switchgear
+                               WLI/MVS Medium Voltage Metal-Enclosed Load Break Switch Replacement Parts
+                                                                                                                                       17
+Replacement Parts—WLI/MVS/MVS2 Load Break Switch, Continued
+Description                                  Part Description                                     Quantity per Switch   Style Number                1
+Fuse Live Part Kit
+                                             Fuse Live Part Kit (WLI Design)                                                                        2
+                                             Non-disconnect (three-phase—top and bottom)
+                                             RBA200 5–15 kV                                       1 each
+                                                                                                                                                    3
+                                                                                                                        7278A27G29
+                                             RBA400 5–15 kV                                       1 each                7278A27G30
+                                             RBA200 25–38 kV                                      1 each                7278A27G31
+                                             RBA400 25–38 kV                                      1 each                7278A27G32
+                                             CLE-1 5–15 kV
+                                             CLE-2 5–15 kV
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        7278A27G33
+                                                                                                                        7278A27G34
+                                                                                                                                                    4
+                                             CX 5–15 kV                                           1 each                7278A27G36
+                                             CXN-1 5–15 kV (single barrel—3.00-inch diameter)
+                                             CXN-1 5–15 kV (single barrel—4.00-inch diameter)
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        7278A27G37
+                                                                                                                        7278A27G38
+                                                                                                                                                    5
+                                             CXN-2 5–15 kV (double barrel—3.00-inch diameter)     1 each                7278A27G39
+                                             CXN-2 5–15 kV (double barrel—4.00-inch diameter)
+                                             NX25 kV
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        7278A27G40
+                                                                                                                        7278A27G41                  6
+                                             EJO38 kV                                             1 each                7278A27G42
+                                             Fuse Live Part Kit (MVS Design)
+                                             Non-disconnect (three-phase—top and bottom)
+                                                                                                                                                    7
+                                             RBA200 5 kV                                          1 each                98A1125G22
+                                             RBA200 15 kV
+                                             RBA400 5 kV
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        98A1125G23
+                                                                                                                        98A1125G24                  8
+                                             RBA400 15 kV                                         1 each                98A1125G25
+                                             RBA800 5 kV                                          1 each                98A1125G26
+                                             RBA800 15 kV                                         1 each                98A1125G27                  9
+                                             CLE-1 5 kV                                           1 each                98A1125G03
+                                             CLE-1 15 kV                                          1 each                98A1125G04
+                                             CLE-2 5 kV
+                                             CLE-2 15 kV
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        98A1125G05
+                                                                                                                        98A1125G06
+                                                                                                                                                    10
+                                             CX 5 kV                                              1 each                98A1125G09
+                                             CX 15 kV
+                                             CXN-1 5–15 kV (single barrel—3.00-inch diameter)
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        98A1125G10
+                                                                                                                        98A1125G11
+                                                                                                                                                    11
+                                             CXN-1 5–15 kV (single barrel—4.00-inch diameter)     1 each                98A1125G12
+                                             CXN-2 5–15 kV (double barrel—3.00-inch diameter)
+                                             CXN-2 5–15 kV (double barrel—4.00-inch diameter)
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        98A1125G13
+                                                                                                                        98A1125G14                  12
+Space Heaters
+                                             Space Heaters (low watt density)                                                                       13
+                                             125V (WLI design)                                    as required           220C974G03
+                                             250V (WLI design)                                    as required           220C974G04                  14
+                                             125V (MVS design)                                    as required           3614A50H01
+                                             250V (MVS design)                                    as required           3614A50H02
+                                                                                                                                                    15
+Shunt Trip Coil                                                                                                                                     16
+                                             Shunt Trip Coil
+                                             48 Vdc                                               1 each                7278A78H01
+                                             125 Vdc
+                                             250 Vdc
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        7278A78H02
+                                                                                                                        7278A78H03
+                                                                                                                                                    17
+                                             115 Vac                                              1 each                7278A78H04
+                                             230 Vac
+                                             CAP TRIP
+                                                                                                  1 each
+                                                                                                  1 each
+                                                                                                                        7278A78H05
+                                                                                                                        7278A78H06
+                                                                                                                                                    18
+                                                                                                                                                    19
+Other Replacement Parts
+Other replacement parts
+                                                                                                                                                    20
+are available but shall be
+considered on a job-by-job                                                                                                                          21
+basis.
+Include switch nameplate
+information located behind
+                                                                                                                                                    22
+the switch operating
+handle access door with                                                                                                                             23
+any correspondence. Be
+sure this includes the ”CN“
+or ”SM“ number.                                                                                                                                     24
+                                                                                                                                                    25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com          V12-T17-69
+

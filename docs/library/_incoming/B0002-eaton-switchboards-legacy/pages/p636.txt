@@ -1,0 +1,82 @@
+     24                                Counters, Panel Meters, Tachometers and Timers
+                                       Count Controls/Preset Counters/Totalizers
+
+
+
+     General Specifications, continued
+1    Description                                      Specification
+     Count Inputs
+2    Sink
+      Impedance                                       4.6 Kohms to +5 Vdc
+3     Voltage
+       High                                           3.5 to 34.0 Vdc
+
+4      Low                                            0.0 to 1.9 Vdc
+     Source (high)
+
+5     Impedance                                       2.3 Kohms to common
+
+      Voltage
+
+6      High
+       Low
+                                                      3.5 to 17.0 Vdc (100% duty cycle)
+                                                      0.0 to 1.9 Vdc
+
+7
+     Source (low)
+      Impedance                                       2.3 Kohms to common
+
+      DC voltage
+8      High                                           0.6 to 17.0 Vdc
+       Low                                            –17.0 to –0.6 Vdc
+9     AC voltage                                      17 Vac (48V peak-peak) maximum
+     Control Inputs
+10   Impedance                                        4.7 Kohms to +5 Vdc
+     Voltage
+11    High                                            +3.7 to +24 Vdc
+
+      Low                                             0.0 to 0.9 Vdc
+
+12   Response                                         Minimum low 15 ms, minimum high 15 ms
+     Transistor Outputs (2)
+
+13   Type                                             NPN open collector with transient protection
+     Maximum voltage (OFF state)                      30 Vdc
+
+14   Maximum current (ON state)                       200 mA at 1.3 Vdc
+     Communication
+
+15   Type
+     Format
+                                                      RS-485
+                                                      1 start bit, 7 data bits (ASCII), 1 parity bit, 1 stop bit
+
+16   Protocol
+     Speed
+                                                      Opto-22 compatible
+                                                      300, 1200, 2400, 4800, 9600 and 19200 baud
+
+17
+     Parity                                           Odd, even, none (space transmitted, ignore received)
+     Count Accuracy
+     Operating within specifications                  100% when operated within the specified count speeds and count signal high and low times
+18   Rate Indicator
+     Type                                             1/Tau
+19   Digits                                           Six
+     Scaler range                                     0.00001 to 99999
+20   Decimal point                                    Five positions, programmable
+     Accuracy                                         ±0.015% of reading
+21   Update time                                      1 second, fixed
+     Zero time                                        10 seconds, fixed
+22   Connections
+     Type                                             Dual depluggable screw terminal strips
+
+23   Conductor size                                   14–22 AWG (2.1–0.38 mm2), 600V, solid, stranded or fused (preferred)
+
+
+
+24
+25
+     V12-T24-54                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

@@ -1,0 +1,156 @@
+     17                                Switchgear
+                                       General Electric AK Breakers—Trip Unit Retrofit Kits
+
+
+
+     Digitrip RMS Retrofit Kits for General Electric AK Breakers Catalog Numbering System
+1
+                                                            G36 8 6 6 4Q 4 6 – T C S U
+2
+3
+                 Trip Unit Type 1                       RP      No Rating Plug                        T = Digitrip 510, 610, 810, 910               N = Standard kit
+                                                                                                                                                    U = Upgrade kit from
+4              5 = 510 basic
+               Z = 510 zone int.
+                                                       Cat.
+                                                       Code
+                                                                Current Rating
+                                                                 Tap     Plug
+                                                                                                                                                        Digitrip 500/510
+               6 = 610                                                                     N = No sensors
+                                                      21       200      100
+               8 = 810
+5              9 = 910
+                                                      22
+                                                      32
+                                                               200
+                                                               300
+                                                                        200
+                                                                        200
+                                                                                           3 = Three sensors
+                                                                                           4 = Four sensors
+                                                                                                                                              N = Standard kit
+                                                                                                                                              S = Simplified cell harness
+                                                      3Q       300      250                                                                   R = Cell harness removed
+
+6                            Protection               33       300      300
+                                                      42       400      200
+                           1 = LI                                                                                                        N = No CPT supplied
+                                                      4Q       400      250
+                           2 = LSI                                                                                                       C = Breaker-mounted CPT
+                                                      43       400      300
+7                          3 = LS
+                           4 = LIG
+                                                      44
+                                                      63
+                                                               400
+                                                               600
+                                                                        400
+                                                                        300
+                           5 = LSG                    64       600      400                Code            Breaker Frame Description          Sensor            Current Rating of
+8                          6 = LSIG                   66
+                                                      84
+                                                               600
+                                                               800
+                                                                        600
+                                                                        400
+                                                                                                                                                Code        Sensor and Available Taps
+                                                                                                    ALL FRAMES                                S           NO SENSORS PROVIDED
+                                                      86       800      600
+                        N = No rating plug                                                 G12      AK-1-15 manual 2                          2           200
+9                       6 = 50/60 Hz plug
+                                                      88
+                                                      C8
+                                                               800
+                                                               1600
+                                                                        800
+                                                                        800                G16      AK-1-25                                   6           600, 400
+                                                      CA       1600     1000               G2C      AK-1-50, AK-2/2A-50, AK-3/3A-50           C           1600, 800
+
+10
+                                                      CT       1600     1200                                                                  8           800, 400
+                                                      CC       1600     1600
+                                                      DA       2000     1000                                                                  4           400, 200
+                                                      DT       2000     1200               GMC      AK-1-50 slow close no top frame           C           1600, 800
+11                                                    DC
+                                                      DD
+                                                               2000
+                                                               2000
+                                                                        1600
+                                                                        2000
+                                                                                                                                              8           800, 400
+                                                                                                                                              4           400, 200
+                                                      HC       3000     1600
+12                                                    HD
+                                                      HP
+                                                               3000
+                                                               3000
+                                                                        2000
+                                                                        2500
+                                                                                           G2H
+                                                                                           G2K
+                                                                                                    AK-1-75, AK-2/2A-75, AK-3/3A-75
+                                                                                                    AK-1-100, AK-2/2A-100, AK-3/3A-100
+                                                                                                                                              H
+                                                                                                                                              K
+                                                                                                                                                          3000, 2000
+                                                                                                                                                          4000
+                                                      HH       3000     3000               G22      AK-2/2A-15 manually operated 2            2           200
+13                                                    KD
+                                                      KP
+                                                               4000
+                                                               4000
+                                                                        2000
+                                                                        2500
+                                                                                           G26      AK-2/2A-25                                6           600, 400, 300, 200
+                                                      KH       4000     3000               GTD      AKT-2A-50                                 C           2000
+
+14
+                                                      KJ       4000     3200               G36      AK-3/3A-25                                6           600, 400, 300, 200
+                                                      KK       4000     4000               GU6      AKU-2/2A-25 3                             6           600, 400, 300, 200
+                                                                                           GU7      AKU-3/3A-25 3                             6           600, 400, 300, 200
+15                                                                                         GUC      AKU-2A/3A-50 3                            C
+                                                                                                                                              8
+                                                                                                                                                          1600, 800
+                                                                                                                                                          800, 400
+                                                                                                                                              4           400, 200
+16                                                                                         GS8      AKR(U)-6D/7D-30S                          8           800, 400
+                                                                                           GA8      AKR-4A/5A-30                              8           800, 400
+
+17                                                                                         GAC
+                                                                                           GAD
+                                                                                                    AKR-4A/5A-50
+                                                                                                    AKRT-4A/5A-50
+                                                                                                                                              C
+                                                                                                                                              D
+                                                                                                                                                          1600, 800/800, 400
+                                                                                                                                                          2000
+                                                                                           GD8      AKR-6D/7D-30                              8           800, 400
+18                                                                                         GDC      AKR-6D/7D-50                              C           1600, 800/800, 400
+                                                                                           GDD      AKRT-6D/7D-50                             D           2000
+
+19   Notes
+     1 At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910.
+
+
+20
+     2 Maximum ampere rating is 200A.
+     3 Use GU6, GU7, GUC kits only for breakers with top-mounted fuses. For breakers with bottom-mounted fuses, use standard kit.
+
+
+
+
+21   This information is subject to
+     change. Updated pricing and
+     availability information is
+22   included in the Retrofit Kit
+     Product Guide. For a copy
+     of the Retrofit Kit Product
+23   Guide, contact your local
+     Eaton Field Sales office or the
+     Digitrip Retrofit Kit Service
+24   Center at 1-800-937-5487.
+
+25
+     V12-T17-38               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,93 @@
+                                WLI/MVS Medium Voltage Metal-Enclosed Load Break Switch Replacement Parts
+                                                                                                                          Switchgear
+                                                                                                                                                       17
+Replacement Parts—WLI/MVS/MVS2 Load Break Switch
+Description                                 Part Description                                                                Quantity per Switch   Style Number      1
+Switch Pole Assemblies
+                                            Switch Pole Assemblies                                                                                                  2
+                                            Three-pole set includes main and flicker blades, break jaws and arc chutes.
+
+                                            (60 kV BIL or 95 kV BIL)                                                                                                3
+                                            5 and 15 kV—600A                                                                1 set                 7278A27G01
+                                            5 and 15 kV—1200A                                                               1 set                 7278A27G02
+
+                                            (125 kV BIL or 150 kV BIL)
+                                                                                                                                                                    4
+                                            25 and 38 kV—600A                                                               1 set                 7278A27G05
+
+                                            MVS2 5/15 kV—600A                                                               1 set                 7278A27G43        5
+                                            MVS2 5/15 kV—1200A                                                              1 set                 7278A27G44
+
+Arcing Contact Assemblies                                                                                                                                           6
+                                            Arcing Contact Assemblies
+                                            Three-pole set includes flicker blades and arc chutes.
+                                            This kit is not required when switch pole assemblies above are ordered.
+                                                                                                                                                                    7
+                                            (60 kV BIL or 95 kV BIL)
+                                            5 and 15 kV—600A                                                                1 set                 7278A27G06        8
+                                            5 and 15 kV—1200A                                                               1 set                 7278A27G07
+
+                                            (125 kV BIL or 150 kV BIL)                                                                                              9
+                                            25 and 38 kV—600A                                                               1 set                 7278A27G08
+
+                                                                                                                                                                    10
+Drive Rod Link (Polyester)
+                                            Drive Rod Link (polyester, set of three)
+                                            5 kV (60 kV BIL)                                                                1 set                 7278A27G09        11
+                                            15 kV (95 kV BIL)                                                               1 set                 7278A27G10
+
+                                                                                                                                                                    12
+                                            25 and 38 kV (125 kV BIL or 150 kV BIL)                                         1 set                 7278A27G12
+                                            MVS2 5/15 kV                                                                    1 set                 7278A27G45
+                                            MVS2 5/15 kV manufactured after May 2011                                        1 set                 7278A27G53
+
+Finned Bus Support                                                                                                                                                  13
+                                            Finned Bus Support (one each)
+                                            36.00-inch wide (glass polyester)
+                                            Three-phase bus brace (glass polyester)
+                                                                                                                            1 each
+                                                                                                                            1 each
+                                                                                                                                                  260C003H51
+                                                                                                                                                  260C005H51
+                                                                                                                                                                    14
+                                            Two-phase bus brace (glass polyester)                                           1 each                260C005H53
+
+                                            36.00-inch wide (epoxy)                                                         1 each                260C003H11        15
+          Finned Bus Support
+                                            Three-phase bus brace (epoxy)                                                   1 each                260C005H11
+
+                                                                                                                                                                    16
+                                            Two-phase bus brace (epoxy)                                                     1 each                260C003H13
+
+
+
+    Three-Phase           Two-Phase                                                                                                                                 17
+     Bus Brace            Bus Brace
+
+
+Insulators
+                                                                                                                                                                    18
+                                            Insulators (one each)
+                                            (60 kV BIL)                                                                                                             19
+                                            5 kV glass polyester                                                            as required           4892A97H01
+                                            5 kV epoxy                                                                      as required           4892A97H07
+
+                                            (95 kV BIL)
+                                                                                                                                                                    20
+                                            15 kV glass polyester                                                           as required           4892A97H02
+
+  Polyester       Epoxy
+                                            15 kV epoxy                                                                     as required           4892A97H08
+                                                                                                                                                                    21
+                                            (125 kV BIL or 150 kV BIL)
+
+                                                                                                                                                                    22
+                                            25 and 38 kV epoxy                                                              as required           4892A97H18
+
+
+
+                                                                                                                                                                    23
+                                                                                                                                                                    24
+                                                                                                                                                                    25
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                           V12-T17-67
+

@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    PC32500WK                753B081G16        A          —                        —                      —                         1–3, 5, 8
+     PC33000F                 6590C19G10        A          —                        —                      —                         1–3, 5, 8
+3    PC33000FM                6590C19G12        O          PC33000F                 6590C19G10             —                         1–3, 5, 8
+     PC33000K                 753B081G17        A          —                        —                      —                         1–3, 5, 8
+
+4    PCA22000F                6590C19G17        O          —                        —                      RD320T32W                 1–3, 5, 8
+     PCA22500F                6590C19G21        O          —                        —                      RD325T32W                 1–3, 5, 8
+
+5    PCA22500FM               6590C19G07        O          —                        —                      RD325T32W                 1–3, 5, 8
+     PCA23000F                6590C19G25        O          —                        —                      —                         1–3, 5, 8
+
+6    PCA32000F                6590C19G18        A          —                        —                      RD320T32W                 1–3, 5, 8
+     PCA32500F                6590C19G22        A          —                        —                      RD325T32W                 1–3, 5, 8
+
+7    PCA33000F                6590C19G26        A          —                        —                      —                         1–3, 5, 8
+     PCC22000F                6590C20G01        O          —                        —                      CRD320T33W                1–3, 5, 8
+
+8    PCC22000FM
+     PCC22000WK
+                              6590C20G03
+                              752B076G09
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           CRD320T33W
+                                                                                                           —
+                                                                                                                                     1–3, 5, 8
+                                                                                                                                     1–3, 5, 8
+
+9
+     PCC22500F                6590C20G05        O          —                        —                      —                         1–3, 5, 8
+     PCC22500FM               6590C20G07        O          —                        —                      —                         1–3, 5, 8
+     PCC22500WK               753B081G05        O          —                        —                      —                         1–3, 5, 8
+10   PCC23000F                6590C20G09        O          —                        —                      —                         1–3, 5, 8
+     PCC23000FM               6590C20G11        O          —                        —                      —                         1–3, 5, 8
+11   PCC23000K                753B081G11        O          —                        —                      —                         1–3, 5, 8
+     PCC32000F                6590C20G02        A          —                        —                      CRD320T33W                1–3, 5, 8
+12   PCC32000FM               6590C20G04        O          PCC32000F                6590C20G02             CRD320T33W                1–3, 5, 8
+     PCC32000WK               753B081G20        A          —                        —                      —                         1–3, 5, 8
+13   PCC32500F                6590C20G06        A          —                        —                      —                         1–3, 5, 8
+     PCC32500FM               6590C20G08        O          PCC32500F                6590C20G06             —                         1–3, 5, 8
+14   PCC32500WK               753B081G21        A          —                        —                      —                         1–3, 5, 8
+     PCC33000F                6590C20G10        A          —                        —                      —                         1–3, 5, 8
+
+15   PCC33000FM               6590C20G12        O          PCC33000F                6590C20G10             —                         1–3, 5, 8
+     PCC33000K                753B081G22        A          —                        —                      —                         1–3, 5, 8
+
+16   PCCA22000F               6590C20G17        O          —                        —                      CRD320T32W                1–3, 5, 8
+     PCCA22500F               6590C20G21        O          —                        —                      —                         1–3, 5, 8
+
+17   PCCA23000F               6590C20G25        O          —                        —                      —                         1–3, 5, 8
+     PCCA32000F               6590C20G18        A          —                        —                      CRD320T32W                1–3, 5, 8
+
+18   PCCA32500F               6590C20G22        A          —                        —                      —                         1–3, 5, 8
+     PCCA33000F               6590C20G26        A          —                        —                      —                         1–3, 5, 8
+
+19   PCCF22000F
+     PCCF22000FM
+                              6590C18G01
+                              6590C18G03
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           CRD320T33W
+                                                                                                           CRD320T33W
+                                                                                                                                     1–3, 5, 8
+                                                                                                                                     1–3, 5, 8
+
+20
+     PCCF22500F               6590C18G05        O          —                        —                      —                         1–3, 5, 8
+     PCCF22500FM              6590C18G07        O          —                        —                      —                         1–3, 5, 8
+
+21
+     PCCF32000F               6590C18G02        A          —                        —                      CRD320T33W                1–3, 5, 8
+     PCCF32000FM              6590C18G04        O          PCCF32000F               6590C18G02             CRD320T33W                1–3, 5, 8
+     PCCF32500F               6590C18G06        A          —                        —                      —                         1–3, 5, 8
+22   PCCF32500FM              6590C18G08        O          PCCF32500F               6590C18G06             —                         1–3, 5, 8
+     PCCFA22000F              1225C07G13        O          —                        —                      CRD320T32W                1–3, 5, 8
+23   PCCFA22500F              6590C18G17        O          —                        —                      —                         1–3, 5, 8
+     PCCFA32000F              6590C18G14        A          —                        —                      CRD320T32W                1–3, 5, 8
+24   PCCFA32500F              6590C18G18        A          —                        —                      —                         1–3, 5, 8
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-152              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

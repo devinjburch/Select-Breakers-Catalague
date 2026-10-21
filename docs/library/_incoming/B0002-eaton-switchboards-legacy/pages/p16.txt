@@ -1,0 +1,100 @@
+                                                                    Molded-Case Circuit Breakers
+                                                                                                                                                      3
+Breaker Identification               Accessories
+Nameplate Data                       Most circuit breaker                                                                                                     1
+A circuit breaker is identified by   accessories are mounted
+data found on the nameplate.         internally and are not visible
+                                     with a quick inspection.
+                                                                                                                                                              2
+This includes:                       However, because many
+●   Catalog number
+                                     accessories rely on or supply
+                                     an external signal, there may
+                                                                                                                                                              3
+●   Shop order number                be electrical leads exiting the
+●   Style number                     circuit breaker case. Inspect                                                                                            4
+●   Amperage                         for these leads when
+                                     obtaining full descriptive
+●   Number of poles
+                                     information for circuit breaker                                                                                          5
+●   Voltage class                    replacement. Examples of
+    Temperature rating               common accessories:
+                                                                                                                                                              6
+●
+
+
+
+In most instances, the               Shunt Trip
+catalog number, style number                                                     Pre-Series C Breaker with Original Label (Labels updated in 1997)
+or shop order number will
+                                     Used to remotely trip the
+                                     circuit breaker using an
+                                                                                                                                                              7
+supply enough information            electrical signal. Typically
+to identify the circuit breaker.
+However, it is always
+                                     two wires extend through                                                                                                 8
+                                     the case.
+advisable to obtain all
+data from the nameplate
+to facilitate identification.
+                                     Undervoltage Release (UVR)                                                                                               9
+                                     Trips the circuit breaker
+                                     when voltage drops below
+A Catalog Number begins
+with a series of letters             a specified percentage of                                                                                                10
+followed by numbers                  coil voltage (typically 70%).
+                                     Typically two wires extend
+that identify:
+                                     through the case.                                                                                                        11
+●   Circuit breaker type
+●   Number of poles
+                                     Auxiliary Switch
+                                     Provides remote indication
+                                                                                   Series C Breaker with Original Label (Labels updated in 1997)
+                                                                                                                                                              12
+●   Maximum amperage                 of the circuit breaker status
+●   Example: Catalog number
+    F3020 indicates a Type F
+                                     (open/closed). Typically                                                                                                 13
+                                     three wires extend through
+    circuit breaker, three poles,    the case in a single-pole
+    20A                              1A/1B application.                                                                                                       14
+A Shop Order Number                  Alarm Lockout Switch
+begins with one or two               For remote indication of                                                                                                 15
+numbers followed by a                an automatic trip operation.
+single letter and four               Typically two or three wires
+additional numbers.                  extend through the case.                                                                                                 16
+A shop order number is
+listed in place of a catalog                                                                                                                                  17
+number and indicates that the
+circuit breaker was modified
+at the factory, i.e., addition
+                                                                                 Vintage Label for Typical SELTRONIC Molded-Case Circuit Breaker
+                                                                                                                                                              18
+of a shunt trip, special
+calibration, etc. Every shop
+order number must be                                                                                                                                          19
+researched with the
+factory to properly identify
+modifications. Call your
+                                                                                                                                                              20
+Cutler-Hammer Field Sales
+office for this information.                                                                                                                                  21
+●   Example: 70E2121
+Note: Eaton does not                                                                                                                                          22
+recommend replacing a circuit
+breaker identified by a Shop
+Order Number with a standard                                                                                                                                  23
+“off-the-shelf” circuit breaker
+without first identifying the
+modifications. They may                                                                                                                                       24
+be critical to safe and
+
+                                                                                                                                                              25
+reliable operation.
+
+
+
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                         V12-T3-3
+

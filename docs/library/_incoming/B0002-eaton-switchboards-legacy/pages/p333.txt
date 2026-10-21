@@ -1,0 +1,72 @@
+     11                        Communication Systems
+                               Communication Hardware
+
+
+
+     IMPCABLE                                    IMPCABLE
+1    The IMPCABLE was                                                      Polyethylene
+     designed to be run in                                                 Filler
+
+
+2    switchgear where codes
+     require a 600V insulation
+                                                           Aluminum
+     rating. Typical “blue hose”                           Shield             Conductors
+
+3    cables are rated at 300V. The
+     IMPCABLE is an 18 AWG
+     cable with a 100 ohm
+4
+                                                 PVC      Tinned   Drain    Polyethylene
+     impedance at 100 kHz tuned                  Outer
+                                                 Jacket
+                                                          Copper
+                                                          Braid
+                                                                   Wire     Insulator
+
+     to work optimally with the
+     FSK signal from Cutler-
+5    Hammer/Eaton devices.
+     The cable has been designed
+6    with characteristics that
+     allow up to 1000 devices or
+     distances up to 10,000 feet
+7    from the master.
+
+
+8    Further Information
+     Publication
+
+9
+     Number           Description
+     TD.17.15.T.E     PowerNet
+
+10
+     TD17B.01.T.E     PowerPort
+     TD02603010E      Power Xpert Gateway 200E
+
+11
+     TB02603002E      Power Xpert Gateway 400E/600E/800E
+     TB02603002E      mMINT
+     TD.17.19.T.E     MINT II RS-232 Converter
+12   TD.17.20.T.E     PONI Communication Modules
+     TB02603002E      MPONI
+13   TD.17.22.T.E     Addressable Relay II
+     TD.17.24.T.E     Breaker Interface Module (BIM)
+14   TD.17.26.T.E     Advantage Central Monitoring Unit (CMU)
+     TD.17.28.T.E     IMPCABLE
+15
+     Pricing Information
+16   Price and Availability Digest (PAD)
+     Vista/VISTALINE™ Discount Symbol C10-S25
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T11-26        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

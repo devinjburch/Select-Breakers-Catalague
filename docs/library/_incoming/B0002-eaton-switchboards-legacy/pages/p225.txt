@@ -1,0 +1,114 @@
+                                                                                                            Loadcenters
+                                                                                                                            Type BR
+                                                                                                                                                             5
+Single-Phase with Main Lugs
+Catalog         Combination     Surface         NEMA 3R         NEMA 3R      Catalog         Combination        Surface         NEMA 3R         NEMA 3R          1
+Number          Covers          Covers          Covers          Deadfronts   Number          Covers             Covers          Covers          Deadfronts
+1224DRIN        —               —               Not available   —            BR24L70RP       —                  —               Not available   —                2
+1224DSN         —               Not available   —               —            BR24L70SGP      —                  Not available   —               —
+2442DSN         —               Not available   —               —            BR24L70SP       —                  Not available   —               —
+                                                                                                                                                                 3
+2460FGNM        —               —               —               —            BR1224L125RIS   BRCOVC66
+2460FNM         —               —               —               —            BR1224L125RISBP BRCOVC66
+                                                                                                                                                                 4
+2460RNM         —               —               —               —            BR2024L125RIS   BRCOVC66
+2460SGNM
+2460SNM
+                —
+                —
+                                —
+                                —
+                                                —
+                                                —
+                                                                —
+                                                                —
+                                                                             BR3040L200
+                                                                             BR3040L200G
+                                                                                             BRCOVC36
+                                                                                             BRCOVC36
+                                                                                                                —
+                                                                                                                —
+                                                                                                                                —
+                                                                                                                                —
+                                                                                                                                                —
+                                                                                                                                                —
+                                                                                                                                                                 5
+                                                                                                                                                                 6
+4242DFN         315-003-06      —               —               —            BR3040L200R     —                  —               BR3RDOOR9       BR3RDF8
+4242DRIN        —               Not available   —               —            BR4040L200      BRCOVC42           —               —               —
+
+                                                                                                                                                                 7
+4242DSN         —               315-003-05      —               —            BR4040L200R     —                  —               BR3RDOOR11      BR3RDF9
+4242ESN         —               315-003-05      —               —            BR4242L225      BRCOVC45           —               —               —
+BR1212L125      BRCOVC11        —               —               —            BR4242L225R     —                  —               BR3RDOOR14      BR3RDF10
+BR1224L125      BRCOVC11        —               —               —            BR48L125FDP     BRCOVC62 (flush)   —               —               —                8
+BR1224L125DG    BRCOVC11        —               —               —            BR48L125FGP     BRCOVC63 (flush)   —               —               —
+BR1224L125G     BRCOVC11        —               —               —            BR48L125FP      BRCOVC61 (flush)   —               —               —                9
+BR1224L125R     —               —               BR3RDOOR1       BR3RDF3      BR48L125RP      —                  —               BR3RDOOR26      BR3RDF22
+BR1224L200      BRCOVC15        —               —               —            BR48L125SGP     —                  BRCOVS60        —               —                10
+BR1224L200R     —               —               BR3RDOOR7       BR3RDF6      BR48L125SP      —                  BRCOVS59        —               —
+BR1616L125      BRCOVC14        —               —               —            BR612L125FDGP   BRCOVC08           —               —               —                11
+BR1624L125      BRCOVC14        —               —               —            BR612L125FDP    BRCOVC08           —               —               —
+BR1624L125G     BRCOVC14        —               —               —            BR612L125FGP    BRCOVC63           —               —               —                12
+BR1624L125R     —               —               BR3RDOOR2       BR3RDF1      BR612L125FP     BRCOVC08           —               —               —
+BR1630L150      BRCOVC25        —               —               —            BR612L125RP     —                  —               BR3RDOOR27      BR3RDF23         13
+BR2020L125      BRCOVC18        —               —               —            BR612L125SDGP   —                  BRCOVS08        —               —
+BR2024L125      BRCOVC18        —               —               —            BR612L125SDP    —                  BRCOVS08        —               —                14
+BR2024L125G     BRCOVC18        —               —               —            BR612L125SGP    —                  BRCOVS60        —               —
+BR2024L125R     —               —               BR3RDOOR3       BR3RDF2      BR612L125SP     —                  BRCOVS59        —               —
+                                                                                                                                                                 15
+BR2030L150      BRCOVC25        —               —               —            BR816L125FDGP   BRCOVC64 (flush)   —               —               —
+BR2040L200
+BR2040L200G
+                BRCOVC25
+                BRCOVC25
+                                —
+                                —
+                                                —
+                                                —
+                                                                —
+                                                                —
+                                                                             BR816L125FDP
+                                                                             BR816L125FGP
+                                                                                             BRCOVC64 (flush)
+                                                                                             BRCOVC09
+                                                                                                                —
+                                                                                                                —
+                                                                                                                                —
+                                                                                                                                —
+                                                                                                                                                —
+                                                                                                                                                —
+                                                                                                                                                                 16
+BR2040L200R
+BR2424L125
+                —
+                BRCOVC24
+                                —
+                                —
+                                                BR3RDOOR6
+                                                —
+                                                                BR3RDF7
+                                                                —
+                                                                             BR816L125FP
+                                                                             BR816L125RP
+                                                                                             BRCOVC09           —               —
+                                                                                                                                BR3RDOOR28
+                                                                                                                                                —
+                                                                                                                                                BR3RDF23
+                                                                                                                                                                 17
+                                                                                                                                                                 18
+BR2424L125G     BRCOVC24        —               —               —            BR816L125SDGP                      BRCOVS61        —               —
+BR2440L200      BRCOVC33        —               —               —            BR816L125SDP    —                  BRCOVS61        —               —
+BR24L125FP      BRCOVC60 (FLUSH) —              —               —            BR816L125SGP                       BRCOVS09        —               —
+BR24L125RP      —               —               BR3RDOOR25      BR3RDF21     BR816L125SP                        BRCOVS09        —               —
+                                                                                                                                                                 19
+BR24L125RSE2P   —               —               —               BR3RDF21     BR816L200RF     —                  —               BR3RDOOR7       BR3RDF6
+BR24L125RSEP    —               —               —               BR3RDF21     BR816LC125FDP   BRCOVC64 (flush)   —               —               —                20
+BR24L125SP      —               BRCOVS62        —               —            TT120FLGNM      —                  —               —               —
+BR24L70FGP      Not available   —               —               —            TT120SLGNM      —                  —               —               —                21
+                                                                                                                                                                 22
+                                                                                                                                                                 23
+                                                                                                                                                                 24
+                                                                                                                                                                 25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                            V12-T5-21
+

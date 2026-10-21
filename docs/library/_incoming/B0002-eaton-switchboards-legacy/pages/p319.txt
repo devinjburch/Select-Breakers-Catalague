@@ -1,0 +1,147 @@
+     11                      Communication Systems
+                             Communication Hardware
+
+
+
+     Communications                    Features                            Simplified Wiring Rules                Modbus RS-485 Network
+1    Hardware                          The mMINT module is a               INCOM Network                          The following simplified
+                                       slave device on the Modbus          The following simplified               rules apply to a given system
+                                                                                                                  consisting of a cable link
+2    mMINT                             network and as such requires
+                                       a master that will exchange
+                                                                           rules apply to a given system
+                                                                                                                  between master and slave
+                                                                           consisting of a single daisy-
+                                       register objects with the           chained main cable link                devices (see figure below). For
+3                                      mMINT module.                       between master and                     more complex configurations,
+                                                                                                                  please refer to standard
+                                           Handles generic pass-           slave devices (see figure
+                                       ●
+
+                                                                           below). For more complex               Modbus RTU wiring
+4                                          through commands
+                                           (Modbus/INCOM/Modbus)           considerations including               specification rules for
+                                                                           star configurations, please            the RS-485 network.
+                                       ●   Capable of passing
+5                                          Modbus register objects
+                                                                           refer to the IMPACC wiring
+                                                                           specification T.D. 17513.
+                                                                                                                  ●   The recommended
+                                           from Eaton’s existing                                                      Modbus cable has twisted-
+                                           products and newer PnP                                                     pair wires (24 AWG
+6                                          (Plug-‘n-Play) products to a
+                                                                           mMINT in a
+                                                                           Communications Network                     stranded 7x32 conductors
+                                           Modbus RTU master                                                          with PVC insulation) having
+              mMINT Module
+                                                                                                                      an aluminum/mylar foil
+7
+                                                                                      Modbus RTU Serial Network
+                                       ●   Data in IEEE® Floating
+     Product Description                                                                                              shield with drain wire
+                                           Point format and fixed
+     The mMINT (Modbus Master              point
+                                                                                                                  ●   The maximum system
+8    INCOM Network Translator)         ●   Modbus RTU
+                                                                                (Slave)                 Modbus        capacity is 4000 feet of
+     Module is an Eaton accessory                                              Modbus
+                                                                                                        Master
+                                                                                                                      communications cable
+                                           communications data
+     product that will provide
+                                                                               mMINT
+                                                                                                                      and 247 devices on the
+9    communication between
+                                           transfer rates of 1200,
+                                           9600 or 19,200 baud with
+                                                                               (Master)                               Modbus RTU network
+     a Modbus RTU network                  one start bit, eight data                          INCOM Network       ●   Make sure that there is
+     and an INCOM (INdustrial
+10   COMmunications) network
+                                           bits, no parity, and either                                                twisted-pair wire that is
+                                                                                                                      recommended for Modbus
+                                           one or two stop bits
+     (see the mMINT in a                                                                               INCOM          RTU network use. Use
+                                           Up to 32 products
+11
+                                       ●
+     Communications Network                                                                             Slaves
+                                                                                                                      shielded twisted-pair wire
+     figure). This module is               connected to INCOM
+                                                                               Recommended INCOM                      to connect each slave to
+     transparent to the Modbus             network port (246 unique        ●
+
+                                                                               cable styles are Belden                the Modbus RTU network,
+12   network. It communicates              addresses maximum)
+                                           Flashing Status LED to              9463 or C-H style                      daisy-chain style. The
+     to a master on the Modbus         ●
+                                                                                                                      polarity of the twisted pair
+                                           indicate an active module           2A957805G01
+     network using the Modbus                                                                                         is critically important
+13   RTU (Remote Terminal Unit)        ●   LED indicators for INCOM
+                                                                           ●   The maximum system
+     protocol. It communicates to          transmit and receive                capacity is 10,000 feet of         mMINT Module
+     slave devices on the INCOM            communications                      communications cable and           Dimensions
+14   network using the IMPACC              exchanges                           32 slave devices on the                                            RS-485
+     (Integrated Monitoring,                                                   INCOM network under                                                Modbus
+                                       ●   LED indicators for Modbus                                                                              A B COM SHD
+                                                                               the mMINT
+15   Protection, and Control
+     Communication) protocol.
+                                           RS-485 transmit and
+                                                                           ●   Non-terminated taps, up to
+                                           receive communications
+     The catalog number of this            exchanges                           200 feet in length, off the                                        J3
+
+16   product is mMINT.                 ●   Input power for the module
+                                                                               main link are permitted,
+                                                                               but add to the total cable
+                                           from either 120 Vac or
+                                                                               length                               4.25
+17                                         24–125 Vdc
+                                                                           ●   Make sure that there
+                                                                                                                  (108.0)
+                                       ●   DIN rail mount package
+                                                                               is twisted-pair wire that
+                                           0° to 60°C ambient
+18                                                                             is recommended for
+                                       ●
+
+                                           operation                           IMPACC network use.                                 J1                  J2
+
+
+                                       Module Mounting                         Use shielded twisted-pair
+19                                     When mounting the mMINT,
+                                                                               wire to connect each slave
+                                                                               to the INCOM network,                        24–125 Vdc     Shield INCOM
+                                       verify that an 11 mm H x 28 mm          daisy-chain style. The
+                                                                                                                            120 Vac
+                                                                                                                                          3.54
+
+20                                     W DIN rail is used and that it is
+                                       within an enclosed space.
+                                                                               polarity of the twisted
+                                                                                                                                         (89.9)
+
+
+                                                                               pair is not important              Burden
+                                                                                                                    24 Vac/Vdc, 3 VA
+21
+                                                                                                                  ●
+
+
+
+                                                                                                                  Safety Standards
+                                                                                                                    UL®
+22
+                                                                                                                  ●
+
+                                                                                                                  ● CSA®
+                                                                                                                  ● CE mark
+23                                                                                                                Communications Speed
+                                                                                                                  ● INCOM: 1200, 9600 baud
+24                                                                                                                ● N2 bus: 9600 baud
+
+25
+     V12-T11-12       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

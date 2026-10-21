@@ -1,0 +1,79 @@
+     5                                  Loadcenters
+                                        Type CH
+
+
+
+     Retrofit Stocking Kits (BR and CH Kits Available) 12
+1    Five recommended groups: existing box height determines retro group size.
+
+                                               Retrofit                 Collar               Cover      Existing Enclosure Parameters—Inches (mm)          Existing Box Height
+2                                              Kit Interior             Catalog              Catalog                                                       Determines Retro
+     Description                               Catalog Number           Number               Number     Height            Width            Depth           Size Group—Inches (mm)
+
+3    BR-Aluminum Bus/CH-Copper Bus
+     BR 125A MLO 12/24 circuit retro kit       RAABR12L125              Included             Included   14.00–18.00       10.50–12.50      3.50–5.25       Retro size AA/size
+                                                                                                        (355.6–457.2)     (266.7–317.5)    (88.9–133.35)   14.00–21.00 (355.6–533.4)
+4    BR 100A MCB 10/20 circuit retro kit       RAABR10B100              Included             Included   14.00–18.00       10.50–12.50      3.50–5.25       Retro size AA/size
+                                                                                                        (355.6–457.2)     (266.7–317.5)    (88.9–133.35)   14.00–21.00 (355.6–533.4)
+
+5    BR 125A MLO 12/24 circuit retro kit       RAABR12L125A             Included             Included   14.00–21.00
+                                                                                                        (355.6–533.4)
+                                                                                                                          10.50–15.50
+                                                                                                                          (266.7–393.7)
+                                                                                                                                           3.50–5.25
+                                                                                                                                           (88.9–133.35)
+                                                                                                                                                           Retro size AA/size
+                                                                                                                                                           14.00–21.00 (355.6–533.4)
+     BR 100A MCB 10/20 circuit retro kit       RAABR10B100A             Included             Included   14.00–21.00       10.50–15.50      3.50–5.25       Retro size AA/size
+6                                                                                                       (355.6–533.4)     (266.7–393.7)    (88.9–133.35)   14.00–21.00 (355.6–533.4)
+     CH interior 125A MCB 22 circuits          RACH22B125I              RACHFRAME            CH8CF      21.00–30.00       13.00–22.00      4.25–6.00       Retro size A/size
+
+7
+                                                                                                        (533.4–762.0)     (330.2–558.8)    (108.0–152.4)   21.00–30.00 (533.4–762.0)
+     CH interior 125A MLO 24 circuits          RACH24L125I              RACHFRAME            CH8CF      21.00–30.00       13.00–22.00      4.25–6.00       Retro size A/size
+                                                                                                        (533.4–762.0)     (330.2–558.8)    (108.0–152.4)   21.00–30.00 (533.4–762.0)
+8    CH interior 150A MCB 24 circuits          RBCH24B150I              RACHFRAME            CH8EF      29.00–36.00       13.00–22.00      4.25–6.00       Retro size B/size
+                                                                                                        (736.6–914.4)     (330.2–558.8)    (108.0–152.4)   29.00–36.00 (736.6–914.4)
+
+9    CH interior 225A MLO 32 circuits          RBCH32L225I              RACHFRAME            CH8DF      29.00–36.00
+                                                                                                        (736.6–914.4)
+                                                                                                                          13.00–22.00
+                                                                                                                          (330.2–558.8)
+                                                                                                                                           4.25–6.00
+                                                                                                                                           (108.0–152.4)
+                                                                                                                                                           Retro size B/size
+                                                                                                                                                           29.00–36.00 (736.6–914.4)
+     CH interior 200A MCB 32 circuits          RCCH32B200I              RCCHFRAME            CH8JF      34.00–41.00       13.00–22.00      4.25–6.00       Retro size C/size
+10                                                                                                      (863.3–1041.4)    (330.2–558.8)    (108.0–152.4)   34.00– 41.00 (863.3–1041.4)
+     CH interior 225A MLO 42 circuits          RCCH42L225I              RCCHFRAME            CH8GF      34.00–41.00       13.00–22.00      4.25–6.00       Retro size C/size
+                                                                                                        (863.3–1041.4)    (330.2–558.8)    (108.0–152.4)   34.00– 41.00 (863.3–1041.4)
+11   CH interior 200A MCB 42 circuits          RDCH42B200I              RDCHFRAME            CH8KF      37.00–45.00       13.00–22.00      4.25–6.00       Retro size D/size
+                                                                                                        (939.8–1143.0)    (330.2–558.8)    (108.0–152.4)   37.00–45.00 (939.8–1143.0)
+
+12   CH interior 225A MLO 42 circuits          RDCH42L225I              RDCHFRAME            CH8KF      37.00–45.00
+                                                                                                        (939.8–1143.0)
+                                                                                                                          13.00–22.00
+                                                                                                                          (330.0–558.8)
+                                                                                                                                           4.25–6.00
+                                                                                                                                           (108.0–152.4)
+                                                                                                                                                           Retro size D/size
+                                                                                                                                                           37.00–45.00 (939.8–1143.0)
+
+13   Notes
+     1 Other options are available.
+     2 CH retrofit interiors and collar cartons are color coded to ensure accuracy of kit.
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T5-28                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

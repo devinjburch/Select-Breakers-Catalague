@@ -1,0 +1,157 @@
+     17                                 Switchgear
+                                        Allis-Chalmers LA Breakers—Trip Unit Retrofit Kits
+
+
+
+     Digitrip RMS Retrofit Kits for Allis-Chalmers LA Breakers Catalog Numbering System
+1
+                                                                A26 8 6 6 4Q 4 6 - T C S U
+2
+3
+                 Trip Unit Type 1                         RP       No Rating Plug                         T = Digitrip 510, 610, 810, 910              N = Standard kit
+                                                                                                                                                       U = Upgrade kit from
+4              5 = 510 basic                             Cat.      Current Rating
+               Z = 510 zone int.                         Code                                                                                              Digitrip 500/510
+                                                                    Tap     Plug
+               6 = 610                                   21       200      100                 N = No sensors
+               8 = 810
+5              9 = 910
+                                                         22
+                                                         32
+                                                                  200
+                                                                  300
+                                                                           200
+                                                                           200
+                                                                                               3 = Three sensors
+                                                                                               4 = Four sensors
+                                                                                                                                                 N = Standard kit
+                                                                                                                                                 S = Simplified cell harness
+                                                         3Q       300      250                                                                   R = Cell harness removed
+
+6
+                                                         33       300      300
+                              Protection
+                                                         42       400      200
+                            1 = LI                                                                                                          N = No CPT supplied
+                                                         4Q       400      250
+                            2 = LSI                                                                                                         C = Breaker-mounted CPT
+                                                         43       400      300
+7                           3 = LS
+                            4 = LIG
+                                                         44
+                                                         63
+                                                                  400
+                                                                  600
+                                                                           400
+                                                                           300
+                            5 = LSG                      64       600      400                 Code            Breaker Frame Description          Sensor            Current Rating of
+8                           6 = LSIG                     66
+                                                         84
+                                                                  600
+                                                                  800
+                                                                           600
+                                                                           400
+                                                                                                                                                   Code        Sensor and Available Taps
+                                                                                                        ALL FRAMES                               S           NO SENSORS PROVIDED
+                                                         86       800      600
+                         N = No rating plug                                                   A16       LA-600 blue cover (plastic)              6           600, 400, 300, 200
+9                        6 = 50/60 Hz plug
+                                                         88
+                                                         T6
+                                                                  800
+                                                                  1200
+                                                                           800
+                                                                           600                A1C       LA-1600 blue cover (plastic)             C           1600, 1200, 800, 600, 400
+                                                         T8       1200     800                                                                   2           200
+
+10
+                                                         TA       1200     1000               A26       LA-600 gold cover (metal)                6           600, 400, 300, 200
+                                                         TT       1200     1200
+                                                         C8       1600     800                A46       LA-600F (M.O.)                           6           600, 400, 300, 200
+                                                         CA       1600     1000               A4C       LA-1600F blue                            C           1600, 1200, 800, 600, 400
+11                                                       CT
+                                                         CC
+                                                                  1600
+                                                                  1600
+                                                                           1200
+                                                                           1600
+                                                                                              LAC       LAF-1600C (M.O.)                         C           1600, 1200, 800, 600, 400
+                                                                                              A2C       LA-1600 gold cover (metal)               C           1600, 1200, 800, 600, 400
+                                                         DA       2000     1000
+12                                                       DT       2000     1200                                                                  2           200
+                                                         DC       2000     1600               A2H       LA-3000 gold/blue                        H           3000, 2000
+                                                         DD       2000     2000               A4H       LA-3000A                                 H           3000, 2000
+13                                                       HC
+                                                         HD
+                                                                  3000
+                                                                  3000
+                                                                           1600
+                                                                           2000
+                                                                                              A36
+                                                                                              A3C
+                                                                                                        LA-25A manually operated
+                                                                                                        LA-50A manually operated
+                                                                                                                                                 6
+                                                                                                                                                 C
+                                                                                                                                                             600, 400, 300, 200
+                                                                                                                                                             1600, 1200, 800, 600, 400
+                                                         HP       3000     2500
+                                                         HH                                                                                      8           800, 600, 400
+14
+                                                                  3000     3000
+                                                         FC       2400     1600                                                                  2           200
+                                                         FD       2400     2000               A3H       LA-75A manually operated                 H           3000, 2000
+                                                         FF       2400     2400
+15                                                       JC
+                                                         JD
+                                                                  3200
+                                                                  3200
+                                                                           1600
+                                                                           2000
+                                                                                              A5C       G-50A                                    C
+                                                                                                                                                 8
+                                                                                                                                                             1600
+                                                                                                                                                             800
+                                                         JF       3200     2400               AG6       G-25 manually operated                   6           600, 300
+16                                                       JJ
+                                                         KD
+                                                                  3200
+                                                                  4000
+                                                                           3200
+                                                                           2000
+                                                                                              A4J       LA-3200                                  J           3200, 2400, 2000
+                                                         KP       4000     2500               LGF       LG-3000 (with frame)                     H           3000
+
+17                                                       KH       4000     3000               LGH       LG-3000 (frameless)                      H           3000
+                                                         KJ       4000     3200               A1K       LA-4000F                                 K           4000
+                                                         KK       4000     4000
+
+18
+     Note
+19   1 At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910.
+
+
+
+     Sample shown is a Digitrip                          This information is subject to
+20   retrofit kit for an LA-600 gold,                    change. Updated pricing and
+     with an RMS 810 trip unit,                          availability information is
+     with LSIG protection, with a                        included in the Retrofit Kit
+21   60 Hz Plug, rated at 250A for                       Product Guide. For a copy
+     a sensor tap of 400A, four                          of the Retrofit Kit Product
+22   sensors (for a four-wire
+     ground system) that have
+                                                         Guide, contact your local
+                                                         Eaton Field Sales office or the
+     sensor taps of 600, 400, 300                        Digitrip Retrofit Kit Service
+23   and 200A, there is a breaker-
+     mounted CPT with the kit,
+                                                         Center at 1-800-937-5487.
+
+     the cell wiring is simplified
+24   (only 6 wires vs. 16), and the
+     breaker was previously
+     retrofitted with a Digitrip 500/
+25   510, so this is an upgrade kit.
+
+     V12-T17-42                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,101 @@
+     3                                 Molded-Case Circuit Breakers
+                                       Replacement Capabilities
+
+
+
+     Handle Mechanism Selection and Availability Guide
+1                                            Door Mounted                                        Flange Mounted
+     Circuit Breaker and                     Vari-              Series C 1          Slide        Series C 1                 AMT           AMT
+2    Switch Type                             Depth              Rotary              Plate   MC   Flex Shaft       SM        Fixed Width   Vari-Depth
+     Series C Breakers
+
+3    F-Frame/F HMCP 2                        ■
+                                             ■
+                                                                ■
+                                                                ■
+                                                                                    ■
+                                                                                    ■
+                                                                                            ■
+                                                                                            ■
+                                                                                                 ■
+                                                                                                 ■
+                                                                                                                  ■
+                                                                                                                  ■
+                                                                                                                            ■
+                                                                                                                            ■
+                                                                                                                                          ■
+                                                                                                                                          ■
+     J-Frame/J HMCP
+
+4    K-Frame/K HMCP
+     L-Frame/L HMCP
+                                             ■
+                                             ■
+                                                                ■
+                                                                ■
+                                                                                    ■
+                                                                                    ■
+                                                                                            ■
+                                                                                            ■
+                                                                                                 ■
+                                                                                                 ■
+                                                                                                                  ■
+                                                                                                                  ■
+                                                                                                                            ■
+                                                                                                                            ■
+                                                                                                                                          ■
+                                                                                                                                          ■
+                                             ■                  ■                   ■       ■    ■                ■                       ■
+5
+     M-Frame
+     N-Frame                                                    ■                                ■
+     R-Frame                                                                        ■            ■
+6    Other Industrial Breakers
+     GB/GHB/GC/GHC/GD/GMCP                   ■
+7    LA/LAB/HLA                              ■                                      ■       ■                     ■         ■             ■
+     LC/HLC/LCG                              ■                                      ■       ■                     ■         ■             ■
+8    MA/HMA                                  ■                                      ■       ■                     ■                       ■
+     MC/HMC                                  ■                                      ■       ■                     ■                       ■
+9    NB/HNB                                  ■                                      ■       ■                     ■                       ■
+     NC/HNC                                  ■                                      ■       ■                     ■                       ■
+
+10   PB                                                                             ■
+     PC/PCC                                                                         ■
+
+11   FB TRI-PAC                              ■                                      ■       ■                     ■                       ■
+     LA TRI-PAC                              ■                                      ■                             ■                       ■
+
+12   NB TRI-PAC                              ■                                      ■                             ■                       ■
+     PB TRI-PAC                                                                     ■
+
+13   FCL                                     ■                                              ■                     ■
+     LCL                                     ■                                              ■                     ■                       ■
+
+14   EB/EHB/FB/HFB                           ■                                      ■       ■                     ■         ■             ■
+     JA/KA/HKA/DA/LB/LBB/HLB                 ■                                      ■       ■                     ■         ■             ■
+
+15   Disconnect Switches
+     DE-ION® 30, 60, 100                     ■                                      ■
+                                             ■                                      ■       ■                     ■         ■             ■
+16
+     DS 30, 60, 100, 200
+     DS 400, 600                                                                    ■
+     Visi-Flex Model “T” 30, 60, 100                                                ■
+17
+     Notes
+     1 For application only with Series C molded-case circuit breakers and HMCPs.
+
+18   2 Series C F-Frame includes EHD, ED, FDB, FD, HFD and FDC designations.
+
+
+
+
+19
+20
+21
+22
+23
+24
+25
+     V12-T3-96                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

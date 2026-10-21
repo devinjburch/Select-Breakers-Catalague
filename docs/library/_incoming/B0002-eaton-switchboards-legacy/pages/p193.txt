@@ -1,0 +1,153 @@
+     4                            Panelboards
+                                  Replacement Capabilities
+
+
+
+     MP40                                   MP40 Panel Layout
+1    Originally a
+     Cutler-Hammer Product                                                                         Top Gutter
+                                                                                               6.50" through 400A
+2                                                                                              12.0" 600–1600A
+
+                                                0X                                           None
+
+3                                               4X
+                                                                                              225–
+                                                                                             1200A
+                                                                                                            Neutral
+
+
+4                                               7X                                           1600A
+
+
+
+
+                                                              5" Side Gutters
+
+
+
+
+                                                                                                                                        5" Side Gutters
+                                                1X                                                Nameplate /
+
+
+
+
+                                                                                26" Wide
+
+
+
+
+                                                                                                                             26" Wide
+5                                               1X
+                                                                                              1P EB
+                                                                                             EHB, HFB
+                                                                                                             1P EB
+                                                                                                            EHB, HFB
+                                                                                              2P EC           2P EC
+                                                2X
+6
+                                                                                             EHC, FC         EHC, FC
+                                                                                            3P EC, EMC,     3P EC, EMC,
+                                                3X                                           FC, 2P or       FC, 2P or
+
+7
+                                                                                              3P HFB          3P HFB
+                                                                                              2P CC
+                                                2X                                                              0
+                                                                                               CCH
+
+8
+                                                                                            3P CC, CCH,
+                                                3X                                            2P or 3P          0
+                                                                                            JB, KB, HKB
+
+
+9                                               4X
+                                                                                            2P or 3P
+                                                                                            DA, LBB,               0
+             Cutler-Hammer MP40                                                             LB, HLB
+
+10   The panel layouts shown on                             8-1/2"
+                                                                                            2P or 3P
+                                                                                                             This space is
+                                                                                                              not usable
+                                                                                                                                   8-1/2"
+     this and the following pages               6X                                          LA, HLA,         when C.B. to
+     will aid in determining the                                                            LC, HLC           left is used
+11   space available for the
+                                                                                                              as a main 0
+                                                          38" Wide
+
+
+
+
+                                                                                                                                                38" Wide
+
+
+     addition of molded-case                                                                       2P or 3P
+
+12   circuit breakers into your                 6X
+                                                                                                   MC, HMC
+     existing MP40 panelboards.
+
+13       Determine the amount
+     ●
+                                                                                                        2P or 3P
+                                                6X
+         of space available in the                                                                     NC, HNC 1
+         panelboard for adding
+14       circuit breakers.
+         1.38 inches (35.1 mm)
+                                                3X
+                                                                                               225,
+                                                                                              600A
+                                                                                               800,           Main
+         of panel height =                      4X                                                            Lugs
+15
+                                                                                             1200A
+         one X space
+                                                                                             1600A 2
+                                                                                 30" Wide
+
+
+
+
+                                                                                                                             30" Wide
+
+
+
+
+                                                9X
+     ●   Determine the type of
+         breakers needed for the
+16       required ampere rating                                                                  Bottom Gutter
+                                                                                             6.50" up through 400A
+         and number of poles                                                                    12.0" 600–1600A
+17   Ratings
+                                            Notes
+     ● 1600A maximum                        1 If the panelboard has a main breaker, no neutral, no split bus, or no sub-feed or feed-through
+
+18   Replacement Capabilities                 lugs, add 1X to provide space for a nameplate.
+                                            2 Breakers of the same frame size, regardless of poles, may be mounted opposite of each other.
+     Breakers                               3 Only Type NC and HNC breakers require a 11.38-inch (289.1 mm) deep box. Standard box
+
+19   Refer to renewal parts data
+     RP01400003E for a complete
+                                              depth is 10.50 inches (266.7 mm).
+                                            4 When 1600A lug mains are for (4)–600 kcmil maximum copper cables per phase, the X unit
+
+     list of available parts                  space can be reduced to 4X.
+20   including branch device
+     retrofit kits, which include
+     the device, as well as, the
+21   bus connectors and the
+     required mounting hardware.
+22   Contact the Aftermarket
+     Center in Sumter, SC
+     (see Page V12-T4-22).
+23
+24
+25
+     V12-T4-12           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—June 2018 www.eaton.com
+

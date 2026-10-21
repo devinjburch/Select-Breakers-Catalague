@@ -1,0 +1,67 @@
+     3                               Molded-Case Circuit Breakers
+                                     Replacement Capabilities
+
+
+
+     Panelboard “Only” Replacement Circuit Breaker Guide—Dimensions in Inches (Per Three-Pole Breaker), continued
+1    Maximum Amperes
+     225A                                          400A                                 400A                      800A
+2    Current Design
+     RJ                                            RK 1, RHK                            RKL 2, RHKL               RLM 3, RHLM
+3
+4
+5
+6
+7
+8
+9
+10
+11   Width: 8.25
+     Height: 10.13
+                                                   Width: 8.25
+                                                   Height: 15.50
+                                                                                        Width: 8.25
+                                                                                        Height: 16.00
+                                                                                                                  Width: 8.25
+                                                                                                                  Height: 22.00
+     Depth: 4.06                                   Depth: 4.06                          Depth: 4.06               Depth: 5.50
+
+12   Out-of-Production Westinghouse Circuit Breakers
+     J                                             K, HK                                KL, HKL                   LM, HLM
+
+13
+14
+15
+16
+17   *1967                                         *1967                                *1967                     *1967
+     Width: 8.25                                   Width: 8.25                          Width: 8.25               Width: 8.25
+     Height: 10.13                                 Height: 15.50                        Height: 16.00             Height: 22.00
+18   Depth: 4.06                                   Depth: 4.06                          Depth: 4.06               Depth: 5.50
+
+
+19   Further Information
+     Publication Number          Description
+
+20   IL 15558                    Mounting information for the RE, REA breakers
+     IL 15559                    Mounting information for the RF, RHF breakers
+
+21   IL 15562
+     IL 15563
+                                 Mounting information for the REH, RFA, RHFA breakers
+                                 Mounting information for the RJ breaker
+
+22
+     IL 15564                    Mounting information for the RK, RHK breakers
+     IL 15565                    Mounting information for the RKL, RHKL breakers
+     IL 15566                    Mounting information for the RLM, RHLM breakers
+23   Notes
+     1 Obsolete—use RHK (available in three-pole only).
+
+24   2 Obsolete—use RHKL (available in three-pole only).
+     3 Obsolete—use RHLM (available in three-pole only).
+
+
+
+25
+     V12-T3-82               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,77 @@
+     10                       IQ Products
+                              Accessories
+
+
+
+     Digitrip 3000 (DT-3000)             It can be power from either                       The integral Dual-Source       Protection curves are similar
+1                                        AC or DC control power. The                       Power Supply allows            to those on low voltage
+                                         DT-3000 can be used for                           the DT-3000 to operate         power circuit breaker trip
+                                         any application where                             solely from the main CTs       units, and provide close
+2                                        instantaneous and/or time                         during a fault if the          coordination with
+                                         overcurrent protection                            normally connected             downstream devices, as well
+                                         is required.                                      AC voltage is not available,   as upstream fuse and/or
+3                                                                                          i.e., an electromechanical     electromagnetic relays. Just
+                                         The DT-3000 may be applied                        or electronic “self            one DT-3000 replaces the
+                                         as the transformer primary
+4                                        protection or as backup to the
+                                                                                           powered” relay.                normal complement of three
+                                                                                                                          or four conventional
+                                         differential protection. The                      Electrical Power System        electromagnetic overcurrent
+5                                        DT-3000 also has zone
+                                         selective interlocking to
+                                                                                           Protection
+                                                                                           The DT-3000 provides phase
+                                                                                                                          relays, an ammeter, a
+                                                                                                                          demand ammeter, an
+                                         minimize equipment damage                         and ground protection for      ammeter switch and, in some
+6                 DT-3000
+                                         resulting from a phase or                         most types of medium           situations, a lockout relay
+     General Description                 ground fault in an area where                     voltage electrical power       switch (device 86).
+         Microprocessor-based,           long time and/or short time                       distribution systems.
+7
+     ●
+
+         three-phase and ground          delay is in use.
+         overcurrent relay
+8    ●   Independent phase and           Product Selection
+         ground measuring circuits
+         and operation
+9
+                                         DT-3000 Ordering Information
+     ●   ANSI, IEC and thermal                                                                                                        Catalog
+         protection curves               Description                                                                                  Number
+10   ●   Fixed mount or                  DT-3000 protective relay                                                                     DT3000
+         drawout design
+                                         DT-3000 protective relay Chicago version                                                     DT3100
+         Dual-source power supply
+11
+     ●
+
+         option for AC control           DT-3030 protective relay (24–48 Vdc CE Mark version)                                         DT3030
+         power applications              DT-3000 drawout case protective relay                                                        DT3001
+12   Eaton’s Digitrip 3000 trip unit     DT-3000 Chicago version drawout case protective relay                                        DT3101
+     (DT-3000) is a multifunction,       DT-3030 drawout case protective relay (24–48 Vdc CE Mark version)                            DT3031
+     microprocessor-based
+13   overcurrent trip unit designed
+                                         DT-3000 protective relay with 120 Vac dual-source power supply                               DT3010
+
+     for both ANSI and IEC               DT-3000 protective relay with 240 Vac dual-source power supply                               DT3020
+
+14   applications. The DT-3000
+     design provides true rms
+     sensing design of each
+15   phase and ground current.
+
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T10-30         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

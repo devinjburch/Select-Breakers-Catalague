@@ -1,0 +1,69 @@
+                                                                                                   Appendix 2—Alphabetical Product Index
+
+NQC Panelboard, Replacement Breaker . . . . . . . . . . . . . . . V12-T4-7                          Panelboard Replacement Breakers
+NQP Panelboard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7                 Selection Guide . . . . . . . . . . . . . . . . . . . . V12-T3-80–V12-T3-82
+NQP Panelboard, Replacement Breaker . . . . . . . . . . . . . . . V12-T4-7                                Types RFA, RF, RHFA and RHF. . . . . . . . V12-T3-84–V12-T3-87
+NS Out-of-Production Circuit Breaker . . . . . . . . . . . . . . . . V12-T3-12                      Panelboards . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-1–V12-T4-22
+Numa-Logic . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T12-2, V12-T12-3                     A2B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Numa-Logic 300 Series . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T12-3                     ABH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Numa-Logic 400 Series . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T12-4                     B10B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+                                                                                                          B10B-LX. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Numa-Logic 700 Series . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T12-4
+                                                                                                          B10B-LXX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+                                                                                                          B65B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+O
+                                                                                                          Breaker Replacement Chart . . . . . . . . . . . . V12-T4-4–V12-T4-8
+OIL . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-99
+                                                                                                          CDP . . . . . . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-4, V12-T4-9
+Operating Handle — Safety Switches. . . . . . . . . . . . . . . . . V12-T7-2
+                                                                                                          CDP/HCDP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Operating Mechanism — Safety Switches . . . . . . . . . . . . . V12-T7-2                                  CHB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-4
+OPTIM 550 Trip Unit Upgrades. . . . . . . . . . . . . . . . . . . . . V12-T3-94                           EE . . . . . . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-6, V12-T4-13
+OPTIM Trip Unit Upgrades . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-94                        EP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-14
+Optional Clamp-on CTs . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T10-43                      FDP . . . . . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-7, V12-T4-10
+Ordering Process for Series C                                                                             H10B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+ Retrofit Kits for MCC Units . . . . . . . . . . . . . . . . . . . . . V12-T14-17                         H10P . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Other Breakers Rating Plugs. . . . . . . . . . . . . . . . . . . . . . V12-T17-27                         MP40 . . . . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-5, V12-T4-12
+Other Breakers with Digitrip RMS Retrofit Kits . . . . . . . V12-T17-51                                   NA1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Other Breakers—Horizontal Retrofit RMS                                                                    NAB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+ Replacement Trip Units . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-22                        NDP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Other Breakers—Vertical Retrofit RMS                                                                      NEB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+ Replacement Trip Units . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-23                        NFB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-4
+Other General Electric Breakers with Digitrip                                                             NH1B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+ RMS Retrofit Kits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-40                   NHDP. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Other ITE Breakers Replacement and                                                                        NHEB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+ Upgrade Capabilities. . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-45                     NLAB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Other ITE Breakers with Digitrip RMS Retrofit Kits . . . . V12-T17-46                                     NLAB-AB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Overcurrent Trip Unit . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T10-30                    NLAB-ABH. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Overload . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-28             NLAB-LX . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Overload Relay Selection Table. . . . . . . . . . V12-T13-27–V12-T13-29                                   NPLAB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Overload Relays                                                                                           NPLAPQ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+       Type FT Fast Trip . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-29                   NQB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+                                                                                                          NQC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Overview of High Resistance Grounding
+ C-HRG (Medium Voltage) . . . . . . . . . . . . . . . . . . . . . . . . V12-T16-5                         NQP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+                                                                                                          PB . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-5, V12-T4-11
+P                                                                                                         PB/PH/PH-L . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-11
+P- and S-Contactors. . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-69                   PH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-5, V12-T4-11
+                                                                                                          PH-L. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-11
+PA Out-of-Production Circuit Breaker . . . . . . . . . . . . . . . . V12-T3-12
+                                                                                                          Pow-R-Line 3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-2
+PA TRI-PAC Out-of-Production Circuit Breaker . . . . . . . . . V12-T3-14
+                                                                                                          PRL1 and PRL2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-15
+Panel Mounting Adapter
+                                                                                                          PRL3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-16
+       Metering Devices, IQ 130/140/150 Series                                                            PRL3a . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-17
+         Accessories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T10-20                 PRL4B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-18
+Panel Mounting Adapter Kit . . . . . . . . . . . . . . . . . . . . . . V12-T10-31                         PRL4F . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-19
+Panel Mounting Bracket                                                                                    Q10P . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+       Metering Devices, Power Xpert Meter                                                                Q22B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+        4000/6000/8000                                                                                    Q22P . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+         Accessories . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T10-15                 Q65P . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7
+Panelboard Breaker Replacement Chart . . . . . . . V12-T4-4–V12-T4-8                                      Retrofits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-21
+Panelboard Connecting Straps . . . . . . . . . . . . . . . . . . . . . V12-T3-68                          Satellite Plants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-22
+
+
+
+
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions                         CA08100014E—November 2016                www.eaton.com                  V12-A1-21
+

@@ -1,0 +1,102 @@
+     3                          Molded-Case Circuit Breakers
+                                Replacement Capabilities
+
+
+
+     Standard Undervoltage Release                                Undervoltage Release Attachment Kits for Field Mounting 67
+1
+                                          Standard Undervoltage
+     For undervoltage protection.         Release                                   Breaker Type
+     A solenoid device mounts                                     Attachment        JA, KA, DA, HKA,
+     within a breaker case. Coil
+2    must be energized before
+                                                                  Voltage, Hz       LB, LBB, HLB              LA, LAB, HLA         MA, HMA           NB, HNB            PB, PA 4
+                                                                  For Right-Hand Mounting
+     closing breaker. Trips breaker
+3    when voltage drops below 35
+     to 70% of coil rating. Picks
+                                                                  24, 60            —                         60A9355G17           —                 —                  —
+                                                                  48, 60            —                         60A9355G08           —                 —                  5674D29G16
+     up and seals in at 85% of coil
+4    rating. For line voltages
+                                                                  120, 60           —                         60A9355G01           457D727G01        373D632G01         5674D29G09
+
+     up to 250 Vdc or 600 Vac.                                    208, 60           —                         60A9355G02           457D727G19        373D632G19         5674D29G10
+     Externally mounted resistors
+5
+                                                                  240, 60           —                         60A9355G03           457D727G02        373D632G02         5674D29G11
+     are supplied for certain                                     480, 60           —                         60A9355G05           457D727G03        373D632G03         5674D29G13
+     ratings. Standard leads
+     extend 18.00 inches outside                                  600, 60           —                         60A9355G06           457D727G04        373D632G04         5674D29G14
+6    of breaker. Longer leads may                                 12 DC             —                         458D020G01           457D727G09        372D032G01         4976D85G01
+     be specified.                                                24 DC             —                         458D020G02           457D727G10        372D032G02         4976D85G02
+7    Note: Undervoltage release                                   48 DC             —                         458D020G03           457D727G11        372D032G03         4976D85G03
+     attachments are not designed
+                                                                  60 DC             —                         458D020G04           457D727G21        —                  4976D85G04
+     for, and should not be used as,
+8    circuit interlocks. For further                              125 DC            —                         458D020G07           457D727G12        372D032G04         4976D85G07
+     information, Contact Avery
+                                                                  250 DC            —                         458D020G08           457D727G13        372D032G05         4976D85G08
+     Creek, NC, Technical Resource
+9    Center at 1-800-356-1243.                                    For Left-Hand Mounting
+                                                                  48, 60            —                         60A9355G16           —                 —                  5674D29G08
+10
+     Factory-Mounted
+     Undervoltage Releases                                        120, 60           458D070G01                60A9355G09           457D727G05        373D632G05         5674D29G01
+     All of the above undervoltage                                208, 60           458D070G05                60A9355G10           457D727G20        373D632G20         5674D29G02
+
+11   releases can be specified for
+     factory mounting. Contact
+                                                                  240, 60           458D070G02                60A9355G11           457D727G06        373D632G06         5674D29G03
+                                                                  480, 60           458D070G03                60A9355G13           457D727G07        373D632G07         5674D29G05
+     factory for pricing. These
+12   attachments have the leads                                   600, 60           458D070G04                60A9355G14           457D727G08        373D632G08         5674D29G06
+     out the side and are UL                                      12 DC             458D070G09                458D020G11           457D727G14        372D032G06         4976D85G11
+     Listed when factory mounted
+13   unless other non-UL Listed
+                                                                  24 DC             458D070G10                458D020G12           457D727G15        372D032G07         4976D85G12
+
+     modifications are used.                                      48 DC             458D070G11                458D020G13           457D727G16        372D032G08         4976D85G13
+
+14   Note: Right-hand mounting
+                                                                  60 DC             —                         458D020G14           457D727G22        —                  4976D85G14
+     is considered standard unless                                125 DC            458D070G12                458D020G17           457D727G17        372D032G09         4976D85G17
+     specified otherwise except JA,
+15   KA, DA, HKA, LB, LBB, HLB
+                                                                  250 DC            458D070G13                458D020G18           457D727G18        372D032G10         4976D85G18
+     and SELTRONIC available                                      Notes
+     for left-hand only. JB, KB, HKB
+16
+                                                                  1 Cannot be used with other attachments except a small 1A-1B auxiliary switch rated 250V can be supplied in
+     are obsolete.                                                   right-hand pole.
+                                                                  2 Provided with two leads (total of four) for use with a remote normally open contact (pushbutton, etc.) to trip the
+     Factory-mounted
+17
+                                                                     breaker. No external power required.
+     undervoltage releases                                        3 Not available on ambient compensating breakers.
+
+     only can be supplied for                                     4 Not UL Listed.
+
+     the following breakers:
+18
+                                                                  5 Right-hand mounting only.
+                                                                  6 Not field mountable on non-automatic breakers (molded-case switches).
+     ●   SELTRONIC breakers                                       7 Field mounting voids UL listing of breaker except on LA, HLA, MA, HMA, NB, HNB, PB, KA, HKA, LB and HLB.
+         (120 Vac, 60 Hz only
+19       standard), MC, HMC, NC,
+         HNC, PC, PCC, LC, HLC
+20   ●   SELTRONIC breakers with
+         remote trip provisions,
+         MC, HMC 2 , NC, HNC 2 ,
+21       PC, PCC 2 , LC, HLC 2
+     ●   EB 3 , EHB 3 , FB 3 , HFB 3 ,
+         FB 45 and HFB magnetic
+22       only 45
+     ●   No UVR available for CA,
+23       CAH and HCA
+
+
+24
+25
+     V12-T3-74           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

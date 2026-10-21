@@ -1,0 +1,103 @@
+                                                                                                             Meter Centers
+                                                                                                                                                 6
+Residential Meter Stacks—Ring
+                                                                                                                                                         1
+   Drip Hood
+
+                                                                                                                                                         2
+                                                         Wireway Cover                                                                                   3
+                                                                                                                                                         4
+                                                             Meter Socket Assembly
+
+                                                                                                                                                         5
+                                                                                                                                                         6
+                                                                                                                                                         7
+                                                             Tenant Breaker Cover
+
+Meter Cover
+                                                                                                                                                         8
+                                                                                                                                                         9
+                                                          Endwall
+
+                        Ring Style Meter Stack
+
+Residential Meter Stacks—Ring                                                                                                                            10
+Catalog Number
+                                           Meter                 Tenant                         Endwall       Endwall                                    11
+Meter               Wireway                Socket                Breaker             Meter      (with         (without     Drip    Vertical
+Stack               Cover                  Assembly              Cover               Cover      Knockouts)    Knockouts)   Hood    Busbar
+3MM212              MMCCVR2123             —                     1                   1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM1223VBUS            12
+3MM212R             MMCCVR2123R            1MMMS                 1MMBC1              1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM1223VBUS
+1MM312              MMCCVR3121             1MMMS                 1                   1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM1223VBUS            13
+1MM312R             MMCCVR3121R            1MMMS                 1MMBC1              1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM1223VBUS
+
+                                                                                                                                                         14
+3MM312              MMCCVR3123             1MMMS                 1                   1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM1223VBUS
+3MM312R             MMCCVR3123R            1MMMS                 1MMBC1              1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM1223VBUS
+1MM412              MMCCVR4121             1MMMS                 1                   1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM124VBUS
+1MM412R             MMCCVR4121R            1MMMS                 1MMBC1              1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM124VBUS             15
+3MM412              MMCCVR4123             1MMMS                 1                   1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM124VBUS
+3MM412R
+1MM512
+                    MMCCVR4123R
+                    MMCCVR5121
+                                           1MMMS
+                                           1MMMS
+                                                                 1MMBC1
+                                                                 1
+                                                                                     1MMCP1 2
+                                                                                     1MMCP1 2
+                                                                                                MM12N1WLK
+                                                                                                MM12N1WLK
+                                                                                                              MM12N1WL
+                                                                                                              MM12N1WL
+                                                                                                                           MMDH3
+                                                                                                                           MMDH3
+                                                                                                                                   MM124VBUS
+                                                                                                                                   MM125VBUS
+                                                                                                                                                         16
+1MM512R             MMCCVR5121R            1MMMS                 1MMBC1              1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM125VBUS
+3MM512              MMCCVR5123             1MMMS                 1                   1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM125VBUS             17
+3MM512R             MMCCVR5123R            1MMMS                 1MMBC1              1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM125VBUS
+1MM612              MMCCVR6121             1MMMS                 1                   1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM126VBUS             18
+1MM612R             MMCCVR6121R            1MMMS                 1MMBC1              1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM126VBUS
+
+                                                                                                                                                         19
+3MM612              MMCCVR6123             1MMMS                 1                   1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM126VBUS
+3MM612R             MMCCVR6123R            1MMMS                 1MMBC1              1MMCP1 2   MM12N1WLK     MM12N1WL     MMDH3   MM126VBUS
+3MM220              MMCCVR2203             1MMMS                 1                   1MMCP2 3   MM20N1WLK     MM20N1WL     MMDH4   MM2023VBUS
+3MM220R             MMCCVR2203R            1MMMS                 1MMBC2              1MMCP2 3   MM20N1WLK     MM20N1WL     MMDH4   MM2023VBUS            20
+1MM320              MMCCVR3201             1MMMS                 1                   1MMCP2 3   MM20N1WLK     MM20N1WL     MMDH4   MM2023VBUS
+1MM320R
+3MM320
+                    MMCCVR3201R
+                    MMCCVR3203
+                                           1MMMS
+                                           1MMMS
+                                                                 1MMBC2
+                                                                 1
+                                                                                     1MMCP2 3
+                                                                                     1MMCP2 3
+                                                                                                MM20N1WLK
+                                                                                                MM20N1WLK
+                                                                                                              MM20N1WL
+                                                                                                              MM20N1WL
+                                                                                                                           MMDH4
+                                                                                                                           MMDH4
+                                                                                                                                   MM2023VBUS
+                                                                                                                                   MM2023VBUS
+                                                                                                                                                         21
+3MM320R             MMCCVR3203R            1MMMS                 1MMBC2              1MMCP2 3   MM20N1WLK     MM20N1WL     MMDH4   MM2023VBUS
+1MM420              MMCCVR4201             1MMMS                 1                   1MMCP2 3   MM20N1WLK     MM20N1WL     MMDH4   MM204VBUS             22
+1MM420R             MMCCVR4201R            1MMMS                 1MMBC2              1MMCP2 3   MM20N1WLK     MM20N1WL     MMDH4   MM204VBUS
+3MM420              MMCCVR4203             1MMMS                 1                   1MMCP2 3   MM20N1WLK     MM20N1WL     MMDH4   MM204VBUS             23
+3MM420R             MMCCVR4203R            1MMMS                 1MMBC2              1MMCP2 3   MM20N1WLK     MM20N1WL     MMDH4   MM204VBUS
+
+Notes
+1 Type 1 meter stacks do not come with breaker covers.
+                                                                                                                                                         24
+2 For top position, order meter cover 1MMCP1T.
+3 For top position, order meter cover 1MMCP2T.
+                                                                                                                                                         25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                V12-T6-7
+

@@ -1,0 +1,115 @@
+                                                                                                                                       IQ Products
+                                                                                                                                  Technology Upgrades
+                                                                                                                                                                                 10
+Power Xpert 4000/6000/                  The Power Xpert Meter 4000/                               The Web server provides the                              Note: Features and functionality
+8000 Series Meters                      6000/8000 graphic display                                 energy and demand readings                               may vary depending on the meter
+                                                                                                                                                           model and options being used.
+                                                                                                                                                                                              1
+                                        uses a simple “twist and                                  required to help manage
+                                        click” navigation control dial                            the cost of energy. It also                              Review the Features and Benefits
+                                        to easily navigate the menus                              provides critical information
+                                                                                                                                                           chart on Page V12-T10-16 for
+                                                                                                                                                           details.
+                                                                                                                                                                                              2
+                                        and drill down into increasing                            regarding power quality,
+                                        levels of important detail.                               such as harmonic distortion,
+                                        A “back” key enhances the                                 flicker, crest factor, K-factor                                                             3
+                                        browser-like navigation of the                            and more.
+                                        graphic display.                                                                                                                                      4
+                                        Catalog Number Selection
+                                                                                                                                                                                              5
+    Power Xpert 4000/6000/8000 Series   Power Xpert 4000/6000/8000 Meter
+           Display and Meter
+                                                                                                                                                                                              6
+General Description                                                          PXM 8 0 5 1 A 1 B B
+The Power Xpert Meter
+4000/6000/8000 Series
+                                                                                                                                                                                              7
+monitors the critical aspects
+of an electrical distribution                                                                                                                                                                 8
+system. This premier power
+quality metering instrument
+is simple to use, powerful,
+                                                       Model Series
+                                          4 = 4000 (Standard power quality, 2 GB)
+                                                                                                                                   Card Slot 3 Configuration
+                                                                                                                            A = No card option
+                                                                                                                                                                                              9
+scalable and highly flexible.             6 = 6000 (Enhanced power quality, 4 GB)                                           B = I/O option card (8 digital inputs,
+
+The Power Xpert Meter
+                                          8 = 8000 (Premium PQ with transient
+                                              capture, 8 GB)
+                                                                                                                                2 solid-state outputs, 3 relay outputs)
+                                                                                                                                                                                              10
+4000/6000/8000 offers a new                                                                                                  Card Slot 2 Configuration
+level of intuitive user
+interface design, presenting
+                                                      Voltage Input Configuration
+                                                  0 = Standard (V1, V2, V3, V4)
+                                                                                                                   A = No card option
+                                                                                                                   B = Communication expansion card for
+                                                                                                                                                                                              11
+critical electrical distribution                  2 = Standard plus auxiliary (V6, V7, V8)                             LAN/WAN Ethernet networking with
+system information in
+simple-to-navigate and easy-
+                                                                                                                       10/100Base-T, 100F, RS-485, RS-232 ports
+                                                                                                                                                                                              12
+                                                           Power Supply Configuration
+to-understand information                                                                                                Card Slot 1 Configuration
+                                                                                                                                                                                              13
+                                                     1 = Standard 100–240 Vac or
+architecture. The Power                                  110–250 Vdc power supply                           1 = Standard Communications Module with RS-485
+Xpert Meter 4000/6000/8000                           4 = 24–48 Vdc option (future option)
+graphic display visualizes
+the information from up                     Example 1: PXM8251A1BB (PXM 8000 meter, w/ VAUX, std. pwr., com. exp. and I/O cards)                                                              14
+to 16 meter modules. The                    Example 2: PXM6251A1BA (PXM 6000 meter, w/ VAUX, std. pwr., com. exp.card)
+embedded Web server
+displays complex power                  Accessories                                                                                                                                           15
+quality data using standard
+Internet browsers and allows
+for device configuration from
+                                        Power Xpert Meter 4000/6000/8000                                                                                                                      16
+the browser.                                                                                                                                                                Catalog
+
+Both the local graphic display
+                                        Description                                                                                                                         Number
+                                                                                                                                                                                              17
+                                        Graphic display module                                                                                                              PXD-MMG
+and the embedded Web
+server present real time,
+historical and event
+                                        Communication expansion card for LAN/WAN Ethernet networking: 100FX fiber-optic, 10/100T, RS-485, RS-232
+                                        Digital I/O card: eight digital input, two solid-state output, three relay output
+                                                                                                                                                                            PXMCE-B 1
+                                                                                                                                                                            PXMIO-B 1
+                                                                                                                                                                                              18
+information in a browser-
+                                                                                                                                                                                              19
+                                        Panel mounting bracket assembly for back-to-back meter to graphic display mounting                                                  PX-PMBA
+style graphical format to help
+                                        Panel mounting bracket assembly for retrofitting a graphic display to an IQ Analyzer cutout                                         PX-PMBB
+the user interpret key circuit
+information, such as:                   Panel mounting bracket assembly for reduced graphic display rear clearance                                                          PX-PMBC
+                                        Power Xpert Meter 4000 to 6000 license upgrade key                                                                                  PXM-4KUPG
+                                                                                                                                                                                              20
+●    Current loading
+     Voltage and power levels
+                                                                                                                                                                                              21
+●                                       Notes
+●    Power factor                       1 These items can be ordered separately or preinstalled in the meter by selecting option B in the model number.
+
+●    Energy usage                       Communication cable (standard Modbus RTU) is not included in the package for meter module connection.
+●    I/O status                                                                                                                                                                               22
+●    Power quality
+     measurements                                                                                                                                                                             23
+●    Harmonic plots
+     Disturbance and transient
+                                                                                                                                                                                              24
+●
+
+     waveforms
+●    ITIC disturbance summary
+     screen                                                                                                                                                                                   25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                   V12-T10-15
+

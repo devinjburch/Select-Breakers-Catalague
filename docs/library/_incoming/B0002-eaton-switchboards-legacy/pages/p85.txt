@@ -1,0 +1,100 @@
+     3                       Molded-Case Circuit Breakers
+                             Replacement Capabilities
+
+
+
+     ■ Shaded area denotes obsolete or discontinued products and services. 4
+1    Shunt Trip      Shunt Trip for Field Mounting 123
+                                      Breaker Type Catalog Number
+2                                     EB, EHB, FB, HFB 5                              JA, KA, HKA, DA,                                                         PB TRI-PAC
+                     Voltage/Hz       (Thermal-Magnetic Only)       JB, KB, HKB       LB, LBB, HLB          LA, LAB, HLA       MA, HMA            NB, HNB      and PA
+
+3                    Right-Hand Mounting
+                     600/50–60 Hz     2609D39G15                    2609D42G15        2605D15G15            2606D56G15         2606D57G15         2606D58G15   2606D59G15
+
+4                    480/50–60 Hz
+                     240/50–60 Hz
+                                      2609D39G16
+                                      2609D39G17
+                                                                    2609D42G16
+                                                                    2609D42G17
+                                                                                      2605D15G16
+                                                                                      2605D15G17
+                                                                                                            2606D56G16
+                                                                                                            2606D56G17
+                                                                                                                               2606D57G16
+                                                                                                                               2606D57G17
+                                                                                                                                                  2606D58G16
+                                                                                                                                                  2606D58G17
+                                                                                                                                                               2606D59G16
+                                                                                                                                                               2606D59G17
+
+5
+                     208/50–60 Hz     2609D39G18                    2609D42G18        2605D15G18            2606D56G18         2606D57G18         2606D58G18   2606D59G18
+                     120/50–60 Hz     2609D39G19                    2609D42G19        2605D15G19            2606D56G19         2606D57G19         2606D58G19   2606D59G19
+                     60/50–60 Hz      2609D39G20                    2609D42G20        2605D15G20            2606D56G20         2606D57G20         2606D58G20   2606D59G20
+6                    48/50–60 Hz      2609D39G21                    2609D42G21        2605D15G21            2606D56G21         2606D57G21         2606D58G21   2606D59G21
+                     24/50–60 Hz      2609D39G22                    2609D42G22        2605D15G22            2606D56G22         2606D57G22         2606D58G22   2606D59G22
+7                    250 DC           2609D39G23                    2609D42G23        2605D15G23            2606D56G23         2606D57G23         2606D58G23   2606D59G23
+                     125 DC           2609D39G24                    2609D42G24        2605D15G24            2606D56G24         2606D57G24         2606D58G24   2606D59G24
+8                    60 DC            2609D39G25                    2609D42G25        2605D15G25            2606D56G25         2606D57G25         2606D58G25   2606D59G25
+                     48 DC            2609D39G26                    2609D42G26        2605D15G26            2606D56G26         2606D57G26         2606D58G26   2606D59G26
+9                    24 DC            2609D39G27                    2609D42G27        2605D15G27            2606D56G27         2606D57G27         2606D58G27   2606D59G27
+                     12 DC            2609D39G28                    2609D42G28        2605D15G28            2606D56G28         2606D57G28         2606D58G28   2606D59G28
+10                   Left-Hand Mounting
+                     600/50–60 Hz     2609D39G01                    2609D42G01        2605D15G01            2606D56G01         2606D57G01         2606D58G01   2606D59G01
+
+11                   480/50–60 Hz     2609D39G02                    2609D42G02        2605D15G02            2606D56G02         2606D57G02         2606D58G02   2606D59G02
+                     240/50–60 Hz     2609D39G03                    2609D42G03        2605D15G03            2606D56G03         2606D57G03         2606D58G03   2606D59G03
+
+12                   208/50–60 Hz     2609D39G04                    2609D42G04        2605D15G04            2606D56G04         2606D57G04         2606D58G04   2606D59G04
+                     120/50–60 Hz     2609D39G05                    2609D42G05        2605D15G05            2606D56G05         2606D57G05         2606D58G05   2606D59G05
+
+13                   60/50–60 Hz      2609D39G06                    2609D42G06        2605D15G06            2606D56G06         2606D57G06         2606D58G06   2606D59G06
+                     48/50–60 Hz      2609D39G07                    2609D42G07        2605D15G07            2606D56G07         2606D57G07         2606D58G07   2606D59G07
+
+14                   24/50–60 Hz      2609D39G08                    2609D42G08        2605D15G08            2606D56G08         2606D57G08         2606D58G08   2606D59G08
+                     250 DC           2609D39G09                    2609D42G09        2605D15G09            2606D56G09         2606D57G09         2606D58G09   2606D59G09
+
+15                   125 DC
+                     60 DC
+                                      2609D39G10
+                                      2609D39G11
+                                                                    2609D42G10
+                                                                    2609D42G11
+                                                                                      2605D15G10
+                                                                                      2605D15G11
+                                                                                                            2606D56G10
+                                                                                                            2606D56G11
+                                                                                                                               2606D57G10
+                                                                                                                               2606D57G11
+                                                                                                                                                  2606D58G10
+                                                                                                                                                  2606D58G11
+                                                                                                                                                               2606D59G10
+                                                                                                                                                               2606D59G11
+
+16
+                     48 DC            2609D39G12                    2609D42G12        2605D15G12            2606D56G12         2606D57G12         2606D58G12   2606D59G12
+                     24 DC            2609D39G13                    2609D42G13        2605D15G13            2606D56G13         2606D57G13         2606D58G13   2606D59G13
+                     12 DC            2609D39G14                    2609D42G14        2605D15G14            2606D56G14         2606D57G14         2606D58G14   2606D59G14
+17
+                     Notes
+                     1 120 Vac ratings suitable for 55% pickup for ground fault applications.
+
+18                   2 Not field mountable on non-automatic breakers (molded-case switches).
+                     3 Field mounting voids breakers’ UL listing except on LA, HLA, MA, HMA, NB, HNB, PB, KB, HKB, KA, HKA, LB, HLB and SELTRONIC breakers.
+                     4 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-168.
+
+19                   5 Available similar to this except “Leads out the load end—(not UL Listed).” Order by description.
+
+
+
+
+20
+21
+22
+23
+24
+25
+     V12-T3-72      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,97 @@
+                                                                                                    Switchgear
+                                                                      Federal Pacific Breakers—Trip Unit Retrofit Kits
+                                                                                                                                    17
+Digitrip Retrofit Kits for               Chronology                           3. The breaker compartment        5. RMS 510 zone, 610, 810
+Federal Pacific Breakers                 Digitrip retrofit kits and              doors on the switchgear           and 910 retrofit kits        1
+                                         replacement trip units for              assembly must be                  include a cell terminal
+                                         Federal Pacific breakers                free of panel-mounted             block assembly that
+                                         became available in 1992.               instruments and devices           must be installed in the     2
+                                         The Digitrip RMS 510                    (i.e., ammeters, switches,        switchgear assembly.
+                                                                                 etc.) or the retrofitted          Internal switchgear
+                                         model is the modern
+                                         day replacement for                     breaker may interfere             wiring to accommodate        3
+                                         electromechanical trip                  with these devices when           the customer application
+                                         device or peak sensing                  the compartment door
+                                                                                 is closed.
+                                                                                                                   schemes must be added
+                                                                                                                   in the field.
+                                                                                                                                                4
+                                         solid-state trip systems.
+                                         Replacement and                      4. When the ground fault
+                                                                                 (G) option is selected,
+                                                                                                                6. RMS 610, 810 and 910
+                                                                                                                   retrofit kits require a
+                                                                                                                                                5
+                                         Upgrade Capabilities
+                                                                                 please observe the                customer supplied
+                                         Replacement and upgrade
+                                                                                                                                                6
+   FPS-75 Breaker Retrofitted with
+     Digitrip RMS 810 Retrofit Kit                                               following:                        120 Vac source
+                                         capabilities include                                                      connected to the cell
+                                         replacement Digitrip trip units         a. For three-phase, three-        terminal block assembly
+                                         and rating plugs, Digitrip trip
+                                         unit upgrades, Digitrip RMS
+                                                                                    wire solidly grounded
+                                                                                    systems, choose
+                                                                                                                   to power the Digitrip        7
+                                                                                                                   RMS digital displays
+                                         trip unit retrofit kits and                quantity three current         and communications
+                                         upgrade retrofit kits. For                 sensors in the catalog         functions (as applicable).   8
+                                         definitions of these solutions,            number development.
+                                         see Page V12-T17-19.                                                   7. Refer all Federal Pacific
+ Typical Digitrip RMS 810 Retrofit Kit                                           b. For three-phase, four-
+                                                                                    wire solidly grounded          breakers with current        9
+      for Federal Pacific FPS-75         For Digitrip RMS trip unit                                                limiters to the Digitrip
+        Power Circuit Breaker
+                                         retrofit kits and upgrade                  systems, choose
+                                                                                                                   Retrofit Kit Service
+Product Description                      retrofit kits, choose or create            quantity four current
+                                                                                                                   Center at 1-800-937-5487     10
+                                         the Digitrip RMS retrofit kit              sensors in the catalog
+Digitrip RMS retrofit kits for                                                                                     for evaluation.
+                                         catalog number to match the                number development.
+Federal Pacific power circuit
+breakers were first introduced           Federal Pacific breaker types,             Three sensors are                                           11
+                                         retrofit kit type, protection              mounted on the
+in 1992. For a complete
+                                                                                    breaker and one
+description of the Digitrip              function, rating plug type,
+                                         current sensor type, CPT                   sensor is mounted                                           12
+RMS trip system and the
+                                         and type of kit required for               on the switchgear
+features of models RMS 510,
+610, 810 and 910, see                    application. See the examples              neutral. Hardware to
+                                                                                    mount the current
+                                                                                                                                                13
+Page V12-T17-20.                         provided on Page V12-T17-50.
+                                                                                    sensor on the
+Ratings                                  Application Notes for Federal              switchgear neutral                                          14
+Digitrip RMS retrofit kits are
+                                         Pacific Power Circuit Breakers             and provisions to wire
+applied on Federal Pacific                1. Retrofit kits are for                  it into the trip unit
+breakers from 600A (FP-25)                    use on 50 and 60 Hz                   circuit (including a                                        15
+to 3000A (FPS-75), the                        distribution systems.                 required pair of
+                                                                                    breaker secondary
+rating plug and the current
+sensor rating act in concert
+                                         2. All retrofit kits are                   disconnecting                                               16
+                                            designed for drawout                    contacts) are not
+to provide for a wide                       power circuit breakers
+spectrum of overload and                    only. Refer all fixed-
+                                                                                    included in the kit.
+                                                                                                                                                17
+short-circuit settings.                     mounted breaker
+                                            applications to the
+                                            Digitrip Retrofit Kit
+                                                                                                                                                18
+                                            Service Center
+                                            at 1-800-937-5487.                                                                                  19
+                                                                                                                                                20
+                                                                                                                                                21
+                                                                                                                                                22
+                                                                                                                                                23
+                                                                                                                                                24
+                                                                                                                                                25
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com       V12-T17-49
+

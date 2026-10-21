@@ -1,0 +1,105 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                  3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                        1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+HLA22250TM               2602D97G06       O          —                        —                      —                         2, 8                     2
+HLA2225T                 2602D98G09       O          —                        —                      —                         2, 8
+HLA2225TA                457D581G09       O          —                        —                      —                         2, 8                     3
+HLA2250                  1255C74G10       O          —                        —                      KD2250                    1–3, 5, 8
+HLA2250T                 2602D98G10       O          —                        —                      —                         2, 8                     4
+HLA2250TA                457D581G10       O          —                        —                      —                         2, 8
+HLA2300                  1255C74G11       O          —                        —                      KD2300                    1–3, 5, 8
+                                                                                                                                                        5
+HLA23000TM               2602D97G07       O          —                        —                      —                         2, 8
+HLA2300T                 2602D98G11       O          —                        —                      —                         2, 8
+                                                                                                                                                        6
+HLA2300TA                457D581G11       O          —                        —                      —                         2, 8
+HLA2350
+HLA2350T
+                         1255C74G12
+                         2602D98G12
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     KD2350
+                                                                                                     —
+                                                                                                                               1–3, 5, 8
+                                                                                                                               2, 8
+                                                                                                                                                        7
+HLA2350TA
+HLA2400
+                         457D781G12
+                         1255C74G13
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     —
+                                                                                                     KD2400
+                                                                                                                               2, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                        8
+                                                                                                                                                        9
+HLA24000TM               2602D97G08       O          —                        —                      —                         2, 8
+HLA2400F                 673B352G01       O          —                        —                      KD2400F                   1–3, 5, 8
+HLA2400T                 2602D98G13       O          —                        —                      —                         2, 8
+HLA2400TA                457D581G13       O          —                        —                      —                         2, 8                     10
+HLA2500                  1256C10G10       O          —                        —                      LD2500                    1–3, 5, 8
+HLA25000TM               2603D47G12       O          —                        —                      —                         2, 8                     11
+HLA2500T                 2603D46G12       O          —                        —                      —                         2, 8
+HLA2500TA                5683D88G12       O          —                        —                      —                         2, 8                     12
+HLA2600                  1256C10G07       O          —                        —                      LD2600                    1–3, 5, 8
+HLA26000TM               2603D47G13       O          —                        —                      —                         2, 8                     13
+HLA2600F                 375D400G09       O          —                        —                      LD2600F                   1–3, 5, 8
+HLA2600T                 2603D46G13       O          —                        —                      —                         2, 8                     14
+HLA2600TA                5683D88G13       O          —                        —                      —                         2, 8
+HLA2700TM                2602D97G02       O          —                        —                      —                         2, 8                     15
+HLA3070T                 2602D98G21       A          —                        —                      —                         2, 8
+HLA3070TA                457D581G21       O          HLA3070T                 370D749G21             —                         2, 8                     16
+HLA3090T                 2602D98G22       A          —                        —                      —                         2, 8
+HLA3090TA                457D581G22       O          HLA3090T                 370D749G22             —                         2, 8
+                                                                                                                                                        17
+HLA3100T                 2602D98G23       A          —                        —                      —                         2, 8
+HLA3100TA                457D581G23       O          HLA3100T                 370D749G23             —                         2, 8
+                                                                                                                                                        18
+HLA3125                  504C740G20       A          —                        —                      KD3125                    1–3, 5, 8
+HLA31250TM
+HLA3125T
+                         2602D97G25
+                         2602D98G24
+                                          A
+                                          A
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     —
+                                                                                                     —
+                                                                                                                               2, 8
+                                                                                                                               2, 8
+                                                                                                                                                        19
+                                                                                                                                                        20
+HLA3125TA                457D581G24       O          HLA3125T                 370D749G24             —                         2, 8
+HLA3150                  504C740G21       A          —                        —                      KD3150                    1–3, 5, 8
+HLA31500TM               2602D97G26       A          —                        —                      —                         2, 8
+HLA3150T                 2602D98G25       A          —                        —                      —                         2, 8
+                                                                                                                                                        21
+HLA3150TA                457D581G25       O          HLA3150T                 370D749G25             —                         2, 8
+HLA3175                  504C740G22       A          —                        —                      KD3175                    1–3, 5, 8                22
+HLA31750TM               2602D97G27       A          —                        —                      —                         2, 8
+HLA3175T                 2602D98G26       A          —                        —                      —                         2, 8                     23
+HLA3175TA                457D581G26       O          HLA3175T                 370D749G26             —                         2, 8
+HLA3200                  504C740G23       A          —                        —                      KD3200                    1–3, 5, 8                24
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                        25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com             V12-T3-125
+

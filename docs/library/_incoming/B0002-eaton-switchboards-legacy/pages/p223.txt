@@ -1,0 +1,93 @@
+                                                                                                      Loadcenters
+                                                                                                                    Type BR
+                                                                                                                                                  5
+Renewal Parts for Type BR Loadcenter Covers and Deadfronts
+                                                                                                                                                      1
+Single-Phase with Main Circuit Breakers
+
+Catalog        Combination    Surface       NEMA 3R         NEMA 3R      Catalog       Combination     Surface          NEMA 3R      NEMA 3R          2
+Number         Covers         Covers        Covers          Deadfronts   Number        Covers          Covers           Covers       Deadfronts
+B4242DFN       315-003-28     —             —               —            BR2040B150R   —               —                BR3RDOOR8    BR3RDF11         3
+B4242DR1N      —              —             Not available   —            BR2040B200    BRCOVC35        —                —            —
+B4242DSN       —              315-003-27    —               —            BR2040B200R   —               —                BR3RDOOR9    BR3RDF11         4
+B4242EFN       315-003-28     —             —               —            BR2040H200    BRCOVC35        —                —            —
+B4242ESN       —              315-003-27    —               —            BR2430B150    BRCOVC40        —                —            —                5
+BR1020B100RF   —              —             BR3RDOOR2       BR3RDF1      BR2440B200    BRCOVC41        —                —            —
+BR1212B100     BRCOVC12       —             —               —            BR3030BC100   BRCOVC59                                                       6
+BR1220B100     BRCOVC12       —             —               —            BR3030B150    BRCOVC40        —                —            —
+BR1224B100R                   —             BR3RDOOR2       BR3RDF1      BR3030B150R   —               —                BR3RDOOR10   BR3RDF12
+                                                                                                                                                      7
+BR1224B100SFG 47-37466                                      47-37469     BR3030BC150   BRCOVC40        —                —            —
+BR1616B100     BRCOVC16       —             —               —            BR3040B150    BRCOVC40        —                —            —
+                                                                                                                                                      8
+BR1620B100     BRCOVC16       —             —               —            BR3040B200    BRCOVC41        —                —            —
+BR1624B100     BRCOVC16       —             —               —            BR3040B200R   —               —                BR3RDOOR11   BR3RDF12
+                                                                                                                                                      9
+BR1624B100R    —              —             BR3RDOOR3       BR3RDF2      BR3040H200    BRCOVC41        —                —            —
+BR1624B125     BRCOVC17       —             —               —            BR304242F     315-003-28      —                —            —
+                                                                                                                                                      10
+BR1630B150     BRCOVC29       —             —               —            BR304242S     —               315-003-27       —            —
+BR1632B200
+BR2020B100
+               BRCOVC31
+               BRCOVC22
+                              —
+                              —
+                                            —
+                                            —
+                                                            —
+                                                            —
+                                                                         BR4040B200
+                                                                         BR4040BC200
+                                                                                       BRCOVC44
+                                                                                       BRCOVC44
+                                                                                                       —
+                                                                                                       —
+                                                                                                                        —
+                                                                                                                        —
+                                                                                                                                     —
+                                                                                                                                     —
+                                                                                                                                                      11
+BR2024B100R
+BR2024B125
+               —
+               BRCOVC23
+                              —
+                              —
+                                            BR3RDOOR4
+                                            —
+                                                            BR3RDF4
+                                                            —
+                                                                         BR4040B200R
+                                                                         BR4040H200
+                                                                                       —
+                                                                                       BRCOVC44
+                                                                                                       —
+                                                                                                       —
+                                                                                                                        BR3RDOOR12
+                                                                                                                        —
+                                                                                                                                     BR3RDF13
+                                                                                                                                     —
+                                                                                                                                                      12
+                                                                                                                                                      13
+BR2024B125R    —              —             BR3RDOOR4       BR3RDF4      BR4242B225    BRCOVC53 (2)    —                —            —
+BR2024H100     BRCOVC22       —             —               —            BR4242B225R   —               —                BR3RDOOR13   BR3RDF15
+
+                                                                                                                                                      14
+BR2030B150     BRCOVC32       —             —               —            BR48B200RF    —               —                BR3RDOOR15   BR3RDF14
+BR2030B150R    —              —             BR3RDOOR8       BR3RDF11     BR816B100     BRCOVC10        —                —            —
+BR2030H150     BRCOVC32       —             —               —            BR816B150RF   —               —                BR3RDOOR5    BR3RDF5
+BR2040B150     BRCOVC40       —             —               —            BR816B200RF   —               —                BR3RDOOR6    BR3RDF5
+                                                                                                                                                      15
+                                                                                                                                                      16
+                                                                                                                                                      17
+                                                                                                                                                      18
+                                                                                                                                                      19
+                                                                                                                                                      20
+                                                                                                                                                      21
+                                                                                                                                                      22
+                                                                                                                                                      23
+                                                                                                                                                      24
+                                                                                                                                                      25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com               V12-T5-19
+

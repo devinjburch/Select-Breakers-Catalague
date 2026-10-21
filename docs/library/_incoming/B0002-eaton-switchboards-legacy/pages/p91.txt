@@ -1,0 +1,95 @@
+     3                             Molded-Case Circuit Breakers
+                                   Replacement Capabilities
+
+
+
+     Motor Operators
+1    Motor operators provide
+     complete remote control by
+     means of a pushbutton or a
+2    similar pilot device.
+     Note: The pilot device must be
+3    maintained contact type for EB,
+     EHB, FB, HFB, DA, JA, KA, JB,
+     KB, HKB and LB mechanisms,
+4    momentary contact type for
+     all others.
+
+5    Positive switching action is
+     accomplished by use of an
+     operating arm engaging the
+6    breaker handle. The unit is             For LAB, LA, HLA Breakers                      For MA, HMA, NB, HNB Breakers                               For PB Breakers
+     energized momentarily to
+7    actuate the lever arm moving
+     it to either the ON or OFF
+                                                                    Motor Operator Selection 12
+     position. The control is broken         For EB, EHB, FB
+8    by an internal cutoff switch.
+                                             and HFB
+                                                                    Breaker                    Style Number—AC Voltage                                    Style Number—DC Voltage
+     Means for emergency manual                                     Type                       120           208           240             480            125             24
+     operations is provided.
+9                                                                   EB, EHB, FB, HFB           656D148G11 656D148G04 656D148G02 656D148G13 —                              —
+     Motor operations are                                           DA, JA, KA, HKA            657D819G23 657D819G10 657D819G08 657D819G24 —                              —
+     available with motors
+10   rated 120 Vac, 208 Vac
+                                                                    LB, LBB, HLB
+                                                                    LAB, LA, HLA, LC, HLC
+                                                                                               657D819G25 657D819G16 657D819G14 657D819G26 —
+                                                                                               2607D97G37 2607D97G40 2607D97G38 2607D97G39 2607D97G51
+                                                                                                                                                                          —
+                                                                                                                                                                          2607D97G42
+     and 240 Vac.
+11
+                                                                    MA, HMA, MC, HMC           5664D54G75 5664D54G78 5664D54G76 5664D54G77 5664D54G96                     5664D54G81
+     Note: LA and larger available for
+     125 Vdc.                                                       NB, HNB, NC, HNC.          1494D60G31 1494D60G32 1494D60G33 1494D60G34 1494D60G35                     1494D60G36
+                                                                    SPCB1200
+12   The 480V operators use a                                       PB, PC, PCC, PA,           5661D52G01 5661D52G04 5661D52G02 5661D52G03 5661D52G17                     —
+     120 Vac motor in conjunction                                   SPCB2000
+     with a 480/240V to 120V
+13   dual voltage transformer.
+                                             For DA, JA, KA, JB,    Motor Data
+     (On LA and larger operators,            LB, LBB, HKA, HKB                                                     Inrush Current,               Continuous
+     the transformer is supplied
+14                                           and HLB Breakers                                                                                                             Operating
+                                                                    Breaker             Motor                      Ampere (Peak)                 Current (rms)            Time, Open
+     for separate mounting by
+                                                                    Type                Type            Hp         120V    208V      240V        120V    208V    240V     or Close
+     the customer.)
+15   Note: The motor operator is
+                                                                    EB, EHB,
+                                                                    FB, HFB
+                                                                                        Split-phase     1/75       10      4         5           2.3     1.17    1.65     1.5 seconds
+
+     intended only for infrequent
+     operation in line with Underwriters                            DA, JA, KA,         Split-phase     1/50       14      6         7           3.5     1.6     1.75     1.5 seconds
+16   Laboratories endurance standards                               JB, KB, LB, LBB,
+                                                                    HKB, HLB
+     for molded-case breakers.
+     Minimum 1 kVA transformer
+17
+                                                                    LAB, LA, HLA        Reversing       —          8       5         4           —       —       —        12 cycles
+     is required for use with all
+                                                                    MA, HMA, NB,        Reversing       —          11      7         6           —       —       —        12 cycles
+     motor operations.
+                                                                    HNB, SPCB1200
+18   Back Mounting Plates
+                                                                    PB, PA,             Reversing       —          20      12        11          —       —       —        10 cycles
+                                                                    SPCB2000
+                           120, 208, 240,
+19   Breaker               480 Vac                                  Notes
+                                                                    1 AC voltage rated operators are UL Listed as recognized components.
+     Type                  Style Number
+                                                                    2 See Dimension Sheet 29-170.
+
+20   EB, EHB, FB, HFB      503C707G01
+     DA, JA, KA, LB, HLB   503C981G01
+
+21
+22
+23
+24
+25
+     V12-T3-78             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

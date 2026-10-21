@@ -1,0 +1,103 @@
+                                                                                                         IQ Products
+                                                                                                           Current Products
+                                                                                                                                              10
+FP-5000 Feeder                        Application Description                   The multiple settings groups           When an electrical fault
+Protection                            Eaton’s FP-5000 feeder                    can be used for arc flash              or disturbance occurs, the          1
+                                      protection relay provides                 mitigation when an alternative         FP-5000 begins to store the
+                                                                                setting group, set to have             following in non-volatile
+                                      complete three-phase and
+                                      ground overcurrent and                    instantaneous elements only            memory:                             2
+                                      voltage protection plus                   is activated using a selector
+                                                                                switch and the programmable
+                                                                                                                       ●   Voltage and current
+                                      metering in a single, compact
+                                      drawout case. It may be used              I/O in the FP-5000.                        sampled data                    3
+                                                                                                                       ●   Calculated values
+                                      as primary protection on
+                                      feeders, mains and tie circuit
+                                                                                Features and Benefits
+                                                                                The zone interlocking feature
+                                                                                                                       ●   Status of internal protection
+                                                                                                                           functions, logic, contact
+                                                                                                                                                           4
+                                      breaker applications, and as
+                                      backup protection for                     can be used for bus                        inputs and outputs
+                                      transformers, high voltage                protection instead of an
+                                                                                                                       Retrieval and viewing of the
+                                                                                                                                                           5
+                                      lines and differential                    expensive and complicated
+                                                                                bus differential (87B)                 data is easy, aiding in the quick
+      Feeder Protection FP-5000
+                                      protection. The relay is
+                                      most commonly used on                     scheme. The FP-5000 works              analysis and restoration of         6
+                                                                                directly with the Eaton Digitrip       your electric power system.
+                                      medium voltage switchgear
+General Description                                                             3000 and Digitrip MV relays.
+●   Microprocessor-based
+                                      applications.
+                                                                                Breaker failure logic provides
+                                                                                                                       When the FP-5000 isn’t
+                                                                                                                       responding to disturbances
+                                                                                                                                                           7
+    protection with monitoring        The FP-5000 takes full                    faster remote backup clearing          in the power system, it’s
+    and control for medium            advantage of its
+                                      microprocessor technology
+                                                                                times for stuck breaker
+                                                                                operation.
+                                                                                                                       providing valuable metering         8
+    voltage main and feeder                                                                                            information at the relay and
+    applications                      providing the user new                                                           remotely. It provides energy
+●   Current, voltage,                 freedoms and a wealth of data-            The FP-5000 provides trip and
+                                                                                close circuit monitoring and           usage and demand reading,           9
+    frequency and power               gathering features. The relay                                                    and can alarm when usage
+                                      performs self-checking of all             alarming features. It
+    protection for electric
+    power distribution                major hardware and firmware               continually monitors the               reaches a set value. Power
+                                                                                                                       factor measurements can
+                                                                                                                                                           10
+                                      protection elements to ensure             complete trip and close
+    systems                                                                     circuits for continuity and            be used for capacitor bank
+                                      their operation in the event of a
+●   Complete metering of              system or component electrical            readiness to trip. Open and            switching to control cover
+                                                                                                                       demand. Inboard data
+                                                                                                                                                           11
+    voltage, currents, power,         failure or fault. Protection              close pushbuttons are
+    energy, minimum/                                                            conveniently located on the            trending can provide load
+    maximum and demand
+                                      functions are well suited for
+                                      main and distribution feeder              front of the relay for local           profiles for up to 40 days.         12
+    functions                         circuit applications.                     breaker operation.
+●   Programmable logic
+    control functions for main-
+                                      Programmable logic control                Loss-of-vacuum monitoring is                                               13
+                                      functions make the FP-5000                activated when the breaker is
+    tie-main transfer schemes         relay ideally suited for main-tie-        open. Residual current is
+●   Trip logs, event logs and         main and main 1/main 2                    monitored and alarmed if                                                   14
+    waveform capture for              transfer schemes.                         detected.
+    better fault analysis and
+    system restoration                                                                                                                                     15
+●   Data Logger to provide            Catalog Number Selection
+    energy usage profiles for                                                                                                                              16
+    better planning, utilization      FP-5000 Feeder Protection
+    and energy usage
+●   Compact, drawout case                                        FP5 2 00 - 0 1                                                                            17
+    design
+●   Meets ANSI, UL and cUL®
+                                          Current Range            Control Voltage           Communications Protocol
+                                                                                                                                                           18
+    standards
+                                       2 = 5 Amperes         0 = 48 – 125 Vac/Vdc         0 = INCOM
+    Multiple setting groups
+                                                                                                                                                           19
+●
+                                       3 = 1 Ampere          1 = 100 – 240 Vac/Vdc        1 = Modbus
+●   ANSI, IEC and thermal
+    protection curves for
+    greater flexibility                                                                                                                                    20
+                                                                                                                                                           21
+                                                                                                                                                           22
+                                                                                                                                                           23
+                                                                                                                                                           24
+                                                                                                                                                           25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                   V12-T10-29
+

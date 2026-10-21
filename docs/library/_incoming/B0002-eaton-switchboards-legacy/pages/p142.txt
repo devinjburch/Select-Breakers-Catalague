@@ -1,0 +1,105 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                    3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                            1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+HLCGA3150F               1242C89G09       A          —                        —                      KD3400F/KES3150LSIG       1–3, 5, 8                    2
+HLCGA3300F               1242C89G10       A          —                        —                      KD3400F/KES3400LSIG       1–3, 5, 8
+HLCGA3400F               1242C89G11       A          —                        —                      KD3400F/KES3400LSIG       1–3, 5, 8                    3
+HLCGA3600F               1270C61G12       A          —                        —                      LD3600F/LES3600LSIG       1–3, 5, 8
+HMA2125                  1252C22G01       O          —                        —                      KD2125                    1–3, 5, 8                    4
+HMA21250TM               457D455G07       O          —                        —                      —                         2, 8
+HMA2125T                 371D371G05       O          —                        —                      —                         2, 8
+                                                                                                                                                            5
+HMA2125TA                457D458G05       O          —                        —                      —                         2, 8
+HMA2150                  1252C22G02       O          —                        —                      KD2150                    1–3, 5, 8
+                                                                                                                                                            6
+HMA2150T                 371D371G06       O          —                        —                      —                         2, 8
+HMA2150TA
+HMA2175
+                         457D458G06
+                         1252C22G03
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     —
+                                                                                                     KD2175
+                                                                                                                               2, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                            7
+HMA2175T
+HMA2175TA
+                         371D371G07
+                         457D458G07
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     —
+                                                                                                     —
+                                                                                                                               2, 8
+                                                                                                                               2, 8
+                                                                                                                                                            8
+                                                                                                                                                            9
+HMA2200                  1252C22G04       O          —                        —                      KD2200                    1–3, 5, 8
+HMA22000TM               457D455G08       O          —                        —                      —                         2, 8
+HMA2200T                 371D371G08       O          —                        —                      —                         2, 8
+HMA2200TA                457D458G08       O          —                        —                      —                         2, 8                         10
+HMA2225                  1252C22G05       O          —                        —                      KD2225                    1–3, 5, 8
+HMA2225T                 371D371G09       O          —                        —                      —                         2, 8                         11
+HMA2225TA                457D458G09       O          —                        —                      —                         2, 8
+HMA2250                  1252C22G06       O          —                        —                      KD2250                    1, 2, 3, 5, 8                12
+HMA2250T                 371D371G10       O          —                        —                      —                         2, 8
+HMA2250TA                457D458G10       O          —                        —                      —                         2, 8                         13
+HMA2300                  1252C22G07       O          —                        —                      MDL2300                   1–3, 5, 8
+HMA23000TM               457D455G09       O          —                        —                      —                         2, 8                         14
+HMA2300T                 371D371G11       O          —                        —                      —                         2, 8
+HMA2300TA                457D458G11       O          —                        —                      —                         2, 8                         15
+HMA2350                  1252C22G08       O          —                        —                      MDL2350                   1–3, 5, 8
+HMA2350T                 371D371G12       O          —                        —                      —                         2, 8                         16
+HMA2350TA                457D458G12       O          —                        —                      —                         2, 8
+HMA2400                  1252C22G09       O          —                        —                      MDL2400                   1–3, 5, 8
+                                                                                                                                                            17
+HMA24000TM               457D455G10       O          —                        —                      —                         2, 8
+HMA2400T                 371D371G13       O          —                        —                      —                         2, 8
+                                                                                                                                                            18
+HMA2400TA                457D458G13       O          —                        —                      —                         2, 8
+HMA2500
+HMA2500T
+                        1252C22G10
+                        371D372G06
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     MDL2500
+                                                                                                     —
+                                                                                                                               1–3, 5, 8
+                                                                                                                               2, 8
+                                                                                                                                                            19
+                                                                                                                                                            20
+HMA2500TA               457D459G06        O          —                        —                      —                         2, 8
+HMA2600                 1252C22G11        O          —                        —                      MDL2600                   1–3, 5, 8
+HMA2600T                371D372G08        O          —                        —                      —                         2, 8
+HMA2600TA               457D459G08        O          —                        —                      —                         2, 8
+                                                                                                                                                            21
+HMA2700                 1252C22G12        O          —                        —                      MDL2700                   1, 2, 3, 5, 8
+HMA2700T                371D373G10        O          —                        —                      —                         2, 8                         22
+HMA2700TA               457D460G10        O          —                        —                      —                         2, 8
+HMA2800                 1252C22G13        O          —                        —                      MDL2800                   1, 2, 3, 5, 8                23
+HMA28000TM              457D455G12        O          —                        —                      —                         2, 8
+HMA2800F                373B237G03        O          —                        —                      MDL2800F                  —                            24
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                            25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                 V12-T3-129
+

@@ -1,0 +1,77 @@
+     24                              Counters, Panel Meters, Tachometers and Timers
+                                     Totalizers
+
+
+
+     1/32 DIN LCD Totalizers
+1
+     Product Description                            Features                                                                                                  Standards and Certifications
+     Compact battery powered                            Low price and high                              ●   Screw terminals, RM                                   UL recognized
+2
+                                                    ●                                                                                                         ●
+
+     totalizers where AC power is                       efficiency                                          5 mm                                              ●   CE marked
+     unavailable.                                   ●   Large eight-digit LCD                           ●   Lifetime of the battery
+3                                                       display, height of the                              approximately eight years
+                                                        figures 0.31 in (8 mm)                          ●   Locking of the reset key
+                                                        Various counting modes                              Operating temperature
+4
+                                                    ●                                                   ●
+
+                                                        like up/down differential                           14 to 140 °F (–10 to 60 °C)
+                                                        available                                       ●   All version of positive or
+5                                                   ●   High voltage input for
+                                                        10–260 Vac/Vdc voltage
+                                                                                                            negative counting edge
+                                                                                                        ●   Filter function for bounce-
+                                                        pulses                                              free counting with
+6                                                   ●   IP65                                                mechanical contacts
+
+7
+     Product Selection
+8
+     E5-024-C04_               1/32 DIN LCD Totalizers
+9                              Description                                                                                  Catalog Number
+                               Eight-Digit LCD Totalizer, Battery Power
+
+10                             4–30 Vdc powered, NPN/PNP 0.94 x 1.89 in (24 x 48 mm)                                        E5-024-C0400
+                               10–120V input AC/DC powered, NPN only 0.94 x 1.89 in (24 x 48 mm)                            E5-024-C0408
+
+11                             Count up/down 4–30 Vdc powered, NPN only, 0.94 x 1.89 in (24 x 48 mm)                        E5-024-C0410
+
+
+
+12   Technical Data and Specifications
+
+13   1/32 DIN LCD Totalizers
+     Description                                                     Specification
+14   Power supply                                                    Non-replaceable lithium battery (lifetime approximately eight years at 68 °F (20 °C)
+     Display                                                         LCD, eight-digits
+15   Figure size                                                     0.31 in (8 mm) high
+     Mode                                                            Adding or subtracting (selectable), counting direction, differential counting or phase
+16                                                                   discriminator single or dual evaluation (selectable)
+     Display range                                                   –9999999 to 99999999, with overflow display
+
+17   Reset
+     Interference emissions
+                                                                     Manual and electrical
+                                                                     EN 55011 Class B, EN 61 000-6-2, EN 61010 Section 1 (only AC versions)
+
+18
+     Housing                                                         Dark gray RAL 7021
+     Operating temperature                                           14 to 131 °F (–10 to 55 °C)
+
+19
+     Ambient temperature                                             14 to 140 °F (–10 to 60 °C)
+     Storage temperature                                             –4 to 158 °F (–20 to 70 °C)
+     Protection                                                      IP65 (from front)
+20   Weight                                                          Approx. 1.76 oz (50 g)
+
+
+21
+22
+23
+24
+25
+     V12-T24-36               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

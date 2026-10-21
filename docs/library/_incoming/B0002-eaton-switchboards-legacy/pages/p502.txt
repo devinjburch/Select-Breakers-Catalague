@@ -1,0 +1,147 @@
+     17                                 Switchgear
+                                        Westinghouse DS Breakers—Trip Unit Retrofit Kits
+
+
+
+     Digitrip RMS Retrofit Kits for Westinghouse DS Breakers Catalog Numbering System
+1
+                                                              DR6 8 6 6 4Q 4 4 – T N N N
+2
+3
+                 Trip Unit Type 1                         RP       No Rating Plug                         P = OPTIM                                       N = Standard kit
+
+4              1 = OPTIM 1050                            Cat.      Current Rating                         T = Digitrip 510, 610, 810, 910                 U = Upgrade kit from factory
+               5 = 510 basic                             Code       Tap     Plug                                                                              modular mounting 2
+               Z = 510 zone int.                                                                                                                          B = Upgrade kit from factory
+                                                         21       200      100                                                                                box mounting 2
+5
+               6 = 610                                                                         N = No sensors
+                                                         22       200      200
+               7 = OPTIM 750                                                                   3 = Three sensors
+                                                         32       300      200
+               8 = 810                                                                         4 = Four sensors
+                                                         3Q       300      250                                                                      N = Standard kit
+               9 = 910
+6                                                        33
+                                                         42
+                                                                  300
+                                                                  400
+                                                                           300
+                                                                           200
+                                                                                                                                                    S = Simplified cell harness
+                                                                                                                                                    R = Cell harness removed
+                                                         4Q       400      250
+                              Protection
+7
+                                                         43       400      300
+                            1 = LI                       44       400      400                                                                 N = No CPT supplied
+                            2 = LSI                      63       600      300                                                                 C = Breaker-mounted CPT
+                            3 = LS                       64       600      400
+8                           4 = LIG
+                            5 = LSG
+                                                         66
+                                                         84
+                                                                  600
+                                                                  800
+                                                                           600
+                                                                           400
+                            6 = LSIG                                                           Code              Breaker Frame Description               Sensor           Current Rating of
+                                                         86       800      600                                                                             Code       Sensor and Available Taps
+9                           7 = LSIA                     88
+                                                         T6
+                                                                  800
+                                                                  1200
+                                                                           800
+                                                                           600
+                                                                                                        ALL FRAMES                                       S          NO SENSORS PROVIDED
+                                                         T8       1200     800                 DR6      DS(L)-206                                        8          800
+                         N = No rating plug
+10                       6 = 50/60 Hz plug
+                                                         TA
+                                                         TT
+                                                                  1200
+                                                                  1200
+                                                                           1000
+                                                                           1200
+                                                                                                                                                         6
+                                                                                                                                                         4
+                                                                                                                                                                    600
+                                                                                                                                                                    400
+                                                         C8       1600     800
+                                                                                                                                                         3          300
+11
+                                                         CA       1600     1000
+                                                         CT       1600     1200                                                                          2          200
+                                                         CC       1600     1600                DRC      DS(L)-416                                        C          1600
+                                                         DA       2000     1000
+12
+                                                                                                                                                         T          1200
+                                                         DT       2000     1200
+                                                                                                                                                         8          800
+                                                         DC       2000     1600
+                                                         DD       2000     2000                                                                          6          600
+
+13                                                       FC
+                                                         FD
+                                                                  2400
+                                                                  2400
+                                                                           1600
+                                                                           2000
+                                                                                                                                                         4
+                                                                                                                                                         3
+                                                                                                                                                                    400
+                                                                                                                                                                    300
+                                                         FF       2400     2400
+                                                                                                                                                         2          200
+14                                                       JC
+                                                         JD
+                                                                  3200
+                                                                  3200
+                                                                           1600
+                                                                           2000                DRD      DS-420                                           D          2000
+                                                         JF       3200     2400                                                                          C          1600
+                                                         JJ       3200     3200
+15                                                       KD       4000     2000
+                                                                                                                                                         T
+                                                                                                                                                         8
+                                                                                                                                                                    1200
+                                                                                                                                                                    800
+                                                         KP       4000     2500
+                                                         KJ       4000     3200                                                                          6          600
+16                                                       KK       4000     4000                                                                          4          400
+                                                                                                                                                         3          300
+                                                                                                                                                         2          200
+17                                                                                             DRJ      DS-632                                           J          3200
+                                                                                                                      (Must replace Amptector Sensors)   F          2400
+
+18                                                                                             DRK      DS-840                                           K
+                                                                                                                                                         J
+                                                                                                                                                                    4000
+                                                                                                                                                                    3200
+
+19   Notes
+     1 At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910.
+
+
+20
+     2 If breaker has been previously retrofitted, call the Digitrip Retrofit Kit Service Center at 1-800-937-5487.
+
+
+
+     Sample shown is a Digitrip                          This information is subject to
+21   retrofit kit for a DS-206, with
+     an RMS 810 trip unit, with
+                                                         change. Updated pricing and
+                                                         availability information is
+     LSIG protection, with a 60 Hz                       included in the Retrofit Kit
+22   plug, rated at 250A for a                           Product Guide. For a copy of
+     sensor tap of 400A, four                            the Retrofit Kit Product
+     sensors (for a four-wire                            Guide, contact your local
+23   ground system) that have a                          Eaton Field Sales office or the
+     sensor tap of 400A, and there                       Digitrip Retrofit Kit Service
+     are no other features so this is                    Center at 1-800-937-5487.
+24   a standard original kit.
+
+25
+     V12-T17-34                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

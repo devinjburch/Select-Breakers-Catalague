@@ -1,0 +1,85 @@
+                                                                                                                Motor Control
+                                                               Adjustable Frequency AC Drives—Solid-State Low Voltage
+                                                                                                                                                                13
+Support Chart for Non-Current Vintage Products
+                                            (See below for topic definitions)                                                                                               1
+Model                                       PCB Repair            Upgrade Kits   Factory Repair            Field Service            Technical Support   Spare Parts
+Dynamatic Adjustable Frequency Drives                                                                                                                                       2
+VLT-5
+AF-1000                                                                                                                                                                     3
+AF-1500 1                                   ■                                    ■                         ■                        ■                   ■
+AF-1600
+AF-2000
+                                            ■                                    ■                         ■                        ■                   ■
+                                                                                                                                                                            4
+                                                                                                                                                                            5
+AF-300 (Responder)
+AF-3000
+AF-5000                                     ■                                    ■                         ■                        ■                   ■
+AF-5000+ / IS-5000+                         ■                                    ■                         ■                        ■                   ■                   6
+AF-6000
+AF-7000 / IS-7000                           ■                                    ■                         ■                        ■                   ■                   7
+AF-8000
+Westinghouse Adjustable Frequency Drives
+                                                                                                                                                                            8
+Accutrol 100
+Accutrol 110/Accuflow Jr. 1
+Accutrol 150
+                                            ■
+                                            ■                     ■2
+                                                                                 ■
+                                                                                 ■
+                                                                                                           ■
+                                                                                                           ■
+                                                                                                                                    ■
+                                                                                                                                    ■
+                                                                                                                                                        ■
+                                                                                                                                                        ■
+                                                                                                                                                                            9
+                                            ■                     ■2             ■                         ■                        ■                   ■
+                                                                                                                                                                            10
+Accutrol 200/Accuflow
+Accutrol 300                                ■                                    ■                         ■                        ■                   ■3
+Accutrol 400                                ■                                    ■                         ■                        ■                   ■
+Accutrol 700                                ■                     ■              ■                         ■                        ■                   ■                   11
+Cutler-Hammer Drives
+AF93                                                                                                                                                                        12
+AF95                                        ■                     ■              ■                         ■                        ■                   ■
+AF97                                        ■                     ■              ■                         ■                        ■                   ■                   13
+Advanced Technology Services, 8200 N. University, Peoria, IL 61615, now provides support for these products.
+Their toll-free number is 1-877-645-3606.                                                                                                                                   14
+Definitions                                                                          Product Support Services
+PCB Repair                                 Field Service                             For all Product Support
+                                                                                                                                                                            15
+Printed circuit boards may be              Eaton’s Electrical Services &             Services for these “legacy”
+returned to Advanced                       Systems (EESS) has trained                products, contact Advanced                                                             16
+Technology Services for                    technicians nationwide. See               Technology Services at
+repair. All PCBs are upgraded              Tab 22 in this catalog for                1-877-645-3606. For technical
+to the most current revision at            further information about                 support with Eaton’s current                                                           17
+the time of the repair.                    EESS capabilities.                        line of variable frequency
+                                                                                     drives, contact the
+Upgrade Kits                               Technical Support                         Drives Technical Resource                                                              18
+Kits are available to upgrade              The trained technicians at                Center at 1-800-322-4986.
+the basic performance of
+certain vintage products.
+                                           Advanced Technology
+                                           Services are available to
+                                                                                     Notes                                                                                  19
+                                                                                     1 The AF-1500, Accutrol 110 and Accuflow
+Contact Advanced Technology                provide assistance over
+                                                                                                                                                                            20
+                                                                                       Jr. are identical units.
+Services for more                          the telephone.                            2 No upgrades are available for Gate Turn-
+information.                                                                           off Thyristor (GTO) versions. Transistor
+                                           Spare Parts                                 versions are identified by a leading “A1T”
+Service Depot Repairs                      Advanced Technology                         or “A2T” in the model number.                                                        21
+Entire assemblies may be                   Services maintains a complete             3 GTOs are not available as spare parts
+
+returned to Advanced                       inventory of spare parts.                   for models below 100 hp.
+Technology Services for                                                                                                                                                     22
+repair, upgrade or
+refurbishment.                                                                                                                                                              23
+                                                                                                                                                                            24
+                                                                                                                                                                            25
+                        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                               V12-T13-75
+

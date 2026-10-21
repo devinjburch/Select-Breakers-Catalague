@@ -1,0 +1,75 @@
+                                                                                               Motor Control
+                                                                                      Contactors, Starters and Brakes
+                                                                                                                                13
+MR and MD Series 1 Sizes 5–9 Renewal Parts—Kits
+Type MR                                    Part Number                                                                                       1
+and MD                                     Current
+Contact Kit                                                                                                                                  2
+501/501R                                   26D2610G22
+510                                        26D2610G15
+                                                                                                                                             3
+601/701                                    26D2610G24
+610/710                                    26D2610G16
+                                                                                                                                             4
+810                                        26D2610G18
+810R
+910
+                                           26D2610G19
+                                           26D2610G20
+                                                                                                                                             5
+                                                                                                                                             6
+Shunt
+501/501R                                   25A1650G02
+
+                                                                                                                                             7
+510                                        25A1641G02
+601                                        25A1666G03
+610                                        25A1654G03
+701                                        25A1666G04                                                                                        8
+710                                        25A1654G04
+810/810R                                   25A1693G02                                                                                        9
+910                                        45A1425G02
+Arc Box                                                                                                                                      10
+501/510                                    25A1646G01
+601/610, 701/710                           25A1662G01                                                                                        11
+810/910                                    25A1677G05
+Armature Kit                                                                                                                                 12
+501/501R                                   25A1649G05
+510                                        25A1640G05                                                                                        13
+601/701                                    25A1667G03
+610/710                                    25A1655G04                                                                                        14
+810/810R                                   25A1694G05
+910                                        38A2269G02
+                                                                                                                                             15
+Blowout Coil Assembly Kit 2
+M501/510
+M601/610
+                                           25A1644G05
+                                           25A1659G05
+                                                                                                                                             16
+M701/710
+M810/810R
+                                           25A1660G03
+                                           25A1698G03
+                                                                                                                                             17
+                                                                                                                                             18
+M910                                       238A2273G02
+Blowout Coil Assembly Kit 3
+M501/510                                   857D505G05
+M601/610                                   857D506G08
+                                                                                                                                             19
+M701/710                                   857D516G05
+M810                                       857D508G07                                                                                        20
+M910                                       857D509G04
+
+Notes
+                                                                                                                                             21
+1 MR = rear connected; MD = front connected.
+2 Type MR only.
+3 Type MD only.
+                                                                                                                                             22
+                                                                                                                                             23
+                                                                                                                                             24
+                                                                                                                                             25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com   V12-T13-59
+

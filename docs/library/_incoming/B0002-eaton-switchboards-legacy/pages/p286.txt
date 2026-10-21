@@ -1,0 +1,89 @@
+     10                          IQ Products
+                                 Technology Upgrades
+
+
+
+     IQ 35M                                 Catalog Number Selection
+1
+                                            IQ 35M Meter
+2                                                                         IQ35M A 1 1
+3                                               Model Series                  Enclosure Type                      Output Option
+                                                                         1 = Standard energy        1 = Pulse output only
+4                                                                        2 = Four quadrant energy   2 = Pulse output + Modbus
+                                                                                                    3 = Pulse output + Modbus + data logging
+                                                                                                    5 = Pulse inputs + BACnet + data logging
+5
+                  IQ 35M                    Accessories
+6    General Description
+                                            IQ 35M Accessories                                                                                 Note: Specifications are subject
+     The Eaton IQ 35M Meter is a                                                                                                               to change without notice and
+7    DIN rail meter that combines
+                                            Description
+                                                                                                              Catalog
+                                                                                                              Number
+                                                                                                                                               represent the maximum
+     exceptional performance and                                                                                                               capabilities of the product with all
+     easy installation to deliver           IQ35M enclosure, NEMA 4X                                          IQ35M-ENC                        options installed. This is not a
+8    a cost-effective solution for          IQ35M fuse pack, single, 1/2A slow-blow                           IQ35M-FP1
+                                                                                                                                               complete feature list. Features
+     energy and power monitoring                                                                                                               and functionality may vary
+     applications, as well as sub-          IQ35M fuse pack, double, 1/2A slow-blow                           IQ35M-FP2                        depending on selected options,
+9    metering applications. Most            IQ35M fuse pack, triple, 1/2A slow-blow                           IQ35M-FP3
+                                                                                                                                               firmware version and product
+                                                                                                                                               model. Please refer to User
+     models include pulse output,           IQ35M replacement mounting clips                                  IQ35M-RMC                        Manual for detailed
+10   alarm contact and phase
+     alarms for true versatility.           IQ35M DIN rail                                                    IQ35M-DR                         specifications.
+
+     The BACnet version offers              IQ35M DIN rail stop clips (10 pack)                               IQ35M-DRSC
+11   two digital inputs for
+     accumulating other meter               IQ 35M Current Transformers
+     pulses in place of the digital
+12   output and alarm contact.              Description
+                                                                                                              Catalog
+                                                                                                              Number
+     The Modbus output options
+     offer added flexibility for
+13
+                                            Solid Core
+     configuration and data analysis.       IQ35M CT, solid core, 5A:0.33 Vac, 0.30 inch                      IQ35M-SO-030-5
+     The IQ 35M allows you to:
+                                            IQ35M CT, solid core, 20A:0.33 Vac, 0.30 inch                     IQ35M-SO-030-20
+14   ●   Verify energy bills                IQ35M CT, solid core, 50A:0.33 Vac, 0.50 inch                     IQ35M-SO-050-50
+     ●   Make informed load                 IQ35M CT, solid core, 50A:0.33 Vac, 0.75 inch                     IQ35M-SO-075-50
+15       shifting and shedding
+         decisions                          IQ35M CT, solid core, 100A:0.33 Vac, 1.25 inch                    IQ35M-SO-125-100
+     ●   Fairly and accurately              IQ35M CT, solid core, 200A:0.33 Vac, 1.25 inch                    IQ35M-SO-125-200
+16       allocate energy costs to           IQ35M CT, solid core, 250A:0.33 Vac, 1.25 inch                    IQ35M-SO-125-250
+         users                              IQ35M CT, solid core, 300A:0.33 Vac, 1.25 inch                    IQ35M-SO-125-300
+17   ●   Identify wasteful practices        IQ35M CT, solid core, 400A:0.33 Vac, 1.25 inch                    IQ35M-SO-125-400
+     ●   Decrease unnecessary
+                                            Split Core
+         usage
+18   ●   Produce an energy profile          IQ35M CT, split core, 5A:0.33 Vac, 0.75 inch                      IQ35M-SP-075-5
+     ●   Secure the optimum utility         IQ35M CT, split core, 30A:0.33 Vac, 0.75 inch                     IQ35M-SP-075-30
+
+19       rate structure                     IQ35M CT, split core, 50A:0.33 Vac, 0.75 inch                     IQ35M-SP-075-50
+                                            IQ35M CT, split core, 100A:0.33 Vac, 0.75 inch                    IQ35M-SP-075-100
+
+20                                          IQ35M CT, split core, 200A:0.33 Vac, 0.75 inch                    IQ35M-SP-075-200
+                                            IQ35M CT, split core, 250A:0.33 Vac, 1.25 inch                    IQ35M-SP-125-250
+
+21                                          IQ35M CT, split core, 300A:0.33 Vac, 1.25 inch                    IQ35M-SP-125-300
+                                            IQ35M CT, split core, 400A:0.33 Vac, 1.25 inch                    IQ35M-SP-125-400
+
+22                                          IQ35M CT, split core, 600A:0.33 Vac, 1.25 inch                    IQ35M-SP-125-600
+                                            IQ35M CT, split core, 800A:0.33 Vac, 2.50 inch                    IQ35M-SP-253-800
+
+23                                          IQ35M CT, split core, 1000A:0.33 Vac, 2.50 inch
+                                            IQ35M CT, split core, 1200A:0.33 Vac, 2.50 inch
+                                                                                                              IQ35M-SP-255-1000
+                                                                                                              IQ35M-SP-255-1200
+
+24
+                                            IQ35M CT, split core, 1600A:0.33 Vac, 2.50 inch                   IQ35M-SP-255-1600
+                                            IQ35M CT, split core, 2000A:0.33 Vac, 2.50 inch                   IQ35M-SP-255-2000
+                                            IQ35M CT, split core, 2400A:0.33 Vac, 2.50 inch                   IQ35M-SP-255-2400
+25
+     V12-T10-22            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

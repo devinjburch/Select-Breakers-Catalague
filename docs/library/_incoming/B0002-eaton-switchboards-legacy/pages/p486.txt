@@ -1,0 +1,115 @@
+     17                            Switchgear
+                                   Trip Unit Retrofit Kits
+
+
+
+     Product History Time Line
+1
+      Page          Product                                                              1955   1960   1965   1970   1975   1980   1985   1990   1995   2000 Present
+
+2                   Electromechanical Trip Devices (B Breakers)
+                    Amptector Trip Units and Accessories (DS Breakers)
+
+3                   Amptector Retrofit Kits, Trip Units, and Accessories (DB Breakers)
+                    POW-R-Trip 7 Trip Units (SPB Breakers)
+
+4                   POW-R-Trip Trip Units (SPB Breakers)
+                    POW-R-Digitrip I Trip Units (SPB Breakers)
+      V12-T17-24    Rating Plugs
+5                   RK Retrofit Kits, Trip Units and Accessories (DB Breakers)
+                    RK Retrofit Kits, Trip Units and Accessories (GE AK-2A Breakers)
+6     V12-T17-21    Digitrip II RMS Trip Units (RMS500, RMS600, RMS700, RMS800)
+      V12-T17-21    Digitrip III RMS Trip Units (RMS510, RMS610, RMS710, RMS810)
+
+7     V12-T17-29
+                    Digitrip III RMS Retrofit Kits for:
+                      • Westinghouse DA and DK Breakers
+      V12-T17-31
+8
+                      • Westinghouse DB Breakers
+      V12-T17-33      • Westinghouse DS Breakers
+      V12-T17-35      • Westinghouse SPB Breakers
+9     V12-T17-33      • GE姞 AK-1, AK-2/2A, AK-3/3A, AKR-50. AL-2EO, AL-2-50 Breakers
+      V12-T17-41      • Allis-Chalmers LA Series Breakers
+
+10    V12-T17-43      • ITE姞 K-Line Breakers
+      V12-T17-47      • Siemens姞 – Allis Breakers
+
+11    V12-T17-49
+      V12-T17-51
+                      • Federal Pacific姞 Breakers
+                      • Other Breakers
+
+
+12   General Information                           Communications via the                       Application and                       Availability
+     State-of-the-Art Features                     PowerNet system allows                       Service Condition                     Digitrip RMS trip unit retrofit
+                                                   all pertinent information,                   In order to ensure that Digitrip      kits are currently available for
+13   Digitrip RMS trip unit retrofit
+     kits come in several different
+                                                   regarding static and dynamic                 RMS trip unit retrofit kits           select breaker frames from
+                                                   operation of the breaker, to                 are successfully applied,             the following manufacturers:
+     model types. Among these                      be remotely monitored either                 installation must only be done
+14   types, they provide a variety of              by a host computer or an IQ                  by a qualified individual.            ●   Westinghouse
+     accommodating features (see                   AEM. This facilitates energy                                                       ●   General Electric
+     table on Page V12-T17-20).                                                                 Appropriate testing must
+15                                                 management and power
+                                                   management. Remember,                        be performed to qualify the
+                                                                                                                                      ●   ITE
+     True rms measurement                                                                                                                 Allis-Chalmers
+                                                   “If you can’t measure it, you                retrofitted breaker prior to          ●
+
+     and protection. Extremely
+16   accurate and able to                          can’t manage it.”                            placing the breaker in service.
+                                                                                                Digitrip RMS trip unit retrofit
+                                                                                                                                      ●
+
+                                                                                                                                      ●
+                                                                                                                                          Siemens-Allis
+                                                                                                                                          Federal Pacific
+     compensate for harmonic                       The Packaged Kit                             kits will provide protection              Roller-Smith
+     content and disturbances.
+17
+                                                                                                                                      ●
+
+                                                   Each Digitrip RMS trip unit                  based on their published
+                                                                                                time-current curves when
+                                                                                                                                      ●   Other manufacturers
+     Ground fault may be added                     retrofit kit includes a Digitrip
+     to an existing power breaker.                 trip unit, an auxiliary CT                   the breaker is properly
+18   Ground fault is offered in a                  module, a direct trip actuator               maintained and operated in
+                                                                                                                                      Order Information
+                                                                                                                                      In order to obtain the proper
+     three-wire and a four-wire                    (DTA), quantity (three) current              accordance with the original          kit, the following information
+                                                   sensors, a rating plug,                      manufacturer’s specification
+19   version.
+                                                   interconnecting wiring                       and instructions.
+                                                                                                                                      should be provided to your
+                                                                                                                                      authorized Eaton distributor:
+     Zone interlocking is                          harnesses, mounting
+     available on the short time                                                                Service Life
+20   and ground fault modes of
+                                                   brackets, copper connectors
+                                                   (when required), hardware,                   The physical structure, the
+                                                                                                                                      ●   Breaker manufacturer
+                                                                                                                                      ●   Breaker frame designation
+     protection. This enables                      and installation instructions.               bus assemblies and control
+                                                                                                                                          Breaker frame rating
+21
+                                                                                                                                      ●
+     enhanced selectivity for                      Digitrip RMS retrofit kits are               wiring of switchgear are
+     high fault and ground fault                   complete tripping systems                    normally in good condition.           ●   Breaker continuous
+     coordination between the                      engineered specifically for                  The replacement of the trip               current rating
+22   main and the feeder breakers.                 each breaker type and frame                  system coupled along with             ●   Kit type (see table on
+                                                   rating. All kits are designed                either refurbishment or                   Page V12-T17-20)
+     Local monitoring via a display.                                                            reconditioning of the breaker
+                                                   for field installation.                                                                (i.e., RMS 510...RMS 810)
+23   A red light emitting diode (LED)                                                           will prolong the life of the          ●   Modes of protection
+     display enables the user to step                                                           switchgear and provide
+     through and read currents and                                                                                                    ●   Sensor rating
+                                                                                                modern state-of-the-art
+24   energy readings for each phase                                                             protection.
+                                                                                                                                      ●   Rating plug rating
+     and ground.
+25
+     V12-T17-18         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

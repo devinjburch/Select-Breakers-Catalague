@@ -1,0 +1,83 @@
+     16                                High Resistance Grounding System
+
+
+
+     Catalog Numbering System
+1
+     Decoding the Catalog Numbering System
+2
+                                                                                         F 4 W N C R N S F 4 6
+3
+                                                 Enclosure Type                                                                         System Frequency
+4                    F = Free-standing, Type 1                                                                                        5 = 50 Hz
+                     S = Free-standing, Type 1 with screened vents                                                                    6 = 60 Hz
+
+5                    R = Free-standing, Type 3R
+                     W = Wall-mounted, Type 1
+                                                                                                                                    Wire Harness Length for “N”
+                     N = No enclosure (panel-mounted)
+                                                                                                                                          (No Enclosure)
+                     V = Wall-mounted, Type 1 with 3R resistor enclosure
+6                                                                                                                                4 = 4-foot harness
+                                                                                                                                 6 = 6-foot harness
+                                                                Distribution System Voltage                                      8 = 8-foot harness
+7                                                            6 = 600V
+                                                             4 = 480V
+                                                                                                                                 0 = 10-foot harness
+                                                                                                                                 2 = 12-foot harness
+                                                             3 = 380V
+8                                                            2 = 208–240V
+                                                                                                                                        Wire Marker
+                                                                                                                            M = Machine printed
+                                                          System Neutral Point
+9                                  W = Wye (and accessible at system)
+                                                                                                                            F = Sleeve type
+                                                                                                                            H = Heat shrink, sleeve type
+                                   Z = Delta (zig-zag grounding transformers)
+
+10
+                                   D = Delta (wye-broken delta grounding transformers)
+                                                                                                                                    Indicating Lights
+                                                                                                                      S = Standard incandescent
+                                                        Distribution System Fault Current                             L = Standard LED
+11                                  6 = 25 kA at 600V, 65 kA at 480 and 380V, 100 kA at 240V                          P = Push-to-test incandescent
+                                                                                                                      D = Push-to-test LED
+                                    1 = 150 kA at 480 and 380V, 200 kA at 240V
+                                    2 = 200 kA at 600V, 480V or 380/280V                                              T = Transformer-type incandescent
+12                                  N = Not applicable (when using “W” above)                                         X = Push-to-test transformer-type
+
+                                                                                                                       Loss of Control Power Relay (Alarm)
+13
+                                                                             Ground Fault Sensing
+                                                            C = Current-sensing relay, with noise filter        N = No relay
+                                                            D = Voltage sensing relay, double set point         L = Alarm relay with 1NO/1NC contact
+
+14                                                                                                                        Audible Alarm
+
+15
+                                                                                                           N = No audible alarm
+                                                                                                           R = Alarm horn with re-alarm timer
+
+
+16
+     Further Information
+17   Publication
+     Number              Description
+
+
+18
+     SN.44C.01.S.E       Sales Notes for C-HRG
+     —                   Bidman pricing
+     TD.44C.01.T.E       Technical Data for C-HRG
+19   SA-32-602B          Sales Aid for high resistance grounding systems
+     IB 32-698C          Instruction Booklet for high resistance grounding system
+20   CA08104001E         Eaton’s Consulting Application Guide
+
+
+21
+22
+23
+24
+25
+     V12-T16-4                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

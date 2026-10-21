@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    HLB3225TA                5680D04G50        O          —                        —                      —                         2, 8
+     HLB3250                  179C848G24        O          —                        —                      KD3250                    1–3, 5, 8, 9
+3    HLB3250T                 5680D04G27        O          —                        —                      —                         2, 8
+     HLB3250TA                5680D04G51        O          —                        —                      —                         2, 8
+
+4    HLB3300                  179C848G25        O          —                        —                      KD3300                    1–3, 5, 8, 9
+     HLB33000TM               5680D04G67        O          —                        —                      —                         2, 8
+
+5    HLB3300T                 5680D04G28        O          —                        —                      —                         2, 8
+     HLB3300TA                5680D04G52        O          —                        —                      —                         2, 8
+
+6    HLB3350TA                5680D04G53        O          —                        —                      —                         2, 8
+     HLB3400                  179C848G27        O          —                        —                      KD3400                    1–3, 5, 8, 9
+
+7    HLB34000TM               5680D04G68        O          —                        —                      —                         2, 8
+     HLB3400F                 5680D03G10        O          —                        —                      KD3400F                   1–3, 5, 8, 9
+
+8    HLB3400T
+     HLB3400TA
+                              5680D04G30
+                              5680D04G54
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           —
+                                                                                                           —
+                                                                                                                                     2, 8
+                                                                                                                                     2, 8
+
+9
+     HLB3700TM                5680D04G62        O          —                        —                      —                         2, 8
+     HLC2150F                 1242C92G01        O          —                        —                      KD3400F/KES3150LS         1–3, 5, 8
+     HLC2150FM                1242C92G03        O          —                        —                      KD3400F/KES3150LS         1–3, 5, 8
+10   HLC2300F                 1242C92G05        O          —                        —                      KD3400F/KES3400LS         1–3, 5, 8
+     HLC2300FM                1242C92G07        O          —                        —                      KD3400F/KES3400LS         1–3, 5, 8
+11   HLC2400F                 1242C92G09        O          —                        —                      KD3400F/KES3400LS         1–3, 5, 8
+     HLC2400FM                1242C92G11        O          —                        —                      KD3400F/KES3400LS         1–3, 5, 8
+12   HLC2600F                 1242C92G13        O          —                        —                      LD3600F/LES3600LS         1–3, 5, 8
+     HLC2600FM                1242C92G15        O          —                        —                      LD3600F/LES3600LS         1–3, 5, 8
+13   HLC3150F                 1242C92G02        A          —                        —                      KD3400F/KES3150LS         1–3, 5, 8
+     HLC3150FM                1242C92G04        O          HLC3150F                 1284C66G02             KD3400F/KES3150LS         1–3, 5, 8
+14   HLC3300F                 1242C92G06        A          —                        —                      KD3400F/KES3400LS         1–3, 5, 8
+     HLC3300FM                1242C92G08        O          HLC3300F                 2612D41G46             KD3400F/KES3400LS         1–3, 5, 8
+
+15   HLC3400F                 1242C92G10        A          —                        —                      KD3400F/KES3400LS         1–3, 5, 8
+     HLC3400FM                1242C92G12        O          HLC3400F                 2613D44G08             KD3400F/KES3400LS         1–3, 5, 8
+
+16   HLC3600F                 1242C92G14        A          —                        —                      LD3600F/LES3600LS         1–3, 5, 8
+     HLC3600FM                1242C92G16        O          HLC3600F                 2612D41G48             LD3600F/LES3600LS         1–3, 5, 8
+
+17   HLCA2150F                1242C92G23        O          —                        —                      KD3400F/KES3150LSI        1–3, 5, 8
+     HLCA2300F                1242C92G27        O          —                        —                      KD3400F/KES3400LSI        1–3, 5, 8
+
+18   HLCA2400F                1242C92G31        O          —                        —                      KD3400F/KES3400LSI        1–3, 5, 8
+     HLCA2600F                1242C92G35        O          —                        —                      LD3600F/LES3600LSI        1–3, 5, 8
+
+19   HLCA3150F
+     HLCA3300F
+                              1242C92G24
+                              1242C92G28
+                                                A
+                                                A
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           KD3400F/KES3150LSI
+                                                                                                           KD3400F/KES3400LSI
+                                                                                                                                     1–3, 5, 8
+                                                                                                                                     1–3, 5, 8
+
+20
+     HLCA3400F                1242C92G32        A          —                        —                      KD3400F/KES3400LSI        1–3, 5, 8
+     HLCA3600F                1284C66G36        A          —                        —                      LD3600F/LES3600LSI        1–3, 5, 8
+
+21
+     HLCC3600F                6590C11G14        A          —                        —                      CLD3600F/LES3600LS        1–3, 5, 8
+     HLCCA3600F               6590C11G36        A          —                        —                      CLD3600F/LES3600LSI       1–3, 5, 8
+     HLCCG3600F               1242C94G04        A          —                        —                      CLD3600F/LES3600LSG       1–3, 5, 8
+22   HLCCGA3600F              1242C94G12        A          —                        —                      CLD3600F/LES3600LSIG      1–3, 5, 8
+     HLCG3150F                1242C89G01        A          —                        —                      KD3400F/KES3150LSG        1–3, 5, 8
+23   HLCG3300F                1242C89G02        A          —                        —                      KD3400F/KES3400LSG        1–3, 5, 8
+     HLCG3400F                1242C89G03        A          —                        —                      KD3400F/KES3400LSG        1–3, 5, 8
+24   HLCG3600F                1371D17G40        A          —                        —                      LD3600F/LES3600LS         1–3, 5, 8
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-128              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

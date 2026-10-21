@@ -1,0 +1,104 @@
+     24                           Counters, Panel Meters, Tachometers and Timers
+                                  Totalizers
+
+
+
+     X Series
+1
+     Product Description                                                                                  Product Selection
+     Model X Series are dust- and                   They are especially designed
+2    rust-proof counters designed                   for incorporation as integral
+                                                                                                          When Ordering Specify
+                                                                                                          To determine a model
+     for small, medium-duty units,                  parts of a variety of equipment                       number from the Product
+3    accurate, durable and require
+     a minimum of driving effort.
+                                                    that gets severe usage under
+                                                    adverse climatic conditions.
+                                                                                                          Selection table for Model X
+                                                                                                          Series Revolution Counters,
+                                                                                                          consider:
+4                                                                                                         ●   Number of figures
+                                                                                                              Ratio
+5
+                                                                                                          ●
+
+                                                                                                          ●   Drive shaft location
+                                                                                                          ●   Shaft rotation direction
+6
+     X Series Revolution    X Series Revolution Counters
+7    Counter                No. of                                                                                                   Order
+                            Figures           Drive        Rotation                 Reset          Mounting         Catalog Number   Number
+
+8                           4                 LH           Clockwise 1              Knob           Base             4-X-7-1-L-CL     40270406
+                            4                 LH           Anti-clockwise 2         Knob           Base             4-X-7-1-L-AC     40270404
+
+9                           4                 RH           Clockwise 3              Knob           Base             4-X-7-1-R-CL     40270407
+                            4                 RH           Anti-clockwise 4         Knob           Base             4-X-7-1-R-AC     40270405
+
+10                          5
+                            4
+                                              RH
+                                              LH
+                                                           Anti-clockwise 4
+                                                           Clockwise 1
+                                                                                    Knob
+                                                                                    Knob
+                                                                                                   Base
+                                                                                                   Base
+                                                                                                                    5-X-7-1-R-AC
+                                                                                                                    4-X-7-1-L-CL 5
+                                                                                                                                     40275406
+                                                                                                                                     40270402
+
+11                          5
+                            4
+                                              LH
+                                              LH
+                                                           Clockwise 1
+                                                           Anti-clockwise 2
+                                                                                    Knob
+                                                                                    Knob
+                                                                                                   Base
+                                                                                                   Base
+                                                                                                                    5-X-7-1-L-CL 5
+                                                                                                                    4-X-7-1-L-AC 5
+                                                                                                                                     40275402
+                                                                                                                                     40270400
+
+12
+                            5                 LH           Anti-clockwise 2         Knob           Base             5-X-7-1-L-AC 5   40275400
+                            4                 RH           Clockwise 3              Knob           Base             4-X-7-1-R-CL 5   40270403
+                            5                 RH           Clockwise 3              Knob           Base             5-X-7-1-R-CL 5   40275403
+13                          4                 RH           Anti-clockwise 4         Knob           Base             4-X-7-1-R-AC 5   40270401
+                            5                 RH           Anti-clockwise 4         Knob           Base             5-X-7-1-R-AC 5   40275401
+14
+                            Top View—Left-Hand Drive
+15
+                                              1                                              2
+
+16                          Clockwise Shaft Rotation                      Anti-Clockwise Shaft Rotation
+
+
+17                          Top View—Right-Hand Drive
+
+18                               3                                              4
+
+
+                            Clockwise Shaft Rotation                      Anti-Clockwise Shaft Rotation
+19
+                            Notes
+
+20                          When shaft is turned in the reverse direction of rotation, the counter will subtract.
+                            1 Top view—left-hand drive with clockwise shaft rotation.
+                            2 Top view—left-hand drive with anti-clockwise shaft rotation.
+21                          3 Top view—right-hand drive with clockwise shaft rotation.
+                            4 Top view—right-hand drive with anti-clockwise shaft rotation.
+                            5 Special feature: 10:1 ratio.
+
+22
+23
+24
+25
+     V12-T24-12            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

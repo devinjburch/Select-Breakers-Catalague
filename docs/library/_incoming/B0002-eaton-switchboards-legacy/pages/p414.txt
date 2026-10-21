@@ -1,0 +1,64 @@
+                                                                                              Motor Control
+                           Synchronous—Relay or Solid-State Mark V Slipsyn for Brush and Brushless Motors
+                                                                                                                                  13
+The upper half contained the        Low Voltage Synchronous                 The second difference lies in
+step-down static excitation         Starters                                the primary disconnect used                                       1
+transformer with current            Low voltage synchronous                 in the starters. Low voltage
+limiting fuses, the Silicon         starters are similar in nature          starters can be supplied with
+Controlled Rectifier (SCR)          to high voltage synchronous             no short-circuit protection,                                      2
+type static exciter and the         starters except in two                  with a non-fusible disconnect,
+synchronizing control and                                                   a fusible disconnect switch or
+motor field protection panel.
+                                    regards. High voltage
+                                    starters, unlike low voltage            with a molded-case circuit                                        3
+                                    starters, must isolate the low          breaker. Low voltage
+The SJ AMPGARD (1982–
+2000) family of synchronous
+                                    voltage from the high voltage.          synchronous starters were
+                                                                            manufactured in the late
+                                                                                                                                              4
+                                    The components for the field
+control is very similar to the                                              1940s with the introduction
+                                    control are the same.
+LF AMPGARD. Until the
+availability of the Mark V solid-
+                                                                            of the ASR relay, until                                           5
+                                                                            September of 1989. In 1991,
+state synchronous control,                                                  the product was reintroduced
+the SJ used the ASR relay                                                   using the Mark V solid-state                                      6
+type field control. With the                                                field control.
+advent of the Mark V, most of
+the synchronous starters are        Product History Time Line                                                                                 7
+supplied with this type of
+control. In both ASR and
+Mark V control schemes, the
+                                      Page           Product                                     1945 1955 1965 1975 1985 1995 2000 Present
+                                                                                                                                              8
+synchronous gear is usually           V12-T13-74     ASR Relay Slipsyn (Brush Type)
+mounted in the top half of
+the starter.
+                                                     Mark I Static Slipsyn (Brush Type)                                                       9
+                                                     Mark II Static Slipsyn (Brush Type)
+The SL AMPGARD (2000–
+present) is similar to the SJ         V12-T13-80     Mark V Slipsyn                                                                           10
+AMPGARD but uses the                  V12-T13-81     Brushless Motor Control
+Mark V solid-state
+synchronous controller,
+                                                                                                                                              11
+exclusively.
+                                                                                                                                              12
+                                                                                                                                              13
+                                                                                                                                              14
+                                                                                                                                              15
+                                                                                                                                              16
+                                                                                                                                              17
+                                                                                                                                              18
+                                                                                                                                              19
+                                                                                                                                              20
+                                                                                                                                              21
+                                                                                                                                              22
+                                                                                                                                              23
+                                                                                                                                              24
+                                                                                                                                              25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com        V12-T13-77
+

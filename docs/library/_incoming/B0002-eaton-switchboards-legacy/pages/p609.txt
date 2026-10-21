@@ -1,0 +1,70 @@
+                                         Counters, Panel Meters, Tachometers and Timers
+                                                                                                                             Totalizers
+                                                                                                                                                   24
+SE Series
+                                                                                                                                                                1
+Product Description                             Features                                                                       Standards and Certifications
+Compact electromechanical                           Low-cost                                 ●   Compact with various              UL recognized
+                                                                                                                                                                2
+                                                ●                                                                              ●
+
+counters.                                           electromechanical counter                    mounting options
+                                                ●   Multiple voltage ranges for              ●   Wire leads for electrical
+                                                    almost any application                       connections
+                                                                                                                                                                3
+
+Product Selection                                                                                                                                               4
+SE Series Counter—
+Electromechanical
+                          SE Series Electromechanical Counters
+                                                                                                                                                                5
+                                                                                                               Order
+                          Description                                                 Catalog Number           Number
+                          Six-Digit Electric Counter                                                                                                            6
+                          Bottom mount sub-miniature 12 Vdc                           6-Y-41610-401-SE         41610401
+                          Bottom mount sub-miniature 24 Vdc                           6-Y-41610-402-SE         41610402                                         7
+                          Bottom mount sub-miniature 120 Vac                          6-Y-41610-406-SE         41610406
+                          Bottom mount sub-miniature 240 Vac                          6-Y-41610-407-SE         41610407                                         8
+                          Base mount sub-miniature 12 Vdc                             6-Y-41611-401-SE         41611401
+                          Base mount sub-miniature 24 Vdc                             6-Y-41611-402-SE         41611402                                         9
+                          Base mount sub-miniature 120 Vac                            6-Y-41611-406-SE         41611406
+                          Base mount sub-miniature 240 Vac                            6-Y-41611-407-SE         41611407                                         10
+                          Panel mount sub-miniature 12 Vdc                            6-Y-41613-401-SE         41613401
+                          Panel mount sub-miniature 24 Vdc                            6-Y-41613-402-SE         41613402                                         11
+                          Panel mount sub-miniature 120 Vac                           6-Y-41613-406-SE         41613406
+                          Panel mount sub-miniature 240 Vac                           6-Y-41613-407-SE         41613407                                         12
+                          Special base mount sub-miniature 12 Vdc                     6-Y-41622-401-SE         41622401
+                          Special base mount sub-miniature 24 Vdc                     6-Y-41622-402-SE;        41622402
+                                                                                                                                                                13
+                          Special base mount sub-miniature 120 Vac                    6-Y-41622-406-SE         41622406
+                          Special top mount sub-miniature 12 Vdc                      6-Y-41623-401-SE         41623401
+                                                                                                                                                                14
+                          Special top mount sub-miniature 24 Vdc                      6-Y-41623-402-SE         41623402
+                          Special top mount sub-miniature 120 Vac
+                          Special top mount sub-miniature 240 Vac
+                                                                                      6-Y-41623-406-SE
+                                                                                      6-Y-41623-407-SE
+                                                                                                               41623406
+                                                                                                               41623407
+                                                                                                                                                                15
+                                                                                                                                                                16
+                          Snap-in mount sub-miniature 12 Vdc                          6-Y-42613-401-SE         42613401
+                          Snap-in mount sub-miniature 24 Vdc                          6-Y-42613-402-SE         42613402
+                          Snap-in mount sub-miniature 120 Vac                         6-Y-42613-406-SE         42613406
+                          Snap-in mount sub-miniature 240 Vac                         6-Y-42613-407-SE         42613407
+                                                                                                                                                                17
+                                                                                                                                                                18
+Technical Data and Specifications
+General Specifications                                                                                                                                          19
+Description                                     Specification
+Figures                                         6                                                                                                               20
+Count speed                                     600 cpm
+Figure size                                     5/32 in (4.0 mm)                                                                                                21
+Reset                                           None
+Mounting                                        Base, bottom, top, panel or snap-in                                                                             22
+Finish                                          Black, self-extinguishing plastic
+Power requirements                              DC: 1.5W, AC: 5.0V                                                                                              23
+                                                                                                                                                                24
+                                                                                                                                                                25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com                     V12-T24-27
+

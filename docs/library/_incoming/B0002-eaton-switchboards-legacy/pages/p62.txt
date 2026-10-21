@@ -1,0 +1,73 @@
+                                                                                Molded-Case Circuit Breakers
+                                                                                                            Replacement Capabilities
+                                                                                                                                                                            3
+Types LC, LCC, LCA, LCCA, MARK 75 Types HLC, HLCC, HLCA, HLCCA SELTRONIC with Solid-State Trip Units 600 Vac, 50/60 Hz
+Complete breaker requires frame and rating plug. See the table and terminals on Page V12-T3-60. Extra current transformer included                                              1
+for neutral. See accessories on Page V12-T3-65 for remote ground fault trip indicator.
+■ Shaded area denotes obsolete or discontinued products and services. 1                                                                                                         2
+LCA: 600 Vac      Breakers for Standard Applications—Frame Only
+                                    Standard                                                                                        Long Delay, Short Time and Adjustable       3
+                  Number            (Long Delay and Short Time)                    Short Time Only 3                                Short Delay Time (0.06–0.22 sec.)
+                  of Poles 2
+                                                                                                                                                                                4
+                                    Catalog Number                                 Catalog Number                                   Catalog Number
+                  Types LC 150 and LCA 150 (75–150A)
+
+                                                                                                                                                                                5
+                  2                 LC2150F                                        LC2150FM                                         LCA2150F
+                  3                 LC3150F                                        LC3150FM                                         LCA3150F
+                  MARK 75 Types HLC 150 and HLCA 150 (75–150A)
+                  2                 HLC2150F                                       HLC2150FM                                        HLCA2150F                                   6
+                  3                 HLC3150F                                       HLC3150FM                                        HLCA3150F
+                  Types LC 300 and LCA 300 (150–300A)                                                                                                                           7
+                  2                 LC2300F                                        LC2300FM                                         LCA2300F
+                  3                 LC3300F                                        LC3300FM                                         LCA3300F                                    8
+                  MARK 75 Types HLC 300 and HLCA 300 (150–300A)
+                  2                 HLC2300F                                       HLC2300FM                                        HLCA2300F                                   9
+                  3                 HLC3300F                                       HLC3300FM                                        HLCA3300F
+                  Types LC 400 and LCA 400 (200–400A)                                                                                                                           10
+                  2                 LC2400F                                        LC2400FM                                         LCA2400F
+                  3                 LC3400F                                        LC3400FM                                         LCA3400F                                    11
+                  MARK 75 Types HLC 400 and HLCA 400 (200–400A)
+                  2                 HLC2400F                                       HLC2400FM                                        HLCA2400F                                   12
+                  3                 HLC3400F                                       HLC3400FM                                        HLCA3400F
+                  Types LC 600 and LCA 600 (300–600A)
+                                                                                                                                                                                13
+                  2                 LC2600F                                        LC2600FM                                         LCA2600F
+                  3                 LC3600F                                        LC3600FM                                         LCA3600F
+                                                                                                                                                                                14
+                  MARK 75 Types HLC 600 and HLCA 600 (300–600A)
+                  2
+                  3
+                                    HLC2600F
+                                    HLC3600F
+                                                                                   HLC2600FM
+                                                                                   HLC3600FM
+                                                                                                                                    HLCA2600F
+                                                                                                                                    HLCA3600F
+                                                                                                                                                                                15
+
+                  Breakers for Applications at 100% Rating—Frame Only                                                                                                           16
+                                    Standard                                                                                        Long Delay, Short Time and Adjustable
+                  Number of         (Long Delay and Short Time)                    Short Time Only 3                                Short Delay Time (0.06–0.22 sec.)           17
+                  Poles 2           Catalog Number                                 Catalog Number                                   Catalog Number
+                  Types LCC 600 and LCCA 600 (300–600A)
+                                                                                                                                                                                18
+                  3                 LCC3600F                                       —                                                LCCA3600F
+                  MARK 75 Types HLCC 600 and HLCCA 600 (300–600A)
+                  3                 HLCC3600F                                      —                                                HLCCA3600F
+                                                                                                                                                                                19
+                  Notes
+                  1 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167.
+                                                                                                                                                                                20
+                  2 Two-pole breakers are supplied in three-pole frames with current carrying parts omitted from center pole.
+                  3 UL Recognized component.
+                                                                                                                                                                                21
+                  MARK 75 frame color changed from gray to black in mid-2002.
+
+                                                                                                                                                                                22
+                                                                                                                                                                                23
+                                                                                                                                                                                24
+                                                                                                                                                                                25
+               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                            V12-T3-49
+

@@ -1,0 +1,164 @@
+                                                                                                                                                                                                Communication Systems
+                                                                                                                                                                                                                                                     Technology Upgrades
+                                                                                                                                                                                                                                                                                                                                                              11
+PowerNet Device Selection Chart
+                                   Metering Devices                                                                LV Breaker Trip Units                                                                                                  Protective Relays                                          Miscellaneous Devices                                                               1
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                       Addressable Relay II
+                                                                                                                                                                          Digitrip OPTIM 1050
+                                                                                                                                                                                                                                                                                                                                                                                         2
+
+
+
+
+                                                                                                                                                                                                 Digitrip OPTIM 750
+
+                                                                                                                                                                                                                      Network Protector
+
+
+
+
+                                                                                                                                                                                                                                                                                                                  IQ Transfer Switch
+                                                                                                                                    Digitrip RMS 910
+
+                                                                                                                                                       Digitrip RMS 810
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                              Power Manager
+                                                                                                 Energy Sentinel
+                                                                                Power Sentinel
+                                                                IQ 200/IQ 300
+
+
+
+
+                                                                                                                    Digitrip 1150
+
+
+
+
+                                                                                                                                                                                                                                                     Digitrip 3000
+
+
+
+
+                                                                                                                                                                                                                                                                                        RTD Module
+                                    IQ Analyzer
+
+                                                  IQ DP-4000/
+                                                  IQ DP-4100
+
+
+
+
+                                                                                                                                                                                                                                                                                                      Advantage
+                                                                                                                                                                                                                                                                                                                                                                                         3
+
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                              Quad XYZ
+                                                                                                                                                                                                                                                                     MP-3000
+                                                                                                                                                                                                                                           FP-5000
+                                                                                                                                                                                                                      Relays
+
+
+
+
+                                                                                                                                                                                                                                                                               IQ 500
+Communicating Device
+Function Selection Chart
+Voltage (phase-phase)                ■               ■            ■               ■                                   ■               ■                                      ■                                             ■                ■                                                                        ■                                                                   4
+Voltage (phase-neutral)              ■               ■            ■               ■                                   ■               ■                                      ■                                             ■                ■                                                                        ■
+Current phases                       ■               ■            ■               ■                                   ■               ■                  ■                   ■                      ■                      ■                ■          ■              ■         ■                      ■
+                                                                                                                                                                                                                                                                                                                                                                                         5
+Current ground                       ■                                                                                                                                                                                                      ■          ■              ■         ■
+Power
+kW                                   ■               ■            ■               ■                ■                  ■               ■                  ■                   ■                                             ■                ■                                                                                                                   ■
+                                                                                                                                                                                                                                                                                                                                                                                         6
+kWh                                  ■               ■            ■               ■                ■                  ■               ■                  ■                   ■                                                              ■                                                                                                                   ■
+kVA                                  ■               ■            ■               ■                                   ■                                                                                                                     ■                                                                                                                                            7
+kVAh                                 ■               ■            ■                                                   ■                                                                                                                     ■
+VARs                                 ■               ■            ■               ■                                   ■                                                                                                    ■                ■                                                                                                                                            8
+VARh                                 ■               ■            ■                                                   ■                                                                                                                     ■
+PF                                   ■               ■            ■               ■                                   ■               ■                                      ■                                             ■                ■
+                                                                                                                                                                                                                                                                                                                                                                                         9
+Demand
+kW demand
+kVA demand
+                                     ■
+                                     ■
+                                                     ■
+                                                     ■
+                                                                  ■
+                                                                  ■
+                                                                                  ■                ■                  ■
+                                                                                                                      ■
+                                                                                                                                      ■                  ■                   ■
+                                                                                                                                                                             ■
+                                                                                                                                                                                                                                            ■
+                                                                                                                                                                                                                                            ■
+                                                                                                                                                                                                                                                                                                                                                                                         10
+Ampere demand                        ■               ■            ■                                                   ■                                                      ■                      ■                                       ■          ■
+kVAR demand                          ■               ■            ■                                                   ■                                                      ■                      ■                                       ■                                                                                                                                            11
+Power Quality
+THD                                 50              31                                                                               31                                    31                                                               ■                                                                                                                                            12
+Current THD                          ■               ■                                                                ■               ■                                                                                                     ■
+Voltage THD                          ■               ■                                                                                ■                                                                                                     ■                                                                                                                                            13
+CBEMA/crest factor                   ■
+Frequency
+Current waveform
+                                     ■
+                                     ■
+                                                     ■            ■               ■                                   ■
+                                                                                                                      ■               ■
+                                                                                                                                                                                                                                            ■
+                                                                                                                                                                                                                                            ■
+                                                                                                                                                                                                                                                                                                                                                                                         14
+Voltage waveform                     ■                                                                                                                                                                                                      ■
+Other Features                                                                                                                                                                                                                                                                                                                                                                           15
+Downloadable set points              ■               ■            ■               ■                ■                  ■                                                      ■                      ■                                       ■          ■              ■                                              ■                                          ■
+Operations count                                                                                                      ■               ■                  ■                   ■                      ■                                                                 ■                                              ■                                                                   16
+High load                                                                                                             ■               ■                  ■                   ■                      ■                                                  ■              ■
+Trip target data                                                                                                      ■               ■                  ■                   ■                      ■                                       ■          ■              ■         ■                      ■                                                                                 17
+Remote open/close                                                                                                     ■               ■                  ■                   ■                      ■                      ■                ■          ■              ■                                ■             ■                      ■
+Start profile
+Auxiliaries                                                                                                                                                                                                                ■                ■
+                                                                                                                                                                                                                                                                      ■
+                                                                                                                                                                                                                                                                                                                                                                                         18
+                                                                                                                                                                                                                                                                                                                                                                                         19
+Input/Output
+Digital input                          3             1                                                                                                                                                                                                   1             2                                                                       2                                4
+Digital output                     4(3)              3                                                                                                                                                                                       8           5             4                                                                       1
+Analog input                           1                                                                                                                                                                                                                                                11                                                                                               20
+Analog output                          4                                                                                                                                                                                                                               1
+Communication Modules                                                                                                                                                                                                                                                                                                                                                                    21
+IPONI                              ≥1.06             ■                                                                                                                                                                                                                ■                                              ■
+INCOM communications std.                                         ■               ■
+                                                                                  ■
+                                                                                                   ■
+                                                                                                   ■
+                                                                                                                      ■
+                                                                                                                      ■
+                                                                                                                                      ■
+                                                                                                                                      ■
+                                                                                                                                                         ■
+                                                                                                                                                         ■
+                                                                                                                                                                             ■
+                                                                                                                                                                             ■
+                                                                                                                                                                                                    ■
+                                                                                                                                                                                                    ■
+                                                                                                                                                                                                                           ■                ■          ■              ■                                                                     ■                   ■              ■
+                                                                                                                                                                                                                                                                                                                                                                                         22
+BIM
+
+                                                                                                                                                                                                                                                                                                                                                                                         23
+                                                                                                                                                                                                                                                                                                                                                                                         24
+                                                                                                                                                                                                                                                                                                                                                                                         25
+                          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                                                                                                                                                                                            V12-T11-11
+

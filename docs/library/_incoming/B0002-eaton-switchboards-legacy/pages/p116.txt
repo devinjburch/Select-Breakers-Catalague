@@ -1,0 +1,78 @@
+                                                                    Molded-Case Circuit Breakers
+                                                                                                    Replacement Capabilities
+                                                                                                                                                                   3
+Type MC Motor Control                                  Type MC Motor Control Catalog Numbers
+                                                                                                                        Catalog Number 23                                  1
+                                                       Handle Mechanism 1                                               Type 1                   Type 12
+                                                       For Use With                                                     Enclosure                Enclosure
+                                                                                                                                                                           2
+                                                       Series C F-Frame HMCP F                                          SMCU150FD                CMCU150FD
+                                                       EB, EHB, FB, HFB breakers and MCP (Size 0–4)
+                                                       FB TRI-PAC
+                                                                                                                        SMCU150FD
+                                                                                                                        SMCU100FBP
+                                                                                                                                                 CMCU150FD
+                                                                                                                                                 CMCU100FBP
+                                                                                                                                                                           3
+                                                       FCL breakers                                                     SMCU100FCL               CMCU100FCL
+                                                                                                                                                                           4
+                                                       30, 60,100A DS switch fusible, non-fusible                       SMCU100DS                CMCU100DS
+                                                                                                                                                                           5
+                                                       200A DS switch fusible, non-fusible                              SMCU200DS                CMCU200DS
+
+                                                                                                                                                                           6
+        225A Mechanism
+Type MC handle mechanisms
+                                                                                                                                                                           7
+                                                       Series C J-Frame HMCP J                                          SMCU250JD                CMCU250JD
+are linear drive, fixed depth                          Series C K-Frame HMCP K, DA, JA, KA, HKA, LB, LBB, HLB           SMCU400KD                CMCU400KD
+mechanisms designed for                                Breakers, Size 5 MCP (400A)                                      SMCU225KA                CMCU225KA
+through-door mounting in
+standardized or shallow depth                          Series C L-Frame HMCP L, MDL                                     SMCU600LD                CMCU600LD
+                                                                                                                                                                           8
+enclosures such as motor                               Series C M-Frame not MDL                                         SMCU800MA                CMCU800MA
+control centers or enclosed                            LAB, LA, HLA, LC, HLC breakers (400 and 600A frame)              SMCU400LA                SMCU400LA                 9
+circuit breakers.
+                                                       LA TRI-PAC                                                       SMCU400LAP               SMCU400LAP
+Mounting directly to the                               MA, HMA, MC, HMC Breakers (800A frame)                           SMCU800MA                SMCU800MA                 10
+front of the disconnect,
+                                                       NB, HNB, NC, HNC Breakers (1200A frame)                          SMCU1200NB               SMCU1200NB
+these mechanisms provide
+positive operation and handle                          LCL225 and 400                                                   SMCU400LCL               SMCU400LCL                11
+indication. Both disconnect                            Series C L-Frame HMCP L                                          SMCU600LD                SMCU600LD
+and mechanism mount
+simultaneously with                                                                                                                                                        12
+mounting hardware supplied
+with the mechanism.                                                                                                                                                        13
+For security, the handle can                           Further Information
+be padlocked in the OFF
+position with up to three
+                                                       Publication
+                                                       Number                          Description
+                                                                                                                                                                           14
+0.375-inch hasp padlocks.                              IL 14572                        F-Frame, EB, EHB, FB, MCP, HFB
+Also, the mechanism is
+                                                       IL 29C273                       J- and K-Frame
+                                                                                                                                                                           15
+interlocked with the enclosure
+door so that the disconnect                            IL 29C283                       L-Frame
+must be OFF before the                                 IL 14571                        FB-P                                                                                16
+door can be opened. A
+                                                       IL 14938                        JB, KB
+defeater is provided to
+bypass this interlock.                                 IL 14573                        30, 60, 100A DS switch                                                              17
+                                                       IL 14574                        200A DS switch
+Catalog numbers listed
+include the mechanism,                                 Notes                                                                                                               18
+mounting hardware and                                  1 Mechanisms are shown mounted on breaker for illustration purposes only. Breakers are not included.
+door interlock clip.                                   2 These mechanisms are recognized under the component program of Underwriters Laboratories.
+                                                       3 Selection data for handle mechanism only; circuit breaker not included.
+                                                                                                                                                                           19
+                                                                                                                                                                           20
+                                                                                                                                                                           21
+                                                                                                                                                                           22
+                                                                                                                                                                           23
+                                                                                                                                                                           24
+                                                                                                                                                                           25
+                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                      V12-T3-103
+

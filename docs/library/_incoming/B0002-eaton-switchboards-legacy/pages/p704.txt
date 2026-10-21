@@ -1,0 +1,63 @@
+Appendix 2—Alphabetical Product Index
+
+Accessories, continued                                                                              AF-300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72, V12-T13-73
+       Type CH Loadcenters and Circuit Breakers                                                     AF-300 (Responder) . . . . . . . . V12-T13-72, V12-T13-74, V12-T13-75
+         Handle Lockdogs . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T5-7             AF-3000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+         Handle Lockoffs . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T5-7           AF-5000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+         Handle Ties. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T5-7
+                                                                                                    AF-5000+ . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+         Hold-Down Kits . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T5-7
+                                                                                                    AF-6000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+         Main Breaker Lug Kits . . . . . . . . . . . . . . . . . . . . . . . V12-T5-8
+         Mechanical Interlocks. . . . . . . . . . . . . . . . . . . . . . . . V12-T5-8              AF-7000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+         Mounting Bases . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T5-8            AF-8000 . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+Accessories and Modifications . . . V12-T3-3, V12-T3-17–V12-T3-48,                                  AF91 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-74
+                                V12-T3-51, V12-T3-53, V12-T3-55, V12-T3-57,                         AF93 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+                                                 V12-T3-59, V12-T3-63–V12-T3-79                     AF95 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+Accessories and Renewal Parts for                                                                   AF97 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75
+ Magnum DS Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-8                   AH—AMPGARD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-99
+Accessories for Low Voltage Breakers . . . . . . . . . . . . . . . V12-T17-9                        Air Magnetic Breaker MOC Closing Times . . . . . . . . . . . V12-T17-62
+Accessories for Trip Unit Retrofit Kits . . . . . . . . . . . . . . . V12-T17-28                    Air Replacement Breakers . . . . . . . . . . . . . . . V12-T17-11, V12-T22-6
+Accuflow . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                Air Replacement Breakers—Type DB . . . . . . . . . . . . . . . . V12-T17-3
+Accuflow 110 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72           Air-to-Vacuum Conversion Kit . . . . . . . . . . . . . . . . . . . . . V12-T13-93
+Accuflow Jr. . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                  Air-to-Vacuum Starter Cell Kit . . . . . . . . . . . . . . . . . . . . . V12-T13-92
+Accutrol 100 . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                  AK-1 General Electric Breaker . . . . . . . . . . . . . . . . . . . . . V12-T17-38
+Accutrol 110 . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                  AK-2/2A General Electric Breaker . . . . . . . . . . . . . . . . . . V12-T17-38
+Accutrol 150 . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                  AK-3/3A General Electric Breaker . . . . . . . . . . . . . . . . . . V12-T17-38
+Accutrol 200 . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                  AKR(U)-6D/7D General Electric Breaker . . . . . . . . . . . . . V12-T17-38
+Accutrol 300 . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                  AKR-4A/5A General Electric Breaker . . . . . . . . . . . . . . . . V12-T17-38
+Accutrol 400 . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                  AKR-6D/7D General Electric Breaker . . . . . . . . . . . . . . . . V12-T17-38
+Accutrol 700 . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                  AKRT-4A/5A General Electric Breaker . . . . . . . . . . . . . . . V12-T17-38
+ACM and Metering Module for Advantage Unit . . . . . . . V12-T14-11                                 AL-2 General Electric Breaker . . . . . . . . . . . . . . . . . . . . . V12-T17-39
+Active Harmonic Filter . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T21-4            Alarm Lockout Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-3
+Adapters—DS Breaker Test Kit . . . . . . . . . . . . . . . . . . . . . V12-T17-9                    Alarm Switch . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-76
+Adding C-HRG to a Wye System . . . . . . . . . . . . . . . . . . . V12-T16-2                        Allis-Chalmers
+Adding High Resistance to a Wye or Delta System . . . . . V12-T16-6                                       AM Vacuum Replacement Breaker . . . . . . . . . . . . . V12-T17-60
+Additional Information for Medium                                                                         FA Vacuum Replacement Breaker. . . . . . . . . . . . . . V12-T17-60
+ Voltage Switchgear. . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-64
+                                                                                                          FB Vacuum Replacement Breaker. . . . . . . . . . . . . . V12-T17-60
+Addressable Relay II . . . . . . . . V12-T10-32, V12-T11-11, V12-T11-25                                   FC Vacuum Replacement Breaker. . . . . . . . . . . . . . V12-T17-60
+Adjustable Frequency AC Drives. . . . . . . . . V12-T13-72–V12-T13-75                                     MA Vacuum Replacement Breaker . . . . . . . . . . . . . V12-T17-60
+Advanced Technology Services . . . . . . . . . . . . . . . . . . . V12-T13-75                             RUPTAIR Vacuum Replacement Breaker . . . . . . . . V12-T17-60
+Advantage . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T11-11, V12-T14-11                Allis-Chalmers AR-Series Replacement
+       Device Panel Upgrade. . . . . . . . . . . . . . . . . . . . . . . V12-T14-11                  Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-11, V12-T22-6
+       Feeder Breaker Units . . . . . . . . . . . . . . . . . . . . . . . V12-T14-11                Allis-Chalmers G Breaker . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-42
+       Handle Mechanism . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-4               Allis-Chalmers LA Breaker . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-42
+       MCC Product Description . . . . . . . . . . . . . . . . . . . . V12-T14-11                   Allis-Chalmers LA Breakers Replacement
+       MCC Replacement Capabilities. . . . . . . . . . . . . . . . V12-T14-11                        and Upgrade Capabilities. . . . . . . . . . . . . . . . . . . . . . . . V12-T17-41
+       Motor Control Center . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-3               Allis-Chalmers LA Breakers with Digitrip
+       Replacement Capabilities . . . . . . . . . . . . . . . . . . . . V12-T13-51                   RMS Retrofit Kits . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-42
+       Replacement Starter Units . . . . . . . . . . . . . . . . . . . V12-T14-11                   Allis-Chalmers LG Breaker . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-42
+       Starter . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-51     Ambient Compensating . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-33
+AE-1 General Electric Breaker . . . . . . . . . . . . . . . . . . . . . V12-T17-40                  Ambient Compensating Breakers . . . . . . . . . . . . . . . . . . V12-T3-17,
+AF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-56                                                                 V12-T3-41, V12-T3-42
+AF Adjustable Frequency AC Drives . . . . . . V12-T13-72–V12-T13-75                                 AMI AMPGARD . . . . . . . . . . . . . . . . . . . . . V12-T13-76, V12-T13-87,
+AF-1000. . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                                                                           V12-T13-91, V12-T13-99
+AF-1500. . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                AMPGARD. . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-87, V12-T13-95
+AF-1600. . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                AMPGARD 25/50 L4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-99
+AF-2000. . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-72–V12-T13-75                AMPGARD 25/50 L7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-99
+
+
+
+V12-A1-2                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions                         CA08100014E—November 2016              www.eaton.com
+

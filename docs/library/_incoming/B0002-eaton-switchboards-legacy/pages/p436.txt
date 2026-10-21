@@ -1,0 +1,102 @@
+                                                                                                                             Motor Control
+                                                                                                                                      Synchronous
+                                                                                                                                                                 13
+AMPGARD Solutions Overview
+                                                                                                                                                                             1
+AMPGARD Selection Table
+                                                        AMPGARD Aftermarket Products Available                                                                               2
+                                                                                                                                      Vacuum     Class 1
+Installed                                               Add-on                          Isolation                                     Replace-   Recondi-   Reference
+Equipment                               Vintage         Structure 1     Cell 2          Switch 3        Contactor 4         Parts 5   ments      tioning    Material         3
+AMPGARD OIL                             1945–1957                                                                                     ■                     —
+AMPGARD AH                              1948–1957                                                                                     ■                     —                4
+AMPGARD AMI                             1948–1957                                                                                     ■                     —
+AMPGARD 25L2                            1962–1990       ■                                                                   ■6        ■          ■          RPD8855A         5
+AMPGARD 50L2                            1963–1981       ■                                                                   ■6        ■          ■          RPD8855A
+AMPGARD 50V4                            1972–1979       ■               ■               ■                                             ■          ■          RP48J01TE
+                                                                                                                                                                             6
+AMPGARD 25/50L4                         1966–1989       ■               ■               ■                                   ■6        ■          ■          RPD8855A
+AMPGARD 25/50L7                         1969–1989       ■                               ■                                   ■6        ■          ■          RPD8855A
+                                                                                                                                                                             7
+AMPGARD V202 (SJ) 400A                  1982–2000       ■               ■               ■               ■                   ■         ■          ■          RP48J01TE
+AMPGARD S202 (SJ) 400A
+AMPGARD W210 (SL) 400A
+                                        1987–2000
+                                        2000–
+                                                        ■
+                                                        ■
+                                                                        ■
+                                                                        ■
+                                                                                        ■
+                                                                                        ■
+                                                                                                        ■
+                                                                                                        ■
+                                                                                                                            ■
+                                                                                                                            ■
+                                                                                                                                      ■
+                                                                                                                                      ■
+                                                                                                                                                 ■
+                                                                                                                                                 ■
+                                                                                                                                                            RP48J01TE
+                                                                                                                                                            RP02003002E
+                                                                                                                                                                             8
+                                                        ■               ■               ■               ■                   ■         ■          ■
+AMPGARD F210 (SL) 400A
+AMPGARD V202 (SJ) 800A
+                                        2000–
+                                        1985–           ■                               ■               ■                   ■         ■          ■
+                                                                                                                                                            RP02003002E
+                                                                                                                                                            RP48J01TE
+                                                                                                                                                                             9
+                                                        ■               ■                                                   ■
+                                                                                                                                                                             10
+Synchronous Control                     1950–                                                                                                               RP04304009E
+
+Notes
+1 Add-on structures contain vacuum starters only.
+2 Complete cell including frame, ISO-switch, vacuum or air contactor, and all components to complete a starter.                                                              11
+3 Isolation switch only (LFR replaced LFM after 1974).
+
+
+                                                                                                                                                                             12
+4 Complete contactor, available in SJ or SL.
+5 New, genuine parts per original specs.
+
+  Vacuum replacements— OIL, AH, AMI (one-high starters)          Complete Cell Retrofill
+                            25L2                                  Vacuum Replacement Contactor
+                            50L2                                  Vacuum Retrofit Kit                                                                                        13
+                            50V4                                  Vacuum Replacement Contactor
+                            25/50L4                               Vacuum Replacement Contactor
+                            Synchronous
+                            25/50L7
+                                                                  Mark V Solid-State Control Retrofit
+                                                                  Vacuum Replacement Contactor and Some Cell Modification
+                                                                                                                                                                             14
+6 Check with factory.
+
+                                                                                                                                                                             15
+Further Information
+Publication
+Number                        Description
+                                                                                                                                                                             16
+RPD8855A
+RPD8855S
+                              Renewal Parts Data for AMPGARD LF Air-Break Vintage 200–700A
+                              Renewal Parts Data for AMPGARD Slipsyn Synchronous Control
+                                                                                                                                                                             17
+                                                                                                                                                                             18
+RP48J01TE                     Renewal Parts for AMPGARD SJ Vacuum-Break Vintage 400–800A
+RP02003002E                   Common Renewal Parts for AMPGARD SL 400A Vacuum Contactors
+TD48A01ATE                    Technical Data for AMPGARD MV Starters
+PG48C01TE                     Product Guide “SL” Medium Voltage Vacuum Contactors
+                                                                                                                                                                             19
+IB48008                       Instructions for AMPGARD Mark V Solid-State, Brush-Type, Synchronous Motor Controllers
+IB48009                       Instructions for AMPGARD Synchronous Motor Field Regulator with VAR and PF Control                                                             20
+Pricing Information                                                                                                                                                          21
+Price and Availability Digest (PAD)
+                                                                                                                                                                             22
+                                                                                                                                                                             23
+                                                                                                                                                                             24
+                                                                                                                                                                             25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                  V12-T13-99
+

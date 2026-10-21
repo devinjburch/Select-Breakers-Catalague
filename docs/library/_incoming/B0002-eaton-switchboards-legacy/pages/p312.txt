@@ -1,0 +1,59 @@
+                                                                                   Communication Systems
+                                                                                                                  Product Description
+                                                                                                                                                                    11
+Power Xpert Software General Features
+Features                                                                           Features                                                                                      1
+General                                                                            UPS Shutdown
+Web browser user interface                                                         File saving during shutdown                                                                   2
+Web-based monitoring capabilities                                                  Automatic, orderly and sequential shutdown
+Downloadable software version updates                                              Parallel redundant UPS shutdown capability                                                    3
+Event Notification                                                                 Security and Administration
+Event notification via e-mail notification                                         Windows authentication security                                                               4
+Event notification via pagers, text message or third-party interfaces              Two tier secure system access support
+Alarm state management                                                             SSL                                                                                           5
+Event indicator displayed without Web page active                                  Secure Web browser access (support for HTTPS)
+Alarm/event searching and filtering                                                Trend object support                                                                          6
+Waveform attached to applicable power event                                        Time Synchronization
+Web browser based waveform viewing                                                 Time synchronization support for connected devices with 1 millisecond time resolution         7
+Alarm capabilities based on device driven events                                   Export and Integration
+Analysis and Trending                                                              Extended Excel® spreadsheet support
+                                                                                                                                                                                 8
+Graphic trend viewer                                                               SQL database query support
+Chart or data option selection
+Multiple trends display
+                                                                                   Logs
+                                                                                   System log
+                                                                                                                                                                                 9
+                                                                                                                                                                                 10
+Multiple axis support                                                              Error log
+View multiple variables (i.e., Ia, Ib, Ic, Vab, Vbc, etc.) for a single waveform   Service
+
+                                                                                                                                                                                 11
+Standard COMTRADE file format support                                              Eaton help desk services (1-877-ETN-CARE)
+Customizable trend viewer look and feel                                            Turnkey startup service
+Fixed or custom time frames                                                        System Backup
+Trend analysis capabilities                                                        Power Xpert Software system backup
+                                                                                                                                                                                 12
+Data export                                                                        Documentation and Training Videos
+Custom Graphics and Layouts                                                        System Administrator’s Guide                                                                  13
+Custom graphics development via Web browser                                        Power Xpert Software User’s Guide
+Four user view example templates included as standard                              Layout Manager Guide                                                                          14
+iFrame capability                                                                  Quick Start Guide
+Browser portal widget support                                                      Power Xpert Software introduction and training video                                          15
+Streaming media support                                                            Power Xpert Reporting introduction and training video
+Graphic object library included as standard                                                                                                                                      16
+ISO standard electrical picture objects available
+Graphic files import capability                                                                                                                                                  17
+Graphic object animation capability
+Gauge object library support                                                                                                                                                     18
+External Web Links support
+Alarm bubble-up support through several page layers
+                                                                                                                                                                                 19
+                                                                                                                                                                                 20
+                                                                                                                                                                                 21
+                                                                                                                                                                                 22
+                                                                                                                                                                                 23
+                                                                                                                                                                                 24
+                                                                                                                                                                                 25
+                          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                   V12-T11-5
+

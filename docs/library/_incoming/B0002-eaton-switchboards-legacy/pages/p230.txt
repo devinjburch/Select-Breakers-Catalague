@@ -1,0 +1,93 @@
+     5                         Loadcenters
+                               Type CH
+
+
+
+     Plug-On Neutral
+1    Loadcenter
+     Product Description                      Features and Benefits
+2    Code changes and higher                  ●   Time savings up to 25%
+     safety standards are leading                 per AFCI/GFCI installation
+3    to more arc fault and ground
+     fault circuit interrupter
+                                              ●   Eliminates nuisance
+                                                  tripping due to loose pigtail
+     installations. Eaton offers a                connections
+4    unique product solution that             ●   Clean gutter space
+     enables a direct connection of
+     the breaker to the neutral bar,
+                                              ●   Easier troubleshooting
+5    eliminating the need for                     due to less wiring
+     wiring a pigtail.                        ●   Backed by a limited
+                                                  lifetime warranty
+6
+7    Product Selection
+
+                         Main Breaker Plug-On Neutral Loadcenters
+8    Plug-On Neutral
+     Loadcenter                                     Max.                                                                                           Cover
+                         Main          Main         Number           Max.                                                                          Catalog Number
+
+9                        Breaker
+                         Type
+                                       Ampere
+                                       Rating
+                                                    3/4-Inch
+                                                    Circuits
+                                                                     Number
+                                                                     of Poles
+                                                                                   Enclosure
+                                                                                   Type
+                                                                                                Box
+                                                                                                Size
+                                                                                                         Wire Size
+                                                                                                         Range Cu/Al
+                                                                                                                              Catalog
+                                                                                                                              Number               Combination        Surface
+                         CSH 35        100          24               24            Indoor       E        #2–300 kcmil         CH24BPN100E          CH8EF              CH8ES
+10                       kAIC
+                                       200          32               32            Indoor       J        #2–300 kcmil         CH32BPN200J          CH8JF              CH8JS
+                                       200          42               42            Indoor       K        #2–300 kcmil         CH42BPN200K          CH8KF              CH8KS
+11                                     200          60               120 1         Indoor       N        #2–300 kcmil         CH60BPN200N          CH8NF              —
+
+
+12
+13
+14                       Main Lug Only/Convertible Plug-On Neutral Loadcenters—With Factory Installed Main Lugs
+                                       Max.                                                                                         Wire Size      Cover
+15                       Max.
+                         Ampere
+                                       Number
+                                       3/4-Inch      Enclosure            Box    Catalog
+                                                                                                    Wire Size
+                                                                                                    Range for
+                                                                                                                        Main
+                                                                                                                        Breaker
+                                                                                                                                    Range
+                                                                                                                                    For Main
+                                                                                                                                                   Catalog Number
+
+                         Rating        Poles         Type                 Size   Number             Main Lug            Kit         Breaker        Combination      Surface
+16                       125           24            Indoor               E      CH24NLPN125E       #6–300 kcmil        CSH2100N    #2–300 kcmil   CH8NLEF          CH8NLES
+                                                                                                                        CSH2125N
+17                       225           32            Indoor               J      CH32NLPN225J       #6–300 kcmil        CSH2125N    #2–300 kcmil   CH8NLJF          CH8NLJS
+                                                                                                                        CSH2200N
+
+18                                                                                                                      CSH2100N
+                         225           42            Indoor               K      CH42NLPN225K       #6–300 kcmil        CSH2125N    #2–300 kcmil   CH8NLKF          CH8NLKS
+
+19                                                                                                                      CSH2150N
+                                                                                                                        CSH2200N
+
+20                       Note
+                         1 Requires the use of type CHNT breakers.
+
+
+
+21
+22
+23
+24
+25
+     V12-T5-26         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

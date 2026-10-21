@@ -1,0 +1,83 @@
+     19                          Network Protectors
+                                 Retro-Build, Replacement Parts and Relays
+
+
+
+     Parts                                 network protectors with 208        Further Information
+1    Eaton offers an extensive             through 480V delta or wye
+                                                                              Publication Number           Description
+     inventory of newly                    connected systems. This is
+                                           supplied in a rugged, wheeled      CM-22
+2    manufactured renewal
+     parts for the following               case with retractable handle.      DB 35-550G                   Descriptive Bulletin
+     network protectors:                   Training                           RPD 35-550H                  Renewal Parts Data Book
+3    Cutler-Hammer and                     The product line offers the        RP02401002E                  Renewal Parts Guide
+     Westinghouse                          following network protector        IB 35-5001E                  Instruction Book
+4    ● CM-22                               training seminars:
+                                                                              CMD
+     ● CMD                                 ●   Safety and Maintenance         DB 35-552B                   Descriptive Bulletin
+       CMR-8
+5                                              Seminar—This two-
+     ●
+                                                                              RPD 35-552                   Renewal Parts Data Book
+     ● CM52                                    day seminar covers
+                                               fundamentals of network        RP02401001E                  Renewal Parts Guide
+6    General Electric
+       MG-8
+                                               systems, network relay         IB 35-552-G                  Instruction Book
+     ●
+                                               history and theory and
+                                                                              CMR-8
+       MG-9                                    maintenance overview of
+7
+     ●
+
+                                               the CM-22, CMD, CM52           RPD 35-575(E)                Renewal Parts Data Book
+     Test Sets                                 and MPCV relay                 IB 35-575-A                  Instruction Book
+
+8                                          ●   Troubleshooting Network
+                                               Protector Seminar—
+                                                                              CM52
+                                                                              B.52.01.S.E                  Sale Brochure
+                                               This three-day seminar
+9                                              encompasses all material
+                                               included in the safety and
+                                                                              IB 52-01-TE                  Instruction Book
+                                                                              MPCR Relay
+                                               maintenance seminar
+10                                             and also covers the
+                                                                              IB 35-581A                   Instruction Book
+
+                                               GE network protectors.         MPCV Relay
+                                               A combination of
+11                                             classroom and hands-on
+                                                                              IB 35-581B
+                                                                              ST-156
+                                                                                                           Instruction Book
+                                                                                                           Sales Engineer’s Notes
+              HWT-500 Test Kit                 troubleshooting are
+12                                             provided                       SA-376                       Sales Aid MPCV Relay
+     The HWT-500 test kit is
+     offered to provide complete                                              SA.52.01.S.E                 T&D Reprint—Pepco System
+     testing capabilities for                                                 HWT-500 Test Kit
+13                                                                            IB 35-557                    Instruction Book
+                                                                              LWT-450 Test Kit
+14                                                                            IB 35-556-C                  Instruction Book
+                                                                              SA-11898                     Sales Aid
+15
+                                                                              Pricing Information
+16                                                                            Call Eaton’s Network
+                                                                              Protector Group in
+                                                                              Greenwood, SC.
+17                                                                            Toll Free: 1-800-525-6821
+                                                                              or 1-877-737-8328.
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T19-4           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

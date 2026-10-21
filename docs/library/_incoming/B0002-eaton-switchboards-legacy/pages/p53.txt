@@ -1,0 +1,123 @@
+     3                              Molded-Case Circuit Breakers
+                                    Replacement Capabilities
+
+
+
+     Types MA and HMA
+1    ■ Shaded area denotes obsolete or discontinued products and services. 1
+                             Type MA 125–800A, 600 Vac, 250 Vdc 2, Two- and Three-Pole, Interchangeable Trip
+2
+     MA: 600 Vac; 250 Vdc
+                                              Magnetic Trip                Complete Breaker                                 Shipped as Frame, Trip Unit and Terminals 4
+                                              Setting Amperes 3            Includes Pressure Type Copper Terminals 4        Frame Only                                    Trip Unit Only
+
+3                            Continuous
+                             Ampere                                        Standard       Saf-T-Vue         MARK 75         Standard       Saf-T-Vue         MARK 75
+                                                                                                                                                                          Standard
+                                                                                                                                                                          Saf-T-Vue,
+                             Rating                                        Catalog        Catalog           Catalog         Catalog        Catalog           Catalog      MARK 75
+
+4                            at 40°C          Low           High           Number         Number            Number          Number         Number            Number       Catalog Number
+                             Two-Pole, 600 Vac, 250 Vdc 25
+
+5                             125
+                              150
+                                              625
+                                              750
+                                                            1250
+                                                            1500
+                                                                           MA2125
+                                                                           MA2150
+                                                                                          MA2125S
+                                                                                          MA2150S
+                                                                                                            HMA2125
+                                                                                                            HMA2150
+                                                                                                                            MA2800F
+                                                                                                                            MA2800F
+                                                                                                                                           MA2800FS
+                                                                                                                                           MA2800FS
+                                                                                                                                                             HMA2800F
+                                                                                                                                                             HMA2800F
+                                                                                                                                                                          HMA2125T
+                                                                                                                                                                          HMA2150T
+
+6
+                              175             875           1750           MA2175         MA2175S           HMA2175         MA2800F        MA2800FS          HMA2800F     HMA2175T
+                              200             1000          2000           MA2200         MA2200S           HMA2200         MA2800F        MA2800FS          HMA2800F     HMA2200T
+                              225             1125          2250           MA2225         MA2225S           HMA2225         MA2800F        MA2800FS          HMA2800F     HMA2225T
+7                             250             1250          2500           MA2250         MA2250S           HMA2250         MA2800F        MA2800FS          HMA2800F     HMA2250T
+                              300             1500          3000           MA2300         MA2300S           HMA2300         MA2800F        MA2800FS          HMA2800F     HMA2300T
+8                             350             1750          3500           MA2350         MA2350S           HMA2350         MA2800F        MA2800FS          HMA2800F     HMA2350T
+                              400             2000          4000           MA2400         MA2400S           HMA2400         MA2800F        MA2800FS          HMA2800F     HMA2400T
+9                             500             2500          5000           MA2500         MA2500S           HMA2500         MA2800F        MA2800FS          HMA2800F     HMA2500T
+                              600             3000          6000           MA2600         MA2600S           HMA2600         MA2800F        MA2800FS          HMA2800F     HMA2600T
+10                            700             3000          6000           MA2700 6       MA2700S           HMA2700         MA2800F        MA2800FS          HMA2800F     HMA2700T 6
+                              800             3000          6000           MA2800 6       MA2800S           HMA2800         MA2800F        MA2800FS          HMA2800F     HMA2800T 6
+11                            800             MCS 7         —              MA2800WK       MA2800WSK         —               —              —                 —            Incl. in Frame
+                                                                           Approx. shipping weight 37 lbs                   Approx. shipping weight 24 lbs                Approx. shipping
+12                           Three-Pole, 600 Vac Only
+                                                                                                                                                                          weight 3.5 lbs
+
+
+
+13                            125
+                              150
+                                              625
+                                              750
+                                                            1250
+                                                            1500
+                                                                           MA3125
+                                                                           MA3150
+                                                                                          MA3125S
+                                                                                          MA3150S
+                                                                                                            HMA3125
+                                                                                                            HMA3150
+                                                                                                                            MA3800F
+                                                                                                                            MA3800F
+                                                                                                                                           MA3800FS
+                                                                                                                                           MA3800FS
+                                                                                                                                                             HMA3800F
+                                                                                                                                                             HMA3800F
+                                                                                                                                                                          HMA3125T
+                                                                                                                                                                          HMA3150T
+
+14
+                              175             875           1750           MA3175         MA3175S           HMA3175         MA3800F        MA3800FS          HMA3800F     HMA3175T
+                              200             1000          2000           MA3200         MA3200S           HMA3200         MA3800F        MA3800FS          HMA3800F     HMA3200T
+                              225             1125 7        2250           MA3225         MA3225S           HMA3225         MA3800F        MA3800FS          HMA3800F     HMA3225T
+15                            250             1250          2500           MA3250         MA3250S           HMA3250         MA3800F        MA3800FS          HMA3800F     HMA3250T
+                              300             1500          3000           MA3300         MA3300S           HMA3300         MA3800F        MA3800FS          HMA3800F     HMA3300T
+16                            350             1750          3500           MA3350         MA3350S           HMA3350         MA3800F        MA3800FS          HMA3800F     HMA3350T
+                              400             2000          4000           MA3400         MA3400S           HMA3400         MA3800F        MA3800FS          HMA3800F     HMA3400T
+17                            500             2500          5000           MA3500         MA3500S           HMA3500         MA3800F        MA3800FS          HMA3800F     HMA3500T
+                              600             3000          6000           MA3600         MA3600S           HMA3600         MA3800F        MA3800FS          HMA3800F     HMA3600T
+18                            700             3000          6000           MA3700 6       MA3700S           HMA3700         MA3800F        MA3800FS          HMA3800F     HMA3700T 6
+                              800             3000          6000           MA3800 6       MA3800S           HMA3800         MA3800F        MA3800FS          HMA3800F     HMA3800T 6
+19                            800             MCS 7         —              MA3800WK       MA3800WSK         —               —              —                 —            Incl. in Frame
+                                                                           Approx. shipping weight 44 lbs                   Approx. shipping weight 28 lbs                Approx. shipping
+
+20                                                                                                                                                                        weight 4 lbs
+
+                             Notes
+
+21
+                             1 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167.
+                             2 Above 600A, DC rating applies to magnetic only breakers.
+                             3 Set on high side, adjustable to lower limits.
+
+
+22
+                             4 Terminals are shipped separately from breaker.
+                             5 Two-pole breakers are supplied in three-pole frames with current carrying parts omitted from center pole.
+                             6 60 Hz AC only.
+
+
+23
+                             7 Interrupting capacities shown do not apply to high magnetic molded-case switches.
+
+                             MARK 75 frame color changed from gray to black in mid-2002. Also magnetic only trip units available: HMA8000TM 4000–8000A.
+
+24
+25
+     V12-T3-40              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,79 @@
+                                             Counters, Panel Meters, Tachometers and Timers
+                                                                                                                               Totalizers
+                                                                                                                                            24
+General Specifications, continued
+Description                                                             Specification                                                                    1
+DC Common (Terminal 1) Count Inputs
+Input B (terminal 2) low speed input designed for
+contact closures to DC common
+                                                                                                                                                         2
+ Speed                                                                  0 to 20 Hz
+ Min. low time                                                          10 ms                                                                            3
+ Min. high time                                                         40 ms
+ Input impedance                                                        101 Kohms                                                                        4
+ Voltage thresholds
+  Low
+  High
+                                                                        0–0.4 Vdc
+                                                                        2.0–28 Vdc
+                                                                                                                                                         5
+  Max. high                                                             28 Vdc
+Input A (terminal 3) high speed input requiring a voltage source such                                                                                    6
+as a current sourcing sensor or a current sinking sensor used with
+the provided pull up resistors
+ Speed                                                                  0 to 10 kHz                                                                      7
+ Min. low time 2                                                        80 ms
+ Min. high time 2                                                       20 ms                                                                            8
+ Input impedance                                                        2 Kohms above 5 Vdc
+ Voltage thresholds
+  Low                                                                   0–1.2 Vdc
+                                                                                                                                                         9
+  High                                                                  2.0–28 Vdc
+  Max. high                                                             28 Vdc                                                                           10
+Reset Input
+Reset input (terminal 4) designed for contact closures to
+DC common
+                                                                                                                                                         11
+ Min. low 3                                                             0.25 to 1 sec. (reset is maintained)
+ Voltage thresholds                                                                                                                                      12
+  Low                                                                   0–0.4 Vdc
+  High                                                                  2.0–28 Vdc
+                                                                                                                                                         13
+Front Panel Reset Enable
+
+                                                                                                                                                         14
+Front panel reset enable (terminal 5)
+ Operation                                                              Level sensitive (maintained)
+
+
+Dimensions                                                                                                                                               15
+Approximate Dimensions in Inches (mm)
+Courier Series                                                                                                                                           16
+                                                                                                        1.25
+                                                                                                       (31.8)
+                                                                                                                                                         17
+                                                                                                                                                         18
+                                                                                                                                                         19
+
+                    2.95 (74.9)                                                                         2.67 (67.8)
+                                                                                                                                                         20
+                                                                                                                                                         21
+                                                             1.57                                   Recommended        1.30
+                                                            (39.9)                                   Panel Cutout     (33.0)                             22
+             T/R                  RST
+
+                                                                                                                                                         23
+                                                                                                                                                         24
+Notes
+1 Derate operating temperature 1 °C/volt above 17 Vdc.
+2 The times are with a 0–5.0V swing.
+
+
+                                                                                                                                                         25
+3 The required pulse width varies with count speed, scale factor and number of digits displayed.
+
+
+
+
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com             V12-T24-41
+

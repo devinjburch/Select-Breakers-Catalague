@@ -1,0 +1,105 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                  3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                        1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+LA3225S                  504C612G24       O          HLA3225                  504C740G24             KD3225                    1–5, 8                   2
+LA3250                   1255C72G25       O          HLA3250                  504C740G25             KD3250                    1–3, 5, 8
+LA3250S                  504C612G25       O          HLA3250                  504C740G25             KD3250                    1–5, 8                   3
+LA3300                   1255C72G26       O          HLA3300                  504C740G26             KD3300                    1–3, 5, 8
+LA3300S                  504C612G26       O          HLA3300                  504C740G26             KD3300                    1–5, 8                   4
+LA3350                   1255C72G27       O          HLA3350                  504C740G27             KD3350                    1–3, 5, 8
+LA3350S                  504C612G27       O          HLA3350                  504C740G27             KD3350                    1–5, 8
+                                                                                                                                                        5
+LA3400                   1255C72G27       O          HLA3400                  504C740G28             KD3400                    1–3, 5, 8
+LA3400F                  2602D99G02       O          HLA3400F                 673B352G02             KD3400F                   1–3, 5, 8
+                                                                                                                                                        6
+LA3400FS                 673B352G02       O          HLA3400F                 673B352G02             KD3400F                   1–5, 8
+LA3400S
+LA3400WK
+                         1255C73G28
+                         752B042G06
+                                          O
+                                          O
+                                                     HLA3400
+                                                     —
+                                                                              504C740G28
+                                                                              —
+                                                                                                     KD3400
+                                                                                                     KD3400KW
+                                                                                                                               1–5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                        7
+LA3400WSK
+LA3500
+                         752B042G07
+                         376D551G11
+                                          O
+                                          O
+                                                     —
+                                                     HLA3500
+                                                                              —
+                                                                              177C429G16
+                                                                                                     KD3400KW
+                                                                                                     LD3500
+                                                                                                                               1–3, 5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                        8
+                                                                                                                                                        9
+LA3500S                  376D551G23       O          HLA3500                  177C429G16             LD3500                    1–5, 8
+LA3600                   376D551G12       O          HLA3600                  177C429G17             LD3600                    1–3, 5, 8
+LA3600F                  375D400G02       O          HLA3600F                 375D400G10             LD3600F                   1–3, 5, 8
+LA3600FS                 375D400G04       O          HLA3600F                 375D400G10             LD3600F                   1–5, 8                   10
+LA3600S                  376D551G24       O          HLA3600                  177C429G17             LD3600                    1–5, 8
+LA3600WK                 752B043G06       O          —                        —                      LD3600KW                  1–3, 5, 8                11
+LA3600WSK                752B043G07       O          —                        —                      LD3600KW                  1–3, 5, 8
+LAB2125                  372D300G05       O          —                        —                      KDB2125                   1–3, 5, 8                12
+LAB21250MW               371D426G03       O          —                        —                      HM2P400F5W                1–3, 5, 8
+LAB21250SMW              371D426G23       O          —                        —                      HM2P400F5W                1–5, 8                   13
+LAB2125A                 372D301G45       O          —                        —                      KDB2125                   1–3, 5, 8
+LAB2125S                 372D300G37       O          —                        —                      KDB2125                   1–5, 8                   14
+LAB2125SW                371D333G37       O          —                        —                      KDB2125W                  1–5, 8
+LAB2125W                 371D333G05       O          —                        —                      KDB2125W                  1–3, 5, 8                15
+LAB2150                  372D300G06       O          —                        —                      KDB2150                   1–3, 5, 8
+LAB21500MW               371D426G04       O          —                        —                      HM2P400G5W                1–3, 5, 8                16
+LAB21500SMW              371D426G24       O          —                        —                      HM2P400G5W                1–5, 8
+LAB2150A                 372D301G46       O          —                        —                      KDB2150                   1–3, 5, 8
+                                                                                                                                                        17
+LAB2150S                 372D300G38       O          —                        —                      KDB2150                   1–5, 8
+LAB2150SW                371D333G38       O          —                        —                      KDB2150W                  1–5, 8
+                                                                                                                                                        18
+LAB2150W                 371D333G06       O          —                        —                      KDB2150W                  1–3, 5, 8
+LAB2175
+LAB21750MW
+                         372D300G07
+                         371D426G05
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     KDB2175
+                                                                                                     HM2P400J5W
+                                                                                                                               1–3, 5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                        19
+                                                                                                                                                        20
+LAB21750SMW              371D426G25       O          —                        —                      HM2P400J5W                1–5, 8
+LAB2175A                 372D301G47       O          —                        —                      KDB2175                   1–3, 5, 8
+LAB2175S                 372D300G39       O          —                        —                      KDB2175                   1–5, 8
+LAB2175SW                371D333G39       O          —                        —                      KDB2175W                  1–5, 8
+                                                                                                                                                        21
+LAB2175W                 371D333G07       O          —                        —                      KDB2175W                  1–3, 5, 8
+LAB2200                  372D300G08       O          —                        —                      KDB2200                   1–3, 5, 8                22
+LAB2200A                 371D301G48       O          —                        —                      KDB2200                   1–3, 5, 8
+LAB2200S                 372D300G40       O          —                        —                      KDB2200                   1–5, 8                   23
+LAB2200SW                371D333G40       O          —                        —                      KDB2200W                  1–5, 8
+LAB2200W                 371D333G08       O          —                        —                      KDB2200W                  1–3, 5, 8                24
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                        25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com             V12-T3-139
+

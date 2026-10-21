@@ -1,0 +1,76 @@
+                                                                               Busway (Low Voltage)
+                                                     Technology Upgrades—Submetering—IQ Energy Sentinel
+                                                                                                                                           9
+IQ Energy Sentinel                   Key advantages include              Further Information
+for Bus Plugs                        unmatched savings in space,
+                                                                         Publication
+                                                                                                                                                  1
+                                     lower installation costs, and       Number                Description
+                                     the capability to communicate
+                                     data readings in a variety of       AD 30-560             Application Data for Pow-R-Way                     2
+                                     ways. IQ Energy Sentinels           AD 30-560             Application Data for Pow-R-Way II
+                                     with built-in current
+                                     transformers (CTs) and
+                                                                         TD01701001E           Technical Data for Pow-R-Way III                   3
+                                     communications have the             TD01701002E           Technical Data for 100 Ampere Busway
+                                     added benefit of overall
+                                     system accuracy. The IQ
+                                                                                                                                                  4
+                                     Energy Sentinel mounts on           Pricing Information
+   Bus Plug with Energy Sentinel
+                                     the load side of Cutler-
+                                                                         Vista/VISTALINE™ Discount Symbols CE3 and CE4                            5
+Customer Required Information        Hammer F, J and K breakers
+                                     within the bus-plug enclosure.      Note: Contact your local Eaton Field Sales office.
+If Originally a
+Westinghouse Product                                                                                                                              6
+                                     The IQ Energy Sentinel is           Note: Additional information may be required for manufacturing.
+  1. Style number or shop            also available with a universal
+      order number from              mounting that uses external                                                                                  7
+      existing busway                CTs and is offered for fusible
+      nameplate and complete         bus plug applications.
+      nameplate information.         Sub-metering application                                                                                     8
+                                     examples for the IQ Energy
+2. Height and width
+   dimensions of housing
+                                     Sentinel include energy
+                                     monitoring and demand
+                                                                                                                                                  9
+   from existing busway.
+                                     management, energy cost
+3. Order by style number             analysis/allocation, and                                                                                     10
+   on suffix Q77.                    tenant or interdepartmental
+                                     billing. To accomplish the
+If Originally a
+Cutler-Hammer Product
+                                     communications system,                                                                                       11
+                                     the customer must provide
+  1. Check Vista for pricing.        a twisted pair communication
+                                     cable in 1/2-inch conduit                                                                                    12
+2. Order by catalog number
+                                     between the IQ Energy
+   on suffix Q73.
+The Cutler-Hammer IQ Energy
+                                     Sentinel bus plug and a
+                                     Cutler-Hammer Central
+                                                                                                                                                  13
+Sentinel™ was designed               Energy Display, or customer
+as part of the PowerNet™             computer to display the                                                                                      14
+system and is a highly               information. IQ Energy
+accurate, microprocessor-            Sentinel bus plugs are
+based submeter that monitors         available for Pow-R-Way,                                                                                     15
+power and energy. It offers          Pow-R-Way II and
+a centralized alternative            Pow-R-Way III busway.
+to individually mounted                                                                                                                           16
+wattmeters, watthour meters
+and watt demand meters.                                                                                                                           17
+                                                                                                                                                  18
+                                                                                                                                                  19
+                                                                                                                                                  20
+                                                                                                                                                  21
+                                                                                                                                                  22
+                                                                                                                                                  23
+                                                                                                                                                  24
+                                                                                                                                                  25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com            V12-T9-15
+

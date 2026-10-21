@@ -1,0 +1,58 @@
+                                                                                  Communication Systems
+                                                                                                 Communication Hardware
+                                                                                                                                  11
+PXG-E Daisy Chain Application             of Ethernet communications             Note: In this configuration, if any
+The PXG-E allows for units                allowing a single network drop         of the PXG-E units go offline or
+                                                                                 lose power, the communication to
+                                                                                                                                               1
+to be connected together                  to connect up to five Ethernet
+                                          communicating devices. The             the downstream Ethernet devices
+through two RJ-45 10/100
+connectors on the front of the            maximum length of a copper
+                                                                                 will lose connection to the LAN.                              2
+PXG-E series of products. This            cable run should not exceed
+                                          295 ft (90m) total.
+arrangement is a pass-through                                                                                                                  3
+PXG-E Daisy Chain Application                                                                                                                  4
+ Ethernet LAN
+                                                                                                                                               5
+                   LAN Connection
+                                                                                                                                               6
+                                                                                                                                               7
+                                                                     Cat-5 Patch Cables
+
+                                                                                                                                               8
+                                                                         295 ft (90m)
+
+                                                                                                                                               9
+                                                                                                                       PXM2000
+
+Technical Data and Specifications
+                                                                                                                                               10
+PXG Part Numbers
+
+Description
+                                                            Style
+                                                            Number
+                                                                                                Catalog
+                                                                                                Number                                         11
+Power Xpert Gateway 400E                                    103008421-5591                      PXG400E
+Power Xpert Gateway 600E                                    103008422-5591                      PXG600E                                        12
+Power Xpert Gateway 800E                                    103008423-5591                      PXG800E
+Wireless energy meter for PXG 800E                          P-103000007-591                     SAM3Z                                          13
+Wireless repeater module for SAM3Z                          P-103000008-591                     EZR
+Power supply—24 Vdc                                         ELC-PS02                            ELC-PS02                                       14
+Mounting bracket kit                                        66B2146G01                          PXGACC01
+                                                                                                                                               15
+                                                                                                                                               16
+                                                                                                                                               17
+                                                                                                                                               18
+                                                                                                                                               19
+                                                                                                                                               20
+                                                                                                                                               21
+                                                                                                                                               22
+                                                                                                                                               23
+                                                                                                                                               24
+                                                                                                                                               25
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com   V12-T11-19
+

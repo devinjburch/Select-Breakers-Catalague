@@ -1,0 +1,110 @@
+                                                                                                     Switchgear
+                                                        DS Low Voltage Assemblies and Power Circuit Breakers
+                                                                                                                                   17
+DS Assemblies and                   The original DS breaker             Replacement Capabilities            DS Breaker Parts
+Power Circuit Breakers              contained the original solid-                                           An extensive inventory of           1
+                                    state trip unit—Amptector.                                              newly manufactured renewal
+                                    The Amptector was later                                                 parts for DS and DSL power
+                                    replaced by the original family                                         circuit breakers are available.     2
+                                    of microprocessor-based,
+                                    true rms sensing, Digitrip trip                                         DS Switchgear Structure Parts
+                                    unit models 500, 600, 700                                               DS switchgear parts are
+                                                                                                                                                3
+                                    and 800. In the late 1990s,                                             available for most DS
+                                    DS breakers started shipping
+                                    with Digitrip models 510,
+                                                                                                            designs. Newly manufactured
+                                                                                                            replacement parts (such as
+                                                                                                                                                4
+                                    610, 810 or 910.                                                        doors, breaker provisions,
+                                    The breakers in this design
+                                                                                                            lift trucks, metering, etc.)        5
+                                                                                                            are available.
+                                    included:                                     DS206H—Front
+
+                                    ●   DS206, 206H, 206E, 416,
+                                                                                                            Class 1 Reconditioning              6
+                                        416H, 416C, 420, 532, 632                                           Reconditioning Service is
+                                                                                                            available for the entire family
+                                        or 840
+                                                                                                            of DS breakers. Class 1             7
+                                    ●   DSL206, 416, 420, 632                                               Reconditioning is Eaton’s
+                                        or 840                                                              process of maintaining low
+                                                                                                            voltage power breakers to
+                                                                                                                                                8
+                                    DS metal-enclosed
+                                    switchgear was designed to                                              their fullest capability. We
+                                    meet the following standards:                                           disassemble each breaker,           9
+                                                                                                            clean and test each part using
+                                    ●   ANSI C37.20.1                                                       component-specific methods,
+                                    ●   UL 1558                                                             then reassemble and perform         10
+      DS Switchgear Assembly        ●   NEMA SG5                                  DS206H—Rear               final testing to ensure that
+        Typical Design, 1991                                                                                each breaker is restored to
+Product Description                 DS low voltage power air                                                operating condition—all using       11
+                                    circuit breakers (LVPACB)                                               the original manufacturer’s
+DS switchgear was
+introduced in 1969 and would
+                                    were designed to meet the
+                                    following standards:
+                                                                                                            instructions and parts.
+                                                                                                            New trip units can also be
+                                                                                                                                                12
+be found mostly with the
+Westinghouse logo and                                                                                       retrofitted during this process.
+                                        ANSI C37.13, C37.16,
+                                                                                                                                                13
+                                    ●
+
+nameplates. However, some               C37.50 and C37.51                                                   Technology Upgrades
+assemblies shipped after the        ●   UL 1066                                                             IQ and PowerNet™
+1994 acquisition by Eaton
+could likely have product labels
+                                    ●   NEMA SG3                                                            Communications                      14
+with both Westinghouse and          Chronology                                                              Digital IQ-type products can
+Cutler-Hammer product names.        There are five vintages of                  DS Cell Provisions          be used to upgrade existing
+                                                                                                            analog devices such as
+                                                                                                                                                15
+DS switchgear uses the              DS switchgear. Please               New DS Air Circuit Breakers         meters. The new IQ-type
+                                    see General Information
+drawout version of the DS
+and DSL low voltage power           on Page V12-T17-4 for
+                                                                        New DS circuit breakers are
+                                                                        available for replacement or
+                                                                                                            products can be furnished as
+                                                                                                            loose, individual components
+                                                                                                                                                16
+breakers. Each breaker is           more detail.                        to fill existing vacant cells.      for field retrofitting or can be
+located within an individual                                            All breakers are newly              furnished on new replacement        17
+compartment. Each                                                       manufactured and are                doors, such as in the photo to
+compartment has extension                                               mechanically and electrically       the left. The new instrument
+rails for supporting the                                                the same as the breakers            compartment door will fit all       18
+breaker while removing it                                               as originally specified             vintages of DS assemblies
+from the compartment. The                                               and supplied.
+breaker can be in either of
+                                                                                                            from 1968 to the present.
+                                                                                                            Please see IQ products
+                                                                                                                                                19
+the following positions with                                            DS Circuit Breaker Cell
+                                                                        Provisions                          Tab 10 for further details
+the door closed:
+                                                                        Breaker provisions are
+                                                                                                            on the latest offerings.            20
+●   Connect                                                             required in switchgear              Digitrip Trip Unit Retrofit Kits
+●   Test                                                                when there is an existing
+                                                                        space in a structure that is
+                                                                                                            Retrofit kits are available for     21
+●   Disconnect                                                                                              all DS breaker frame sizes.
+                                                                        to be filled with a breaker.        Please see the switchgear
+    Remove
+                                                                                                                                                22
+●
+                                                                        Provisions are available for        trip unit retrofit kits on
+                                                                        all ratings and include all         Pages V12-T17-17–
+                                                                        parts required to complete          V12-T17-51 for more detail.
+                                                                        the cell in accordance with                                             23
+                                                                        the switchgear as originally
+                                                                        supplied in vintages IV and
+                                                                        V only.                                                                 24
+                                                                                                                                                25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com           V12-T17-5
+

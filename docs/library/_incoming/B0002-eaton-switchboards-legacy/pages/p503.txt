@@ -1,0 +1,104 @@
+                                                                                                   Switchgear
+                                                                 Westinghouse SPB Breakers—Trip Unit Retrofit Kits
+                                                                                                                                    17
+Digitrip RMS Retrofit                   Chronology                           4. An automatic trip relay         8. For Digitrip RMS trip unit
+Kits for Westinghouse                   Digitrip RMS retrofit kits              (ATR) is a remote                  replacements, see            1
+                                        for SPB breakers became                 mounted accessory                  Page V12-T17-21. For
+SPB Breakers                                                                    designed to provide                Pow-R Trip 7 trip unit
+                                        available around 1989. The
+                                        Digitrip RMS 510 model                  visual trip mode                   replacements, see            2
+                                        is the only model that is               indication, alarm and              Page V12-T17-36.
+                                                                                lockout interlocking
+                                        available. Retrofits are limited
+                                        to SPB breakers equipped                circuitry following a           9. A factory retrofit is        3
+                                                                                breaker automatic                  possible for applications
+                                        with a Pow-R Trip 7 or                                                     requiring Digitrip RMS
+                                        Pow-R Digitrip (also known              tripping operation. SPB
+                                                                                breakers equipped with             610, 810 and 910.            4
+                                        as Digitrip 1) trip units.                                                 Call factory for more
+                                                                                Pow-R Trip 7 and this
+                                        Replacement and                         ATR must purchase a                information at
+                                                                                                                   1-800-222-9773.
+                                                                                                                                                5
+                                        Upgrade Capabilities                    separate ATR adapter kit.
+                                        Replacement and upgrade                 SPB adapter kit with           10. SPB breakers retrofitted
+                                        capabilities include                    ground fault:                      with Digitrip RMS can be     6
+                                        replacement Digitrip trip units         4A35718G02. SPB                    tested with primary
+                                                                                adapter kit without
+                                        and rating plugs, Digitrip trip
+                                        unit upgrades, Digitrip RMS             ground fault:
+                                                                                                                   injection testing and trip
+                                                                                                                   unit self test. Secondary
+                                                                                                                                                7
+   SPB-100 Series—3000A Frame
+         —Digitrip RMS                  trip unit retrofit kits and             4A35718G01.                        injection testing is not
+                                        upgrade retrofit kits. For           5. An SPB breaker with a              available.                   8
+                                        definitions of these solutions          250A frame rating can
+                                        see Page V12-T17-19.                    not be retrofitted.                                             9
+                                        For Digitrip RMS trip unit           6. Ground fault protection
+                                        retrofit kits and upgrade               cannot be added to the
+                                        retrofit kits, create the Digitrip      SPB breaker. The breaker                                        10
+                                        RMS retrofit kit catalog                must be originally
+                                        number to match the Cutler-
+                                        Hammer or Westinghouse
+                                                                                equipped with ground
+                                                                                fault protection, for
+                                                                                                                                                11
+                                        SPB breaker type, retrofit kit          ground fault protection to
+                                        type, protection function,
+                                        rating plug type, current
+                                                                                be selected. Changing the                                       12
+   Rear View of Plug Adapter Box                                                ground fault protection
+  and Digitrip RMS 510 (Typical Parts   sensor type, CPT and type               from three-wire to four-
+             of Retrofit Kit)           of kit required for application.        wire is not permitted.                                          13
+Product Description                     See the example provided                Interchanging between
+                                        on Page V12-T17-36.
+Digitrip RMS retrofit kits for
+Westinghouse SPB power                  Application Notes for Cutler-
+                                                                                Ll, LS, LSI, LIG, LSG or
+                                                                                LSIG is not permitted.
+                                                                                                                                                14
+circuit breakers equipped               Hammer or Westinghouse
+                                                                             7. SPB breakers equipped
+with Pow-R Trip 7 or                    SPB Power Circuit Breakers
+                                                                                with zone interlocking for                                      15
+Pow-R Digitrip trip units                1. Retrofit kits are for               short time and/or ground
+were first introduced in 1989.              use on 50 and 60 Hz
+Field retrofits are limited to              distribution systems.
+                                                                                fault time delays can
+                                                                                be retrofitted, provided
+                                                                                                                                                16
+the RMS 510 model. For a
+                                        2. Only SPB breakers                    that the existing zone
+complete description of the
+Digitrip RMS trip system,                  equipped with a Pow-R                interlock configuration                                         17
+                                           Trip 7 or Pow-R Digitrip             is not changed.
+see Page V12-T17-20.
+                                           (also known as Digitrip 1)
+Ratings                                    trip units are retrofittable                                                                         18
+Digitrip RMS 510 retrofit kits             at this time. Breakers
+are applied on SPB breakers
+with frame ratings from
+                                           equipped with a Pow-R
+                                           trip cannot be retrofitted.
+                                                                                                                                                19
+400A (SPB-50) to 5000A
+(SPB-150) as identified
+                                        3. SPB breakers installed in
+                                           automatic transfer
+                                                                                                                                                20
+on Page V12-T17-25. The
+                                           switches and equipped
+rating plug and the current
+sensor rating act in concert
+                                           with a belI alarm contact                                                                            21
+                                           cannot be retrofitted at
+to provide for a wide
+                                           this time.
+spectrum of overload and
+short-circuit settings.                                                                                                                         22
+                                                                                                                                                23
+                                                                                                                                                24
+                                                                                                                                                25
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com       V12-T17-35
+

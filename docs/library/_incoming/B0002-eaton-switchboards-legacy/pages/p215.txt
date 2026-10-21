@@ -1,0 +1,44 @@
+                                                                                                 Loadcenters
+                                                                                                               Type CH
+                                                                                                                                          5
+Three-Phase with Main Circuit Breakers                                  Three-Phase with Main Lugs
+                                                                                                                                                1
+Catalog      Combination      Surface   NEMA 3R       NEMA 3R           Catalog      Combination     Surface       NEMA 3R      NEMA 3R
+Number       Covers           Covers    Covers        Deadfronts        Number       Covers          Covers        Covers       Deadfronts
+CH30B3150L   CH8LF            CH8LS     —             —                 CH12L3125B   CH8BF           CH8BS         —            —
+                                                                                                                                                2
+CH30B3150R   —                —         CH3RDOOR6     CH3RDF11          CH12L3125R   —               —             CH3RDOOR5    CH3RDF4
+CH30B3200L   CH8LF            CH8LS     —             —                 CH18L3125C   CH8CF           CH8CS         —            —
+                                                                                                                                                3
+CH30B3200R   —                —         CH3RDOOR6     CH3RDF11          CH18L3125R   —               —             CH3RDOOR8    CH3RDF5
+CH30B3225L   CH8LF            CH8LS     —             —                 CH24L3125C   CH8CF           CH8CS         —            —               4
+CH30B3225R   —                —         CH3RDOOR6     CH3RDF11          CH24L3125R   —               —             CH3RDOOR8    CH3RDF5
+CH30H3200L   CH8LF            CH8LS     —             —                 CH24L3225D   CH8DF           CH8DS         —            —               5
+CH30H3200R   —                —         CH3RDOOR6     CH3RDF11          CH24L3225R   —               —             CH3RDOOR11   CH3RDF6
+CH424PM300   CH7PMF (flush)   CH7PMS    —             —                 CH30L3150D   CH8DF           CH8DS         —            —               6
+CH424PM400   CH7PMF (flush)   CH7PMS    —             —                 CH30L3150R   —               —             CH3RDOOR11   CH3RDF6
+CH42B3200L   CH8LF            CH8LS     —             —                 CH30L3225D   CH8DF           CH8DS         —            —               7
+CH42B3200R   —                —         CH3RDOOR6     CH3RDF11          CH30L3225R   —               —             CH3RDOOR11   CH3RDF6
+CH42B3225L   CH8LF            CH8LS     —             —                 CH424PL400   CH7PF (flush)   CH7PS         —            —               8
+CH42B3225R   —                —         CH3RDOOR6     CH3RDF11          CH42L3225R   —               —             CH3RDOOR12   CH3RDF8
+CH42H3200L   CH8LF            CH8LS     —             —                 CH42L3225G   CH8GF           CH8GS         —            —               9
+CH42H3200R   —                —         CH3RDOOR6     CH3RDF11          CH6L3125FP   CH86F (flush)   —             —            —
+CH42H3225L   CH8LF            CH8LS     —             —                 CH6L3125RP   —               —             CH3RDOOR3    CH3RDF3         10
+CH42H3225R   —                —         CH3RDOOR6     CH3RDF11          CH6L3125SP   —               CH86F         —            —
+                                                                                                                                                11
+                                                                                                                                                12
+                                                                                                                                                13
+                                                                                                                                                14
+                                                                                                                                                15
+                                                                                                                                                16
+                                                                                                                                                17
+                                                                                                                                                18
+                                                                                                                                                19
+                                                                                                                                                20
+                                                                                                                                                21
+                                                                                                                                                22
+                                                                                                                                                23
+                                                                                                                                                24
+                                                                                                                                                25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com           V12-T5-11
+

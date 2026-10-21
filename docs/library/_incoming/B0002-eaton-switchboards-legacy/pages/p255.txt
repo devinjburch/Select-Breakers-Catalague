@@ -1,0 +1,105 @@
+     9                            Busway (Low Voltage)
+                                  Replacement Capabilities—100 Ampere Busway
+
+
+
+     100 Ampere Busway                                                              Fusible Plug-In Units
+1                                                                                   Voltage            Ampere        Fusible Enclosure           Ground (If Required)
+                                                                                    Rating             Rating        Catalog Number              Catalog Number
+
+2                                                                                   240                30            FAN321                      PIGS100
+                                                                                    240                60            FAN322                      PIGS100
+
+3                                                                                   240                100           FAN323                      PIGS100
+                                                                                    600                30            FAN361                      PIGS100
+
+4                                                                                   600                60            FAN362                      PIGS100
+                                                                                    600                100           FAN363                      PIGS100
+
+5
+                                                                                    Circuit Breaker Plug-In Units
+6                          Elbow, Busway and Cable Tap Box                                                                                                    External Handle
+                                                                                                                     Circuit                                  (Required for
+                                                                                                                     Breaker     Receptacle   Ground          Hook-Stick
+7    100 Ampere Busway—Copper                                                       Voltage                 Ampere
+                                                                                                                     Enclosure
+                                                                                                                     Catalog
+                                                                                                                                 Enclosure
+                                                                                                                                 Catalog
+                                                                                                                                              (If Required)
+                                                                                                                                              Catalog
+                                                                                                                                                              Operation)
+                                                                                                                                                              Catalog
+     (Includes 50% Internal Ground Bar)                                             Rating                  Rating   Number      Number       Number          Number
+8                        Three-Phase,       Three-Phase,           Single-Phase,    QUICKLAG HQP            15–50    PINQP       LCNQP        PIGS100         HMQP
+                         Three-Wire         Four-Wire FN           Three-Wire
+                                                                                    ED, EHD, FDB            15–100   PINFD       LCNFD        PIGS100         HMFD
+9
+                         600V Maximum       277/480V               120/240V
+     Description         Catalog Number     Catalog Number         Catalog Number
+     Straight Lengths
+10   10 ft (3048 mm)     CST13G             CST14G                 CST13NG
+                                                                                    Accessories
+                                                                                    Item                                            Catalog Number
+     5 ft (1524 mm)      CST135G            CST145G                CST13N5G
+11   3 ft (914.4 mm)     CST133G            CST143G                CST13N3G
+                                                                                    End closer                                      EC1
+                                                                                    Outlet cover                                    OC1
+     2 ft (609.6 mm)     CST132G            CST142G                CST13N2G
+
+12   1 ft (304.8 mm)     CST131G            CST141G                CST13N1G
+                                                                                    Edgwise hanger
+                                                                                    “C” clamp hanger
+                                                                                                                                    EH1
+                                                                                                                                    FH1
+     Elbows
+
+13
+                                                                                    Slip-on wall flange                             WF1
+     Forward             CFE13G             CFE14G                 CFE13NG
+     Rearward            CRE13G             CRE14G                 CRE13NG
+
+14   Upward              CUE13G             CUE14G                 CUE13NG
+                                                                                    End Closers—EC1                                  Replacement Outlet
+     Downward            CDE13G             CDE14G                 CDE13NG                                                           Cover—OC1
+                                                                                                 CL Joint
+15   Tees
+     Forward             CFT13G             CFT14G                 CFT13NG
+                                                                                                                                                              Outlet Cover
+
+
+
+16   Rearward
+     Upward
+                         CRT13G
+                         CUT13G
+                                            CRT14G
+                                            CUT14G
+                                                                   CRT13NG
+                                                                   CUT13NG
+                                                                                                                     4.00
+                                                                                                                     (101.6)
+
+17
+     Downward            CDT13G             CDT14G                 CDT13NG
+
+
+
+18   Cable Tap Boxes
+                        Three-Wire or Four-Wire       Ground (If Required)
+
+19
+     Description        Catalog Number                Catalog Number
+     Plug-in            PIB14                         PIGS100
+
+20
+     End                EB14                          GL100
+     Center             CBIB14G                       (Included)
+
+21
+22
+23
+24
+25
+     V12-T9-6            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

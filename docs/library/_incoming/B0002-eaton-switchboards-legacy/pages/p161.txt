@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    MA3125S                  1252C21G16        O          HMA3125                  504C741G16             KD3125                    1–5, 8
+     MA3150                   1252C17G17        O          HMA3150                  504C741G17             KD3150                    1–3, 5, 8
+3    MA3150S                  1252C21G17        O          HMA3150                  504C741G17             KD3150                    1–5, 8
+     MA3175                   1252C17G18        O          HMA3175                  504C741G18             KD3175                    1–3, 5, 8
+
+4    MA3175S                  1252C21G18        O          HMA3175                  504C741G18             KD3175                    1–5, 8
+     MA3200                   1252C17G19        O          HMA3200                  504C741G19             KD3200                    1–3, 5, 8
+
+5    MA3200S                  1252C21G19        O          HMA3200                  504C741G19             KD3200                    1–5, 8
+     MA3225                   1252C17G20        O          HMA3225                  504C741G20             KD3225                    1–3, 5, 8
+
+6    MA3225S                  1252C21G20        O          HMA3225                  504C741G20             KD3225                    1–5, 8
+     MA3250                   1252C17G21        O          HMA3250                  504C741G21             KD3250                    1–3, 5, 8
+
+7    MA3250S                  1252C21G21        O          HMA3250                  504C741G21             KD3250                    1–5, 8
+     MA3300                   1252C17G22        O          HMA3300                  504C741G22             MDL3300                   1–3, 5, 8
+
+8    MA3300S
+     MA3350
+                              1252C21G22
+                              1252C17G23
+                                                O
+                                                O
+                                                           HMA3300
+                                                           HMA3350
+                                                                                    504C741G22
+                                                                                    504C741G23
+                                                                                                           MDL3300
+                                                                                                           MDL3350
+                                                                                                                                     1–5, 8
+                                                                                                                                     1–3, 5, 8
+
+9
+     MA3350S                  1252C21G23        O          HMA3350                  504C741G23             MDL3350                   1–5, 8
+     MA3400                   1252C17G24        O          HMA3400                  504C741G24             MDL3400                   1–3, 5, 8
+     MA3400S                  1252C21G24        O          HMA3400                  504C741G24             MDL3400                   1–5, 8
+10   MA3500                   1252C17G25        O          HMA3500                  504C741G25             MDL3500                   1–3, 5, 8
+     MA3500S                  1252C21G25        O          HMA3500                  504C741G25             MDL3500                   1–5, 8
+11   MA3600                   1252C17G26        O          HMA3600                  504C741G26             MDL3600                   1–3, 5, 8
+     MA3600S                  1252C21G26        O          HMA3600                  504C741G26             MDL3600                   1–5, 8
+12   MA3700                   1252C17G27        O          HMA3700                  504C741G27             MDL3700                   1–3, 5, 8
+     MA3700S                  1252C21G27        O          HMA3700                  504C741G27             MDL3700                   1–5, 8
+13   MA3800                   1252C17G28        O          HMA3800                  504C741G28             MDL3800                   1–3, 5, 8
+     MA3800F                  2600D43G02        O          HMA3800F                 373B237G04             MDL3800F                  —
+14   MA3800FS                 2600D43G04        O          HMA3800F                 373B237G04             MDL3800F                  1–5, 8
+     MA3800S                  1252C21G28        O          HMA3800                  504C741G28             MDL3800                   1–5, 8
+
+15   MA3800WK                 752B071G06        O          —                        —                      MDL3800WK                 1–3, 5, 8
+     MA3800WSK                752B071G07        O          —                        —                      MDL3800WK                 1–3, 5, 8
+
+16   MAY3600                  NO STYLE          O          —                        —                      HMDL3600                  —
+     MAY3700                  NO STYLE          O          —                        —                      HMDL3700                  —
+
+17   MAY3800                  NO STYLE          O          —                        —                      HMDL3800                  —
+     MAY3800F                 1240C54G01        O          —                        —                      HMDL3800F                 —
+
+18   MC2800F                  6590C16G01        O          —                        —                      MDL3800F/MES3800LS        1–3, 5, 8
+     MC2800FM                 6590C16G03        O          —                        —                      MDL3800F/MES3800LS        1–3, 5, 8
+
+19   MC2800WK
+     MC3800F
+                              752B071G03
+                              6590C16G02
+                                                O
+                                                O
+                                                           —
+                                                           HMC3800F
+                                                                                    —
+                                                                                    6590C16G06
+                                                                                                           MDL2800WK
+                                                                                                           MDL3800F/MES3800LS
+                                                                                                                                     1–3, 5, 8
+                                                                                                                                     1–3, 5, 8
+
+20
+     MC3800FM                 6590C16G04        O          HMC3800F                 6590C16G06             MDL3800F/MES3800LS        1–3, 5, 8
+     MC3800WK                 752B071G08        O          —                        —                      MDL3800WK                 1–3, 5, 8
+
+21
+     MCA2800F                 6590C16G13        O          —                        —                      MDL3800F/MES3800LSI       1–3, 5, 8
+     MCA3800F                 6590C16G14        O          HMCA3800F                6590C16G18             MDL3800F/MES3800LSI       1–3, 5, 8
+     MCC2800WK                NO STYLE          O          —                        —                      —                         1–3, 5, 8
+22   MCC3800F                 6590C14G02        O          HMCC3800F                6590C14G06             CMDL3800F/MES3800LS       1–3, 5, 8
+     MCC3800WK                NO STYLE          O          —                        —                      —                         1–3, 5, 8
+23   MCCA3800F                6590C14G14        O          HMCCA3800F               6590C14G18             CMDL3800F/MES3800LSI      1–3, 5, 8
+     MCCG3800F                1242C62G01        O          HMCCG3800F               1242C62G09             CMDL3800F/MES3800LSG      1–3, 5, 8
+24   MCCGA3800F               1242C62G03        O          HMCCGA3800F              1242C62G11             CMDL3800F/MES3800LSIG     1–3, 5, 8
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-148              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

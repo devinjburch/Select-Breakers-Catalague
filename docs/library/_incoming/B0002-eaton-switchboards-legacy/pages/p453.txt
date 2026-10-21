@@ -1,0 +1,80 @@
+                                                                               Motor Control Centers
+                                                                                                              Upgrades
+                                                                                                                                              14
+Series C Motor Circuit Protectors                                        Catalog Numbering System
+Starter    Magnetic Trip         Continuous         Catalog
+                                                                         Series C Retrofits
+                                                                                                                                                           1
+Size       Range Amperes         Rating Amperes     Number
+0          9–30                  3                  HMCP003A0                             FT HMCP030H1 C 12 N                                              2
+0          21–70                 7                  HMCP007C0
+0          45–150                15                 HMCP015E0
+                                                                             MCC Type     Device Catalog                                 Device Panel      3
+0          40–60                 25                 HMCP025D0               FT = Type W      Number                  Door Size           D = With device
+
+                                                                                                                                                           4
+1          90–300                30                 HMCP030H1               FS = 5 Star   Use tables            Height of door in            panel
+                                                                            FR = F10                            inches, 6.00-inch        N = No device
+2          80–120                50                 HMCP050G2                                                   increments                   panel
+2
+2
+           150–500
+           115–170
+                                 50
+                                 70
+                                                    HMCP050K2
+                                                    HMCP070J2
+                                                                                                                   Modifications                           5
+                                                                                                           C = Copper lugs for HMCP
+
+                                                                                                                                                           6
+2          210–700               70                 HMCP070M2                                              L = Lugs for molded-case breaker
+3          160–240               100                HMCP100L3
+                                                                         How to Order
+                                                                                                                                                           7
+3          300–1000              100                HMCP100R3
+                                                                         Step 1: Select the correct Series C device from the table in the
+4          450–1500              150                HMCP150T4            applicable RPD
+4          750–2500              150                HMCP150U4            5 Star—RP04304003E
+4, 5       350–700               250                HMCP250A5            Type W—RP04304006E                                                                8
+                                                                         F10—RP04304005E
+5          450–900               250                HMCP250C5
+5          500–1000              250                HMCP250D5
+                                                                         Step 2: Create a catalog number based on the MCC type,                            9
+                                                                         device selected, modification, door size and device panel.
+5          625–1250              250                HMCP250F5
+5          750–1500              250                HMCP250G5
+                                                                         Step 3: Select price from PL04304002E.                                            10
+5          875–1750              250                HMCP250J5
+5          1000–2000             250                HMCP250K5                                                                                              11
+5          1125–2250             250                HMCP250L5
+5          1250–2500             250                HMCP250W5                                                                                              12
+5          500–1000              400                HMCP400D5
+5          625–1250              400                HMCP400F5                                                                                              13
+5          750–1500              400                HMCP400G5
+5          875–1750              400                HMCP400J5                                                                                              14
+5          1000–2000             400                HMCP400K5
+5          1125–2250             400                HMCP400L5
+                                                                                                                                                           15
+5          1250–2500             400                HMCP400M5
+5
+5
+           1500–3000
+           1750–3500
+                                 400
+                                 400
+                                                    HMCP400N5
+                                                    HMCP400R5
+                                                                                                                                                           16
+5, 6       2000–4000             400                HMCP400X5
+                                                                                                                                                           17
+                                                                                                                                                           18
+                                                                                                                                                           19
+                                                                                                                                                           20
+                                                                                                                                                           21
+                                                                                                                                                           22
+                                                                                                                                                           23
+                                                                                                                                                           24
+                                                                                                                                                           25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                    V12-T14-17
+

@@ -1,0 +1,97 @@
+     10                                     IQ Products
+                                            Technology Upgrades
+
+
+
+     Features and Benefits
+1
+     Power Xpert 4000/6000/8000 Meters
+2                                                                               Power Xpert
+     Feature                                                                    4000     6000      8000     Benefit
+
+3    General
+     Embedded Web server                                                        ■        ■         ■        Use a standard Web browser to monitor and manage the meter over the network, Internet
+
+4    TOU metering support                                                       ■        ■         ■        Time of usage can be set up to support 4 different schedules
+     Firmware flash update support                                              ■        ■         ■        Enables you to flash the meter with the latest firmware updates
+
+5    Self-learning capability (characterizes “normal” per circuit)              ■        ■         ■        The meter can automatically adjust to the environment and alarm only when
+                                                                                                            “real” events occur
+     Power, Energy and Demand
+6    Voltage, current: per phase minimum, maximum, average, trend graph         ■        ■         ■        Review voltage and current trends, export, print and analyze parameters right on the meter or external
+     analysis, export, print                                                                                software
+
+7    Energy and demand plot comparisons month-to-month, week-to-week            ■
+                                                                                ■
+                                                                                         ■
+                                                                                         ■
+                                                                                                   ■
+                                                                                                   ■
+                                                                                                            Plot two months or two weeks for vivid energy or demand comparison
+     Power: power factor, apparent, real, reactive, frequency                                               Review power usage and power factor and avoid potential PF penalties
+
+8    Energy, demand: forward, reverse, net, sum, tou, profile, previous month
+     comparison, graph analysis, export, print
+                                                                                ■        ■         ■        Keep track of your energy usage, compare time of usage and usage against previous month, identify
+                                                                                                            peaks to conserve energy usage
+     Power Quality Analysis
+9    Statistical analysis (min., max., average)                                 ■        ■         ■        Review statistical trends, identify past and future problem areas
+     Sag and swell monitoring, management and recording                         ■        ■         ■        Capture electrical sags and swells and analyze the waveforms
+10   Symmetrical Components: Zero, Negative, Positive                           ■        ■         ■        Analyze possibly unbalanced three-phase power systems
+     Low frequency transient detection and capture                              ■        ■         ■        Capture lower frequency transient waveforms for retrospective analysis or e-mailing
+
+11   Sampling rate, maximum samples/cycle                                       4096 1 4096 1 100,000 Extremely high sampling rate will effectively capture impulsive transients
+     “Number of Nines” uptime data (e.g., 6 nines = 99.9999%)                   ■        ■         ■        Review uptime availability per cent
+
+12   K-factor                                                                   ■        ■         ■        Review the ratio of eddy current losses, e.g., when driving nonlinear and linear loads
+     Crest factor                                                               ■        ■         ■        Review the peak-to-average ratio of the waveform
+
+13   Security
+     Secure 5 level user access privileges                                      ■        ■         ■        Define appropriate security access level per user
+
+14   Communications and I/O
+     Modbus TCP                                                                 ■        ■         ■        Easy integration with standard protocol to power management and other software
+
+15   Modbus RTU
+     HTML
+                                                                                ■
+                                                                                ■
+                                                                                         ■
+                                                                                         ■
+                                                                                                   ■
+                                                                                                   ■
+                                                                                                            Integrate meters to existing Modbus networks, daisy chain several (1–16) meters together
+                                                                                                            Communicate to the meter over the Internet via standard Web browser
+                                                                                ■        ■         ■
+16
+     SNMP (simple network management protocol)                                                              Communicate with the meter via Simple Network Protocol; hook to existing NMS system
+     SMTP (simple mail transfer protocol)                                       ■        ■         ■        Send e-mail messages via standard Simple Mail Transfer Protocol
+     FTP (file transfer protocol)                                               ■        ■         ■        Access, copy, paste, cut waveform capture files on the meter with an FTP Client
+17   NTP (network time protocol)                                                ■        ■         ■        Network Time Protocol support enables the meter to synchronize time over the network up to the 1
+                                                                                                            millisecond resolution
+
+18   COMTRADE, open IEEE Standard file format for
+     Waveform capture export
+                                                                                ■        ■         ■        Import waveform captures in standard IEEE (C37.111-1999) COMTRADE file format to third-party
+                                                                                                            software
+     DNP 3.0 over Ethernet (Distributed Network Protocol)                       ■        ■         ■        Communicate with the meter via DNP 3.0 over Ethernet; hook to existing utility systems
+19   Trend measurements CSV file export                                         ■        ■         ■        Easily export trend measurements to third-party applications, e.g., Microsoft Excel in standard
+                                                                                                            CSV file format
+
+20   I/O (8 digital inputs, 3 relay outputs, 2 solid-state KYZ outputs)         ■        ■         ■        The Power Xpert I/O Card is extremely flexible and can be used in a large variety of different
+                                                                                                            applications. Digital inputs and relay outputs can be programmed to interact during various
+                                                                                                            conditions defined by the user. Various third-party devices, such as alarm, pulse meters, trip units,
+
+21                                                                                                          sensors can be easily integrated to the Power Xpert Meter. Triggers and events can be tied to the
+                                                                                                            meters standard functions such as e-mail, logs and trends
+
+     Notes
+22   1 Delta-Sigma A/D oversampling rate.
+
+     These specifications are subject to change without notice and represent the maximum capabilities of the product with all options installed. This is not a complete feature list. Features and functionality
+     may vary depending on selected options, firmware version and product model. Please refer to the technical data sheet and User Manual for detailed specifications.
+23
+24
+25
+     V12-T10-16                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

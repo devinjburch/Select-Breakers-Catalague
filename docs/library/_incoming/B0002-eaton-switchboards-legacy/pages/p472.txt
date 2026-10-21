@@ -1,0 +1,81 @@
+     17                                  Switchgear
+                                         DS Low Voltage Assemblies and Power Circuit Breakers—Vintage
+
+
+
+     DS Switchgear Assemblies General Information
+1    Description                                                                                                               Ratings         Chronology
+     DS Switchgear Vintage I and II, 1969–1984 at East Pittsburgh, PA
+2    The first vintage of DS switchgear was the first switchgear that incorporated the DS breaker with a solid-state trip 800–4000A            The first vintage was built from September of 1969 to
+     unit (Amptector). During this time, the DS532 breaker was used. The DS532 breaker was a 3000A frame breaker with 208/600V                 approximately September of 1973 in East Pittsburgh, PA,
+
+3
+     an interrupting rating of 50,000 symmetrical amperes. The structures themselves were of a stepped roof design that                        using the shop order numbers with a prefix of 24Y. The
+     incorporated a standard bolted copper or flash welded aluminum bus design. Other characteristics of this switchgear                       second DS vintage was also built in East Pittsburgh,
+     include the following: rear frame height was 87.50 inches, flat roof sheets, ventilated front doors, wire ducts,                          which used the 27Y prefix on shop orders. This vintage
+     removable instrument modules and a welded frame design. The breaker compartments were also different with fuse                            was built the same time as the WPA design in St. Louis,
+4    trucks stacked above the mains, the DS840, DS532 and the newly developed DS632. The outdoor design
+     incorporated the use of a walk-in type side door entry.
+                                                                                                                                               MO. The switchgear in East Pittsburgh was designed to
+                                                                                                                                               be used for industrial applications, whereas the St. Louis
+     The second vintage of switchgear was a new design that incorporated the use of both bolted copper and welded                              design was built for commercial applications.
+5    extruded aluminum rise bus. It is basically the same as the first vintage but with a revised bus design.
+     WPA Switchgear, 1973–1984 at St. Louis, MO
+
+6    The WPA switchgear was designed for commercial applications that also used DS breakers. which was similar
+     to the East Pittsburgh design for industrial applications. The two designs differed structurally but used the same
+                                                                                                                        800–4000A
+                                                                                                                        208/600V
+                                                                                                                                               This vintage was built from February of 1973 to
+                                                                                                                                               approximately October of 1984 in St. Louis. Usually the
+     breakers. Some characteristics of the WPA design are as follows: riser bus was tapered design, frames were bolted                         switchgear is identified by General Order and Item
+
+7
+     and not welded, height of 9.00 inches, neutral bus mounted on rear frame, did not use removable instrument                                numbers. Shop order numbers were not used.
+     compartments and outdoor design had front and rear doors. In all, the WPA design differed extensively compared
+     to the East Pittsburgh design.
+
+8    DS Switchgear Vintage III, 1984 at St. Louis, MO
+     The third generation of DS switchgear was introduced due to the change of plant locations. It is classified as a              800–4000A   This vintage lasted from May of 1984 to approximately
+     vintage because it was the beginning of the merge between two plants (St. Louis and East Pittsburgh). The                     208/600V    October of 1984 in East Pittsburgh. Usually the switchgear
+9    engineering was completed in East Pittsburgh and the assembly was built in St. Louis, along with the Cincinnati, OH,
+     plant to help pick up the slack until full production in St. Louis. This vintage was similar to the previous 27Y style with a
+                                                                                                                                               shop order number is defined by a prefix of 28Y.
+
+     few modifications. It was the first time that both DS and DSL were used in switchgear by the use of a conjunction box.
+10   The physical appearance also changed by increasing the height to 92.00 inches and adding top hat vents that protruded
+     4.00 inches above the switchgear. Internally the neutral bus was located in the bus compartment along with unified
+     breaker compartments for the variety of breakers.
+
+11   DS Switchgear Vintage IV, 1984–1990 at St. Louis, MO
+     This vintage of switchgear was a combination of the St. Louis WPA and East Pittsburgh design. The design was              800–4000A       This vintage was built from October of 1984 to
+
+12
+     classified as a hybrid between the two that consisted of the East Pittsburgh design in the front compartments that        208/600V        approximately May of 1990 in St. Louis. Usually the
+     held the DS breaker, and the St. Louis design in the rear compartment that housed the bus. The rear compartment                           switchgear is identified by general order and item
+     still used the tapered riser bus (a characteristic of the St. Louis design), which was used right up until the DS                         numbers. 28Y shop order numbers started in 1987 and
+     switchgear moved to Asheville, NC. The design was very similar to the design today except for the different riser                         continued into the Asheville design.
+13   bus along with the height being 92.00 inches.
+     DS Switchgear Vintage V, 1990–1996 at Asheville, NC
+
+14   The vintage was built from May of 1990 to the end of 1996 in Asheville. The switchgear is identified by shop order 800–4000A
+     number 28Y. The switchgear incorporates both designs with the option for the variety of IQ products. The riser bus 208/600V
+                                                                                                                                               This vintage was built from May of 1990 to the end of
+                                                                                                                                               1996 in Asheville. The switchgear is identified by shop
+     went back to a full rated type that is bolted copper only. Aluminum bus work was initially done only on special orders                    order number 28Y.
+15   at customer request. The switchgear also has many improvements such as the design of an instrument panel door
+     that was able to accommodate three device panels across DS632 in the C and D compartments and a variety of
+     communication capabilities with IMPACC. The outdoor design changed with the concept of a side walk-in enclosure.
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T17-4                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

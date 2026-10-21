@@ -1,0 +1,85 @@
+                                                                                     Molded-Case Circuit Breakers
+                                                                                                                     Replacement Capabilities
+                                                                                                                                                                                         3
+Types NB and NHB
+■ Shaded area denotes obsolete or discontinued products and services. 1                                                                                                                       1
+NB: 600 Vac; 250 Vdc      Type NB 700–1200A, 600V, 60 Hz AC 2, 250 Vdc 3, Two- and Three-Pole Interchangeable Trip
+                                          Magnetic Trip             Complete Breaker                                  Shipped as Frame, Trip Unit and Terminals 5                             2
+                          Continuous      Setting, Amperes 4        Includes Pressure Type Copper Terminals 5          Frame Only                                       Trip Unit Only
+                          Ampere
+                          Rating
+                                                                    Standard
+                                                                    Catalog
+                                                                                    Saf-T-Vue
+                                                                                    Catalog
+                                                                                                      MARK 75
+                                                                                                      Catalog
+                                                                                                                       Standard
+                                                                                                                       Catalog
+                                                                                                                                      Saf-T-Vue
+                                                                                                                                      Catalog
+                                                                                                                                                        MARK 75
+                                                                                                                                                        Catalog
+                                                                                                                                                                        Standard Saf-T-Vue,
+                                                                                                                                                                        MARK 75
+                                                                                                                                                                                              3
+                          at 40°C         Low         High          Number          Number            Number           Number         Number            Number          Catalog Number
+                          Two-Pole, 600 Vac, 250V DC 36                                                                                                                                       4
+                           700            3000        6000          NB2700          NB2700S           HNB2700          NB21200F       NB21200FS         HNB21200F       HNB2700T
+                           800            3000        6000          NB2800          NB2800S           HNB2800          NB21200F       NB21200FS         HNB21200F       HNB2800T              5
+                           900            4000        8000          NB2900          NB2900S           HNB2900          NB21200F       NB21200FS         HNB21200F       HNB2900T
+                           1000           4000        8000          NB21000         NB21000S          HNB21000         NB21200F       NB21200FS         HNB21200F       HNB21000T             6
+                           1200           4000        8000          NB21200         NB21200S          HNB21200         NB21200F       NB21200FS         HNB21200F       HNB21200T
+                           600            3000        6000          —               —                —               —                —                 HNB31200F       HNB3600T
+                                                                                                                                                                                              7
+                                                                    Approx. shipping weight 43 lbs                     Approx. shipping weight 29 lbs                   Approx. shipping
+                                                                                                                                                                        weight 3.5 lbs
+                          Three-Pole, 600 Vac Only                                                                                                                                            8
+                           700            3000        6000          NB3700          NB3700S           HNB3700          NB31200F       NB31200FS         HNB31200F       HNB3700T
+                           800            3000        6000          NB3800          NB3800S           HNB3800          NB31200F       NB31200FS         HNB31200F       HNB3800T              9
+                           900            4000        8000          NB3900          NB3900S           HNB3900          NB31200F       NB31200FS         HNB31200F       HNB3900T
+                           1000           4000        8000          NB31000         NB31000S          HNB31000         NB31200F       NB31200FS         HNB31200F       HNB31000T             10
+                           1200           4000        8000          NB31200         NB31200S          HNB31200         NB31200F       NB31200FS         HNB31200F       HNB31200T
+                                                                    Approx. shipping weight 51 lbs                     Approx. shipping weight 32 lbs                   Approx. shipping      11
+                                                                                                                                                                        weight 4 lbs
+
+
+                          Magnetic Only Breakers, Front Adjustable 78                                                                                                                         12
+                                                                                                                     Trip Unit Only
+                          Continuous                         Magnetic Trip Range 4                                   Two-Pole 6                            Three-Pole                         13
+                          Ampere Rating                      Low                        High                         Catalog Number                        Catalog Number
+                           1200                              3000                       6000                         HNB26000TM                            HNB36000TM                         14
+                           1200                              4000                       8000                         HNB28000TM                            HNB38000TM
+                           1200                              5000                       10000                        HNB210000TM                           HNB310000TM                        15
+                           1200                              6000                       12000                        HNB212000TM                           HNB312000TM
+
+                          Notes                                                                                                                                                               16
+                          1 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167.
+
+
+                                                                                                                                                                                              17
+                          2 Higher frequency calibration not available. Minimum of 50 Hz calibration available on special order.
+                          3 250 Vdc rating applied only to magnetic only type breakers.
+                          4 Set on high side, adjustable to lower limits.
+
+
+                                                                                                                                                                                              18
+                          5 Terminals shipped separately from breaker.
+                          6 Two-pole breakers supplied in three-pole frames with current carrying parts omitted from center pole.
+                          7 Frames, terminals, studs, mounting hardware, dimensions and shipping weights are same as standard thermal-magnetic breakers.
+
+
+                                                                                                                                                                                              19
+                          8 Not UL Listed.
+
+
+
+
+                                                                                                                                                                                              20
+                                                                                                                                                                                              21
+                                                                                                                                                                                              22
+                                                                                                                                                                                              23
+                                                                                                                                                                                              24
+                                                                                                                                                                                              25
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                  V12-T3-43
+

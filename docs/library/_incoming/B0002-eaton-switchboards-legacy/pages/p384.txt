@@ -1,0 +1,95 @@
+                                                                                                           Motor Control
+                                                                                                Contactors, Starters and Brakes
+                                                                                                                                                13
+IT. Electromechanical                Product History Time Line for IT. Electromechanical NEMA
+NEMA                                                                                                                                                         1
+                                       Product                                                     2000                    2005                 Present
+
+                                       IT. Electromechanical NEMA                                                                                            2
+                                     Replacement Capabilities                                                                                                3
+                                                         Replacements for NEMA Contacts and Starters                                                         4
+                                                         NEMA                                                                     Catalog
+                                                         Size            Description                                              Number
+
+                                     Contact Kits        1               40A                                                      EMHCKT40 1
+                                                                                                                                                             5
+                                                         1               50A                                                      EMHCKT50 1
+                                                         2               65A                                                      EMHCKT65 1                 6
+                                                         2               85A                                                      EMHCKT85 1
+                                                         2               100A                                                     EMHCKT100 1                7
+                                                         3, 4            125A                                                     EMCKT125
+
+  NEMA Full Voltage Non-reversing
+          Starter, Size 0
+                                                         3, 4
+                                                         3, 4
+                                                                         160A
+                                                                         200A
+                                                                                                                                  EMCKT160
+                                                                                                                                  EMCKT200
+                                                                                                                                                             8
+                                                         5               250A                                                     EMCKT250
+Product Description
+The Cutler-Hammer
+                                                         5               315A                                                     EMCKT315                   9
+Intelligent Technologies® (IT.)                          5               400A                                                     EMCKT400
+electromechanical starter            Coils 2             1               Coil                                                     EMCC                       10
+from Eaton’s electrical                                  2               Coil                                                     EMCD
+business consists of an IT.
+electromechanical contact
+                                                         3, 4
+                                                         5
+                                                                         Coil
+                                                                         Coil
+                                                                                                                                  EMCE
+                                                                                                                                  EMCF
+                                                                                                                                                             11
+block or contactor and an IT.
+electromechanical solid-state
+overload relay as a full voltage
+                                                                                                                                                             12
+non-reversing (FVNR) or a full
+voltage reversing (FVR)
+device. Size 00 to Size 5
+                                     DIN Rail Catch      00, 0, 1
+                                                         2
+                                                                         Catch with leaf spring and pad
+                                                                         Catch with leaf spring and pad
+                                                                                                                                  EMDRCB
+                                                                                                                                  EMDRCD
+                                                                                                                                                             13
+Starters are factory or field
+assembled.                                                                                                                                                   14
+                                                                                                                                                             15
+
+                                     Lug Kits            1               Lug                                                      EMLUGKTC                   16
+                                                         2               Lug                                                      EMLUGKTD
+                                                         3, 4            Lug                                                      EMLUGKTE                   17
+                                                         5               Horizontal box lug kit                                   EMLUGKTFA
+                                                         5               Vertical box lug kit                                     EMLUGKTFB
+                                                                                                                                                             18
+                                                         5               Dual lug kit                                             EMLUGKTFC
+
+                                     Overload Busbars    00, 0           For contactors and starters                              EMBBB                      19
+                                                         1               For starters                                             EMBBC
+                                                         1               For reversing contactors and reversing starters          EMBBRC                     20
+                                                         2               For starters                                             EMBBD
+                                                         2
+                                                         3, 4
+                                                                         For reversing contactors and reversing starters
+                                                                         For starters
+                                                                                                                                  EMBBRD
+                                                                                                                                  EMBBE
+                                                                                                                                                             21
+                                                         3, 4            For reversing contactors and reversing starters          EMBBRE
+                                                         5               Overload relay                                           EMBBOF                     22
+                                                         Notes
+                                                         1 H = Hold-Open.
+                                                         2 For reversing contactors and starters, order two.
+                                                                                                                                                             23
+                                     Technology Upgrades                                                                                                     24
+                                     This product currently listed in Volume 5—Motor Control and Protection,
+                                     CA08100006E, Tab 2.
+                                                                                                                                                             25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                      V12-T13-47
+

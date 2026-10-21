@@ -1,0 +1,72 @@
+                                                                                                    Appendix 2—Alphabetical Product Index
+
+Replacement Digitrip RMS Trip Units . . . . . V12-T17-21, V12-T17-22                                 RF Panelboard Replacement
+Replacement Feeder Breaker Units                                                                      Breakers . . . . . . . . . . . . . . . . . . V12-T3-80, V12-T3-81, V12-T3-84
+
+      11-300 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-5       RF Replacement Breaker. . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-156
+      5 Star/Series 2100. . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-10               RFA Molded-Case Circuit Breakers . . . . . . . . . . . . . . . . . V12-T3-156
+      9800 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-6       RFA Panelboard Replacement
+      Advantage . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-11            Breakers . . . . . . . . . . . . . . . . . . V12-T3-80, V12-T3-81, V12-T3-84
+
+      F10 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-8      RFK . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T9-9
+      F2100 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-12         RH . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-22
+      Freedom Unitrol . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-9              RHF Molded-Case Circuit Breakers . . . . . . . V12-T3-156, V12-T3-157
+      Type W . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-7         RHF Panelboard Replacement Breakers . . . . V12-T3-80, V12-T3-81,
+Replacement Fuse Base . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T9-5                                                                                                    V12-T3-85
+Replacement Guide                                                                                    RHFA Molded-Case Circuit Breakers. . . . . . . . . . . . . . . . V12-T3-157
+      Current Limiting . . . . . . . . . . . . . . . . . . . V12-T3-13, V12-T3-14                    RHFA Panelboard Replacement Breakers . . . V12-T3-80, V12-T3-81,
+      Series C. . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-10–V12-T3-12                                                                                                   V12-T3-84
+Replacement Molded-Case Circuit                                                                      RHK Molded-Case Circuit Breakers . . . . . . . V12-T3-157, V12-T3-158
+ Breakers and Parts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T2-3             RHK Panelboard Replacement Breakers . . . . V12-T3-80, V12-T3-82,
+Replacement Parts for MCCs . . . . . . . . . . . . . . . . . . . . . V12-T14-13                                                                                                         V12-T3-86
+Replacement Power Breakers . . . . . . . . . . . . . . . . . . . . . . V12-T2-2                      RHKL Molded-Case Circuit Breakers . . . . . . . . . . . . . . . . V12-T3-158
+Replacement Starter Units                                                                            RHKL Panelboard Replacement
+      11-300 MCCs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-5               Breakers . . . . . . . . . . . . . . . . . . V12-T3-80, V12-T3-82, V12-T3-86
+      5 Star/Series 2100 MCCs . . . . . . . . . . . . . . . . . . . . V12-T14-10                     RHLM Molded-Case Circuit Breakers . . . . . V12-T3-158, V12-T3-159
+      9800 MCCs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-6            RHLM Panelboard Replacement
+      Advantage MCCs . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-11                   Breakers . . . . . . . . . . . . . . . . . . V12-T3-80, V12-T3-82, V12-T3-87
+      F10 MCCs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-8           RJ Molded-Case Circuit Breakers . . . . . . . . . . . . . . . . . . V12-T3-159
+      F2100 MCCs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-12              RJ Panelboard Replacement
+      Freedom Unitrol MCCs . . . . . . . . . . . . . . . . . . . . . . . V12-T14-9                    Breakers . . . . . . . . . . . . . . . . . . V12-T3-80, V12-T3-82, V12-T3-85
+      Type W MCCs. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-7               RK Molded-Case Circuit Breakers . . . . . . . . V12-T3-159, V12-T3-160
+Replacement Vacuum Breakers . . . . . . . . . . . . . . . . . . . . . V12-T2-2                       RK Panelboard Replacement
+Replacement Vacuum Contactors. . . . . . . . . . . . . . . . . . V12-T13-94                           Breakers . . . . . . . . . . . . . . . . . . V12-T3-80, V12-T3-82, V12-T3-85
+                                                                                                     RKL Molded-Case Circuit Breakers . . . . . . . . . . . . . . . . . V12-T3-160
+Residential Meter Stacks
+                                                                                                     RKL Panelboard Replacement
+      Ring . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-7
+                                                                                                      Breakers . . . . . . . . . . . . . . . . . . V12-T3-80, V12-T3-82, V12-T3-85
+Resistor, Starting and Field Discharge
+                                                                                                     RL Siemens Breaker . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-48
+ for Synchronous . . . . . . . . . . V12-T13-79, V12-T13-80, V12-T13-82
+                                                                                                     RLM Molded-Case Circuit Breakers . . . . . . V12-T3-160, V12-T3-161
+Retro-build — see Network Protectors
+                                                                                                     RLM Panelboard Replacement
+Retrofit Interior Kits
+                                                                                                      Breakers . . . . . . . . . . . . . . . . . . V12-T3-80, V12-T3-82, V12-T3-86
+      Type CH
+                                                                                                     RLX Siemens-Allis Breaker . . . . . . . . . . . . . . . . . . . . . . . V12-T17-48
+        Loadcenters and Circuit Breakers . . . . . . . . . . . . . V12-T5-27
+                                                                                                     RMCF Motor Control Center
+Retrofit Kits                                                                                         Replacement Breakers . . . . . . . . . . . . . . . . . V12-T3-88, V12-T3-89
+      Trip Units. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T2-2       RMCFA Motor Control Center
+Retrofit Kits, Series C for Motor Control Centers . . . . . . . V12-T3-91                             Replacement Breakers . . . . . . . . . . . . . . . . . V12-T3-88, V12-T3-89
+Retrofit Services                                                                                    RMCHF Motor Control Center
+      Low Voltage Breaker Drawout                                                                     Replacement Breakers . . . . . . . . . . . . . . . . . V12-T3-88, V12-T3-90
+       Vacuum Starter Replacement . . . . . V12-T17-12, V12-T17-13                                   RMCHFA Motor Control Center
+Retrofits                                                                                             Replacement Breakers . . . . . . . . . . . . . . . . . V12-T3-88, V12-T3-90
+                                                                                                     RMS 500 . . . . . . V12-T17-21, V12-T17-23, V12-T17-25–V12-T17-28
+      Motor Control Center . . . . . . . . . . . . . . . . . . . . . . . . . V12-T2-2
+      Motor Control Center Buckets . . . . . . . . . . . . . . . . . . V12-T2-2                      RMS 510 . . . . . . V12-T17-21, V12-T17-23, V12-T17-25–V12-T17-28
+      Panelboards . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-21            RMS 600 . . . . . . V12-T17-21, V12-T17-23, V12-T17-25–V12-T17-28
+      Power Breaker Trip Units . . . . . . . . . . V12-T17-21, V12-T17-22                            RMS 610 . . . . . . V12-T17-21, V12-T17-23, V12-T17-25–V12-T17-28
+      SPD . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T2-3     RMS 700 . . . . . . V12-T17-21, V12-T17-23, V12-T17-25–V12-T17-28
+      Submetering . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T2-3           RMS 800 . . . . . . V12-T17-21, V12-T17-23, V12-T17-25–V12-T17-28
+Retrofit—Trip System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T2-2              RMS 810 . . . . . . V12-T17-21, V12-T17-23, V12-T17-25–V12-T17-28
+Reversing/Assignment Contactor . . . . . . . . . . . . . . . . . . V12-T13-68                        RMS 910 . . . . . . V12-T17-21, V12-T17-23, V12-T17-25–V12-T17-28
+RF Molded-Case Circuit Breakers . . . . . . . . V12-T3-155, V12-T3-156                               RNA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-89
+
+
+
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions                            CA08100014E—November 2016                 www.eaton.com                  V12-A1-25
+

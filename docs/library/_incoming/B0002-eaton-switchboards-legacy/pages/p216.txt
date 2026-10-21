@@ -1,0 +1,225 @@
+     5                         Loadcenters
+                               Type CH
+
+
+
+     Renewal Parts List for Vintage Type CH Loadcenter Covers and Deadfronts
+1
+     Single-Phase with Main Circuit Breaker                                    Single-Phase with Main Lugs
+2    Catalog         Surface      Flush
+                                               Surface Covers Flush Covers
+                                               w/ Mechanical w/ Mechanical     Catalog        Surface    Flush
+                                                                                                                      Surface Covers Flush Covers
+                                                                                                                      w/ Mechanical w/ Mechanical
+     Number          Covers       Covers       Interlock      Interlock        Number         Covers     Covers       Interlock      Interlock
+3    CH22CCM100N     CH7CCS       CH7CCF       CH7CCSM       CH7CCFM           CH2S           —          —            —             —
+     CH30JJM150N     CH7JJS       CH7JJF       —             —                 CH2F           —          —            —             —
+
+4    CH30JJM200N
+     CH40KKM200N
+                     CH7JJS
+                     CH7KKS
+                                  CH7JJF
+                                  CH7KKF
+                                               —
+                                               —
+                                                             —
+                                                             —
+                                                                               CH2R
+                                                                               CH2AS
+                                                                                              —
+                                                                                              —
+                                                                                                         —
+                                                                                                         —
+                                                                                                                      —
+                                                                                                                      —
+                                                                                                                                    —
+                                                                                                                                    —
+     CH14BBM100      CH7BBS       CH7BBF       CH7BBSM       CH7BBFM           CH2AF          —          —            —             —
+5    CH14BBM100R     —            —            —             —                 CH2AR          —          —            —             —
+     CH18CCM100      CH7CCS       CH7CCF       —             —                 CH2BS          —          —            —             —
+
+6    CH18CCM100R
+     CH22CCM125
+                     —
+                     CH7CCS
+                                  —
+                                  CH7CCF
+                                               —
+                                               —
+                                                             —
+                                                             —
+                                                                               CH2BF
+                                                                               CH2BR
+                                                                                              —
+                                                                                              —
+                                                                                                         —
+                                                                                                         —
+                                                                                                                      —
+                                                                                                                      —
+                                                                                                                                    —
+                                                                                                                                    —
+     CH22CCM125R     —            —            —             —                 CH4S           —          —            —             —
+7    CH20JJM150      CH7JJS       CH7JJF       —             —                 CH4F           —          —            —             —
+     CH20JJM150R     —            —            —             —                 CH4R           —          —            —             —
+
+8    CH20JJM200
+     CH20JJM200R
+                     CH7JJS
+                     —
+                                  CH7JJF
+                                  —
+                                               —
+                                               —
+                                                             —
+                                                             —
+                                                                               CH8S
+                                                                               CH8F
+                                                                                              —
+                                                                                              —
+                                                                                                         —
+                                                                                                         —
+                                                                                                                      —
+                                                                                                                      —
+                                                                                                                                    —
+                                                                                                                                    —
+     CH24JJM150      CH7JJS       CH7JJF       —             —                 CH8R           —          —            —             —
+9    CH24JJM150R     —            —            —             —                 CH12BB         CH7BBS     CH7BBF       CH7BBSM       CH7BBFM
+     CH24JJM200      CH7JJS       CH7JJF       —             —                 CH12BBR        —          —            —             —
+
+10   CH24JJM200R
+     CH30JJM150
+                     —
+                     CH7JJS
+                                  —
+                                  CH7JJF
+                                               —
+                                               —
+                                                             —
+                                                             —
+                                                                               CH12EE200
+                                                                               CH12EE200R
+                                                                                              CH7EES
+                                                                                              —
+                                                                                                         CH7EEF
+                                                                                                         —
+                                                                                                                      —
+                                                                                                                      —
+                                                                                                                                    —
+                                                                                                                                    —
+     CH30JJM150R     —            —            —             —                 CH16BB         CH7BBS     CH7BBF       CH7BBSM       CH7BBFM
+11   CH30JJM200      CH7JJS       CH7JJF       —             —                 CH16BBR        —          —            —             —
+     CH30JJM200R     —            —            —             —                 CH16EE200      CH7EES     CH7EEF       —             —
+
+12   CH30KKM225
+     CH30KKM225R
+                     CH7KKS
+                     —
+                                  CH7KKF
+                                  —
+                                               —
+                                               —
+                                                             —
+                                                             —
+                                                                               CH16EE200R
+                                                                               CH20CC
+                                                                                              —
+                                                                                              CH7CCS
+                                                                                                         —
+                                                                                                         CH7CCF
+                                                                                                                      —
+                                                                                                                      CH7CCSM
+                                                                                                                                    —
+                                                                                                                                    CH7CCFM
+     CH40KKM200      CH7KKS       CH7KKF       —             —                 CH20CCR        —          —            —             —
+13   CH40KKM200R     —            —            —             —                 CH24CC         CH7CCS     CH7CCF       CH7CCSM       CH7CCFM
+     CH42KKM225      CH7KKS       CH7KKF       —             —                 CH24CCR        —          —            —             —
+
+14   CH42KKM225R
+     CH42PM300
+                     —
+                     CH7PMS
+                                  —
+                                  CH7PMF
+                                               —
+                                               —
+                                                             —
+                                                             —
+                                                                               CH24EE150
+                                                                               CH24EE150R
+                                                                                              CH7EES
+                                                                                              —
+                                                                                                         CH7EEF
+                                                                                                         —
+                                                                                                                      CH7EESM
+                                                                                                                      —
+                                                                                                                                    CH7EEFM
+                                                                                                                                    —
+     CH42PM400       CH7PMS       CH7PMF       —             —                 CH24EE225      CH7EES     CH7EEF       —             —
+15   CH20CCM100H2    CH7CCS       CH7CCF       —             —                 CH24EE225R     —          —            —             —
+     CH20CCM100H2R —              —            —             —                 CH30EE         CH7EES     CH7EEF       CH7EESM       CH7EEFM
+
+16   CH26EEM125H2
+     CH26EEM125H2R
+                     CH7EES
+                     —
+                                  CH7EEF
+                                  —
+                                               —
+                                               —
+                                                             —
+                                                             —
+                                                                               CH30EER
+                                                                               CH30EE225
+                                                                                              —
+                                                                                              CH7EES
+                                                                                                         —
+                                                                                                         CH7EEF
+                                                                                                                      —
+                                                                                                                      —
+                                                                                                                                    —
+                                                                                                                                    —
+     CH20CCM100H4    CH7CCS       CH7CCF       —             —                 CH30EE225R     —          —            —             —
+17   CH20CCM100H4R —              —            —             —                 CH42GG         CH7GGS     CH7GGF       CH7GGSM       CH7GGFM
+     CH26EEM100H4    CH7EES       CH7EEF       —             —                 CH42GGR        —          —            —             —
+
+18   CH26EEM100H4R
+     CH26EEM125H4
+                     —
+                     CH7EES
+                                  —
+                                  CH7EEF
+                                               —
+                                               —
+                                                             —
+                                                             —
+                                                                               CH42PL400
+                                                                               CH48S
+                                                                                              CH7PS
+                                                                                              —
+                                                                                                         CH7PF
+                                                                                                         —
+                                                                                                                      —
+                                                                                                                      —
+                                                                                                                                    —
+                                                                                                                                    —
+     CH26EEM125H4R   —            —            —             —                 CH48F          —          —            —             —
+19   CH30JJM150H     CH7JJS       CH7JJF       —             —                 CH48R          —          —            —             —
+     CH30JJM150HR    —            —            —             —                 CH816S         —          —            —             —
+
+20   CH30JJM200H     CH7JJS       CH7JJF       —             —                 CH816F         —          —            —             —
+     CH30JJM200HR    —            —            —             —                 CH816R         —          —            —             —
+     CH40KKM200H     CH7KKS       CH7KKF       —             —                 CH1624BB       CH7BBS     CH7BBF       —             —
+21   CH40KKM200HR    —            —            —             —                 CH1624BBR      —          —            —             —
+     CH42KKM225H     CH7KKS       CH7KKF       —             —                 CH3042EE225    CH7EES     CH7EEF       —             —
+22   CH42KKM225HR    —            —            —             —                 CH3042EE225R   —          —            —             —
+     CH1420BBM100    CH7BBS       CH7BBF       —             —
+     CH1420BBM100R   —            —            —             —
+23   CH1824CCM100    CH7CCS       CH7CCF       —             —
+     CH1824CCM100R   —            —            —             —
+24   CH3040JJM200    CH7JJS       CH7JJF       —             —
+     CH3040JJM200    —            —            —             —
+
+25
+     V12-T5-12           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

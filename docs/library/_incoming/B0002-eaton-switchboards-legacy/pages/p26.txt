@@ -1,0 +1,71 @@
+                                                                                  Molded-Case Circuit Breakers
+                                                                                                                                                          3
+Current Limiting Circuit Breakers—Dimensions in Inches (Per Three-Pole Breaker)
+                                              Maximum Amperes                                                                                                     1
+Description                                   100A              250A                   400A              100A                         225A
+Current Design                                                                                                                                                    2
+All circuit breakers listed in a              FCL               LCL                    LCL               FB                           LA
+                                                                                                         TRI-PAC®
+column are ELECTRICALLY
+INTERCHANGEABLE.
+                                              Current Limit-R
+                                              (non-fused)
+                                                                Current Limit-R
+                                                                (non-fused)
+                                                                                       Current Limit-R
+                                                                                       (non-fused)       (fused)
+                                                                                                                                      TRI-PAC
+                                                                                                                                      (fused)                     3
+                                                                                                                                                                  4
+                                                                                                                                                                  5
+                                                                                                                                                                  6
+
+                                              Width: 4.13       Width: 8.25            Width: 8.25       Width: 4.13                  Width: 8.25
+                                                                                                                                                                  7
+                                              Height: 8.75      Height: 16.00          Height: 16.00     Height: 8.75                 Height: 16.00
+
+Replacement Circuit Breakers
+                                              Depth: 3.38       Depth: 4.06            Depth: 4.06       Depth: 3.50                  Depth: 4.75
+                                                                                                                                                                  8
+                                                                                                                                                                  9
+These new UL labeled circuit breakers
+continue to be manufactured and are
+primarily applied to achieve exact
+physical and electrical replacement of
+previously installed Cutler-Hammer/
+Westinghouse circuit breakers of the
+                                                                                                                                                                  10
+same style number and rating.
+Out-of-Production Westinghouse Circuit Breakers                                                                                                                   11
+These circuit breakers are no                                                                            FA             F             K
+longer manufactured.
+*Indicates the last date of manufacture.
+                                                                                                         TRI-PAC        TRI-PAC       TRI-PAC
+                                                                                                                                                                  12
+As an option, any of these circuit breakers
+can be reconditioned at the original
+factory. For details, see Page V12-T3-5,                                                                                                                          13
+or contact your local Eaton Field
+Sales office.
+                                                                                                                                                                  14
+                                                                                                                                                                  15
+                                                                                                         *1968          *1968         *1968
+                                                                                                         Width: 4.13
+                                                                                                         Height: 9.38
+                                                                                                                        Width: 4.63 Width: 8.25
+                                                                                                                        Height: 11.81 Height: 19.63
+                                                                                                                                                                  16
+                                                                                                         Depth: 3.19    Depth: 3.81   Depth: 4.06
+Out-of-Production Cutler-Hammer Circuit Breakers Last Manufactured by Eaton in 1994                                                                               17
+No Equivalent Cutler-Hammer Brand Frame Sizes Existed
+
+                                                                                                                                                                  18
+                                                                                                                                                                  19
+                                                                                                                                                                  20
+                                                                                                                                                                  21
+                                                                                                                                                                  22
+                                                                                                                                                                  23
+                                                                                                                                                                  24
+                                                                                                                                                                  25
+                        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                      V12-T3-13
+

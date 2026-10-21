@@ -1,0 +1,96 @@
+                                                                              Molded-Case Circuit Breakers
+                                                                                                    Replacement Capabilities
+                                                                                                                                                                3
+Type NBY
+■ Shaded area denotes obsolete or discontinued products and services. 1                                                                                                 1
+NBY: 240 Vac            Type NBY 700–1200A, 240V, 60 Hz AC 2, Three-Pole, Interchangeable Trip
+                                                                                      Complete Breaker         Shipped as Frame, Trip Unit and Terminals 4              2
+                        Continuous         Magnetic Trip Setting                      Includes Pressure Type
+                        Ampere Rating
+                        at 40°C
+                                           Amperes 3
+                                           Low                         High
+                                                                                      Aluminum Terminals 4
+                                                                                      Catalog Number
+                                                                                                               Frame Only
+                                                                                                               Catalog Number
+                                                                                                                                            Trip Unit Only
+                                                                                                                                            Catalog Number
+                                                                                                                                                                        3
+                        Three-Pole, 600 Vac Only
+                         700               3000                        6000           NBY3700                  NBY31200F                    HNB3700T
+                                                                                                                                                                        4
+                         800               3000                        6000           NBY3800                  NBY31200F                    HNB3800T
+                         900               4000                        8000           NBY3900                  NBY31200F                    HNB3900T                    5
+                         1200              4000                        8000           NBY31200                 NBY31200F                    HNB31200T
+                                                                                                                                                                        6
+UL Listed
+Interrupting Ratings
+                                         Terminals                                  Accessories                             50°C Calibration                            7
+                                         Two terminals are required                 and Modifications                       Add suffix “V” to catalog
+                                         per pole.                                                                          number for complete breaker
+                                                                                                                                                                        8
+Maximum                                                                             ■ Shaded area denotes
+Volts   Amperes                                                                     obsolete or discontinued                or trip unit only, when
+                                         Terminals are UL Listed for                                                        ordering for breakers to be
+240 AC     115,000 asymmetrical,         wire type and range listed                 products and services.
+                                                                                                                            used in 50°C ambients.
+           100,000 symmetrical
+                                         below. When used with
+                                                                                    Special Calibrations
+                                                                                                                                                                        9
+For all three-phase                      aluminum conductors, use                                                           Note: Not UL Listed.
+                                         joint compound.                            Special calibration price
+delta, grounded B phase
+applications, contact
+                                                                                    additions apply to ampere               For CSA, see                                10
+                                         Note: Terminals shipped                    ratings not listed as                   Page V12-T3-48.
+Avery Creek, NC, Technical               separately from breaker.                   standard or for ambients
+Resource Center at                                                                  other than 40°C or 50°C.                Type NBY breakers are                       11
+1-800-356-1243.                          Terminals                                  For frequencies other than              not defined by Federal
+                                                                                                                            Specification W-C-375b.
+                                                 Number
+                                                 of Cables,
+                                                                                    0–60 Hz AC (50 Hz AC
+                                                                                    minimum, 60 Hz AC
+                                                                                                                                                                        12
+                                                                                                                            Additional Accessories
+                                         Max.    Wire Range,            Catalog     maximum), refer to Eaton.               and Modifications
+                                         Amperes Type,                  Number      See Application Data 29-160
+                                                                                                                            Refer to Pages V12-T3-65–                   13
+                                         Standard Al/Cu                             for additional information
+                                                                                                                            V12-T3-79.
+                                         Pressure Terminals                         regarding special
+                                         1000      (3) 3/0–400 kcmil    TA1000NB1   conditions.                             Notes                                       14
+                                                                                                                            1 These frames are obsolete. For
+                                                   Al/Cu
+                                                                                    Note: Not UL Listed.
+                                                                                                                                                                        15
+                                                                                                                              replacement solutions, see the cross-
+                                         1200      (4) 4/0–500 kcmil    TA1200NB1                                             reference on Pages V12-T3-114–
+                                                   Al/Cu                                                                      V12-T3-167.
+                                                                                                                            2 Higher frequency calibration not
+
+                                                                                                                                                                        16
+                                         1200      (3) 500–750 kcmil TA1201NB1
+                                                   Al/Cu                                                                      available. Minimum of 50 Hz calibration
+                                                                                                                              available on special order.
+                                         Alternate Copper                                                                   3 Set on high side, adjustable to
+                                         Pressure Terminals
+                                         1000      (3) 3/0–500 kcmil    T1000NB1
+                                                                                                                              lower limits.
+                                                                                                                            4 Terminals shipped separately
+                                                                                                                                                                        17
+                                                   Cu                                                                         from breaker.
+                                         1200      (4) 3/0–400 kcmil    T1200NB1                                                                                        18
+                                                   Cu
+
+                                                                                                                                                                        19
+                                                                                                                                                                        20
+                                                                                                                                                                        21
+                                                                                                                                                                        22
+                                                                                                                                                                        23
+                                                                                                                                                                        24
+                                                                                                                                                                        25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                               V12-T3-45
+

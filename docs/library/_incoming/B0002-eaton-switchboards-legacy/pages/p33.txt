@@ -1,0 +1,67 @@
+     3                               Molded-Case Circuit Breakers
+                                     Replacement Capabilities
+
+
+
+     UL Listed Interrupting Ratings 1                                             Accessories and Modifications
+1    Maximum Volts                Amperes                                         ■ Shaded area denotes               UL Listed Interrupting
+                                                                                  obsolete or discontinued            Rating (see table)
+     240 AC                       30,000 asymmetrical, 25,000 symmetrical
+2    480 AC                       25,000 asymmetrical, 22,000 symmetrical
+                                                                                  products and services.              For all three-phase
+                                                                                                                      delta, grounded B phase
+     600 AC                       15,000 asymmetrical, 14,000 symmetrical          Special Calibrations               applications, contact
+3    250 DC                       10,000                                           Special calibration price          Avery Creek, NC, Technical
+                                                                                   additions apply to ampere          Resource Center at
+                                                                                   ratings not listed as              1-800-356-1243.
+4    Terminals                                                                     standard or for ambients
+                                                                                                                      Terminals (see table)
+     Maximum                      Number of Cables,             Catalog            other than 40°C or 50°C.
+                                                                                   For frequencies other than         Two terminals are required
+5
+     Amperes                      Wire Range, Type              Number
+     Standard Al/Cu Pressure Terminals                                             0–60 Hz AC, refer to Eaton.        per pole.
+                                                                                   Note: Not UL Listed.               Terminals are UL Listed for
+6
+     250                          (1) #4–350 kcmil Al/Cu        TA250KB
+     Optional Pressure Terminals                                                                                      wire type and range listed left.
+                                                                                   50°C Calibration                   When used with aluminum
+     250                          (1) #4–350 kcmil Cu           T250KB                                                conductors, use joint
+7    Note
+                                                                                   Add suffix “V” to catalog
+                                                                                   number for complete                compound. To order optional
+     1 Ratings above 10,000A not UL Listed.                                        breaker when ordering              copper only terminals, add
+8                                                                                  breakers to be used in 50°C        suffix “C” to complete
+                                                                                                                      breaker catalog number.
+                                                                                   ambients. Same price as
+                                                                                   standard 40°C breakers.
+9                                                                                  For CSA®, see
+                                                                                                                      Note: Terminals are shipped
+                                                                                                                      separately from breaker frame.
+                                                                                   Page V12-T3-48.
+10                                                                                Type JB breakers meet
+                                                                                                                      Magnetic Only Breakers
+                                                                                                                      For description, refer to
+                                                                                  requirements of Class 19a           Application Data 29-160.
+11                                                                                circuit breakers as defined
+                                                                                  by Federal Specification            Additional Accessories
+                                                                                  W-C-375b.                           and Modifications
+12                                                                                Note: Not UL Listed.
+                                                                                                                      Refer to Pages V12-T3-65–
+                                                                                                                      V12-T3-79.
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T3-20               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

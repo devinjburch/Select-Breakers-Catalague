@@ -1,0 +1,94 @@
+     3                               Molded-Case Circuit Breakers
+                                     Replacement Capabilities
+
+
+
+     Type CCV 120/240V Tenant Main Circuit Breaker                              Terminal Options
+1    10,000A and 25,000A Interrupting Capacity, 100–225A                        Terminal configurations available by adding the following
+                                               Interrupting Capacity            designator on the suffix:
+2                                              at 120/240 Vac                   W = No terminals
+                                               ●  Type CCV—10,000A rms
+                                                  symmetrical                   X = Load side terminals only
+3                                              ●  Type CCVH—25,000A rms         Y = Line side terminals only
+                                                  symmetrical
+                                                                                CCV as tenant main breaker with CC as aftermarket option.
+4                                              Handles
+                                               ● Trip-free with “ON-            Cross-Reference
+5                                                TRIPPED-OFF” positions.
+                                                 Reset past “OFF” is
+                                                                                CCV Catalog     CC Catalog          CCV Catalog       CC Catalog
+                                                                                Number          Number              Number            Number
+                                                 required to latch breaker
+6                                                contacts after tripping        CCV2100         CC2100              CCVH2100          CCH2100
+
+              Type CCV Two-Pole                                                 CCV2100W        CC2100W             CCVH2100W         CCH2100W
+                                               Terminals
+7               120/240V Tenant
+              Main Circuit Breaker             ●  Standard lugs (wire           CCV2100X        CC2100X             CCVH2100X         CCH2100X
+                                                  connectors) suitable for      CCV2100Y        CC2100Y             CCVH2100Y         CCH2100Y
+     Product Description                          either CU or AL wire
+8    Ratings
+                                                                                CCV2125         CC2125              CCVH2125          CCH2125
+
+     ● 120/240 Vac, two-pole,                  Standards                        CCV2125W        CC2125W             CCVH2125W         CCH2125W
+                                                  Complies with UL Standard
+9      through 225 continuous                  ●                                CCV2125X        CC2125X             CCVH2125X         CCH2125X
+       amperes, calibrated                        489, breakers are listed      CCV2125Y        CC2125Y             CCVH2125Y         CCH2125Y
+       at 40ºC                                    under UL File #E781
+10   Tripping Characteristics                  Backward Compatibility
+                                                                                CCV2150
+                                                                                CCV2150W
+                                                                                                CC2150
+                                                                                                CC2150W
+                                                                                                                    CCVH2150
+                                                                                                                    CCVH2150W
+                                                                                                                                      CCH2150
+                                                                                                                                      CCH2150W
+     ●  Thermal-magnetic trip,                 ● CCV and CCVH retains
+11
+                                                                                CCV2150X        CC2150X             CCVH2150X         CCH2150X
+        calibrated and sealed                    same profile and footprint
+        after assembly. Indirectly               of the CC and CCH breaker      CCV2150Y        CC2150Y             CCVH2150Y         CCH2150Y
+
+        heated thermal tripping                  allowing use in the            CCV2175         CC2175              CCVH2175          CCH2175
+12      bimetal elements                         same applications              CCV2175W        CC2175W             CCVH2175W         CCH2175W
+                                                                                CCV2175X        CC2175X             CCVH2175X         CCH2175X
+13   Product Selection
+                                                                                CCV2175Y        CC2175Y             CCVH2175Y         CCH2175Y
+     Ampere         Two-Pole Breaker
+                                                                                CCV2200         CC2200              CCVH2200          CCH2200
+14   Rating         Wire Size Range, Al/Cu       10,000 AIC     25,000 AIC
+                                                                                CCV2200W        CC2200W             CCVH2200W         CCH2200W
+     100            #2/0–300 kcmil               CCV2100        CCVH2100
+                                                                                CCV2200X        CC2200X             CCVH2200X         CCH2200X
+15   125            #2/0–300 kcmil               CCV2125        CCVH2125
+                                                                                CCV2200Y        CC2200Y             CCVH2200Y         CCH2200Y
+     150            #2/0–300 kcmil               CCV2150        CCVH2150
+                                                                                CCV2225         CC2225              CCVH2225          CCH2225
+16   175
+     200
+                    #2/0–300 kcmil
+                    #2/0–300 kcmil
+                                                 CCV2175
+                                                 CCV2200
+                                                                CCVH2175
+                                                                CCVH2200
+                                                                                CCV2225W        CC2225W             CCVH2225W         CCH2225W
+                                                                                CCV2225X        CC2225X             CCVH2225X         CCH2225X
+
+17
+     225            #2/0–300 kcmil               CCV2225        CCVH2225
+                                                                                CCV2225Y        CC2225Y             CCVH2225Y         CCH2225Y
+
+
+
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T3-18             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,104 @@
+     3                                Molded-Case Circuit Breakers
+                                      Replacement Capabilities
+
+
+
+     Replacement Breaker Cross-Reference
+1    Replacement Breaker                                   Replacements                                                              Notes
+     Catalog Number           Style Number      Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+2    HNCA21200F               2613D29G18        O          HNCA31200F               2613D29G17             ND212T32W                 1–3, 5, 8
+     HNCA31200F               2613D29G17        A          —                        —                      ND312T32W                 1–3, 5, 8
+3    HNCG31200F               1242C72G04        A          —                        —                      ND312T35W                 1–3, 5, 8
+     HNCGA31200F              1242C72G12        A          —                        —                      ND312T36W                 1–3, 5, 8
+
+4    JA2070                   371D957G02        O          —                        —                      JDB2070                   1–3, 5, 8, 9
+     JA2070A                  456D988G80        O          —                        —                      JDB2070                   1–3, 8, 9
+
+5    JA2070S                  657D791G46        O          —                        —                      JDB2070                   1–5, 8, 9
+     JA2070SW                 657D791G26        O          —                        —                      JDB2070W                  1–5, 8, 9
+
+6    JA2070W                  657D791G02        O          —                        —                      JDB2070W                  1–3, 5, 8, 9
+     JA2090                   371D957G03        O          —                        —                      JDB2090                   1–3, 5, 8, 9
+
+7    JA2090A                  456D988G81        O          —                        —                      JDB2090                   1–3, 8, 9
+     JA2090S                  657D791G47        O          —                        —                      JDB2090                   1–5, 8, 9
+
+8    JA2090SW
+     JA2090W
+                              657D791G27
+                              657D791G03
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           JDB2090W
+                                                                                                           JDB2090W
+                                                                                                                                     1–5, 8, 9
+                                                                                                                                     1–3, 5, 8, 9
+
+9
+     JA2100                   371D957G04        O          —                        —                      KDB2100                   1–3, 5, 8, 9
+     JA2100A                  456D988G82        O          —                        —                      KDB2100                   1–3, 8, 9
+     JA2100S                  657D791G48        O          —                        —                      KDB2100                   1–5, 8, 9
+10   JA2100SW                 657D791G28        O          —                        —                      KDB2100W                  1–5, 8, 9
+     JA2100W                  657D791G04        O          —                        —                      KDB2100W                  1–3, 5, 8, 9
+11   JA2125                   371D957G05        O          —                        —                      KDB2125                   1–3, 5, 8, 9
+     JA21250MW                371D957G67        O          —                        —                      HM2P400F5W                1–3, 8, 9
+12   JA21250SMW               NO STYLE          O          —                        —                      HM2P400F5W                1–4, 8, 9
+     JA2125A                  456D988G83        O          —                        —                      KDB2125                   1–3, 8, 9
+13   JA2125S                  657D791G49        O          —                        —                      KDB2125                   1–5, 8, 9
+     JA2125SW                 657D791G29        O          —                        —                      KDB2125W                  1–5, 8, 9
+14   JA2125W                  657D791G05        O          —                        —                      KDB2125W                  1–3, 5, 8, 9
+     JA2150                   371D957G06        O          —                        —                      KDB2150                   1–3, 5, 8, 9
+
+15   JA21500MW                371D957G68        O          —                        —                      HM2P400G5W                1–3, 8, 9
+     JA21500SMW               NO STYLE          O          —                        —                      HM2P400G5W                1–4, 8, 9
+
+16   JA2150A                  456D988G84        O          —                        —                      KDB2150                   1–3, 8, 9
+     JA2150S                  657D791G50        O          —                        —                      KDB2150                   1–5, 8, 9
+
+17   JA2150SW                 657D791G30        O          —                        —                      KDB2150W                  1–5, 8, 9
+     JA2150W                  657D791G06        O          —                        —                      KDB2150W                  1–3, 5, 8, 9
+
+18   JA2175                   371D957G07        O          —                        —                      KDB2175                   1–3, 5, 8, 9
+     JA21750MW                371D957G69        O          —                        —                      HM2P400J5W                1–3, 8, 9
+
+19   JA21750SMW
+     JA2175A
+                              NO STYLE
+                              456D988G85
+                                                O
+                                                O
+                                                           —
+                                                           —
+                                                                                    —
+                                                                                    —
+                                                                                                           HM2P400J5W
+                                                                                                           KDB2175
+                                                                                                                                     1–4, 8, 9
+                                                                                                                                     1–3, 8, 9
+
+20
+     JA2175S                  657D791G51        O          —                        —                      KDB2175                   1–5, 8, 9
+     JA2175SW                 657D791G31        O          —                        —                      KDB2175W                  1–5, 8, 9
+
+21
+     JA2175W                  657D791G07        O          —                        —                      KDB2175W                  1–3, 5, 8, 9
+     JA2200                   371D957G08        O          —                        —                      KDB2200                   1–3, 5, 8, 9
+     JA2200A                  456D988G86        O          —                        —                      KDB2200                   1–3, 8, 9
+22   JA2200S                  657D791G52        O          —                        —                      KDB2200                   1–5, 8, 9
+     JA2200SW                 657D791G32        O          —                        —                      KDB2200W                  1–5, 8, 9
+23   JA2200W                  657D791G08        O          —                        —                      KDB2200W                  1–3, 5, 8, 9
+     JA2225                   371D957G09        O          —                        —                      KDB2225                   1–3, 5, 8, 9
+24   JA22250MW                371D957G70        O          —                        —                      HM2P400L5W                1–3, 8, 9
+
+     Note
+25   1 O = Obsolete, A = Available.
+
+
+
+
+     V12-T3-132              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

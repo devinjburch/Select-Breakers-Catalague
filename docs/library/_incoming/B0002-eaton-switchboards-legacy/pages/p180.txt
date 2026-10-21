@@ -1,0 +1,94 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                             Replacement Capabilities
+                                                                                                                                               3
+Mining Breaker Replacement Cross-Reference
+Replacement Breaker                                            Replacements                                                                          1
+Mining and 1000V                                               MARK 75                     E2                          Notes
+Catalog Number                   Style Number    Status 1      Catalog Number              Style Number                (See Page V12-T3-114)
+                                                                                                                                                     2
+2609D60G28                       2609D60G28       A            —                           E2LEM36002WU66              1–3, 5, 7, 8
+2609D60G29
+2609D60G40
+                                 2609D60G29
+                                 2609D60G40
+                                                 A
+                                                  O
+                                                               —
+                                                               —
+                                                                                           E2NM3800WU66
+                                                                                           E2K3400MAW
+                                                                                                                       1–3, 5, 7, 8
+                                                                                                                       1–3, 5, 7, 8
+                                                                                                                                                     3
+2609D60G41
+2609D60G44
+                                 2609D60G41
+                                 2609D60G44
+                                                  O
+                                                  O
+                                                               —
+                                                               —
+                                                                                           E2K3400MDW
+                                                                                           E2LE3400MW
+                                                                                                                       1–3, 5, 7, 8
+                                                                                                                       1–3, 5, 7, 8
+                                                                                                                                                     4
+                                                                                                                                                     5
+2609D60G46                       2609D60G46       O            —                           E2N3800MW                   1–3, 5, 7, 8
+2609D60G47                       2609D60G47       O            —                           E2N3800MWU66                1–3, 5, 7, 8
+2609D60G48                       2609D60G48       O            —                           E2N3800MW                   1–3, 5, 7, 8
+2609D60G49                       2609D60G49       O            2609D60G58                  E2N3800MWU66                1–3, 5, 7, 8                  6
+2609D60G57                       2609D60G57       A            —                           E2NM3800MW                  1–3, 5, 7, 8
+2609D60G58                       2609D60G58       A            —                           E2NM312MW                   1–3, 5, 7, 8                  7
+2609D60G61                       2609D60G61       O            —                           E2LE3400MWS86               1–3, 5, 7, 8
+2609D60G63                       2609D60G63      O             —                           E2LE34002WU66               1–3, 5, 7, 8                  8
+2609D60G64                       2609D60G64       O            —                           E2K3400MAW                  1–3, 5, 7, 8
+2609D60G66                       2609D60G66       O            —                           E2K3400MAWS10               1–3, 5, 7, 8                  9
+2609D60G67                       2609D60G67       O            2609D60G70                  E2K3400MAW                  1–3, 5, 7, 8
+2609D60G69                       2609D60G69       O            —                           E2K3400MAWS10               1–3, 5, 7, 8                  10
+2609D60G70                       2609D60G70      A             —                           E2KEM3225MW                 1–3, 5, 7, 8
+2610D64G07                       2610D64G07      O             2610D64G13                  —                           —                             11
+2610D64G08                       2610D64G08      O             2610D64G13                  —                           —
+2610D64G09                       2610D64G09      O             2610D64G13                  —                           —                             12
+2610D64G10                       2610D64G10      O             2610D64G13                  —                           —
+5685D48G45                       5685D48G45      O             —                           E2FM100KMU13+
+                                                                                           625B229G08
+                                                                                                                       1–3, 5, 7, 8
+                                                                                                                                                     13
+5685D48G71                       5685D48G71      O             5685D48G83                  E2N3800W                    1–3, 5, 7, 8
+5685D48G72                       5685D48G72      O             5685D48G84                  E2N3600W                    1–3, 5, 7, 8                  14
+5685D48G73                       5685D48G73      O             5685D48G85                  E2LE3400W                   1–3, 5, 7, 8
+5685D48G74                       5685D48G74      O             5685D48G86                  E2K3225DW                   1–3, 5, 7, 8                  15
+5685D48G75                       5685D48G75      O             1291C26G12                  E2K3225AW                   1–3, 5, 7, 8
+5685D48G83                       5685D48G83      A             —                           E2NM3800W                   1–3, 5, 7, 8                  16
+5685D48G84                       5685D48G84      A             —                           E2LEM36002W                 1–3, 5, 7, 8
+5685D48G85                       5685D48G85      A             —                           E2KEM34002W                 1–3, 5, 7, 8                  17
+5685D48G86                       5685D48G86      A             —                           E2KEM3225W                  1–3, 5, 7, 8
+5685D48G87                       5685D48G87       A            —                           E2KEM3225W                  1–3, 5, 7, 8                  18
+5685D48G88                       5685D48G88       O            —                           E2FM100KM+                  1–3, 5, 7, 8
+
+                                                                                                                                                     19
+                                                                                           625B229G08
+5685D48G89                       5685D48G89       O            —                           E2FM050YM+                  1–3, 5, 7, 8
+                                                                                           625B229G08
+5685D48G90                       5685D48G90       O            —                           E2FM050YMU13                1–3, 5, 7, 8                  20
+2609D99G06                       2609D99G06      O             —                           —                           —
+5685D48G42                       5685D48G42      O             —                           —                           —                             21
+5685D48G36                       5685D48G36      O             —                           —                           —
+5685D48G30                       5685D48G30      O             —                           —                           —                             22
+5685D48G24                       5685D48G24      O             —                           —                           —
+5685D48G18                       5685D48G18      O             —                           —                           —
+                                                                                                                                                     23
+5685D48G12                       5685D48G12      O             —                           —                           —
+5685D48G06                       5685D48G06      O             —                           —                           —
+                                                                                                                                                     24
+Note
+
+                                                                                                                                                     25
+1 O = Obsolete, A = Available.
+
+
+
+
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com          V12-T3-167
+

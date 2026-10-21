@@ -1,0 +1,79 @@
+     24                             Counters, Panel Meters, Tachometers and Timers
+                                    Fusion Integrated Machine Control
+
+
+
+     General Specifications, continued
+1    Description                                   Specification
+     Outputs
+2    Power (AC input model only)                   24 Vdc ±15%, 100 mA max., short-circuit protected
+                                                   12 Vdc ±10%, 75 mA max., short-circuit protected
+3    Relays
+      Number                                       3 (Form C), 2 (Form A)
+
+4     Contacts                                     5 A, 250 Vac, 30 Vdc
+      Isolation                                    2300 Vac
+5    Transistors
+      Number                                       2
+
+6     Type                                         NPN Darlington
+      Ratings                                      150 mA max. ON current, 30 Vdc max. OFF voltage
+
+7    Analog
+      Number                                       2, short-circuit protected
+
+8     Type                                         4–20 mA (<450 ohms), 0–10 V (>2500 ohms)
+      Accuracy                                     ±0.5% FS and ±200 PPM/°C
+
+9     Common mode voltage rating
+      Isolation
+                                                   250 Vac
+                                                   2300 Vac
+
+10   RS-232
+      Connector                                    DB-9S
+
+
+11
+      Polarity                                     DCE
+      Baud rate                                    1200–19200
+     RS-485
+12    Connector                                    Six-wire RJ-12 phonejack
+
+      Baud rate                                    1200–19200
+13   Data Retention
+     Program data
+14    Type                                         Non-volatile
+
+      Duration                                     100 years, no batteries
+15   Real time clock
+      Type                                         Capacitor
+
+16    Charge time                                  Three minutes
+      Retention                                    1–5 days
+
+17   Human Interface
+     Display
+
+18    Type                                         128 x 64 pixel graphic LCD with LED backlight
+
+      Figure size                                  0.12 in (3 mm) high, 21 characters per line, 6 lines maximum
+
+19                                                 0.24 in (6 mm) high, 10 characters per line, 3 lines maximum
+                                                   0.35 in (9 mm) high, 7 characters per line, 2 lines maximum
+
+20   Keys
+                                                   18
+      Number
+
+21    Type
+     Real time clock format
+                                                   Membrane switches with tactile feedback
+                                                   Seconds, minutes, hours, day and date
+
+22
+23
+24
+25
+     V12-T24-94               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

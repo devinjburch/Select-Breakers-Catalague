@@ -1,0 +1,73 @@
+     23                        Pushbuttons and Indicating Lights
+                               Replacement Capabilities
+
+
+
+     Illuminated Pushbuttons, Non-Illuminated—UL (NEMA) Type 3, 3R, 4, 4X, 12, 13
+1    Will accept maximum of two contact blocks (four circuits) when used with supplied three-way adapter.
+
+2    25 mm Diameter Flush Lens
+                          E22 Series—Plastic Operators                                                                                      EM22 Series—Metal Operators
+
+3                         Black Bezel                                               Chrome Bezel                                            Chrome Bezel
+     Color                Catalog Number                                            Catalog Number                                          Catalog Number
+4    Red                  E22NB2                                                    E22N2                                                   EM22N2
+     Green                E22NB3                                                    E22N3                                                   EM22N3
+5    White                E22NB5                                                    E22N5                                                   EM22N5
+     Amber                E22NB9                                                    E22N9                                                   EM22N9
+
+6
+     25 mm Diameter Extended Lens
+
+7                         E22 Series—Plastic Operators                                                                                      EM22 Series—Metal Operators
+
+
+                          Black Bezel                                               Chrome Bezel                                            Chrome Bezel
+8    Color                Catalog Number                                            Catalog Number                                          Catalog Number
+     Red                  E22TB2                                                    E22T2                                                   EM22T2
+9    Green                E22TB3                                                    E22T3                                                   EM22T3
+     Amber                E22TB9                                                    E22T9                                                   EM22T9
+
+10
+     Alternate Action (Push-Push) Components
+11   Non-Illuminated Push-Push Operators
+     Will accept a maximum of two contact blocks when used with supplied three-way adapter, five-way mounting adapters are not to be used.
+12
+     Black Bezel       Flush, Non-Illuminated Push-Push Operators—UL (NEMA) Type 3, 3R, 4, 4X, 12, 13 1
+13                                                                       E22 Series—Plastic Operators
+                                                                         Black Bezel                                                  Chrome Bezel
+                       Color                                             Catalog Number                                               Catalog Number
+14                     Black                                             E22PPB1                                                      E22PP1
+                       White                                             E22PPB5                                                      E22PP5
+15   Chrome Bezel
+                       Gray                                              E22PPB7                                                      E22PP7
+
+
+16
+17
+18   Emergency Stop Components
+     Maximum of two contact blocks (four circuits) when used with supplied three-way adapter (unless otherwise noted).
+
+19   E22LTA2           Standard Emergency Stop and Emergency OFF Operators—UL (NEMA) Type 3, 3R, 4, 4X, 12, 13
+                                                                                         Button Diameter/                     Legend/                       Plastic—Black Bezel
+20                     Action                                               Color        Material                             Engraving                     Catalog Number
+                       Maintained                                           Red          40 mm/plastic                        —                             E22LTA2 2
+                       Trigger action
+21   E22LTA2N123       Twist-to-release
+                       Maintained                                           Red          40 mm/plastic                        EMO                           E22LTA2N123 2
+
+22                     Trigger action
+                       Twist-to-release
+
+                       Notes
+23                     1 In order to comply with NFPA 79 and IEC 60204-1 requirements: The colors black, white or gray shall be used for Push-Push operators that act alternately as
+
+                          START/ON and STOP/OFF pushbuttons. White shall be used for illuminated Push-Push operators. Push-Push operators shall only be used for functions that
+                          cannot result in a hazardous condition.
+24                        IEC 60204-1 recommends that Push-Push operators acting alternately as START/ON and STOP/OFF pushbuttons be marked with the IEC symbol for
+                          Push-Push pushbuttons.
+                       2 Compliant with EN418 Machinery Safety Directive.
+
+25
+     V12-T23-4        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

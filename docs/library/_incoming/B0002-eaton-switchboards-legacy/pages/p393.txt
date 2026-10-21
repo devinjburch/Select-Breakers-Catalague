@@ -1,0 +1,61 @@
+     13                          Motor Control
+                                 Contactors, Starters and Brakes
+
+
+
+     JF Autostarter                        Product History Time Line for JF Autostarter
+1    Originally a Westinghouse
+     Product                                 Type                 1930     1935     1940     1945   1950     1955    1960     1965 1975         1985   1995    2000 Present
+2                                            AF
+                                             A
+3                                            MB
+                                             JF
+4
+                                           Replacement Capabilities
+5     Start Kit—Style Number 550D409G18
+
+                                           Manual Autostarter Kits
+6                                          Frame                                  Start                                  Run                                    Grid
+                                           Size               Required            Contacts           Required            Contacts           Required            Stack Kit
+
+7                                          2–3                1                   38A7018G12         1                   38A7018G13         1                   3354D90G10
+                                           4–5, 5L            1                   550D409G18         1                   550D409G19         1                   3354D90G10
+
+8     Run Kit—Style Number 550D409G19
+                                           5M–5MM             1                   3354D90G08         1                   3354D90G09         2                   3354D90G10
+
+
+                                           Solenoid Assembly with Coil (All Sizes)
+9                                          Volt                                         Hz                                            Style 2
+                                           115                                          60                                            5264C05H01
+10                                         230                                          60                                            5264C05H02
+                                           460                                          60                                            5264C05H03
+11                                         575                                          60                                            5264C05H04
+      Grid Kit—Style Number 3354D90G10
+12   Product Description
+                                           Technology Upgrades
+                                           ECN42–ECN44 reduced voltage auto-transformer starter or IT. solid-state reduced voltage starter.
+     Kits contain a complete
+13   set of moving contacts,               Notes
+     stationary contacts                   1 When replacing solenoid assembly series 416C160, use adapter plate style 9917D02H01—quantity one required.
+
+     and springs.
+14
+                                           2 These styles replace coil style 296B892G_ _. When ordering new style as replacement, customer must order adapter plate 9917D02H01—
+
+                                             quantity one required.
+
+
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T13-56          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

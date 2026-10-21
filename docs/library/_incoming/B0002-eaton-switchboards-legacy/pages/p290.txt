@@ -1,0 +1,81 @@
+     10                           IQ Products
+                                  Current Products
+
+
+
+     IQ Energy Sentinels™                   Submetering application          Product Selection
+1                                           examples for the IQ Energy
+                                            Sentinel include energy          IQ Energy Sentinels Ordering Information
+                                            monitoring and demand
+2                                           management, product cost
+                                                                             Description
+                                                                                                                                             Catalog
+                                                                                                                                             Number
+                                            analysis, process/machine
+                                            tool efficiency and
+3                                           productivity improvement.
+                                                                             For F-Frame breakers
+                                                                             For J-Frame breakers
+                                                                                                                                             IQESF_ _ _ 1
+                                                                                                                                             IQESJ_ _ _ 1
+                                            Additional applications
+4
+                                                                             For K-Frame breakers                                            IQESK_ _ _ 1
+                                            include energy cost allocation
+            IQ Energy Sentinels             of tenant billing for            Universal with internal CTs                                     IQESUI_ _ _ 1
+     Eaton’s IQ Energy Sentinel             commercial, industrial,                                                                          IQESUE_ _ _ 1
+5
+                                                                             Universal for external CTs
+     is a highly accurate,                  recreational and residential
+     microprocessor-based                   facilities.                      Note
+                                                                             1 Final three characters of catalog number are for voltage rating,i.e., 2 0 8 for 120/240, 240,
+     submeter designed to monitor
+6    power and energy readings.
+                                            Retrofitting                       208Y/120 systems.
+
+     It represents an alternative to        The space-saving design
+                                            characteristics of the breaker
+7    installing separate wattmeters,
+     watthour meters and watt-              mount IQ Energy Sentinels
+     demand meters.                         allow them to be added to
+8    Key advantages include
+                                            existing Series C® circuit
+                                            breakers at any time—often
+     unmatched savings in                   with no additional space or
+9    space, lower installation              modifications required. Or,
+     costs, and the capability to           they may be installed when
+     communicate data readings              upgrading to Series C from
+10   in a variety of ways.                  older circuit breakers—often
+                                            with no additional space or
+     IQ Energy Sentinels                    modifications required.
+11   with built-in CTs and
+     communications have the                The Universal Mount IQ
+     added benefit of greater               Energy Sentinel with internal
+12   overall system accuracy.               CTs may be used wherever
+     Conventional metering often            breaker mounting is not
+     is less accurate because               feasible or possible.
+13   external CTs and separate
+     transducers may each have              The Universal Mount
+                                            IQ Energy Sentinel for
+14   inaccuracies of 1% or more.
+                                            external CTs may be used for
+     The IQ Energy Sentinel                 monitoring loads larger than
+15   provides a unique and
+     cost-effective method to
+                                            400A or for when the use of
+                                            existing CTs is desired.
+     implement energy
+16   submetering at lower
+     levels in the distribution
+     system economically.
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T10-26         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

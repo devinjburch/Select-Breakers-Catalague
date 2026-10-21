@@ -1,0 +1,68 @@
+                                                                                                                    Motor Control
+                                                                                                        Contactors, Starters and Brakes
+                                                                                                                                                                           13
+Kits for GCA 530/630, Sizes 5–9—and GPD Sizes 7–9 1
+Kit                           Size 5                  Size 6                Size 7                    Size 8                         Size 9                                                 1
+Contact kit (one per pole)    477B477G05 2            2066A10G11            461A757G17                646C829G05                     5264C42G01 (rear connected)
+                              —                       —                     —                         —                              5264C42G02 (front connected)                           2
+Arc box                       2050A15G45              2066A10G45            831D580G01                831D580G01                     9917D69G02
+Magnet assembly               2050A15G46              2050A15G46            N/A                       N/A                            N/A                                                    3
+Magnet spacing kit            2050A15G47              2050A15G47            N/A                       N/A                            N/A
+Arc cup kit                   2050A15G48              N/A                   N/A                       N/A                            N/A                                                    4
+Load connection kit           2050A15G49              2066A10G49            N/A                       N/A                            N/A
+Line connection kit           2050A15G50              2066A10G50            N/A                       N/A                            N/A                                                    5
+KO spring-6                   2050A15G51              2066A10G46            N/A                       N/A                            N/A
+CT 300/5                      655C285H03              N/A                   N/A                       N/A                            N/A                                                    6
+CT 400/5                      655C285H04              —                     —                         —                              —
+CT 600/5                      N/A                     2066A10G18 3          N/A                       N/A                            N/A
+                                                                                                                                                                                            7
+CT 800/5                      N/A                     2066A10G19 3          N/A                       N/A                            N/A
+Phase barrier                 N/A                     N/A                   640C441G01                640C441G01                     5264C35G03 (rear connected)
+                                                                                                                                                                                            8
+Cross bar                     2050A15G12              2066A10G15            N/A                       N/A                            N/A
+Shunt                         N/A                     2066A10G48            650C129G01                646C831G02 (set of three)      5264C39G02 (set of four)
+                                                                                                                                                                                            9
+Coils                                                                                    Coils
+Voltage                  Hz                  Size 5            Size 6                    Line Voltage                  Sizes 7–8              Required               Size 9                 10
+110/120                  60                  2050A14G05        2050A12G05                115 Vdc                       438C805G01             2                      100 Vdc
+110/120                  50                  2050A14G06        2050A12G06                125 Vdc                       438C805G04             2
+                                                                                                                                                                     5264C34G01
+                                                                                                                                                                     (contains coil
+                                                                                                                                                                                            11
+200/208                  50                  2050A14G07        2050A12G07                230 Vdc                       438C805G02             2                      and resistor)
+220/240                  50                  2050A14G08        2050A12G08                250 Vdc                       438C805G03             2                                             12
+200/208                  60                  2050A14G09        2050A12G09                110/120 Vac 47                438C805G12             2
+220/240                  60                  2050A14G10        2050A12G10                220/240 Vac 57                438C805G11             2                                             13
+277/303                  60                  2050A14G12        2050A12G12                380 Vac 67                    438C805G15             2
+380/415                  50                  2050A14G14        2050A12G14                440/480 Vac 67                438C805G10             2                                             14
+440/480                  60                  2050A14G15        2050A12G15                550/575 Vac 67                438C805G13             2
+440/480                  50                  2050A14G16        2050A12G16                Notes                                                                                              15
+550/600                  60                  2050A14G17        2050A12G17                1 Catalog No. A201/A200 Series replaces GCA/GPD Series. Renewal parts are the same.
+
+
+                                                                                                                                                                                            16
+                                                                                         2 Use 477B477G06 for Silver Tungsten applications.
+550/600                  50                  2050A14G18        2050A12G18
+                                                                                         3 CT Kit replaces the single molded one CT assembly used on the old Size 6 airbrake. The kit
+380/415                  60                  2050A14G19        2050A12G19                  includes a single molded three CT assembly, two busbars and hardware. This CT Kit also
+120/240                  60                  2050A14G20        2050A12G20                  replaces the single molded three CT assembly used on the present Size 6 airbrake and Size 6
+                                                                                           vacuum contactor.                                                                                17
+24 DC                    —                   2050A14G21        2050A12G21                4 Rectifier 125V 2018A40G01 (one required).
+
+
+                                                                                                                                                                                            18
+                                                                                         5 Rectifier 250V 2018A40G02 (one required).
+48 DC                    —                   2050A14G22        2050A12G22
+                                                                                         6 Rectifier 600V 2018A40G03 (one required).
+125 DC                   —                   2050A14G25        2050A12G25                7 These coils require an external rectifier. If the rectifier needs to be replaced, order by the
+
+250 DC                   —                   2050A14G27        2050A12G27                  appropriate style number.
+                                                                                                                                                                                            19
+                                                                                                                                                                                            20
+                                                                                                                                                                                            21
+                                                                                                                                                                                            22
+                                                                                                                                                                                            23
+                                                                                                                                                                                            24
+                                                                                                                                                                                            25
+                        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                          V12-T13-25
+

@@ -1,0 +1,77 @@
+     10                          IQ Products
+                                 Replacement Capabilities—Discontinued Product—Recommended Replacement
+
+
+
+     ■ Shaded area denotes obsolete or discontinued products and services.
+1
+     IQ 110/115 Electronic                 Features and Benefits              Product Selection
+2    Power Meters                          ●   Measure and display real-
+                                               time information about         IQ 110/115 Ordering Information
+                                               critical power parameters
+3                                              with a sampling rate of        Description
+                                                                                                                                    Catalog
+                                                                                                                                    Number
+                                               400 samples per cycle
+                                                                              Measures voltage and current                          IQ 110
+4                                          ●   Monitor power utilization
+                                               and quality with ANSI          Measures voltage, current and frequency               IQ 115
+                                               C12.20 accuracy (0.5%)
+5                                          ●   Verify meter accuracy with
+                                                                              Recommended Replacement
+                                                                              IQ 130/140
+                                               KYZ test pulse self-
+                                               certification capabilities
+6                                          ●   Optional Modbus RTU
+         IQ 110 Electronic Power Meter         communications
+7    General Description
+                                           ●   Available as transducer
+                                               only or with display
+     The IQ 100 Meter family
+8    provides capabilities you
+                                           ●   Designed to
+                                               accommodate upgrades
+     would not normally expect in
+     affordable, compact meters,
+                                           ●   Integrate into Eaton’s
+9    such as fast sampling rate                Power Xpert Architecture
+     and accurate metering for a               for a holistic system-
+                                               level view
+10   full range of power
+     attributes. Providing the first
+     line of defense against costly
+11   power problems, Eaton’s IQ
+     100 series electronic power
+     meters can perform the work
+12   of an entire wall of legacy
+     metering equipment utilizing
+     today’s technology.
+13
+     When space is at a premium,
+     yet you need ANSI C12.20
+14   accuracy, the IQ 100 series
+     fit the bill. These meters are
+     ideal for electrical equipment
+15   assemblies, machine control
+     panels, such as panelboard
+16   and switchboard mains and
+     feeders, low voltage metal-
+     enclosed switchgear feeders
+17   and motor control centers.
+     Requiring far less space than
+     other meters with similar
+18   functionality, IQ 100 series fit
+     into a standard ANSI or IEC
+     cutout on a panelboard or
+19   other electrical equipment,
+     and therefore fit easily into
+20   retrofit applications.
+
+
+21
+22
+23
+24
+25
+     V12-T10-40          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,75 @@
+                                                                                                                               Motor Control
+                                                                                                                Contactors, Starters and Brakes
+                                                                                                                                                                              13
+A200                                         Product History Time Line for A200, A201, A203, A204, A206, A210, A211, A213, A214, A216,
+Originally a Westinghouse
+                                             A220, A223, A224, A226, A250, A251, A600, A603, A604, A606, A700, A703, A704, A706, A800,                                                    1
+                                             A804 and A806
+Product
+                                                  Size       Model                                  1960     1965    1970      1975   1980      1985    1990   1995 2000 Present          2
+                                                  00–3       J
+                                                                                                                                                                                          3
+                                                  4          J
+                                                  4          K
+                                                                                                                                                                                          4
+                                                  5–6        Electrically held
+                                                  5–6        Mechanically held
+                                                                                                                                                                                          5
+                                                  7–8
+                                                  9                                                                                                                                       6
+                                             Replacement Capabilities                                                                                                                     7
+           A200 Size 1 Starter
+                                             Kits for Model J, Sizes 00, 0, 1 and 2 1
+                                             Description                                  Poles    Size 00            Size 0           Size 1             Size 2
+                                                                                                                                                                                          8
+                                                                                                                                                                                          9
+                                             Contact kit                                  2        373B331G17         373B331G02       373B331G07         373B331G11
+                                                                                          3        373B331G18         373B331G04       373B331G09         373B331G12
+                                                                                                                                                          373B331G13 2
+                                                                                                                                                                                          10
+                                                                                          4        373B331G18         373B331G04       373B331G09
+                                                                                          5        373B331G19         373B331G05       373B331G10         373B331G14 3
+     Contact Kit for A200 Model J,           Arc box 4                                    2–4      6714C74G01         6714C74G02       6714C74G03         6714C74G07 (two-, three-pole)
+        Size Two-, Three-Pole
+                                                                                          5        6714C74G04         6714C74G05       6714C74G06         6714C74G08 (four-, five-pole)   11
+                                             Cross bar                                    2–3      N/A                N/A              N/A                672B788G32
+                                                                                          4–5      N/A                N/A              N/A                672B788G34                      12
+                                             Upper base (for single rated coils only)     2–3      N/A                N/A               N/A               672B788G33
+                                                                                          4–5      N/A                N/A              N/A                672B788G35                      13
+                                             Lower base                                   2–3      N/A                N/A              N/A                1250C33G09
+                                                                                          4–5      N/A                N/A              N/A                1250C33G05                      14
+                                             KO spring (pk. of 10)                        All      N/A                N/A              N/A                503C796G01
+   A200 AC Coil, 120/110V, 60/50 Hz,
+Two-, Three-, Four-Pole, Sizes 00, 0 and 1
+                                             Terminal line/load (pk. of 3)                All      N/A                N/A              N/A                371B870G03                      15
+                                             AC Coils
+                                                                                                                                                                                          16
+                                                                                        Sizes 00, 0 and 1                                 Size 2
+
+                                                                                                                                                                                          17
+                                             Voltage                 Hz                 Two-, Three-, Four-Pole Five-Pole                 Two-, Three-Pole         Four-, Five-Pole
+                                             120/110                 60/50              505C806G01                  505C808G01            505C806G01               505C818G01
+
+                                                                                                                                                                                          18
+                                             208                     60                 505C806G02                  505C808G02            505C806G02               505C818G02
+                                             600/550                 60/50              505C806G05                  505C808G05            505C806G05               505C818G05
+                                             380                     50                 505C806G07                  505C808G07            505C806G07               505C818G07
+                                             240/220                 60/50              505C806G12                  505C808G12            505C806G12               505C818G12             19
+                                             480/440                 60/50              505C806G13                  505C808G13            505C806G13               505C818G13
+                                             24                      60                 505C806G16                  N/A                   505C806G16               505C818G15             20
+                                             277                     60                 505C806G18                  505C808G16            505C806G18               505C818G16
+                                             240/480 5               60/60              505C806G03                  505C808G03            505C806G03               505C818G03             21
+                                             120/240 5               60/60              505C806G10                  505C808G10            505C806G10               505C818G10
+
+                                             Notes                                                                                                                                        22
+                                             1 Model C contact kits and coils 00–4, two-, three-, four- and five-pole contactors are same as Model J.
+
+                                               All other parts are unavailable.
+                                             2 Use quantity two—373B331G11 (two-pole kit).                                                                                                23
+                                             3 Use one each of 373B331G11 (two-pole kit) and 373B331G12 (three-pole kit).
+                                             4 Mounting hardware included.
+                                             5 Dual voltage coils. Use only on contactors or starters originally supplied with a dual voltage coil.
+                                                                                                                                                                                          24
+                                                                                                                                                                                          25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                               V12-T13-23
+

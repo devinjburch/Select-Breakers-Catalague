@@ -1,0 +1,81 @@
+     3                        Molded-Case Circuit Breakers
+                              Replacement Capabilities
+
+
+
+     Types LCG, LCCG, LCGA,             ■ Shaded area denotes obsolete or discontinued products and services. 1
+1    LCCGA, MARK 75 HLCG,               Breakers for Standard Application—Frame Only
+     HLCCG, HLCGA, HLCCGA                               Standard (Long Delay,                   Long Delay, Short Time, Adjustable             Ground Fault Characteristics
+2    SELTRONIC with Built-In
+     Ground Fault Protection
+                                        Number
+                                        of Poles 2
+                                                        Short Time) and Ground Fault Trip
+                                                        Catalog Number
+                                                                                                Short Delay Time and Ground Fault Trip         Pickup Setting
+                                                                                                                                               Amperes
+                                                                                                                                                                 Time
+                                                                                                                                                                 Setting
+     Complete breaker requires
+3    frame and rating plug. See
+                                        Types LCG 150 and LCGA 150 (75–150A) 3
+                                        3               LCG3150F                                LCGA3150F                                      50–150            3.5–30 Cy
+     the table and terminals on
+     Page V12-T3-60. Extra current
+4
+                                        MARK 75 Types HLCG 150 and HLCGA 150 (75–150A) 3
+     transformer included for           3               HLCG3150F                               HLCGA3150F                                     50–150            3.5–30 Cy
+     neutral. See accessories on
+                                        Types LCG 300 and LCGA 300 (150–300A) 3
+5    Page V12-T3-65 for remote
+     ground fault trip indicator.       3               LCG3300F                                LCGA3300F                                      60–300            3.5–30 Cy
+                                        MARK 75 Types HLCG 300 and HLCGA 300 (150–300A) 3
+6    ■ Shaded area denotes
+     obsolete or discontinued           3               HLCG3300F                               HLCGA3300F                                     60–300            3.5–30 Cy
+     products and services.             Types LCG 400 and LCGA 400 (200–400A) 3
+7    Note: Available without extra
+                                        3               LCG3400F                                LCGA3400F                                      0–400             3.5–30 Cy
+     CT for neutral. Order by           MARK 75 Types HLCG 400 and HLCGA 400 (200–400A) 3
+8    description as similar to above
+     except without neutral CT or
+                                        3               HLCG3400F                               HLCGA3400F                                     80–400            3.5–30 Cy
+     external CT terminal               Types LCG 600 and LCGA 600 (300–600 Amperes) 3
+9    connections at same price.
+     Note the standard ground fault
+                                        3               LCG3600F                                LCGA3600F                                      120–600           3.5–30 Cy
+     unit can also be used without      MARK 75 Types HLCG 600 and HLCGA 600 (300–600A) 3
+10   the neutral CT.                    3               HLCG3600F                               HLCGA3600F                                     120–600           3.5–30 Cy
+
+     Note: These breakers use
+11   LC terminals. The fourth
+     CT uses MC breaker terminals,
+                                        Breakers for Application at 100% Rating—Frame Only
+                                                       Standard (Long Delay,                    Long Delay, Short Time, Adjustable             Ground Fault Characteristics
+     Page V12-T3-53.                                   Short Time) and Ground Fault Trip        Short Delay Time and Ground Fault Trip
+12
+                                        Number                                                                                                 Pickup Setting    Time
+                                        of Poles 2     Catalog Number                                                                          Amperes           Setting
+                                        Types LCCG 600 and LCCGA 600 (300–600A) 3
+13                                      3              LCCG3600F                                LCCGA3600F                                     120–600           3.5–30 Cy
+                                        MARK 75 Types HLCCG 600 and HLCCGA 600 (300–600A) 3
+14                                      3              HLCCG3600F                               HLCCGA3600F                                    120–600           3.5–30 Cy
+
+                                        Notes
+15                                      1 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167.
+                                        2 Two-pole breakers supplied in three-pole frames with current carrying parts omitted from center pole.
+                                        3 For applications other than standard residual scheme, see Application Data 29-160.
+
+16                                      MARK 75 frame color changed from gray to black in mid-2002.
+
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T3-50         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

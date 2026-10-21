@@ -1,0 +1,105 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                   3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                           1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+HLB2175TA                5680D04G36       O          —                        —                      —                         2, 8                        2
+HLB2200                  179C848G07       O          —                        —                      KD2200                    1–3, 5, 8, 9
+HLB2200T                 5680D04G13       O          —                        —                      —                         2, 8                        3
+HLB2200TA                5680D04G37       O          —                        —                      —                         2, 8
+HLB2225                  179C848G08       O          —                        —                      KD2225                    1–3, 5, 8, 9                4
+HLB22250TM               5680D04G59       O          —                        —                      —                         2, 8
+HLB2225T                 5680D04G14       O          —                        —                      —                         2, 8
+                                                                                                                                                           5
+HLB2225TA                5680D04G38       O          —                        —                      —                         2, 8
+HLB2250                  179C848G09       O          —                        —                      KD2250                    1–3, 5, 8, 9
+                                                                                                                                                           6
+HLB2250T                 5680D04G15       O          —                        —                      —                         2, 8
+HLB2250TA
+HLB2300
+                         5680D04G39
+                         179C848G10
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     —
+                                                                                                     KD2300
+                                                                                                                               2, 8
+                                                                                                                               1–3, 5, 8, 9
+                                                                                                                                                           7
+HLB23000TM
+HLB2300T
+                         5680D04G60
+                         5680D04G16
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     —
+                                                                                                     —
+                                                                                                                               2, 8
+                                                                                                                               2, 8
+                                                                                                                                                           8
+                                                                                                                                                           9
+HLB2300TA                5680D04G40       O          —                        —                      —                         2, 8
+HLB2350                  179C848G11       O          —                        —                      KD2350                    1–3, 5, 8, 9
+HLB2350TA                5680D04G41       O          —                        —                      —                         2, 8
+HLB2400                  179C848G12       O          —                        —                      KD2400                    1–3, 5, 8, 9                10
+HLB24000TM               5680D04G61       O          —                        —                      —                         2, 8
+HLB2400F                 5680D03G09       O          —                        —                      KD2400F                   1–3, 5, 8, 9                11
+HLB2400T                 5680D04G18       O          —                        —                      —                         2, 8
+HLB2400TA                5680D04G42       O          —                        —                      —                         2, 8                        12
+HLB2700TM                5680D04G55       O          —                        —                      —                         2, 8
+HLB3070T                 5680D04G19       O          —                        —                      —                         2, 8                        13
+HLB3070TA                5680D04G43       O          —                        —                      —                         2, 8
+HLB3090T                 5680D04G20       O          —                        —                      —                         2, 8                        14
+HLB3090TA                5680D04G44       O          —                        —                      —                         2, 8
+HLB3100T                 5680D04G21       O          —                        —                      —                         2, 8                        15
+HLB3100TA                5680D04G45       O          —                        —                      —                         2, 8
+HLB3125                  179C848G19       O          —                        —                      KD3125                    1–3, 5, 8, 9                16
+HLB31250TM               5680D04G63       O          —                        —                      —                         2, 8
+HLB3125T                 5680D04G22       O          —                        —                      —                         2, 8
+                                                                                                                                                           17
+HLB3125TA                5680D04G46       O          —                        —                      —                         2, 8
+HLB3150                  179C848G20       O          —                        —                      KD3150                    1–3, 5, 8, 9
+                                                                                                                                                           18
+HLB31500TM               5680D04G64       O          —                        —                      —                         2, 8
+HLB3150T
+HLB3150TA
+                         5680D04G23
+                         5680D04G47
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     —
+                                                                                                     —
+                                                                                                                               2, 8
+                                                                                                                               2, 8
+                                                                                                                                                           19
+                                                                                                                                                           20
+HLB3175                  179C848G21       O          —                        —                      KD3175                    1–3, 5, 8, 9
+HLB31750TM               5680D04G65       O          —                        —                      —                         2, 8
+HLB3175T                 5680D04G24       O          —                        —                      —                         2, 8
+HLB3175TA                5680D04G48       O          —                        —                      —                         2, 8
+                                                                                                                                                           21
+HLB3200                  179C848G22       O          —                        —                      KD3200                    1–3, 5, 8, 9
+HLB3200T                 5680D04G25       O          —                        —                      —                         2, 8                        22
+HLB3200TA                5680D04G49       O          —                        —                      —                         2, 8
+HLB3225                  179C848G23       O          —                        —                      KD3225                    1–3, 5, 8, 9                23
+HLB32250TM               5680D04G66       O          —                        —                      —                         2, 8
+HLB3225T                 5680D04G26       O          —                        —                      —                         2, 8                        24
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                           25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                V12-T3-127
+

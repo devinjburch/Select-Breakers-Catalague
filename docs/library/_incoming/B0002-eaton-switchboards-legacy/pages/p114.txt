@@ -1,0 +1,97 @@
+                                                                    Molded-Case Circuit Breakers
+                                                                                                         Replacement Capabilities
+                                                                                                                                                                3
+Type SM Safety Handle                                   Type SM Safety Handle Mechanism Catalog Numbers
+                                                                                                                                     Catalog Number 1                1
+                                                                                                                                     Right-Hand     Left-Hand
+                                                                                                                                     Mounting
+                                                                                                                                     Enclosure
+                                                                                                                                                    Mounting
+                                                                                                                                                    Enclosure        2
+                                                                                                                                     Cover Hinged   Cover Hinged
+
+                                                                                                                                                                     3
+                                                        Handle Mechanism for Use With:                                               On Left        On Right
+                                                        Series C—F-Frame, MCP, HMCP F, EB, EHB, FB, HFB breakers,                    SM150R         SM150L
+                                                        and Type DS 30, 60, 100A non-fusible switches
+                                                        Type DS 30, 60, 100A fusible switches                                        SM100SFR       SM100SFL         4
+                                                        FB TRI-PAC, FB breaker with current limiter, or Type FCL                     SM101PR        SM101PL
+                                                        30, 60, 100A DE-ION switches                                                 SM100R         SM100L           5
+                                                        DA, JA, KA, HKA, LB, LBB, HLB breakers                                       SM225R         SM225L
+                                                        Series C—J-Frame, HMCP J                                                     SM250JR        SM250JL          6
+                                                        Series C—K-Frame, HMCP K                                                     SM400KR        SM400KL
+
+ Enclosed Breaker with SM Handle                        LAB, LA, HLA, LC, HLC breakers (400 and 600A)                                SM400R         SM400L           7
+Type SM safety handle                                   Series C—L-Frame, HMCP L, MDL                                                SM600R         SM600L
+mechanism is designed
+to prevent tampering by
+                                                        Series C—M-Frame, MD, MDS                                                    SM800R         SM800L
+                                                                                                                                                                     8
+                                                        MA, HMA, MC, HMC breakers                                                    SM800R         SM800L
+unauthorized individuals
+and provides the optimum                                TRI-PAC LA breaker                                                           SM400PR        SM400PL
+                                                                                                                                                                     9
+in personnel safety. When                               TRI-PAC NB                                                                   SM800PR        SM800PL
+properly applied, these
+mechanisms conform
+                                                        NB, HNB, NC, HNC breakers
+                                                        Type DS 200A non-fusible switch
+                                                                                                                                     SM1200R
+                                                                                                                                     SM200SR
+                                                                                                                                                    SM1200L
+                                                                                                                                                    SM200SL
+                                                                                                                                                                     10
+to Type 12 and J.I.C.
+requirements, and are
+                                                                                                                                                                     11
+                                                        Type DS 200A fusible switch                                                  SM200SFR       SM200SFL
+well-suited for use by the                              Type LCL                                                                     SM400LCLR      SM400LCLL
+automotive and machine
+tool industries.                                                                                                                                                     12
+Completely preassembled                                 Further Information
+in a rugged cast housing,
+the Type SM safety handle
+                                                        Publication
+                                                        Number                    Description
+                                                                                                                                                                     13
+mechanism includes a
+predrilled mounting plate
+for simplified customer
+                                                        IL 14439
+                                                        IL 29C274
+                                                                                  F-Frame, EB, EHB, FB, FCL, HFB, MCP, FB-P, 30–100A DS switch
+                                                                                  J- and K-Frame
+                                                                                                                                                                     14
+installation. Standard handles
+                                                                                                                                                                     15
+                                                        IL 29C284                 L-Frame
+are 5.125 inches long and
+                                                        IL 13282                  JA, KA, JB, KB, LAB, LA, MA, NB, HLA, NB-P, 200A DS switch
+can be padlocked in the OFF
+position with as many as                                IL 13327                  DH1L door hardware
+three padlocks. A shorter                               IL 13326                  DH1R door hardware                                                                 16
+handle 3.875 inches long                                IL 13325                  DH2R door hardware
+can be supplied on SM100,
+SM101 or SM150                                          IL 13324                  DH3L door hardware                                                                 17
+mechanisms when specified.                              IL 13322                  DH3R door hardware
+
+All Type SM safety handle                               IL 13287                  Electrical interlock                                                               18
+mechanisms can be used on                               Notes
+any size enclosure. Order
+handle mechanism from the
+                                                        1 Must be ordered with door hardware; if not, door-operated defeater kit is required.                        19
+                                                        Mechanisms for Type 4 Applications—Mechanisms with stainless steel parts and special gasketing can
+table at right, plus desired
+                                                                                                                                                                     20
+                                                        be supplied. Order by description. 30% adder.
+door hardware for complete
+application. Dress nameplate
+required to meet automotive
+specifications is available                                                                                                                                          21
+from accessories section.
+                                                                                                                                                                     22
+                                                                                                                                                                     23
+                                                                                                                                                                     24
+                                                                                                                                                                     25
+                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                               V12-T3-101
+

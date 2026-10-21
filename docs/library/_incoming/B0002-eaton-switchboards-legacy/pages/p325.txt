@@ -1,0 +1,57 @@
+     11                              Communication Systems
+                                     Communication Hardware
+
+
+
+     Power Xpert Gateway 400E/600E/800E
+1
+2
+3
+4
+5
+                           COM 1 Port:                     INCOM Port:                       RJ-45                USB Connection
+      24 Vdc               RS-485 Connection for           RS-485 Connection    RJ-45        Connection                            Power and Traffic
+6
+                                                                                                                  for Local
+      Input Power          up to Either (32) QCPort        for up to 64 INCOM   Connection   to the Other                          Indicator Lights
+                                                                                                                  Configuration
+                           or Modbus RTU Devices           Devices              to the LAN   Ethernet Devices     Capability
+
+7
+                                                                                                                                       Data and Link
+
+8
+                                                                                                                                       Indicator Lights:
+                                                                                                                                       Available Only
+                                                                                                                                       with 800E
+       COM 2 Port: Either
+9      RS-485
+       or RS-232
+       Connection
+
+10     for up to Either (32)
+       QCPort or Modbus
+       RTU Devices
+
+11                                Wireless antenna available only with
+                                  800E for communication to SAM3Z device
+                                                                                                            PXG 600E or 800E
+
+
+
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T11-18                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

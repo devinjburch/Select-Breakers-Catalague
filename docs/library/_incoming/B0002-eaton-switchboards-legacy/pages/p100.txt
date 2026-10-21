@@ -1,0 +1,113 @@
+                                                                        Molded-Case Circuit Breakers
+                                                                                                   Replacement Capabilities
+                                                                                                                                                            3
+■ Shaded area denotes obsolete or discontinued products and services. 1
+
+Type RHLM               Panelboard Replacement Circuit Breakers (Includes Terminals on Load Side Only)                                                            1
+                        Continuous Ampere                          Catalog Number
+                        Rating at 40°C                             Two-Pole, 600 Vac                           Three-Pole, 600 Vac                                2
+                        Type RHLM Two-, Three-Pole, 600 Vac Maximum, Thermal-Magnetic
+                        125                                        RHLM2125                                    RHLM3125                                           3
+                        150                                        RHLM2150                                    RHLM3150
+                        175                                        RHLM2175                                    RHLM3175                                           4
+                        200                                        RHLM2200                                    RHLM3200
+                        225                                        RHLM2225                                    RHLM3225
+                                                                                                                                                                  5
+                        250                                        RHLM2250                                    RHLM3250
+                        275                                        RHLM2275                                    RHLM3275
+                                                                                                                                                                  6
+                        300                                        RHLM2300                                    RHLM3300
+                        325
+                        350
+                                                                   RHLM2325
+                                                                   RHLM2350
+                                                                                                               RHLM3325
+                                                                                                               RHLM3350
+                                                                                                                                                                  7
+                        400
+                        450
+                                                                   RHLM2400
+                                                                   RHLM2450
+                                                                                                               RHLM3400
+                                                                                                               RHLM3450
+                                                                                                                                                                  8
+                                                                                                                                                                  9
+                        500                                        RHLM2500                                    RHLM3500
+                        550                                        RHLM2550                                    RHLM3550
+                        600                                        RHLM2600                                    RHLM3600
+                        600 MCS                                    RHLM2600K                                   RHLM3600K                                          10
+                        700                                        RHLM2700                                    RHLM3700
+                        800                                        RHLM2800                                    RHLM3800                                           11
+Accessories and                             50°C Calibration                     Panelboard and Switchboard                                                       12
+Modifications                               Add suffix “V” to catalog            Replacement Breaker
+                                            number for breakers to be
+All accessories and
+modifications available for                 used in 50°C ambients.
+                                                                                 Ordering Instructions
+                                                                                    1. Choose the breaker
+                                                                                                                                                                  13
+replacement breakers types                  Same price as standard                     frame and amperage.
+KA, LA and MA are also                      40°C breakers.
+                                                                                    2. Select the proper                                 2000–2009
+                                                                                                                                                                  14
+available for panelboard                    Note: Not UL Listed.
+replacement breakers types                                                             connector kit (if needed).
+RJ, RK, RKL, RLM, RHK,
+                                            Special Breakers                        3. Call your local distributor
+                                                                                                                                                                  15
+RHKL and RHLM.                                                                         with catalog numbers
+                                            Magnetic only (includes
+For additional accessories                  load terminals). Available                 and request Eaton’s Free
+                                                                                       Express Service.
+                                                                                                                                      2009–Present                16
+and modifications, refer to                 for all ampere ratings for
+Pages V12-T3-65–                            two- and three-pole RJ,
+V12-T3-79.                                  RK, RKL, RLM, RHK, RHKL
+                                                                                 Compatible with Panelboards
+                                                                                 and Switchboards from:
+                                                                                                                        Connector Kits for Pow-R-
+                                                                                                                        Line 4 Panelboards and                    17
+                                            and RHLM.                             Westinghouse Distribution             Pow-R-Line C Switchboards
+Terminals
+                                            High magnetic molded-                 and Control Business Unit             Breaker      Catalog Number               18
+Panelboard                                  case switches (K suffix) are                       1987–1998
+                                                                                                                        Type         Single      Twin
+
+                                                                                                                                                                  19
+Circuit                                     available to replace out-of-                                                F-Frame      —               KPRL4FD
+Breakers     Terminals 2
+                                            production non-automatic                                                    J-Frame      KPRL4JDS        KPRL4JDT
+RJ           TA225LA1                       breakers (N suffix).
+RK           TA225LA1                       Note: Not UL Listed.
+                                                                                                                        K-Frame      KPRL4KDS        KPRL4KDT
+                                                                                                                                                                  20
+                                                                                                                        L-Frame      KPRL4LD         —
+RHK          TA225LA1
+RKL          TA400LA1
+                                                                                                                        M-Frame
+                                                                                                                        N-Frame
+                                                                                                                                     KPRL4MC
+                                                                                                                                     KPRL4ND
+                                                                                                                                                     —
+                                                                                                                                                     —
+                                                                                                                                                                  21
+RHKL         TA400LA1
+RLM          TA700MA1 (for <600A)                                                              1991–1998                For further information,
+                                                                                                                        reference Page V12-T3-168
+                                                                                                                                                                  22
+RHLM         TA800MA1 (for 700–800A)
+                                                                                                                        in this catalog.
+                                                                                                                        Notes
+                                                                                                                                                                  23
+                                                                                                                        1 These frames are obsolete. For
+
+                                                                                                                          replacement solutions, see the cross-
+                                                                                                                          reference on Pages V12-T3-114–
+                                                                                                                                                                  24
+                                                                                                                          V12-T3-167 or call 803-481-6843 for
+
+                                                                                               1994–2000
+                                                                                                                          other panelboard solutions.
+                                                                                                                        2 Packaged individually.                  25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                            V12-T3-87
+

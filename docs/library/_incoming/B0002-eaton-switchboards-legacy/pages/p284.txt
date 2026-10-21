@@ -1,0 +1,73 @@
+     10                          IQ Products
+                                 Technology Upgrades
+
+
+
+     IQ 130/140/150 Series                 Catalog Number Selection
+1    Electronic Power Meters
+                                           IQ 130/140/150 Meters
+2                                                                           IQ 150 M A 6 5 1 1
+3                                                      Model Series                                                        Communications
+                                                     130 = Volts/amps                   Frequency                 0 = None
+4                                                    140 = Power
+                                                     150 = Energy
+                                                                                     5 = 50 Hz system             1 = Modbus RTU and KYZ pulse
+                                                                                                                  2 = Modbus TCP and KYZ output (RJ45)
+                                                                                     6 = 60 Hz system
+
+5                                                     Meter Type                            Current Input       Power Supply
+                                             M = Meter (with integral display)            1 = 1A secondary   1 = 90–265 Vac/Vdc
+                                                                                                             4 = 24–48 Vdc
+6
+                                             T = Transducer only (no display)             5 = 5A secondary
+        IQ 100 Electronic Power Meter
+
+     General Description
+                                           Accessories
+7    The IQ 100 Meter family
+     provides capabilities you
+     would not normally expect in          IQ 130/140/150 Meters
+8    affordable, compact meters,                                                                                    Catalog
+     such as fast sampling rate            Description                                                              Number
+     and accurate metering for a
+9    full range of power attributes.
+                                           Panel Mounting Adapter for retrofitting an IQ 100 to an
+                                           IQ Analyzer/IQ DP-4000/IQ Data Cutout
+                                                                                                                    IQ250-PMAK
+
+     Providing the first line of
+     defense against costly power
+10   problems, Eaton’s IQ 100
+     series electronic power
+11   meters can perform the work
+     of an entire wall of legacy
+     metering equipment utilizing
+12   today’s technology.
+     When space is at a premium,
+13   yet you need ANSI C12.20
+     accuracy, the IQ 100 series
+     fit the bill. These meters are
+14   ideal for electrical equipment
+     assemblies, machine control
+     panels, such as panelboard
+15   and switchboard mains and
+     feeders, low voltage metal-
+16   enclosed switchgear feeders
+     and motor control centers.
+     Requiring far less space than
+17   other meters with similar
+     functionality, IQ 100 series fit
+     into a standard ANSI or IEC
+18   cutout on a panelboard or
+     other electrical equipment,
+     and therefore fit easily into
+19   retrofit applications.
+
+20
+21
+22
+23
+24
+25
+     V12-T10-20           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

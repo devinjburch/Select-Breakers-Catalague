@@ -1,0 +1,82 @@
+Appendix 2—Alphabetical Product Index
+
+Digitrip Retrofit Kits Further Information . . . . . . . . . . . . . V12-T17-52                    Distribution Switchboards (Low Voltage), continued
+Digitrip Retrofit Kits Pricing Information . . . . . . . . . . . . . V12-T17-52                           Product Description . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-2
+Digitrip RMS 810 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T11-11                 Product History . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-2
+Digitrip RMS 910 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T11-11                 Product History Time Line . . . . . . . . . . . . . . . . . . . . . V12-T15-2
+Digitrip RMS Retrofit Kit Catalog Numbering System                                                        WF/WRP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-5
+                                                                                                          WRI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-3
+      Allis-Chalmers LA Breakers. . . . . . . . . . . . . . . . . . . V12-T17-42
+      Federal Pacific Breakers . . . . . . . . . . . . . . . . . . . . . V12-T17-50                Distribution System Overview . . . . . . . . . . . . . . . V12-T2-2–V12-T2-4
+      General Electric AK Breakers . . . . . . . . . . . . . . . . . V12-T17-38                    DK Molded-Case Circuit Breakers . . . . . . . . . . . . . . . . . . V12-T3-116
+      General Electric AL Breakers . . . . . . . . . . . . . . . . . V12-T17-39                    DK Series C Breaker . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-11
+      ITE K-Line Breakers. . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-44              DK-15 Westinghouse Breaker . . . . . . . . . . . . . . . . . . . . . V12-T17-30
+      Other Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-51            DK-25 Westinghouse Breaker . . . . . . . . . . . . . . . . . . . . . V12-T17-30
+      Other ITE Breakers . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-46              DN . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-3
+      Siemens and Siemens-Allis Breakers . . . . . . . . . . . V12-T17-48                          DN65 DeviceNet Interface Module
+      Westinghouse DA/DK Breakers . . . . . . . . . . . . . . . V12-T17-30                          for MCC Upgrades . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T14-14
+      Westinghouse DB Breakers . . . . . . . . . . . . . . . . . . V12-T17-32                      DP-4000 . . . . . . . . . . . . . . . . . V12-T10-36, V12-T13-93, V12-T13-95
+      Westinghouse DS Breakers . . . . . . . . . . . . . . . . . . V12-T17-34                      DPM Definite Purpose Contactor . . . . . . . . . . . . . . . . . . V12-T13-65
+      Westinghouse SPB Breakers . . . . . . . . . . . . . . . . . V12-T17-36                       Drawout Mounting Breakers . . . . . . . . . . . . . . . . . . . . . . . V12-T3-57
+Digitrip RMS Retrofit Kits                                                                         Drip Hoods — Meter Centers . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2
+      Allis-Chalmers LA Breakers. . . . . . . . . . . . . . . . . . . V12-T17-42                   Drives — see Adjustable Frequency Drives
+      Federal Pacific Breakers . . . . . . . . . . . . . . . . . . . . . V12-T17-50                Dry-Type Distribution Transformers. . . . . . . . . . . . . . . . . . . V12-T8-2
+      General Electric AK Breakers . . . . . . . . . . . . . . . . . V12-T17-38
+                                                                                                          DS-3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      General Electric AL Breakers . . . . . . . . . . . . . . . . . V12-T17-39
+                                                                                                          DT-3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      ITE K-Line Breakers. . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-44
+                                                                                                          EP . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Other Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-51
+                                                                                                          EPT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Other General Electric Breakers . . . . . . . . . . . . . . . V12-T17-40
+                                                                                                          KT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Other ITE Breakers . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-46
+                                                                                                          MD. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Siemens and Siemens-Allis Breakers . . . . . . . . . . . V12-T17-48                                 MPC. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Westinghouse DA and DK Breakers . . . . . . . . . . . . V12-T17-30                                  MTA . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Westinghouse DB Breakers . . . . . . . . . . . . . . . . . . V12-T17-32                             MTC . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Westinghouse DS Breakers . . . . . . . . . . . . . . . . . . V12-T17-34                             NEMA TP-1 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Westinghouse SPB Breakers . . . . . . . . . . . . . . . . . V12-T17-36
+                                                                                                   DS and DSL-206 Westinghouse Breaker. . . . . . . . . . . . . V12-T17-34
+Digitrip RMS Trip Unit Replacement . . . . . . V12-T17-21, V12-T17-22
+                                                                                                   DS and DSL-416 Westinghouse Breaker. . . . . . . . . . . . . V12-T17-34
+Digitrip Trip Unit Retrofit Kit
+                                                                                                   DS Breaker Class 1 Reconditioning . . . . . . . . . . . . . . . . . . V12-T15-3
+      DB Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-3
+                                                                                                   DS Breaker Parts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-5
+      DS Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-5
+                                                                                                   DS Breaker Standard Retrofit RMS
+      DSII Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-7           Replacement Trip Units. . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-21
+Digitrip Trip Unit Retrofit Kits for SPB                                                           DS Breakers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-5
+ and DS Breakers. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-6
+                                                                                                   DS Breakers Class 1 Reconditioning . . . . . . . . . . . . . . . . . V12-T17-5
+Digitrip Trip Unit Upgrade Table . . . . . . . . . . . . . . . . . . . V12-T17-19
+                                                                                                   DS Breakers with Digitrip Trip Unit Retrofit Kits . . . . . . . . V12-T17-5
+Dimensions for MCC Buckets and Doors . . . . . . . . . . . . . V12-T14-3
+                                                                                                   DS Breakers with IQ and PowerNet Communications . . . V12-T17-5
+Direct (Close-Coupled) Handle Mechanisms. . . . . . . . . . V12-T3-111
+                                                                                                   DS Circuit Breaker Cell Provisions . . . . . . . . . . . . . . . . . . . V12-T17-5
+Discharge Resistor, Starting
+                                                                                                   DS Low Voltage Switchgear Assemblies
+ and Field . . . . . . . . . . . . . . . . V12-T13-79, V12-T13-80, V12-T13-82
+                                                                                                    and Power Circuit Breakers. . . . . . . . . . . . . . V12-T17-4–V12-T17-5
+Distribution Switchboards (Low Voltage) . . . . V12-T15-1–V12-T15-6
+                                                                                                   DS Parts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-3, V12-T15-5
+      ES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-5
+                                                                                                   DS Power Circuit Breaker . . . . . . V12-T17-2, V12-T17-4, V12-T17-5
+      IQ and PowerNet Communications Retrofits . . . . . . V12-T15-6
+                                                                                                   DS Rating Plugs . . . . . . . . . . . . . . . . . . . . . . V12-T17-24, V12-T17-25
+      Pow-R-Gear . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-4
+                                                                                                   DS Switchgear Structure Parts . . . . . . . . . . . . . . . . . . . . . V12-T17-5
+      Pow-R-I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-3
+      Pow-R-Line C . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-5           DS-3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T8-2
+      Pow-R-Line i . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-3         DS-420 Westinghouse Breaker . . . . . . . . . . . . . . . . . . . . V12-T17-34
+      Pow-R-M-S . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-4          DS-632 Westinghouse Breaker . . . . . . . . . . . . . . . . . . . . V12-T17-34
+      Pow-R-M-S/F . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-3          DS-840 Westinghouse Breaker . . . . . . . . . . . . . . . . . . . . V12-T17-34
+
+
+
+
+V12-A1-8                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions                          CA08100014E—November 2016                 www.eaton.com
+

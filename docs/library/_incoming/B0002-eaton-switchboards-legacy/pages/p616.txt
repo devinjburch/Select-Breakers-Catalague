@@ -1,0 +1,61 @@
+     24                                Counters, Panel Meters, Tachometers and Timers
+                                       Totalizers
+
+
+
+     Dimensions
+1    Approximate Dimensions in Inches (mm)
+
+2    ME Series Counters
+
+     Panel Mounted                                                                  Bottom Mounted
+3
+4
+5
+6
+7
+8
+9    Base Mounted                                                                   Bottom Mounted
+
+10
+11
+12
+13
+14
+15   ME Series Counters                                                             Recommended Panel Mount Cut-Outs
+
+16   4 Figure Pushbutton Reset Counters
+     Dimension           Inches (mm)
+                                                6 and 7 Figure Non-Reset Counters
+                                                Dimension           Inches (mm)
+                                                                                    4 Figure Counters
+                                                                                    Pushbutton Reset
+                                                                                                                  6 and 7 Figure Counters
+                                                                                                                  Non-Reset
+     A                   1.00 (25.4)            A                   1.00 (25.4)     1.72 x 1.11 (43.7 x 28.2)     1.72 x 1.11 (43.7 x 28.2)
+17   B                   1.60 (40.6)            B                   1.60 (40.6)
+     C                   2.64 (67.1)            C                   2.38 (60.5)
+18   D                   2.19 (55.6)            D                  2.19 (55.6)
+     E                   1.80 (45.7)            E                  1.80 (45.7)
+19   F                   1.80 (45.7)            F                  1.80 (45.7)
+     G                   1.40 (35.6)            G                  1.40 (35.6)
+20   H                   0.69 (17.5)            H                  0.69 (17.5)
+     J                   1.88 (47.8)            J                  1.88 (47.8)
+21   K                   0.50 (12.7)            K                  0.50 (12.7)
+     L                   0.49 (12.4)            L                  0.49 (12.4)
+
+22   M                   0.94 (23.9)            M                  0.94 (23.9)
+     N                   2.45 (62.2)            N                  2.19 (55.6)
+
+23   P                   2.45 (62.2)            P                  2.19 (55.6)
+     Q                  0.45 (11.4)             Q                  0.45 (11.4)
+
+24   R                  0.63 (16.0)             R                  0.63 (16.0)
+     S                  0.19 (4.8)              S                  0.19 (4.8)
+
+25   T                  0.68 (17.3)             T                  0.88 (22.4)
+
+
+
+     V12-T24-34             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

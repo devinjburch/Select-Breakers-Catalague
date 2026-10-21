@@ -1,0 +1,66 @@
+                                                                                                     Appendix 2—Alphabetical Product Index
+
+C                                                                                                     CG7 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2
+C10 Contactors and Starters . . . . . . . . . . . . . . . . . . . . . . . V12-T13-6                   CG9 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2
+C25 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-53      CH Loadcenters . . . . . . . . . . . . . . . . . V12-T5-4, V12-T5-5, V12-T5-6
+C30 Contactors and Starters . . . . . . . . . . . . . . . . . . . . . . . V12-T13-6                   Challenger—Breaker Cross-Reference . . . . . . . . . . . . . . V12-T3-113
+C306 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-40–V12-T13-44                CHB Miniature Circuit Breakers. . . . . . . . . . . . . . V12-T3-9, V12-T4-4
+C316 Overload Relays. . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-46                  CHB Panelboard. . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-4
+C32 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-53      CHB Panelboard, Replacement Breaker . . . . . . . . . . . . . . . V12-T4-4
+C321 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-8      CHP Panelboard. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-4
+C371 Handle Mechanisms . . . . . . . . . . . . . . . . . . . . . . . V12-T3-108                       CHP Panelboard, Replacement Breaker . . . . . . . . . . . . . . . V12-T4-4
+C50 Contactors and Starters . . . . . . . . . . . . . . . . . . . . . . . V12-T13-6                   C-HRG (Low Voltage) High
+C514 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-71        Resistance Grounding Systems . . . . . . . . . . V12-T16-2–V12-T16-4
+
+C80 DC Contactors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-61                C-HRG (Medium Voltage) High
+                                                                                                       Resistance Grounding Systems . . . . . . . . . . V12-T16-5–V12-T16-7
+C80 Mill Type DC Contactors
+                                                                                                      Circuit Breaker Cell Provisions. . . . . . . . . . . . . . . . . . . . . . V12-T15-3
+       Replacement Capabilities . . . . . . . . . . . . . . . . . . . . V12-T13-62
+                                                                                                      Circuit Breaker Plug-in Unit (Closed) . . . . . . . . . . . . . . . . . . V12-T9-8
+CA Molded-Case Circuit Breakers. . . . . . . . . . . . . . . . . . . V12-T3-10
+                                                                                                      Circuit Breaker Plug-in Unit (Open) . . . . . . . . . . . . . . . . . . . V12-T9-8
+CA Molded-Case Switch . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-62
+                                                                                                      Circuit Breaker Provisions for
+CA Replacement Breaker . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-10
+                                                                                                       WF/WRP, ES and Pow-R-Line C
+CAH Molded-Case Circuit Breakers . . . . . . . . . . . . . . . . . V12-T3-10                           Distribution Switchboards . . . . . . . . . . . . . . . . . . . . . . . . V12-T15-5
+CAH Replacement Breaker . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-10                     Circuit Breaker Repair . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-112
+Calibration, 50°C . . . . . . . . . . . . . V12-T3-17, V12-T3-20, V12-T3-22,                          Circuit Breaker Test Kits for DS Breakers . . . . . . . . . . . . . V12-T17-9
+                                V12-T3-24, V12-T3-26, V12-T3-28, V12-T3-30,                           Circuit Breaker, DB . . . . . . . . . . . . . . . . . . . . . V12-T17-2, V12-T17-3
+                                V12-T3-31, V12-T3-33, V12-T3-36, V12-T3-38,                           Circuit Breaker, DS . . . . . . . . . . . V12-T17-2, V12-T17-4, V12-T17-5
+                                V12-T3-39, V12-T3-41, V12-T3-44, V12-T3-45,                           Circuit Breaker, DSII . . . . . . . . . . V12-T17-2, V12-T17-6, V12-T17-7
+                                                  V12-T3-48, V12-T3-83, V12-T3-87                     Circuit Breaker, Low Voltage
+Cantilever Hangers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T9-7              Power Air Circuit Breakers (LVPACB) . . . . . . V12-T17-5, V12-T17-6
+Capacitor Cells . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T21-3           Circuit Breaker, Magnum DS . . . . . . . . . . . . . . V12-T17-2, V12-T17-8
+Capacitors . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T21-3        Circuit Breakers
+Catalog Numbering System                                                                                     Molded-Case . . . . . . . . . . . . . . . . . . . . . . V12-T3-1–V12-T3-168
+       Type C-HRG (Low Voltage) . . . . . . . . . . . . . . . . . . . . V12-T16-4                              Current Limiting . . . . . . . . . . . . . . . . . . V12-T3-13, V12-T3-14
+       Type C-HRG (Medium Voltage) . . . . . . . . . . . . . . . . . V12-T16-7                                 Miniature, QUICKLAG. . . . . . . . . . . . . . . . V12-T3-6, V12-T3-7
+Catalog Numbering Systems                                                                                      Replacements . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T2-3
+       AMPGARD Contactors and Starters . . V12-T13-88–V12-T13-90                                      Citation Adapter Plates . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-8
+       Series C Retrofit Kits for MCCs . . . . . . . . . . . . . . . V12-T14-17                       Citation Starter Replacement Capabilities
+CDP Panelboard . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-4, V12-T4-9                                Coils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-7
+CDP Panelboard (Cutler-Hammer). . . . . . . . . . . . . . . . . . . . V12-T4-4                               Contacts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-7
+CDP Panelboard (Westinghouse) . . . . . . . . . . . . V12-T4-2, V12-T4-7                                     Current Transformers . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-8
+CDP Panelboard, Replacement                                                                                  Heaters . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-9–V12-T13-21
+ Breaker . . . . . . . . . . . . . . . . . . . . . . . V12-T4-2, V12-T4-4, V12-T4-9                   Clamp-On CTs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T10-35
+CDP/HCDP Panelboard . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T4-7                  Clamp-On Current Transformers
+CDP/HCDP Panelboard, Replacement Breaker. . . . . . . . . . V12-T4-7                                         Metering Devices . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T10-35
+Cell Provisions for DS Circuit Breakers . . . . . . . . . . . . . . . V12-T17-5                       Class 1 Reconditioning
+Cell Provisions, Low Voltage                                                                                 Aftermarket Centers of Excellence (ACE) . . . . . . . . . V12-T22-7
+ Switchgear . . . . . . . . . . . . . . . . . V12-T17-5, V12-T17-7, V12-T17-8                                DB Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-3
+Cell-Retrofill, MV Motor Starter. . . . . . . . . . . . . . . . . . . . V12-T13-91                           DHP Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-56
+Center Studs . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T3-77                 DS Breakers. . . . . . . . . . . . . . . . . . . . . . . V12-T15-3, V12-T17-5
+CG11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2            DSII Breakers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-7
+CG2 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2           Magnum DS Breakers . . . . . . . . . . . . . . . . . . . . . . . . V12-T17-8
+CG2, 4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2            Renewal Parts . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T22-7
+CG3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2    Class 1, Division 2, Hazardous Location Transformer . . . . . V12-T8-4
+CG3, 5, 7, 9, 11 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2         Class 10—A200 Overload Relay . . . . . . . . . . . . . . . . . . . V12-T13-29
+CG4 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2    Class 20—A200 Overload Relay . . . . . . . . . V12-T13-27, V12-T13-28
+CG5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T6-2    Classic AMPGARD. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . V12-T13-94
+
+
+
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions                            CA08100014E—November 2016                 www.eaton.com                   V12-A1-5
+

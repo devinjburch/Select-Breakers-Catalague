@@ -1,0 +1,56 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                  3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                        1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+RLM3200                  1376D13G38       O          RHLM3200                 1376D16G38             —                         3, 10                    2
+RLM3225                  1376D13G39       O          RHLM3225                 1376D16G39             —                         3, 10
+RLM3250                  1376D13G40       O          RHLM3250                 1376D16G40             —                         3, 10                    3
+RLM3275                  1376D13G41       O          RHLM3275                 1376D16G41             —                         3, 10
+RLM3300                  1376D13G42       O          RHLM3300                 1376D16G42             —                         3, 10                    4
+RLM3350                  1376D13G44       O          RHLM3350                 1376D16G44             —                         3, 10
+RLM3400                  1376D13G45       O          RHLM3400                 1376D16G45             —                         3, 10
+                                                                                                                                                        5
+RLM3500                  1376D13G47       O          RHLM3500                 1376D16G47             —                         3, 10
+RLM3600                  1376D13G49       O          RHLM3600                 1376D16G49             —                         3, 10
+                                                                                                                                                        6
+RLM3600K                 1376D13G50       O          —                        —                      —                         —
+RLM3700
+RLM3800
+                         1376D13G51
+                         1376D13G52
+                                          O
+                                          O
+                                                     RHLM3700
+                                                     RHLM3800
+                                                                              1376D16G51
+                                                                              1376D16G52
+                                                                                                     —
+                                                                                                     —
+                                                                                                                               3, 10
+                                                                                                                               3, 10
+                                                                                                                                                        7
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                        8
+                                                                                                                                                        9
+                                                                                                                                                        10
+                                                                                                                                                        11
+                                                                                                                                                        12
+                                                                                                                                                        13
+                                                                                                                                                        14
+                                                                                                                                                        15
+                                                                                                                                                        16
+                                                                                                                                                        17
+                                                                                                                                                        18
+                                                                                                                                                        19
+                                                                                                                                                        20
+                                                                                                                                                        21
+                                                                                                                                                        22
+                                                                                                                                                        23
+                                                                                                                                                        24
+                                                                                                                                                        25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com             V12-T3-161
+

@@ -1,0 +1,106 @@
+     13                            Motor Control
+                                   Medium Voltage Starters
+
+
+
+     New Catalog Numbering System—SL Contactors Only
+1
+                                                                                   SL 50 W 4 3 0
+2
+3          SL = SL contactor              Volts                         Contactor Type/Rating            NEMA Size           2 = 2NO poles           0 = None NC poles
+                                                                                                                             3 = 3NO poles
+                                       50 = 5000         G = 200A, roll-out                            2 = 200A
+4                                      72 = 7200         W = 400A, roll-out
+                                                         K = 200A, slide-out
+                                                                                                       4 = 400A
+
+                                                         F = 400A, slide-out
+5                                                        L = 200A, narrow-design with fingers
+                                                         N = 400A, narrow-design with fingers
+                                                         P = 200A, narrow-design without fingers
+
+6
+                                                         X = 400A, narrow-design without fingers
+                                                         B = 200A, open/standalone
+                                                         C = 400A, open/standalone
+
+7
+     New Catalog Numbering System—SL Starters Only
+8
+                                                                                   W 2 1 0 S B A
+9
+10                                      Contactor Type/Rating                                                          Voltage
+                      F = 400A vacuum, slide-out                                                          A = 2400 Vac            60 Hz
+                      W = Vacuum, roll-out                                                                B = 3000 Vac            60 Hz
+11                    N = 400A vacuum, narrow-design with stabs
+                      X = 400A vacuum, narrow-design without stabs
+                                                                                                          C = 3300 Vac
+                                                                                                          D = 3600 Vac
+                                                                                                                                  60 Hz
+                                                                                                                                  60 Hz
+                      K = 200A vacuum, slide-out
+                                                                                                          E = 4160 Vac             60 Hz
+12                    G = 200A vacuum, roll-out
+                      L = 200A vacuum, narrow-design with stabs
+                                                                                                          F = 4800 Vac
+                                                                                                          G = 5500 Vac
+                                                                                                                                   60 Hz
+                                                                                                                                   60 Hz
+                      P = 200A vacuum, narrow-design without stabs
+                                                                                                          H = 6000 Vac             60 Hz
+13                                                 Starter Type
+                                                                                                          J = 6300 Vac             60 Hz
+                                                                                                          K = 6600 Vac             60 Hz
+                          2 = FVNR                                                                        L = 6900/7200 Vac        60 Hz
+14                        3 = FVR                                                                         M = 2400 Vac             50 Hz
+                          4 = RVSS                                                                        N = 3000 Vac             50 Hz
+                          5 = RV reactor-type
+15
+                                                                                                          P = 3300 Vac             50 Hz
+                          6 = RVAT                                                                        Q = 3600 Vac             50 Hz
+                          7 = RV reversing, reactor-type                                                  R = 4160 Vac             50 Hz
+                          8 = RVAT reversing
+16                        9 = RVSS reversing
+                          X = FV with auxiliary special use three-pole contactor
+                                                                                                          S = 4800 Vac
+                                                                                                          T = 5500 Vac
+                                                                                                                                   50 Hz
+                                                                                                                                   50 Hz
+                              (without mechanical interlock, with load panel)                             U = 6000 Vac             50 Hz
+
+17
+                                                                                                          V = 6300 Vac             50 Hz
+                                                                Motor Type                                W = 6600 Vac             50 Hz
+                                                                                                          X = 6900/7200 Vac        50 Hz
+18
+                                            1 = Induction, single-speed                                   Z = Unknown voltage
+                                            2 = Induction, two-speed, two-winding
+                                            3 = Induction, two-speed, single-winding
+                                            4 = Synchronous                                                              Enclosure Type
+19                                          6 = Wound rotor
+                                            7 = Non-motor feeder (transformer, caps, etc.)
+                                                                                                     A = No enclosure (NEMA 1 doors)
+                                                                                                     B = Type 1 general purpose
+                                                                                                     C = Type 1 with gasketed doors
+20                                                            Synchronous Type                       D = Type 2 drip shield
+                                                                                                     E = Type 12 dust-tight
+                                           0 = Non-synchronous                                       F = Type 3R outdoor non-walk-in
+21                                         1 = Brush-type solid-state panel (Mark V)
+                                           3 = Brush-type relay panel (no longer available)
+                                                                                                     G = Type 3R outdoor non-walk-in, 72-inch high
+                                                                                                     H = Type 3R outdoor walk-in
+                                           4 = Brushless-type relay panel                            J = Type 1 half-high (NEMA 1 only)
+22
+                                           5 = Brushless-type solid-state                            K = Type 1 half-high with gasketed door
+                                                                                                     L = No enclosure (NEMA 3/12 doors)
+                                                                        Disconnect Switch
+23                                                      S = Isolation switch
+                                                        A = Mechanical future with cover plate
+                                                        F = Electrical future with cover plate
+24                                                      G = Electrical future with isolation plate
+                                                        P = No isolation switch, cover plate only
+
+
+25
+     V12-T13-90            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

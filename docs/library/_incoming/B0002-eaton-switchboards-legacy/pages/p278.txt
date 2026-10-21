@@ -1,0 +1,68 @@
+     10                               IQ Products
+                                      General Information
+
+
+
+     Protective Relay Selection Chart, continued)
+1                                                                        DT-3000                   FP-5000                   MP-3000
+
+
+2
+3
+     For Further Details and Information,
+4    See TD02600001TE.                            Device Name
+     Technical Data Number                        IEEE Device Number     TD.17.10.T.E              TD.17.30.T.E              TD.17.11.T.E
+
+5    Construction
+     Panel-mount case                                                    ■                         ■                         ■
+
+6    Drawout                                                             Optional                  ■                         Optional
+     Operating temperature range                                         –30°C to +55°C            –40°C to +60°C            –20°C to +60°C
+
+7    Power supply options                                                120–240 Vac
+                                                                         24–250 Vdc
+                                                                                                   48–125 Vac/Vdc
+                                                                                                   100–240 Vac/Vdc
+                                                                                                                             120–240 Vac
+
+
+
+8    Dual source power supply
+     AC current inputs
+                                                                         Optional
+                                                                         ■                         ■                         ■
+
+9    AC voltage inputs
+      Wye PTs
+                                                                                                   ■
+                                                                                                   ■
+
+10    Delta/open delta PTs
+     Binary inputs                                                       1
+                                                                                                   ■
+                                                                                                   8                         2
+
+11
+     Alarm outputs                                                       2 Form C                  2 Form C                  3
+     Trip outputs                                                        2                         5                         1
+     Analog outputs                                                                                Optional                  1
+12   Local display                                                       ■                         ■                         ■
+     LEDs (local targets)                                                ■                         ■                         ■
+13   Standards
+     ANSI                                                                ■                         ■                         ■
+14   IEC                                                                 ■                         ■                         ■
+     UL®                                                                 ■                         ■                         ■
+15   CE                                                                  DT-3030 only              ■
+     CSA®                                                                ■                         ■                         ■
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T10-14                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

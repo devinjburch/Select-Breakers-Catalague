@@ -1,0 +1,75 @@
+     14                             Motor Control Centers
+                                    Upgrades
+
+
+
+     Technology Upgrades                       IQ Retrofit Kits                  IQ 320                             DeviceNet Interface
+1                                                                                                                   Module Upgrade (DN65)
+     IT. Soft Start                            IQ Analyzer (The Ultimate
+                                               in Monitoring)
+2
+3
+4
+5
+                                                                                                                      DeviceNet I/O Starter Unit Upgrade
+6                                                                                                                   Using the DN65 Discrete
+                                                                                              IQ 320                DeviceNet™ I/O module,
+7                                                                                The Cutler-Hammer IQ 320           all Cutler-Hammer and
+                                                                                                                    Westinghouse vintage MCCs
+                                                                                 is the most cost-effective
+                                                          IQ Analyzer
+                                                                                 metering solution for              may be upgraded with the
+8                                              The Cutler-Hammer IQ              monitoring main incoming           latest Freedom motor starters
+                                                                                                                    to provide wire savings and
+                                               Analyzer displays the most        line electrical values. Through
+                                               comprehensive list of             the bright two-line LCD            communications capability.
+9                                              metered parameters in its         display, the IQ 320 provides       The DN65 DeviceNet I/O
+                                               class. The dot-matrix, gas        accurate readings for voltage,     Module adds increased
+                                               plasma display provides the                                          functionality and intelligence
+10                                             flexibility of exhibiting large
+                                                                                 amperes, watts, hertz, power
+                                                                                 factor and VA. Key features        in a small footprint.
+         Intelligent Technologies (IT.)        characters with high visibility   of the IQ 320 include ANSI         Standard MCC starter units
+11                Soft Starters
+     Eaton’s Cutler-Hammer
+                                               and small characters for
+                                               detailed descriptions. Multiple
+                                                                                 C312.16 revenue class              accommodate the DN65
+                                                                                                                    DeviceNet module and
+                                                                                 metering accuracy,
+     Intelligent Technologies (IT.)            parameters (e.g., currents        PowerNet™ capable                  provide the ability to perform
+12   solid-state starters provide              of phases A, B and C) are         communications port and            START/STOP control over an
+                                                                                                                    open network. Additionally,
+     high-performance motor                    displayed simultaneously          user intuitive four-button
+     control in the most compact               for more thorough real-time       front panel interface.             contactor, overload and
+13   packages in the industry.                 monitoring. Custom screens                                           breaker status may be
+     The IT. Series of solid-state             can also be configured.                                              communicated through
+     starters are available in                 Available information                                                the DN65 upstream to a
+14   retrofit units through 200 hp             includes current, voltage,                                           host PC, PLC or DCS system.
+     in all Cutler-Hammer and                  power, energy, demand
+15   Westinghouse MCC vintages.
+     Each IT. solid-state starter
+                                               and an extensive array of
+                                               harmonic data.
+     unit includes a disconnect,
+16   starter, a DC power supply,
+     a 120 Vac interposing relay,
+     and a 100 VA CPT. The IT.
+17   solid-state starter design
+     incorporates an integral,
+     parallel run contact that
+18   engages once the starter
+     reaches full speed. Available
+19   soft starter options include:
+     pump control software, line/
+     load MOV protection and
+20   motor isolation contactor.
+
+
+21
+22
+23
+24
+25
+     V12-T14-14            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

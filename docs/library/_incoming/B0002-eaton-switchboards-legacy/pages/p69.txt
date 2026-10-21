@@ -1,0 +1,82 @@
+     3                       Molded-Case Circuit Breakers
+                             Replacement Capabilities
+
+
+
+     Types PC, PCA, PCC, PCCA 2000, 2500 and 3000A SELTRONIC with Solid-State Trip Units, 600 Vac, 50/60 Hz
+1    Complete breaker requires frame and rating plug. See the table on Page V12-T3-60 and rear connectors (connectors are included in
+     3000A and all front-connected frames.) Suitable for reverse-feed applications.
+2    ■ Shaded area denotes obsolete or discontinued products and services. 1
+
+     PC: 600 Vac       Breakers for Standard Applications—Frame Only
+3                                                                                                                                           Long Delay, Short Time Trip, and Adjustable
+                       Number                    Standard (Long Delay and Short Time)            Short Time Only 3                          Short Delay Time (0.08 –0.30 seconds)
+
+4
+                       of Poles 2                Catalog Number                                  Catalog Number                             Catalog Number
+                       Type PC 2000, 1000 to 2000A 4                                                                                        Type PCA 2000 4
+                       Rear-Connected Breakers                                                                                              Rear-Connected Breakers
+5                      2                         PC22000F                                        PC22000FM                                  PCA22000F
+                       3                         PC32000F                                        PC32000FM                                  PCA32000F
+
+6                      Front-Connected Breakers                                                                                             Front-Connected Breakers
+                       2                         PCF22000F                                       PCF22000FM                                 PCFA22000F
+
+7                      3                         PCF32000F                                       PCF32000FM                                 PCFA32000F
+                       Type PC 2500, 1400 to 2500A 4                                                                                        Type PCA 2500 4
+                       Rear-Connected Breakers                                                                                              Rear-Connected Breakers
+8                      2                         PC22500F                                        PC22500FM                                  PCA22500F
+                       3                         PC32500F                                        PC32500FM                                  PCA32500F
+9                      Front-Connected Breakers                                                                                             Front-Connected Breakers
+                       2                         PCF22500F                                       PCF22500FM                                 PCFA22500F
+10                     3                         PCF32500F                                       PCF32500FM                                 PCFA32500F
+                       Type PC 3000, 1600 to 3000A 4                                                                                        Type PCA 3000 4
+11                     2                         PC23000F                                        PC23000FM                                  PCA23000F
+                       3                         PC33000F                                        PC33000FM                                  PCA33000F
+12
+                       Breakers for Standard Application at 100% Rating—Frame Only
+
+13                     Number                   Standard (Long Delay and Short Time)             Short Time Only 3
+                                                                                                                                            Long Delay, Short Time Trip, and Adjustable
+                                                                                                                                            Short Delay Time (0.08 –0.30 seconds)
+                       of Poles 2               Catalog Number                                   Catalog Number                             Catalog Number
+14                     Type PCC 2000, 1000 to 2000A 5—Rear-Connected Breakers
+                       2                        PCC22000F                                        PCC22000FM                                 PCCA22000F
+15                     3                        PCC32000F                                        PCC32000FM                                 PCCA32000F
+                       Front Connected Breakers
+16                     2                        PCCF22000F                                       PCCF22000FM                                PCCFA22000F
+                       3                        PCCF32000F                                       PCCF32000FM                                PCCFA32000F
+
+17                     Type PCC 2500, 1400 to 2500A 5—Rear-Connected Breakers
+                       2                        PCC22500F                                        PCC22500FM                                 PCCA22500F
+
+18                     3                        PCC32500F                                        PCC32500FM                                 PCCA32500F
+                       Front-Connected Breakers
+
+19                     2                        PCCF22500F                                       PCCF22500FM                                PCCFA22500F
+                       3                        PCCF32500F                                       PCCF32500FM                                PCCFA32500F
+
+20                     Type PC 3000, 1600 to 3000A 5
+                       2                        PCC23000F                                        PCC23000FM                                 PCCA23000F
+
+21                     3                        PCC33000F                                        PCC33000FM                                 PCCA33000F
+
+                       Notes
+
+22
+                       1 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167.
+                       2 Two-pole breakers are supplied in three-pole frames with current carrying parts omitted from center pole.
+                       3 UL Recognized component.
+
+
+23
+                       4 UL Listed for standard applications.
+                       5 These breakers are UL Listed for application at 100% of rating per NEC exceptions when used in a properly ventilated and listed enclosure.
+
+
+
+
+24
+25
+     V12-T3-56        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

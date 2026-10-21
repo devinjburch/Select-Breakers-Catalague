@@ -1,0 +1,131 @@
+     3                           Molded-Case Circuit Breakers
+
+
+
+     Molded-Case                           Product History                                        attempted to find a solution                        1923 when the modified arc
+1    Circuit Breakers                      Originally a                                           to the problem. Meetings                            extinguisher was coupled
+                                           Westinghouse Product                                   with switch manufacturers                           with a thermal tripping
+                                                                                                  were initiated in an effort                         mechanism. It was not until
+2                                          The need for molded-case
+                                           circuit breakers came about
+                                                                                                  to find a solution. Switch                          four years later, however,
+                                                                                                  manufacturers were asked to                         that Westinghouse research
+                                           in 1918 when numerous
+                                                                                                  develop a switching device                          engineers found the ideal
+3                                          applications for electrical
+                                                                                                  that would interrupt a circuit                      combination of materials and
+                                           motors resulted in a demand
+                                                                                                  under prolonged overload                            design that permitted circuit
+                                           for a device that would
+4                                          ensure safe operation and,
+                                                                                                  conditions. The device would
+                                                                                                  have to be safe, reliable and
+                                                                                                                                                      breakers to interrupt fault
+                                                                                                                                                      currents of 5000A at 120 Vac
+                                           at the same time, protect
+      Molded-Case Circuit Breaker Family                                                          tamperproof. It should also                         or Vdc. One year later,
+5    Product Description
+                                           electrical circuits.
+                                                                                                  be resettable so as to be                           Westinghouse placed the
+                                           During this period, individual                         reusable after an interruption                      first circuit breaker on the
+     Eaton’s molded-case circuit
+                                           motors were used for the                               without replacing any parts.                        market. Its acceptance
+6    breakers are designed to
+                                           first time in industrial plants                        This search for better circuit                      was instantaneous.
+     provide circuit protection
+                                           to operate machine tools and                           protection resulted in many
+     for low voltage distribution                                                                                                                     Since that initial introduction
+7    systems. They are described           in private homes to operate
+                                           appliances. Plant electricians
+                                                                                                  different but unacceptable
+                                                                                                  approaches to the problem.                          in 1927, Westinghouse
+     by NEMA® as “. . . a device                                                                                                                      continued to be at the forefront
+                                           were constantly changing                               These early meetings and
+     for closing and interrupting                                                                                                                     of circuit breaker technology
+8    a circuit between separable           fuses blown during motor                               subsequent efforts prepared
+                                                                                                  the groundwork for the                              with an unprecedented series
+     contacts under both normal            startups because of the lack
+                                                                                                  eventual development of the                         of circuit protective
+                                           of properly designed fuses for
+9    and abnormal conditions,”
+     and furthermore as “. . . a           motor circuit protection.                              molded-case circuit breaker.                        enhancements and
+                                                                                                                                                      introductions as chronicled
+     breaker assembled as an               Homes experienced similar
+                                                                                                  After intensive research and                        below. In 1994, Eaton, another
+                                           problems when electrical
+10   integral unit in supporting
+                                           circuits were overloaded.
+                                                                                                  development, Westinghouse                           world-class technology leader,
+     an enclosed housing of                                                                       produced the DE-ION® arc                            acquired the Westinghouse
+     insulating material.” The             Inspectors were concerned
+                                                                                                  extinguisher for use in large                       Distribution and Control
+11   NEC® describes them as                about fire hazards because of
+                                           plug fuses being bridged with
+                                                                                                  oil circuit breakers. Although                      Business Unit (DCBU)
+     “. . . a device designed to                                                                  too large in its initial form to                    and integrated it with their
+     open and close a circuit by           pennies and the installation
+                                                                                                  be practical for small circuit                      Cutler-Hammer business
+12   non-automatic means, and to           of fuses with too high an
+                                                                                                  breakers, the arc extinguisher                      unit forming a powerful, new
+     open the circuit automatically        ampere rating.
+                                                                                                  was eventually modified                             combination, poised to meet
+13   on a predetermined overload
+     of current, without injury to
+                                           Inspection authorities                                 into a usable size. The first
+                                                                                                  compact, workable circuit
+                                                                                                                                                      the challenges of the next
+                                                                                                                                                      100 years.
+                                           became involved and
+     itself when properly applied                                                                 breaker was developed in
+14   within its rating.”
+     Circuit breakers protect              Time Line—Major Product Introductions
+15   against overloads in
+     conductors and protects                Year   Product                                                                 1920 1930 1940   1950 1960 1970 1980 1990   1995   2000   2002 Present
+     against short circuits in              1923   First compact, workable circuit breaker developed by Westinghouse
+
+16   connected apparatus such as            1927   Westinghouse introduced the first complete circuit breaker line,
+                                                   rated 10– 600A, 600V
+     motors and motor starters.
+                                            1939   Along with ordering information and style numbers, the various
+
+17
+                                                   maximum current ratings came to be known by frame designations:
+     Circuit breakers are designed                  50A   E-Frame
+     for use in panelboards,                       100A   F-Frame (non-interchangeable trip)
+     switchboards, motor control                   100A   G-Frame
+
+18   centers, control panels,
+                                                   225A
+                                                   600A
+                                                          K-Frame
+                                                          L-Frame
+
+     combination starters,                  1970   Motor Circuit Protector (MCP) introduced—first sensitive, low
+                                                   level protection designed specifically for motor circuits
+     individual enclosures and
+19   bus duct plug-in units.
+                                            1973   SELTRONIC™ introduced—first molded-case circuit breaker
+                                                   with an electronic trip unit
+                                            1979   Current Limit-R circuit breaker introduced— first true current
+
+20
+                                                   limiting trip unit
+                                            1982   Series C® Family introduced—new world-class standard, meeting
+                                                   increasing interrupting requirements without sacrificing compact size
+                                            1994   Westinghouse Distribution and Control Business Unit (DCBU)
+
+21                                                 acquired by Eaton, integrated with Cutler-Hammer
+                                                   (the Cutler-Hammer line of molded case circuit breakers was
+                                                   sold when merged with Westinghouse)
+                                            1995   OPTIM™ Family introduced—first truly programmable
+
+22                                          2002
+                                                   molded-case circuit breaker
+                                                   Next Generation E125, J250
+                                            2004   Series G® First Global Breaker Line
+
+23
+24
+25
+     V12-T3-2             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,91 @@
+                                                                                                                      Motor Control
+                                                                                                              Contactors, Starters and Brakes
+                                                                                                                                                                   13
+Type FT Fast Trip,                        Operation
+Class 10 Overload Relay                   The Type FT overload relay is                       As the bimetals are heated                                                        1
+                                          a bimetallic actuated device.                       by motor current flow, a
+                                          The bimetal elements are
+                                          operated directly from line
+                                                                                              deflection is produced. Upon
+                                                                                              a sustained level of abnormal
+                                                                                                                                                                                2
+                                          current, thus separate                              current flow, the deflection
+                                          calibrating heater elements
+                                          are not used. The overload
+                                                                                              becomes great enough to
+                                                                                              open the snap action output
+                                                                                                                                                                                3
+                                          relay may be wired directly in                      contact.
+                                          the motor circuit, or through                                                                                                         4
+                                          current transformers on
+                                          applications larger than 150A.
+                                                                                                                                                                                5
+                                          Overload Relay Selection Table
+Single-Pole Fast Trip, Panel Mounted
+                                          For replacement in existing applications only.                                                                                        6
+                                          Motor Full Load               Panel Mounted Catalog Number                         Starter Mounted Catalog Number 1
+                                          Amperes                       Single-Pole 1                 Three-Pole 2           NEMA Size               Single-Pole                7
+                                          Single-Pole (One NC Contact); Three-Phase (Three NC Contacts in Series)
+                                          0.76–1.1                      FT11P-1.1                     FT13P-1.1              —                       FT11A-1.1                  8
+                                          1.1–1.6                       FT11P-1.6                     FT13P-1.6              —                       FT11A-1.6
+                                          1.6–2.4                       FT11P-2.4                     FT13P-2.4              0, 1                    FT11A-2.4
+                                                                                                                                                                                9
+                                          2.4–3.6                       FT11P-3.6                     FT13P-3.6              0, 1                    FT11A-3.6
+                                          3.6–5.4                       FT11P-5.4                     FT13P-5.4              0, 1                    FT11A-5.4
+                                                                                                                                                                                10
+                                          5.4–8.0                       FT11P-8                       FT13P-8                0, 1                    FT11A-8
+
+    Three-Pole Fast Trip, Panel Mounted   8.0–12
+                                          12–18
+                                                                        FT11P-12
+                                                                        FT11P-18
+                                                                                                      FT13P-12
+                                                                                                      FT13P-18
+                                                                                                                             0, 1
+                                                                                                                             1
+                                                                                                                                                     FT11A-12
+                                                                                                                                                     FT11A-18
+                                                                                                                                                                                11
+Application Description
+                                                                                                                                                                                12
+                                          16–24                         FT11P-24                      FT13P-24               1                       FT11A-24
+The Type FT overload relay is
+designed to protect special               22–32                         FT11P-32                      FT13P-32               0, 1                    FT11A-32
+purpose motors having                     24–36                         FT21P-36                      FT23P-36               2                       FT21A-36
+restricted thermal and locked
+                                          36–54                         FT21P-54                      FT23P-54               2                       FT21A-54
+                                                                                                                                                                                13
+rotor capabilities. Using
+modern block-type, bimetallic             22–32                         FT31P-32                      FT33P-32               3                      FT31A-32
+design, this relay will provide           32–48                         FT31P-48                      FT33P-48               3                      FT31A-48                    14
+Class 10 operation in single-
+                                          48–72                         FT31P-72                      FT33P-72               3                      FT31A-72
+phase or three-phase
+applications.                             72–110                        FT41P-110                     FT43P-110              4                      FT41A-110                   15
+                                          100–150                       FT41P-150                     FT43P-150              4                      FT41A-150
+Features
+●    Class 10—600V design                 Notes
+                                                                                                                                                                                16
+                                          1 Single-pole (one NO–NC contact): Add suffix B.
+●    Inverse time delay trip
+●    Color-coded reset rod—
+                                          2 Three-pole (three NO–NC contacts): Add suffix B. Example: FT13PB-12.
+                                                                                                                                                                                17
+                                          Alarm contact available only as factory modification on FT relay.
+     green
+●    Alarm contact factory
+     available
+                                                                                                                                                                                18
+●    Field selectable manual/
+     auto reset                                                                                                                                                                 19
+●    Adjustable trip rating
+     ±20%                                                                                                                                                                       20
+●    Ambient compensation
+     included
+                                                                                                                                                                                21
+                                                                                                                                                                                22
+                                                                                                                                                                                23
+                                                                                                                                                                                24
+                                                                                                                                                                                25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                     V12-T13-29
+

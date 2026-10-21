@@ -1,0 +1,104 @@
+                                                                                                   Switchgear
+                                                        Siemens and Siemens-Allis Breakers—Trip Unit Retrofit Kits
+                                                                                                                                    17
+Digitrip Retrofit Kits for               Chronology                          3. The breaker                     5. RMS 510 zone, 610,
+Siemens and Siemens-                     Digitrip retrofit kits and             compartment doors on               810 and 910 retrofit kits     1
+                                         replacement trip units for             the switchgear assembly            include a cell terminal
+Allis Breakers                                                                  must be free of panel-             block assembly that
+                                         Siemens and Siemens-Allis
+                                         breakers became available              mounted instruments                must be installed in the      2
+                                         in 1992. The Digitrip RMS              and devices (i.e.,                 switchgear assembly.
+                                                                                ammeters, switches,                Internal switchgear
+                                         510 model is the modern
+                                         day replacement for                    etc.) or the retrofitted           wiring to accommodate         3
+                                         electromechanical trip                 breaker may interfere              the customer application
+                                         device or peak sensing                 with these devices
+                                                                                when the compartment
+                                                                                                                   schemes must be added
+                                                                                                                   in the field.
+                                                                                                                                                 4
+                                         solid-state trip systems.
+                                                                                door is closed.
+                                         Replacement and
+                                                                             4. When the ground fault
+                                                                                                                6. RMS 610, 810 and 910
+                                                                                                                   retrofit kits require a
+                                                                                                                                                 5
+                                         Upgrade Capabilities
+                                                                                (G) option is selected,            customer supplied
+                                         Replacement and upgrade
+  LAF-800 Breaker Retrofitted with
+    Digitrip RMS 810 Retrofit Kit
+                                         capabilities include
+                                                                                please observe the                 120 Vac source                6
+                                                                                following:                         connected to the cell
+                                         replacement Digitrip trip units                                           terminal block assembly
+                                         and rating plugs, Digitrip trip
+                                         unit upgrades, Digitrip RMS
+                                                                                a. For three-phase, three-
+                                                                                   wire solidly grounded
+                                                                                                                   to power the Digitrip         7
+                                                                                                                   RMS Digital displays
+                                         trip unit retrofit kits and               systems, choose                 and communications
+                                         upgrade retrofit kits. For                quantity three current          functions (as applicable).    8
+                                         definitions of these solutions,           sensors in the catalog
+                                         see Page V12-T17-19.                      number development.          7. Refer all Siemens and
+                                                                                b. For three-phase, four-          Siemens-Allis breakers        9
+ Typical Digitrip RMS 810 Retrofit Kit   For Digitrip RMS trip unit                                                with current limiters to
+      for Siemens-Allis LAF-800          retrofit kits and upgrade                 wire solidly grounded
+        Power Circuit Breaker            retrofit kits, choose or create           systems, choose                 the Digitrip Retrofit
+                                                                                                                   Kit Service Center
+                                                                                                                                                 10
+                                         the Digitrip RMS retrofit kit             a quantity of four
+Product Description                                                                current sensors in              at 1-800-937-5487
+                                         catalog number to match the
+Digitrip retrofit kits for
+                                         Siemens and Siemens-Allis                 the catalog number              for evaluation.               11
+Siemens and Siemens-Allis                                                          development. Three
+                                         breaker types, retrofit kit type,
+power circuit breakers were                                                        sensors are mounted
+first introduced in 1993. For
+                                         protection function, rating
+                                         plug type, current sensor                 on the breaker                                                12
+a complete description of the                                                      and one sensor
+                                         type, CPT and type of kit
+Digitrip RMS trip system
+and the features of models
+                                         required for application. See             is mounted on the
+                                                                                   switchgear neutral.
+                                                                                                                                                 13
+                                         the examples provided on
+RMS 510, 610, 810 and 910,                                                         Hardware to mount
+                                         Page V12-T17-48.
+see Page V12-T17-20.                                                               the current sensor on                                         14
+                                         Application Notes for Siemens             the switchgear neutral
+Ratings                                  and Siemens-Allis Power                   and provisions to wire
+Digitrip RMS retrofit kits
+are applied on Siemens and
+                                         Circuit Breakers                          it into the trip unit                                         15
+                                          1. Retrofit kits are for                 circuit (including a
+Siemens-Allis breakers from                   use on 50 and 60 Hz                  required pair of
+800A (LAF-800) to 4000A                       distribution systems.                breaker secondary                                             16
+(RL-3000), the rating plug and                                                     disconnecting
+the current sensor rating act            2. All retrofit kits are
+in concert to provide for a                 designed for drawout
+                                                                                   contacts) are not
+                                                                                   included in the kit.
+                                                                                                                                                 17
+wide spectrum of overload                   power circuit breakers
+                                            only. Refer all fixed-
+and short-circuit settings.
+                                            mounted breaker                                                                                      18
+                                            applications to the
+                                            Digitrip Retrofit Kit
+                                            Service Center
+                                                                                                                                                 19
+                                            at 1-800-937-5487.
+                                                                                                                                                 20
+                                                                                                                                                 21
+                                                                                                                                                 22
+                                                                                                                                                 23
+                                                                                                                                                 24
+                                                                                                                                                 25
+                    Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com        V12-T17-47
+

@@ -1,0 +1,68 @@
+     24                        Counters, Panel Meters, Tachometers and Timers
+                               Tachometers/Ratemeters
+
+
+
+                                                                                   Contents
+1
+     Tachometers/Ratemeters
+                                                                                   Description                                                                 Page
+                                                                                   Count Controls/Preset Counters
+2                                                                                    Product Selection Guide . . . . . . . . . . . . . . . . . .          V12-T24-63
+                                                                                     Courier Series . . . . . . . . . . . . . . . . . . . . . . . . . .   V12-T24-64
+3                                                                                    Eclipse Series . . . . . . . . . . . . . . . . . . . . . . . . . .   V12-T24-66
+                                                                                     Ambassador Series . . . . . . . . . . . . . . . . . . . . .          V12-T24-69
+4                                                                                             Learn
+                                                                                              Online
+
+5
+6
+7
+8
+9
+     Product Overview
+10   Ratemeters are used in a
+     variety of applications where
+                                          Application Example
+                                                                                                            0 to 10 Vdc
+     it is necessary to monitor the                                                                         Feedback to Motor
+11   speed of a process.                                                                                    Drive
+     Conveyors, baking ovens,
+                                                               Proximity
+     material flow and motor
+12   speed are typical uses for
+                                                               Sensor
+
+     ratemeters. Models with
+     alarm outputs can be used to
+13   detect high or low rates. Rate
+     indicators are often included
+14   as a standard feature on
+     totalizers and count controls.
+                                                                                                                                    High Alarm
+                                                                                                                                    Output
+                                                                           Motor
+15   Typical Application                                                                                                            Low Alarm
+                                                                                                                                    Output
+     One of the most common
+16   ratemeter applications is a
+     tachometer. A tachometer
+     displays motor or shaft RPM.
+17   The inductive proximity
+     sensor detects the key on the
+     shaft and the meter
+18   calculates the rate at which
+     the shaft is turning based on
+19   a user-defined scaling factor.
+     Signals from encoders, mag
+     pickups, Hall effect sensors,
+20   etc. may also be used as
+     inputs.
+
+21
+22
+23
+24
+25
+     V12-T24-62          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

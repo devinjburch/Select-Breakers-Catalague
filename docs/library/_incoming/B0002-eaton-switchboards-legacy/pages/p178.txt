@@ -1,0 +1,89 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                             Replacement Capabilities
+                                                                                                                                               3
+Mining Breaker Replacement Cross-Reference
+Replacement Breaker                                            Replacements                                                                          1
+Mining and 1000V                                               MARK 75                     E2                          Notes
+Catalog Number                   Style Number    Status 1      Catalog Number              Style Number                (See Page V12-T3-114)
+                                                                                                                                                     2
+1366D21G03                       1366D21G03       O            —                           E2F050YM+                   1–3, 5, 7, 8
+                                                                                           625B229G08
+1366D21G04                       1366D21G04       O            —                           E2F100KM                    1–3, 5, 7, 8                  3
+1366D21G05                       1366D21G05       O            —                           E2F100KMU62+                1–3, 5, 7, 8
+                                                                                           625B229G08                                                4
+1366D21G06                       1366D21G06       O            —                           E2F050YM+                   1–3, 5, 7, 8
+                                                                                           625B229G08
+1366D21G07                       1366D21G07       O            —                           E2F100KMU62+                1–3, 5, 7, 8
+                                                                                                                                                     5
+                                                                                           625B229G08
+1366D21G08                       1366D21G08       O            —                           E2F030EM                    1–3, 5, 7, 8                  6
+1366D21G09                       1366D21G09       O            —                           E2F030EM+                   1–3, 5, 7, 8
+
+                                                                                                                                                     7
+                                                                                           625B229G08
+1366D21G10                       1366D21G10       O            —                           E2F030EMU62+                1–3, 5, 7, 8
+                                                                                           625B229G08
+1366D21G11                       1366D21G11       O            —                           E2F030EMS22+                1–3, 5, 7, 8                  8
+                                                                                           625B229G08
+1366D21G12
+1366D21G13
+                                 1366D21G12
+                                 1366D21G13
+                                                  O
+                                                  O
+                                                               —
+                                                               —
+                                                                                           E2F030EMU62
+                                                                                           E2F030EM
+                                                                                                                       1–3, 5, 7, 8
+                                                                                                                       1–3, 5, 7, 8
+                                                                                                                                                     9
+                                                                                                                                                     10
+1366D21G14                       1366D21G14       O            —                           E2F3030                     1–3, 5, 7, 8
+1366D21G15                       1366D21G15       O            —                           E2F3030U62                  1–3, 5, 7, 8
+1366D21G16                       1366D21G16       O            —                           E2F3030S22                  1–3, 5, 7, 8
+1366D21G17                       1366D21G17       O            —                           E2F050YM                    1–3, 5, 7, 8
+                                                                                                                                                     11
+1366D21G18                       1366D21G18       O            —                           E2F100KM                    1–3, 5, 7, 8
+1366D21G19                       1366D21G19       O            —                           E2F100KM+                   1–3, 5, 7, 8                  12
+                                                                                           625B229G08
+1366D21G20                       1366D21G20       O            —                           E2F100KMU62+
+                                                                                           625B229G08
+                                                                                                                       1–3, 5, 7, 8                  13
+1366D21G22                       1366D21G22      O             —                           E2F100KMS22+                1–3, 5, 7, 8
+                                                                                           625B229G08                                                14
+1366D21G23                       1366D21G23       A            —                           E2F100KM+                   1–3, 5, 7, 8
+
+1366D21G24                       1366D21G24       A            —
+                                                                                           625B229G08
+                                                                                           E2F100KMU62+                1–3, 5, 7, 8
+                                                                                                                                                     15
+                                                                                           625B229G08
+1366D21G27                       1366D21G27       O            —                           E2F100KMU62                 1–3, 5, 7, 8                  16
+1366D21G28                       1366D21G28      O             —                           E2F3100                     1–3, 5, 7, 8
+1366D21G29                       1366D21G29      O             —                           E2F3100U62                  1–3, 5, 7, 8                  17
+1366D21G30                       1366D21G30      A             —                           E2F100KM                    1–3, 5, 7, 8
+1366D21G31                       1366D21G31      A             —                           E2F100KMU62                 1–3, 5, 7, 8                  18
+1366D21G32                       1366D21G32      A             —                           E2F100KMS22                 1–3, 5, 7, 8
+1366D21G33                       1366D21G33       O            —                           E2F3100S22                  1–3, 5, 7, 8                  19
+1366D21G34                       1366D21G34      O             —                           E2F050YMU62                 1–3, 5, 7, 8
+1366D21G35                       1366D21G35      O             —                           E2F050YM+
+                                                                                           625B229G08
+                                                                                                                       1–3, 5, 7, 8
+                                                                                                                                                     20
+1366D21G36                       1366D21G36      O             —                           E2F050YMU62+                1–3, 5, 7, 8
+                                                                                           625B229G08                                                21
+1366D21G37                       1366D21G37      O             —                           E2F050YMS22                 1–3, 5, 7, 8
+1366D21G38                       1366D21G38      A             —                           E2F050YMU62                 1–3, 5, 7, 8                  22
+1366D21G39                       1366D21G39      A             —                           E2F050YM+                   1–3, 5, 7, 8
+
+                                                                                                                                                     23
+                                                                                           625B229G08
+
+Note
+1 O = Obsolete, A = Available.
+
+                                                                                                                                                     24
+                                                                                                                                                     25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com          V12-T3-165
+

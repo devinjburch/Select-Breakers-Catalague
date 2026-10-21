@@ -1,0 +1,96 @@
+                                                                                                                         IQ Products
+                                                                                                                      Technology Upgrades
+                                                                                                                                                       10
+Enclosed Meters                       multi-unit enclosed meter                          results. In addition to the
+                                      solution helps meet any                            standard offering, Eaton can                                               1
+                                      measurement and verification                       also provide an enclosed
+                                      requirement to show energy                         metering solution tailored
+                                      efficiency improvements and                        around your project needs.                                                 2
+                                      Catalog Number Selection                                                                                                      3
+                                      Single Unit Enclosed Meter
+                                                                                                                                                                    4
+   NEMA 12 Single- and Multi-Unit
+         Enclosed Meters                                        PXM2250MA65105 - 2 B
+General Description                                                                                                                                                 5
+The Eaton enclosed meter                          Meter Type                              NEMA Rating                  CPT Option
+line provides a complete               PXM4051A1BA      PXM2270MA65105                    2 = NEMA 12          A = 120/240 Vac (no CPT)                             6
+energy metering and data               PXM4051A1BB      PXM2270MA65115                    3 = NEMA 3R          B = 480 Vac (CPT)
+                                       PXM6051A1BA      PXM2270MA65145                    4 = NEMA 4X
+acquisition solution in a
+single enclosure. Designed
+                                       PXM6051A1BB
+                                       PXM8051A1BA
+                                                        IQ250MA65100
+                                                        IQ250MA65110
+                                                                                                                                                                    7
+for Eaton’s IQ 35M, IQ 150,            PXM8051A1BB      IQ250MA65114
+IQ 250/260, and Power Xpert®
+2000/4000/6000/8000 and
+                                       PXM2250MA65105 IQ260MA65100
+                                       PXM2250MA65115 IQ260MA65110                                                                                                  8
+Multi-Point Meters, Eaton’s            PXM2250MA65145 IQ260MA65114
+
+                                                                                                                                                                    9
+                                       PXM2260MA65105 IQ150MA6511
+enclosed meter line offers             PXM2260MA65115 IQ150MA6512
+mounting and installation              PXM2260MA65145
+flexibility, especially in retrofit
+applications where no
+                                      Enclosed PXMP Meter                                                                                                           10
+metering compartment or
+mounting space is available
+in the existing electrical                                           PXMP - 2 B D                                                                                   11
+distribution equipment or
+where installation time is a
+premium. Factory designed
+                                          Meter Type                                                                   Display                                      12
+                                        PXMP-MB                   NEMA Rating              CPT Option             A = None
+and wired, Eaton’s enclosed             PXMP-MB-AB                                     A = None                   D = 6-inch color
+                                                                  2 = NEMA 12
+meter line offers savings in
+labor and installation costs
+                                                                  3 = NEMA 3R          B = 120/240 Vac                touchscreen                                   13
+                                                                  4 = NEMA 4X          C = 480 Vac
+because input current and                                                              D = 600 Vac
+voltage wiring as well as I/O                                                                                                                                       14
+wiring is prewired to terminal        Multi Unit Enclosed Meter
+blocks inside the enclosure.
+                                                                                                                                                                    15
+The enclosed meter line has                                       IQ150MA6511 - 2 B 4 C
+two standard offerings:
+single-, prewired unit                                                                                                                                              16
+(specific IQ 150, IQ 250/260,             Meter Type                                                                             Communications
+PXM 2000, PXM 4000/6000/               IQ35MA12                   NEMA Rating                                                  C = Includes PXG-200E
+8000 or PXMP) and a multi-             IQ150MA6511                2 = NEMA 12 1              CPT Option                                                             17
+                                       IQ250MA65100               3 = NEMA 3R          A = 120/240 Vac No CPT
+unit (specific IQ 150, IQ 250/         IQ260MA65100               4 = NEMA 4X
+                                                                                                                       Number of Meters
+                                                                                       B = 480 Vac CPT 1
+260 or IQ 35M models).
+Because the multi-unit
+                                                                                                                       4 = 4 meters
+                                                                                                                                                                    18
+automatically includes Eaton’s        Accessories
+Power Xpert Gateway 200E,                                                                                                                                           19
+it facilitates measurement            Meter Subpanel Assembly
+and verification of the energy
+usage on processes and in             Description
+                                                                                                            Catalog
+                                                                                                            Number                                                  20
+buildings. This provides a
+                                      Meter subpanel assembly for PXM 2000                                  PXM2K-MSPA-A
+convenient way to monitor
+energy usage from multiple
+                                      and IQ 150/250/260 Meters                                                                                                     21
+points, collect and log specific      Meter subpanel assembly with CPT for PXM 2000                         PXM2K-MSPA-B
+
+                                                                                                                                                                    22
+                                      and IQ 150/250/260 Meters
+energy use parameters, and
+display and generate logs             Notes
+for historical energy usage           1 Not available with IQ 35M.
+reports. Simply put, Eaton’s          Other meter models available upon request in single- and multi-unit enclosed versions.                                        23
+                                                                                                                                                                    24
+                                                                                                                                                                    25
+                   Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                            V12-T10-23
+

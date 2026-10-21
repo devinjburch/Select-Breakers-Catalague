@@ -1,0 +1,85 @@
+     3                               Molded-Case Circuit Breakers
+                                     Replacement Capabilities
+
+
+
+     UL Listed Interrupting Ratings                                               Accessories and Modifications
+1    Maximum Volts                Amperes                                         ■ Shaded area denotes               UL Listed Interrupting Ratings
+                                                                                  obsolete or discontinued            (see table)
+     Standard Breakers
+2    240 AC                       30,000 asymmetrical, 25,000 symmetrical
+                                                                                  products and services.              For all three-phase
+                                                                                                                      delta, grounded B phase
+                                                                                  Magnetic Only, Front Adjustable
+     480 AC                       25,000 asymmetrical, 22,000 symmetrical                                             applications, contact
+3    600 AC                       15,000 asymmetrical, 14,000 symmetrical
+                                                                                  Breakers (see table on
+                                                                                  Page V12-T3-21)                     Avery Creek, NC, Technical
+                                                                                                                      Resource Center at
+     250 DC                       10,000
+                                                                                                                      1-800-356-1243.
+4    MARK 75 Breakers
+                                                                                   Special Calibrations               Terminals (see table)
+     240 AC                       75,000 asymmetrical., 65,000 symmetrical.
+                                                                                   Special calibration price          Two terminals are required
+5    480 AC                       30,000 asymmetrical, 25,000 symmetrical          additions apply to ampere          per pole.
+     600 AC                       20,000 asymmetrical, 18,000 symmetrical          ratings not listed as standard
+                                                                                   or for ambients other than         Terminals are UL Listed for
+6    250 DC                       20,000 1
+                                                                                   40°C or 50°C. For frequencies      wire type and range listed
+                                                                                   other than 0–60 Hz AC, refer       below. When used with
+                                                                                                                      aluminum conductors, use
+7    Terminals 2
+     Maximum                       Number of Cables,             Catalog
+                                                                                   to Eaton.
+                                                                                                                      joint compound. To order
+                                                                                   Note: Two-pole breakers are        optional copper only terminals,
+     Amperes                       Wire Range, Type              Number
+                                                                                   supplied in three-pole frames
+8    Standard Al/Cu Pressure Terminals                                             with current carrying parts
+                                                                                                                      add suffix “C” to complete
+                                                                                                                      breaker catalog number.
+                                                                                   omitted from center pole.
+     250                           (1) #4–350 kcmil Al/Cu        TA250KB
+9    Optional Pressure Terminals                                                   50°C Calibration
+                                                                                                                      Magnetic Only Breakers
+                                                                                                                      For description, refer to
+     250                           (1) #4–350 kcmil Cu           T250KB            Add suffix “V” to catalog          Application Data 29-160. To
+10   Notes
+                                                                                   number for complete
+                                                                                   breaker, listed on
+                                                                                                                      order these breakers, select
+                                                                                                                      frame, trip unit and terminals.
+                                                                                   Page V12-T3-21, when
+     1 Ratings above 10,000A not UL Listed.
+
+
+11   2 Terminals shipped separately from breaker frame.
+                                                                                   ordering breakers to be            Additional Accessories
+                                                                                   used in 50°C ambients.             and Modifications
+                                                                                                                      Refer to Pages V12-T3-65–
+12                                                                                 For CSA, see                       V12-T3-79.
+                                                                                   Page V12-T3-48.
+
+13                                                                                 Note: Two-pole breakers are
+                                                                                   supplied in three-pole frames
+                                                                                   with current carrying parts
+14                                                                                 omitted from center pole.
+
+                                                                                  Type KB breakers meet
+15                                                                                requirements for Class 19a,
+                                                                                  as defined by Federal
+                                                                                  Specification W-C-375b.
+16                                                                                Type HKB breakers not
+                                                                                  defined in W-C-375b.
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T3-22               Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

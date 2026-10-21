@@ -1,0 +1,68 @@
+                                                                                                                   Motor Control
+                                                                        Adjustable Frequency AC Drives—Solid-State Low Voltage
+                                                                                                                                                     13
+General Information
+Model                 hp Range                        Input Voltage            Output Devices                         Output Algorithm   Control Type             1
+VLT-5                 1–5                             240, 415                 SCR                                    VVI                Analog
+AF-1000               1–5 1                           230, 480                 Transistors                            PWM                Analog                   2
+AF-1500               1–30                            240, 480                 Transistors                            PWM                Digital
+AF-1600               1–20                            240, 480                 IGBT                                   Vector PWM         Digital                  3
+AF-2000               5–10                            230                      SCR                                    VVI                Analog
+AF-300                N/A                             N/A                      SCR                                    CSI                Analog
+                                                                                                                                                                  4
+AF-3000 2             30–250                          230, (460 opt)           SCR                                    PWM                Analog
+
+                                                                                                                                                                  5
+AF-5000               5 –100                          380–480                  Transistor                             PWM                Analog
+AF-5000+              5–600                           380–480                  Transistor                             PWM                Digital
+AF-6000               15–300                          480                      SCR                                    VVI                Analog
+AF-7000               20–600                          480, 575                 Transistor                             VVI                Analog                   6
+AF-8000               3 and 5                         480                      SCR                                    PWM                Analog
+Accutrol 100          1–5                             230                      Transistor                             PWM                Analog                   7
+Accutrol 110          1–75                            230, 460                 Transistor                             PWM                Digital 3
+Accutrol 150          3–50                            460                      Transistor 4                           PWM                Analog                   8
+Accutrol 200          3–250                           460                      Transistor 4                           PWM                Analog
+Accutrol 300
+Accutrol 400
+                      15–600
+                      3–150
+                                                      460, 575
+                                                      460
+                                                                               Gate turn-off thyristor
+                                                                               Transistor
+                                                                                                                      VVI
+                                                                                                                      PWM
+                                                                                                                                         Analog
+                                                                                                                                         Digital
+                                                                                                                                                                  9
+                                                                                                                                                                  10
+Accutrol 700          100–600                         480                      IGBT                                   Vector PWM         Digital
+AF93                  2–20                            240, 480                 Insulated gate bipolar transistor      Vector PWM         Digital
+AF95                  15–200                          480                      Insulated gate bipolar transistor      PWM                Digital
+AF97                  100–600                         480                      Insulated gate bipolar transistor      Vector PWM         Digital                  11
+AF91                  Fractional to 10                240, 460                 Insulated gate bipolar transistor      PWM                Digital
+MVX9000               Fractional to 10                120, 240, 480            Insulated gate bipolar transistor      PWM                Digital                  12
+9000 Series           Fractional to 1100              208–575                  Insulated gate bipolar transistor      PWM                Digital
+SVX9000               Fractional to 2000              208–575                  Insulated gate bipolar transistor      PWM                Digital
+                                                                                                                                                                  13
+Notes
+1 Also available with a single-phase output.
+2 Standard 220V output only.
+                                                                                                                                                                  14
+3 Analog controls on pre-1988 models.
+4 Gate Turn-off Thyristor (GTO) output devices on pre-1986 models. Transistor versions have a
+
+  T as the third character in the style number.
+                                                                                                                                                                  15
+                                                                                                                                                                  16
+                                                                                                                                                                  17
+                                                                                                                                                                  18
+                                                                                                                                                                  19
+                                                                                                                                                                  20
+                                                                                                                                                                  21
+                                                                                                                                                                  22
+                                                                                                                                                                  23
+                                                                                                                                                                  24
+                                                                                                                                                                  25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                       V12-T13-73
+

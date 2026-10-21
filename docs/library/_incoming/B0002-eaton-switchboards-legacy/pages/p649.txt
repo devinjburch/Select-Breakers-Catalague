@@ -1,0 +1,62 @@
+                                       Counters, Panel Meters, Tachometers and Timers
+                                                                                                                       Tachometers/Ratemeters
+                                                                                                                                                24
+General Specifications, continued
+Description                      Specification                                                                                                               1
+Accessory Power Output
+Voltage                          12 Vdc ±12%                                                                                                                 2
+Current                          75 mA max.
+Protection                       Short-circuit protected                                                                                                     3
+Optional Outputs
+Relay board
+ Number of relays                Two
+                                                                                                                                                             4
+ Contact type                    1 set Form C per relay
+ Contact rating                  5 A, 250 Vac or 30 Vdc                                                                                                      5
+ Isolation dielectric strength   2300 Vac
+Analog retransmission                                                                                                                                        6
+ Output signals                  4–20 mA (<750 ohms) and 0–10 V (>2500 ohms)
+ Accuracy                        0.13% full scale and 100 PPM/°C (and 0.07% full scale change over 4–20 mA load ranges)                                      7
+ Isolation dielectric strength   2300 Vac to signal inputs, relays and AC power inputs; 500 Vac to RS-485 and DC power inputs
+RS-485 serial communications
+                                 1200, 2400, 4800, 9600, or 19,200, programmable
+                                                                                                                                                             8
+ Baud rate
+
+                                                                                                                                                             9
+ Parity                          Even, odd or no parity
+ Address range                   00 to 99 decimal
+ Protocol                        Opto 22® compatible
+ Isolation dielectric strength   2300 Vac to signal inputs, relays and AC power inputs; 500 Vac to analog outputs and DC power inputs                        10
+Environmental
+Operating environment            Indoor use to 2000 meters                                                                                                   11
+Temperature
+ Operating                       32 to 122 °F (0 to 50 °C)
+                                                                                                                                                             12
+ Storage                         –4 to 158 °F (–20 to 70 °C)
+Humidity
+Vibration
+                                 0 to 85% RH, noncondensing
+                                 2.5 Gs, 30 to 200 Hz
+                                                                                                                                                             13
+Shock                            30 Gs, 11 ms half sinewave
+EMC                              Immunity to EN 50082-2 (heavy industrial)                                                                                   14
+                                 Emissions to EN 50081-2 (heavy industrial)
+Front panel                      NEMA 4X when mounted with gasket provided                                                                                   15
+CE EMC immunity and emissions    Met using shielded wiring on the RS-485, analog output and pulse input/ power lines. The shields were
+requirements
+Pollution degree 2
+                                 connected to earth ground at the Eclipse end of the shields.
+                                 Overvoltage Category II
+                                                                                                                                                             16
+                                                                                                                                                             17
+                                                                                                                                                             18
+                                                                                                                                                             19
+                                                                                                                                                             20
+                                                                                                                                                             21
+                                                                                                                                                             22
+                                                                                                                                                             23
+                                                                                                                                                             24
+                                                                                                                                                             25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com                  V12-T24-67
+

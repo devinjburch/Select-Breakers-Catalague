@@ -1,0 +1,89 @@
+     3                        Molded-Case Circuit Breakers
+                              Replacement Capabilities
+
+
+
+     OPTIM 550 Trip Units for Upgrading Thermal/Magnetic Trips                   Cutler-Hammer PowerNet™ and Zone Interlock Kits (OPTIM 550 Only)
+1                                                                                K-, L- and N-Frames
+
+                                                                                 PowerNet                                           The Cutler-Hammer
+2                                                                                Communication Kit                                  PowerNet communications
+                                                                                                                                    kit can be ordered to add
+3                                                                                                                                   PowerNet communications
+                                                                                                                                    to an existing OPTIM 550
+                                                                                                                                    breaker in the field. An
+4                                 Digitrip OPTIM 550
+                                                                                                                                    18.00-inch wiring pigtail is
+                                                                                                                                    routed to the rear of the
+     Replacement of the                            10 set points providing for                                                      breaker: two wires for
+5
+                                              ●
+
+     OPTIM 550 trip units and                      premium protection and                                                           PowerNet and two wires
+     the associated accessories                    coordination                                                                     for 24 Vdc (45 mA load).
+                                                                                                                                    It is recommended that the
+6    allows a customer to easily
+     upgrade an existing Series C,
+                                              ●    Cause-of-Trip indication
+                                                   (LEDs and digital memory)
+                                                                                                                                    power supply be an “isolated
+     K- or L-Frame molded-case                                                                                                      high quality” unit.
+                                                   Load monitoring to provide
+7
+                                              ●
+     circuit breaker equipped                      information for energy
+     with a standard thermal-                      management
+     magnetic trip unit, without
+8    the need to purchase a new
+                                              ●    Diagnostics to assist in
+                                                   system troubleshooting
+                                                                                 PowerNet and Zone Interlock Kits
+     circuit breaker.                                                                                                    Zone Interlocking/          PowerNet and Zone
+                                              ●    Communications and zone
+9    Key features and benefits                     interlocking options—field
+                                                                                              PowerNet                   Ground 1                    Interlocking/Ground 1
+     of the OPTIM 550 trip                         or factory installed
+                                                                                              Factory                    Factory                     Factory
+                                                                                 Circuit      Install      Catalog       Install     Catalog         Install     Catalog
+     unit include:
+10                                                                               Breaker      Suffix       Number        Suffix      Number          Suffix      Number
+                                                                                 K-Frame      PN           ICK550K       ZG          ZGK550K         ZGP         ZGPK550K
+     OPTIM 550 Trip Units for Upgrading Thermal/Magnetic Trips
+11   Maximum
+                     Catalog Number
+                                                                                 L-Frame      PN           ICK550L       ZG          ZGK550L         ZGP         ZGPK550L
+
+                     Type of OPTIM 550 Trip Unit                                 N-Frame      PN           ICK550N       ZG          ZGK550N         ZGP         ZGPK550N
+     Ampere Rating
+12   (Sensor)        LSI                  LSIA                LSIG               Notes
+                                                                                 1 Includes a ground fault alarm signal that can drive the ground fault alarm unit
+     KD, HKD, KDC, CKD and CHKD Breaker Frames
+                                                                                   (catalog number GFAU).
+13   125             KEP3125T52            KEP3125T57         KEP3125T56
+                                                                                 Instruction leaflet numbers (K) 29C506, (L) 29C897, (N) 29C898.
+     250             KEP3250T52            KEP3250T57         KEP3250T56
+
+14   400             KEP3400T52            KEP3400T57
+     LD, HLD, LDC, CLD, CHLD and CLDC Breaker Frames
+                                                              KEP3400T56
+
+
+
+15
+     125             LEP3125T52            LEP3125T57         LEP3125T56
+     250             LEP3250T52            LEP3250T57         LEP3250T56
+     400             LEP3400T52            LEP3400T57         LEP3400T56
+16   600             LEP3600T52            LEP3600T57         LEP3600T56
+
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T3-94         Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

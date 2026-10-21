@@ -1,0 +1,73 @@
+                                                                                                  Switchgear
+                                                     Westinghouse DA and DK Breakers—Trip Unit Retrofit Kits
+                                                                                                                                  17
+Digitrip RMS Trip                     Application Notes for DA and        4. When the ground fault            5. RMS 510 Zone, 610,
+Unit Retrofit Kits for                DK Power Circuit Breakers              (G) option is selected,             810 and 910 retrofit kits    1
+                                       1. Retrofit kits are for              please observe the                  include a cell terminal
+Westinghouse DA                                                              following:                          block assembly that must
+                                          use on 50 and 60 Hz
+and DK Breakers                           distribution systems.                                                  be installed in the          2
+                                                                              a. For three-phase,                switchgear assembly.
+Replacement and                       2. All retrofit kits are                   three-wire solidly              Internal switchgear
+Upgrade Capabilities                     designed for drawout                    grounded systems,               wiring to accommodate        3
+Replacement and upgrade                  power circuit breakers                  choose quantity three           the customer application
+capabilities include                     only. Refer all fixed-                  current sensors in
+replacement Digitrip trip units          mounted breaker                         the catalog number
+                                                                                                                 schemes must be added
+                                                                                                                 in the field.
+                                                                                                                                              4
+and rating plugs, Digitrip trip          applications to the                     development.
+unit upgrades, Digitrip RMS
+trip unit retrofit kits and
+                                         Digitrip retrofit kit
+                                         Technical Service Center
+                                                                              b. For three-phase, four-       6. RMS 610, 810 and 910
+                                                                                                                 retrofit kits require a
+                                                                                                                                              5
+                                                                                 wire solidly grounded
+upgrade retrofit kits. For               at 1-800-937-5487.                      systems, choose                 customer supplied
+definitions of these solutions
+                                      3. The breaker compartment                 quantity four current           120 Vac source               6
+see Page V12-T17-19.                                                             sensors in the catalog          connected to the cell
+                                         doors on the switchgear                                                 terminal block assembly
+                                                                                 number development.
+For Digitrip RMS trip unit retrofit
+kits and upgrade retrofit kits,
+                                         assembly must be free
+                                                                                 Three sensors are               to power the Digitrip        7
+                                         of panel-mounted                                                        RMS digital displays
+create the Digitrip RMS retrofit         instruments and devices                 mounted on the
+                                                                                                                 and communications
+kit catalog number to match              (i.e., ammeters, switches,              breaker and one
+                                                                                 sensor is mounted on            functions (as applicable).   8
+the Westinghouse DA or DK                etc.) or the retrofitted
+breaker type, retrofit kit type,         breaker may interfere with              the switchgear neutral.
+protection function, rating plug         these devices when the                  Hardware to mount                                            9
+type, current sensor type, CPT,          compartment door                        the current sensor on
+                                                                                 the switchgear neutral
+and type of kit required for
+application. See the example
+                                         is closed.
+                                                                                 and provisions to wire                                       10
+provided on Page V12-T17-30.                                                     it into the trip unit
+                                                                                 circuit (including a
+                                                                                 required pair of breaker                                     11
+                                                                                 secondary disconnect-
+                                                                                 ing contacts) are not
+                                                                                 included in the kit.
+                                                                                                                                              12
+                                                                                                                                              13
+                                                                                                                                              14
+                                                                                                                                              15
+                                                                                                                                              16
+                                                                                                                                              17
+                                                                                                                                              18
+                                                                                                                                              19
+                                                                                                                                              20
+                                                                                                                                              21
+                                                                                                                                              22
+                                                                                                                                              23
+                                                                                                                                              24
+                                                                                                                                              25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com       V12-T17-29
+

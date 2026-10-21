@@ -1,0 +1,79 @@
+                                                                                   Communication Systems
+                                                                                          Communication Hardware
+                                                                                                                                 11
+Power Xpert Gateway 200E with Standard Panel Mounting (Brackets Included)
+                                                                               10.75
+                                                                                                                                              1
+ Ø 0.19 (6)                                                 10.25             (273.1)
+   (4.8)                                                   (260.4)                                                                            2
+
+ 2.00 1.12
+                                                                                                                  0.56
+                                                                                                                 (14.2) 1.60                  3
+(50.8) (28.5) 0.56                                                                                                      (40.6)
+             (14.2)
+                                                                                                                                              4
+                                                                                                                  0.24
+                                                                       8.75
+                                                                     (222.3)                             0.25
+                                                                                                                  (6.1)                       5
+                                                                                                         (6.4)
+                                                                      Front
+                                                                                                                                              6
+Power Xpert Gateway 200E
+                                                                                                                                              7
+                                                   8.75
+                                                 (222.3)
+                                                                                                                                              8
+                                                                                                                                              9
+                                                                                                                                              10
+                                                                                                 4.30                                         11
+                                                                                               (109.2)
+
+                                                                                                                                              12
+                                                                                                                                              13
+                                                                                                                                              14
+ 0.60
+
+                                                                                                                                              15
+(15.2)
+
+
+
+PXG-E Daisy Chain Application        connect up to five Ethernet                                                                              16
+The PXG-E allows for units to        communicating devices. The
+be connected together                maximum length of a copper
+through two RJ-45 10/100             cable run should not exceed                                                                              17
+connectors on the front of           295 ft (90m) total.
+the PXG-E series of products.
+This arrangement is a
+                                     Note: In this configuration, if any
+                                     of the PXG-E units go offline or
+                                                                                                                                              18
+pass-through of Ethernet             lose power, the communication to
+communications allowing
+a single network drop to
+                                     the downstream Ethernet devices
+                                     will lose connection to the LAN.
+                                                                                                                                              19
+
+PXG-E Daisy Chain Application                                                                                                                 20
+                                                                                                                                              21
+ Ethernet LAN
+
+
+
+                                                                                                                                              22
+                LAN Connection
+
+
+
+                                                                                                                                              23
+                                                                     Cat-5 Patch Cables
+
+                                                                                                                                              24
+                                                                        295 ft (90m)
+                                                                                                                 PXM2000
+                                                                                                                                              25
+                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com       V12-T11-15
+

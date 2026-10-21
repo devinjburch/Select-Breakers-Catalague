@@ -1,0 +1,119 @@
+     13                      Motor Control
+                             Synchronous—Relay or Solid-State Mark V Slipsyn for Brush and Brushless Motors
+
+
+
+     Contents                           Synchronous—Relay or                Solid-State—Mark V                  Relay and Solid-State Type
+1    Description             Page       Solid-State Mark V                  The Mark V is 100% solid-           Control
+                                        Slipsyn for Brush and               state and features a “soft-         Relay type Slipsyn was
+     Brush Type Relay Slipsyn Class                                         turn-on” circuit that applies       introduced in 1947 and uses
+2    14-100 Field Application Panel     Brushless Motors
+                                                                            DC field voltage to the motor       the ASR synchronizing relay.
+      Product                                                               field. It enables all required      Forms of solid-state type
+      Description,
+                                        Product Description
+3     Technology                        Synchronous Motors
+                                                                            functions for correct
+                                                                            synchronization to be
+                                                                                                                Slipsyn were introduced in
+                                                                                                                the late 1950s and early
+      Upgrades . . . . . V12-T13-78     Polyphase synchronous                                                   1960s, but were not
+                                                                            accomplished without the
+4    Brush Type Mark V Solid-State      motors are used primarily to
+                                        obtain high pullout torques,
+                                                                            use of moving contacts or           completely solid-state and
+     Slipsyn Class 14-100 Field                                             mechanical closing devices.         had some of the operation
+     Application Panel                  constant operating speed, or                                            problems that the relay type
+5     Product                           generation of leading reactive      With the Mark V, the static         control encountered. These
+      Description. . . . V12-T13-80     kVA for power factor (PF)           exciter power supply is             were called Mark I and Mark
+      Replacement                       correction. To bring a motor        always supplied and is part of      II Static Slipsyn. In 1989, the
+6     Capabilities,                     to a constant speed, DC             the “system.”                       Mark V Solid-State Slipsyn
+      Technology                        power is applied to a special                                           field control was introduced.
+      Upgrades . . . . . V12-T13-81     winding in a synchronous            Also available as a modification
+7    Brush Type Mark V Solid-State      motor. This winding is called       with the Mark V is a VAR or         Medium Voltage (AMPGARD®)
+                                        a field coil winding and is         power factor, DC field current      Starters
+     Slipsyn Class 14-100 Low                                               regulator. The regulator
+8    Voltage Motor Starters             controlled by “field control.”
+                                        Power (DC) for a brush type         consists of a printed circuit
+                                                                                                                The AMI AMPGARD
+                                                                                                                synchronous starter (1957–
+      Product
+                                        motor is usually supplied with      board, auxiliary devices            1970) used a 60-inch deep
+      Description,
+                                                                            and potentiometers for
+9     Technology                        the starter and entails using
+                                                                            adjustment.
+                                                                                                                enclosure with the
+      Upgrades . . . . . V12-T13-82     an exciter. Power (DC) for a                                            synchronous control in the
+                                        brushless type motor is                                                 low voltage section in the
+10   Brushless Type Relay Slipsyn
+     Class 14-100 Field Application     supplied by an exciter
+                                                                            Product History
+                                                                            Originally a Westinghouse
+                                                                                                                front bottom two thirds of the
+     Panel                              mounted on the motor.                                                   starter enclosure. The basic
+                                                                            Product                             motor control was located in
+11    Product
+      Description. . . . V12-T13-83
+                                        Synchronous Motor Control           Synchronous Motor Control           the rear bottom two thirds of
+                                        Synchronous motor “field            Brush type synchronous field        the enclosure, barriered off
+      Replacement
+                                        application control” generally
+12    Capabilities,
+                                        includes a synchronous
+                                                                            control was originally
+                                                                            available in the 1940s. Motor
+                                                                                                                from the low voltage section.
+                                                                                                                The AMI AMPGARD for
+      Technology
+      Upgrades . . . . . V12-T13-84     device to apply DC power to         starters for brushless              synchronous motors used the
+13   Brushless Type Mark V Solid-
+                                        the motor field circuit at the
+                                        optimum speed. It may also
+                                                                            synchronous motors have             ASR relay type control.
+                                                                            been offered since the late
+     State Slipsyn Class 14-100         include protective features         1960s. Synchronous motors           The LF AMPGARD (1962–
+14   Field Application Panel
+      Product
+                                        such as locked rotor                can be medium voltage               1988) primarily used the ASR
+                                                                                                                field application relay control.
+                                        protection, failure to              (2300–7200V) or low voltage
+      Description,                                                                                              Mark I and Mark II Static
+                                        synchronize, incomplete             (600V and below). A
+15    Technology
+      Upgrades . . . . . V12-T13-85     sequence, field failure,            synchronous motor starter           Slipsyn were also used during
+                                        pullout protection, etc.            includes the basic motor            their availability periods. The
+     Relay and Solid-State Slipsyn                                                                              LF AMPGARD for synchronous
+16   Control
+                                        depending on the type of field
+                                        application control selected.
+                                                                            control PLUS the
+                                                                            synchronous control and             motors included the basic
+      Further                                                                                                   induction motor control (ISO®
+                                                                            protection functions.
+      Information,                                                                                              switch, contactor and starter
+17    Pricing
+                                        Relay Type vs. Solid-State
+                                        Type—Mark V                         Typically, the basic motor
+                                                                                                                control) in the bottom half of
+      Information. . . . V12-T13-86                                         control and the field
+                                        Relay Type                          application control are             the structure.
+18                                      The relay type used the ASR         mounted in separate
+                                        synchronizing relay. Inherent       compartments within
+                                        in using the relay type are the     the starter. Ratings of
+19                                      problems that are associated        synchronous control are in
+                                        with using contacts or              terms of the maximum DC
+                                        mechanical closing devices
+20                                      such as arcing, spring and
+                                                                            field amperes required by the
+                                                                            motor. Current ratings are 45,
+                                        bearing deterioration and           90, 135, 160, 200 or 270A
+21                                      wear, dirty atmospheres, etc.       DC, through 6000 hp at 5 kV.
+
+
+22
+23
+24
+25
+     V12-T13-76        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

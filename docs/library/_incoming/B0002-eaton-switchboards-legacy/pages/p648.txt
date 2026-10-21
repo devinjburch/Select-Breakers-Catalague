@@ -1,0 +1,81 @@
+     24                                     Counters, Panel Meters, Tachometers and Timers
+                                            Tachometers/Ratemeters
+
+
+
+     Eclipse Series
+1
+     Product Description                                    Features                                           Standards and Certifications
+     Eaton’s Eclipse Series offers                              1/8 DIN cutout                                     UL and cUL listed
+2
+                                                            ●                                                  ●
+
+     a high visibility LED and a                            ●   NEMA 4X front panel                            ●   CE marked
+     variety of optional outputs.                           ●   Universal AC power supply
+3                                                               (85–265 Vac)
+                                                            ●   Removable screw
+                                                                terminals
+4                                                           ●   Short depth: 3.6 in (91 mm)
+                                                            ●   Front panel programming
+5
+     Product Selection
+6    57700470                         Eclipse Series Five-Digit LED Ratemeter
+                                      Description                                                                         Catalog Number
+7                                     85–265 Vac                                                                          57701470
+                                      85–265 Vac, alarms                                                                  57701471
+8                                     85–265 Vac, analog out                                                              57701472
+                                      85–265 Vac, alarms, analog out                                                      57701473
+9
+     Technical Data and Specifications
+10
+     General Specifications
+11   Description                                                 Specification
+     Input Power
+
+12   AC powered models (57701-4XX)
+                                                                 85–265 Vac, 47–63 Hz, 20 V A
+      Input power
+
+13    External fuse
+      Isolation dielectric strength
+                                                                 0.2A, 250 Vac, time delay (T200 mA, 250V)
+                                                                 2300 Vac
+
+14
+     Human Interface
+     Display                                                     Five digits
+     Type                                                        0.56 in high, seven segment, red LED
+15   Indicator                                                   One red LED program/calibration indicator
+     Update time                                                 0.1 to 99.9 seconds minimum
+16   Data Retention
+     Memory type                                                 EEPROM, no batteries required
+17   Duration                                                    100 years
+     Signal Input
+
+18   Rate/process time                                           Signal in
+     Sensor type                                                 Sink or source, DIP switch selectable
+
+19   Input impedance
+     Thresholds
+                                                                 4.75 Kohms to +5 Vdc or 34.9 Kohms to ground
+
+
+                                                                 3.5 to 28 Vdc
+20
+      High
+      Low                                                        0 to 1.9 Vdc, for single ended signals
+     Magnetic pickup range                                       200 mV p-p to 65V rms into 34.9 Kohms
+21   Frequency response                                          200 Hz max. or 10 kHz max. (5V signals), DIP switch selectable
+     Program Enable Input
+22   Sensor type                                                 Sink only
+     Input impedance                                             4.75 Kohms to +5 Vdc
+
+23   Thresholds
+      High                                                       3.5 to 28 Vdc
+
+24    Low                                                        0 to 1.9 Vdc
+     Response                                                    25 ms max. (5V signal)
+
+25
+     V12-T24-66                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

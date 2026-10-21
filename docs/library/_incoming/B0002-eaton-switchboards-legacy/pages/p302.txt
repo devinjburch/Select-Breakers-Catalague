@@ -1,0 +1,100 @@
+     10                       IQ Products
+                              Replacement Capabilities—Discontinued Product—Recommended Replacement
+
+
+
+     ■ Shaded area denotes obsolete or discontinued products and services.
+1
+     IQ Generator                        Product Selection                    IQ 300                                             Features and Benefits
+2                                                                                                                                ●   Bright display with eight
+                                         IQ Generator                                                                                large numeric digits along
+                                                                                                                                     with a 10-character
+3                                        Description
+                                                                    Catalog
+                                                                    Number                                                           description of the
+                                                                                                                                     measured value makes the
+                                         Basic metering             IQGEN
+                                                                                                                                     IQ 300 ideal for switchgear
+4                                        Basic metering with        IQGENPM                                                          mounting
+                                         three-phase power module                                                                ●   Base unit can be display
+5                                        Recommended Replacement                                                                     mounted for simple, one-
+                                                                                                                                     hole installation
+                                         IQ DP-4000
+                                                                                                                                     Base unit can be mounted
+6
+                                                                                                                                 ●
+
+                                                                                                                                     up to 10 feet (3m) away
+               IQ Generator                                                                                                          from display and has three
+                                                                                                IQ 300
+7    Eaton’s Cutler-Hammer                                                    Eaton’s Cutler-Hammer IQ
+                                                                                                                                     mounting options
+
+     IQ Generator provides                                                    300’s thin display and flexible
+8    simultaneous current and
+     voltage metering. In addition,
+                                                                              mounting capabilities make it
+                                                                              perfectly suited for any
+     the IQ Generator monitors                                                application where an
+9    frequency. This device                                                   accurate, multifunction meter
+     provides an alternative to                                               is desired, such as
+     individually mounted and                                                 panelboard and switchboard
+10   wired ammeters, voltmeters,                                              mains and feeders, motor
+     ammeter and voltmeter                                                    control centers, and both low
+     switches, and frequency                                                  voltage and high voltage
+11   meters.                                                                  metal-enclosed switchgear.
+
+12   Features and Benefits
+     ●   Space savings in                                                     Product Selection
+         structure—replaces
+13       ammeter, voltmeter,                                                  IQ 300
+         selector switches                                                                                                                             Catalog
+         and frequency meter
+14
+                                                                              Description                                                              Number
+         (IQ Generator)
+                                                                              IQ 310 complete meter with base module, display and 14.00-inch           IQ310
+     ●   Standardization of                                                   (355.6 mm) cable—no communications, no pulse output
+15       design—one door-
+         mounted device
+                                                                              IQ 320 complete meter with base module, display and 14.00-inch           IQ320
+                                                                              (355.6 mm) cable—with INCOM communications and pulse output
+     ●   Direct voltage input up
+16       to 600V—no additional
+                                                                              IQ 330 complete meter with base module, display and 14.00-inch
+                                                                              (355.6 mm) cable—with INCOM communications, pulse output, two contact
+                                                                                                                                                       IQ330
+
+         PTs required                                                         outputs, two digital inputs, one analog input and anti-tamper seal
+
+17   ●   User-friendly—field-
+         settable DIP switches
+                                                                              IQ 330M complete meter with base module, display and 14.00-inch
+                                                                              (355.6 mm) cable—with RS-485 Modbus communications, pulse output, two
+                                                                                                                                                         IQ330M
+
+     ●   Standard model derives                                               contact outputs, two digital inputs, one analog input and anti-tamper seal
+18       power from separate                                                  IQ 300D display module only                                              IQ300D
+         source 120/240 Vac supply
+         Only two style numbers                                               Recommended Replacement
+19
+     ●
+
+     ●   No need to stock multiple                                            IQ DP-4000/4100
+         units for different CT and
+20       PT ratios
+     ●   Interface capability to
+         computer network for data
+21       collection, storage and/or
+         printout via IMPACC
+22   ●   Membrane faceplate,
+         designed and tested to
+         perform in harsh industrial
+23       environment (Type 3R, 12)
+     ●   Retains preset parameters
+24       through power failure with
+         use of field-settable DIP
+         switches (no batteries)
+25
+     V12-T10-38        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

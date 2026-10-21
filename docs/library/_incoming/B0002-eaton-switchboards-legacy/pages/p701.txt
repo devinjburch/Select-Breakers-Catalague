@@ -1,0 +1,86 @@
+Appendix 1—General Terms and Conditions of Sale
+Effective Date: November 1, 2017
+
+
+
+Extended Warranty for Products       Warranty for Services               Warranty for Power Systems           Asbestos
+If requested by the Buyer and        Seller warrants that the            Studies                              Federal Law requires that
+specifically accepted in writing     Services performed by it            Seller warrants that any             building or facility owners
+by Seller, the foregoing             hereunder will be performed         power systems studies                identify the presence,
+standard warranty for                in accordance with generally        performed by it will conform         location and quantity of
+Products will be extended            accepted professional               to generally accepted                asbestos containing material
+from the date of shipment            standards.                          professional standards. Any          (hereinafter “ACM”) at work
+for the period and price                                                 portion of the study, which          sites. Seller is not licensed to
+indicated below:                     The Services, which do not so       does not so conform, shall           abate ACM. Accordingly, for
+                                     conform, shall be corrected         be corrected by Seller upon          any contract which includes
+●    24 months—2% of                 by Seller upon notification in      notification in writing by the       the provision of Services,
+     Contract Price                  writing by the Buyer within         Buyer within six (6) months          prior to (i) commencement of
+●    30 months—3% of                 one (1) year after completion       after completion of the study.       work at any site under a
+     Contract Price                  of the Services.                    All warranty work shall be           specific Purchase Order, (ii) a
+●    36 months—4% of                 Unless otherwise agreed to in       performed in a single shift          change in the work scope of
+     Contract Price                  writing by Seller, Seller           straight time basis Monday           any Purchase Order, the
+                                     assumes no responsibility           through Friday. In the event         Buyer will certify that the
+Special Warranty (In and Out)        with respect to the suitability     that the study requires              work area associated with the
+for Products                         of the Buyer’s, or its              correction of warranty items         Seller’s scope of work
+If requested by the Buyer            customer’s, equipment or            on an overtime schedule,             includes the handling of Class
+and specifically accepted in         with respect to any latent          the premium portion of such          II ACM, including but not
+writing by Seller, Seller will,      defects in equipment not            overtime shall be for the            limited to generator wedges
+during the warranty period           supplied by Seller. This            Buyer’s account.                     and high temperature gaskets
+for Products, at an additional       warranty does not cover                                                  which include asbestos
+cost of 2% of the contract           damage to Buyer’s, or its           Limitation on Warranties for         materials. The Buyer shall, at
+price, be responsible for the                                            Products, Services and Power         its expense, conduct
+                                     customer’s, equipment,              Systems Studies
+direct cost of:                      components or parts                                                      abatement should the
+                                     resulting in whole or in part       THE FOREGOING                        removal, handling,
+    1. Removing the Product                                              WARRANTIES ARE                       modification or reinstallation,
+                                     from improper maintenance
+       from the installed                                                EXCLUSIVE EXCEPT FOR                 or some or all of them, of said
+                                     or operation or from their
+       location.                                                         WARRANTY OF TITLE.                   Class II ACM be likely to
+                                     deteriorated condition. Buyer
+                                     will, at its cost, provide Seller   SELLER DISCLAIMS ALL                 generate airborne asbestos
+2. Transportation to the
+                                     with unobstructed access            OTHER WARRANTIES                     fibers; and should such
+   repair facility and return
+                                     to the defective Services,          INCLUDING ANY IMPLIED                abatement affect the cost
+   to the site.
+                                     as well as adequate free            WARRANTIES OF                        of or time of performance
+3. Reinstallation on site.           working space in the                MERCHANTABILITY                      of the work, then Seller shall
+                                     immediate vicinity of the           AND FITNESS FOR A                    be entitled to an equitable
+The total liability of Seller for                                        PARTICULAR PURPOSE.                  adjustment in the schedule,
+this Special Warranty for            defective Services and such
+                                     facilities and systems,                                                  price and other pertinent
+Products is limited to 50%                                               CORRECTION OF NON-
+                                     including, without limitation,                                           affected provisions of
+of the contract price of the                                             CONFORMITIES IN THE
+                                     docks, cranes and utility                                                the contract.
+particular Product being                                                 MANNER AND FOR THE
+repaired and excludes                disconnects and connects,           PERIOD OF TIME PROVIDED
+                                     as may be necessary in order                                             Compliance with Nuclear
+expenses for removing                                                    ABOVE SHALL CONSTITUTE               Regulation
+adjacent apparatus, walls,           that Seller may perform its         SELLER’S SOLE LIABILITY
+                                     warranty obligations. The           AND BUYER’S EXCLUSIVE                Seller’s Products are sold as
+piping, structures, temporary                                                                                 commercial grade Products
+service, etc.                        conducting of any tests shall       REMEDY FOR FAILURE OF
+                                     be mutually agreed upon and         SELLER TO MEET ITS                   not intended for application in
+                                     Seller shall be notified of, and                                         facilities or activities licensed
+                                                                         WARRANTY OBLIGATIONS,
+                                     may be present at, all tests                                             by the United States Nuclear
+                                                                         WHETHER CLAIMS OF
+                                     that may be made.                   THE BUYER ARE BASED                  Regulatory Commission for
+                                                                                                              atomic purposes. Further
+                                                                         IN CONTRACT, IN TORT
+                                                                                                              certification will be required
+                                                                         (INCLUDING NEGLIGENCE
+                                                                         OR STRICT LIABILITY), OR             for use of the Products in any
+                                                                                                              safety-related application in
+                                                                         OTHERWISE.
+                                                                                                              any nuclear facility licensed
+                                                                                                              by the U.S. Nuclear
+                                                                                                              Regulatory Commission.
+
+
+
+
+V12-A1-4           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions   CA08100014E—January 2018   www.eaton.com
+

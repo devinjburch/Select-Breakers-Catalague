@@ -1,0 +1,89 @@
+     17                           Switchgear
+                                  Medium Voltage Metal-Clad—Assemblies and Power Circuit Breakers
+
+
+
+     General Information
+1
+     Medium Voltage Switchgear Support
+2    Product                 Brand
+                                             Introduced
+                                             to Market
+                                                          New
+                                                          Structures
+                                                                           Assembly
+                                                                           Parts             Breaker
+                                                                                                                      Breaker
+                                                                                                                      Parts             Switch
+                                                                                                                                                 Switch
+                                                                                                                                                 Parts
+
+3    Metal-Clad Switchgear
+     DH                      Westinghouse    1939         No               No                DH Breaker               No (contact       N/A      N/A
+                                                                                             Replacement              Homewood
+4                                                                                            by DH-VR Breaker         Products at
+                                                                                                                      412-665-2700)
+     DHP                     Westinghouse    1963         No (contact      Yes               DHP breaker              Yes (contact      N/A      N/A
+5                                                         the factory)                       replacement by
+                                                                                             DHP-VR breaker.
+                                                                                                                      the Power
+                                                                                                                      Breaker Center
+                                                                                             Class I reconditioning   1-877-276-9379)
+6                                                                                            of DHP breakers and
+                                                                                             repair service.
+     VCP VacClad             Westinghouse    1981         New VCP-W        Some              Yes                      Yes               N/A      N/A
+7                                                         structures can
+                                                          be directly
+                                                          coupled to
+8                                                         VCP structures
+     VCP-W VacClad           Westinghouse    1986         Yes              Yes               Yes                      Yes               N/A      N/A
+                             Cutler-Hammer   1995
+9    VCP-W VacClad           Cutler-Hammer   1995         Yes              Yes               Yes                      Yes               N/A      N/A
+     arc resistant
+
+10   VCP-ND VacClad
+     narrow design
+                             Cutler-Hammer   1994         Yes              Yes               Yes                      Yes               N/A      N/A
+
+
+11
+     C-HRG high              Cutler-Hammer   1999         Yes              Yes               N/A                      N/A               N/A      N/A
+     resistance pulsing
+     ground system
+
+12   Metal-Enclosed Switchgear—Switch
+     LBF                     Westinghouse    1952         No               No (contact        N/A                     N/A               No       No (Contact
+                                                                           Cleveland-Price at                                                    Cleveland-Price at
+13                                                                         724-864-4177)                                                         724-864-4177)
+     WLI                     Westinghouse    1972         No               Yes               N/A                      N/A               Yes      Yes
+
+14
+                             Cutler-Hammer
+     MVS                     Cutler-Hammer   1999         Yes              Yes               N/A                      N/A               Yes      Yes
+     UPC, Unitized           Cutler-Hammer   1999         Yes              Yes               N/A                      N/A               Yes      Yes
+15   Power Center
+     Pad Mount               Cutler-Hammer   1999         Yes              Yes               N/A                      N/A               Yes      Yes
+
+16   Mini-MVS                Cutler-Hammer   2003         Yes              Yes               N/A                      N/A               Yes      Yes
+     Metal-Enclosed Switchgear—Switch and Breaker
+
+17   WVB                     Westinghouse    1991         No               Yes               Yes                      Yes               Yes      Yes
+     MEB                     Cutler-Hammer   1999         Yes              Yes               Yes—                     Yes—              Yes      Yes
+                                                                                             VCP-W breaker            VCP-W breaker
+18   Metal-Enclosed Switchgear—Breaker
+     Station Distribution    Cutler-Hammer   1994         Yes              Yes               Yes—                     Yes—              N/A      N/A
+19   Breaker                                                                                 VCP-W breaker            VCP-W breaker
+     MSB                     Cutler-Hammer   1999         Yes              Yes               Yes—VCP-TR               Yes—VCP-TR        N/A      N/A
+
+20
+                                                                                             fixed-mounted            fixed-mounted
+                                                                                             breaker                  breaker
+
+
+21
+22
+23
+24
+25
+     V12-T17-54             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

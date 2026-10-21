@@ -1,0 +1,67 @@
+     24                           Counters, Panel Meters, Tachometers and Timers
+                                  Digital Panel Meters
+
+
+
+                                                                                          Contents
+1
+     Digital Panel Meters
+                                                                                          Description                                                                     Page
+                                                                                          Count Controls/Preset Counters
+2                                                                                           E5-324-E Series. . . . . . . . . . . . . . . . . . . . . . . . .     V12-T24-73
+                                                                                            Eclipse Series . . . . . . . . . . . . . . . . . . . . . . . . . .   V12-T24-75
+3                                                                                                      Learn
+                                                                                                       Online
+4
+5
+6
+7
+8
+9
+     Product Overview                        Product Selection Guide
+10   Digital Panel Meters are
+     found anywhere a process                                    Digital Panel Meters
+     variable needs to be                                                                                                                 Panel Cutout
+11   indicated. Volts, current,                                  Characteristics                                                          in Inches (mm)           Page
+     pressure, volume,
+                                             E5-324-E            Bright, easy-to-read LED in 1/32 DIN package                             0.870 x 1.772            V12-T24-73
+     temperature and frequency
+12   are typical applications. The                               Programmable scaling of inputs                                           (22 x 45)
+
+     product’s short depth makes                                 Input for display-hold
+     it flexible and accommodating
+13   to panel builder needs. A
+                                                                 24 Vdc power
+
+     variety of input and output
+14   options allows DPMs to be
+     used virtually anywhere.
+                                             Eclipse             Six-digit, super bright LED display
+                                                                 Multiple models available: DC voltage, AC voltage, DC current,
+                                                                                                                                          1.772 x 3.780
+                                                                                                                                          (45 x 96)
+                                                                                                                                                                   V12-T24-75
+
+                                                                 AC current, 5 A AC current, 4–20 mA/0–10 V process meter
+15   Typical Application
+     ●   Monitor current draw from
+                                                                 Various output options including relay, analog and RS-485
+
+         motor to identify potential
+16       failures
+     ●   Display pressure reading
+         from transducer with high-
+17       pressure alarm
+     ●   Display system voltage and
+18       detect under voltage or
+         over voltage conditions
+
+19
+20
+21
+22
+23
+24
+25
+     V12-T24-72             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

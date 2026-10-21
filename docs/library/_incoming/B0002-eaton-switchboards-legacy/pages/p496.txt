@@ -1,0 +1,88 @@
+     17                        Switchgear
+                               Trip Unit Retrofit Kits—Customer Required Information
+
+
+
+     Customer Required                    How to Generate a                                     How to Price a Kit
+1    Information                          Catalog Number                                        To correctly price a Low
+                                          Refer to Pages V12-T17-30                             voltage Digitrip retrofit kit,
+     How to Select a Retrofit Kit
+2    To properly select a retrofit
+                                          to V12-T17-51 to view
+                                          the retrofit kit catalog
+                                                                                                refer to the Retrofit Kit
+                                                                                                Product Guide. This product
+     kit, the following information       numbers for specific breaker                          guide includes base prices,
+3    is required:                         manufacturers and frames.                             adders and options for all low
+                                          When used in conjunction                              voltage Digitrip retrofit kits.
+     ●   Breaker nameplate                                                                      For a copy of the Retrofit Kit
+                                          with the information obtained
+4        information
+                                          from this page, these pages                           Product Guide, contact your
+         ●  Manufacturer                  contain all the information                           local Eaton Field Sales
+            Breaker type                  necessary to generate                                 office or the Digitrip
+5
+         ●
+
+         ●  Ampere frame size             a catalog number.                                     Retrofit Kit Service Center
+         ●  Manually or electrically                                                            at 1-800-937-5487.
+6           operated
+                                          Accessories
+     ●   Drawout or fixed mounting
+7    ●   Fused or non-fused
+                                          Description
+                                                                                                                               Catalog
+                                                                                                                               Number
+                                                                                                                                                              Style
+                                                                                                                                                              Number
+     ●   Digitrip trip unit type
+         required                         Auxiliary power module                                                               PRTAAPM                        1267C16G01
+8        ●  510, 610, 810, 910            Amptector and Digitrip test set (tests for both)                                                                    8779C02G02
+     ●   Protective functions             Amptector adapter harness                                                                                           6503C53G01
+9        required                         Amptector two-piece adapter harness (test set half)                                                                 6503C54G01
+         ●  LI, LSI, LS, LIG, LSG,        Amptector two-piece adapter harness (breaker half)                                                                  6503C55G01
+            LSIG
+10   ●   Continuous current rating
+                                          External harness (zone interlock shorting plug non-DS)                                                              6502C83G01
+
+         required (trip rating of         Simplified cell harness 1 ft                                                                                        6506C34G01
+
+11       breaker)                         Simplified cell harness 6 ft                                                                                        6506C34G02
+     ●   Three- or four-wire system       Simplified cell harness 4 ft                                                                                        6506C34G03
+         (determines number of
+12       sensors required)
+                                          Arcflash Reduction Maintenance System (ARMS)
+                                          Non-DS                                                                                                              9A10160G01
+     To properly select options, the
+13   following questions need to
+                                          DS with new Digitrip kit                                                                                            9A10160G02
+
+     be answered:                         DS for existing Digitrip system                                                                                     9A10160G03
+
+14   ●   Will customer supply             Notes
+         120 Vac control power            At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910. From 1989 to 1996, the
+                                          standard trip units were the RMS 500/600/700/800. These trip units are no longer in production. Replacement orders for the 500/600/700/
+         or is breaker-mounted
+15       CPT needed?
+                                          800 trip units will be filled by the equivalent 510/610/810/910 trip units. Remember, when replacing a 500/600/700/800 unit with a 510/610/810/
+                                          910, the rating plug must also be replaced.
+         ●  Applies only to Digitrip      Rating plugs for the 500/600/700/800 trip units will still be available. These rating plugs are not interchangeable with the 510/610/810/
+16          610, 810 and 910              910 trip units. Likewise, rating plugs for the 510/610/810/910 are not interchangeable with the 500/600/700/800 trip units .
+     ●   Are zone interlocks
+         required?
+17   ●   Does the application
+         require relay outputs from
+18       the Digitrip 610, 810 or 910
+         for remote indication?
+     ●   Does the breaker have an
+19       existing amptector or
+         Digitrip trip unit installed?
+         If so, what is it?
+20
+21
+22
+23
+24
+25
+     V12-T17-28          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

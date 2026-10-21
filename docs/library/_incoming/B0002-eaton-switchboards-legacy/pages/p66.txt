@@ -1,0 +1,126 @@
+                                                                             Molded-Case Circuit Breakers
+                                                                                                         Replacement Capabilities
+                                                                                                                                                                          3
+Types MCG, MCCG, MCGA, MCCGA and MARK 75 Types HMCG,                              Accessories and Modifications
+HMCCG, HMCGA, HMCCGA SELTRONIC with Built-In Ground                                                                                                                             1
+Fault Protection                                                                  Field-Mountable Attachments 3456
+Complete breaker requires frame and rating plug. See the table
+and terminals on Page V12-T3-60. Extra current transformer
+                                                                                  Description                                                                    Style Number   2
+                                                                                  Provision to trip flux transfer shunt trip from external source                1371D72G22
+included for neutral. See accessories on Page V12-T3-65 for
+                                                                                                                                                                                3
+                                                                                  32 to 120 Vdc to 60 Hz 7
+remote ground fault trip indicator.
+                                                                                  240 to 600 Vac, 50/60 Hz 8                                                     1371D72G32
+■ Shaded area denotes obsolete or discontinued products                           Provision to trip flux transfer shunt trip from external source,               1371D72G15
+and services. 1                                                                   plus 1a-1b auxiliary switch                                                                   4
+                                                                                  32 to 120 Vdc to 60 Hz 7
+    Note: Available without extra CT for neutral. Order by description as
+    similar to above except without neutral CT or external CT terminal
+    connections at same price.
+                                                                                  240 to 600 Vac, 50/60 Hz 8
+                                                                                  Provision to trip flux transfer shunt trip from external 24 Vdc source
+                                                                                                                                                                 1371D72G25
+                                                                                                                                                                 1370D85G01
+                                                                                                                                                                                5
+                                                                                                                                                                                6
+                                                                                  1A-1B auxiliary switch                                                         1371D72G03
+Note: Order two of the desired terminals for each pole of the breaker and
+two for the neutral CT. The standard ground fault unit can also be used
+without the neutral CT. MARK 75 frame color changed from gray to black
+in mid-2002.                                                                      Additional Accessories and Modifications                                                      7
+                                                                                  Refer to Pages V12-T3-65–V12-T3-79.
+Breakers for Standard Applications—Frame Only
+             Standard             Long Delay,              Ground Fault
+                                                                                  Rating Plugs                                                                                  8
+                                                                                  Select from the table on Page V12-T3-60.
+             (Long Delay,         Short Time, Adjustable   Characteristics
+
+Number
+             Short Time and
+             Ground Fault Trip)
+                                  Short Delay Time and
+                                  Ground Fault Trip
+                                                           Pickup
+                                                           Setting    Time
+                                                                                  For CSA, see Page V12-T3-48.                                                                  9
+of Poles     Catalog Number                                Amperes    Setting     Type MC SELTRONIC breakers meet requirements for Class 21a,
+Types MCG and MCGA (400–800A) 2
+                                                                                  and MARK 75. Type HMC meet Class 23a as defined by
+                                                                                  Federal Spec. W-C-375b.
+                                                                                                                                                                                10
+3            MCG3800F             MCGA3800F                80–800     3.5–30 Cy
+MARK 75 Types HMCG and HMCGA (400–800A) 2                                         UL Listed Interrupting Capacity, rms Symmetrical Amperes 9                                    11
+3            HMCG3800F            HMCGA3800F               80–800     3.5-30 Cy                            AC Volts
+                                                                                  Breaker                  240                      480                    600                  12
+Breakers for Application at 100% Rating—Frame Only                                MC, MCG                  42,000                   30,000                 22,000
+             Standard
+             (Long Delay,
+                                  Long Delay,
+                                  Short Time, Adjustable
+                                                           Ground Fault
+                                                           Characteristics
+                                                                                  HMC, HMCG                65,000                   50,000                 25,000               13
+             Short Time and       Short Delay Time and     Pickup
+Number
+of Poles
+             Ground Fault Trip)
+             Catalog Number
+                                  Ground Fault Trip
+                                   Catalog Number
+                                                           Setting
+                                                           Amperes
+                                                                      Time
+                                                                      Setting     Terminals                                                                                     14
+Types MCCG and MCCGA (400–800A) 2
+3            MCCG3800F            MCCGA3800F               80–800     3.5–30 Cy
+                                                                                  Terminals—Two Terminals Required Per Pole
+                                                                                                                                                                                15
+                                                                                  Maximum Amperes              Number of Cables, Wire Range, Type            Catalog Number
+MARK 75 Types HMCCG and HMCCGA (400–800A) 2
+3            HMCCG3800F           HMCCGA3800F              80–800     3.5–30 Cy
+                                                                                  Al/Cu Pressure Terminals
+                                                                                                                                                                                16
+                                                                                  600                          (2) #1–500 kcmil                              TA700MA1 j
+                                                                                  800 (std.)
+                                                                                  800
+                                                                                                               (3) 3/0–400 kcmil
+                                                                                                               (2) 500–750 kcmil
+                                                                                                                                                             TA800MA2 j
+                                                                                                                                                             TA801MA j
+                                                                                                                                                                                17
+                                                                                  Optional Copper Pressure Terminals
+                                                                                  600                          (2) 2/0–500 kcmil                             T600MA1
+                                                                                                                                                                                18
+                                                                                                                                                                                19
+                                                                                  800                          (3) 3/0–300 kcmil                             T800MA1
+
+                                                                                  Notes
+                                                                                  1 These frames are obsolete. Effective 2/1/02, only the MARK 75 version is available. For
+
+                                                                                    replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167.
+                                                                                  2 For applications other than standard residual scheme, see Application Data 29-160.
+                                                                                                                                                                                20
+                                                                                  3 Does not void listing of UL Listed breakers.
+                                                                                  4 Only one of the attachments may be mounted per breaker.                                     21
+                                                                                  5 For other possible combinations, refer to factory.
+
+
+                                                                                                                                                                                22
+                                                                                  6 Molded-case switches do not use standard SELTRONIC attachments and should be ordered
+
+                                                                                    by description.
+                                                                                  7 Rated 48V minimum for ground fault applications requiring tripping at 55% of voltage.
+
+
+                                                                                                                                                                                23
+                                                                                  8 Not for ground fault applications.
+                                                                                  9 Interrupting capacities shown do not apply to molded-case switches.
+                                                                                  j Type Al/Cu pressure terminal.
+
+                                                                                  Also used on breakers with ground fault and on separately mounted neutral current
+                                                                                  transformers. MARK 75 frame color changed from gray to black in mid-2002.                     24
+                                                                                                                                                                                25
+                     Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                       V12-T3-53
+

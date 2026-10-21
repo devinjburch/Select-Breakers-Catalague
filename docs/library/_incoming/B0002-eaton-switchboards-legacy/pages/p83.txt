@@ -1,0 +1,98 @@
+     3                             Molded-Case Circuit Breakers
+                                   Replacement Capabilities
+
+
+
+     Extended Line Terminal Shields                                                        For complete installation, order:
+1    For shielding line side terminal connections. One shield required                      1. Front-connected, non-automatic PB breaker.
+     per breaker. Order separately when needed. Sold only in lots of                           (Order similar to standard front connected, except
+     10, including hardware.
+2                                                                                              omit load conductor extensions.)
+
+                             Extended Line Terminal Shields 1                              2. Fuse mounting base.
+3
+     Line Terminal Shield
+                             Breaker Frame                                  Style Number   3. Fuses (from distributor).
+                             JB, KB, HKB                                    1266C07G01
+4                            MA, HMA, MC, HMC                               208B966G01
+                                                                                           Handle Locks
+                                                                                           Non-Padlockable
+                             NB, HNB, NC, HNC                               208B966G02
+                                                                                           For prevention of unintentional operation of breaker. Fits over
+5                            LAB, LA, (Saf-T-Vue)                           314C420G02     breaker handle and may be removed.
+                             JA, KA, LB, LBB (Saf-T-Vue)                    314C420G04
+                                                                                           Padlockable
+6                            LAB, LA, HLA, LC, HLC                          314C420G05     For prevention of unauthorized operation of breaker. Is non-
+                             DA                                             314C420G06     removable once installed on breaker. Meets Underwriters
+                                                                                           Laboratories and California Code requirements.
+7                            JA, KA, HKA, LB, LBB, HLB (standard breaker)   314C420G06
+                             EB, EHB, FB, HFB                               625B229G08 2
+                                                                                                              Handle Locks 15
+8                                                                                          Handle Locks
+                                                                                                              Breaker Frame                                 Style Number
+     Base Mounting Hardware
+     No charge when ordered with breaker. Order separately                                                    Non-Padlockable
+9    when needed.                                                                                             FA, EA, CA, EB, EHB, FB, HFB                  29B2721H01
+                                                                                                              LAB, LA, LC, HLC, MA, NB, HLA, HMA, HNB, 28B4596G01
+10   Line Terminal Shield    Base Mounting Hardware                                                           MC, HMC, NC, HNC
+                             Description                                    Style Number                      GB, GC, GHB, GHC                              1294C01H01
+
+11                           Single-Pole Breakers                                                             DA, JA, KA, HKA, LB, LBB, HLB                 29B2721H04
+                             EB, EHB, HFB 3                                 624B375G01                        Padlockable
+
+12                           EB, EHB, HFB 4
+                             Two- and Three-Pole Breakers
+                                                                            624B375G02                        CA                                            506C438G01
+                                                                                                              FA, EA, EB, EHB, FB, HFB, MCP150              765A754G01
+                             LAB, LA, HLA, LC, HLC, MA, NB, HMA, HNB, MC 21C6782G05
+13                           HMC, NC, HNC                                   1091716
+                                                                                                              DA, JA, KA, LB, LBB, HKA, HLB, MCP400
+                                                                                                              JB, KB, HKB, MCP250
+                                                                                                                                                            673B796G02
+                                                                                                                                                            673B796G01
+                             PB, PC, PCC                                    624B375G22
+14
+                                                                                                              LAB, LA, HLA, LC, HLC                         373B591G02
+                             DA, JA, KA, HKA, LB, LBB, HLB                  21C6782G22
+                                                                                                              MA, HMA, MC, HMC, MD, MDS                     6591C30G02–OFF
+                             EB, EHB, FB, HFB, MCP                          21C6782G18
+                                                                                                              MA, HMA, MC, HMC, MD, MDS                     6591C30G05–ON/OFF
+15                           JB, KB, HKB                                    673B125G12
+                                                                                                              NB, HNB, NC, HNC                              6591C30G01–OFF
+                             CA two-pole                                    21C6782G28
+                                                                                                              NB, HNB, NC, HNC                              6591C30G04–ON/OFF
+16                           CA three-pole                                  21C6782G29
+                                                                                                              PA, SPCB, PB, Tri-Pac PB, PC                  6591C30G03–OFF
+     Fuse Mounting Base for PB Breakers
+17
+                                                                                                              Notes
+                                                                                                              1 Not UL Listed.
+                                                                                                              2 One of style 625B229G08 is one package of 10.
+
+
+18
+                                                                                                              3 Individually mounted.
+                                                                                                              4 Group mounted.
+                                                                                                              5 All breakers are trip free and will trip with handle locks attached.
+
+
+19                                                                                                               Cannot be used when handle extension is used.
+
+
+
+20
+     For 2000A non-automatic breakers only.
+21   Fuse Mounting Base for PB Breakers
+
+22
+     Style Number
+     6635C78G02 1
+
+23   For use with non-automatic, three-pole circuit breaker. Includes
+     fuse mounting base and hardware to mount standard Class L
+     current limiting fuses, 801–2000A (fuses not included).
+24   Note: Interrupters used with fuse mounting base will accept all standard
+     PB accessories. See Dimension Sheet 29-171 for mounting details.
+25
+     V12-T3-70              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,166 @@
+                                                                                                             Communication Systems
+                                                                                             Technology Upgrades Communication Hardware
+                                                                                                                                                                                                 11
+Data Acquisition and Integration Table for Supported Devices (continued)
+Supported Devices                                                                                                                                                                                                 1
+                                                                                                                                                                                                                  2
+                                                                         PXG 400E/600E/800E                                                                             PXG 600E/800E Only
+
+                                                                                                                                                                                                                  3
+
+
+
+
+                                                                                         Web Services
+
+
+
+
+                                                                                                                     Pass-through
+
+
+
+                                                                                                                                    Pass-through
+                                                                                         (Power Xpert
+
+
+                                                                                                        Modbus TCP
+
+
+
+
+                                                                                                                     (PowerNet)
+
+
+
+
+                                                                                                                                                                                                   File Export)
+                                                                             HTTP (Web
+
+
+
+
+                                                                                                                                                                                                   (Waveform
+                                                                                                                                    (CHStudio)
+
+
+
+
+                                                                                                                                                                                   File Export
+
+
+
+                                                                                                                                                                                                   File Export
+                                                                                                                                                            BACnet/IP
+                                                                                         Software)
+
+
+                                                                                                        (BMS and
+
+
+
+
+                                                                                                                                                                                   (Data File
+                                                                             Browser)
+
+
+
+
+                                                                                                        SCADA)
+
+
+
+
+                                                                                                                                                                                   Format)
+                                                                                                                     INCOM
+
+
+
+
+                                                                                                                                                                        (E-mail
+                                                                                                                                    QCPort
+
+
+
+
+                                                                                                                                                                        Client)
+                                                                                                                                                   (NMS)
+                                                                                                                                                   SNMP
+
+
+
+
+                                                                                                                                                                        SMTP
+Device Type                       Device Name                                                                                                                                                                     4
+Modbus
+Drive                             MVX9000                                      ■             ■             ■                                        ■       ■              ■           ■                          5
+Drive                             SVX9000                                      ■             ■             ■                                        ■       ■              ■           ■
+Insulation monitor                InsulGard                                    ■             ■             ■                                        ■       ■              ■           ■                          6
+Meter                             IQ 130                                       ■             ■             ■                                        ■       ■              ■           ■
+Meter                             IQ 140                                       ■             ■             ■                                        ■       ■              ■           ■                          7
+Meter                             IQ 150                                       ■             ■             ■                                        ■       ■              ■           ■
+Meter                             IQ 220M/230M                                 ■             ■             ■                                        ■       ■              ■           ■                          8
+Meter                             IQ 250                                       ■             ■             ■                                        ■       ■              ■           ■
+Meter                             IQ 260                                       ■             ■             ■                                        ■       ■              ■           ■                          9
+Meter                             IQ 35M                                       ■             ■             ■                                        ■       ■              ■           ■
+Meter                             Nexus 1262                                   ■             ■             ■                                        ■       ■              ■           ■
+                                                                                                                                                                                                                  10
+Meter                             SQD CM3000 Series                            ■             ■             ■                                        ■       ■              ■           ■
+Meter                             SQD CM4000 Series                            ■             ■             ■                                        ■       ■              ■           ■
+                                                                                                                                                                                                                  11
+Meter                             SQD PM710                                    ■             ■             ■                                        ■       ■              ■           ■
+Meter
+Meter
+                                  SQD PM850
+                                  PML 7350
+                                                                               ■
+                                                                               ■
+                                                                                             ■
+                                                                                             ■
+                                                                                                           ■
+                                                                                                           ■
+                                                                                                                                                    ■
+                                                                                                                                                    ■
+                                                                                                                                                            ■
+                                                                                                                                                            ■
+                                                                                                                                                                           ■
+                                                                                                                                                                           ■
+                                                                                                                                                                                       ■
+                                                                                                                                                                                       ■
+                                                                                                                                                                                                                  12
+                                                                               ■             ■             ■                                        ■       ■              ■           ■
+                                                                                                                                                                                                                  13
+Meter                             PML 7550
+Meter                             PML 7650                                     ■             ■             ■                                        ■       ■              ■           ■
+                                                                               ■             ■             ■                                        ■       ■              ■           ■
+                                                                                                                                                                                                                  14
+Meter                             PM3
+Protective                        GE 369 Motor Relay                           ■             ■             ■                                        ■       ■              ■           ■
+Protective                        GE 469 Motor Relay                           ■             ■             ■                                        ■       ■              ■           ■
+Protective                        FP-4000/FP-5000                              ■             ■             ■                                        ■       ■              ■           ■                          15
+Protective                        FP-6000                                      ■             ■             ■                                        ■       ■              ■           ■
+Overload relay                    C441                                         ■             ■             ■                                        ■       ■              ■           ■                          16
+Temp monitor                      Qualitrol 118                                ■             ■             ■                                        ■       ■              ■           ■
+Temp monitor                      TC-50                                        ■             ■             ■                                        ■       ■              ■           ■                          17
+Temp monitor                      TC-100                                       ■             ■             ■                                        ■       ■              ■           ■
+Transformer differential relay    ABB TPU 2000                                 ■             ■             ■                                        ■       ■              ■           ■                          18
+QCPort
+I/O                               D77A-AI16                                    ■             ■             ■                            ■           ■       ■              ■           ■                          19
+I/O                               D77A-AI8                                     ■             ■             ■                            ■           ■       ■              ■           ■
+I/O                               D77A-DI16                                    ■             ■             ■                            ■           ■       ■              ■           ■                          20
+I/O                               D77A-DI8                                     ■             ■             ■                            ■           ■       ■              ■           ■
+Starter                           IT. S811 (MV811)                             ■             ■             ■                            ■           ■       ■              ■           ■
+                                                                                                                                                                                                                  21
+Starter                           IT. Starter 1                                ■             ■             ■                            ■           ■       ■              ■           ■
+Starter                           IT. Starter QSNAP 1                          ■             ■             ■                            ■           ■       ■              ■           ■
+                                                                                                                                                                                                                  22
+Notes
+1 Requires a QSNAP for connection to the Power Xpert Gateway.
+
+Information subject to change without notice. Visit www.eaton.com/pxg for latest up-to-date details on connectivity.
+                                                                                                                                                                                                                  23
+Additional supported devices will be available via firmware updates. Contact your local Eaton sales office for help with devices not currently listed in table above.
+                                                                                                                                                                                                                  24
+                                                                                                                                                                                                                  25
+                        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                                 V12-T11-21
+

@@ -1,0 +1,87 @@
+                                                                                             Introduction
+                                                                                                                                    1
+The Installed Base                                                     Catalog Format
+The installed base of electrical distribution and control              Each section of the catalog includes the following elements:         1
+equipment is a product of the economic changes that have
+                                                                           Product Description
+                                                                                                                                            2
+                                                                       ●
+occurred over the last 15 or 20 years.
+                                                                       ●   Product History
+They could:                                                            ●   Product History Time Line
+●   Be operating beyond capacity                                       ●   Replacement Capabilities                                         3
+●   Have higher fault currents because of additions                    ●   Technology Upgrades (where applicable)
+●
+
+●
+    Pose major safety issues
+    Cause increased unscheduled outages having a direct
+                                                                       ●   Further Information                                              4
+                                                                       ●   Pricing Information
+    impact on productivity
+It has also been a witness to:
+                                                                       Where relevant, Additional Information, Customer Required            5
+                                                                       Information, General Information and Support Services
+●   Reductions in budgets and people resources                         are included.
+●   Increases in maintenance intervals                                                                                                      6
+●   Decreases in support from the original manufacturer                What Does the Shaded Area Mean?
+Where do you go for help?                                              In some sections of the catalog, you will again see tables and       7
+                                                                       text that have been shaded. The shaded areas indicate obsolete
+One Source for All Your Aftermarket Needs
+                                                                       or discontinued product, and although the product is no longer
+                                                                       manufactured, it is still shown for historical reference. In the
+                                                                                                                                            8
+The Aftermarket, Renewal Parts and Life Extension Solutions            molded-case circuit breaker section (Tab 3), many of the tables
+catalog is a reference tool to help you identify existing electrical   have shaded areas. Although the product is no longer manufactured,   9
+distribution and control equipment and then provide a wide range       cross-reference tables have been developed to provide alternative
+of solutions available from Eaton to support it. Regardless of the     solutions using current manufactured molded-case circuit breakers.
+vintage or the original manufacturer, we can provide solutions         The cross-reference tables begin on Page V12-T3-115 and are in       10
+that will extend the useful life of your existing equipment.           alphanumeric order, based on style or catalog number of the
+                                                                                                                                            11
+                                                                       obsolete or discontinued product.
+What’s New?
+                                                                       Eaton’s Electrical Business on the World Wide Web
+Our catalog has a new name to reflect our membership in the
+family of electrical solutions catalogs—the Aftermarket, Renewal       Our Aftermarket, Renewal Parts and Life Extension Solutions          12
+Parts and Life Extension Solutions catalog replaces the former         catalog is designed to be your everyday, at-your-fingertips, at-a-
+YES (Your Electrical Solutions) catalog. It continues to offer
+cutting-edge engineered life extension solutions—it just has
+                                                                       glance reference for our wide range of products and services
+                                                                       that support your installed base. But it’s just the paper “tip” of
+                                                                                                                                            13
+a new look and a new name.                                             the electronic “iceberg” of continuously updated information that
+Additionally, as the number of available solutions has grown, so
+                                                                       you can access, online, anytime.                                     14
+has the catalog. Incorporated in this latest edition are increased     http://www.eaton.com
+capabilities that have been introduced since the last printing in                                                                           15
+2003. For example, in order to address ongoing safety concerns,        Eaton
+Eaton has engineered the Arcflash Reduction Maintenance
+System™ and the universal remote power racking system. Also,           At Eaton, we’re energized by the challenge of powering a             16
+there are new product offerings in the area of trip unit retrofit      world that demands more. With over 100 years experience in
+                                                                       electrical power management, we have the expertise to see
+kits, low voltage power breakers and medium voltage vacuum
+replacement breakers, just to name a few. With changes to the          beyond today. From ground breaking products to turnkey design        17
+molded-case circuit breaker product line, this catalog is simpler      and engineering services, critical industries around the globe
+                                                                       count on Eaton.
+to use with an updated replacement breaker cross-reference
+section. Additionally, automatic transfer switches and power
+                                                                                                                                            18
+                                                                       We power businesses with reliable, efficient and safe electrical
+factor correction capacitors are included in brand-new tabs in         power management solutions. Combined with our personal
+this edition.                                                          service, support and bold thinking, we are answering                 19
+                                                                       tomorrow’s needs today. With 2015 sales of $20.9 billion,
+Using the Catalog                                                      Eaton has approximately 100,000 employees around the world
+                                                                       and sells products in more than 175 countries. Follow the            20
+You can find information in several ways. The Table of
+                                                                       charge with Eaton. Visit www.eaton.com.
+Contents in the front and the detailed Alphabetical Product
+Index in the back will refer you to the correct section. The                                                                                21
+capabilities overview in Tab 2 highlights various capabilities,
+and provides the tab number where that capability is listed.
+Also included in this tab is a pictorial representation of a typical                                                                        22
+distribution system illustrating the various products and where
+they can be found.                                                                                                                          23
+                                                                                                                                            24
+                                                                                                                                            25
+                Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com         V12-T1-3
+

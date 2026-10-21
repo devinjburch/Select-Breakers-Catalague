@@ -1,0 +1,67 @@
+     3                     Molded-Case Circuit Breakers
+                           Replacement Capabilities
+
+
+
+     Types MC, MCC, MCA, MCCA, MARK 75 Types HMC, HMCC, HMCA, HMCCA SELTRONIC with Solid-State Trip Units 600 Vac, 50/60 Hz
+1    ■ Shaded area denotes obsolete or discontinued products and services. 1
+                     Breakers for Standard Applications—Frame Only
+2
+     MCA: 600 Vac
+                                         Standard                                                                         Long Delay, Short Time and Adjustable
+                     Number              (Long Delay and Short Time)                     Short Time Only 3                Short Delay Time (0.08 –0.30 seconds)
+
+3                    of Poles 2          Catalog Number                                   Catalog Number                   Catalog Number
+                     Types MC and MCA (400–800A)
+
+4                    2
+                     3
+                                         MC2800F
+                                         MC3800F
+                                                                                         MC2800FM
+                                                                                         MC3800FM
+                                                                                                                          MCA2800F
+                                                                                                                          MCA3800F
+
+5
+                     MARK 75 Types HMC and HMCA (400–800A)
+                     2                   HMC2800F                                        HMC2800FM                        HMCA2800F
+                     3                   HMC3800F                                        HMC3800FM                        HMCA3800F
+6
+                     Breakers for Application at 100% Rating—Frame Only 1
+7                                        Standard                                                                         Long Delay, Short Time and Adjustable
+                     Number              (Long Delay and Short Time)                     Short Time Only 3                Short Delay Time (0.08 –0.30 seconds)
+
+8
+                     of Poles 2          Catalog Number                                  Catalog Number                   Catalog Number
+                     Types MCC and MCCA (400–800A)
+
+9
+                     3                   MCC3800F                                        —                                MCCA3800F
+                     MARK 75 Types HMCC and HMCCA (400–800A)
+                     3                   HMCC3800F                                       —                                HMCCA3800F
+10                   Notes
+                     1 These frames are obsolete. Effective 2/1/02, only the MARK 75 version is available. For replacement solutions, see the cross-reference on
+
+11                      Pages V12-T3-114–V12-T3-167.
+                     2 Two-pole breakers are supplied in three-pole frames with current-carrying parts omitted from center pole.
+                     3 UL Recognized component.
+
+12                   Type MC800 molded-case switch; refer to Page V12-T3-62. MARK 75 frame color changed from gray to black in mid-2002.
+
+
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T3-52      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

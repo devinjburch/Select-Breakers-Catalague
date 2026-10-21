@@ -1,0 +1,105 @@
+                                                                     Molded-Case Circuit Breakers
+                                                                                               Replacement Capabilities
+                                                                                                                                                  3
+Replacement Breaker Cross-Reference
+Replacement Breaker                                  Replacements                                                              Notes
+                                                                                                                                                        1
+Catalog Number           Style Number     Status 1   MARK 75 Catalog Number   MARK 75 Style Number   Series C Catalog Number   (See Page V12-T3-114)
+PCCFG32000F              1242C76G17       A          —                        —                      CRD320T35W                1–3, 5, 8                2
+PCCFG32500F              1242C76G18       A          —                        —                      —                         1–3, 5, 8
+PCCFGA32000F             1242C78G21       A          —                        —                      CRD320T36W                1–3, 5, 8                3
+PCCFGA32500F             1242C78G22       A          —                        —                      —                         1–3, 5, 8
+PCCG32000F               1242C75G25       A          —                        —                      CRD320T35W                1–3, 5, 8                4
+PCCG32500F               1242C75G26       A          —                        —                      —                         1–3, 5, 8
+PCCG33000F               1242C75G27       A          —                        —                      —                         1–3, 5, 8
+                                                                                                                                                        5
+PCCGA32000F              1242C75G31       A          —                        —                      CRD320T36W                1–3, 5, 8
+PCCGA32500F              1242C75G32       A          —                        —                      —                         1–3, 5, 8
+                                                                                                                                                        6
+PCCGA33000F              1242C75G33       A          —                        —                      —                         1–3, 5, 8
+PCF22000F
+PCF22000FM
+                         6590C17G01
+                         6590C17G03
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     RD320T33W
+                                                                                                     RD320T33W
+                                                                                                                               1–3, 5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                        7
+PCF22000K
+PCF22500FM
+                         753B081G08
+                         6590C17G07
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     RD320WK
+                                                                                                     RD325T33W
+                                                                                                                               1–3, 5, 8
+                                                                                                                               1–3, 5, 8
+                                                                                                                                                        8
+                                                                                                                                                        9
+PCF32000F                6590C17G02       A          —                        —                      RD320T33W                 1–3, 5, 8
+PCF32000FM               6590C17G04       O          PCF32000F                6590C17G02             RD320T33W                 1–3, 5, 8
+PCF32000K                753B081G19       A          —                        —                      RD320WK                   1–3, 5, 8
+PCF32500F                6590C17G06       A          —                        —                      RD325T33W                 1–3, 5, 8                10
+PCF32500FM               6590C17G08       O          PCF32500F                6590C17G06             RD325T33W                 1–3, 5, 8
+PCFA22000F               6590C17G13       O          —                        —                      RD320T32W                 1–3, 5, 8                11
+PCFA22500F               6590C17G17       O          —                        —                      RD325T32W                 1–3, 5, 8
+PCFA32000F               6590C17G14       A          —                        —                      RD320T32W                 1–3, 5, 8                12
+PCFA32500F               6590C17G18       A          —                        —                      RD325T32W                 1–3, 5, 8
+PCFG32000F               1242C76G01       A          —                        —                      RD320T35W                 1–3, 5, 8                13
+PCFG32500F               1242C76G02       A          —                        —                      RD325T35W                 1–3, 5, 8
+PCFGA32000F              1242C76G05       A          —                        —                      RD320T36W                 1–3, 5, 8                14
+PCFGA32500F              1242C76G06       A          —                        —                      RD325T36W                 1–3, 5, 8
+PCG32000F                1242C75G01       A          —                        —                      RD320T35W                 1–3, 5, 8                15
+PCG32500F                1242C75G02       A          —                        —                      RD325T35W                 1–3, 5, 8
+PCG33000F                1242C75G03       A          —                        —                      —                         1–3, 5, 8                16
+PCGA32000F               1242C75G07       A          —                        —                      RD320T36W                 1–3, 5, 8
+PCGA32500F               1242C75G08       A          —                        —                      RD325T36W                 1–3, 5, 8
+                                                                                                                                                        17
+PCGA33000F               1242C75G09       A          —                        —                      —                         1–3, 5, 8
+RE1010                   1375D81G01       O          —                        —                      —                         3, 10
+                                                                                                                                                        18
+RE1015                   1375D81G02       O          —                        —                      Reconditioned E1015       10
+RE1020
+RE1025
+                         1375D81G03
+                         1375D81G04
+                                          O
+                                          O
+                                                     —
+                                                     —
+                                                                              —
+                                                                              —
+                                                                                                     Reconditioned E1020
+                                                                                                     Reconditioned E1025
+                                                                                                                               10
+                                                                                                                               10
+                                                                                                                                                        19
+                                                                                                                                                        20
+RE1030                   1375D81G05       O          —                        —                      Reconditioned E1030       10
+RE1040                   1375D81G07       O          —                        —                      Reconditioned E1040       10
+RE1050                   1375D81G08       O          —                        —                      Reconditioned E1050       10
+RE1060                   1375D81G09       O          —                        —                      Reconditioned E1060       10
+                                                                                                                                                        21
+RE1070                   1375D81G10       O          —                        —                      Reconditioned E1070       10
+RE1080                   1375D81G11       O          —                        —                      Reconditioned E1080       10                       22
+RE1090                   1375D81G12       O          —                        —                      Reconditioned E1090       10
+RE1100                   1375D81G13       O          —                        —                      Reconditioned E1100       10                       23
+RE2015                   1375D81G18       O          —                        —                      Reconditioned E2015       10
+RE2020                   1375D81G19       O          —                        —                      Reconditioned E2020       10                       24
+Note
+1 O = Obsolete, A = Available.
+                                                                                                                                                        25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com             V12-T3-153
+

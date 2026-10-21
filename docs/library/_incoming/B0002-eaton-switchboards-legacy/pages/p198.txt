@@ -1,0 +1,139 @@
+                                                                                                                           Panelboards
+                                                                                                                Replacement Capabilities
+                                                                                                                                                                    4
+PRL3a                                 PRL3a Panel Layout
+Current Product                                                                                                                                                             1
+                                                                                             2X    100A Std #14–1/0
+
+                                                                                                   100A Oversized #6–350 kcmil
+                                                                                                                                                                            2
+                                                                                             5X
+
+                                                           Main Lugs
+                                                                                             2X    100A Subfeed (2) #14–1/0
+
+                                                                                             5X    250A Std #6–350 kcmil
+
+                                                                                             6X
+
+                                                                                             6X
+                                                                                                   250A Oversized 4/0–500 kcmil
+
+                                                                                                   250A Subfeed (2) #6–350 kcmil
+                                                                                                                                                                            3
+                                           4.01"                                    4.01"    8X    400A Std (2) 4/0–500
+
+                                                                                             10X   400A Oversized (2) 3/0–750 kcmil                                         4
+                                                                                             8X    600A Std (2) 4/0–500
+
+                                                                                             10X
+
+                                                                                             5X
+                                                                                                   600A Oversized (2) 3/0–750 kcmil
+                                                                                                                                                                            5
+                                                              Neutral                        8X    Same Cable Size as MLO
+                                                                                             11X
+
+                                              10.00"
+                                                                         2P
+                                                                         3P
+                                                                                    3.92"
+                                                                                             2X                                                                             6
+                                                                                             3X
+                                                                                                        ED, EDH, EDC          225A Max.
+                                                       (1)–1P           (1)–1P               1X         Note:
+                                                       (2)–1P           (2)–1P               2X
+                                                                                                        Line Side May Be Either Left or
+                                                                                                        Right. Distance From Load Side of
+                                                                                                        Breaker To Box Will Always Be 3.92 inches
+                                                                                                                                                                            7
+                                          3.92"        (3)–1P           (3)–1P       3.92"   3X
+
+
+
+                                                                                                                                                                            8
+                                                       (3)–1P           (1)–3P               3X
+                                                                                                        EHD 100A Max.
+                                                       (1)–1P                                           FD, HFD, FDC, FDB 150A Max.
+                                                                        (1)–3P               3X
+                                                       (1)–2P
+                                                         2P               2P                 2X
+
+                                                         3P
+                                                            Split Bus
+                                                                          3P                 3X
+                                                                                                                                                                            9
+                                                                                             X     Same Cable Size as MLO
+                                           4.01"           Meter Loop               4.01"
+              PRL3a
+                                                                                                                                                                            10
+                                                             ASCO                            12X   Bus Connected              ASCO 920 (30–225A)
+The panel layouts shown on                                    920                            19X   Cable Connected        225A Max.     For Lug Size See Main
+                                                           (Split Bus)                       16X   (Wireout)              100A Max.     Lug Size Chart
+this and the following pages                                                                 3X    6    Ckt.      BAB, QBGF, QBHW, QBHGF 100A Max.
+                                                          QUICKLAG
+will aid in determining the
+space available for the
+                                         BAB–5.70"
+                                         GHB–5.68"
+                                                                                 BAB–5.70"
+                                                                                 GHB–5.68"
+                                                                                             5X    12    Ckt.
+                                                                                                                  Note:
+                                                                                                                                  or
+                                                                                                                  GB, GHB 100A Max.                                         11
+                                                                                             8X    18    Ckt.     May Have Multiple Sections
+addition of molded-case                                                                                           Per Panel, Max. 24 Ckts. Per
+
+                                                                                                                                                                            12
+                                                                GHB                          10X   24    Ckt.     Section.
+circuit breakers into your
+                                                               Twin
+existing PRL3a panelboards.                4.01"
+                                                              Subfeed
+                                                                                    4.01"    20X   JD, JDB, HJD, JDC, 250A Max.
+                                                              Breaker
+●   Determine the amount
+    of space available in the
+                                                         Single Subfeed
+                                                            Breaker
+                                                                                             X     Size Per Main Breaker Layout                                             13
+                                                         Through Feed
+    panelboard for adding                                                                          Size Per MLO Size Chart
+
+                                                                                                                                                                            14
+                                                             Lugs
+                                                                                             X     Not Available With Subfeed Breaker
+    circuit breakers.
+    1.38 inches (35.1 mm)
+    of panel height =
+    one X space                                                                                                                                                             15
+●   Determine the type of
+    breaker needed for the
+    required ampere rating
+                                                                                                                                                                            16
+    and number of poles
+Ratings                                                                                                                                                                     17
+● 600A maximum
+Replacement Capabilities
+                                                                                                                                                                            18
+Breakers
+Refer to renewal parts                                                                                                                                                      19
+data RP01400001E and
+RP01414001E for a complete
+list of available parts                                                                                                                                                     20
+including branch device
+retrofit kits, which include
+the device, as well as, the                                                                                                                                                 21
+bus connectors and the
+required mounting hardware.
+Retrofit kits and renewal
+                                                                                                                                                                            22
+parts are available from
+your Eaton Satellite plant.                                                                                                                                                 23
+Refer to Page V12-T4-22.
+
+                                                                                                                                                                            24
+                                                                                                                                                                            25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—June 2018 www.eaton.com                                     V12-T4-17
+

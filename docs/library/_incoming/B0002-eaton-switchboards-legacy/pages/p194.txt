@@ -1,0 +1,109 @@
+                                                                                                                       Panelboards
+                                                                                                                  Replacement Capabilities
+                                                                                                                                                 4
+EE                                    EE Panelboard Panel Layout
+Originally a                                                               48"                                                                           1
+Cutler-Hammer Product                                                      42"
+
+
+                                                                       10" Gutter
+                                                                                                                                                         2
+                                                 7"                                                    7"
+
+                                                                Neutral—No X Space                                                                       3
+                                                                 (May Be At Bottom)
+
+
+                                                                            20X                                                                          4
+                                              10X             400–600A Main Switch                    10X
+                                                              400–600A Branch Switch
+
+                                                                          14X
+                                                                                                                                                         5
+                                                 7X                1200A Lug Unit /                    7X
+                                                                  200A Branch Switch
+                                                                 (600V With R Fusing)                                                                    6
+                                           10"                                                              10"
+                                                                         20X
+                                              10X
+                                                                 800A Main Switch /
+                                                                 800A Branch Switch                    10X                                               7
+
+                                                            600A                    600A 
+                                                                                                                                                         8
+                                                 8X          Branch                   Branch           8X
+     Cutler-Hammer EE Panelboard                            Lug Unit                 Lug Unit
+
+The panel layouts shown on                                                                                                                               9
+this and the following pages                                            12X
+                                                 6X             MS, MH Main Breaker /                  6X
+will aid in determining the
+space available for the
+                                                                 NS, NH Main Breaker
+                                                                                                                                                         10
+addition of molded-case
+circuit breakers and fusible                     6X         LS, LH 0
+                                                            Breaker
+                                                                                       LS, LH 0
+                                                                                       Breaker
+                                                                                                       6X
+                                                                                                                                                         11
+switches into your existing
+EE panelboards.
+●    Determine the amount
+                                                 7X
+                                                        200A Branch 0
+                                                            Switch
+                                                       240V—R&T Fuse
+                                                                                      400A 
+                                                                                       Branch          8X
+                                                                                                                                                         12
+                                                      600V—T-Fuse Only                Lug Unit
+     of space available in the
+     panelboard for adding
+                                                                                      30A, 60A
+                                                                                                                                                         13
+     replacement devices.                                  100A 0
+                                                 6X         Branch                     Branch          5X
+     1.38 inches (35.1 mm)
+                                                                                                                                                         14
+                                                            Switch                     Switch
+     of panel height =
+     one X space                                 3X    CC, CCH, CHH 0              CC, CCH, CHH 0      3X
+
+                                                                                                                                                         15
+                                                      FS, FH, JS, JH, JL          FS, FH, JS, JH, JL
+●    Determine the type of
+     replacement device                          4X       KS, KH 0                     KS, KH 0        4X
+     needed for the required                              Breaker                      Breaker
+     ampere rating and number
+                                                                           12X
+                                                                                                                                                         16
+     of poles                                    6X                      MS, MH                        6X
+                                                                       Main Breaker
+Ratings                                                                                                                                                  17
+● 1200A maximum
+                                                                        10" Gutter
+Replacement Capabilities                                                                                                                                 18
+Breakers and                          Notes
+Fusible Switches
+Refer to renewal parts data
+                                      1 Main device must be mounted at neutral end of double-bus panel.
+                                      2 May be used in 30.00-inch (762.0 mm) wide single bus interiors.
+                                                                                                                                                         19
+RP01400003E for a complete
+list of available parts
+including branch device
+                                                                                                                                                         20
+retrofit kits, which include
+the device, as well as, the                                                                                                                              21
+bus connectors and the
+required mounting hardware.
+Contact the Aftermarket                                                                                                                                  22
+Center in Sumter, SC
+(see Page V12-T4-22).
+                                                                                                                                                         23
+                                                                                                                                                         24
+                                                                                                                                                         25
+                      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—June 2018 www.eaton.com                  V12-T4-13
+

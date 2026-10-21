@@ -1,0 +1,106 @@
+     13                                 Motor Control
+                                        Contactors, Starters and Brakes
+
+
+
+     Replacement Capabilities
+1
+     Renewal Parts for Cat. No. 511 Shoe Brakes 1
+2                                                Part Numbers
+                                                 4-Inch Brake      5-1/2-Inch Brake   7-Inch Brake                   10-Inch Brake
+
+3    Description
+                                                 3, 10 and 15 Lb
+                                                 Torque
+                                                                   25 and 35 Lb
+                                                                   Torque
+                                                                                      50 and 75 Lb
+                                                                                      Torque
+                                                                                                     85 and 110 Lb
+                                                                                                     Torque
+                                                                                                                     125 Lb
+                                                                                                                     Torque
+                                                                                                                                         160 Lb
+                                                                                                                                         Torque
+     Magnet Coils                 Coil Suffix
+4    120V, 60 Hz                  -39            9-591-9           9-585-9            9-941-20       9-941-8         9-758-36            9-758-37
+     110V, 50 Hz                  -5             9-591-9           9-585-9            9-585-9        9-941-39        9-758-26            9-758-10
+5    120/110V, 50/60 Hz           -66            9-591-9           9-585-9            —              —               —                   —
+     208V, 60 Hz                  -45            9-591-16          9-585-33           9-941-35       9-941-45        9-758-30            9-758-31
+6    208/240V, 50/60 Hz           -50            9-591-3           —                  —              —               —                   —
+     240V, 60 Hz                  -40            9-591-10          9-585-10           9-941-15       9-941-4         9-758-2             9-758-30
+
+7    220/240V, 50/60 Hz           -67            9-591-10          9-585-10           —              —               —                   —
+     480V, 60 Hz                  -41            9-591-11          9-585-16           9-941-12       9-941-6         9-758-4             9-758-20
+
+8    440/480V, 50/60 Hz           -70            9-591-11          —                  —              —               —                   —
+     600V, 60 Hz                  -58            9-591-12          9-585-26           9-941-32       9-941-25        9-758-13            9-758-5
+
+9    550/600V, 50/60 Hz           -71            9-591-12          —                  —              —               —                   —
+     220V, 50 Hz                  -6             9-591-10          9-585-10           9-585-10       9-941-29        9-758-6             9-758-2
+
+10   380V, 50 Hz
+     440V, 50 Hz
+                                  -7
+                                  -8
+                                                 9-591-13
+                                                 9-591-11
+                                                                   9-585-5
+                                                                   9-585-11
+                                                                                      9-585-5
+                                                                                      9-585-11
+                                                                                                     9-941-30
+                                                                                                     9-941-3
+                                                                                                                     9-758-4
+                                                                                                                     9-758-7
+                                                                                                                                         9-758-28
+                                                                                                                                         9-758-4
+
+11   550V, 50 Hz
+     120 Vdc
+                                  -9
+                                  -97
+                                                 9-591-12
+                                                 9-1346-3
+                                                                   9-585-12
+                                                                   9-1347-10
+                                                                                      9-585-12
+                                                                                      9-1347-10
+                                                                                                     9-941-41
+                                                                                                     9-1347-12
+                                                                                                                     9-758-27
+                                                                                                                     —
+                                                                                                                                         9-758-13
+                                                                                                                                         —
+                                                                                                                     —                   —
+12
+     240 Vdc                      -98            9-1346-4          9-1347-11          9-1347-11      9-1347-13
+     Lining kit with rivets 2                    6-166             6-166-2            6-166-5        6-166-5         6-166-4
+     Shoe with lining                            48-306 3          48-1787 3          48-1200-3 3    48-1200-3 3     24-2146-3 Inner 3
+13                                                                                                                   24-2146-4 Outer 3
+     Solenoid without coil       AC              88-1553-8         88-2930-4          88-1342-11     88-1342-11      17-17199
+14                               DC              88-521-6          88-521-5           88-521-5       88-521-5        —
+     RP publication number                       19320 AC          17377 AC           15475 AC       15475 AC        17379
+15                                               13864 DC          17378 DC           15477 DC       15477 DC        —
+
+
+16   Technology Upgrades
+     This product currently listed in Volume 5—Motor Control and Protection, CA08100006E, Tab 2.
+17   1 Parts listed are for current line of 511 brakes.
+     2 Kit contains two linings and rivets for one brake.
+
+18
+     3 Part number covers one shoe only.
+
+
+
+
+19
+20
+21
+22
+23
+24
+25
+     V12-T13-64                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

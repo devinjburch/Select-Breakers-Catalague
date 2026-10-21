@@ -1,0 +1,91 @@
+     24                                 Counters, Panel Meters, Tachometers and Timers
+                                        Timers/Hour Meters
+
+
+
+     Hour Meter/Counter
+1
+     Product Description                                 Typical Application                               Features                                         Standards and Certifications
+     Eaton’s CEC series                                      General counting                                  Combination counter                              cRU®us certified
+2
+                                                         ●                                                 ●                                                ●
+
+     combination meters provide                          ●   Pump control panels                               consists of time meter and                   ●   CE marked
+     an event counter and elapsed                        ●   Service interval for                              adding counter in one
+3    time meter is one compact
+     unit.
+                                                             measurement systems                           ●   Without reset
+                                                             (respiratory ventilators,                     ●   High shock resistance
+                                                             oxygen machines, dialysis                         Magnified figures
+4
+                                                                                                           ●
+
+                                                             machines)                                     ●   Protection IP52 (front)
+                                                         ●   Small appliances                              ●   Data retention if power is
+5                                                        ●   UV lamps                                          lost
+                                                         ●   Display panels in cars                        ●   Long service life
+6    Product Selection
+
+7    CEC-…-406                    Hour Meter/Counters
+                                  Description                                                                          Catalog Number
+
+8                                 Combination hour meter/counter, 55 mm square front panel mount,
+                                  100–130 Vac, 60 Hz
+                                                                                                                       CEC-55PM-406
+
+                                  Combination hour meter/counter, 48 mm DIN rail mount, 100–130 Vac, 60 Hz             CEC-48DR-406
+9
+10   Technical Data and Specifications
+     General Specifications
+11   Description                                             Specification
+     Electrical connection                                    Flat pin 0.8 x 6.3 mm with screw terminal, tightening torque max. 0.8 Nm
+
+12   Power consumption
+                                                              60 Hz, approx. 1.43 VA
+      100–130 Vac
+
+13
+     Count mode                                               Adding
+     Figure size                                              0.16 x 0.07 in (4 x 1.7 mm)
+     Color of figures
+14    Hour                                                    White on black
+      Decimal                                                Red on black
+15   Running time meter operating indicator                   Fast rotating wheel with red dashes; 99999.99 hour
+     Accuracy AC                                              Supply frequency ±30 ms
+
+16   Reset
+     Ambient temperature
+                                                             None
+                                                             5 to 122 °F (–15 to 50 °C)
+     Mounting position                                        Any
+17   Color of housing                                         Black
+
+
+18   Dimensions
+     Approximate Dimensions in Inches (mm)
+19   DIN Rail Mount                                                            Front Panel Mount
+                                                2.106                                                                                    0.256 (6.5) Max.
+20                                 0.197
+                                                (53.5)
+                                   (5.0)
+
+21
+     2.421                   h                                                                    h
+22   (61.5)
+
+                                                              0.047
+                                                              (1.2)
+23                 SQ 1.91
+                    (48.5)
+                                                   0.748
+                                                   (19.0)                                                                                   0.047 (1.2)
+                                                                                       SQ 2.166                                                                              Dia. 1.988
+                                                                                        (55.0)                                              0.374 (9.5)                        (50.5)
+24                                                                                                                           1.122
+                                                                                                                             (28.5)
+
+
+
+25
+     V12-T24-90                  Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

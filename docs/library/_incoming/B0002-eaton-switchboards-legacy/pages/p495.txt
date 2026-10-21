@@ -1,0 +1,121 @@
+                                                                              Replacement Digitrip RMS Rating Plugs for DS Breakers
+                                                                                                                                         Switchgear
+                                                                                                                                                                                         17
+Rating Plugs for All Other Breakers 1234
+Past Technology (500/600/700/800)                                                                   Present Technology (510/610/810/910)                                                                  1
+Sensor                  Rating                  60 Hz                      60 Hz                    Sensor                   Rating                 50/60 Hz                   50/60 Hz
+Tap Connection          Plug Rating             Catalog Number 5           Style Number 5           Tap Connection           Plug Rating            Catalog Number 6           Style Number 6
+                                                                                                                                                                                                          2
+200                     100                     PR6A02A010                 3D86709G01               200                      100                    RP6A02A010                 3D86766G01
+200
+250
+                        200
+                        250
+                                                PR6A02A020
+                                                PR6A02A025
+                                                                           3D86709G02
+                                                                           3D86709G11
+                                                                                                    200
+                                                                                                    250
+                                                                                                                             200
+                                                                                                                             250
+                                                                                                                                                    RP6A02A020
+                                                                                                                                                    RP6A02A025
+                                                                                                                                                                               3D86766G02
+                                                                                                                                                                               3D86766G11
+                                                                                                                                                                                                          3
+300
+300
+                        200
+                        250
+                                                PR6A03A020
+                                                PR6A03A025
+                                                                           3D86709G36
+                                                                           3D86709G12
+                                                                                                    300
+                                                                                                    300
+                                                                                                                             200
+                                                                                                                             250
+                                                                                                                                                    RP6A03A020
+                                                                                                                                                    RP6A03A025
+                                                                                                                                                                               3D86766G36
+                                                                                                                                                                               3D86766G12
+                                                                                                                                                                                                          4
+                                                                                                                                                                                                          5
+300                     300                     PR6A03A030                 3D86709G37               300                      300                    RP6A03A030                 3D86766G37
+400                     200                     PR6A04A020                 3D86709G13               400                      200                    RP6A04A020                 3D86766G13
+400                     250                     PR6A04A025                 3D86709G14               400                      250                    RP6A04A025                 3D86766G14
+400                     300                     PR6A04A030                 3D86709G15               400                      300                    RP6A04A030                 3D86766G15                 6
+400                     400                     PR6A04A040                 3D86709G03               400                      400                    RP6A04A040                 3D86766G03
+600                     300                     PR6A06A030                 3D86709G16               600                      300                    RP6A06A030                 3D86766G16                 7
+600                     400                     PR6A06A040                 3D86709G17               600                      400                    RP6A06A040                 3D86766G17
+600                     600                     PR6A06A060                 3D86709G04               600                      600                    RP6A06A060                 3D86766G04                 8
+800                     400                     PR6A08A040                 3D86709G18               800                      400                    RP6A08A040                 3D86766G18
+800                     600                     PR6A08A060                 3D86709G19               800                      600                    RP6A08A060                 3D86766G19                 9
+800                     800                     PR6A08A080                 3D86709G05               800                      800                    RP6A08A080                 3D86766G05
+1200                    600                     PR6A12A060                 3D86709G20               1200                     600                    RP6A12A060                 3D86766G20                 10
+1200                    800                     PR6A12A080                 3D86709G21               1200                     800                    RP6A12A080                 3D86766G21
+1200                    1000                    PR6A12A100                 3D86709G22               1200                     1000                   RP6A12A100                 3D86766G22                 11
+1200                    1200                    PR6A12A120                 3D86709G10               1200                     1200                   RP6A12A120                 3D86766G10
+1600                    800                     PR6A16A080                 3D86709G23               1600                     800                    RP6A16A080                 3D86766G23                 12
+1600                    1000                    PR6A16A100                 3D86709G24               1600                     1000                   RP6A16A100                 3D86766G24
+1600                    1200                    PR6A16A120                 3D86709G25               1600                     1200                   RP6A16A120                 3D86766G25
+                                                                                                                                                                                                          13
+1600                    1600                    PR6A16A160                 3D86709G06               1600                     1600                   RP6A16A160                 3D86766G06
+2000                    1000                    PR6A20A100                 3D86709G26               2000                     1000                   RP6A20A100                 3D86766G26
+                                                                                                                                                                                                          14
+2000                    1200                    PR6A20A120                 3D86709G27               2000                     1200                   RP6A20A120                 3D86766G27
+2000
+2000
+                        1600
+                        2000
+                                                PR6A20A160
+                                                PR6A20A200
+                                                                           3D86709G28
+                                                                           3D86709G07
+                                                                                                    2000
+                                                                                                    2000
+                                                                                                                             1600
+                                                                                                                             2000
+                                                                                                                                                    RP6A20A160
+                                                                                                                                                    RP6A20A200
+                                                                                                                                                                               3D86766G28
+                                                                                                                                                                               3D86766G07
+                                                                                                                                                                                                          15
+                                                                                                                                                                                                          16
+3000                    1600                    PR6A30A160                 3D86709G29               3000                     1600                   RP6A30A160                 3D86766G29
+3000                    2000                    PR6A30A200                 3D86709G30               3000                     2000                   RP6A30A200                 3D86766G30
+3000                    2500                    PR6A30A250                 3D86709G31               3000                     2500                   RP6A30A250                 3D86766G31
+3000                    3000                    PR6A30A300                 3D86709G08               3000                     3000                   RP6A30A300                 3D86766G08
+                                                                                                                                                                                                          17
+3200                    1600                    PR6A32A160                 3D86709G39               3200                     1600                   RP6A32A160                 3D86766G39
+3200                    2000                    PR6A32A200                 3D86709G40               3200                     2000                   RP6A32A200                 3D86766G40                 18
+3200                    2400                    PR6A32A240                 3D86709G41               3200                     2400                   RP6A32A240                 3D86766G41
+3200                    3200                    PR6A32A320                 3D86709G42               3200                     3200                   RP6A32A320                 3D86766G42                 19
+4000                    2000                    PR6A40A200                 3D86709G32               4000                     2000                   RP6A40A200                 3D86766G32
+4000                    2500                    PR6A40A250                 3D86709G33               4000                     2500                   RP6A40A250                 3D86766G33                 20
+4000                    3000                    PR6A40A300                 3D86709G34               4000                     3000                   RP6A40A300                 3D86766G34
+4000                    3200                    PR6A40A320                 3D86709G35               4000                     3200                   RP6A40A320                 3D86766G35                 21
+4000                    4000                    PR6A40A400                 3D86709G09               4000                     4000                   RP6A40A400                 3D86766G09
+
+Notes                                                                                                                                                                                                     22
+1 Choose the rating plug to match the sensor tap selected and the continuous current rating.
+
+
+                                                                                                                                                                                                          23
+2 When ordering as part of a retrofit kit, refer to Pages V12-T17-28 through V12-T17-51.
+3 At the time of this publication, the standard trip units for low voltage Digitrip retrofit kits are the RMS 510/610/810/910. From 1989 to 1996, the standard trip units were the RMS 500/600/700/800.
+
+  These trip units are no longer in production. Replacement orders for the 500/600/700/800 trip units will be filled by the equivalent 510/610/810/910 trip units. Remember, when replacing a
+  500/600/700/800 unit with a 510/610/810/910, the rating plug must also be replaced.
+4 Rating plugs for the 500/600/700/800 trip units will still be available. These rating plugs are not interchangeable with the 510/610/810/910 trip units. Likewise, rating plugs for the                 24
+  510/610/810/910 are not interchangeable with the 500/600/700/800 trip units.
+
+                                                                                                                                                                                                          25
+5 50 Hz rating plugs are available. Contact your local Eaton Field Sales office for details.
+6 Rating plugs may be ordered separately by above style number or as part of a complete retrofit kit.
+
+
+
+                       Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                         V12-T17-27
+

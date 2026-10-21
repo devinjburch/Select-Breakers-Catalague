@@ -1,0 +1,119 @@
+     13                              Motor Control
+                                     Contactors, Starters and Brakes
+
+
+
+                                                DC Coils 1
+1                                                                                 Size 0                                Size 1                             Size 2
+                                                Voltage                           Single-, Two-, Three-, Four-Pole      Single-, Two-, Three-, Four-Pole   Single-, Two-, Three-, Four-Pole
+2                                               12                                1268C86G07                            1268C86G07                         1268C86G07
+                                                24                                1268C86G04                            1268C86G04                         1268C86G04
+
+3                                               48
+                                                125
+                                                                                  1268C86G05
+                                                                                  1268C86G02
+                                                                                                                        1268C86G05
+                                                                                                                        1268C86G02
+                                                                                                                                                           1268C86G05
+                                                                                                                                                           1268C86G02
+      A200 AC Coil, 110/120V, 60 Hz, Size 6
+                                                250                               1268C86G01                            1268C86G01                         1268C86G01
+4                                               125/250 2                         1268C86G03                            1268C86G03                         1268C86G03
+
+                                                Kits for Model J–K, Sizes 3 and 4 3
+5                                               Description                       Poles            Size 3—Model J                 Size 4—Model J                Size 4—Model K 4
+                                                Contact kit                       2                626B187G12                     626B187G16                    5250C81G16
+6                                                                                 3                626B187G13                     626B187G17                    5250C81G17
+                                                                                  4                626B187G14 5                   626B187G18 7                  5250C81G18
+
+7       A200 AC Coil, 120/110V, 60/50 Hz,
+                                                Arc box
+                                                                                  5
+                                                                                  2–3
+                                                                                                   626B187G15 6
+                                                                                                   6714C74G09
+                                                                                                                                  626B187G19 8
+                                                                                                                                  6714C74G11
+                                                                                                                                                                5250C81G19
+                                                                                                                                                                6714C74G11
+     Two-, Three-Pole, Sizes 3 and 4, Model J
+                                                                                  4–5              6714C74G10                     6714C74G12                    6714C74G12
+8                                               Cross bar                         2–3              672B788G36                     672B788G36                    672B788G40
+                                                                                  4–5              672B788G38                     672B788G38                    —
+
+9                                               Upper base                        2–3
+                                                                                  4–5
+                                                                                                   672B788G37
+                                                                                                   672B788G39
+                                                                                                                                  672B788G37
+                                                                                                                                  672B788G39
+                                                                                                                                                                672B788G52
+                                                                                                                                                                —
+                                                Lower base                        2–3              1250C33G03                     1250C33G03                    1250C33G10
+10                                                                                4–5              1250C33G06                     1250C33G06                    —
+                                                KO spring (pk. of 10)             All              503C796G02                     503C796G02                    672B788G50
+
+11                                              Terminals line/load (pk. of 3)    All              372B357G12                     372B357G13                    372B357G13
+
+                                                AC Coils
+12                                                                                                 Model J, Sizes 3–4                            Model K, Size 4 9
+                                                Voltage                   Hz                       Two-, Three-Pole       Four-, Five-Pole       Two-, Three-Pole       Four-, Five-Pole
+
+13                                              120/110                   60/50                    505C633G01             505C635G01             5250C79G01             5250C80G01
+                                                208                       60                       505C633G02             505C635G02             5250C79G02             5250C80G02
+                                                600/550                   60/50                    505C633G05             505C635G05             5250C79G05             5250C80G05
+14                                              380                       50                       505C633G07             505C635G07             5250C79G07             5250C80G07
+                                                240/220                   60/50                    505C633G12             505C635G12             5250C79G12             5250C80G12
+15                                              480/440                   60/50                    505C633G13             505C635G13             5250C79G13             5250C80G13
+                                                24                        60                       505C633G34             N/A                    5250C79G34             N/A
+
+16
+                                                277                       60                       505C633G14             N/A                    5250C79G14             N/A
+                                                240/480 j                 60/60                    505C633G03             505C635G03             5250C79G03             5250C80G03
+                                                120/240 j                 60/60                    505C633G10             505C635G10             5250C79G10             5250C80G10
+17                                              DC Coils k
+                                                                                      Model J, Sizes 3–4
+18                                              Voltage                               Two-, Three-Pole
+                                                24                                    1255C68G04
+19                                              48                                    1255C68G05
+                                                125                                   1255C68G01
+
+20                                              250
+                                                125/250
+                                                                                      1255C68G02
+                                                                                      1255C68G03
+
+
+21
+                                                Notes
+                                                1 Use only on contactors originally supplied with a DC coil.
+                                                2 Dual voltage coils. Use only on contactors or starters originally supplied with a dual voltage coil.
+
+
+22
+                                                3 Model C contact kits and coils 00–4, two-, three-, four- and five-pole contactors are same as Model J.
+
+                                                  All other parts are unavailable.
+                                                4 Model K replaces Model J.
+
+
+23
+                                                5 Use quantity two–626B187G12 (two-pole kits).
+                                                6 Use one of each of 626B187G12 (two-pole kit) and 626B187G13 (three-pole kit).
+                                                7 Use quantity two–626B187G16 (two-pole kit).
+
+
+24
+                                                8 Use one each of 626B187G16 (two-pole kit) and 626B187G17 (three-pole kit).
+                                                9 Model K replaces Model J.
+                                                j Dual voltage coils. Use only on contactors or starters originally supplied with a dual voltage coil.
+
+
+25                                              k Use only on units originally supplied with DC coil.
+
+
+
+
+     V12-T13-24             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

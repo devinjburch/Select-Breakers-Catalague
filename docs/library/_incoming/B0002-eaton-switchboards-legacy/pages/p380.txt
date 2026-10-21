@@ -1,0 +1,61 @@
+                                                                                                  Motor Control
+                                                                                         Contactors, Starters and Brakes
+                                                                                                                                       13
+IEC Sizes G and H—See Contactor/Starter Nameplate to Determine Series A1 and B1
+                                                  IEC Size G            IEC Size G               IEC Size H              IEC Size H                 1
+                                                  Series A1             Series B1               Series A1                Series B1
+Description                                       Part Number           Part Number             Part Number              Part Number                2
+Renewal Parts Publication Number                  20862                 22178                    20862                   22178
+Contact Kits
+                                                                                                                                                    3
+Two-pole                                          6-65-3                6-65-3                  6-65-5                   6-65-5
+Three-pole
+Four-pole
+                                                  6-65-4
+                                                  6-65-11
+                                                                        6-65-4
+                                                                        6-65-11
+                                                                                                6-65-6
+                                                                                                6-65-13
+                                                                                                                         6-65-6
+                                                                                                                         6-65-13
+                                                                                                                                                    4
+                                                                                                                                                    5
+Five-pole                                         6-65-12               6-65-12                  6-65-14                 6-65-14
+Magnet Coils                        Coil Suffix
+120V, 60 Hz or 110V, 50 Hz          A             9-2703-1              9-2703-1                 9-2703-1                9-2703-1
+240V, 60 Hz or 220V, 50 Hz          B             9-2703-2              9-2703-2                 9-2703-2                9-2703-2
+                                                                                                                                                    6
+480V, 60 Hz or 440V, 50 Hz          C             9-2703-3              9-2703-3                 9-2703-3                9-2703-3
+600V, 60 Hz or 550V, 50 Hz          D             9-2703-4              9-2703-4                 9-2703-4                9-2703-4                   7
+208V, 60 Hz                         E             9-2703-9              9-2703-9                 9-2703-9                9-2703-9
+277V, 60 Hz                         H             9-2703-7              9-2703-7                 9-2703-7                9-2703-7                   8
+240V, 50 Hz                         K             9-2703-14             9-2703-14                9-2703-14               9-2703-14
+380–415V, 50 Hz                     L             9-2703-8              9-2703-8                 9-2703-8                9-2703-8                   9
+24V, 60 Hz–24V, 50 Hz               T             —                     —                        —                       —
+24V, 60 Hz                          T             9-2703-6              9-2703-6                 9-2703-6                9-2703-6                   10
+24V, 50 Hz                          U             9-2703-12             9-2703-12                9-2703-12               9-2703-12
+32V, 50 Hz                          V             9-2703-10             9-2703-10                9-2703-10               9-2703-10                  11
+48V, 60 Hz                          W             9-2703-11             9-2703-11                9-2703-11               9-2703-11
+48V, 50 Hz                          Y             9-2703-13             9-2703-13                9-2703-13               9-2703-13                  12
+Overload Relays
+For replacement on existing starters:
+three-pole—ambient compensated bimetallic         C306DN3B              C306DN3B                 C306DN3B                C306DN3B
+                                                                                                                                                    13
+Current Transformer
+Transformer                                       —                     —                       —                        —                          14
+Magnet Frame Armature
+Lower magnet frame                                17-18200              17-1820                  17-18200                17-18200                   15
+Upper magnet frame                                48-1936               48-1936                  48-1936                 48-1936
+                                                                                                                                                    16
+                                                                                                                                                    17
+                                                                                                                                                    18
+                                                                                                                                                    19
+                                                                                                                                                    20
+                                                                                                                                                    21
+                                                                                                                                                    22
+                                                                                                                                                    23
+                                                                                                                                                    24
+                                                                                                                                                    25
+                        Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com       V12-T13-43
+

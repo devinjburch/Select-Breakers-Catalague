@@ -1,0 +1,93 @@
+     14                                Motor Control Centers
+                                       Low Voltage MCCs
+
+
+
+                                                    assembly with components                  are currently manufactured       Unitrol. These motor control
+1                                                   of proven electrical and                  in Fayetteville and in eight     centers used the 3-Star type
+                                                    mechanical integrity. These               service centers around           motor starter. In 1968, the
+                                                    assemblies are enclosed in                the country.                     Citation line of starters
+2                                                   metal structures that prevent                                              replaced the 3-Star type in
+                                                    accidental contact with live              The Westinghouse plug-in         the 9800 MCC. The motor
+                                                    electrical parts.                         starter design for group-
+3                                                                                             mounted control (called
+                                                                                                                               control center was totally
+                                                                                                                               redesigned around the
+                                                    Eaton’s Cutler-Hammer® MCC                motor control centers) was       Citation starter in 1972 and
+                                                    structure consists of structural          first introduced in 1935,
+4                                                   steel, horizontal and vertical            and in 1950 became known
+                                                                                                                               was called the F10 Unitrol.
+                                                                                                                               The next generation of MCC
+                                                    wireways for conduit and load             as the Type 11-300 motor         was introduced in 1988, using
+5                                                   cable entry and exit, and
+                                                    vertical and horizontal bus
+                                                                                              control center and used the
+                                                                                              11-200 motor starter. The
+                                                                                                                               the Freedom line of starters
+                                                                                                                               called the Freedom Unitrol.
+                                                    systems for distributing power            Type W MCC replaced the          Freedom Unitrol was
+6                                                   throughout the MCC. The                   11-300 in 1965, first using      discontinued in 1994 and
+                                                    starter unit consists of a                the 11-200 starter and then      replaced with the Cutler-
+                                                    rugged steel shell (wrapper)              moving to the A200 starter.
+7                                                   for mounting the unit                     The 5 Star was introduced in
+                                                                                                                               Hammer F2100 motor
+                                                                                                                               control center.
+                                                    components, a combination                 1975 to replace the Type W.
+                                                    motor starter with factory                It, too, used the A200 motor     Cutler-Hammer motor control
+8                                                   wired control, a handle                   starter. The Series 2100         centers were originally built in
+                                                    mechanism for ON/OFF                      updated the 5 Star design        Milwaukee, WI. In 1962,
+9                                                   operation and a rigid unit door.          in 1987, but is mechanically
+                                                                                              compatible with the 5 Star.
+                                                                                                                               manufacturing moved out of
+                                                                                                                               Milwaukee to plants in
+                       F2100
+                                                                                              The Advantage MCC was            Atlanta, GA; Bethlehem, PA;
+                                                    Product History
+10   Product Description                            Group-mounted motor control
+                                                                                              introduced as a sister product   Chicago, IL; Los Angeles, CA;
+                                                                                              to the Series 2100 in 1992       Dallas, TX; San Francisco, CA;
+     Nearly 50 years ago, Eaton’s                   was originally developed by               with the introduction of the     and Cleveland, TN. In 1972,
+11   electrical business and                        Westinghouse in 1935. What                Advantage starter. It was also   these plants consolidated to
+     Westinghouse® introduced                       came to be known as motor                 mechanically compatible with     Atlanta, Bethlehem, Chicago,
+     the low voltage motor control                  control centers were built in             the 5 Star. With the merger      Dallas and Los Angeles. In
+12   center (MCC) assembly,                         14 manufacturing and repair               of Eaton’s electrical Cutler-    1984, another consolidation
+     enabling the group mounting                    shops around the country,                 Hammer business unit and         left manufacturing in only
+                                                    including a plant in Chicago,
+13   of low voltage (600V class)
+     electrical controls. This                      IL, that opened in 1941. In
+                                                                                              Westinghouse’s Distribution
+                                                                                              and Control Business Unit
+                                                                                                                               Atlanta and Los Angeles.
+                                                                                                                               With the introduction of the
+     allowed for supervision and                    1963, Chicago became the                  (DCBU) in 1994, a new hybrid     Freedom starter in 1989, all
+14   safe operation of motor starter                primary MCC manufacturing
+                                                    plant. The Fayetteville, NC,
+                                                                                              motor control center line was    manufacturing was moved
+     units, feeder tap units and                                                              introduced. It was called the    to Atlanta. After the merger,
+     auxiliary equipment in a                       operation was opened in                   F2100 MCC and featured the       all motor control center
+15   flexible structure arrangement                 1980 to relieve some of                   Freedom™ starter.                manufacturing moved to the
+     at a centralized location.                     Chicago’s volume. The                                                      Fayetteville, NC, location.
+                                                    Fayetteville plant was                    The Cutler-Hammer plug-in
+16   The foundation for today’s                     expanded in 1984 and the                  starter design motor control
+     MCCs is a modular plug-in                      Chicago operation was                     center was introduced in the
+     combination motor controller                   closed. Motor control centers             late 1950s as the 9800 Series
+17
+18   Product History Time Line
+
+      Page          Product                         1935   1950    1955     1960       1965      1970    1975   1980    1985   1990   1995     2000   Present
+19    V12-T14-5     Westinghouse 11-300
+      V12-T14-6     Cutler-Hammer 9800
+20    V12-T14-7     Westinghouse Type W
+      V12-T14-8     Cutler-Hammer F10
+21    V12-T14-10 Westinghouse 5 Star
+      V12-T14-9     Cutler-Hammer Freedom Unitrol
+22    V12-T14-10 Westinghouse Series 2100
+      V12-T14-11 Westinghouse Advanage™
+23    V12-T14-12 Cutler-Hammer F2100
+                    Cutler-Hammer IT. MCC 햲
+24   Note
+     1 No additional information at this time.
+
+25
+     V12-T14-2                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

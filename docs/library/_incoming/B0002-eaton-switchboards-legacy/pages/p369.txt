@@ -1,0 +1,106 @@
+     13                            Motor Control
+                                   Contactors, Starters and Brakes
+
+
+
+     Heater Selection for Types A and B Overload Relays,                        Heater Selection for Types A and B Overload Relays,
+1    Sizes 3 and 4 Starters 123                                                 Sizes 5 and 6 Starters 4
+     Ambient                                                                    Compensated Overload Relay
+                                                                                                                                                          Heater
+2    Compensated
+     Enclosed Starters
+                                     Non-Compensated
+                                     Enclosed Starters
+                                                            Heater
+                                                                                Open Starter
+                                                                                Full Load Current of Motor (Amperes)
+                                                                                                                    Enclosed Starter                      Catalog
+                                                                                                                                                          Number
+     All Applications                                       Catalog
+3    Full Load Current of Motor (Amperes) 1                 Number              Size 5 (With 300/5 Current Transformers)
+                                                                                —                                   —                                     FH23
+     For Sizes 3 and 4 Starters
+
+4
+                                                                                118–129                             118–129                               FH24
+     12.8–14.1                       11.9–13.0              FH68
+     14.2–15.5                       13.1–14.3              FH69                130–141                             130–141                               FH25
+                                                                                142–155                             142–155                               FH26
+5    15.6–17.1                       14.4–15.9              FH70
+                                                                                156–170                             156–170                               FH27
+     17.2–18.9                       16.0–17.4              FH71
+                                                                                171–187                             171–187                               FH28
+6    19.0–20.8
+     20.9–22.9
+                                     17.5–19.1
+                                     19.2–21.1
+                                                            FH72
+                                                            FH73                188–205                             188–205                               FH29
+                                                                                206–224                             206–224                               FH30
+7
+     23.0–25.2                       21.2–23.2              FH74
+     25.3–27.8                       23.3–25.6              FH75                225–244                             225–244                               FH31
+
+     27.9–30.6                       25.7–28.1              FH76                245–263                             245–263                               FH32
+8    30.7–33.5                       28.2–30.8              FH77
+                                                                                264–292                             264–292                               FH33
+
+     33.6–37.5                       30.9–34.5              FH78                293–300                             —                                     FH34
+9    37.6–41.5                       34.6–38.2              FH79                Size 6 (With 600/5 Current Transformers)
+                                                                                —                                   —                                     FH23
+     41.6–46.3                       38.3–42.6              FH80
+10   46.4–50                         42.7–46                FH81                236–259                             236–259                               FH24
+
+     51–55                           47–51                  FH82                260–283                             260–283                               FH25
+
+11   56–61                           52–56                  FH83
+                                                                                284–310                             284–310                               FH26
+
+     62–66                           57–61                  FH84                311–340                             311–340                               FH27
+
+12   67–73                           62–67                  FH85                341–374                             341–374                               FH28
+                                                                                375–411                             375–411                               FH29
+     74–78                           68–72                  FH86
+
+13   79–84                           73–77                  FH87                412–448                             412–448                               FH30
+
+     85–92                           78–84                  FH88                449–489                             449–489                               FH31
+
+14   —                               85–91                  FH89
+                                                                                490–527
+                                                                                528–585
+                                                                                                                    490–527
+                                                                                                                    528–540
+                                                                                                                                                          FH32
+                                                                                                                                                          FH33
+     For Size 4 Starters
+
+15
+                                                                                586–600                             —                                     FH34
+     93–101                          —                      FH89
+                                                                                Size 7 and Larger
+     102–110                         92–99                  FH90
+
+16
+                                                                                Advise full load current
+     111–122                         100–110                FH91
+     123–129                         111–122                FH92                Notes
+                                                                                1 Based on 60°C and 75°C wire for 30A or less.
+
+17   130–133                         123–128                FH93                2 Based on 60°C wire for 31 to 95A.
+
+     —                               129–133                FH94                3 Based on 75°C wire for greater than 95A.
+                                                                                4 Based on 75°C wire.
+
+18                                                                              Heaters are packaged in strips of six. Minimum ordering quantity is 12.
+
+
+19
+20
+21
+22
+23
+24
+25
+     V12-T13-32            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

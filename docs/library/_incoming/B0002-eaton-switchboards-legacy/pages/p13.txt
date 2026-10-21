@@ -1,0 +1,200 @@
+     2                                                Distribution System
+                                                      Typical Distribution System
+
+
+
+     Product and Services for Life Extension and Equipment Upgrades Overview
+1
+                                                                                 Tab                                                                                                                                               13
+
+2
+       1  Digitrip RMS Trip Unit Retrofit Kits . . . . . . . . . 17                                                                                                                                                                14
+        2 Motor Control Center Bucket Retrofits . . . . . . 2                                                                                                                 15                                                   15
+                                                                                                                                                            34.5 kV
+        3 DHP-VR Vacuum                                                                                                                                     SWITCHGEAR                                                   EXCITATION
+                                                                                                                                                                                   GROUNDING                             CONTROL
+                                                                                                             UTILITY SYSTEM
+           Replacement Breaker . . . . . . . . . . . . . . . . . . . 17
+3
+                                                                                                                                                                                   RESISTOR      14 15
+        4 Switchgear Fluidized Epoxy Bus . . . . . . . . . . . 17                         15                                                                                                                ON-SITE
+                                                                                                                                                       15                                                   GENERATION
+        5 Retrofit/Replace with                                                                                                                             POWER
+                                                                                                                                                            TRANSFORMER
+           Vacuum Contactors . . . . . . . . . . . . . . . . . . . . . 17
+4       6 Cell Retrofit with DSII/SPB
+           Circuit Breakers . . . . . . . . . . . . . . . . . . . . . . . . 17                                                                         15
+                                                                                                                                                            15 kV
+        7 Low Voltage High Resistance                                                                                                                       SWITCHGEAR
+5
+                                                                                                                                                                                                             15
+           Grounding Systems . . . . . . . . . . . . . . . . . . . . . 16
+        8 PowerNet Communication
+           System . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+6       9 Retrofit Front Panel
+           with IQ Devices . . . . . . . . . . . . . . . . . . . . . . . . 10
+       10 Retrofit with IQ Energy                                                                                                                                                                                                       3 4 5 8 9 13 14
+7          Sentinel for Submetering . . . . . . . . . . . . . . . . 10
+       11 Retrofit with Surge Protective
+                                                                                               MEDIUM VOLTAGE
+                                                                                               NON-SEGREGATED BUS               8
+                                                                                                                                14
+                                                                                                                                                               POWERNET
+                                                                                                                                                               INTEGRATED
+                                                                                                                                                                                                                                                  15 19
+
+                                                                                                                                                               MONITORING            LOAD
+           Devices (SPD) . . . . . . . . . . . . . . . . 4, 9, 14, 15                                                           15                             PROTECTION            INTERRUPTER
+
+8      12 Replacement Molded-Case
+
+           Breakers and Parts . . . . . . . . . . . . . . . . . . . . . . 3
+                                                                                                                                                               AND CONTROL
+                                                                                                                                                               COMMUNICATION
+                                                                                                                                                               SYSTEM
+                                                                                                                                                                                     SWITCHGEAR
+                                                                                                                                                                                                              TRANSFORMER
+
+       13 Rebuilding/
+                                                                                                                                                                                                                                                 MEDIUM VOLTAGE
+
+9
+                                                                                                                                                                                                    9 14 15
+           Remanufacturing Service . . . . . . . . . . . 3, 13, 15                                              4
+                                                                                                                                                                                                                                                 SWITCHGEAR
+       14 Renewal/Replacement Parts . . . . . . . . . . . . . ALL                                                                                                                                                                         8 9
+                                                                                                                8                                                         MEDIUM VOLTAGE
+       15 Service Capability . . . . . . . . . . . . . . . . . . . . . . ALL                                                                                                                                                              14 15
+                                                                                                                9                      ARC RESISTANT                      TRANSFER EQUIPMENT
+
+10     16 Power Factor Correction Capacitors . . . . . . . 21                                                                          SWITCHGEAR                         VACUUM BREAKERS                                                 19
+                                                                                                               14                                                         OR LOAD BREAK
+       17 Automatic Transfer Switches . . . . . . . . . . . . . 20                                                                                                        FUSED SWITCHES
+                                                                                                               15
+       18 Arcflash Reduction
+                                                                                                               19
+
+11         Maintenance System. . . . . . . . . . . . . . . . . . . . 17
+       19 Remote Power Racking . . . . . . . . . . . . . . . . . . . 17
+                                                                                                                      1 4 5 6 7 8 9 13
+                                                                                                                              14 15 18 19
+                                                                                                                                                                 5                                                         14 15                              14 15
+
+12
+                                                                  8 9 14 15                                                            LOW VOLTAGE              8                              MEDIUM                      DC                                PROCESS
+                                  ADDITIONAL                    LOAD                                                                   SECONDARY UNIT           13                             VOLTAGE                     DRIVE                             RECTIFIER
+                                  UTILITY                       INTERRUPTER                                                            SUBSTATION                                              STARTER                                                       SYSTEM
+                                                                SWITCHGEAR                     TRANSFORMER                                                      14
+                                  SOURCES
+
+
+13
+                                                                                                                                                                15
+                                                                                                                                                 14
+                         8                                                                                                                       15          14 15
+                        12                                                                                                                                                                                                                    HIGH CURRENT
+                        13                                                                                                                                                                                                                    LOW VOLTAGE
+
+14                      14                                                                                                           RECTIFIER
+                                                                                                                                     AND
+                                                                                                                                                      SYNCHRONOUS
+                                                                                                                                                      MOTOR FIELD
+                                                                                                                                                                                                                                              PROCESS
+
+                        15                                                                                                           EXCITER          APPLICATION
+                             SECONDARY SPOT NETWORK                                                                                                   PANEL          SYNCHRONOUS                   MAGNETIC SHOEBREAK
+
+15                           WITH NETWORK PROTECTORS                                                                                                                 MOTOR
+                                                                          LOW VOLTAGE BUS 14 15                                                                                                                          8 10 12 14 15
+
+                                             LOW VOLTAGE                                                                                                                   ADJUSTABLE                        BUS PLUG                                        BUS PLUG
+                                             SWITCHBOARD                                                                    2 8 9 10
+16
+                                                                                                                                                                           FREQUENCY CONTROL
+                                             INDIVIDUAL/                      POWER FACTOR
+                                             GROUP MOUNTED                    CORRECTION                                   11 12 14 15                                                                                                    8
+                                                                              CAPACITORS                                                                        8                                            REDUCED
+                                                                                                                           MOTOR                                                                                                                             ENCLOSED
+                                                                                                                                                                                             8               VOLTAGE                     14                  CONTROL
+                         1 11                                                                                              CONTROL                             11                                            STARTER
+                                                                                                                                                                                            11                                           15
+17
+                                                                                                                           CENTER
+                         6 12                                        16                                                                                        14
+                                                                                                                                                                                            14
+                         7 14                                                                                                                                  15
+                                                                                                                                                                                            15                                                       14 15
+                         8 15                                                                           14    GENERATOR                                                                                      16
+
+18                       9 18
+                        10 19
+                                                                                                        15
+
+
+                                                                                                                                                                                                                    POWER FACTOR
+
+19                                                        UP TO 300 HP
+                                                                                               SAFETY
+                                                                                               SWITCH
+                                                                                                             8 12 14 15 17
+                                                                                                                                             LOW
+                                                                                                                                             VOLTAGE
+                                                                                                                                             TRANSFER                UP TO 700 HP          UP TO 1500 HP
+                                                                                                                                                                                                                    CORRECTION
+                                                                                                                                                                                                                    CAPACITORS
+                                                                                                                                                                                                                                   UP TO 300 HP              SAFETY
+                                                                                                                                             SWITCH                                                                                                          SWITCH
+
+
+20                        14
+                          15                                               8 9 10 11                                          8 9 10 11                                        8
+                                                                                                                                                                              14                                          8
+                                                                           12 14 15                                           12 14 15                                                                                                               ELECTRICAL
+                                                                                                                                                                                                                         14
+21                                                                                                                                                                            15 PROGRAMMABLE                                                        OPERATOR
+                                                                           LOW VOLTAGE                                      LOW VOLTAGE                                                                                                              INTERFACE
+                                                                           DISTRIBUTION                                     DISTRIBUTION                                            LOGIC                                15
+                                                                           PANELBOARD                                       PANELBOARD                                              CONTROLLER
+                               DRY-TYPE
+                               DISTRIBUTION
+
+22
+                               TRANSFORMER
+                             8 9 14 15 14 15                  8 14 15             14 15                 8 14 15            8 10 11 12 14 15                                        14 15            14 15                14 15                  14 15             14 15
+
+                                                                                                                                                                                                                                 START   STOP
+
+
+23
+24                    LIGHTING
+                      CONTROL
+                                 SAFETY
+                                 SWITCH
+                                                       ENCLOSED
+                                                       CONTROL
+                                                                        SAFETY
+                                                                        SWITCH
+                                                                                                  LIGHTING
+                                                                                                  CONTROL
+                                                                                                             LIGHTING   LIGHTING   LIGHTING
+                                                                                                             PANELBOARD PANELBOARD PANELBOARD
+                                                                                                                                                                    COUNT
+                                                                                                                                                                    CONTROL
+                                                                                                                                                                                       PROXIMITY
+                                                                                                                                                                                       SENSOR
+                                                                                                                                                                                                           LIMIT
+                                                                                                                                                                                                           SWITCH
+                                                                                                                                                                                                                              SELECTOR
+                                                                                                                                                                                                                              SWITCH
+                                                                                                                                                                                                                                                    PHOTOELECTRIC
+                                                                                                                                                                                                                                                    SENSOR
+                      PANELBOARD                                                                  PANELBOARD
+
+
+25                    OFFICE BUILDING                                                             MANUFACTURING FACILITY
+
+
+
+
+     V12-T2-4                            Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

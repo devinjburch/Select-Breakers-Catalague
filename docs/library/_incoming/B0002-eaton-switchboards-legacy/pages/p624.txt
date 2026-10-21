@@ -1,0 +1,87 @@
+     24                                 Counters, Panel Meters, Tachometers and Timers
+                                        Totalizers
+
+
+
+     1/8 DIN LED Multifunction Totalizer/Timer/Ratemeter
+1
+     Product Description                                Features                                                                                          Standards and Certifications
+     LED display for a variety of                           Display counter adding and                     ●   Programmable mode                              UL recognized
+2
+                                                        ●                                                                                                 ●
+
+     input signals.                                         subtracting                                    ●   Display range: –199.999 to                 ●   CE marked
+                                                        ●   Position display                                   999.999 with zero blanking
+3                                                       ●   Frequency counter/                             ●   Connection with screw
+                                                            ratemeter                                          terminal
+                                                            Timer, res. up to 0.001                            Locking SET-key for reset
+4
+                                                        ●                                                  ●
+
+
+                                                            second
+
+5
+     Product Selection
+6    E5-496-E040_                 1/8 DIN LED Multifunction Totalizer/Timer/Ratemeter
+                                  Description                                                                                Catalog Number
+
+7                                 LED Multifunction Counter/Timer/Ratemeter
+                                  90–260 Vac power 3.78 x 1.89 in (96 x 48 mm)                                               E5-496-E0401
+
+8                                 10–30 Vdc power 3.78 x 1.89 in (96 x 48 mm)                                                E5-496-E0402
+
+
+
+9    Technical Data and Specifications
+
+10   General Specifications
+     Description                                                         Specification
+
+11   Supply voltage
+     Current consumption
+                                                                         10–30 Vdc with reverse polarity protection; 90–260 Vac
+                                                                         Max. 50 mA 6 VA
+
+12   Display
+     Figure size
+                                                                         Six-digit red, seven-segment LED display
+                                                                         0.55 in (14 mm) high
+
+13
+     Data backup                                                         EEPROM
+     Housing                                                             Dimension 3.78 x 1.89 in (96 x 48 mm) according to DIN 43 700; RAL 7021 gray
+     Polarity of inputs                                                  Programmable, NPN or PNP for all inputs
+14   Input resistance                                                    Approx. 10 Kohms
+     Counting frequency                                                  60 kHz, can be damped to 30 Hz depending on operating mode at position display
+15                                                                       max. 25 kHz 1
+     Reset time                                                          5 ms
+
+16   Resolution timer                                                    Up to 0.001 second
+     Input switching level
+
+17    DC version (standard version)                                      High: 0.6 x UB–30 Vdc
+                                                                         Low: 0–0.2 x UB (Vdc)
+
+18
+      AC version                                                         High: 12–30 Vdc
+                                                                         Low: 0–4 Vdc
+     Voltage supply for sensors                                          24 Vdc ±15%/100 mA at AC versions
+19   Accuracy
+      Tachometer                                                         <0.1%
+20    Timer                                                              <50 ppm
+     Ambient temperature                                                 –4 to 149 °F (–20 to 65 °C)
+21   Storage temperature                                                 –13 to 167 °F (–25 to 75 °C)
+     EMC                                                                 According to EC EMC directive 89/36/EWG
+22   Immunity to interference                                            EN 61 000-6-4/ EN 55011 Class B
+     Emitted interference                                                EN 61-000-6-2
+23   Protection                                                          IP65 (from front)
+     Weight                                                              Approx. 5.29 oz (150 g)
+
+24   Note
+     1 For further specifications, please refer to the user manual.
+
+
+25
+     V12-T24-42                 Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—November 2016 www.eaton.com
+

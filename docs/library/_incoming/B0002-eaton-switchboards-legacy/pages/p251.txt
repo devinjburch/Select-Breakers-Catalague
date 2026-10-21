@@ -1,0 +1,104 @@
+     9                             Busway (Low Voltage)
+
+
+
+     Busway (Low Voltage)                       plug-in and feeder bus in        Westinghouse high frequency                 In 1966, Westinghouse
+1                                               ratings up to 1500A. All of      busway was introduced in                    introduced its first true
+                                                these early designs used         1958 to address the inherent                sandwich bus design with
+                                                separated, uninsulated           problems of transmitting                    H5000 feeder busway.
+2                                               busbars inside a totally         power at frequencies from                   H5000 was also the first
+                                                enclosed or perforated           180 to 20,000 Hz. Cutler-                   single bolt joint design
+                                                steel housing.
+3               Standard Plug-In
+                                                                                 Hammer high frequency BV
+                                                                                 (balanced voltage) busway
+                                                                                                                             offered by Westinghouse and
+                                                                                                                             it initially used a PVC shrink
+     Product Description                        In 1951, low impedance           was also marketed during                    tubing and later a Mylar®
+                                                feeder busway was
+4    Eaton’s Cutler-Hammer®                     introduced as the first
+                                                                                 the late 1950s and early
+                                                                                 1960s. Westinghouse high
+                                                                                                                             wrap for busbar insulation.
+                                                                                                                             A combination of steel and
+     low voltage busway consists                design to use heat-shrinkable
+     of aluminum or copper bars                                                  frequency busway and                        aluminum channels were
+5    inside a metal housing
+                                                tubing for insulation on the
+                                                busbars and a ventilated steel
+                                                                                 Cutler-Hammer BV busway                     used to form a lightweight
+     used for power distribution.                                                both found success in                       non-magnetic housing. The
+                                                housing. An internal ground      aircraft manufacturing plants,              grounding method for H5000
+6    Busway is available in
+     ampere ratings of 100–5000A.
+                                                bus was not available with       industrial induction heating                was similar to low impedance
+                                                this product line, but           systems, military missiles                  busway and an external
+     Busway is available as feeder              provisions were made for                                                     ground bus mounted onto
+7    (indoor or outdoor) and plug-in.           mounting an external ground
+                                                                                 and radar bases.
+                                                                                                                             the housing was the only
+     Feeder busway routes power                 bus directly to the busway       Electric utility busway
+     from point-to-point, whereas                                                                                            offering. H5000 plug-in
+                                                housing. Low impedance           was also introduced by
+8    plug-in busway allows for                  feeder and standard plug-in      Westinghouse in 1958 and
+                                                                                                                             busway rolled out in 1968
+                                                                                                                             as a non-sandwich design
+     power to be tapped off                     busway accounted for the         was designed to conduct
+     along a run as needed.                                                                                                  with separated and
+9    Busway is typically used in
+                                                majority of busway business
+                                                written by Westinghouse
+                                                                                 direct current with low
+                                                                                 voltage drop. By 1963,
+                                                                                                                             uninsulated busbars.
+     manufacturing buildings and                through the 1950s and into       electric utility busway had                 In 1970, the Eaton’s Cutler-
+10   high-rise office buildings.                the 1960s. Low impedance         been expanded to meet the                   Hammer Bethlehem, PA,
+     Product History                            plug-in busway was               growing industrial market                   plant introduced CP2
+                                                introduced in 1961. With         for direct current power and                SAFETYBUS that used an
+11   Westinghouse began
+     marketing low voltage
+                                                this design, the product         was marketed simply as DC                   innovative single bolt, bridge
+                                                offering was expanded to         busway. This product line                   joint design with a steel
+     busway in 1938. The first                  a maximum of 5000A for           was applied to feeding                      housing for plug-in, and a
+12   product offering was power                 feeder and 4000A for plug-in.    plating processes, welding                  combination of steel and
+     distribution busway, using a                                                installations, mill drives                  aluminum channels for the
+     multiple bolt joint that later             During the 1950s, various
+13   evolved into standard plug-in              other designs were introduced
+                                                                                 and motors.                                 feeder housing. CP2 used
+                                                                                                                             a Mylar wrap for busbar
+     busway. Victory bus duct was               to meet specific customer        In 1958, Westinghouse sold                  insulation and an Alstan®
+14   developed during the Second
+     World War to comply with
+                                                needs. Westinghouse Lifeline
+                                                Unibus, rolled out in 1955,
+                                                                                 the rights to the Life Line
+                                                                                 Unibus product line to EDP
+                                                                                                                             process for plating. The
+                                                                                                                             feeder busway was a
+     federal limitations placed on              provided low impedance           of Allentown, PA, which                     sandwich design while the
+15   usage of materials such as
+     steel and copper, which were
+                                                characteristics with plug-in     marketed EDP Unibus until                   plug-in design used separated
+                                                openings and incorporated        1962 when EDP became                        busbars that were braced and
+     critical to the war effort. In             flexible armored cable           a wholly owned subsidiary                   supported by corrugations
+16   1947, Westinghouse began                   into the design for use as       of Eaton. Eaton successfully                formed in the housing sides.
+     manufacturing busway at                    elbows, offsets and flat to      marketed Unibus until
+     the newly acquired facility in             edgewise adapters.               the product line was
+17   Beaver, PA, with standard                                                   discontinued in 1974.
+
+18
+19
+            Standard Plug-In                             H5000 Feeder                 Electric Utility (DC)                        Low Impedance Plug-In
+
+20
+21
+         Low Impedance Feeder                            High Frequency              H5000 Plug-In 225–1000A                         Current Limiting
+
+22
+23                       Typical Pow-R-Way Plug-In Straight Length                                   Typical Pow-R-Way II Plug-In Straight Length
+
+
+24
+25
+     V12-T9-2              Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,110 @@
+     5                           Loadcenters
+                                 Replacement Breakers
+
+
+
+     Product Description                      UL classified breakers           Understanding Classified
+1    Eaton UL classified
+                                              are produced by one              Breaker Terminology
+                                              manufacturer for use in
+     replacement circuit breakers                                              Definitions
+                                              place of the breakers
+2    are available in both 3/4-inch
+     Type CHQ and 1.00-inch
+                                              specified on the panelboard.     Specified Circuit Breaker—
+                                              Like specified breakers, UL      Each manufacturer lists the
+     Type CL, single- and two-pole                                             brands of circuit breakers
+                                              classified breakers have been
+3    configurations. These
+                                              tested in the panels for which   that can be used in their
+     breakers are classified as                                                panelboards. Often,
+                                              they are approved.
+     direct replacements by                                                    manufacturers will not list
+4    Underwriters Laboratories.               Testing                          competitors as specified,
+     In addition to a UL listing,                                              even though they are
+                                              Classified breakers are tested
+     they also come with a
+5    15-year warranty.
+                                              extensively in numerous          suitable replacements.
+                                              General Electric®, Siemens®,
+                                                                               Classified Circuit Breaker—
+                                              Murray®, Thomas & Betts®,
+6    Specified vs. UL Classified
+     Specified breakers are listed
+                                              Square D® and Crouse-
+                                                                               A breaker that is considered
+                                                                               suitable, by a qualified third-
+                                              Hinds® panels. The tests
+     by the manufacturer of the                                                party organization, for use
+                                              are conducted with
+7    panelboard for use in a
+                                              witnesses from Underwriters
+                                                                               in another manufacturer’s
+     particular panel. This doesn’t                                            panelboard.
+                                              Laboratories and involve
+     mean that the panelboard
+8    manufacturer produced the
+                                              short circuit, temperature
+                                              and insertion/withdrawal
+                                                                               Listed Breaker—The listing
+                                                                               of a circuit breaker is by an
+     specified breaker; it merely             applications. This level of
+     means that the panelboard                                                 independent third party. Eaton
+9    manufacturer has tested the
+                                              testing ensures that the         classified breakers are listed
+                                              breakers meet identified         by UL.
+     breaker in the panel. In fact,           standards and have been
+10   through the years, Eaton has
+     manufactured thousands of
+                                              found suitable by UL for         Labeled Breaker—A breaker
+                                              the specified purpose.           with a label affixed by an
+     breakers for other panelboard                                             independent third party.
+11   manufacturers.
+
+     Non-CTL Plug-On Replacement Circuit Breakers, Type CHNT 10 kAIC, 120/240 Vac
+12   For use as replacement in loadcenters built prior to 1968 and within the current style
+     loadcenters as indicated in the loadcenter section.
+13
+                         3/4-Inch (19.1 mm) per Pole 120 Vac, Non-CTL 10 kAIC
+
+14                                                                             Single-Pole Requires
+                                                                               One 3/4-Inch (19.1 mm) Space
+                                                                               10 per Shelf Carton
+15                       Ampere                    Wire Size Range
+                                                                               Catalog Number
+                                                                                            120/240 Vac
+                         Rating                    Cu/Al 60ºC or 75°C                       120/240 Vac
+
+16                       15–15                     #14–8                       CHNT1515 12
+                         15–20                     #14–8                       CHNT1520 12
+
+17                       20–20                     #14–8                       CHNT2020 12
+
+
+
+18   CTL Plug-On Circuit Breakers, Type CHT Twin 10 kAIC, 120/240 Vac
+     All circuit breakers have rejection feature. Use only with loadcenters marked for use with CHT breakers.
+19
+     Type CH and CHT     Twin (CTL) 3/4-Inch (19.1 mm) per Pole 120 Vac Class CTL 10 kAIC
+20   Circuit Breakers
+     Mounted in Twin
+                                                                               Single-Pole Requires
+                                                                               One 3/4-Inch (19.1 mm) Space
+     Breaker Panel
+                                                                               10 per Shelf Carton
+21                                                                             Catalog Number
+                         Ampere                    Wire Size Range
+                                                                                           120/240 Vac
+                         Rating                    Cu/Al 60ºC or 75°C                      120/240 Vac
+22                       15–15                     #14–8                       CHT1515 12
+                         15–20                     #14–8                       CHT1520 12
+23                       20–20                     #14–8                       CHT2020 12
+
+                         Notes
+24                       1 Switching duty rated.
+                         2 HACR rated.
+
+
+25
+     V12-T5-24          Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

@@ -1,0 +1,115 @@
+     3                       Molded-Case Circuit Breakers
+                             Replacement Capabilities
+
+
+
+     ■ Shaded area denotes obsolete or discontinued products and services. 1
+1    FB, HFB: 600 Vac; Type FB, HFB Single-, Two-, Three-, Four-Pole; 480V Max.; Thermal-Magnetic MARK 75® Saf-T-Vue
+     250 Vdc                              Single-Pole            Two-Pole                                    Three-Pole                                                   Four-Pole 34
+2                     Continuous
+                      Ampere
+                                          277 Vac; 125 Vdc 2     600 Vac; 250 Vdc 2                          600 Vac                                                      600 Vac
+                      Rating              MARK 75 5              Standard                MARK 75 6           Standard            Saf-T-Vue 6           MARK 75 7          Standard
+                      at 40°C             Catalog Number         Catalog Number          Catalog Number Catalog Number Catalog Number                  Catalog Number Catalog Number
+3                      15                 HFB1015 8              FB2015                  HFB2015             FB3015              FB3015S               HFB3015L           FB4015
+                       20                 HFB1020 8              FB2020                  HFB2020             FB3020              FB3020S               HFB3020L           FB4020
+4                      25                 HFB1025                FB2025                  HFB2025             FB3025              FB3025S               HFB3025L           FB4025
+                       30                 HFB1030                FB2030                  HFB2030             FB3030              FB3030S               HFB3030L           FB4030
+5                      35                 HFB1035                FB2035                  HFB2035             FB3035              FB3035S               HFB3035L           FB4035
+                       40                 HFB1040                FB2040                  HFB2040             FB3040              FB3040S               HFB3040L           FB4040
+
+6                      45
+                       50
+                                          HFB1045
+                                          HFB1050
+                                                                 FB2045
+                                                                 FB2050
+                                                                                         HFB2045
+                                                                                         HFB2050
+                                                                                                             FB3045
+                                                                                                             FB3050
+                                                                                                                                 FB3045S
+                                                                                                                                 FB3050S
+                                                                                                                                                       HFB3045L
+                                                                                                                                                       HFB3050L
+                                                                                                                                                                          FB4045
+                                                                                                                                                                          FB4050
+
+7
+                       60                 HFB1060                FB2060                  HFB2060             FB3060              FB3060S               HFB3060L           FB4060
+                       70                 HFB1070                FB2070                  HFB2070             FB3070              FB3070S               HFB3070L           FB4070
+                       80                 HFB1080                FB2080                  HFB2080             FB3080              FB3080S               HFB3080L           FB4080
+8                      90                 HFB1090                FB2090                  HFB2090             FB3090              FB3090S               HFB3090L           FB4090
+                       100                HFB1100                FB2100                  HFB2100             FB3100              FB3100S               HFB3100L           FB4100
+
+9                      110                —                      —                       —                   FB3110              FB3110S               HFB3110            —
+                       125                —                      —                       —                   FB3125              FB3125S               HFB3125            —
+
+10                     150                —                      —                       —                   FB3150              FB3150S               HFB3150            —
+
+
+                      UL Listed Interrupting Ratings 9
+11                    Maximum Volts                              Amperes
+                      MARK 75 Type HFB
+12                    240 AC                                     75,000 asymmetrical, 65,000 symmetrical
+                      277 AC 6                                   75,000 asymmetrical, 65,000 symmetrical
+13                    480 AC                                     30,000 asymmetrical, 25,000 symmetrical
+                      250 DC (two-pole)                          20,000 2j
+
+14                    Special Breakers Type FB, Magnetic Only, Front Adjustable
+
+15
+                                                               Two-Pole, 600 Vac                                 Three-Pole, 600 Vac
+                      Continuous           Magnetic
+                      Ampere               Trip Range          Standard                MARK 75                   Standard                  Saf-T-Vue                 MARK 75 7
+                      Rating               Amperes             Catalog/Style Number Catalog/Style Number Catalog/Style Number Catalog/Style Number                   Catalog/Style Number
+16                     3                   7–22                FB2022MRL               HFB2022ML                 FB3022MRL                 FB3022SMRL                HFB3022ML
+                       5                   15–45               FB2045MRL               HFB2045ML                 FB3045MRL                 FB3045SMRL                HFB3045ML
+
+17                     10                  35–110              FB2110MRL               HFB2110ML                 FB3110MRL                 FB3110SMRL                HFB3110ML
+                       25                  32–80               2610D53G12              4994D96G12                2610D53G30                4998D89G30                2610D57G30
+
+18
+                       25                  66–190              FB2190MRL               HFB2190ML                 FB3190MRL                 FB3190SMRL                HFB3190ML
+                       30                  50–150              1268C14G05              —                         1268C14G06                —                         —
+                       30                  90–270              FB2270MRL               HFB2270ML                 FB3270MRL                 FB3270SMRL                HFB3270ML
+19                     50                  66–190              1268C14G01              —                         1268C14G02                —                         —
+                       50                  160–480             FB2480MRL               HFB2480ML                 FB3480MRL                 FB3480SMRL                HFB3480ML
+
+20                     70
+                       100
+                                           100–270
+                                           150–480
+                                                               2610D53G13
+                                                               1268C14G03
+                                                                                       4994D96G13
+                                                                                       —
+                                                                                                                 2610D53G31
+                                                                                                                 1268C14G04
+                                                                                                                                           2610D58G31
+                                                                                                                                           81E4647
+                                                                                                                                                                     4994D96G31
+                                                                                                                                                                     65E4667
+                       100                 450–1550            FB21550MRL              HFB21550ML                FB31550MRL                FB31550SMRL               HFB31550ML
+21                    Notes
+                      1 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167.
+
+22                    2 DC ratings apply to substantially non-inductive circuits.
+                      3 Not UL Listed.
+                      4 All four poles have thermal-magnetic trip elements. Can be supplied with three protected poles and one unprotected, non-automatic pole if required.
+
+23                       Order by description with no price or dimensional differences.
+                      5 15–30A rated 75,000 AIC. 40–100A rated 30,000A asymmetrical, 25,000A symmetrical.
+                      6 Two-pole breakers are supplied in three-pole frames with current carrying parts omitted from center pole.
+
+24                    7 Includes line and load terminals. MARK 75 frame color changed from gray to black in mid-2002.
+                      8 Switching duty rated for 277 Vac fluorescent light applications only.
+                      9 Interrupting capacities shown do not apply to molded-case switches.
+
+25                    j Ratings above 10,000A not UL Listed.
+
+
+
+
+     V12-T3-16      Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

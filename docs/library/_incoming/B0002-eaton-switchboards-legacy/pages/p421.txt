@@ -1,0 +1,63 @@
+     13                         Motor Control
+                                Synchronous—Brushless Type Relay Slipsyn Class 14-100 Panel
+
+
+
+     Replacement Capabilities—Typical Components
+1                                                                              Technology Upgrades
+                                                                               For Brushless-Type Relay-Panel
+2                                                                              Slipsyn (Class 14-100) Upgrades
+                                                                               New synchronous field
+                                                                               controllers using the latest
+3                                                                              solid-state technology are
+                                                                               available. Replacements and
+4                                                                              upgrades for primary starter
+                                                                               and contactor components
+                  Rectifier                                                    are also available.
+5                                                                              Information Required from
+                                                                               Customer for Upgrade
+6                                               Pullout/Power Factor Relay     Evaluation
+                                                                                1. Original assembly
+                                                                                    nameplate data including
+7                                                                                   general order “GO”
+                                                                                    number as well as any
+                                                                                    drawing numbers.
+8
+                                                                                2. Complete motor data
+                                                                                   including horsepower,
+9                                                                                  phase, voltage/Hz, RPM,
+       Damper Winding Protection Relay                                             FLA, LRA, full-load DC
+                                                                                   amperes, power factor,
+10                                                                                 excitation voltage,
+                                                        Powerstat                  induced field amperes
+11                                         Note: Typical components used in
+                                                                                   at 95% speed and at 0%
+                                                                                   speed, and maximum
+                                           Relay Slipsyn Brushless Control—
+                                           Refer to RPD 8855S for renewal          time at zero speed
+12                                         parts for synchronous control.          (locked rotor).
+                                                                                3. Excitation control detail
+13                                                                                 such as “constant-
+                                                                                   potential” or “adjustable-
+                                                                                   potential.” Adjustable-
+14                Volt Trap
+                                                                                   potential usually requires
+                                                                                   a field rheostat (motor
+                                                                                   field-resistor).
+15
+                                                                                4. Detail on the motor’s
+                                                                                   function such as the
+16                                                                                 application data and
+                                                                                   other service conditions
+                                                                                   such as duty-cycle, etc.
+17
+18
+19
+20
+21
+22
+23
+24
+25
+     V12-T13-84           Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com
+

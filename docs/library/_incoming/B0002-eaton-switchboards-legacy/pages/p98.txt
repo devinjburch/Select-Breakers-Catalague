@@ -1,0 +1,77 @@
+                                                                            Molded-Case Circuit Breakers
+                                                                                                              Replacement Capabilities
+                                                                                                                                                                               3
+■ Shaded area denotes obsolete or discontinued products and services. 1
+                Panelboard Replacement Circuit Breakers (Includes Terminals on Load Side Only)                                                                                        1
+                Continuous Ampere                                      Catalog Number
+                Rating at 40°C                                         Two-Pole, 600 Vac                                       Three-Pole, 600 Vac                                    2
+                Type RHF Two-, Three-Pole, 600 Vac Maximum, Thermal-Magnetic
+Type RHF         15                                                    RHF2015                                                 RHF3015                                                3
+                 20                                                    RHF2020                                                 RHF3020
+                 25                                                    RHF2025                                                 RHF3025                                                4
+                 30                                                    RHF2030                                                 RHF3030
+                 40                                                    RHF2040                                                 RHF3040
+                                                                                                                                                                                      5
+                 50                                                    RHF2050                                                 RHF3050
+                 60
+                 70
+                                                                       RHF2060
+                                                                       RHF2070
+                                                                                                                               RHF3060
+                                                                                                                               RHF3070
+                                                                                                                                                                                      6
+                 80
+                 90
+                                                                       RHF2080
+                                                                       RHF2090
+                                                                                                                               RHF3080
+                                                                                                                               RHF3090
+                                                                                                                                                                                      7
+                                                                                                                                                                                      8
+                 100                                                   RHF2100                                                 RHF3100
+Type RJ         Type RJ Two-, Three-Pole, 600 Vac Maximum, Thermal-Magnetic
+                 70                                                    RJ2070                                                  RJ3070
+                 90                                                    RJ2090                                                  RJ3090
+                                                                                                                                                                                      9
+                 100                                                   RJ2100                                                  RJ3100
+                 125                                                   RJ2125                                                  RJ3125                                                 10
+                 150                                                   RJ2150                                                  RJ3150
+                 175                                                   RJ2175                                                  RJ3175                                                 11
+                 200                                                   RJ2200                                                  RJ3200
+                 225                                                   RJ2225                                                  RJ3225                                                 12
+                 225 MCS                                               RJ2225K                                                 RJ3225K
+Type RK         Type RK Two-, Three-Pole, 600 Vac Maximum, Thermal-Magnetic                                                                                                           13
+                 70                                                    RK2070                                                  RK3070
+                 90                                                    RK2090                                                  RK3090                                                 14
+                 100                                                   RK2100                                                  RK3100
+                 125                                                   RK2125                                                  RK3125                                                 15
+                 150                                                   RK2150                                                  RK3150
+                 175                                                   RK2175                                                  RK3175
+                                                                                                                                                                                      16
+                 200                                                   RK2200                                                  RK3200
+                 225                                                   RK2225                                                  RK3225
+                                                                                                                                                                                      17
+                 225 MCS                                               RK2225K                                                 RK3225K
+Type RKL        Type RKL Two-, Three-Pole, 600 Vac Maximum, Thermal-Magnetic
+                 125                                                   RKL2125                                                 RKL3125
+                                                                                                                                                                                      18
+                                                                                                                                                                                      19
+                 150                                                   RKL2150                                                 RKL3150
+                 175                                                   RKL2175                                                 RKL3175
+                 200                                                   RKL2200                                                 RKL3200
+                 225                                                   RKL2225                                                 RKL3225
+                                                                                                                                                                                      20
+                 250                                                   RKL2250                                                 RKL3250
+                 300                                                   RKL2300                                                 RKL3300                                                21
+                 350                                                   RKL2350                                                 RKL3350
+                 400                                                   RKL2400                                                 RKL3400                                                22
+                 400 MCS                                               RKL2400K                                                RKL3400K
+
+                Note
+                                                                                                                                                                                      23
+                1 These frames are obsolete. For replacement solutions, see the cross-reference on Pages V12-T3-114–V12-T3-167 or call 803-481-6843 for other panelboard solutions.
+
+                                                                                                                                                                                      24
+                                                                                                                                                                                      25
+             Volume 12—Aftermarket, Renewal Parts and Life Extension Solutions CA08100014E—October 2016 www.eaton.com                                                   V12-T3-85
+

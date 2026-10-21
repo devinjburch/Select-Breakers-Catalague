@@ -1,0 +1,381 @@
+I-Line™ (HCP, HCP-SU, and HCRU) Panelboards and
+Switchboards—Blank Extension Installation
+
+Tableros de alumbrado y distribución I-Line™ (HCP, HCP-SU
+y HCRU)—Instalación de extensiones de relleno
+
+Panneaux de distribution et de commutation I-LineMC (HCP,
+HCP-SU et H8CRU)—Installation du prolongateur de
+remplissage
+Instruction Bulletin
+Boletín de instrucciones
+Directives d'utilisation
+80030-695-02
+09/2011
+Retain for Future Use. /
+Conservar para uso futuro. /
+À conserver pour usage ultérieur.
+                                                                                                                     80030-695-02
+Instruction Bulletin                                                                                                      09/2011
+
+
+
+I-Line™ (HCP, HCP-SU, and HCRU) Panelboards and
+
+
+
+
+                                                                                                                                        ENGLISH
+Switchboards—Blank Extension Installation
+Class 2110
+Retain for future use.
+
+
+
+
+Introduction                                           This bulletin contains instructions for installing Square D™ brand I-Line™
+                                                       panelboard and switchboard blank extensions manufactured by
+                                                       Schneider Electric. These instructions apply to all I-Line panelboards and
+                                                       switchboards that use blank extensions on the deadfront, behind a circuit
+                                                       breaker, or to fill empty spaces.
+
+
+
+
+Safety Precautions
+
+                                                            DANGER
+ HAZARD OF ELECTRIC SHOCK, EXPLOSION, OR ARC FLASH
+ • Apply appropriate personal protective equipment (PPE) and follow safe electrical work practices. See NFPA 70E.
+ • This equipment must only be installed and serviced by qualified electrical personnel.
+ • Turn off all power supplying this equipment before working on or inside equipment.
+ • Always use a properly rated voltage sensing device to confirm power is off.
+ • Replace all devices, doors, and covers before turning on power to this equipment.
+
+ Failure to follow these instructions will result in death or serious injury.
+
+
+
+
+Tools Needed
+                                                   •   Phillips-head screwdriver
+
+
+
+
+Installing Blank Extensions
+
+         Turn off all power supplying this equipment before working inside the panelboard or switchboard;
+         follow all lockout/tagout procedures.
+
+
+
+
+                                                                                                                                    ™
+© 2011 Schneider Electric USA, Inc. All Rights
+          I-Line™ (HCP, HCP-SU, and HCRU) Panelboards and Switchboards—Blank Extension Installation                                              80030-695-02
+          Instruction Bulletin                                                                                                                        09/2011
+
+
+
+              1 Install the blank extension in the appropriate deadfront of the I-Line panelboard/switchboard, using the table below for
+                reference.
+ENGLISH
+
+
+
+
+                                                                   Circuit Breaker
+                 Circuit Breaker Frame                                                            Branch Circuit Side                  Catalog Number
+                                                                   Mounting Height
+                                                                   1.5 in. (38.1 mm)              Wide Side                            HLW1BL
+
+                 All applications except PowerPact H/J             4.5 in. (114.3 mm)             Wide Side                            HLW4BL
+                 with Micrologic Trip Unit 5/6                     1.5 in. (38.1 mm)              Narrow Side                          HLN1BL
+                                                                   4.5 in. (114.3 mm)             Narrow Side                          HLN4BL
+
+                 Only PowerPact H/J Breakers                       4.5 in. (114.3 mm)             Narrow Side                          HLN4EBL
+                 with Micrologic Trip Unit 5/6                     4.5 in. (114.3 mm)             Wide Side                            HLW4EBL
+
+
+              2 Secure the blank extension to the interior deadfront.
+
+
+
+
+                                 Blank Extension HLN4BL on narrow side                        Blank Extension HLN4EBL on narrow side
+
+
+
+
+                                  Blank Extension HLW4BL on wide side                          Blank Extension HLW4EBL on wide side
+
+
+              3 Mount the blank extension over the mounting bracket in the deadfront, as shown.
+
+
+
+
+              4 Re-energize the panelboard/switchboard.
+          NOTE: This instruction bulletin applies for I-Line panelboards and QED2 switchboards manufactured after 2011. For technical
+          support on the installation of this kit, contact the Square D/Schneider Electric Customer Information Center at 1-888-SquareD
+          (1-888-778-2733).
+                                                                         Electrical equipment should be installed, operated, serviced, and maintained only by
+          Schneider Electric USA, Inc.                                   qualified personnel. No responsibility is assumed by Schneider Electric for any
+          252 North Tippecanoe                                           consequences arising out of the use of this material.
+          Peru, IN 46970 USA                                             I-Line™, Square D™, and Schneider Electric™ are trademarks or registered
+          1-888-SquareD (1-888-778-2733)                                 trademarks of Schneider Electric. Other trademarks used herein are the property of
+          www.schneider-electric.us                                      their respective owners.
+
+
+          2                                                                                                     © 2011 Schneider Electric All Rights Reserved
+                                                                                                                        80030-695-02
+Boletín de instrucciones                                                                                                     09/2011
+
+
+
+Tableros de alumbrado y distribución I-Line™ (HCP, HCP-SU
+y HCRU)—Instalación de extensiones de relleno
+Clase 2110
+Conservar para uso futuro.
+
+
+
+
+                                                                                                                                         ESPAÑOL
+Introducción                                              Este boletín contiene las instrucciones de instalación de las extensiones de
+                                                          relleno en los tableros de alumbrado y distribución I-Line™ marca
+                                                          Square D™ fabricados por Schneider Electric. Estas instrucciones son
+                                                          aplicables para todos los tableros de alumbrado y distribución I-Line que
+                                                          usan extensiones de relleno en el frente muerto, detrás de un interruptor
+                                                          automático o para cubrir espacios vacíos.
+
+
+
+
+Precauciones de seguridad
+
+                                                               DANGER
+ PELIGRO DE DESCARGA ELÉCTRICA, EXPLOSIÓN O DESTELLO POR ARQUEO
+ • Utilice equipo de protección personal (EPP) apropiado y siga las prácticas de seguridad en trabajos eléctricos establecidas
+   por su Compañía, consulte la norma 70E de NFPA y NOM-029-STPS.
+ • Solamente el personal eléctrico especializado deberá instalar y prestar servicio de mantenimiento a este equipo.
+ • Desenergice el equipo antes de realizar cualquier trabajo dentro o fuera de él.
+ • Siempre utilice un dispositivo detector de tensión nominal adecuado para confirmar la desenergización del equipo.
+ • Vuelva a colocar todos los dispositivos, las puertas y las cubiertas antes de volver a energizar el equipo.
+
+ El incumplimiento de estas instrucciones podrá causar la muerte o lesiones serias.
+
+
+
+
+Herramientas necesarias
+
+                                                    •     Destornillador Phillips
+
+
+
+
+Instalación de extensiones de
+relleno
+
+         Desenergice el equipo antes de realizar cualquier trabajo dentro del tablero de alumbrado o distribución.
+         siga los procedimientos de bloqueo y etiquetado.
+
+
+
+
+                                                                                                                                     ™
+© 2011 Schneider Electric Reservados todos los derechos
+          Tableros de alumbrado y distribución I-Line™ (HCP, HCP-SU y HCRU)—Instalación de extensiones de relleno                                   80030-695-02
+          Boletín de instrucciones                                                                                                                       09/2011
+
+
+
+              1 Instale la extensión de relleno en el frente muerto apropiado del tablero de alumbrado/distribución I-Line, consultando la
+                tabla abajo como referencia.
+
+                                                                     Altura de montaje del
+                 Marco del interruptor automático                                                      Lado del circuito derivado         Número de catálogo
+                                                                     interruptor automático
+                                                                     38,1 mm (1,5 pulg)                Lado ancho                         HLW1BL
+
+                 Todas las aplicaciones excepto PowerPact marcos     114,3 mm (4,5 pulg)               Lado ancho                         HLW4BL
+                 H/J con unidades de disparo Micrologic 5/6          38,1 mm (1,5 pulg)                Lado angosto                       HLN1BL
+                                                                     114,3 mm (4,5 pulg)               Lado angosto                       HLN4BL
+
+                 Únicamente interruptores automáticos PowerPact      114,3 mm (4,5 pulg)               Lado angosto                       HLN4EBL
+                 marcos H/J con unidades de disparo Micrologic 5/6   114,3 mm (4,5 pulg)               Lado ancho                         HLW4EBL
+ESPAÑOL
+
+
+
+
+              2 Sujete la extensión de relleno al frente muerto interior.
+
+
+
+
+                            Extensión de relleno HLN4BL en el lado angosto                   Extensión de relleno HLN4EBL en el lado angosto
+
+
+
+
+                              Extensión de relleno HLW4BL en el lado ancho                   Extensión de relleno HLW4EBL en el lado ancho
+
+
+              3 Monte la extensión de relleno sobre el soporte de montaje en el frente muerto como se ilustra.
+
+
+
+
+              4 Vuelva a energizar el tablero de alumbrado/distribución.
+          NOTA: Las instrucciones de este boletín son aplicables para los tableros de alumbrado I-Line y tableros de distribución QED2
+          fabricados después del 2011. Para obtener asistencia técnica sobre la instalación de este kit, póngase en contacto con el centro
+          de información al cliente de Square D/Schneider Electric llamando al 1-888-778-2733 (en EUA) o al 01(800) 724 63 43 37
+          (en México).                                       Solamente el personal especializado deberá instalar, hacer funcionar y prestar
+          Importado en México por:                                           servicios de mantenimiento al equipo eléctrico. Schneider Electric no asume
+          Schneider Electric USA, Inc.                                       responsabilidad alguna por las consecuencias emergentes de la utilización de este
+          Calz. J. Rojo Gómez 1121-A                                         material.
+          Col. Gpe. del Moral 09300 México, D.F.
+          Tel. 55-5804-5000
+                                                                             I-Line™, Square D™ y Schneider Electric™ son marcas comerciales o marcas
+          www.schneider-electric.com.mx                                      registradas de Schneider Electric. Cualquier otra marca comercial utilizada en este
+                                                                             documento pertenece a sus respectivos propietarios.
+          2                                                                                             © 2011 Schneider Electric Reservados todos los derechos
+                                                                                                                         80030-695-02
+Directives d’utilisation                                                                                                      09/2011
+
+Panneaux de distribution et de commutation I-LineMC (HCP,
+HCP-SU et HCRU)—Installation du prolongateur de
+remplissage
+Classe 2110
+À conserver pour usage ultérieur.
+
+
+
+
+Introduction                                             Ce bulletin contient les directives pour l'installation des prolongateurs de
+                                                         remplissage des panneaux de distribution et de commutation I-LineMC de la
+                                                         marque Square DMC fabriqués par Schneider Electric. Ces directives
+                                                         concernent tous les panneaux de distribution et de commutation I-Line qui
+                                                         emploient des prolongateurs de remplissage sur l'écran isolant, derrière un
+                                                         disjoncteur ou pour remplir des espaces vides.
+
+
+
+
+Mesures de sécurité
+
+
+
+
+                                                                                                                                           FRANÇAIS
+                                                              DANGER
+ RISQUE D'ÉLECTROCUTION, D'EXPLOSION OU D'ÉCLAIR D'ARC
+ • Portez un équipement de protection personnelle (ÉPP) approprié et observez les méthodes de travail électrique sécuritaire.
+   Voir NFPA 70E.
+ • Seul un personnel qualifié doit effectuer l'installation et l'entretien de cet appareil.
+ • Coupez toutes les alimentations à cet appareil avant d’y travailler.
+ • Utilisez toujours un dispositif de détection de tension à valeur nominale appropriée pour vous assurer que l'alimentation est coupée.
+ • Replacez tous les dispositifs, les portes et les couvercles avant de mettre l'appareil sous tension.
+
+ Si ces directives ne sont pas respectées, cela entraînera la mort ou des blessures graves.
+
+
+
+
+Outils nécessaires
+                                                     •   Tournevis à tête cruciforme (Phillips)
+
+
+
+
+Installation des prolongateurs de remplissage
+
+         Couper l'alimentation de cet appareil avant de travailler à l'intérieur du panneau de distribution ou de commutation.
+         Observer toutes les procédures d'interverrouillage et d’étiquetage.
+
+
+
+
+                                                                                                                                       ™
+© 2011 Schneider Electric Tous droits réservés
+           Panneaux de distribution/commutation I-LineMC (HCP, HCP-SU et HCRU)—Installation du prolongateur de remplissage                                    80030-695-02
+           Directives d’utilisation                                                                                                                                09/2011
+
+
+
+               1 Installer le prolongateur de remplissage dans l'écran isolant approprié du panneau de distribution/commutation I-Line, en
+                 utilisant le tableau ci-dessous comme référence.
+
+                  Châssis du disjoncteur                     Hauteur de montage du disjoncteur               Côté du circuit de dérivation               Nº de catalogue
+                                                             38,1 mm (1,5 po)                                Côté large                                  HLW1BL
+
+                  Toutes les applications sauf PowerPact H/J 114,3 mm (4,5 po)                               Côté large                                  HLW4BL
+                  avec déclencheur Micrologic 5/6            38,1 mm (1,5 po)                                Côté étroit                                 HLN1BL
+                                                             114,3 mm (4,5 po)                               Côté étroit                                 HLN4BL
+
+                  Disjoncteurs PowerPact H/J avec            114,3 mm (4,5 po)                               Côté étroit                                 HLN4EBL
+                  déclencheur Micrologic 5/6 uniquement      114,3 mm (4,5 po)                               Côté large                                  HLW4EBL
+
+
+               2 Fixer le prolongateur de remplissage à l'écran isolant intérieur.
+FRANÇAIS
+
+
+
+
+                       Prolongateur de remplissage HLN4BL sur le côté étroit                     Prolongateur de remplissage HLN4EBL sur le côté étroit
+
+
+
+
+                      Prolongateur de remplissage HLW4BL sur le côté large                       Prolongateur de remplissage HLW4EBL sur le côté large
+
+
+               3 Monter le prolongateur de remplissage sur le support de montage de l'écran isolant, comme illustré.
+
+
+
+
+               4 Remettre le panneau de commutation/distribution sous tension.
+           REMARQUE : Ces directives d'utilisation concernent les panneaux de distribution I-Line et les panneaux de commutation QED2
+           fabriqués après 2011. Pour obtenir une assistance technique sur l’installation de ce kit, contacter le centre d’informations à la
+           clientèle Square D/Schneider Electric au 1-888-778-2733 (É.-U.).
+                                                                               Seul un personnel qualifié doit effectuer l’installation, l’utilisation, l’entretien et la
+                                                                               maintenance du matériel électrique. Schneider Electric n’assume aucune
+           Schneider Electric Canada, Inc.                                     responsabilité des conséquences éventuelles découlant de l’utilisation de cette
+           5985 McLaughlin Road                                                documentation.
+           Mississauga, ON L5R 1B8 Canada                                      I-LineMC, Square DMC et Schneider ElectricMC sont marques commerciales ou
+           Tel:1-800-565-6699                                                  marques déposées de Schneider Electric. Toutes autres marques commerciales
+           www.schneider-electric.ca                                           utilisées dans ce document sont la propriété de leurs propriétaires respectifs.
+
+           2                                                                                                               © 2011 Schneider Electric Tous droits réservés
+I-Line™ (HCP, HCP-SU, and HCRU) Panelboards and Switchboards—Blank Extension Installation
+Tableros de alumbrado y distribución I-Line™ (HCP, HCP-SU y HCRU)—Instalación de extensiones de relleno
+Panneaux de distribution/commutation I-LineMC (HCP, HCP-SU et HCRU)—Installation du prolongateur de remplissage
+
+
+
+
+Electrical equipment should be installed,           Solamente el personal especializado deberá instalar,    Seul un personnel qualifié doit effectuer l’installation,
+operated, serviced, and maintained only by          hacer funcionar y prestar servicios de mantenimiento    l’utilisation, l’entretien et la maintenance du matériel
+qualified personnel. No responsibility is assumed   al equipo eléctrico. Schneider Electric no asume        électrique. Schneider Electric n’assume aucune
+by Schneider Electric for any consequences          responsabilidad alguna por las consecuencias            responsabilité des conséquences éventuelles
+arising out of the use of this material.            emergentes de la utilización de este material.          découlant de l’utilisation de cette documentation.
+Square D™ and Schneider Electric™ are               Square D™ y Schneider Electric™ son marcas              Square DMC et Schneider ElectricMC sont marques
+trademarks or registered trademarks of              comerciales o marcas registradas de Schneider           commerciales ou marques déposées de Schneider
+Schneider Electric. Other trademarks used           Electric. Cualquier otra marca comercial utilizada en   Electric. Toutes autres marques commerciales utilisées
+herein are the property of their respective         este documento pertenece a sus respectivos              dans ce document sont la propriété de leurs
+owners.                                             propietarios.                                           propriétaires respectifs.
+                                                    Importado en México por:
+Schneider Electric USA, Inc.                        Schneider Electric México, S.A. de C.V.                 Schneider Electric Canada, Inc.
+252 North Tippecanoe                                Calz. J. Rojo Gómez 1121-A                              5985 McLaughlin Road
+Peru, IN 46970 USA                                  Col. Gpe. del Moral 09300 México, D.F.                  Mississauga On, L5R 1B8
+1-888-SquareD (1-888-778-2733)                      Tel. 55-5804-5000                                       Tel:1-800-565-6699
+www.schneider-electric.us                           www.schneider-electric.com.mx                           www.schneider-electric.ca
+80030-695-02 09/2011                                80030-695-02 09/2011                                    80030-695-02 09/2011
+© 2011 Schneider Electric USA, Inc.                 © 2011 Schneider Electric USA, Inc.                     © 2011 Schneider Electric USA, Inc.
+All Rights Reserved                                 Reservados todos los derechos                           Tous droits réservés
+
